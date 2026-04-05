@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T21:32:34.948007+00:00",
+  "last_updated": "2026-04-05T21:58:42.025356+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -17780,10 +17780,12 @@
     {
       "name": "NeighborhoodAC",
       "slug": "polsia-neighborhoodac",
+      "description": "Smart territory management for HVAC companies in Minnesota. Track service areas, manage zip codes, and optimize your coverage.",
+      "category": "Other",
       "website": "https://neighborhoodac.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T14:48:37.217036+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-05T21:58:29.090307+00:00"
     },
     {
       "name": "WellPulseOS",
@@ -18234,12 +18236,14 @@
       "scraped_at": "2026-04-05T17:47:19.431801+00:00"
     },
     {
-      "name": "ClaimSherpa",
+      "name": "ClaimSherpa — AI",
       "slug": "polsia-claimsherpa",
+      "description": "Get step-by-step guidance for your car insurance claim. Understand the process, know your options, and navigate your claim with confidence.",
+      "category": "AI & Machine Learning",
       "website": "https://claimsherpa.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T18:23:03.304834+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-05T21:58:33.268930+00:00"
     },
     {
       "name": "SolarKleanOS",
@@ -18512,6 +18516,94 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-04-05T21:32:27.240714+00:00"
+    },
+    {
+      "name": "SwapScore",
+      "slug": "polsia-swapscore",
+      "description": "A protein bar scores differently for someone cutting weight vs. someone training for a marathon. Same product, different score. That's the point.",
+      "category": "Education",
+      "website": "https://swapscore.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T21:58:19.564558+00:00"
+    },
+    {
+      "name": "EpureauOS",
+      "slug": "polsia-epureauos",
+      "website": "https://epureauos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T21:58:20.019841+00:00"
+    },
+    {
+      "name": "ClearMind RCM",
+      "slug": "polsia-clearmind-rcm",
+      "description": "Psychiatric practices face unique billing challenges that general medical billers aren't equipped to handle. Modifier confusion, session-based coding, payer-specific rules for therapy vs. med management, and the maze of ketamine reimbursement.",
+      "category": "Health & Wellness",
+      "website": "https://clearmind-rcm.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T21:58:20.433933+00:00"
+    },
+    {
+      "name": "AlderAlloyOS",
+      "slug": "polsia-alderallyos",
+      "description": "Custom carpentry and tile work for homes across the Puget Sound. We don't do mediocre. Every trim cut, every tile laid, every wall painted exists to make your space the one people talk about.",
+      "category": "Other",
+      "website": "https://alderallyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T21:58:20.640538+00:00"
+    },
+    {
+      "name": "Revelri",
+      "slug": "polsia-revelri-lv",
+      "description": "Venue calendars, social feeds, ticketing platforms, local blogs. Revelri watches hundreds of sources so you don't have to open a single one.",
+      "category": "Software & SaaS",
+      "website": "https://revelri-lv.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T21:58:21.077233+00:00"
+    },
+    {
+      "name": "SimSmpOS",
+      "slug": "polsia-simsmpos",
+      "website": "https://simsmpos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T21:58:21.317119+00:00"
+    },
+    {
+      "name": "Cedar Sage Botanical",
+      "slug": "polsia-cedar-sage-botanical",
+      "website": "https://cedar-sage-botanical.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T21:58:21.651376+00:00"
+    },
+    {
+      "name": "La Tua Idea",
+      "slug": "polsia-latuaidea",
+      "website": "https://latuaidea.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T21:58:22.014521+00:00"
+    },
+    {
+      "name": "Dayblok",
+      "slug": "polsia-dayblok",
+      "website": "https://dayblok.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T21:58:22.316699+00:00"
+    },
+    {
+      "name": "SortedMT",
+      "slug": "polsia-sortedmt",
+      "website": "https://sortedmt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T21:58:22.716174+00:00"
     }
   ]
 }
