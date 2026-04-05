@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T17:04:04.475313+00:00",
+  "last_updated": "2026-04-05T17:47:23.460455+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -18054,10 +18054,12 @@
     {
       "name": "BerryOS",
       "slug": "polsia-berryos",
+      "description": "Berry & Berry Consulting has spent years making that happen inside federal agencies. BerryOS exists to make sure the business behind that mission runs just as well as the training it delivers.",
+      "category": "Education",
       "website": "https://berryos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T17:03:54.249306+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-05T17:47:22.619602+00:00"
     },
     {
       "name": "ProdPay — Stop Chasing. Start Getting Paid.",
@@ -18080,12 +18082,14 @@
       "scraped_at": "2026-04-05T17:03:54.867818+00:00"
     },
     {
-      "name": "SpeakSteady",
+      "name": "SpeakSteady — Your AI Speech Coach",
       "slug": "polsia-speaksteady",
+      "description": "SpeakSteady exists because fluency shouldn't depend on how many therapy hours you can afford. With an AI coach available anytime, people who stutter can practice on their own terms, build real confidence, and show up to their next session ready to go further.",
+      "category": "AI & Machine Learning",
       "website": "https://speaksteady.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T17:03:55.085088+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-05T17:47:22.687569+00:00"
     },
     {
       "name": "Tumar — AI Marketing Agent for Central Asia",
@@ -18118,10 +18122,12 @@
     {
       "name": "Runwell",
       "slug": "polsia-runwell-3",
+      "description": "Runwell is an AI agent that handles your customer messages, books appointments, sends invoices, and follows up on leads. Autonomously. 24 hours a day, 7 days a week.",
+      "category": "AI & Machine Learning",
       "website": "https://runwell-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T17:03:56.322432+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-05T17:47:22.874108+00:00"
     },
     {
       "name": "SongNest — AI That Writes Like You",
@@ -18142,6 +18148,88 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-05T17:03:57.027534+00:00"
+    },
+    {
+      "name": "ReplyDesk",
+      "slug": "polsia-replydesk-2",
+      "website": "https://replydesk-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:47:18.185578+00:00"
+    },
+    {
+      "name": "GripForge",
+      "slug": "polsia-gripforge",
+      "website": "https://gripforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:47:18.357095+00:00"
+    },
+    {
+      "name": "ShoreForge",
+      "slug": "polsia-shoreforge",
+      "website": "https://shoreforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:47:18.595385+00:00"
+    },
+    {
+      "name": "Clinch",
+      "slug": "polsia-clinch-4",
+      "description": "Clinch finds your ideal customers, writes personalized outreach, follows up relentlessly, and books meetings on your calendar. Fully autonomous. Runs while you sleep.",
+      "category": "Sales & CRM",
+      "website": "https://clinch-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T17:47:18.769181+00:00"
+    },
+    {
+      "name": "omthespotpressurewashings.om",
+      "slug": "polsia-omthespotpressurewashingsom",
+      "website": "https://omthespotpressurewashingsom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:47:18.875597+00:00"
+    },
+    {
+      "name": "Sasafrass",
+      "slug": "polsia-sasafrass",
+      "website": "https://sasafrass.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:47:18.950733+00:00"
+    },
+    {
+      "name": "AlbeOS",
+      "slug": "polsia-albeos",
+      "website": "https://albeos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:47:19.066535+00:00"
+    },
+    {
+      "name": "Conventis",
+      "slug": "polsia-conventis",
+      "website": "https://conventis.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:47:19.175595+00:00"
+    },
+    {
+      "name": "WriteLoom",
+      "slug": "polsia-writeloom",
+      "website": "https://writeloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:47:19.373422+00:00"
+    },
+    {
+      "name": "Porchlamp",
+      "slug": "polsia-porchlamp-2",
+      "website": "https://porchlamp-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:47:19.431801+00:00"
     }
   ]
 }
