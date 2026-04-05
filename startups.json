@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T16:28:55.516431+00:00",
+  "last_updated": "2026-04-05T17:04:04.475313+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -17954,12 +17954,14 @@
       "scraped_at": "2026-04-05T15:51:48.853249+00:00"
     },
     {
-      "name": "The Slice Syndicate",
+      "name": "The Slice Syndicate — Wood",
       "slug": "polsia-slice-syndicate",
+      "description": "Most mobile pizza operations are a person and an oven. The Slice Syndicate is different: a highly trained, experienced chef leads a three-person crew operating a fully equipped trailer kitchen. Every slice is crafted with the same care you'd expect from a top restaurant, served fresh from a wood-fired oven at your event.",
+      "category": "Food & Beverage",
       "website": "https://slice-syndicate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T16:28:44.894606+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-05T17:04:03.720495+00:00"
     },
     {
       "name": "Cloutbase",
@@ -18048,6 +18050,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-05T16:28:47.353454+00:00"
+    },
+    {
+      "name": "BerryOS",
+      "slug": "polsia-berryos",
+      "website": "https://berryos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:03:54.249306+00:00"
+    },
+    {
+      "name": "ProdPay — Stop Chasing. Start Getting Paid.",
+      "slug": "polsia-prodpay",
+      "description": "ProdPay sends polite, persistent reminders to your clients via email and WhatsApp until they pay. You set the schedule. We do the nagging.",
+      "category": "Newsletter & Email",
+      "website": "https://prodpay.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T17:03:54.592064+00:00"
+    },
+    {
+      "name": "MetalMindOS",
+      "slug": "polsia-metalmindos",
+      "description": "Most metal fabrication shops in the Mid-Atlantic quote jobs over the phone, track progress on whiteboards, and lose money on jobs they forgot to follow up on. The industry is ripe for one shop to go fully digital and dominate.",
+      "category": "E-Commerce & Retail",
+      "website": "https://metalmindos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T17:03:54.867818+00:00"
+    },
+    {
+      "name": "SpeakSteady",
+      "slug": "polsia-speaksteady",
+      "website": "https://speaksteady.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:03:55.085088+00:00"
+    },
+    {
+      "name": "Tumar — AI Marketing Agent for Central Asia",
+      "slug": "polsia-tumar",
+      "description": "Tumar creates, schedules, and optimizes social media content for your business. In Kazakh, Russian, and English. Autonomously. Around the clock.",
+      "category": "AI & Machine Learning",
+      "website": "https://tumar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T17:03:55.452917+00:00"
+    },
+    {
+      "name": "Qaleo",
+      "slug": "polsia-qaleo",
+      "website": "https://qaleo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:03:55.712318+00:00"
+    },
+    {
+      "name": "LegacyOps",
+      "slug": "polsia-legacyops",
+      "description": "Boutique leadership firms deliver world-class coaching, then track it all in email threads and Google Sheets. Client notes get lost. Follow-ups fall through. Proposals take days instead of hours. The firms transforming organizations deserve better infrastructure.",
+      "category": "Marketing & Advertising",
+      "website": "https://legacyops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T17:03:56.093983+00:00"
+    },
+    {
+      "name": "Runwell",
+      "slug": "polsia-runwell-3",
+      "website": "https://runwell-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T17:03:56.322432+00:00"
+    },
+    {
+      "name": "SongNest — AI That Writes Like You",
+      "slug": "polsia-songnest",
+      "description": "They produce generic lines that could belong to anyone. SongNest is different. It holds your creative identity in memory, so every verse, every chorus, every bridge sounds unmistakably like you wrote it.",
+      "category": "AI & Machine Learning",
+      "website": "https://songnest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T17:03:56.690472+00:00"
+    },
+    {
+      "name": "GainScope — Only Profitable Signals",
+      "slug": "polsia-gainscope",
+      "description": "GainScope watches stocks, crypto, and forex around the clock. Its AI only alerts you when the probability of profit crosses the threshold you set. Everything else gets filtered out.",
+      "category": "AI & Machine Learning",
+      "website": "https://gainscope.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T17:03:57.027534+00:00"
     }
   ]
 }
