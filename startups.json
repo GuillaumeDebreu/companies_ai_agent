@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T15:51:52.035030+00:00",
+  "last_updated": "2026-04-05T16:28:55.516431+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -17686,10 +17686,12 @@
     {
       "name": "FactuurWacht",
       "slug": "polsia-factuurwacht",
+      "description": "FactuurWacht helpt ZZP'ers en MKB's bij het controleren van facturen op veelvoorkomende vereisten en het automatisch versturen van betalingsherinneringen. Probeer de gratis factuurcheck.",
+      "category": "Other",
       "website": "https://factuurwacht.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T14:00:22.375983+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-05T16:28:50.743422+00:00"
     },
     {
       "name": "FacelessFlow",
@@ -17824,12 +17826,14 @@
       "scraped_at": "2026-04-05T15:19:32.262858+00:00"
     },
     {
-      "name": "MicDropOS",
+      "name": "MicdropOS",
       "slug": "polsia-micdropos",
+      "description": "Most SDoH platforms serve insurance companies and hospital systems. Micdrop Health flips that model. We bring Social Determinants of Health awareness directly to individuals and communities, because wellness shouldn't require an enterprise contract.",
+      "category": "Health & Wellness",
       "website": "https://micdropos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T15:19:32.428499+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-05T16:28:54.784638+00:00"
     },
     {
       "name": "BoostArtisan — Sites web modernes pour artisans",
@@ -17948,6 +17952,102 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-05T15:51:48.853249+00:00"
+    },
+    {
+      "name": "The Slice Syndicate",
+      "slug": "polsia-slice-syndicate",
+      "website": "https://slice-syndicate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T16:28:44.894606+00:00"
+    },
+    {
+      "name": "Cloutbase",
+      "slug": "polsia-cloutbase",
+      "description": "Cloutbase is an AI agent that runs your entire online presence. Content, social media, reviews, engagement. It works while you sleep.",
+      "category": "AI & Machine Learning",
+      "website": "https://cloutbase.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T16:28:45.215802+00:00"
+    },
+    {
+      "name": "StrandVoice — Your Hair, Your Voice, Your Journey",
+      "slug": "polsia-strandvoice",
+      "description": "StrandVoice turns your voice notes and photos into a personalized hair care plan. AI-powered product recommendations you can actually buy off the shelf, no salon appointment needed.",
+      "category": "AI & Machine Learning",
+      "website": "https://strandvoice.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T16:28:45.451663+00:00"
+    },
+    {
+      "name": "ScriptureInk",
+      "slug": "polsia-scriptureink",
+      "description": "ScriptureInk creates magnets and bookmarks that bring God's word into your daily life, on your fridge, in your Bible, on your desk. Each piece is handwritten from scratch, one verse at a time.",
+      "category": "Other",
+      "website": "https://scriptureink.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T16:28:45.811501+00:00"
+    },
+    {
+      "name": "ScoopCall",
+      "slug": "polsia-scoopcall",
+      "description": "ScoopCall is building Dublin's first true on-demand dog waste collection service. No subscriptions, no commitments, just a clean garden when you need one.",
+      "category": "Other",
+      "website": "https://scoopcall.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T16:28:45.994455+00:00"
+    },
+    {
+      "name": "MintReel",
+      "slug": "polsia-mintreel",
+      "description": "MintReel uses AI to turn sports moments and entertainment media into digital collectibles. No production team. No manual minting. Just autonomous content that earns.",
+      "category": "Entertainment & Media",
+      "website": "https://mintreel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T16:28:46.434928+00:00"
+    },
+    {
+      "name": "TradeViper",
+      "slug": "polsia-tradeviper",
+      "website": "https://tradeviper.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T16:28:46.699210+00:00"
+    },
+    {
+      "name": "Étincelle — Clarté pour ceux qui dirigent",
+      "slug": "polsia-etincelle",
+      "description": "Étincelle est un média pour dirigeants, entrepreneurs et esprits en mouvement. Des conversations profondes avec ceux qui transforment. Des outils pour penser mieux. Un espace où la clarté n'est pas un luxe, mais une discipline.",
+      "category": "Other",
+      "website": "https://etincelle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T16:28:47.021970+00:00"
+    },
+    {
+      "name": "GoodWord",
+      "slug": "polsia-goodword-8",
+      "description": "GoodWord monitors your Google, Yelp, and Facebook reviews 24/7. When one comes in, AI responds with the right tone, the right words, and the right speed. Then it asks your happy customers to leave reviews too.",
+      "category": "AI & Machine Learning",
+      "website": "https://goodword-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T16:28:47.206050+00:00"
+    },
+    {
+      "name": "PostBlitz",
+      "slug": "polsia-postblitz",
+      "description": "You batch your content creation. Your scheduling tool should match. PostBlitz is the autopilot for creators who produce in volume and want every post to land at peak engagement.",
+      "category": "Marketing & Advertising",
+      "website": "https://postblitz.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T16:28:47.353454+00:00"
     }
   ]
 }
