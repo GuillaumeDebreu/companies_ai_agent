@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T15:19:40.578285+00:00",
+  "last_updated": "2026-04-05T15:51:52.035030+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -17832,12 +17832,14 @@
       "scraped_at": "2026-04-05T15:19:32.428499+00:00"
     },
     {
-      "name": "GritPage",
+      "name": "BoostArtisan — Sites web modernes pour artisans",
       "slug": "polsia-gritpage",
+      "description": "Des sites web qui attirent plus de clients pour votre entreprise artisanale. Simple, rapide, professionnel.",
+      "category": "Software & SaaS",
       "website": "https://gritpage.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T15:19:32.625076+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-05T15:51:51.923751+00:00"
     },
     {
       "name": "Vendex",
@@ -17846,6 +17848,106 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-04-05T15:19:32.946527+00:00"
+    },
+    {
+      "name": "NightOwl — Your AI Workforce That Never Sleeps",
+      "slug": "polsia-nightowlos-2",
+      "description": "NightOwl deploys autonomous AI agents that handle your leads, emails, social media, and customer follow-ups. They work while you sleep. No setup wizards. No workflow builders. Just results.",
+      "category": "AI & Machine Learning",
+      "website": "https://nightowlos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T15:51:47.531681+00:00"
+    },
+    {
+      "name": "LoopLocal",
+      "slug": "polsia-looplocal",
+      "description": "National waste haulers optimize for dense metro routes. If your town has fewer than 50,000 people, you probably don't have curbside recycling. Maybe you have a drop-off bin at the county fairgrounds. Maybe you have nothing at all. LoopLocal believes where you live shouldn't determine whether you can recycle.",
+      "category": "Other",
+      "website": "https://looplocal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T15:51:47.728797+00:00"
+    },
+    {
+      "name": "Prokura",
+      "slug": "polsia-prokura",
+      "description": "Prokura is an AI agent that researches your ideal prospects, writes personalized outreach, follows up on schedule, and books meetings on your calendar. No humans required.",
+      "category": "AI & Machine Learning",
+      "website": "https://prokura.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T15:51:47.926847+00:00"
+    },
+    {
+      "name": "Resolvica",
+      "slug": "polsia-resolvica",
+      "description": "Resolvica triages, diagnoses, and resolves IT issues autonomously. It learns your environment, knows your policies, and acts without waiting for a human to wake up.",
+      "category": "Sustainability & Green",
+      "website": "https://resolvica.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T15:51:48.008800+00:00"
+    },
+    {
+      "name": "ForwardFloorsOS",
+      "slug": "polsia-forwardfloorsos",
+      "description": "Your competitors are buying ads, publishing blogs, and ranking on Google while you build a perfect 5-star reputation through word of mouth. ForwardFloorsOS bridges that gap, so the business side grows as fast as the craft.",
+      "category": "Marketing & Advertising",
+      "website": "https://forwardfloorsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T15:51:48.129796+00:00"
+    },
+    {
+      "name": "RecRunner",
+      "slug": "polsia-recrunner",
+      "description": "RecRunner is an AI that manages registrations, schedules facilities, handles community outreach, and generates reports. Autonomously. While your team focuses on what matters: the community.",
+      "category": "AI & Machine Learning",
+      "website": "https://recrunner.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T15:51:48.323942+00:00"
+    },
+    {
+      "name": "Prospero — The AI Sales Agent That Never Sleeps",
+      "slug": "polsia-prospero-ai-sdr",
+      "description": "Prospero is an autonomous AI sales agent that researches your ideal prospects, writes genuinely personalized cold emails, handles every reply, and books meetings on your calendar. No templates. No babysitting. Just pipeline.",
+      "category": "Sales & CRM",
+      "website": "https://prospero-ai-sdr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T15:51:48.432687+00:00"
+    },
+    {
+      "name": "LTLeadOS",
+      "slug": "polsia-ltleados",
+      "description": "LTLeadOS gives you the command center to track every call your AI answers, every lead it qualifies, and every dollar it recovers for your customers.",
+      "category": "AI & Machine Learning",
+      "website": "https://ltleados.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T15:51:48.522106+00:00"
+    },
+    {
+      "name": "LoftKey",
+      "slug": "polsia-loftkey",
+      "description": "LoftKey is an AI property manager that handles guest communication, dynamic pricing, cleaning coordination, and review management for vacation rentals. Not a tool. An employee that never clocks out.",
+      "category": "Travel & Hospitality",
+      "website": "https://loftkey.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T15:51:48.727045+00:00"
+    },
+    {
+      "name": "LunovusOS",
+      "slug": "polsia-lunovusos",
+      "description": "Lunovus isn't just selling supplements. It's building the infrastructure that lets every independent eye care practice generate predictable, recurring revenue while delivering better patient outcomes. LunovusOS is the operating system powering that future.",
+      "category": "Health & Wellness",
+      "website": "https://lunovusos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T15:51:48.853249+00:00"
     }
   ]
 }
