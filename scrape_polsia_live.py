@@ -79,6 +79,41 @@ def is_real_site(html):
     return len(text) > 200
 
 
+CATEGORY_KEYWORDS = {
+    "Software & SaaS": ["saas", "software", "platform", "dashboard", "api", "devtool", "developer tool", "sdk", "app builder"],
+    "AI & Machine Learning": ["ai ", " ai", "artificial intelligence", "machine learning", "llm", "gpt", "neural", "deep learning", "autonomous agent", "chatbot"],
+    "Finance & Fintech": ["fintech", "payment", "banking", "crypto", "blockchain", "wallet", "invoice", "accounting", "financial", "trading", "investment"],
+    "E-Commerce & Retail": ["e-commerce", "ecommerce", "shopify", "store", "retail", "shop", "marketplace", "cart", "product listing", "merchandise"],
+    "Marketing & Advertising": ["marketing", "advertising", "ad ", " ads", "seo", "social media", "campaign", "brand", "content creation", "influencer"],
+    "Sales & CRM": ["sales", "crm", "lead", "outreach", "cold email", "prospect", "pipeline", "b2b"],
+    "Education": ["education", "learning", "course", "tutor", "teaching", "student", "training", "coaching", "mentor"],
+    "Health & Wellness": ["health", "wellness", "medical", "fitness", "therapy", "mental health", "nutrition", "healthcare", "clinic", "patient"],
+    "Food & Beverage": ["food", "restaurant", "recipe", "meal", "coffee", "chef", "kitchen", "dining", "beverage", "catering"],
+    "Travel & Hospitality": ["travel", "hotel", "booking", "hospitality", "airbnb", "rental", "tourism", "guest", "property manager"],
+    "Real Estate": ["real estate", "property", "housing", "rent", "mortgage", "landlord", "tenant", "apartment"],
+    "Productivity & Automation": ["productivity", "automation", "workflow", "task management", "scheduling", "project management", "no-code", "zapier"],
+    "Newsletter & Email": ["newsletter", "email", "subscriber", "mailing list", "inbox"],
+    "Consulting & Services": ["consulting", "agency", "freelance", "service provider", "professional service"],
+    "Entertainment & Media": ["entertainment", "media", "gaming", "music", "video", "streaming", "podcast", "content"],
+    "Sustainability & Green": ["sustainability", "green", "eco", "renewable", "climate", "carbon", "environment", "solar"],
+    "Logistics & Supply Chain": ["logistics", "supply chain", "shipping", "delivery", "warehouse", "freight", "fleet"],
+    "Social & Community": ["social", "community", "forum", "network", "dating", "meetup", "group"],
+}
+
+
+def classify(name, description):
+    """Auto-classify a startup into a NanoList category based on keywords."""
+    text = f"{name} {description}".lower()
+    best_cat = ""
+    best_score = 0
+    for cat, keywords in CATEGORY_KEYWORDS.items():
+        score = sum(1 for kw in keywords if kw in text)
+        if score > best_score:
+            best_score = score
+            best_cat = cat
+    return best_cat if best_score > 0 else "Other"
+
+
 def parse_polsia_site(html, slug, original_name):
     soup = BeautifulSoup(html, "html.parser")
 
@@ -110,11 +145,13 @@ def parse_polsia_site(html, slug, original_name):
             if len(t) > len(description):
                 description = t
 
+    category = classify(name, description)
+
     return {
         "name": name,
         "slug": f"polsia-{slug}",
         "description": description,
-        "category": "",
+        "category": category,
         "website": f"https://{slug}.polsia.app",
         "source": "polsia",
         "status": "live",

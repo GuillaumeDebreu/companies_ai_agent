@@ -116,6 +116,7 @@
             const sort = document.getElementById('sortBy').value;
 
             let filtered = allStartups.filter(s => {
+                if (s.status === 'pending') return false;
                 const matchQuery = !query || s.name.toLowerCase().includes(query) || (s.description || '').toLowerCase().includes(query);
                 const matchCat = !cat || s.category === cat;
                 const matchSource = activeSource === 'all'
