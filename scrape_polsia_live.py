@@ -4,8 +4,9 @@ Uses the public API: polsia.com/api/public/live/dashboard
 1. Fetches company names from the API
 2. Scrapes each *.polsia.app site
 3. Keeps only real startup sites
-4. Appends to startups.json
-5. Auto git push if new startups found
+4. Saves to startups.json (status: "live" or "pending")
+5. Retries pending companies on each cycle (up to 48h)
+6. Auto git push if changes found
 
 Can run as a loop (every 5 min) or single shot with --once flag.
 """
@@ -19,13 +20,13 @@ import subprocess
 import sys
 import time
 from bs4 import BeautifulSoup
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 JSON_FILE = os.path.join(DIR, "startups.json")
-NAMES_FILE = os.path.join(DIR, "polsia_names.txt")
 API_URL = "https://polsia.com/api/public/live/dashboard"
 MAX_CONCURRENT = 10
+PENDING_MAX_AGE = timedelta(hours=48)
 
 
 # ── Data helpers ──────────────────────────────────────────────
@@ -41,19 +42,6 @@ def save_data(data):
     data["last_updated"] = datetime.now(timezone.utc).isoformat()
     with open(JSON_FILE, "w") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-
-
-def load_known_names():
-    if not os.path.exists(NAMES_FILE):
-        return set()
-    with open(NAMES_FILE, "r") as f:
-        return {line.strip().lower().replace(" ", "") for line in f if line.strip()}
-
-
-def append_names(names):
-    with open(NAMES_FILE, "a") as f:
-        for name in names:
-            f.write(name + "\n")
 
 
 # ── Step 1: Get companies from API ───────────────────────────
@@ -129,6 +117,18 @@ def parse_polsia_site(html, slug, original_name):
         "category": "",
         "website": f"https://{slug}.polsia.app",
         "source": "polsia",
+        "status": "live",
+        "scraped_at": datetime.now(timezone.utc).isoformat(),
+    }
+
+
+def make_pending_entry(name, slug):
+    return {
+        "name": name,
+        "slug": f"polsia-{slug}",
+        "website": f"https://{slug}.polsia.app",
+        "source": "polsia",
+        "status": "pending",
         "scraped_at": datetime.now(timezone.utc).isoformat(),
     }
 
@@ -143,28 +143,11 @@ async def fetch(session, url):
     return None
 
 
-async def scrape_sites(session, companies):
-    results = []
-    semaphore = asyncio.Semaphore(MAX_CONCURRENT)
-
-    async def scrape_one(name, slug):
-        async with semaphore:
-            url = f"https://{slug}.polsia.app"
-            html = await fetch(session, url)
-            if html and is_real_site(html):
-                detail = parse_polsia_site(html, slug, name)
-                results.append(detail)
-
-    tasks = [scrape_one(name, slug) for name, slug in companies]
-    await asyncio.gather(*tasks)
-    return results
-
-
 # ── Git push ──────────────────────────────────────────────────
 
 def git_push():
     try:
-        subprocess.run(["git", "add", "startups.json", "polsia_names.txt"], cwd=DIR, check=True,
+        subprocess.run(["git", "add", "startups.json"], cwd=DIR, check=True,
                         capture_output=True)
         now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
         subprocess.run(["git", "commit", "-m", f"auto: polsia update {now}"], cwd=DIR, check=True,
@@ -180,42 +163,76 @@ def git_push():
 async def run_once():
     data = load_existing()
     existing_slugs = {s["slug"] for s in data["startups"]}
-    known_names = load_known_names()
+    changes = 0
 
     async with aiohttp.ClientSession() as session:
         # Step 1: Get names from API
         live_companies = await get_live_companies(session)
         print(f"  Found {len(live_companies)} companies from API")
 
-        # Filter new ones
+        # Filter to companies not already in startups.json
         new_companies = []
-        new_name_entries = []
         for name, slug in live_companies:
             slug_clean = slug.lower().replace(" ", "")
-            if slug_clean not in known_names and f"polsia-{slug_clean}" not in existing_slugs:
+            if f"polsia-{slug_clean}" not in existing_slugs:
                 new_companies.append((name, slug_clean))
-                new_name_entries.append(slug_clean)
 
-        if not new_companies:
-            print("  No new companies. Skipping.")
-            return 0
+        if new_companies:
+            print(f"  {len(new_companies)} new companies to check...")
 
-        print(f"  {len(new_companies)} new companies to check...")
+            # Scrape new companies
+            semaphore = asyncio.Semaphore(MAX_CONCURRENT)
+            for name, slug in new_companies:
+                async with semaphore:
+                    url = f"https://{slug}.polsia.app"
+                    html = await fetch(session, url)
+                    if html and is_real_site(html):
+                        detail = parse_polsia_site(html, slug, name)
+                        data["startups"].append(detail)
+                        print(f"    + {detail['name']}: {detail.get('description', '')[:60]}...")
+                        changes += 1
+                    else:
+                        # Site not ready — save as pending for retry
+                        pending = make_pending_entry(name, slug)
+                        data["startups"].append(pending)
+                        print(f"    ~ {name} ({slug}): site not ready, saved as pending")
+                        changes += 1
+        else:
+            print("  No new companies.")
 
-        # Step 2: Fetch sites
-        results = await scrape_sites(session, new_companies)
+        # Step 2: Retry pending companies (younger than 48h)
+        now = datetime.now(timezone.utc)
+        pending_indices = []
+        for i, entry in enumerate(data["startups"]):
+            if entry.get("status") == "pending":
+                scraped_at = datetime.fromisoformat(entry["scraped_at"])
+                age = now - scraped_at
+                if age <= PENDING_MAX_AGE:
+                    pending_indices.append(i)
 
-    # Step 3: Save
-    append_names(new_name_entries)
+        if pending_indices:
+            print(f"  Retrying {len(pending_indices)} pending companies...")
+            semaphore = asyncio.Semaphore(MAX_CONCURRENT)
+            for i in pending_indices:
+                entry = data["startups"][i]
+                slug = entry["slug"].removeprefix("polsia-")
+                async with semaphore:
+                    url = f"https://{slug}.polsia.app"
+                    html = await fetch(session, url)
+                    if html and is_real_site(html):
+                        updated = parse_polsia_site(html, slug, entry["name"])
+                        data["startups"][i] = updated
+                        print(f"    ✓ {updated['name']}: now live!")
+                        changes += 1
 
-    if results:
-        data["startups"].extend(results)
+    # Save if anything changed
+    if changes > 0:
         save_data(data)
-        for r in results:
-            print(f"    + {r['name']}: {r['description'][:60]}...")
 
-    print(f"  Added {len(results)} real sites. Total in DB: {len(data['startups'])}")
-    return len(results)
+    live_count = sum(1 for s in data["startups"] if s.get("status") == "live")
+    pending_count = sum(1 for s in data["startups"] if s.get("status") == "pending")
+    print(f"  {changes} changes. DB: {live_count} live, {pending_count} pending")
+    return changes
 
 
 def main():
@@ -224,8 +241,8 @@ def main():
 
     if single_run:
         print("[Single run mode]")
-        added = asyncio.run(run_once())
-        if added > 0:
+        changes = asyncio.run(run_once())
+        if changes > 0:
             git_push()
         return
 
@@ -235,7 +252,7 @@ def main():
     print("Press Ctrl+C to stop")
     print("=" * 60)
 
-    total_added = 0
+    total_changes = 0
     cycles = 0
 
     while True:
@@ -244,14 +261,14 @@ def main():
         print(f"\n[{now}] Cycle #{cycles}")
 
         try:
-            added = asyncio.run(run_once())
-            total_added += added
-            if added > 0:
+            changes = asyncio.run(run_once())
+            total_changes += changes
+            if changes > 0:
                 git_push()
         except Exception as e:
             print(f"  Error: {e}")
 
-        print(f"  Total added this session: {total_added}")
+        print(f"  Total changes this session: {total_changes}")
         print(f"  Next check in {interval}s...")
 
         try:

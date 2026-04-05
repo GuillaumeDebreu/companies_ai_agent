@@ -35,6 +35,14 @@
         }
         .card .links a:hover { text-decoration: underline; }
         .card .date { font-size: 0.7rem; color: #555; margin-top: 0.5rem; }
+        .source-pills { display: inline-flex; gap: 0; border: 1px solid #333; border-radius: 6px; overflow: hidden; margin-left: auto; }
+        .source-pills button {
+            background: #161616; border: none; color: #888; padding: 0.4rem 0.8rem;
+            font-size: 0.78rem; cursor: pointer; transition: all 0.2s; border-right: 1px solid #333;
+        }
+        .source-pills button:last-child { border-right: none; }
+        .source-pills button:hover { color: #e0e0e0; }
+        .source-pills button.active { background: #4ade8022; color: #4ade80; }
         .empty { text-align: center; padding: 4rem; color: #555; }
         .loading { text-align: center; padding: 4rem; color: #888; }
     </style>
@@ -58,6 +66,11 @@
             <option value="recent">Plus récentes</option>
             <option value="name">A → Z</option>
         </select>
+        <div class="source-pills">
+            <button class="active" data-source="all">All</button>
+            <button data-source="polsia">Polsia</button>
+            <button data-source="nanolist">NanoList</button>
+        </div>
     </div>
     <div id="grid" class="grid">
         <div class="loading">Chargement des données...</div>
@@ -95,6 +108,8 @@
             }
         }
 
+        let activeSource = 'all';
+
         function render() {
             const query = document.getElementById('search').value.toLowerCase();
             const cat = document.getElementById('categoryFilter').value;
@@ -103,7 +118,10 @@
             let filtered = allStartups.filter(s => {
                 const matchQuery = !query || s.name.toLowerCase().includes(query) || (s.description || '').toLowerCase().includes(query);
                 const matchCat = !cat || s.category === cat;
-                return matchQuery && matchCat;
+                const matchSource = activeSource === 'all'
+                    || (activeSource === 'polsia' && s.source === 'polsia')
+                    || (activeSource === 'nanolist' && !s.source);
+                return matchQuery && matchCat && matchSource;
             });
 
             if (sort === 'name') {
@@ -141,6 +159,15 @@
         document.getElementById('search').addEventListener('input', render);
         document.getElementById('categoryFilter').addEventListener('change', render);
         document.getElementById('sortBy').addEventListener('change', render);
+
+        document.querySelectorAll('.source-pills button').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.source-pills button').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                activeSource = btn.dataset.source;
+                render();
+            });
+        });
 
         loadData();
     </script>
