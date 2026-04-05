@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T23:17:56.958709+00:00",
+  "last_updated": "2026-04-05T23:54:02.625992+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -18464,12 +18464,14 @@
       "scraped_at": "2026-04-05T20:54:18.595841+00:00"
     },
     {
-      "name": "Humm Accounting",
+      "name": "Humm Accounting — Your QuickBooks Might Be Lying to You",
       "slug": "polsia-humm-accounting",
+      "description": "The accounting firm built for growing trade and construction businesses. We explain your numbers in plain English so you can make better decisions.",
+      "category": "Finance & Fintech",
       "website": "https://humm-accounting.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T20:54:18.953739+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-05T23:53:56.914512+00:00"
     },
     {
       "name": "AgentStack",
@@ -18782,6 +18784,106 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-04-05T23:17:48.556262+00:00"
+    },
+    {
+      "name": "WildLearn — The school that fits your kid, not the other way around",
+      "slug": "polsia-wildlearn",
+      "description": "The options in NZ right now?Government distance school from another era. Expensive academies for high-achievers only. Workbook-based programs that feel like school without the friends. Or going it completely alone as a homeschool family.",
+      "category": "Other",
+      "website": "https://wildlearn.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T23:53:39.605861+00:00"
+    },
+    {
+      "name": "NullQueue — AI That Empties Your Ticket Queue",
+      "slug": "polsia-nullqueue",
+      "description": "NullQueue is an AI agent that resolves IT support tickets autonomously. Password resets, connectivity issues, software reinstalls, diagnostics. It handles the routine so your techs handle the revenue.",
+      "category": "AI & Machine Learning",
+      "website": "https://nullqueue.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T23:53:39.885415+00:00"
+    },
+    {
+      "name": "Jimu",
+      "slug": "polsia-jimu",
+      "description": "You started a business to do meaningful work. Instead, you spend half your day on email triage, scheduling, and chasing follow-ups. The back office isn't hard. It's just relentless. Jimu takes it off your plate entirely.",
+      "category": "Productivity & Automation",
+      "website": "https://jimu.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T23:53:40.235313+00:00"
+    },
+    {
+      "name": "PrintHerd — High",
+      "slug": "polsia-printherd",
+      "description": "Alberta's manufacturers, engineers, and product teams currently ship parts across the country. PrintHerd brings high-volume 3D printing to the Prairies for the first time.",
+      "category": "Real Estate",
+      "website": "https://printherd.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T23:53:40.533358+00:00"
+    },
+    {
+      "name": "SignalSwarm",
+      "slug": "polsia-signalswarm",
+      "description": "We ingest thousands of sources in real-time. Breaking news, X posts, Reddit threads, StockTwits chatter, earnings calls, on-chain movements, macro data. If it moves markets, we see it.",
+      "category": "Other",
+      "website": "https://signalswarm.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T23:53:40.811869+00:00"
+    },
+    {
+      "name": "Raptr",
+      "slug": "polsia-raptr",
+      "description": "Raptr is an AI sales agent that finds your ideal prospects, researches them, writes personalized outreach, and books meetings on your calendar. It works while you sleep.",
+      "category": "Sales & CRM",
+      "website": "https://raptr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T23:53:41.045113+00:00"
+    },
+    {
+      "name": "Fleetwise — The AI That Runs Your Fleet",
+      "slug": "polsia-fleetwise",
+      "description": "Fleetwise is an AI agent that handles route optimization, driver scheduling, demand prediction, and rider communications for small fleet operators. The entire operations layer, running 24/7 without human dispatchers.",
+      "category": "AI & Machine Learning",
+      "website": "https://fleetwise.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T23:53:41.347607+00:00"
+    },
+    {
+      "name": "FitAbsOS",
+      "slug": "polsia-fitabsos",
+      "description": "Stop juggling spreadsheets, DMs, and guesswork. FitAbsOS tracks your content, finds brand deals, manages outreach, and turns followers into paying customers.",
+      "category": "Marketing & Advertising",
+      "website": "https://fitabsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T23:53:41.641781+00:00"
+    },
+    {
+      "name": "LeaderVault — The Marketplace for School Leaders",
+      "slug": "polsia-leadervault",
+      "description": "Teachers Pay Teachers proved educators will pay for peer-created resources. But TPT was built for classroom teachers. Principals create just as much operational material, from school improvement plans to staff PD decks, and share it through Google Drive links, conference handouts, and group texts. There's never been a real marketplace for it.",
+      "category": "E-Commerce & Retail",
+      "website": "https://leadervault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T23:53:41.821083+00:00"
+    },
+    {
+      "name": "Praxio — Your Licensing Pathway, Navigated",
+      "slug": "polsia-praxio",
+      "description": "Praxio is the AI-powered licensing navigator for internationally educated physicians building their medical career in Canada. One personalized pathway. Every step tracked.",
+      "category": "AI & Machine Learning",
+      "website": "https://praxio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-05T23:53:42.105991+00:00"
     }
   ]
 }
