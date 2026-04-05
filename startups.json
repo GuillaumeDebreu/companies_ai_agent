@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T19:09:42.331629+00:00",
+  "last_updated": "2026-04-05T19:49:06.592062+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -18208,12 +18208,14 @@
       "scraped_at": "2026-04-05T17:47:19.066535+00:00"
     },
     {
-      "name": "Conventis",
+      "name": "Conventis — Conformité LEA",
       "slug": "polsia-conventis",
+      "description": "Conventis — Plateforme de conformité LEA pour laboratoires pharmaceutiques. Gérez vos interactions PDS et déclarations réglementaires.",
+      "category": "Other",
       "website": "https://conventis.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T17:47:19.175595+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-05T19:49:01.631969+00:00"
     },
     {
       "name": "WriteLoom",
@@ -18338,6 +18340,46 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-04-05T19:09:37.199957+00:00"
+    },
+    {
+      "name": "BlueDobieOS",
+      "slug": "polsia-bluedobie-os",
+      "website": "https://bluedobie-os.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T19:48:48.942985+00:00"
+    },
+    {
+      "name": "The Cradle Company",
+      "slug": "polsia-the-cradle-company",
+      "website": "https://the-cradle-company.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T19:48:49.316542+00:00"
+    },
+    {
+      "name": "ESAAOS",
+      "slug": "polsia-esaaos",
+      "website": "https://esaaos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T19:48:49.737802+00:00"
+    },
+    {
+      "name": "HollowGrow",
+      "slug": "polsia-hollowgrow",
+      "website": "https://hollowgrow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T19:48:50.049470+00:00"
+    },
+    {
+      "name": "HerTable",
+      "slug": "polsia-hertable",
+      "website": "https://hertable.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-05T19:48:50.358247+00:00"
     }
   ]
 }
