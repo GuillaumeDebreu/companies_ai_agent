@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NanoList Tracker — Idées Startup</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0a0a0a; color: #e0e0e0; }
+        .header { padding: 2rem; text-align: center; border-bottom: 1px solid #222; }
+        .header h1 { font-size: 1.8rem; color: #fff; margin-bottom: 0.5rem; }
+        .header p { color: #888; font-size: 0.9rem; }
+        .stats { display: flex; gap: 1.5rem; justify-content: center; margin-top: 1rem; }
+        .stat { background: #161616; padding: 0.5rem 1rem; border-radius: 8px; border: 1px solid #222; }
+        .stat strong { color: #4ade80; }
+        .controls { padding: 1rem 2rem; display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; }
+        .controls input, .controls select {
+            background: #161616; border: 1px solid #333; color: #e0e0e0;
+            padding: 0.6rem 1rem; border-radius: 6px; font-size: 0.9rem;
+        }
+        .controls input { flex: 1; min-width: 200px; }
+        .controls select { min-width: 160px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1rem; padding: 1rem 2rem 3rem; }
+        .card {
+            background: #161616; border: 1px solid #222; border-radius: 10px;
+            padding: 1.2rem; transition: border-color 0.2s;
+        }
+        .card:hover { border-color: #4ade80; }
+        .card h3 { font-size: 1.1rem; color: #fff; margin-bottom: 0.3rem; }
+        .card .category { font-size: 0.75rem; color: #4ade80; background: #4ade8018; padding: 2px 8px; border-radius: 4px; display: inline-block; margin-bottom: 0.5rem; }
+        .card .desc { font-size: 0.85rem; color: #aaa; line-height: 1.5; margin-bottom: 0.8rem; }
+        .card .links a {
+            font-size: 0.8rem; color: #60a5fa; text-decoration: none;
+            margin-right: 1rem;
+        }
+        .card .links a:hover { text-decoration: underline; }
+        .card .date { font-size: 0.7rem; color: #555; margin-top: 0.5rem; }
+        .empty { text-align: center; padding: 4rem; color: #555; }
+        .loading { text-align: center; padding: 4rem; color: #888; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>NanoList Tracker</h1>
+        <p>Veille automatique des idées startup depuis NanoList</p>
+        <div class="stats">
+            <div class="stat"><strong id="total">—</strong> startups</div>
+            <div class="stat"><strong id="cats">—</strong> catégories</div>
+            <div class="stat">MAJ: <strong id="updated">—</strong></div>
+        </div>
+    </div>
+    <div class="controls">
+        <input type="text" id="search" placeholder="Rechercher une startup ou une idée...">
+        <select id="categoryFilter">
+            <option value="">Toutes les catégories</option>
+        </select>
+        <select id="sortBy">
+            <option value="recent">Plus récentes</option>
+            <option value="name">A → Z</option>
+        </select>
+    </div>
+    <div id="grid" class="grid">
+        <div class="loading">Chargement des données...</div>
+    </div>
+
+    <script>
+        let allStartups = [];
+
+        async function loadData() {
+            try {
+                const resp = await fetch('startups.json');
+                const data = await resp.json();
+                allStartups = data.startups || [];
+
+                document.getElementById('total').textContent = allStartups.length;
+                const categories = [...new Set(allStartups.map(s => s.category).filter(Boolean))].sort();
+                document.getElementById('cats').textContent = categories.length;
+
+                if (data.last_updated) {
+                    const d = new Date(data.last_updated);
+                    document.getElementById('updated').textContent = d.toLocaleDateString('fr-FR') + ' ' + d.toLocaleTimeString('fr-FR', {hour: '2-digit', minute: '2-digit'});
+                }
+
+                const select = document.getElementById('categoryFilter');
+                categories.forEach(cat => {
+                    const opt = document.createElement('option');
+                    opt.value = cat;
+                    opt.textContent = cat;
+                    select.appendChild(opt);
+                });
+
+                render();
+            } catch (e) {
+                document.getElementById('grid').innerHTML = '<div class="empty">Erreur de chargement. Lancez d\'abord le scraper.</div>';
+            }
+        }
+
+        function render() {
+            const query = document.getElementById('search').value.toLowerCase();
+            const cat = document.getElementById('categoryFilter').value;
+            const sort = document.getElementById('sortBy').value;
+
+            let filtered = allStartups.filter(s => {
+                const matchQuery = !query || s.name.toLowerCase().includes(query) || (s.description || '').toLowerCase().includes(query);
+                const matchCat = !cat || s.category === cat;
+                return matchQuery && matchCat;
+            });
+
+            if (sort === 'name') {
+                filtered.sort((a, b) => a.name.localeCompare(b.name));
+            } else {
+                filtered.sort((a, b) => (b.scraped_at || '').localeCompare(a.scraped_at || ''));
+            }
+
+            const grid = document.getElementById('grid');
+            if (!filtered.length) {
+                grid.innerHTML = '<div class="empty">Aucun résultat</div>';
+                return;
+            }
+
+            grid.innerHTML = filtered.map(s => `
+                <div class="card">
+                    <h3>${esc(s.name)}</h3>
+                    ${s.category ? `<span class="category">${esc(s.category)}</span>` : ''}
+                    <div class="desc">${esc(s.description || 'Pas de description')}</div>
+                    <div class="links">
+                        ${s.website ? `<a href="${esc(s.website)}" target="_blank">Site web ↗</a>` : ''}
+                        <a href="https://nanolist.nanocorp.app/company/${esc(s.slug)}" target="_blank">Fiche NanoList ↗</a>
+                    </div>
+                    <div class="date">${s.scraped_at ? new Date(s.scraped_at).toLocaleDateString('fr-FR') : ''}</div>
+                </div>
+            `).join('');
+        }
+
+        function esc(str) {
+            const d = document.createElement('div');
+            d.textContent = str || '';
+            return d.innerHTML;
+        }
+
+        document.getElementById('search').addEventListener('input', render);
+        document.getElementById('categoryFilter').addEventListener('change', render);
+        document.getElementById('sortBy').addEventListener('change', render);
+
+        loadData();
+    </script>
+</body>
+</html>
