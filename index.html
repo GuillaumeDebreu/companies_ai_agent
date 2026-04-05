@@ -143,7 +143,7 @@
                     <div class="desc">${esc(s.description || 'Pas de description')}</div>
                     <div class="links">
                         ${s.website ? `<a href="${esc(s.website)}" target="_blank">Site web ↗</a>` : ''}
-                        <a href="https://nanolist.nanocorp.app/company/${esc(s.slug)}" target="_blank">Fiche NanoList ↗</a>
+                        ${s.source !== 'polsia' ? `<a href="https://nanolist.nanocorp.app/company/${esc(s.slug)}" target="_blank">Fiche NanoList ↗</a>` : ''}
                     </div>
                     <div class="date">${s.scraped_at ? new Date(s.scraped_at).toLocaleDateString('fr-FR') : ''}</div>
                 </div>
