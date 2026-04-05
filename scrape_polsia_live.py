@@ -1,10 +1,13 @@
 """
-Polsia Live Scraper — runs every 5 minutes
-1. Opens polsia.com/live with headless Firefox (Playwright)
-2. Extracts company names from the Companies section
-3. Fetches each *.polsia.app site
-4. Keeps only real startup sites (filters out default Polsia pages)
-5. Appends to startups.json + polsia_names.txt
+Polsia Live Scraper — lightweight version (no browser needed)
+Uses the public API: polsia.com/api/public/live/dashboard
+1. Fetches company names from the API
+2. Scrapes each *.polsia.app site
+3. Keeps only real startup sites
+4. Appends to startups.json
+5. Auto git push if new startups found
+
+Can run as a loop (every 5 min) or single shot with --once flag.
 """
 
 import asyncio
@@ -13,14 +16,15 @@ import json
 import os
 import re
 import subprocess
+import sys
 import time
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
-from playwright.sync_api import sync_playwright
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 JSON_FILE = os.path.join(DIR, "startups.json")
 NAMES_FILE = os.path.join(DIR, "polsia_names.txt")
+API_URL = "https://polsia.com/api/public/live/dashboard"
 MAX_CONCURRENT = 10
 
 
@@ -40,7 +44,6 @@ def save_data(data):
 
 
 def load_known_names():
-    """Load all previously seen names from polsia_names.txt."""
     if not os.path.exists(NAMES_FILE):
         return set()
     with open(NAMES_FILE, "r") as f:
@@ -48,39 +51,24 @@ def load_known_names():
 
 
 def append_names(names):
-    """Append new names to polsia_names.txt."""
     with open(NAMES_FILE, "a") as f:
         for name in names:
             f.write(name + "\n")
 
 
-# ── Step 1: Read polsia.com/live with headless browser ────────
+# ── Step 1: Get companies from API ───────────────────────────
 
-def get_live_companies():
-    """Use Playwright Firefox to extract company names from polsia.com/live."""
-    print("Opening polsia.com/live with headless Firefox...")
-    with sync_playwright() as p:
-        browser = p.firefox.launch(headless=True)
-        page = browser.new_page()
-        page.goto("https://polsia.com/live", wait_until="networkidle", timeout=30000)
-
-        links = page.eval_on_selector_all(
-            'a[href*=".polsia.app"]',
-            'els => els.map(e => ({name: e.textContent.trim(), href: e.href}))'
-        )
-        browser.close()
-
-    companies = []
-    for link in links:
-        name = link["name"]
-        href = link["href"]
-        # Extract slug from URL: https://xxx.polsia.app/ → xxx
-        match = re.match(r"https://([a-z0-9-]+)\.polsia\.app", href.lower())
-        if match:
-            slug = match.group(1)
-            companies.append((name, slug))
-
-    return companies
+async def get_live_companies(session):
+    """Fetch company list from Polsia public API."""
+    try:
+        async with session.get(API_URL, timeout=aiohttp.ClientTimeout(total=15)) as resp:
+            if resp.status == 200:
+                data = await resp.json()
+                companies = data.get("companies", [])
+                return [(c["name"], c["slug"]) for c in companies if c.get("slug")]
+    except Exception as e:
+        print(f"  API error: {e}")
+    return []
 
 
 # ── Step 2: Fetch and parse each site ─────────────────────────
@@ -155,59 +143,70 @@ async def fetch(session, url):
     return None
 
 
-async def scrape_sites(companies):
-    """Fetch all company sites in parallel, return list of valid startups."""
+async def scrape_sites(session, companies):
     results = []
     semaphore = asyncio.Semaphore(MAX_CONCURRENT)
 
-    async def scrape_one(session, name, slug):
+    async def scrape_one(name, slug):
         async with semaphore:
             url = f"https://{slug}.polsia.app"
             html = await fetch(session, url)
             if html and is_real_site(html):
                 detail = parse_polsia_site(html, slug, name)
                 results.append(detail)
-                return True
-            return False
 
-    async with aiohttp.ClientSession() as session:
-        tasks = [scrape_one(session, name, slug) for name, slug in companies]
-        await asyncio.gather(*tasks)
-
+    tasks = [scrape_one(name, slug) for name, slug in companies]
+    await asyncio.gather(*tasks)
     return results
 
 
-# ── Main loop ─────────────────────────────────────────────────
+# ── Git push ──────────────────────────────────────────────────
 
-def run_once():
-    """Single scrape cycle."""
+def git_push():
+    try:
+        subprocess.run(["git", "add", "startups.json", "polsia_names.txt"], cwd=DIR, check=True,
+                        capture_output=True)
+        now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        subprocess.run(["git", "commit", "-m", f"auto: polsia update {now}"], cwd=DIR, check=True,
+                        capture_output=True)
+        subprocess.run(["git", "push"], cwd=DIR, check=True, capture_output=True)
+        print("  Pushed to GitHub.")
+    except subprocess.CalledProcessError:
+        print("  Git push skipped (no changes or error).")
+
+
+# ── Main ──────────────────────────────────────────────────────
+
+async def run_once():
     data = load_existing()
     existing_slugs = {s["slug"] for s in data["startups"]}
     known_names = load_known_names()
 
-    # Step 1: Get names from live page
-    live_companies = get_live_companies()
-    print(f"  Found {len(live_companies)} companies on /live")
+    async with aiohttp.ClientSession() as session:
+        # Step 1: Get names from API
+        live_companies = await get_live_companies(session)
+        print(f"  Found {len(live_companies)} companies from API")
 
-    # Filter to only new ones
-    new_companies = []
-    new_name_entries = []
-    for name, slug in live_companies:
-        if slug not in known_names and f"polsia-{slug}" not in existing_slugs:
-            new_companies.append((name, slug))
-            new_name_entries.append(slug)
+        # Filter new ones
+        new_companies = []
+        new_name_entries = []
+        for name, slug in live_companies:
+            slug_clean = slug.lower().replace(" ", "")
+            if slug_clean not in known_names and f"polsia-{slug_clean}" not in existing_slugs:
+                new_companies.append((name, slug_clean))
+                new_name_entries.append(slug_clean)
 
-    if not new_companies:
-        print("  No new companies. Skipping.")
-        return 0
+        if not new_companies:
+            print("  No new companies. Skipping.")
+            return 0
 
-    print(f"  {len(new_companies)} new companies to check...")
+        print(f"  {len(new_companies)} new companies to check...")
 
-    # Step 2: Fetch sites
-    results = asyncio.run(scrape_sites(new_companies))
+        # Step 2: Fetch sites
+        results = await scrape_sites(session, new_companies)
 
     # Step 3: Save
-    append_names(new_name_entries)  # Track all names (even if site not ready yet)
+    append_names(new_name_entries)
 
     if results:
         data["startups"].extend(results)
@@ -219,22 +218,20 @@ def run_once():
     return len(results)
 
 
-def git_push():
-    """Auto-commit and push changes to GitHub."""
-    try:
-        subprocess.run(["git", "add", "startups.json", "polsia_names.txt"], cwd=DIR, check=True)
-        now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-        subprocess.run(["git", "commit", "-m", f"auto: polsia update {now}"], cwd=DIR, check=True)
-        subprocess.run(["git", "push"], cwd=DIR, check=True)
-        print("  Pushed to GitHub.")
-    except subprocess.CalledProcessError:
-        print("  Git push skipped (no changes or error).")
-
-
 def main():
+    single_run = "--once" in sys.argv
     interval = 300  # 5 minutes
+
+    if single_run:
+        print("[Single run mode]")
+        added = asyncio.run(run_once())
+        if added > 0:
+            git_push()
+        return
+
     print("=" * 60)
     print("Polsia Live Scraper — checking every 5 minutes")
+    print("Using API: no browser needed")
     print("Press Ctrl+C to stop")
     print("=" * 60)
 
@@ -247,7 +244,7 @@ def main():
         print(f"\n[{now}] Cycle #{cycles}")
 
         try:
-            added = run_once()
+            added = asyncio.run(run_once())
             total_added += added
             if added > 0:
                 git_push()
