@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T20:01:28.744560+00:00",
+  "last_updated": "2026-04-06T20:51:30.649022+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -22700,12 +22700,15 @@
       "scraped_at": "2026-04-06T19:15:26.266081+00:00"
     },
     {
-      "name": "AJsAutoOS",
+      "name": "AJ's Auto Detailing & Mechanics",
       "slug": "polsia-ajsautoos",
+      "description": "Interior and exterior detailing, ceramic coatings, paint correction, and protective films. We don't just clean your car. We restore it to the version you remember from the day you bought it.",
+      "description_fr": "Détails intérieurs et extérieurs, revêtements céramiques, correction de peinture et films protecteurs. Nous ne nettoyons pas seulement votre voiture. Nous le restaurons à la version dont vous vous souvenez depuis le jour où vous l'avez acheté.",
+      "category": "E-Commerce & Retail",
       "website": "https://ajsautoos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T20:00:52.619140+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T20:51:28.322688+00:00"
     },
     {
       "name": "MadameKoOS",
@@ -22802,6 +22805,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-06T20:01:04.054627+00:00"
+    },
+    {
+      "name": "Saltfire",
+      "slug": "polsia-saltfire",
+      "website": "https://saltfire.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-06T20:50:53.708408+00:00"
+    },
+    {
+      "name": "Timbre — AI",
+      "slug": "polsia-timbre",
+      "description": "You need \"distant thunder rolling across a prairie at dusk.\" The search bar gives you 4,000 results for \"thunder.\" So you spend an hour auditioning clips, listening to the wrong rain, the wrong distance, the wrong mood.",
+      "description_fr": "Vous avez besoin de « un tonnerre lointain qui traverse une prairie au crépuscule ». La barre de recherche vous donne 4 000 résultats pour « tonnerre ». Alors vous passez une heure à auditionner des clips, à écouter la mauvaise pluie, la mauvaise distance, la mauvaise humeur.",
+      "category": "AI & Machine Learning",
+      "website": "https://timbre.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T20:50:54.666155+00:00"
+    },
+    {
+      "name": "Supperly — Your Kitchen Runs Itself",
+      "slug": "polsia-supperly",
+      "description": "Supperly is building the future of household food management. An AI that doesn't just suggest meals, it manages your entire kitchen. From what to cook, to what to buy, to what's going off in the back of the fridge.",
+      "description_fr": "Supperly construit l’avenir de la gestion alimentaire des ménages. Une IA qui ne se contente pas de suggérer des repas, elle gère toute votre cuisine. De quoi cuisiner, quoi acheter, à ce qui se passe au fond du réfrigérateur.",
+      "category": "Food & Beverage",
+      "website": "https://supperly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T20:51:30.317173+00:00"
+    },
+    {
+      "name": "LashCrown",
+      "slug": "polsia-lashcrown",
+      "description": "LashCrown exists because shopping for wigs and lashes online shouldn't feel like gambling. Every product we carry has been vetted, tested, and chosen because it genuinely makes people feel like the best version of themselves. Based in New York. Shipping everywhere.",
+      "description_fr": "LashCrown existe parce que l'achat de perruques et de cils en ligne ne devrait pas ressembler à un jeu de hasard. Chaque produit que nous proposons a été examiné, testé et choisi parce qu'il permet véritablement aux gens de se sentir comme la meilleure version d'eux-mêmes. Basé à New York. Expédition partout.",
+      "category": "E-Commerce & Retail",
+      "website": "https://lashcrown.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T20:50:56.102041+00:00"
+    },
+    {
+      "name": "AuraOS",
+      "slug": "polsia-auraos-2",
+      "description": "AuraOS exists because wellness companies that deliver real healthcare deserve more than generic project management software. This is operations infrastructure built for the Smart Clinic model.",
+      "description_fr": "AuraOS existe parce que les entreprises de bien-être qui dispensent de véritables soins de santé méritent plus qu'un logiciel de gestion de projet générique. Il s’agit d’une infrastructure opérationnelle conçue pour le modèle Smart Clinic.",
+      "category": "Health & Wellness",
+      "website": "https://auraos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T20:50:56.963909+00:00"
+    },
+    {
+      "name": "AudioLayer",
+      "slug": "polsia-audiolayer",
+      "website": "https://audiolayer.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-06T20:50:57.188420+00:00"
+    },
+    {
+      "name": "GhostRealm — Reviving Forgotten MMOs, One Server at a Time",
+      "slug": "polsia-ghostrealm",
+      "description": "That's what a developer said when a single YouTuber revived their 1999 MMO. \n                Imagine what happens when an entire community shows up on purpose, every month, \n                to breathe life into worlds that were never supposed to die.",
+      "description_fr": "C'est ce qu'un développeur a dit lorsqu'un seul YouTuber a relancé son MMO de 1999. \n                Imaginez ce qui se passe lorsqu'une communauté entière se présente exprès, chaque mois, \n                donner vie à des mondes qui n’étaient jamais censés mourir.",
+      "category": "Social & Community",
+      "website": "https://ghostrealm.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T20:50:57.934260+00:00"
+    },
+    {
+      "name": "VegasSitting",
+      "slug": "polsia-vegassitting",
+      "description": "Hotels that partner with VegasSitting offer families something competitors can't: trusted, on-demand childcare. No overhead. No hiring. Just a service your guests will love.",
+      "description_fr": "Les hôtels partenaires de VegasSitting offrent aux familles quelque chose que leurs concurrents ne peuvent pas offrir : des services de garde d'enfants fiables et à la demande. Pas de frais généraux. Pas d'embauche. Juste un service que vos invités adoreront.",
+      "category": "Travel & Hospitality",
+      "website": "https://vegassitting.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T20:50:59.303405+00:00"
+    },
+    {
+      "name": "Phantom",
+      "slug": "polsia-phantom-ops-2",
+      "description": "The AI receptionist for service businesses. Handles inquiries, books appointments, follows up with leads. Works every hour of every day, costs less than a single shift.",
+      "description_fr": "La réceptionniste IA pour les entreprises de services. Gère les demandes de renseignements, prend les rendez-vous, assure le suivi des pistes. Fonctionne toutes les heures de chaque jour et coûte moins cher qu'un seul quart de travail.",
+      "category": "AI & Machine Learning",
+      "website": "https://phantom-ops-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T20:51:00.229599+00:00"
+    },
+    {
+      "name": "Vigilix",
+      "slug": "polsia-cyberguard",
+      "description": "Vigilix runs continuous, AI-generated attack simulations that mirror how real adversaries operate. Not templates from a library. Not annual checkbox training. Actual threats your team will face tomorrow.",
+      "description_fr": "Vigilix exécute en continu des simulations d'attaques générées par l'IA qui reflètent le fonctionnement des véritables adversaires. Pas des modèles d'une bibliothèque. Pas de formation annuelle aux cases à cocher. Menaces réelles auxquelles votre équipe sera confrontée demain.",
+      "category": "AI & Machine Learning",
+      "website": "https://cyberguard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T20:51:01.154269+00:00"
     }
   ]
 }
