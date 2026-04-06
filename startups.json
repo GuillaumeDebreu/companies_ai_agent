@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T08:44:37.079555+00:00",
+  "last_updated": "2026-04-06T09:54:51.892258+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -21490,20 +21490,26 @@
       "scraped_at": "2026-04-06T07:32:01.348625+00:00"
     },
     {
-      "name": "Unbroken Supply Co",
+      "name": "Unbroken Supply Co. — Wear Your Fight",
       "slug": "polsia-unbroken-supply-co",
+      "description": "Recovery doesn't need another pamphlet.It needs a brand that looks likeyou actually want to wear it. Designed for people who are tired of hiding the hardest thing they ever did.",
+      "description_fr": "Recovery n'a pas besoin d'un autre dépliant. Il a besoin d'une marque qui donne l'impression que vous voulez réellement le porter. Conçu pour les personnes qui en ont assez de cacher la chose la plus difficile qu'elles aient jamais faite.",
+      "category": "Marketing & Advertising",
       "website": "https://unbroken-supply-co.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T08:44:03.713340+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T09:54:50.556109+00:00"
     },
     {
-      "name": "Relay",
+      "name": "Relay — Your inbox, handled.",
       "slug": "polsia-relay-inbox",
+      "description": "Relay is an AI employee that reads your email, responds to routine inquiries, follows up on open threads, and delivers a daily briefing. You never open your inbox again.",
+      "description_fr": "Relay est un employé d'IA qui lit votre courrier électronique, répond aux demandes de renseignements de routine, assure le suivi des fils de discussion ouverts et donne un briefing quotidien. Vous n'ouvrez plus jamais votre boîte de réception.",
+      "category": "AI & Machine Learning",
       "website": "https://relay-inbox.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T08:44:04.008305+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T09:54:51.580031+00:00"
     },
     {
       "name": "RuneforgeOS",
@@ -21592,6 +21598,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-06T08:44:13.753229+00:00"
+    },
+    {
+      "name": "RoomForge",
+      "slug": "polsia-roomforge-2",
+      "website": "https://roomforge-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-06T09:54:18.695389+00:00"
+    },
+    {
+      "name": "BiscuitOS",
+      "slug": "polsia-biscuitos",
+      "description": "The Biscuit Factory started with a simple belief: creative professionals are underserved by traditional business support. The community grew to 10,000+ members because it fills a real gap. BiscuitOS exists to make the machine behind that community run faster, smarter, and further.",
+      "description_fr": "The Biscuit Factory a démarré avec une conviction simple : les professionnels de la création sont mal servis par le soutien commercial traditionnel. La communauté est passée à plus de 10 000 membres car elle comble un réel manque. BiscuitOS existe pour que la machine derrière cette communauté fonctionne plus rapidement, plus intelligemment et plus loin.",
+      "category": "Social & Community",
+      "website": "https://biscuitos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T09:54:19.731308+00:00"
+    },
+    {
+      "name": "WindwardCraft",
+      "slug": "polsia-windwardcraft",
+      "description": "New production sailboats have crossed $150K for a basic 30-footer. Meanwhile, proa builders around the world prove you can sail faster, simpler, and cheaper with an architecture perfected by Pacific Islanders millennia ago. The gap between what's possible and what's available has never been wider. WindwardCraft exists to close it.",
+      "description_fr": "Les nouveaux voiliers de production ont dépassé les 150 000 $ pour un 30 pieds de base. Pendant ce temps, les constructeurs Proa du monde entier prouvent que vous pouvez naviguer plus rapidement, plus simplement et moins cher avec une architecture perfectionnée par les insulaires du Pacifique il y a des millénaires. L'écart entre ce qui est possible et ce qui est disponible n'a jamais été aussi grand. WindwardCraft existe pour le fermer.",
+      "category": "Other",
+      "website": "https://windwardcraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T09:54:20.974177+00:00"
+    },
+    {
+      "name": "agents.bzh — Free Cloud Hosting for AI Agents",
+      "slug": "polsia-agentdockos",
+      "description": "We believe every developer should be able to deploy an AI agent without a credit card, a DevOps team, or a vendor lock-in contract. agents.bzh is the infrastructure layer that makes that real.",
+      "description_fr": "Nous pensons que chaque développeur devrait pouvoir déployer un agent IA sans carte de crédit, sans équipe DevOps ou sans contrat de verrouillage avec un fournisseur. agents.bzh est la couche d’infrastructure qui rend cela réel.",
+      "category": "AI & Machine Learning",
+      "website": "https://agentdockos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T09:54:21.699670+00:00"
+    },
+    {
+      "name": "TrekWork",
+      "slug": "polsia-trekwork",
+      "description": "Every year, hundreds of thousands of young travelers arrive in New Zealand and Australia with a working holiday visa and a simple question: where do I find work? The answer shouldn't be a clunky job board with no mobile experience and no visa filtering. TrekWork is building the platform this community has needed for years.",
+      "description_fr": "Chaque année, des centaines de milliers de jeunes voyageurs arrivent en Nouvelle-Zélande et en Australie avec un visa vacances-travail et une question simple : où puis-je trouver du travail ? La réponse ne devrait pas être un site d'emploi maladroit, sans expérience mobile ni filtrage des visas. TrekWork construit la plateforme dont cette communauté a besoin depuis des années.",
+      "category": "Software & SaaS",
+      "website": "https://trekwork.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T09:54:22.795353+00:00"
+    },
+    {
+      "name": "BreedOps",
+      "slug": "polsia-breedops",
+      "description": "BreedOps is the AI that manages pedigrees, optimizes breeding pairs, screens buyers, and handles waitlists. Not another database. An autonomous operator for your program.",
+      "description_fr": "BreedOps est l'IA qui gère les pedigrees, optimise les couples reproducteurs, sélectionne les acheteurs et gère les listes d'attente. Pas une autre base de données. Un opérateur autonome pour votre programme.",
+      "category": "AI & Machine Learning",
+      "website": "https://breedops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T09:54:24.027077+00:00"
+    },
+    {
+      "name": "BusPing",
+      "slug": "polsia-busping",
+      "description": "No more standing at the curb guessing. BusPing gives you the precise arrival time at your stop, updated in real time. Built for parents, not school districts.",
+      "description_fr": "Plus besoin de rester sur le trottoir pour deviner. BusPing vous donne l'heure précise d'arrivée à votre arrêt, mise à jour en temps réel. Conçu pour les parents, pas pour les districts scolaires.",
+      "category": "Real Estate",
+      "website": "https://busping.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T09:54:25.337556+00:00"
+    },
+    {
+      "name": "JobHound",
+      "slug": "polsia-jobhound",
+      "description": "Personalized outreach goes out on your behalf. Not spam. Real messages tailored to the homeowner's situation, your services, and your availability. You sound professional without lifting a finger.",
+      "description_fr": "Une sensibilisation personnalisée est effectuée en votre nom. Pas de spam. De vrais messages adaptés à la situation du propriétaire, à vos services et à vos disponibilités. Vous avez l’air professionnel sans lever le petit doigt.",
+      "category": "Sales & CRM",
+      "website": "https://jobhound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T09:54:26.951290+00:00"
+    },
+    {
+      "name": "Vocaly",
+      "slug": "polsia-vocaly",
+      "description": "Vocaly is an AI voice agent that picks up your business phone 24/7. It books appointments, answers questions, and routes urgent calls. Your customers never hear a voicemail again.",
+      "description_fr": "Vocaly est un agent vocal IA qui répond à votre téléphone professionnel 24h/24 et 7j/7. Il prend des rendez-vous, répond aux questions et achemine les appels urgents. Vos clients n'entendront plus jamais de message vocal.",
+      "category": "AI & Machine Learning",
+      "website": "https://vocaly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T09:54:29.674565+00:00"
+    },
+    {
+      "name": "Sigillo Studio — AI Brand Strategist",
+      "slug": "polsia-sigillo-studio",
+      "description": "Sigillo Studio researches your market, studies your competitors, and builds a complete brand identity system. Every choice backed by real analysis, not random color wheels.",
+      "description_fr": "Sigillo Studio étudie votre marché, étudie vos concurrents et construit un système complet d'identité de marque. Chaque choix est soutenu par une analyse réelle, et non par des roues chromatiques aléatoires.",
+      "category": "AI & Machine Learning",
+      "website": "https://sigillo-studio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T09:54:30.182475+00:00"
     }
   ]
 }
