@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T15:09:28.398180+00:00",
+  "last_updated": "2026-04-06T16:02:12.822759+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -22199,10 +22199,13 @@
     {
       "name": "Zeitwork",
       "slug": "polsia-zeitwork",
+      "description": "Zeitwork tracks every outstanding invoice. When a payment is overdue, it sends polite, personalized reminders at the right time. Escalates automatically if needed. You get paid faster without lifting a finger.",
+      "description_fr": "Zeitwork suit chaque facture impayée. Lorsqu’un paiement est en retard, il envoie des rappels polis et personnalisés au bon moment. Escalade automatiquement si nécessaire. Vous êtes payé plus rapidement sans lever le petit doigt.",
+      "category": "Finance & Fintech",
       "website": "https://zeitwork.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T15:08:44.735533+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T16:02:12.669622+00:00"
     },
     {
       "name": "FetchRoute",
@@ -22258,6 +22261,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-06T15:08:51.447395+00:00"
+    },
+    {
+      "name": "CoastRun",
+      "slug": "polsia-coastrun",
+      "website": "https://coastrun.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-06T16:01:25.511130+00:00"
+    },
+    {
+      "name": "PurposeForge — AI Purpose Coaching",
+      "slug": "polsia-purposeforge",
+      "description": "The people who need purpose coaching the most can't afford $200/hour sessions. They can't take time off work for appointments. They need someone in their corner at 11pm on a Tuesday, not next Thursday at 2pm. PurposeForge makes that real.",
+      "description_fr": "Les personnes qui ont le plus besoin de coaching ciblé ne peuvent pas se permettre des séances à 200 $/heure. Ils ne peuvent pas s'absenter du travail pour des rendez-vous. Ils ont besoin de quelqu'un dans leur coin un mardi à 23 heures, pas jeudi prochain à 14 heures. PurposeForge rend cela réel.",
+      "category": "AI & Machine Learning",
+      "website": "https://purposeforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T16:01:27.091531+00:00"
+    },
+    {
+      "name": "WildForgeOS",
+      "slug": "polsia-wildforgeos",
+      "description": "That's Wild Beard Forge. Every memorial ring is a one-on-one collaboration between artisan and customer. Ashes, hair, opal, meteorite, glow powders, all shaped into something you'll wear for the rest of your life.",
+      "description_fr": "C'est Wild Beard Forge. Chaque bague commémorative est une collaboration individuelle entre l'artisan et le client. Cendres, cheveux, opale, météorite, poudres lumineuses, le tout façonné en quelque chose que vous porterez pour le reste de votre vie.",
+      "category": "Other",
+      "website": "https://wildforgeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T16:01:28.663875+00:00"
+    },
+    {
+      "name": "Heirlume — Your Digital Legacy, Curated",
+      "slug": "polsia-heirlume",
+      "description": "Every competitor in this space built a digital filing cabinet and called it legacy planning. Heirlume starts with the person, with the warmth and weight of a life lived, and builds practical tools around that truth.",
+      "description_fr": "Tous les concurrents dans ce domaine ont construit un classeur numérique et l'ont appelé planification héritée. Heirlume commence par la personne, avec la chaleur et le poids d'une vie vécue, et construit des outils pratiques autour de cette vérité.",
+      "category": "Other",
+      "website": "https://heirlume.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T16:01:29.545992+00:00"
+    },
+    {
+      "name": "InhabitOS",
+      "slug": "polsia-inhabitos",
+      "description": "InhabitOS is the autonomous operating system behind InhabitMe. Bookings, host pipeline, competitive intel, growth outreach. All running while you sleep.",
+      "description_fr": "InhabitOS est le système d'exploitation autonome derrière InhabitMe. Réservations, pipeline d'hôtes, informations concurrentielles, sensibilisation à la croissance. Tout courir pendant que vous dormez.",
+      "category": "Sales & CRM",
+      "website": "https://inhabitos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T16:01:30.859194+00:00"
+    },
+    {
+      "name": "OpusFlow — The Operating System for Prolific Creators",
+      "slug": "polsia-opusflow",
+      "description": "You use one platform for music, another for video, a third for writing, a fourth for project management, and none of them know the others exist. Every AI tool solves one problem in one domain. Meanwhile, your portfolio spans six domains and a hundred projects.",
+      "description_fr": "Vous utilisez une plateforme pour la musique, une autre pour la vidéo, une troisième pour l'écriture, une quatrième pour la gestion de projet, et aucun d'entre eux ne sait que les autres existent. Chaque outil d'IA résout un problème dans un domaine. Pendant ce temps, votre portefeuille couvre six domaines et une centaine de projets.",
+      "category": "AI & Machine Learning",
+      "website": "https://opusflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T16:01:32.191152+00:00"
+    },
+    {
+      "name": "GearBooth — Home Studio Gear Reviews You Can Actually Hear",
+      "slug": "polsia-gearbooth",
+      "description": "GearBooth exists because buying studio gear shouldn't require a leap of faith. Every review includes real audio recorded through the gear, side-by-side comparisons you can hear, and honest takes on whether it's worth your money.",
+      "description_fr": "GearBooth existe parce que l'achat de matériel de studio ne devrait pas nécessiter un acte de foi. Chaque critique comprend de l'audio réel enregistré via l'équipement, des comparaisons côte à côte que vous pouvez entendre et des opinions honnêtes sur la question de savoir si cela vaut votre argent.",
+      "category": "Sustainability & Green",
+      "website": "https://gearbooth.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T16:01:33.944790+00:00"
+    },
+    {
+      "name": "NextMoveOS",
+      "slug": "polsia-nextmoveos",
+      "description": "Scheduling, participant tracking, session follow-ups, and progress monitoring for group programs. Run multiple cohorts simultaneously without the operational overhead drowning out the actual advisory work.",
+      "description_fr": "Planification, suivi des participants, suivis de sessions et suivi des progrès des programmes de groupe. Exécutez plusieurs cohortes simultanément sans que les frais généraux opérationnels ne submergent le travail de conseil réel.",
+      "category": "Marketing & Advertising",
+      "website": "https://nextmoveos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T16:01:34.809093+00:00"
+    },
+    {
+      "name": "LotCoach",
+      "slug": "polsia-lotcoach",
+      "description": "The average buyer leaves $2,000-5,000 on the table because they didn't know what to say. That era is over. LotCoach puts a master negotiator in your pocket, for every car you'll ever buy.",
+      "description_fr": "L'acheteur moyen laisse entre 2 000 et 5 000 $ sur la table parce qu'il ne sait pas quoi dire. Cette époque est révolue. LotCoach met un maître négociateur dans votre poche, pour chaque voiture que vous achèterez.",
+      "category": "Other",
+      "website": "https://lotcoach.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T16:01:36.365233+00:00"
+    },
+    {
+      "name": "PennyPath",
+      "slug": "polsia-pennypath",
+      "description": "Schools skip it. Parents don't always have the answers. And by the time you realize you need to understand money, you're already making decisions without a map.",
+      "description_fr": "Les écoles l’ignorent. Les parents n'ont pas toujours les réponses. Et au moment où vous réalisez que vous devez comprendre l’argent, vous prenez déjà des décisions sans carte.",
+      "category": "Real Estate",
+      "website": "https://pennypath.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T16:01:37.993912+00:00"
     }
   ]
 }
