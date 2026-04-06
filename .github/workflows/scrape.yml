@@ -19,7 +19,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 aiohttp
+        run: pip install requests beautifulsoup4 aiohttp deep-translator
 
       - name: Run NanoList scraper
         run: python scrape_fast.py

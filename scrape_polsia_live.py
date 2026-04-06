@@ -21,6 +21,17 @@ import sys
 import time
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
+from deep_translator import GoogleTranslator
+
+
+def translate_to_fr(text):
+    """Translate text to French. Returns original on failure."""
+    if not text:
+        return ""
+    try:
+        return GoogleTranslator(source='en', target='fr').translate(text)
+    except Exception:
+        return ""
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 JSON_FILE = os.path.join(DIR, "startups.json")
@@ -147,10 +158,13 @@ def parse_polsia_site(html, slug, original_name):
 
     category = classify(name, description)
 
+    description_fr = translate_to_fr(description)
+
     return {
         "name": name,
         "slug": f"polsia-{slug}",
         "description": description,
+        "description_fr": description_fr,
         "category": category,
         "website": f"https://{slug}.polsia.app",
         "source": "polsia",

@@ -10,6 +10,16 @@ import os
 import time
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
+from deep_translator import GoogleTranslator
+
+
+def translate_to_fr(text):
+    if not text:
+        return ""
+    try:
+        return GoogleTranslator(source='en', target='fr').translate(text)
+    except Exception:
+        return ""
 
 BASE_URL = "https://nanolist.nanocorp.app"
 JSON_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "startups.json")
@@ -59,10 +69,13 @@ def parse_detail(html, slug):
             website = a["href"]
             break
 
+    description_fr = translate_to_fr(description)
+
     return {
         "name": name,
         "slug": slug,
         "description": description,
+        "description_fr": description_fr,
         "category": category,
         "website": website,
         "scraped_at": datetime.now(timezone.utc).isoformat(),
