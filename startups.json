@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T21:30:16.854964+00:00",
+  "last_updated": "2026-04-06T22:03:20.738193+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -22914,20 +22914,26 @@
       "scraped_at": "2026-04-06T20:51:01.154269+00:00"
     },
     {
-      "name": "CendiaOS",
+      "name": "Cendia Solutions — Operational Intelligence for the AI Era",
       "slug": "polsia-cendiaos",
+      "description": "Every tool gives you more charts. More logs. More alerts. But nobody tells you what it all means for your business. The people running operations aren't engineers. They need answers, not query languages.",
+      "description_fr": "Chaque outil vous donne plus de graphiques. Plus de journaux. Plus d'alertes. Mais personne ne vous dit ce que tout cela signifie pour votre entreprise. Les personnes qui dirigent les opérations ne sont pas des ingénieurs. Ils ont besoin de réponses, pas de langages de requête.",
+      "category": "AI & Machine Learning",
       "website": "https://cendiaos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T21:29:55.735464+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T22:03:16.716370+00:00"
     },
     {
       "name": "BeansOS",
       "slug": "polsia-beansos",
+      "description": "Infrastructure should be invisible. You should spend zero hours debugging why your agent gateway dropped 200 requests at 3am. That is our problem, not yours. We handle the plumbing so you can build what matters.",
+      "description_fr": "Les infrastructures doivent être invisibles. Vous ne devriez consacrer aucune heure à déboguer pourquoi votre passerelle d'agent a abandonné 200 requêtes à 3 heures du matin. C'est notre problème, pas le vôtre. Nous nous occupons de la plomberie afin que vous puissiez construire ce qui compte.",
+      "category": "Other",
       "website": "https://beansos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T21:29:55.925221+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T22:03:18.250329+00:00"
     },
     {
       "name": "Allocator — AI",
@@ -23016,6 +23022,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-06T21:30:05.459226+00:00"
+    },
+    {
+      "name": "SpeakeasyOS",
+      "slug": "polsia-speakeasyos",
+      "website": "https://speakeasyos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-06T22:02:43.167950+00:00"
+    },
+    {
+      "name": "ProbeSec",
+      "slug": "polsia-probesec",
+      "description": "The security tools developers actually need shouldn't cost enterprise budgets or require a dedicated security team. ProbeSec makes API security testing as routine as running your test suite.",
+      "description_fr": "Les outils de sécurité dont les développeurs ont réellement besoin ne devraient pas coûter cher aux budgets des entreprises ni nécessiter une équipe de sécurité dédiée. ProbeSec rend les tests de sécurité des API aussi routiniers que l'exécution de votre suite de tests.",
+      "category": "Software & SaaS",
+      "website": "https://probesec.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:03:20.129866+00:00"
+    },
+    {
+      "name": "CarePath",
+      "slug": "polsia-carepath",
+      "website": "https://carepath.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-06T22:02:44.210058+00:00"
+    },
+    {
+      "name": "BurnLens",
+      "slug": "polsia-burnlens",
+      "website": "https://burnlens.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-06T22:02:44.478571+00:00"
+    },
+    {
+      "name": "BreachScan",
+      "slug": "polsia-breachscan",
+      "description": "BreachScan tests for the vulnerabilities automated scanners miss: broken authorization, business logic flaws, and the IDOR bugs that let User A read User B's data.",
+      "description_fr": "BreachScan teste les vulnérabilités manquées par les scanners automatisés : autorisation brisée, failles de logique métier et bogues IDOR qui permettent à l'utilisateur A de lire les données de l'utilisateur B.",
+      "category": "Marketing & Advertising",
+      "website": "https://breachscan.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:02:46.243402+00:00"
+    },
+    {
+      "name": "AdvisorPilot",
+      "slug": "polsia-advisorpilot-2",
+      "description": "AdvisorPilot replaces the marketing agency with an AI that actually executes. Not templates. Not suggestions. Real campaigns, real content, real leads. It monitors your performance, adjusts strategy, and reports results. Autonomously.",
+      "description_fr": "AdvisorPilot remplace l'agence de marketing par une IA qui s'exécute réellement. Pas des modèles. Pas des suggestions. De vraies campagnes, du vrai contenu, de vrais leads. Il surveille vos performances, ajuste votre stratégie et rapporte les résultats. De manière autonome.",
+      "category": "AI & Machine Learning",
+      "website": "https://advisorpilot-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:02:47.743623+00:00"
+    },
+    {
+      "name": "HackProbe",
+      "slug": "polsia-hackprobe",
+      "description": "Every API endpoint is a potential entry point. HackProbe maps them all, tests them automatically, and tells you exactly what to fix. Security scanning built for developers who ship fast.",
+      "description_fr": "Chaque point de terminaison d'API est un point d'entrée potentiel. HackProbe les cartographie tous, les teste automatiquement et vous indique exactement quoi corriger. Analyse de sécurité conçue pour les développeurs qui expédient rapidement.",
+      "category": "Software & SaaS",
+      "website": "https://hackprobe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:02:48.909698+00:00"
+    },
+    {
+      "name": "VeilPact",
+      "slug": "polsia-veilpact",
+      "description": "VeilPact protects high-profile individuals from sextortion, false claims, and intimate privacy breaches. Consent contracts, secure verification, and insurance in one platform built for people who can't afford a scandal.",
+      "description_fr": "VeilPact protège les personnes de haut niveau contre la sextorsion, les fausses déclarations et les atteintes à la vie privée. Contrats de consentement, vérification sécurisée et assurance sur une seule plateforme conçue pour les personnes qui ne peuvent pas se permettre un scandale.",
+      "category": "Software & SaaS",
+      "website": "https://veilpact.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:02:49.766184+00:00"
+    },
+    {
+      "name": "DigitalFirmenOS — Das Betriebssystem für Digital Firmen",
+      "slug": "polsia-digitalfirmenos",
+      "description": "DigitalFirmenOS gibt dir die Kontrolle uber Leads, Projekte und Umsatz. Alles an einem Ort, damit du dich auf das konzentrieren kannst, was du am besten kannst: Websites, die Kunden bringen.",
+      "description_fr": "DigitalFirmenOS dirige le contrôle des responsables, des projets et des solutions. Tout ce qu'il y a à dire, c'est que vous avez la possibilité de trouver des solutions, c'est le meilleur moyen de le faire : les sites Web, les solutions proposées.",
+      "category": "Sales & CRM",
+      "website": "https://digitalfirmenos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:02:51.130840+00:00"
+    },
+    {
+      "name": "Riftscan",
+      "slug": "polsia-riftscan",
+      "description": "Most API security platforms start at $100K/year and require a dedicated security team to operate. Riftscan brings the same depth of testing to every developer, at a price that makes security non-negotiable.",
+      "description_fr": "La plupart des plates-formes de sécurité API commencent à 100 000 $/an et nécessitent une équipe de sécurité dédiée pour fonctionner. Riftscan apporte la même profondeur de tests à chaque développeur, à un prix qui rend la sécurité non négociable.",
+      "category": "Software & SaaS",
+      "website": "https://riftscan.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:02:52.514150+00:00"
     }
   ]
 }
