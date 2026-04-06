@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T14:15:32.962699+00:00",
+  "last_updated": "2026-04-06T15:09:28.398180+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -20937,10 +20937,13 @@
     {
       "name": "FreroOS",
       "slug": "polsia-freroos",
+      "description": "FreroOS is the autonomous operating system behind Frero Collective. It handles trade outreach, competitive intelligence, and growth operations so two brothers can focus on what they do best: shaping stone into art.",
+      "description_fr": "FreroOS est le système d'exploitation autonome derrière Frero Collective. Il gère les opérations de sensibilisation commerciale, de veille concurrentielle et de croissance afin que deux frères puissent se concentrer sur ce qu'ils font le mieux : transformer la pierre en art.",
+      "category": "Software & SaaS",
       "website": "https://freroos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T23:17:47.830039+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T15:09:21.492973+00:00"
     },
     {
       "name": "Quickcast",
@@ -22062,12 +22065,15 @@
       "scraped_at": "2026-04-06T14:14:58.117416+00:00"
     },
     {
-      "name": "Kiln",
+      "name": "Kiln — Your AI Sales Rep",
       "slug": "polsia-kiln-3",
+      "description": "Kiln finds your ideal prospects, researches their business, writes personalized outreach, follows up relentlessly, and books meetings on your calendar. Every day. Without asking.",
+      "description_fr": "Kiln trouve vos prospects idéaux, recherche leur entreprise, rédige des documents de sensibilisation personnalisés, assure un suivi sans relâche et réserve des réunions sur votre calendrier. Tous les jours. Sans demander.",
+      "category": "Sales & CRM",
       "website": "https://kiln-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T14:14:58.631886+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T15:09:25.328981+00:00"
     },
     {
       "name": "RiskCanvas — Autonomous Risk Management",
@@ -22145,6 +22151,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-06T14:15:09.641009+00:00"
+    },
+    {
+      "name": "CraftShopOS",
+      "slug": "polsia-craftshopos",
+      "description": "CraftShopOS is the operating system built for custom carpenters. Estimates, scheduling, clients, and job tracking in one place, so you spend more time building and less time buried in paperwork.",
+      "description_fr": "CraftShopOS est le système d'exploitation conçu pour les menuisiers personnalisés. Les estimations, la planification, les clients et le suivi des travaux en un seul endroit, pour que vous passiez plus de temps à construire et moins de temps à vous perdre dans la paperasse.",
+      "category": "E-Commerce & Retail",
+      "website": "https://craftshopos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T15:09:26.561955+00:00"
+    },
+    {
+      "name": "QuantBridge",
+      "slug": "polsia-quantbridge",
+      "description": "QuantBridge places IT and business professionals into capital markets. \n            Developers, quants, data engineers, middle office, back office. \n            One firm. Both sides of the desk.",
+      "description_fr": "QuantBridge place les professionnels de l'informatique et des affaires sur les marchés des capitaux. \n            Développeurs, quants, data ingénieurs, middle office, back office. \n            Une entreprise. Les deux côtés du bureau.",
+      "category": "Software & SaaS",
+      "website": "https://quantbridge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T15:09:28.096519+00:00"
+    },
+    {
+      "name": "RepSync",
+      "slug": "polsia-repsync",
+      "description": "RepSync lets fitness trainers build workout routines and assign them to clients in seconds. Your clients see their plan, log their reps, and you track everything. No more spreadsheets. No more WhatsApp chaos.",
+      "description_fr": "RepSync permet aux entraîneurs de fitness de créer des routines d'entraînement et de les attribuer aux clients en quelques secondes. Vos clients voient leur plan, enregistrent leurs représentants et vous suivez tout. Fini les feuilles de calcul. Fini le chaos WhatsApp.",
+      "category": "Health & Wellness",
+      "website": "https://repsync.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T15:08:39.981848+00:00"
+    },
+    {
+      "name": "RootStone",
+      "slug": "polsia-the-jupiter-star",
+      "description": "Based in Sunbury, Ohio, RootStone brings Midwest grounding to the wellness space. No hype, no false promises. Just real stones, honest sourcing, and the belief that what comes from the earth can help us return to ourselves.",
+      "description_fr": "Basée à Sunbury, Ohio, RootStone apporte les bases du Midwest à l'espace bien-être. Pas de battage médiatique, pas de fausses promesses. Juste de vraies pierres, un approvisionnement honnête et la conviction que ce qui vient de la terre peut nous aider à revenir à nous-mêmes.",
+      "category": "Health & Wellness",
+      "website": "https://the-jupiter-star.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T15:08:41.453950+00:00"
+    },
+    {
+      "name": "Zeitwork",
+      "slug": "polsia-zeitwork",
+      "website": "https://zeitwork.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-06T15:08:44.735533+00:00"
+    },
+    {
+      "name": "FetchRoute",
+      "slug": "polsia-fetchroute",
+      "description": "Moving across the country? Getting a new puppy from a breeder in another state? Book vetted drivers, track your pet live, and rest easy knowing they're in good hands.",
+      "description_fr": "Vous déménagez à travers le pays ? Obtenir un nouveau chiot auprès d'un éleveur dans un autre État ? Réservez des chauffeurs agréés, suivez votre animal en direct et soyez tranquille en sachant qu'il est entre de bonnes mains.",
+      "category": "Other",
+      "website": "https://fetchroute.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T15:08:46.033273+00:00"
+    },
+    {
+      "name": "TrueVine",
+      "slug": "polsia-truevine",
+      "description": "TrueVine is a social community for believers who reject Christian nationalism and want to reclaim the faith from those who've turned it into a tool of exclusion, supremacy, and political power.",
+      "description_fr": "TrueVine est une communauté sociale pour les croyants qui rejettent le nationalisme chrétien et souhaitent récupérer la foi de ceux qui l'ont transformée en un outil d'exclusion, de suprématie et de pouvoir politique.",
+      "category": "Social & Community",
+      "website": "https://truevine.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T15:08:47.535022+00:00"
+    },
+    {
+      "name": "RVA Property Group",
+      "slug": "polsia-rva-property-group",
+      "description": "RVA Property Group is a NYC real estate firm built on one belief: the best results come from fewer clients and deeper relationships. Brokerage and boutique property management, rooted in Queens.",
+      "description_fr": "RVA Property Group est une société immobilière de New York fondée sur une conviction : les meilleurs résultats proviennent d'un nombre réduit de clients et de relations plus profondes. Courtage et gestion immobilière de charme, enracinés dans le Queens.",
+      "category": "Real Estate",
+      "website": "https://rva-property-group.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T15:08:49.290178+00:00"
+    },
+    {
+      "name": "EarnProof",
+      "slug": "polsia-earnproof",
+      "description": "EarnProof turns digital earnings from platforms like YouTube, Uber, Etsy, and Shopify into bank-ready credit scores. No W2 required. No guesswork. Just verified income, scored by AI.",
+      "description_fr": "EarnProof transforme les revenus numériques provenant de plateformes telles que YouTube, Uber, Etsy et Shopify en cotes de crédit prêtes à être bancaires. Aucun W2 requis. Aucune conjecture. Revenu juste vérifié, noté par l'IA.",
+      "category": "E-Commerce & Retail",
+      "website": "https://earnproof.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T15:08:50.758830+00:00"
+    },
+    {
+      "name": "MakiHelpOS",
+      "slug": "polsia-makihelpos",
+      "description": "Most VA businesses run on scattered tools and manual coordination. MakiHelpOS replaces the chaos witha single systemthat sees everything, routes everything, and measures everything. The business you built deserves infrastructure that keeps up.",
+      "description_fr": "La plupart des entreprises VA fonctionnent avec des outils dispersés et une coordination manuelle. MakiHelpOS remplace le chaos par un système unique qui voit tout, achemine tout et mesure tout. L’entreprise que vous avez bâtie mérite une infrastructure qui suit le rythme.",
+      "category": "Other",
+      "website": "https://makihelpos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T15:08:51.447395+00:00"
     }
   ]
 }
