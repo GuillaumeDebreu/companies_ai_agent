@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T22:03:20.738193+00:00",
+  "last_updated": "2026-04-06T22:53:34.742363+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -23026,10 +23026,13 @@
     {
       "name": "SpeakeasyOS",
       "slug": "polsia-speakeasyos",
+      "description": "Speakeasy Support earns trust one house call at a time. SpeakeasyOS makes sure no customer, no follow-up, and no opportunity ever slips through the cracks. This is how a local IT provider scales without losing the personal touch.",
+      "description_fr": "Speakeasy Support gagne la confiance une visite à domicile à la fois. SpeakeasyOS s’assure qu’aucun client, aucun suivi et aucune opportunité ne passent entre les mailles du filet. C'est ainsi qu'un fournisseur informatique local évolue sans perdre sa touche personnelle.",
+      "category": "Other",
       "website": "https://speakeasyos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T22:02:43.167950+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T22:53:30.935779+00:00"
     },
     {
       "name": "ProbeSec",
@@ -23045,18 +23048,24 @@
     {
       "name": "CarePath",
       "slug": "polsia-carepath",
+      "description": "Every time you switch employers, your training records vanish. Your qualifications live in filing cabinets. Career progression means starting over. The tools that exist? Built for managers to schedule you, not for you to build a career.",
+      "description_fr": "Chaque fois que vous changez d’employeur, vos dossiers de formation disparaissent. Vos qualifications vivent dans des classeurs. L’évolution de carrière signifie recommencer. Les outils qui existent ? Conçu pour que les managers vous planifient, pas pour que vous bâtissiez une carrière.",
+      "category": "Education",
       "website": "https://carepath.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T22:02:44.210058+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T22:53:32.109887+00:00"
     },
     {
-      "name": "BurnLens",
+      "name": "BurnLens — The AI That Watches Your Cloud Bill",
       "slug": "polsia-burnlens",
+      "description": "BurnLens is an autonomous AI that monitors your cloud infrastructure 24/7, catches cost anomalies the moment they happen, and takes action before they hit your budget.",
+      "description_fr": "BurnLens est une IA autonome qui surveille votre infrastructure cloud 24h/24 et 7j/7, détecte les anomalies de coûts dès qu'elles se produisent et prend des mesures avant qu'elles n'atteignent votre budget.",
+      "category": "AI & Machine Learning",
       "website": "https://burnlens.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T22:02:44.478571+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T22:53:33.205208+00:00"
     },
     {
       "name": "BreachScan",
@@ -23123,6 +23132,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-06T22:02:52.514150+00:00"
+    },
+    {
+      "name": "K3InvestOS — Your Portfolio, Autonomous",
+      "slug": "polsia-k3investos",
+      "description": "Naval Station Norfolk drives constant rental demand. Virginia's landlord-friendly laws protect your returns. But the investors who win are the ones with better information, faster. K3InvestOS makes that automatic.",
+      "description_fr": "La base navale de Norfolk génère une demande de location constante. Les lois de Virginie favorables aux propriétaires protègent vos retours. Mais les investisseurs qui gagnent sont ceux qui disposent de meilleures informations, plus rapidement. K3InvestOS rend cela automatique.",
+      "category": "Real Estate",
+      "website": "https://k3investos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:53:34.737343+00:00"
+    },
+    {
+      "name": "Souqmatic",
+      "slug": "polsia-souqmatic",
+      "description": "Souqmatic is the AI operations engine that manages your product catalog, answers customers in Arabic and English, runs your social media, and optimizes pricing. You source the products. It does everything else.",
+      "description_fr": "Souqmatic est le moteur opérationnel d'IA qui gère votre catalogue de produits, répond aux clients en arabe et en anglais, gère vos réseaux sociaux et optimise les tarifs. Vous vous approvisionnez en produits. Il fait tout le reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://souqmatic.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:52:57.907196+00:00"
+    },
+    {
+      "name": "Workweave — Automation that runs itself",
+      "slug": "polsia-workweave",
+      "description": "Workweave deploys autonomous AI agents that handle your business operations 24/7. No flowcharts. No drag-and-drop. Just tell it what needs to happen.",
+      "description_fr": "Workweave déploie des agents d'IA autonomes qui gèrent vos opérations commerciales 24h/24 et 7j/7. Aucun organigramme. Pas de glisser-déposer. Dites-lui simplement ce qui doit arriver.",
+      "category": "AI & Machine Learning",
+      "website": "https://workweave.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:52:59.302473+00:00"
+    },
+    {
+      "name": "PostGuard",
+      "slug": "polsia-postguard",
+      "description": "PostGuard isn't designed by consultants guessing what security companies need. It's built from the inside, by someone who lives the operational gaps every day.",
+      "description_fr": "PostGuard n'est pas conçu par des consultants qui devinent ce dont les entreprises de sécurité ont besoin. Il est construit de l'intérieur, par quelqu'un qui vit au quotidien les lacunes opérationnelles.",
+      "category": "Other",
+      "website": "https://postguard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:53:00.514741+00:00"
+    },
+    {
+      "name": "SecondRing — Your AI Front Desk, Always On",
+      "slug": "polsia-secondring",
+      "description": "After every visit, SecondRing sends a thank-you, requests a review, and re-engages customers who haven't been back. Your reputation grows on autopilot.",
+      "description_fr": "Après chaque visite, SecondRing envoie un remerciement, demande un avis et réengage les clients qui ne sont pas revenus. Votre réputation grandit en pilote automatique.",
+      "category": "AI & Machine Learning",
+      "website": "https://secondring.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:53:02.252219+00:00"
+    },
+    {
+      "name": "Gateline — The AI That Runs Your Service Business",
+      "slug": "polsia-gateline",
+      "description": "A part-time office person costs $1,500+/month, works 20 hours a week, and takes holidays off. Gateline works every hour of every day for a fraction of the price. One recovered job pays for itself.",
+      "description_fr": "Un employé de bureau à temps partiel coûte plus de 1 500 $/mois, travaille 20 heures par semaine et prend des vacances. Gateline fonctionne toutes les heures de chaque jour pour une fraction du prix. Un emploi récupéré est rentabilisé.",
+      "category": "AI & Machine Learning",
+      "website": "https://gateline.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:53:03.617275+00:00"
+    },
+    {
+      "name": "Mentaura",
+      "slug": "polsia-mentaura",
+      "description": "Mentaura puts an AI tutor in every South African student's pocket. Available 24/7 on WhatsApp, aligned with the CAPS curriculum, at a price any family can afford.",
+      "description_fr": "Mentaura met un tuteur en IA dans la poche de chaque étudiant sud-africain. Disponible 24h/24 et 7j/7 sur WhatsApp, aligné sur le programme CAPS, à un prix abordable pour toutes les familles.",
+      "category": "AI & Machine Learning",
+      "website": "https://mentaura.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:53:04.449701+00:00"
+    },
+    {
+      "name": "Tallied — AI Bookkeeper for Local Businesses",
+      "slug": "polsia-tallied-49",
+      "description": "Tallied connects to your bank account and categorizes every transaction, tracks expenses, sends invoices, and generates tax-ready reports. No accounting degree required.",
+      "description_fr": "Tallied se connecte à votre compte bancaire et catégorise chaque transaction, suit les dépenses, envoie des factures et génère des rapports prêts à l'impôt. Aucun diplôme en comptabilité requis.",
+      "category": "AI & Machine Learning",
+      "website": "https://tallied-49.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:53:05.683964+00:00"
+    },
+    {
+      "name": "JobBrain",
+      "slug": "polsia-jobbrain",
+      "description": "Snap a photo of the job site. AI analyzes the work, calculates materials and labor, and generates a quote in seconds. Customers get a professional estimate before your competitor picks up the phone.",
+      "description_fr": "Prenez une photo du chantier. L'IA analyse le travail, calcule les matériaux et la main-d'œuvre et génère un devis en quelques secondes. Les clients obtiennent une estimation professionnelle avant que votre concurrent ne décroche le téléphone.",
+      "category": "AI & Machine Learning",
+      "website": "https://jobbrain.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:53:06.751950+00:00"
+    },
+    {
+      "name": "FilmForward",
+      "slug": "polsia-filmforward",
+      "description": "FilmForward is an AI production manager that autonomously handles festival submissions, distribution outreach, fundraising, and audience building, so indie filmmakers can stay behind the camera.",
+      "description_fr": "FilmForward est un gestionnaire de production IA qui gère de manière autonome les inscriptions aux festivals, la diffusion, la collecte de fonds et la création d'audience, afin que les cinéastes indépendants puissent rester derrière la caméra.",
+      "category": "AI & Machine Learning",
+      "website": "https://filmforward.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T22:53:07.747213+00:00"
     }
   ]
 }
