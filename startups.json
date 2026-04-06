@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T05:11:52.119099+00:00",
+  "last_updated": "2026-04-06T07:03:26.516643+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -18604,12 +18604,14 @@
       "scraped_at": "2026-04-05T21:58:22.316699+00:00"
     },
     {
-      "name": "SortedMT",
+      "name": "SORTED — Everyday Essentials, Delivered Across Malta",
       "slug": "polsia-sortedmt",
+      "description": "Buy curated packs of underwear, socks, vests and pyjamas. Save your sizes. Reorder in seconds. Delivered across Malta.",
+      "category": "Sustainability & Green",
       "website": "https://sortedmt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T21:58:22.716174+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T07:03:22.781793+00:00"
     },
     {
       "name": "HavenFlow",
@@ -18998,10 +19000,12 @@
     {
       "name": "Restovo",
       "slug": "polsia-restovo",
+      "description": "Restovo is an AI agent that runs your vacation rentals autonomously. Guest messages, pricing, cleaning, reviews. It handles the operations so you collect the income.",
+      "category": "AI & Machine Learning",
       "website": "https://restovo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T05:11:27.264089+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T07:03:26.096371+00:00"
     },
     {
       "name": "ScouterDeals",
@@ -19080,6 +19084,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-06T05:11:30.109034+00:00"
+    },
+    {
+      "name": "GradeKit",
+      "slug": "polsia-gradekit-2",
+      "website": "https://gradekit-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-06T07:03:05.276380+00:00"
+    },
+    {
+      "name": "ModelPick — The best LLM for every task",
+      "slug": "polsia-modelpick",
+      "description": "There are 9 major LLM comparison sites. They track hundreds of models across dozens of benchmarks. And after spending 30 minutes on any of them, you still don't know which model to use for your specific task.",
+      "category": "AI & Machine Learning",
+      "website": "https://modelpick.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T07:03:05.630682+00:00"
+    },
+    {
+      "name": "VelvetTide — Your Skin's Healing Journey Starts Here",
+      "slug": "polsia-velvettide",
+      "description": "Born on the shores of the Outer Banks, VelvetTide is rooted in the belief that skin health is a journey, not a destination. We combine coastal wellness wisdom with modern personalization to create something the skincare industry has been missing: a path, not just a purchase.",
+      "category": "Health & Wellness",
+      "website": "https://velvettide.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T07:03:05.818481+00:00"
+    },
+    {
+      "name": "LootPost",
+      "slug": "polsia-lootpost",
+      "description": "Not generic AI slop. LootPost learns your tone, your niche, your audience. It creates posts, captions, and hooks that sound like you wrote them at 2am after a win streak.",
+      "category": "AI & Machine Learning",
+      "website": "https://lootpost.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T07:03:06.128173+00:00"
+    },
+    {
+      "name": "MintedMogul",
+      "slug": "polsia-mintedmogul",
+      "description": "Create a hyper-realistic AI avatar that delivers your course content, presents your brand, and scales your presence to thousands of students simultaneously.",
+      "category": "AI & Machine Learning",
+      "website": "https://mintedmogul.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T07:03:06.415209+00:00"
+    },
+    {
+      "name": "Dink & Grind — Pickleball + Coffee, Honolulu",
+      "slug": "polsia-dinkgrindos",
+      "description": "Pickleball is the fastest-growing sport in America. Hawaii has the climate, the community, and the culture. Nobody has claimed the pickleball + coffee corner yet.",
+      "category": "Food & Beverage",
+      "website": "https://dinkgrindos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T07:03:06.761207+00:00"
+    },
+    {
+      "name": "DealForge",
+      "slug": "polsia-dealforge-87",
+      "description": "DealForge is an autonomous AI sales rep that finds prospects, writes personalized outreach, follows up relentlessly, and books meetings. You close. It does everything else.",
+      "category": "Sales & CRM",
+      "website": "https://dealforge-87.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T07:03:07.035931+00:00"
+    },
+    {
+      "name": "Prowl — Your City, Decoded",
+      "slug": "polsia-prowl-3",
+      "description": "AI that scans every event platform, review site, and local blog in your city, then tells you exactly what's worth your time tonight.",
+      "category": "AI & Machine Learning",
+      "website": "https://prowl-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T07:03:07.382740+00:00"
+    },
+    {
+      "name": "Zenopay EU",
+      "slug": "polsia-zenopay-eu",
+      "description": "Every fintech in Europe builds a prettier interface on top of SEPA and card networks. The rails underneath are still slow, expensive, and fragmented across 36 countries. Zenopay doesn't add another layer of paint. It replaces what's underneath.",
+      "category": "Finance & Fintech",
+      "website": "https://zenopay-eu.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T07:03:07.660786+00:00"
+    },
+    {
+      "name": "Nockr",
+      "slug": "polsia-nockr",
+      "description": "Nockr finds your ideal prospects, writes personalized outreach, follows up at the perfect moment, and books meetings on your calendar. Runs 24/7. Costs less than your morning coffee subscription.",
+      "category": "Sales & CRM",
+      "website": "https://nockr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T07:03:07.931134+00:00"
     }
   ]
 }
