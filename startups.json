@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T19:03:40.191876+00:00",
+  "last_updated": "2026-04-06T19:15:51.669712+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -22480,12 +22480,15 @@
       "scraped_at": "2026-04-06T17:02:34.981849+00:00"
     },
     {
-      "name": "MirrorCast",
+      "name": "MirrorCast — Your AI Twin Studio",
       "slug": "polsia-mirrorcast",
+      "description": "The best avatar platforms charge thousands per month for a custom digital twin. Solo creators, coaches, and small teams are stuck with generic stock avatars or priced out entirely. The technology exists. The access doesn't.",
+      "description_fr": "Les meilleures plateformes d'avatars facturent des milliers de dollars par mois pour un jumeau numérique personnalisé. Les créateurs solo, les coachs et les petites équipes sont coincés avec des avatars génériques ou entièrement hors prix. La technologie existe. L'accès ne le fait pas.",
+      "category": "AI & Machine Learning",
       "website": "https://mirrorcast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T18:00:22.023220+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T19:15:50.265933+00:00"
     },
     {
       "name": "VANTA",
@@ -22585,6 +22588,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-06T18:00:34.006459+00:00"
+    },
+    {
+      "name": "PrintPulse",
+      "slug": "polsia-printpulse-ai",
+      "website": "https://printpulse-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-06T19:15:15.073048+00:00"
+    },
+    {
+      "name": "MarkSpot",
+      "slug": "polsia-markspot",
+      "description": "MarkSpot surfaces trends you wouldn't notice. \"Bathroom stops increased 30% this week\" or \"always pees within 2 minutes on the east trail.\"",
+      "description_fr": "MarkSpot fait apparaître des tendances que vous ne remarqueriez pas. « Les arrêts aux toilettes ont augmenté de 30 % cette semaine » ou « fait toujours pipi dans les 2 minutes sur le sentier est ».",
+      "category": "Other",
+      "website": "https://markspot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T19:15:16.715062+00:00"
+    },
+    {
+      "name": "BusinessOS — From Idea to Roadmap, With Memory",
+      "slug": "polsia-businessos",
+      "description": "BusinessOS doesn't just help you write a plan. It helps you think through a business, remember every decision, and know exactly what to do next.",
+      "description_fr": "BusinessOS ne vous aide pas seulement à rédiger un plan. Cela vous aide à réfléchir à votre entreprise, à vous souvenir de chaque décision et à savoir exactement quoi faire ensuite.",
+      "category": "Other",
+      "website": "https://businessos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T19:15:17.938849+00:00"
+    },
+    {
+      "name": "Vespr — Your AI Night Shift",
+      "slug": "polsia-vespr-ai",
+      "description": "Vespr is an AI agent that works your night shift. It triages customer emails, follows up on stale leads, monitors your metrics, and delivers a morning briefing before your first coffee.",
+      "description_fr": "Vespr est un agent IA qui travaille de nuit. Il trie les e-mails des clients, assure le suivi des pistes obsolètes, surveille vos mesures et propose un briefing matinal avant votre premier café.",
+      "category": "AI & Machine Learning",
+      "website": "https://vespr-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T19:15:51.665764+00:00"
+    },
+    {
+      "name": "Barn Bound Co — Powered Muck Cart for the Modern Barn",
+      "slug": "polsia-barnboundos",
+      "description": "We are horse people building tools for horse people. Every product comes from real barn experience, real frustration, and real solutions tested in the aisle before they ever hit a shelf.",
+      "description_fr": "Nous sommes des gens du cheval qui construisons des outils pour les gens du cheval. Chaque produit est issu d'une véritable expérience en étable, d'une réelle frustration et de vraies solutions testées dans l'allée avant même d'arriver en rayon.",
+      "category": "AI & Machine Learning",
+      "website": "https://barnboundos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T19:15:18.834603+00:00"
+    },
+    {
+      "name": "SumiFlow — Your AI Content Team",
+      "slug": "polsia-sumiflow",
+      "description": "SumiFlow is an AI agent that runs your entire content operation. \n                It researches trends, writes in Japanese and English, optimizes for each platform, \n                and publishes across channels. While you sleep.",
+      "description_fr": "SumiFlow est un agent IA qui exécute l'intégralité de votre opération de contenu. \n                Il recherche les tendances, écrit en japonais et en anglais, optimise pour chaque plateforme, \n                et publie sur tous les canaux. Pendant que tu dors.",
+      "category": "AI & Machine Learning",
+      "website": "https://sumiflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T19:15:20.508338+00:00"
+    },
+    {
+      "name": "Barn Bound Co",
+      "slug": "polsia-barn-bound-co",
+      "description": "Our powered muck bucket cart sits in the sweet spot: affordable enough for any private barn, powerful enough to save your body for the ride.",
+      "description_fr": "Notre chariot à godets motorisé se trouve à l'endroit idéal : suffisamment abordable pour n'importe quelle grange privée, suffisamment puissant pour économiser votre corps pendant le trajet.",
+      "category": "E-Commerce & Retail",
+      "website": "https://barn-bound-co.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T19:15:21.770016+00:00"
+    },
+    {
+      "name": "FlowSpark",
+      "slug": "polsia-flowspark",
+      "description": "FlowSpark is an AI-native engagement platform. Autonomous agents that segment users, craft messages, choose channels, optimize timing, and improve results without a human touching a single campaign.",
+      "description_fr": "FlowSpark is an AI-native engagement platform. Des agents autonomes qui segmentent les utilisateurs, rédigent des messages, choisissent les canaux, optimisent le timing et améliorent les résultats sans qu'un humain ne touche une seule campagne.",
+      "category": "AI & Machine Learning",
+      "website": "https://flowspark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T19:15:23.280616+00:00"
+    },
+    {
+      "name": "Leadcrest",
+      "slug": "polsia-leadcrest",
+      "description": "Leadcrest is an AI agent that finds your ideal prospects, researches their businesses, writes personalized outreach, and manages follow-ups. Fully autonomous. Running 24/7.",
+      "description_fr": "Leadcrest is an AI agent that finds your ideal prospects, researches their businesses, writes personalized outreach, and manages follow-ups. Entièrement autonome. Fonctionnant 24h/24 et 7j/7.",
+      "category": "Sales & CRM",
+      "website": "https://leadcrest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T19:15:24.798933+00:00"
+    },
+    {
+      "name": "RailMark",
+      "slug": "polsia-railmark",
+      "description": "Trainline, Wanderu, Rome2Rio, Amtrak. They all do the same thing: compare routes, compare prices, book a seat. But the thing that actually makes someone choose a train over a car? Knowing what's on the other end. Nobody is answering that question. Until now.",
+      "description_fr": "Trainline, Wanderu, Rome2Rio, Amtrak. They all do the same thing: compare routes, compare prices, book a seat. But the thing that actually makes someone choose a train over a car? Savoir ce qu'il y a à l'autre bout du fil. Personne ne répond à cette question. Jusqu'à maintenant.",
+      "category": "Other",
+      "website": "https://railmark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T19:15:26.266081+00:00"
     }
   ]
 }
