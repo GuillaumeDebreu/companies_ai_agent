@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T20:51:30.649022+00:00",
+  "last_updated": "2026-04-06T21:30:16.854964+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -22807,12 +22807,15 @@
       "scraped_at": "2026-04-06T20:01:04.054627+00:00"
     },
     {
-      "name": "Saltfire",
+      "name": "Saltfire — Floating Sauna on the Chesapeake Bay",
       "slug": "polsia-saltfire",
+      "description": "The stove is traditional Scandinavian, wood-fired, built for löyly. Ladle water over the rocks and steam fills the room. When you're ready to cool down, walk three steps to the cold plunge on the dock, or climb down the ladder into the Chesapeake.",
+      "description_fr": "Le poêle est traditionnel scandinave, au feu de bois, construit pour löyly. Versez de l’eau sur les rochers et de la vapeur remplit la pièce. Lorsque vous êtes prêt à vous rafraîchir, faites trois pas jusqu'au bassin froid du quai ou descendez l'échelle jusqu'au Chesapeake.",
+      "category": "Other",
       "website": "https://saltfire.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T20:50:53.708408+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T21:30:15.349015+00:00"
     },
     {
       "name": "Timbre — AI",
@@ -22909,6 +22912,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-06T20:51:01.154269+00:00"
+    },
+    {
+      "name": "CendiaOS",
+      "slug": "polsia-cendiaos",
+      "website": "https://cendiaos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-06T21:29:55.735464+00:00"
+    },
+    {
+      "name": "BeansOS",
+      "slug": "polsia-beansos",
+      "website": "https://beansos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-06T21:29:55.925221+00:00"
+    },
+    {
+      "name": "Allocator — AI",
+      "slug": "polsia-allocator",
+      "description": "Every blockchain foundation runs a grants program. Every one of them reviews applications by hand, tracks milestones in spreadsheets, and writes RFPs based on gut feeling. The people doing this work are smart. The process is not.",
+      "description_fr": "Chaque fondation blockchain gère un programme de subventions. Chacun d’entre eux examine les candidatures à la main, suit les étapes dans des feuilles de calcul et rédige des appels d’offres en fonction de son intuition. Les gens qui font ce travail sont intelligents. Le processus ne l’est pas.",
+      "category": "AI & Machine Learning",
+      "website": "https://allocator.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T21:30:16.847920+00:00"
+    },
+    {
+      "name": "The Adjusters Lens",
+      "slug": "polsia-adjusterslens-os",
+      "description": "Matt Daniels is a US Air Force veteran who spent nearly two decades as an insurance adjuster. He's seen thousands of claims and knows exactly where policies fail homeowners. Now he reviews policies before disaster strikes, so you're not left guessing.",
+      "description_fr": "Matt Daniels est un vétéran de l'US Air Force qui a passé près de deux décennies en tant qu'expert en sinistres. Il a vu des milliers de réclamations et sait exactement où les politiques échouent pour les propriétaires. Désormais, il examine les politiques avant qu'une catastrophe ne survienne, afin que vous n'ayez pas à deviner.",
+      "category": "AI & Machine Learning",
+      "website": "https://adjusterslens-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T21:29:57.573699+00:00"
+    },
+    {
+      "name": "Yieldboard — The Financial Command Center for Rental Property Investors",
+      "slug": "polsia-yieldboard",
+      "description": "You check VRBO for vacation rental income. A spreadsheet for long-term lease payments. Your bank for mortgage draws. A folder of receipts for expenses. Maybe a separate app for Canadian taxes vs. American ones.",
+      "description_fr": "Vous vérifiez VRBO pour les revenus de location de vacances. Une feuille de calcul pour les paiements de location à long terme. Votre banque pour les tirages hypothécaires. Un dossier de reçus de dépenses. Peut-être une application distincte pour les impôts canadiens par rapport aux impôts américains.",
+      "category": "Real Estate",
+      "website": "https://yieldboard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T21:29:59.023072+00:00"
+    },
+    {
+      "name": "StatusOwl — Uptime Monitoring & Status Pages for Developers",
+      "slug": "polsia-statusowl",
+      "description": "One-click status pages with built-in uptime monitoring. Paste your endpoints. Get a public page your users actually trust. Built for indie developers who ship fast and sleep well.",
+      "description_fr": "Pages d'état en un clic avec surveillance intégrée de la disponibilité. Collez vos points de terminaison. Obtenez une page publique à laquelle vos utilisateurs font réellement confiance. Conçu pour les développeurs indépendants qui expédient rapidement et dorment bien.",
+      "category": "Other",
+      "website": "https://statusowl.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T21:30:00.605492+00:00"
+    },
+    {
+      "name": "Sourceweave",
+      "slug": "polsia-sourceweave",
+      "description": "Sourceweave is an AI agent that autonomously monitors supplier compliance, tracks carbon across every tier, and keeps your certifications current. It works while you sleep.",
+      "description_fr": "Sourceweave est un agent d'IA qui surveille de manière autonome la conformité des fournisseurs, suit le carbone à chaque niveau et maintient vos certifications à jour. Cela fonctionne pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://sourceweave.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T21:30:02.080979+00:00"
+    },
+    {
+      "name": "CurveCraft",
+      "slug": "polsia-curvecraft",
+      "description": "The fashion industry has spent decades ignoring the majority of women. Plus-size options are limited, boring, and treated as an afterthought. We think that's broken.",
+      "description_fr": "L’industrie de la mode a passé des décennies à ignorer la majorité des femmes. Les options grande taille sont limitées, ennuyeuses et traitées après coup. Nous pensons que c'est cassé.",
+      "category": "Other",
+      "website": "https://curvecraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T21:30:03.548076+00:00"
+    },
+    {
+      "name": "RunSpec",
+      "slug": "polsia-runspec",
+      "description": "AI writes test files in your framework of choice. Playwright, Cypress, Jest, Vitest. Real test code you can read, review, and commit.",
+      "description_fr": "L'IA écrit des fichiers de test dans le cadre de votre choix. Dramaturge, Cypress, Jest, Vitest. Véritable code de test que vous pouvez lire, réviser et valider.",
+      "category": "AI & Machine Learning",
+      "website": "https://runspec.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T21:30:04.839468+00:00"
+    },
+    {
+      "name": "PourScope",
+      "slug": "polsia-pourscope",
+      "description": "PourScope is AI-powered market intelligence built for spirits brand managers. Track trends, monitor competitors, and spot opportunities before anyone else.",
+      "description_fr": "PourScope est une intelligence de marché basée sur l'IA conçue pour les responsables de marques de spiritueux. Suivez les tendances, surveillez les concurrents et repérez les opportunités avant tout le monde.",
+      "category": "AI & Machine Learning",
+      "website": "https://pourscope.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T21:30:05.459226+00:00"
     }
   ]
 }
