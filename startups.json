@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T11:54:02.449985+00:00",
+  "last_updated": "2026-04-06T13:06:37.416944+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -21831,12 +21831,15 @@
       "scraped_at": "2026-04-06T11:53:35.676263+00:00"
     },
     {
-      "name": "MileMark",
+      "name": "MileMark — Beauty in Sobriety",
       "slug": "polsia-milemark",
+      "description": "MileMark exists because sobriety deserves more than tough slogans on cheap cotton. \n                    Every design, every chip, every interview comes from someone who walked the road. \n                    We don't sell grit. We sell the beauty that comes after.",
+      "description_fr": "MileMark existe parce que la sobriété mérite plus que des slogans durs sur du coton bon marché. \n                    Chaque design, chaque puce, chaque interview vient de quelqu'un qui a parcouru la route. \n                    Nous ne vendons pas de gravier. Nous vendons la beauté qui vient après.",
+      "category": "Other",
       "website": "https://milemark.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T11:53:36.006665+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T13:06:37.409182+00:00"
     },
     {
       "name": "OpenRange — Your AI Back Office for Real Estate",
@@ -21925,6 +21928,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-06T11:53:45.818091+00:00"
+    },
+    {
+      "name": "Blackpearls Media",
+      "slug": "polsia-blackpearls-media",
+      "description": "Blackpearls Media exists to fix that.We build marketing systems that connect directly to your bottom line. Every campaign, every piece of content, every ad dollar is tracked to the metric that matters: revenue.",
+      "description_fr": "Blackpearls Media existe pour résoudre ce problème. Nous construisons des systèmes de marketing qui se connectent directement à vos résultats. Chaque campagne, chaque élément de contenu, chaque dollar publicitaire est suivi en fonction de la mesure qui compte : les revenus.",
+      "category": "Marketing & Advertising",
+      "website": "https://blackpearls-media.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T13:06:16.585565+00:00"
+    },
+    {
+      "name": "SiteMentor",
+      "slug": "polsia-sitementor",
+      "description": "You're brilliant at the technical work, so you get promoted. Suddenly you're managing a crew of 15, handling conflicts between subcontractors, giving feedback to people twice your age, and wondering why nobody prepared you for any of this.",
+      "description_fr": "Vous êtes brillant dans le travail technique, vous êtes donc promu. Du coup, vous gérez une équipe de 15 personnes, gérez des conflits entre sous-traitants, donnez des retours à des personnes deux fois plus âgées que vous et vous vous demandez pourquoi personne ne vous a préparé à tout cela.",
+      "category": "Education",
+      "website": "https://sitementor.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T13:06:17.485395+00:00"
+    },
+    {
+      "name": "Firstwire — Your AI Sales Rep",
+      "slug": "polsia-firstwire",
+      "description": "Firstwire finds your ideal prospects, writes personalized outreach, follows up, and books meetings. You wake up to a full calendar.",
+      "description_fr": "Firstwire trouve vos prospects idéaux, rédige des communications personnalisées, assure le suivi et organise des réunions. Vous vous réveillez avec un calendrier bien rempli.",
+      "category": "Sales & CRM",
+      "website": "https://firstwire.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T13:06:18.839830+00:00"
+    },
+    {
+      "name": "MileWise — AI Dispatch for Owner",
+      "slug": "polsia-milewise",
+      "description": "The trucking industry was built by independents. People who bet on themselves, bought a rig, and hit the road. MileWise exists so those people can stay independent, earn more per mile, and spend less time on the phone and more time on the road.",
+      "description_fr": "L'industrie du camionnage a été bâtie par des indépendants. Des gens qui ont parié sur eux-mêmes, ont acheté un véhicule et ont pris la route. MileWise existe pour que ces personnes puissent rester indépendantes, gagner plus par mile et passer moins de temps au téléphone et plus de temps sur la route.",
+      "category": "AI & Machine Learning",
+      "website": "https://milewise.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T13:06:20.144190+00:00"
+    },
+    {
+      "name": "NegoFactoryOS",
+      "slug": "polsia-negofactoryos",
+      "description": "Un système d'exploitation autonome pour piloter formations, conférences, leads et revenus. Construit pour un ancien négociateur de crise qui n'a pas le temps de gérer du back-office.",
+      "description_fr": "Un système d'exploitation autonome pour pilotes formations, conférences, leads et revenus. Construit pour un ancien négociateur de crise qui n'a pas le temps de gérer du back-office.",
+      "category": "Sales & CRM",
+      "website": "https://negofactoryos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T13:06:21.662821+00:00"
+    },
+    {
+      "name": "MiamiCremeOS — The Operating System for Miami Creme Real Estate",
+      "slug": "polsia-miamicremeos",
+      "description": "MiamiCremeOS gives Miami Creme Real Estate an unfair advantage: an autonomous system that manages leads, tracks markets, and follows up with clients while you focus on what actually makes money.",
+      "description_fr": "MiamiCremeOS donne à Miami Creme Real Estate un avantage injuste : un système autonome qui gère les prospects, suit les marchés et assure le suivi des clients pendant que vous vous concentrez sur ce qui rapporte réellement de l'argent.",
+      "category": "Sales & CRM",
+      "website": "https://miamicremeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T13:06:22.600071+00:00"
+    },
+    {
+      "name": "PolicyPilot",
+      "slug": "polsia-policypilot-24",
+      "description": "An autonomous AI agent that monitors your coverage 24/7, catches gaps before they cost you, finds better rates as the market shifts, and handles the paperwork you dread.",
+      "description_fr": "Un agent IA autonome qui surveille votre couverture 24h/24 et 7j/7, détecte les lacunes avant qu'elles ne vous coûtent cher, trouve de meilleurs tarifs à mesure que le marché évolue et gère les formalités administratives que vous redoutez.",
+      "category": "AI & Machine Learning",
+      "website": "https://policypilot-24.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T13:06:24.395627+00:00"
+    },
+    {
+      "name": "FeedLens",
+      "slug": "polsia-feedlens",
+      "description": "Subscribe to the content diets of entrepreneurs, creators, and thought leaders. Stop scrolling aimlessly. Start watching with intention.",
+      "description_fr": "Abonnez-vous aux régimes de contenu des entrepreneurs, des créateurs et des leaders d'opinion. Arrêtez de faire défiler sans but. Commencez à regarder avec intention.",
+      "category": "AI & Machine Learning",
+      "website": "https://feedlens.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T13:06:25.146322+00:00"
+    },
+    {
+      "name": "AstroMigo — Tu astrólogo AI que habla tu idioma",
+      "slug": "polsia-astromigo",
+      "description": "Pregunta lo que quieras, cuando quieras. Sobre amor, carrera, salud, familia. AstroMigo responde con contexto de tu carta natal completa.",
+      "description_fr": "Pregunta lo que quieras, cuando quieras. Sobre amor, carrera, salud, familia. AstroMigo répond dans le contexte de votre carte natale complète.",
+      "category": "AI & Machine Learning",
+      "website": "https://astromigo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T13:06:26.131234+00:00"
+    },
+    {
+      "name": "JobTrakr — AI That Runs Your Office While You're On The Tools",
+      "slug": "polsia-jobtrakr",
+      "description": "Service businesses lose thousands every year to missed follow-ups, slow quotes, and unpaid invoices. JobTrakr makes sure nothing falls through the cracks, while you focus on the work that actually makes you money.",
+      "description_fr": "Les entreprises de services en perdent des milliers chaque année à cause de suivis manqués, de devis lents et de factures impayées. JobTrakr s'assure que rien ne passe entre les mailles du filet, pendant que vous vous concentrez sur le travail qui vous rapporte réellement de l'argent.",
+      "category": "AI & Machine Learning",
+      "website": "https://jobtrakr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T13:06:27.147256+00:00"
     }
   ]
 }
