@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T09:54:51.892258+00:00",
+  "last_updated": "2026-04-06T10:57:18.823262+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -20784,12 +20784,15 @@
       "scraped_at": "2026-04-05T21:58:21.651376+00:00"
     },
     {
-      "name": "La Tua Idea",
+      "name": "La Tua Idea — Crea prodotti unici con la tua creatività",
       "slug": "polsia-latuaidea",
+      "description": "Crea prodotti personalizzati unici con La Tua Idea. T-shirt, poster, tazze, cover e felpe stampate con la tua creatività. Spedizione in tutta Italia.",
+      "description_fr": "Créez des produits personnalisés uniques avec La Tua Idea. T-shirt, affiche, tasse, couverture et papier imprimé avec votre créativité. Spedizione in tutta Italia.",
+      "category": "Other",
       "website": "https://latuaidea.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-05T21:58:22.014521+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T10:57:16.457168+00:00"
     },
     {
       "name": "Dayblok",
@@ -21602,10 +21605,13 @@
     {
       "name": "RoomForge",
       "slug": "polsia-roomforge-2",
+      "description": "RoomForge is the AI that designs your space, sources contractors, tracks your budget, and runs your entire renovation project. Like hiring a designer and project manager in one, except it never sleeps.",
+      "description_fr": "RoomForge est l'IA qui conçoit votre espace, recherche des entrepreneurs, suit votre budget et gère l'intégralité de votre projet de rénovation. C’est comme embaucher un designer et un chef de projet à la fois, sauf que ça ne dort jamais.",
+      "category": "AI & Machine Learning",
       "website": "https://roomforge-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T09:54:18.695389+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-06T10:57:18.815934+00:00"
     },
     {
       "name": "BiscuitOS",
@@ -21705,6 +21711,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-06T09:54:30.182475+00:00"
+    },
+    {
+      "name": "FlipCraft",
+      "slug": "polsia-flipcraft",
+      "description": "Showcase your upcycled creations and handmade pieces. Items you made from scratch or transformed from something forgotten. Higher margins, deeper connection.",
+      "description_fr": "Présentez vos créations upcyclées et vos pièces faites à la main. Des objets que vous avez fabriqués à partir de zéro ou transformés à partir de quelque chose d'oublié. Des marges plus élevées, une connexion plus profonde.",
+      "category": "Other",
+      "website": "https://flipcraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T10:56:57.925129+00:00"
+    },
+    {
+      "name": "StoneVeld — Limestone Look",
+      "slug": "polsia-stoneveld",
+      "description": "Robertson sits in the shadow of the Langeberg Mountains, where the Breede River feeds some of the finest wine estates in the Cape. It's a place where craft and landscape are inseparable. StoneVeld planters carry that same sense of place.",
+      "description_fr": "Robertson se trouve à l'ombre des montagnes de Langeberg, où la rivière Breede alimente certains des plus beaux domaines viticoles du Cap. C'est un lieu où artisanat et paysage sont indissociables. Les jardinières StoneVeld véhiculent le même sentiment d’appartenance.",
+      "category": "Other",
+      "website": "https://stoneveld.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T10:56:58.878100+00:00"
+    },
+    {
+      "name": "Trekforce",
+      "slug": "polsia-trekforceos",
+      "description": "You arrive in New Zealand on a working holiday visa. You need work fast. What you find are job boards that look like they were built when you were in primary school. No filtering. No mobile. No idea if the listing is still active.",
+      "description_fr": "Vous arrivez en Nouvelle-Zélande avec un visa vacances-travail. Il faut travailler vite. Ce que vous trouvez, ce sont des sites d'emploi qui semblent avoir été créés lorsque vous étiez à l'école primaire. Pas de filtrage. Pas de mobile. Aucune idée si la liste est toujours active.",
+      "category": "Other",
+      "website": "https://trekforceos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T10:57:00.088045+00:00"
+    },
+    {
+      "name": "BrightSession",
+      "slug": "polsia-brightsession",
+      "description": "Tutors lose up to 100% of their first lesson to platform fees. Students overpay for generic matching. Parents have no visibility into progress. BrightSession was built to fix all three.",
+      "description_fr": "Les tuteurs perdent jusqu'à 100 % de leur premier cours à cause des frais de plateforme. Les étudiants paient trop cher pour une correspondance générique. Les parents n'ont aucune visibilité sur les progrès. BrightSession a été conçu pour résoudre les trois.",
+      "category": "Education",
+      "website": "https://brightsession.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T10:57:01.553267+00:00"
+    },
+    {
+      "name": "Kaamos — The Agency That Never Sleeps",
+      "slug": "polsia-kaamos",
+      "description": "In Finland, the sun disappears for weeks. Life doesn't stop. It adapts. Kaamos is the agency built for the same truth: the best work happens when nobody's watching.",
+      "description_fr": "En Finlande, le soleil disparaît pendant des semaines. La vie ne s'arrête pas. Il s'adapte. Kaamos est l'agence construite pour la même vérité : le meilleur travail se produit lorsque personne ne regarde.",
+      "category": "Consulting & Services",
+      "website": "https://kaamos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T10:57:03.051297+00:00"
+    },
+    {
+      "name": "Pantry Pal — Know Your Real Margins",
+      "slug": "polsia-pantry-pal",
+      "description": "Pantry Pal gives small food business owners one thing no spreadsheet can: real-time recipe costs, actual profit margins, and a shared source of truth for the whole team.",
+      "description_fr": "Pantry Pal offre aux propriétaires de petites entreprises alimentaires une chose qu'aucune feuille de calcul ne peut offrir : les coûts des recettes en temps réel, les marges bénéficiaires réelles et une source de vérité partagée pour toute l'équipe.",
+      "category": "Food & Beverage",
+      "website": "https://pantry-pal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T10:57:04.448812+00:00"
+    },
+    {
+      "name": "MorningJoyOS",
+      "slug": "polsia-morningjoyos",
+      "description": "Morning Joy Counseling started as one therapist with a vision. It became a multi-clinician practice, a ministry, a speaking platform, and a beacon for people seeking healing and purpose. MorningJoyOS exists to make sure that growth never stops.",
+      "description_fr": "Morning Joy Counseling a commencé comme un thérapeute avec une vision. C'est devenu une pratique multiclinique, un ministère, une plateforme de parole et un phare pour les personnes en quête de guérison et d'un but. MorningJoyOS existe pour garantir que la croissance ne s'arrête jamais.",
+      "category": "Software & SaaS",
+      "website": "https://morningjoyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T10:57:05.366587+00:00"
+    },
+    {
+      "name": "Deskblitz — AI Support Agent for Small Business",
+      "slug": "polsia-deskblitz",
+      "description": "Deskblitz is an AI support agent that reads, understands, and responds to every customer email and message. No scripts. No ticket queues. Just fast, human-quality answers, 24/7.",
+      "description_fr": "Deskblitz est un agent d'assistance IA qui lit, comprend et répond à chaque e-mail et message client. Aucun script. Pas de files d'attente pour les billets. Juste des réponses rapides et de qualité humaine, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://deskblitz.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T10:57:06.474243+00:00"
+    },
+    {
+      "name": "PullRate",
+      "slug": "polsia-pullrate",
+      "description": "Every price movement. Every arbitrage window. Every meta shift. Delivered to you before the market reacts. That's what an AI agent does that a scanner app never will.",
+      "description_fr": "Chaque mouvement de prix. Chaque fenêtre d'arbitrage. Chaque changement de méta. Livré avant que le marché ne réagisse. C'est ce que fait un agent IA, ce qu'une application de scanner ne fera jamais.",
+      "category": "AI & Machine Learning",
+      "website": "https://pullrate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T10:57:07.579363+00:00"
+    },
+    {
+      "name": "Vertiq — Vertical AI Agents for Every Business",
+      "slug": "polsia-vertiq",
+      "description": "Vertiq deploys autonomous AI agents into your business operations. Demand forecasting, fraud detection, IT automation, inventory management. The same vertical intelligence that Fortune 500 companies pay $100K+ for, now running inside your business.",
+      "description_fr": "Vertiq déploie des agents d'IA autonomes dans vos opérations commerciales. Prévision de la demande, détection des fraudes, automatisation informatique, gestion des stocks. La même intelligence verticale pour laquelle les entreprises Fortune 500 paient plus de 100 000 $, fonctionne désormais au sein de votre entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://vertiq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-06T10:57:08.650522+00:00"
     }
   ]
 }
