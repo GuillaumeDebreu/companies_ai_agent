@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T09:37:09.504060+00:00",
+  "last_updated": "2026-04-07T10:40:47.712884+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -23900,10 +23900,13 @@
     {
       "name": "PropSwift",
       "slug": "polsia-propswift",
+      "description": "Other platforms are dashboards you stare at. PropSwift is an engine that runs while you sleep, surfacing only the deals worth your time. No clicking through pipelines. No manual follow-up sequences. No forgetting to call back.",
+      "description_fr": "Les autres plateformes sont des tableaux de bord que vous regardez. PropSwift est un moteur qui fonctionne pendant que vous dormez, faisant apparaître uniquement les offres qui valent votre temps. Pas de clic dans les pipelines. Aucune séquence de suivi manuel. N'oubliez pas de rappeler.",
+      "category": "Software & SaaS",
       "website": "https://propswift.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T09:36:49.291547+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T10:40:47.303875+00:00"
     },
     {
       "name": "SkyproOS",
@@ -24003,6 +24006,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-07T09:37:00.044263+00:00"
+    },
+    {
+      "name": "Dealcrest",
+      "slug": "polsia-dealcrest",
+      "description": "Dealcrest is an AI sales agent that researches your ideal customers, writes personalized outreach, follows up relentlessly, and books meetings. It works 24/7 and costs less than a coffee subscription.",
+      "description_fr": "Dealcrest est un agent commercial IA qui recherche vos clients idéaux, rédige des communications personnalisées, assure un suivi sans relâche et organise des réunions. Il fonctionne 24h/24 et 7j/7 et coûte moins cher qu'un abonnement café.",
+      "category": "AI & Machine Learning",
+      "website": "https://dealcrest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T10:40:16.795518+00:00"
+    },
+    {
+      "name": "Seekly",
+      "slug": "polsia-seekly",
+      "website": "https://seekly.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T10:40:17.132378+00:00"
+    },
+    {
+      "name": "VoiceRail — AI Autopilot for Global Voice Infrastructure",
+      "slug": "polsia-voicerail",
+      "description": "VoiceRail is the AI-native infrastructure layer that provisions numbers, optimizes routes, monitors compliance, and detects fraud autonomously, so voice agent companies can focus on conversations, not carriers.",
+      "description_fr": "VoiceRail est la couche d'infrastructure native de l'IA qui provisionne les numéros, optimise les itinéraires, surveille la conformité et détecte la fraude de manière autonome, afin que les sociétés d'agents vocaux puissent se concentrer sur les conversations et non sur les opérateurs.",
+      "category": "AI & Machine Learning",
+      "website": "https://voicerail.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T10:40:18.240811+00:00"
+    },
+    {
+      "name": "MagnumOS",
+      "slug": "polsia-magnumos",
+      "description": "The French government launched France Legaltech in 2026. Harvey AI crossed $2B in valuation. Yet most law firms still treat AI as a tool problem, not a strategy problem. That gap is Magnum Legal Club's opportunity, and MagnumOS keeps you ahead of it.",
+      "description_fr": "Le gouvernement français a lancé France Legaltech en 2026. Harvey AI a dépassé les 2 milliards de dollars de valorisation. Pourtant, la plupart des cabinets d’avocats traitent encore l’IA comme un problème d’outil et non comme un problème de stratégie. Cette lacune est une opportunité pour le Magnum Legal Club, et MagnumOS vous permet de garder une longueur d'avance.",
+      "category": "AI & Machine Learning",
+      "website": "https://magnumos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T10:40:19.226145+00:00"
+    },
+    {
+      "name": "Alleniq — Your AI Personal Trainer",
+      "slug": "polsia-alleniq",
+      "description": "We're building the world where everyone has access to intelligent, personalized coaching. No price barrier. No scheduling conflicts. Just a system that understands your body and never stops optimizing.",
+      "description_fr": "Nous construisons un monde où chacun a accès à un coaching intelligent et personnalisé. Aucune barrière de prix. Aucun conflit d'horaire. Juste un système qui comprend votre corps et ne cesse de l’optimiser.",
+      "category": "AI & Machine Learning",
+      "website": "https://alleniq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T10:40:20.058639+00:00"
+    },
+    {
+      "name": "Demao — Fini la galère administrative",
+      "slug": "polsia-demao",
+      "description": "Demao transforme la complexité administrative en parcours simples et personnalisés. Parce que savoir quoi faire ne suffit pas. Il faut savoir quand, comment, et dans quel ordre.",
+      "description_fr": "Demao transforme la complexité administrative en parcours simples et personnalisés. Parce que savoir quoi faire ne suffit pas. Il faut savoir quand, commenter, et dans quel ordre.",
+      "category": "Other",
+      "website": "https://demao.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T10:40:21.696777+00:00"
+    },
+    {
+      "name": "ProfitOwl",
+      "slug": "polsia-profitowl",
+      "website": "https://profitowl.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T10:40:21.948535+00:00"
+    },
+    {
+      "name": "GardenGate — Fresh from Normandy",
+      "slug": "polsia-gardengate",
+      "description": "Most flour comes from industrial mills processing grain from dozens of anonymous farms. Ours comes from a wheat field you could walk through in ten minutes. We mill it ourselves, in small batches, so you get flour that actually smells like grain. Your bread will know the difference.",
+      "description_fr": "La majeure partie de la farine provient de moulins industriels traitant des céréales provenant de dizaines de fermes anonymes. Le nôtre vient d’un champ de blé que l’on pourrait traverser en dix minutes. Nous la moulons nous-mêmes, en petits lots, afin que vous obteniez une farine qui sent réellement le grain. Votre pain connaîtra la différence.",
+      "category": "Marketing & Advertising",
+      "website": "https://gardengate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T10:40:23.270612+00:00"
+    },
+    {
+      "name": "Pipeforge — AI Sales Agent for SMBs",
+      "slug": "polsia-pipeforge-63",
+      "description": "Pipeforge is an AI sales agent that finds your ideal prospects, writes hyper-personalized outreach, and books meetings on your calendar. It works 24/7. It never calls in sick. It costs less than a coffee budget.",
+      "description_fr": "Pipeforge est un agent commercial IA qui trouve vos prospects idéaux, rédige des communications hyper-personnalisées et planifie des réunions sur votre calendrier. Cela fonctionne 24h/24 et 7j/7. Il n'appelle jamais malade. Cela coûte moins cher qu’un budget café.",
+      "category": "Sales & CRM",
+      "website": "https://pipeforge-63.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T10:40:24.725215+00:00"
+    },
+    {
+      "name": "Nomad Escapades",
+      "slug": "polsia-escapadesos",
+      "description": "Nomad Escapades exists because travel deserves better.We combine real data with real experience to help you make decisions that match your budget, your comfort level, and your appetite for adventure.",
+      "description_fr": "Nomad Escapades existe parce que voyager mérite mieux. Nous combinons des données réelles avec une expérience réelle pour vous aider à prendre des décisions adaptées à votre budget, votre niveau de confort et votre appétit d'aventure.",
+      "category": "Marketing & Advertising",
+      "website": "https://escapadesos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T10:40:26.339197+00:00"
     }
   ]
 }
