@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T05:28:23.169012+00:00",
+  "last_updated": "2026-04-07T06:55:12.656755+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -23570,10 +23570,13 @@
     {
       "name": "PremierWellOS",
       "slug": "polsia-premierwellos",
+      "description": "Most plumbing companies in Upstate SC run on phone calls, paper invoices, and memory.PremierWellOS replaces all of that with one system that tracks every job, every customer, and every dollar, so you can focus on the work.",
+      "description_fr": "La plupart des entreprises de plomberie du nord de l'État de Caroline du Sud fonctionnent avec des appels téléphoniques, des factures papier et de la mémoire. PremierWellOS remplace tout cela par un système unique qui suit chaque travail, chaque client et chaque dollar, afin que vous puissiez vous concentrer sur le travail.",
+      "category": "Finance & Fintech",
       "website": "https://premierwellos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T05:27:45.900732+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T06:55:10.222120+00:00"
     },
     {
       "name": "PipeGhost",
@@ -23598,12 +23601,15 @@
       "scraped_at": "2026-04-07T05:28:22.826709+00:00"
     },
     {
-      "name": "Lumodesk",
+      "name": "Lumodesk — Your AI Front Desk That Never Sleeps",
       "slug": "polsia-lumodesk",
+      "description": "Service businesses run on responsiveness. But between appointments, walk-ins, and actually doing the work, messages pile up. By the time you reply, the customer booked somewhere else.",
+      "description_fr": "Les entreprises de services fonctionnent grâce à la réactivité. Mais entre les rendez-vous, les visites sans rendez-vous et le travail, les messages s'accumulent. Au moment où vous répondez, le client a réservé ailleurs.",
+      "category": "AI & Machine Learning",
       "website": "https://lumodesk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T05:27:47.052007+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T06:55:11.692545+00:00"
     },
     {
       "name": "Pipeforge",
@@ -23670,6 +23676,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-07T05:27:56.389173+00:00"
+    },
+    {
+      "name": "PostCoach",
+      "slug": "polsia-postcoach",
+      "description": "PostCoach exists because everyone deserves a coach in their corner, not just the brands that can afford a $5,000/month agency. Your story matters. Let's make sure people actually see it.",
+      "description_fr": "PostCoach existe parce que tout le monde mérite un coach à ses côtés, pas seulement les marques qui peuvent se permettre une agence à 5 000 $/mois. Votre histoire compte. Assurons-nous que les gens le voient réellement.",
+      "category": "Marketing & Advertising",
+      "website": "https://postcoach.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T06:54:53.957061+00:00"
+    },
+    {
+      "name": "CalmDesk — The AI Practice Manager for Therapists",
+      "slug": "polsia-calmdesk-2",
+      "description": "The admin burden ends here. Your practice deserves an employee that never takes a day off, never makes a billing error, and never forgets to follow up.",
+      "description_fr": "La charge administrative s’arrête ici. Votre cabinet mérite un employé qui ne prend jamais un jour de congé, ne commet jamais d’erreur de facturation et n’oublie jamais de faire un suivi.",
+      "category": "AI & Machine Learning",
+      "website": "https://calmdesk-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T06:55:12.564108+00:00"
+    },
+    {
+      "name": "ClearBasin — Government",
+      "slug": "polsia-clearbasin",
+      "description": "Every cubic yard of silt we remove from a Texas reservoir restores drinking water capacity for the communities that depend on it. Every load of processed material we sell offsets the cost of the work. That is how public infrastructure should function, efficiently, sustainably, and profitably.",
+      "description_fr": "Chaque mètre cube de limon que nous retirons d'un réservoir du Texas rétablit la capacité d'eau potable des communautés qui en dépendent. Chaque chargement de matière transformée que nous vendons compense le coût des travaux. C’est ainsi que les infrastructures publiques devraient fonctionner de manière efficace, durable et rentable.",
+      "category": "E-Commerce & Retail",
+      "website": "https://clearbasin.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T06:54:54.929364+00:00"
+    },
+    {
+      "name": "Accordant",
+      "slug": "polsia-accordant",
+      "description": "Accordant runs your payroll, tracks compliance deadlines, onboards new hires, and handles employee operations autonomously. You get a full HR department without hiring one.",
+      "description_fr": "Accordant gère votre paie, suit les délais de conformité, intègre les nouvelles recrues et gère les opérations des employés de manière autonome. Vous obtenez un service RH complet sans en embaucher un.",
+      "category": "Other",
+      "website": "https://accordant.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T06:54:56.202252+00:00"
+    },
+    {
+      "name": "DealForge — Your AI Sales Rep",
+      "slug": "polsia-dealforge-89",
+      "description": "DealForge finds your ideal customers, writes personalized outreach, follows up relentlessly, and books meetings on your calendar. An AI employee that costs less than lunch.",
+      "description_fr": "DealForge trouve vos clients idéaux, rédige des communications personnalisées, assure un suivi sans relâche et réserve des réunions sur votre calendrier. Un employé d'IA qui coûte moins cher que le déjeuner.",
+      "category": "AI & Machine Learning",
+      "website": "https://dealforge-89.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T06:54:57.588582+00:00"
+    },
+    {
+      "name": "BuildFlux",
+      "slug": "polsia-buildflux",
+      "description": "BuildFlux is the AI automation partner that turns your operations into a competitive advantage. Custom-built, continuously optimized, always running.",
+      "description_fr": "BuildFlux est le partenaire d'automatisation de l'IA qui transforme vos opérations en un avantage concurrentiel. Construit sur mesure, optimisé en permanence, toujours opérationnel.",
+      "category": "AI & Machine Learning",
+      "website": "https://buildflux.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T06:54:58.670933+00:00"
+    },
+    {
+      "name": "Clocktower — AI That Runs Your Back Office",
+      "slug": "polsia-clocktower-ops",
+      "description": "Clocktower is the AI employee that answers customer inquiries, schedules appointments, sends invoices, and follows up on everything. Your business stays open even when you're not at your desk.",
+      "description_fr": "Clocktower est l'employé de l'IA qui répond aux demandes des clients, planifie les rendez-vous, envoie les factures et assure le suivi de tout. Votre entreprise reste ouverte même lorsque vous n'êtes pas à votre bureau.",
+      "category": "AI & Machine Learning",
+      "website": "https://clocktower-ops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T06:54:59.260828+00:00"
+    },
+    {
+      "name": "CurbSync",
+      "slug": "polsia-curbsync",
+      "description": "Every property service company hits the same wall: more communities means more headcount, more coordination, more chaos. CurbSync breaks that equation. Scale the territory, not the back-office.",
+      "description_fr": "Toutes les sociétés de services immobiliers se heurtent au même mur : plus de communautés signifie plus d’effectifs, plus de coordination, plus de chaos. CurbSync brise cette équation. Faites évoluer le territoire, pas le back-office.",
+      "category": "Real Estate",
+      "website": "https://curbsync.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T06:55:00.523082+00:00"
+    },
+    {
+      "name": "DieselOS",
+      "slug": "polsia-dieselos",
+      "website": "https://dieselos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T06:55:00.619063+00:00"
+    },
+    {
+      "name": "CrossPath",
+      "slug": "polsia-crosspath",
+      "website": "https://crosspath.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T06:55:00.712107+00:00"
     }
   ]
 }
