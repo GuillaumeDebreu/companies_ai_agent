@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T16:44:54.340111+00:00",
+  "last_updated": "2026-04-07T17:44:27.193261+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -24489,12 +24489,15 @@
       "scraped_at": "2026-04-07T16:44:53.404855+00:00"
     },
     {
-      "name": "Advisara",
+      "name": "Advisara — Your AI Business Consultant",
       "slug": "polsia-advisara",
+      "description": "Advisara is an autonomous AI that analyzes your operations, builds growth strategies, and executes them. No billable hours. No engagement timelines. Just results, running 24/7.",
+      "description_fr": "Advisara est une IA autonome qui analyse vos opérations, élabore des stratégies de croissance et les exécute. Aucune heure facturable. Aucun délai d'engagement. Juste des résultats, fonctionnant 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://advisara.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T15:50:15.658894+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T17:44:22.436779+00:00"
     },
     {
       "name": "Formara",
@@ -24554,18 +24557,24 @@
     {
       "name": "LiteBite",
       "slug": "polsia-litebite",
+      "description": "LiteBite is building the first truly all-day low carb food experience. From the smoothie that starts your morning to the dessert that ends your night, every bite is designed to keep you on track.",
+      "description_fr": "LiteBite crée la première véritable expérience alimentaire à faible teneur en glucides qui dure toute la journée. Du smoothie qui commence votre matinée au dessert qui termine votre soirée, chaque bouchée est conçue pour vous garder sur la bonne voie.",
+      "category": "Food & Beverage",
       "website": "https://litebite.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T16:44:24.953029+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T17:44:23.300711+00:00"
     },
     {
       "name": "CueCraft",
       "slug": "polsia-cuecraft",
+      "description": "Charlotte has dozens of DJ services. Most are wedding factories with 30-person rosters. CueCraft is different. One DJ. One brand. Every event gets full attention, not whoever happens to be available that Saturday.",
+      "description_fr": "Charlotte propose des dizaines de services de DJ. La plupart sont des usines de mariage avec des listes de 30 personnes. CueCraft est différent. Un DJ. Une marque. Chaque événement reçoit toute l’attention, et non celui qui est disponible ce samedi-là.",
+      "category": "Marketing & Advertising",
       "website": "https://cuecraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T16:44:25.290213+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T17:44:24.996982+00:00"
     },
     {
       "name": "Stratifi",
@@ -24590,12 +24599,15 @@
       "scraped_at": "2026-04-07T16:44:27.481706+00:00"
     },
     {
-      "name": "Jobwell",
+      "name": "Jobwell — The AI Back Office for Service Businesses",
       "slug": "polsia-jobwell",
+      "description": "Thank-you messages, satisfaction checks, seasonal reminders. Jobwell keeps every customer relationship warm without you lifting a finger.",
+      "description_fr": "Messages de remerciement, chèques de satisfaction, rappels saisonniers. Jobwell maintient chaque relation client chaleureuse sans que vous leviez le petit doigt.",
+      "category": "AI & Machine Learning",
       "website": "https://jobwell.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T16:44:27.831614+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T17:44:26.203228+00:00"
     },
     {
       "name": "CampusHaul",
@@ -24651,6 +24663,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-07T16:44:35.083758+00:00"
+    },
+    {
+      "name": "GiftWhiz",
+      "slug": "polsia-giftwhiz",
+      "website": "https://giftwhiz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T17:44:00.110009+00:00"
+    },
+    {
+      "name": "QuicksilverOS",
+      "slug": "polsia-quicksilveros",
+      "website": "https://quicksilveros.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T17:44:00.312236+00:00"
+    },
+    {
+      "name": "Resolvra",
+      "slug": "polsia-resolvra",
+      "website": "https://resolvra.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T17:44:00.593784+00:00"
+    },
+    {
+      "name": "RevReap",
+      "slug": "polsia-revreap",
+      "description": "RevReap is building the revenue cycle that runs itself. Every claim processed, every denial fought, every dollar recovered. Autonomously.",
+      "description_fr": "RevReap construit le cycle de revenus qui s'exécute tout seul. Chaque réclamation traitée, chaque refus combattu, chaque dollar récupéré. De manière autonome.",
+      "category": "Sustainability & Green",
+      "website": "https://revreap.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T17:44:02.104800+00:00"
+    },
+    {
+      "name": "Formgood — Behavioral Design Audits for Ethical UX",
+      "slug": "polsia-formgood",
+      "description": "Scan product flows for confirmshaming, roach motels, misdirection, forced continuity, and 14 other manipulation patterns cataloged from behavioral science research.",
+      "description_fr": "Analysez les flux de produits à la recherche de confirmations, de motels de cafards, de mauvaises orientations, de continuité forcée et de 14 autres modèles de manipulation répertoriés dans la recherche en sciences du comportement.",
+      "category": "Other",
+      "website": "https://formgood.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T17:44:03.813757+00:00"
+    },
+    {
+      "name": "BGOOS",
+      "slug": "polsia-bgoos",
+      "description": "Most financial firms chase high-net-worth clients. BGO & Associates took the opposite approach: build a network large enough and smart enough to serve everyone, from first-time savers to established business owners.",
+      "description_fr": "La plupart des sociétés financières recherchent des clients fortunés. BGO & Associates a adopté l'approche inverse : construire un réseau suffisamment vaste et suffisamment intelligent pour servir tout le monde, des nouveaux épargnants aux propriétaires d'entreprise établis.",
+      "category": "Finance & Fintech",
+      "website": "https://bgoos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T17:44:04.964533+00:00"
+    },
+    {
+      "name": "WordMint",
+      "slug": "polsia-wordmint",
+      "website": "https://wordmint.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T17:44:05.225324+00:00"
+    },
+    {
+      "name": "CartAgent",
+      "slug": "polsia-cartagent",
+      "website": "https://cartagent.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T17:44:05.352014+00:00"
+    },
+    {
+      "name": "GigCraft",
+      "slug": "polsia-gigcraft",
+      "description": "GigCraft is the digital services and products business that works two ways: deliver high-value services for immediate revenue, sell digital products for income that compounds while you sleep.",
+      "description_fr": "GigCraft est une entreprise de services et de produits numériques qui fonctionne de deux manières : fournir des services de grande valeur pour des revenus immédiats, vendre des produits numériques pour des revenus qui s'accumulent pendant que vous dormez.",
+      "category": "Entertainment & Media",
+      "website": "https://gigcraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T17:44:05.886142+00:00"
+    },
+    {
+      "name": "GiggleBox",
+      "slug": "polsia-gigglebox",
+      "description": "GiggleBox is being built with love from Portland, Oregon. A little corner of the internet where humor and heart go hand in hand.",
+      "description_fr": "GiggleBox est construit avec amour depuis Portland, Oregon. Un petit coin d'internet où l'humour et le cœur font bon ménage.",
+      "category": "Other",
+      "website": "https://gigglebox.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T17:44:07.044582+00:00"
     }
   ]
 }
