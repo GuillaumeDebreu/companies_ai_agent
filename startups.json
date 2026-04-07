@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T10:40:47.712884+00:00",
+  "last_updated": "2026-04-07T11:39:36.865019+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -24021,10 +24021,13 @@
     {
       "name": "Seekly",
       "slug": "polsia-seekly",
+      "description": "Seekly is the first AI agent that works as hard on your job search as you work on your degree. Built for the 20 million students who deserve better than another job board.",
+      "description_fr": "Seekly est le premier agent IA qui travaille aussi dur sur votre recherche d'emploi que sur votre diplôme. Conçu pour les 20 millions d'étudiants qui méritent mieux qu'un autre site d'emploi.",
+      "category": "AI & Machine Learning",
       "website": "https://seekly.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T10:40:17.132378+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T11:39:34.755918+00:00"
     },
     {
       "name": "VoiceRail — AI Autopilot for Global Voice Infrastructure",
@@ -24073,10 +24076,13 @@
     {
       "name": "ProfitOwl",
       "slug": "polsia-profitowl",
+      "description": "ProfitOwl connects to your bank, categorizes every transaction with AI, and delivers a morning financial briefing. No spreadsheets. No accountant fees.",
+      "description_fr": "ProfitOwl se connecte à votre banque, catégorise chaque transaction avec l'IA et propose un briefing financier matinal. Pas de feuilles de calcul. Pas de frais de comptable.",
+      "category": "AI & Machine Learning",
       "website": "https://profitowl.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T10:40:21.948535+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T11:39:35.941346+00:00"
     },
     {
       "name": "GardenGate — Fresh from Normandy",
@@ -24110,6 +24116,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-07T10:40:26.339197+00:00"
+    },
+    {
+      "name": "Petits Prompts",
+      "slug": "polsia-petits-prompts",
+      "website": "https://petits-prompts.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T11:39:16.050798+00:00"
+    },
+    {
+      "name": "Ecritura",
+      "slug": "polsia-ecritura",
+      "website": "https://ecritura.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T11:39:16.192945+00:00"
+    },
+    {
+      "name": "Metamorphic — Your Coaching, Scaled by AI",
+      "slug": "polsia-metamorphic",
+      "description": "Metamorphic turns your unique coaching framework into an autonomous AI that delivers personalized sessions to every client, around the clock. You built the method. Let AI run it at scale.",
+      "description_fr": "Metamorphic transforme votre cadre de coaching unique en une IA autonome qui propose des sessions personnalisées à chaque client, 24 heures sur 24. Vous avez construit la méthode. Laissez l’IA l’exécuter à grande échelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://metamorphic.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T11:39:36.857059+00:00"
+    },
+    {
+      "name": "AcqRadarOS — Your Acquisition Pipeline Never Sleeps",
+      "slug": "polsia-acqradaros",
+      "description": "AI scans thousands of startups against your acquisition criteria across sectors and geographies. Scores targets by growth trajectory, team strength, and Nasdaq-readiness. No analyst hours burned.",
+      "description_fr": "L'IA analyse des milliers de startups par rapport à vos critères d'acquisition dans tous les secteurs et zones géographiques. Marque les objectifs en fonction de la trajectoire de croissance, de la force de l'équipe et de la préparation au Nasdaq. Aucune heure d’analyste n’a été brûlée.",
+      "category": "AI & Machine Learning",
+      "website": "https://acqradaros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T11:39:17.565499+00:00"
+    },
+    {
+      "name": "ScholarsOS",
+      "slug": "polsia-scholarsos",
+      "description": "The operating system behind FocusED Scholars. Track progress, coordinate with families, manage partnerships, and scale your trauma-informed mission without losing what makes it work: the human connection.",
+      "description_fr": "Le système d'exploitation derrière FocusED Scholars. Suivez les progrès, coordonnez-vous avec les familles, gérez les partenariats et faites évoluer votre mission tenant compte des traumatismes sans perdre ce qui fait son succès : la connexion humaine.",
+      "category": "Other",
+      "website": "https://scholarsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T11:39:19.007345+00:00"
+    },
+    {
+      "name": "Road Soda",
+      "slug": "polsia-road-soda",
+      "description": "You need a cooler that fits in the trunk with four duffels. One that looks good in the group photo. One that survives getting tossed around at the tailgate and still keeps everything cold for the drive home.",
+      "description_fr": "Vous avez besoin d’une glacière qui rentre dans le coffre avec quatre sacs polochons. Celui qui rend bien sur la photo de groupe. Celui qui survit aux chocs sur le hayon et qui garde toujours tout au frais pour le chemin du retour.",
+      "category": "Marketing & Advertising",
+      "website": "https://road-soda.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T11:39:20.415715+00:00"
+    },
+    {
+      "name": "RealmWeave — Serialized Fantasy IP from Myth to Empire",
+      "slug": "polsia-realmweave",
+      "description": "But ground your magic in Mesoamerican cosmology, Norse seidr, West African orisha traditions, or Siberian shamanism, and suddenly readers encounter something they've never seen before. Something that feels real because its roots are real.",
+      "description_fr": "Mais ancrez votre magie dans la cosmologie mésoaméricaine, le seidr nordique, les traditions orisha d'Afrique de l'Ouest ou le chamanisme sibérien, et soudain les lecteurs découvrent quelque chose qu'ils n'ont jamais vu auparavant. Quelque chose qui semble réel parce que ses racines sont réelles.",
+      "category": "Other",
+      "website": "https://realmweave.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T11:39:21.105452+00:00"
+    },
+    {
+      "name": "SierraOS",
+      "slug": "polsia-sierraos-2",
+      "description": "SierraOS is an autonomous operating system that handles product, engineering, marketing, and growth. You set the direction. Everything else happens while you sleep.",
+      "description_fr": "SierraOS est un système d'exploitation autonome qui gère les produits, l'ingénierie, le marketing et la croissance. Vous fixez la direction. Tout le reste se passe pendant que vous dormez.",
+      "category": "Marketing & Advertising",
+      "website": "https://sierraos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T11:39:22.444667+00:00"
+    },
+    {
+      "name": "CourtKitchenOS — The Operating System Behind the Spice",
+      "slug": "polsia-courtkitchenos",
+      "description": "Most chefs study cuisine in a classroom.This one studied it in locker rooms across Belgium, Spain, Italy, Japan, and Turkey.Teammates' grandmothers. Restaurant-owning sponsors. Street vendors in cities most people can't pronounce. Thirteen years of basketball gave him something no culinary school could: a palate built by the world, filtered through Southern roots.",
+      "description_fr": "La plupart des chefs étudient la cuisine en classe. Celui-ci l'a étudiée dans des vestiaires en Belgique, en Espagne, en Italie, au Japon et en Turquie. Les grands-mères de ses coéquipiers. Sponsors restaurateurs. Les vendeurs ambulants dans les villes que la plupart des gens ne peuvent pas prononcer. Treize années de basket-ball lui ont donné quelque chose qu'aucune école culinaire ne pouvait offrir : un palais construit par le monde, filtré par ses racines sudistes.",
+      "category": "Food & Beverage",
+      "website": "https://courtkitchenos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T11:39:24.133085+00:00"
+    },
+    {
+      "name": "Attiro — Your Autonomous Client Attraction Engine",
+      "slug": "polsia-attiro",
+      "description": "So you post when you can, hope for the best, and watch others with half your expertise attract twice your clients. The problem was never your skills. It was never having a dedicated person running your communication. Until now.",
+      "description_fr": "Vous publiez donc quand vous le pouvez, espérez le meilleur et regardez les autres avec la moitié de votre expertise attirer deux fois vos clients. Le problème n’a jamais été vos compétences. Il n’a jamais été question d’avoir une personne dédiée pour gérer votre communication. Jusqu'à maintenant.",
+      "category": "Other",
+      "website": "https://attiro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T11:39:25.010651+00:00"
     }
   ]
 }
