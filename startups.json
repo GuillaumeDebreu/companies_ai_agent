@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T07:20:45.641146+00:00",
+  "last_updated": "2026-04-07T08:14:17.723581+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -23766,12 +23766,15 @@
       "scraped_at": "2026-04-07T06:55:00.523082+00:00"
     },
     {
-      "name": "DieselOS",
+      "name": "Diesel's Paw Shop",
       "slug": "polsia-dieselos",
+      "description": "Track pricing across Alpha Paw, Frenchie Bulldog, Wild One, BarkShop & Dog Savvy. Make smarter pricing decisions for your pet accessory store.",
+      "description_fr": "Suivez les prix sur Alpha Paw, Frenchie Bulldog, Wild One, BarkShop et Dog Savvy. Prenez des décisions de prix plus judicieuses pour votre magasin d'accessoires pour animaux de compagnie.",
+      "category": "E-Commerce & Retail",
       "website": "https://dieselos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T06:55:00.619063+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T08:14:17.422985+00:00"
     },
     {
       "name": "CrossPath",
@@ -23780,6 +23783,116 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-04-07T06:55:00.712107+00:00"
+    },
+    {
+      "name": "Entracte — Premium Spaces Between Acts",
+      "slug": "polsia-entracte",
+      "description": "Entracte sees what others overlook: these premium properties are not vacant. They are stages waiting for their next act. We connect property owners with corporate event planners, film crews, photographers, and brands who need spaces that feel real, lived-in, and impossible to find on any other platform.",
+      "description_fr": "Entracte voit ce que les autres négligent : ces propriétés premium ne sont pas vacantes. Ce sont des scènes qui attendent leur prochain acte. Nous mettons en relation les propriétaires avec des organisateurs d'événements d'entreprise, des équipes de tournage, des photographes et des marques qui ont besoin d'espaces qui semblent réels, habités et impossibles à trouver sur aucune autre plateforme.",
+      "category": "Software & SaaS",
+      "website": "https://entracte.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T08:13:41.598607+00:00"
+    },
+    {
+      "name": "LuvinerOS",
+      "slug": "polsia-luviner-os",
+      "description": "LuvinerOS is the autonomous operating layer for Luviner. Competitive intelligence, customer pipeline, product metrics, and growth ops, all running while you write the next engine.",
+      "description_fr": "LuvinerOS est la couche opérationnelle autonome de Luviner. Veille concurrentielle, pipeline de clients, mesures de produits et opérations de croissance, le tout fonctionnant pendant que vous écrivez le prochain moteur.",
+      "category": "Sales & CRM",
+      "website": "https://luviner-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T08:13:43.122348+00:00"
+    },
+    {
+      "name": "StatusForge",
+      "slug": "polsia-statusforge",
+      "description": "You're good at what you do. But the internet doesn't know that yet. Building a brand that matches your actual competence takes hours every week: writing posts, curating an image, engaging strategically, converting followers into clients. StatusForge does all of it. You just keep doing your actual work.",
+      "description_fr": "Tu es bon dans ce que tu fais. Mais Internet ne le sait pas encore. Construire une marque qui correspond à vos compétences réelles prend des heures chaque semaine : rédiger des articles, conserver une image, s'engager stratégiquement, convertir les abonnés en clients. StatusForge fait tout cela. Vous continuez simplement à faire votre travail réel.",
+      "category": "Marketing & Advertising",
+      "website": "https://statusforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T08:13:44.330422+00:00"
+    },
+    {
+      "name": "BookedCall",
+      "slug": "polsia-bookedcall",
+      "description": "BookedCall doesn't just send one email and hope. It follows up with context-aware sequences, adapting tone and angle based on engagement signals. Opens, clicks, replies, all processed in real time.",
+      "description_fr": "BookedCall n'envoie pas seulement un e-mail et de l'espoir. Il s'ensuit avec des séquences contextuelles, adaptant le ton et l'angle en fonction des signaux d'engagement. Ouvertures, clics, réponses, le tout traité en temps réel.",
+      "category": "Newsletter & Email",
+      "website": "https://bookedcall.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T08:13:45.822227+00:00"
+    },
+    {
+      "name": "NakshVani — Voice of the Stars",
+      "slug": "polsia-nakshvani",
+      "description": "Instant, personalized birth chart analysis powered by AI trained on classical Jyotish principles. Accurate planetary positions, dasha predictions, and dosha analysis without the wait or the bill.",
+      "description_fr": "Analyse instantanée et personnalisée du thème de naissance alimentée par une IA formée sur les principes classiques de Jyotish. Positions planétaires précises, prédictions de Dasha et analyse de Dosha sans attente ni facture.",
+      "category": "AI & Machine Learning",
+      "website": "https://nakshvani.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T08:13:47.233497+00:00"
+    },
+    {
+      "name": "Typemark — The Autonomous Design Agency",
+      "slug": "polsia-typemark",
+      "description": "Typemark is an autonomous design agency. Describe your business, and it produces a complete brand identity: logo concepts, color system, typography, and marketing templates. No designers. No revisions queue. No $5K invoice.",
+      "description_fr": "Typemark est une agence de design autonome. Décrivez votre entreprise et elle produira une identité de marque complète : concepts de logo, système de couleurs, typographie et modèles marketing. Aucun concepteur. Aucune file d'attente de révisions. Aucune facture de 5 000 $.",
+      "category": "Marketing & Advertising",
+      "website": "https://typemark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T08:13:48.942281+00:00"
+    },
+    {
+      "name": "NightBridge",
+      "slug": "polsia-nightbridge",
+      "description": "Talknoteを活用したホストクラブ運営の最適化から、夜職を卒業する人のキャリア転換まで。\n            現場の「今」を強くしながら、働く人の「未来」をつくる。",
+      "description_fr": "Talknote\n            現場の「今」を強くしながら、働く人の「未来」をつくる。",
+      "category": "Other",
+      "website": "https://nightbridge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T08:13:50.378694+00:00"
+    },
+    {
+      "name": "PartHawk",
+      "slug": "polsia-parthawk-4",
+      "description": "You know the drill. Open twelve tabs. Cross-reference forum posts from 2019. Check if that eBay listing ships to CA. Wonder if the Amazon price will drop next week. Give up and overpay, or miss the deal entirely.",
+      "description_fr": "Vous connaissez le principe. Ouvrez douze onglets. Faites des références croisées aux messages du forum de 2019. Vérifiez si cette annonce eBay est expédiée en Californie. Je me demande si le prix Amazon va baisser la semaine prochaine. Abandonnez et payez trop cher, ou ratez complètement l'affaire.",
+      "category": "Social & Community",
+      "website": "https://parthawk-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T08:13:52.339946+00:00"
+    },
+    {
+      "name": "Sealane — Cross",
+      "slug": "polsia-sealane",
+      "description": "Sealane takes over daily operations. You get a dashboard with performance metrics, customer interactions, and revenue tracking across both markets.",
+      "description_fr": "Sealane prend en charge les opérations quotidiennes. Vous obtenez un tableau de bord avec des mesures de performances, des interactions avec les clients et un suivi des revenus sur les deux marchés.",
+      "category": "Software & SaaS",
+      "website": "https://sealane.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T08:13:53.841632+00:00"
+    },
+    {
+      "name": "ALBE — Your Encouraging ADHD Assistant",
+      "slug": "polsia-albe-os",
+      "description": "ALBE is the AI assistant that actually understands ADHD. Not another planner that shames you for missing tasks. An encouraging companion that adapts to how your brain works.",
+      "description_fr": "ALBE est l'assistant IA qui comprend réellement le TDAH. Pas un autre planificateur qui vous fait honte pour les tâches manquées. Un compagnon encourageant qui s'adapte au fonctionnement de votre cerveau.",
+      "category": "AI & Machine Learning",
+      "website": "https://albe-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T08:13:54.590327+00:00"
     }
   ]
 }
