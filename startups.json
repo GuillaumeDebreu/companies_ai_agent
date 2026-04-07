@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T19:45:09.455369+00:00",
+  "last_updated": "2026-04-07T20:30:53.206415+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -24896,12 +24896,15 @@
       "scraped_at": "2026-04-07T19:45:09.061097+00:00"
     },
     {
-      "name": "PocketCrew",
+      "name": "PocketCrew — The Zero",
       "slug": "polsia-pocketcrew",
+      "description": "PocketCrew replaces the retainer, the meetings, the waiting. Just results. An autonomous system that works for your business around the clock, built specifically for the South African market.",
+      "description_fr": "PocketCrew remplace le mandat, les réunions, l'attente. Juste des résultats. Un système autonome qui fonctionne 24 heures sur 24 pour votre entreprise, spécialement conçu pour le marché sud-africain.",
+      "category": "Other",
       "website": "https://pocketcrew.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T19:44:42.673622+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T20:30:53.202996+00:00"
     },
     {
       "name": "RoadLore — Every Mile Has a Story",
@@ -24990,6 +24993,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-07T19:44:52.089660+00:00"
+    },
+    {
+      "name": "TradeWave",
+      "slug": "polsia-tradewave",
+      "description": "TradeWave is an AI engine that fills your schedule with qualified customers. Built for plumbers, HVAC techs, electricians, and every tradesperson tired of slow phones.",
+      "description_fr": "TradeWave est un moteur d'IA qui remplit votre emploi du temps de clients qualifiés. Conçu pour les plombiers, les techniciens CVC, les électriciens et tous les artisans fatigués des téléphones lents.",
+      "category": "AI & Machine Learning",
+      "website": "https://tradewave.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T20:30:30.146829+00:00"
+    },
+    {
+      "name": "Meetpipe — Your AI Sales Rep",
+      "slug": "polsia-meetpipe",
+      "description": "Meetpipe is an AI sales rep that finds your ideal prospects, writes personalized outreach, handles replies, and books meetings directly on your calendar. No hiring. No training. No quota drama.",
+      "description_fr": "Meetpipe est un représentant commercial IA qui trouve vos prospects idéaux, rédige des messages personnalisés, gère les réponses et réserve des réunions directement sur votre calendrier. Pas d'embauche. Aucune formation. Pas de drame de quotas.",
+      "category": "Sales & CRM",
+      "website": "https://meetpipe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T20:30:31.579301+00:00"
+    },
+    {
+      "name": "BlackSignal — AI",
+      "slug": "polsia-blacksignal",
+      "description": "BlackSignal is an AI-native hedge fund. Not a legacy fund with AI bolted on. An intelligence engine built from the ground up to process, reason, and act across global markets at machine speed.",
+      "description_fr": "BlackSignal est un hedge fund natif d’IA. Il ne s’agit pas d’un fonds hérité doté d’une IA intégrée. Un moteur d'intelligence conçu dès le départ pour traiter, raisonner et agir sur les marchés mondiaux à la vitesse d'une machine.",
+      "category": "AI & Machine Learning",
+      "website": "https://blacksignal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T20:30:32.746752+00:00"
+    },
+    {
+      "name": "SpinEdge",
+      "slug": "polsia-spinedge",
+      "description": "SpinEdge est le premier calculateur CEV web concu pour les joueurs d'Expresso et de Spin & Go. Structures Winamax et PMU pre-chargees, simulations instantanees, resultats visuels.",
+      "description_fr": "SpinEdge est le premier calculateur CEV web conçu pour les joueurs d'Expresso et de Spin & Go. Structures Winamax et PMU pré-chargées, simulations instantanées, résultats visuels.",
+      "category": "Other",
+      "website": "https://spinedge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T20:30:33.833938+00:00"
+    },
+    {
+      "name": "Daykeeper — Your AI Operations Agent",
+      "slug": "polsia-daykeeper",
+      "description": "Daykeeper is an AI operations agent for local businesses. It handles your customer messages, appointments, reviews, and daily reporting. Autonomously. Around the clock.",
+      "description_fr": "Daykeeper est un agent opérationnel d'IA pour les entreprises locales. Il gère les messages de vos clients, les rendez-vous, les avis et les rapports quotidiens. De manière autonome. 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://daykeeper.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T20:30:35.007520+00:00"
+    },
+    {
+      "name": "BluePorch — The AI That Runs Your Construction Business",
+      "slug": "polsia-blueporch",
+      "description": "The best outdoor contractors shouldn't be buried in emails and spreadsheets. BluePorch handles everything that isn't a hammer and nail, so you can do what you do best.",
+      "description_fr": "Les meilleurs entrepreneurs en extérieur ne devraient pas être enfouis dans les e-mails et les feuilles de calcul. BluePorch s'occupe de tout ce qui n'est pas un marteau et un clou, afin que vous puissiez faire ce que vous faites de mieux.",
+      "category": "AI & Machine Learning",
+      "website": "https://blueporch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T20:30:35.806716+00:00"
+    },
+    {
+      "name": "BidPilot",
+      "slug": "polsia-bidpilot-26",
+      "description": "BidPilot is an autonomous AI media buyer. It manages your Google and Meta campaigns around the clock, optimizing bids, reallocating budgets, and testing creatives while you focus on strategy.",
+      "description_fr": "BidPilot est un acheteur de médias IA autonome. Il gère vos campagnes Google et Meta 24 heures sur 24, en optimisant les enchères, en réaffectant les budgets et en testant les créations pendant que vous vous concentrez sur la stratégie.",
+      "category": "AI & Machine Learning",
+      "website": "https://bidpilot-26.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T20:30:37.142024+00:00"
+    },
+    {
+      "name": "SightLineOS",
+      "slug": "polsia-sightlineos",
+      "description": "Enterprise sales cycles that span months. Pilots that need tracking. Deployments across multiple sites. Competitors moving fast. You need a command center that understands this world, not a generic CRM that doesn't.",
+      "description_fr": "Cycles de vente d’entreprise qui s’étendent sur des mois. Pilotes qui ont besoin d’être suivis. Déploiements sur plusieurs sites. Les concurrents avancent vite. Vous avez besoin d'un centre de commande qui comprend ce monde, et non d'un CRM générique qui ne le comprend pas.",
+      "category": "Sales & CRM",
+      "website": "https://sightlineos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T20:30:38.288219+00:00"
+    },
+    {
+      "name": "Calltrak — Your AI Front Desk That Never Sleeps",
+      "slug": "polsia-calltrak",
+      "description": "Seamless English and Spanish, mid-conversation if needed. No awkward transfers, no \"press 2 for Spanish.\" Calltrak listens and responds in whatever language your customer is comfortable with.",
+      "description_fr": "Anglais et espagnol fluides, à mi-conversation si nécessaire. Pas de transferts gênants, pas de « appuyez sur 2 pour l'espagnol ». Calltrak écoute et répond dans la langue avec laquelle votre client est à l'aise.",
+      "category": "AI & Machine Learning",
+      "website": "https://calltrak.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T20:30:39.546267+00:00"
+    },
+    {
+      "name": "Startsell — Your AI Sales Rep That Never Sleeps",
+      "slug": "polsia-startsell",
+      "description": "Startsell is an AI agent that runs your entire outbound sales pipeline. It finds leads, researches them, writes personalized emails, follows up, and books meetings on your calendar. You sleep.",
+      "description_fr": "Startsell est un agent IA qui gère l'intégralité de votre pipeline de ventes sortantes. Il trouve des pistes, les recherche, rédige des e-mails personnalisés, assure le suivi et réserve des réunions sur votre calendrier. Tu dors.",
+      "category": "Sales & CRM",
+      "website": "https://startsell.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T20:30:40.867767+00:00"
     }
   ]
 }
