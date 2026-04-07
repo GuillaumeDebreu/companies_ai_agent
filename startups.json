@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T22:06:53.954200+00:00",
+  "last_updated": "2026-04-07T22:57:50.239432+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -25217,10 +25217,13 @@
     {
       "name": "CookieCloud",
       "slug": "polsia-cookiecloud",
+      "description": "CookieCloud is the opposite. Every batch is baked fresh in a home kitchen with ingredients you can actually pronounce. No preservatives. No shortcuts. No corporate recipe book. Just the kind of cookies that make you close your eyes and think of your grandmother's kitchen.",
+      "description_fr": "CookieCloud est le contraire. Chaque lot est cuit frais dans une cuisine familiale avec des ingrédients que vous pouvez réellement prononcer. Pas de conservateurs. Aucun raccourci. Pas de livre de recettes d'entreprise. Le genre de cookies qui vous font fermer les yeux et penser à la cuisine de votre grand-mère.",
+      "category": "Food & Beverage",
       "website": "https://cookiecloud.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T22:06:34.688265+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T22:57:50.237179+00:00"
     },
     {
       "name": "GiltThread",
@@ -25320,6 +25323,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-07T22:06:45.243620+00:00"
+    },
+    {
+      "name": "HoldZero — Your Calls Answered. Every Single One.",
+      "slug": "polsia-holdzero-5",
+      "description": "Trained on your business. Knows your services, pricing, service area, and hours. Sounds like your best front desk person.",
+      "description_fr": "Formé sur votre métier. Connaît vos services, vos tarifs, votre zone de service et vos horaires. Cela ressemble à votre meilleure personne à la réception.",
+      "category": "Other",
+      "website": "https://holdzero-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T22:57:31.401105+00:00"
+    },
+    {
+      "name": "WildscapeOS — The Operating System for Ecological Landscape Design",
+      "slug": "polsia-wildscapeos",
+      "description": "Your busiest months are April through October. Your quietest are when you should be planning, quoting, and lining up next season's pipeline. WildscapeOS adjusts to your calendar, not the other way around. Design season gets project management. Off-season gets business development. Year-round, the system works.",
+      "description_fr": "Vos mois les plus chargés s'étendent d'avril à octobre. Votre période la plus calme est celle où vous devriez planifier, établir des devis et aligner le pipeline de la saison prochaine. WildscapeOS s'adapte à votre calendrier, et non l'inverse. La saison du design obtient la gestion de projet. La basse saison permet le développement des affaires. Toute l’année, le système fonctionne.",
+      "category": "Sales & CRM",
+      "website": "https://wildscapeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T22:57:32.980656+00:00"
+    },
+    {
+      "name": "VillageLink",
+      "slug": "polsia-villagelink",
+      "description": "Local businesses post opportunities specifically for moms re-entering the workforce. Entrepreneurs find B2B resources and partnerships. Real opportunities, not generic job boards.",
+      "description_fr": "Les entreprises locales publient des opportunités spécifiquement destinées aux mamans qui réintègrent le marché du travail. Les entrepreneurs trouvent des ressources et des partenariats B2B. De vraies opportunités, pas des sites d'emploi génériques.",
+      "category": "Sales & CRM",
+      "website": "https://villagelink.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T22:57:34.903174+00:00"
+    },
+    {
+      "name": "SipCycle",
+      "slug": "polsia-sipcycle",
+      "description": "SipCycle is building the go-to destination for people who care about what they drink from and how it got there. Curated drinkware, honest quality, less waste. Coming soon from Atlanta, GA.",
+      "description_fr": "SipCycle crée la destination incontournable pour les personnes soucieuses de ce qu'elles boivent et de la manière dont elles y sont arrivées. Verres sélectionnés, qualité honnête, moins de déchets. Bientôt d'Atlanta, Géorgie.",
+      "category": "Other",
+      "website": "https://sipcycle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T22:57:36.740024+00:00"
+    },
+    {
+      "name": "WorldTravelOS",
+      "slug": "polsia-worldtravelos",
+      "description": "The best travel advisors don't succeed because they work more hours. They succeed because they never lose track of a client, never miss a follow-up, and always know when the right deal hits the market. WorldTravelOS makes that automatic.",
+      "description_fr": "Les meilleurs conseillers en voyages ne réussissent pas parce qu'ils travaillent plus d'heures. Ils réussissent parce qu'ils ne perdent jamais la trace d'un client, ne manquent jamais un suivi et savent toujours quand la bonne affaire arrive sur le marché. WorldTravelOS rend cela automatique.",
+      "category": "Travel & Hospitality",
+      "website": "https://worldtravelos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T22:57:37.962323+00:00"
+    },
+    {
+      "name": "FunnelHive",
+      "slug": "polsia-funnelhive",
+      "description": "Stop building funnels manually. FunnelHive takes your affiliate link and generates the entire campaign: landing page, email sequence, follow-ups, retargeting copy. AI optimizes it while you sleep.",
+      "description_fr": "Arrêtez de créer des entonnoirs manuellement. FunnelHive prend votre lien d'affiliation et génère l'intégralité de la campagne : page de destination, séquence d'e-mails, suivis, copie de reciblage. L'IA l'optimise pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://funnelhive.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T22:57:39.111561+00:00"
+    },
+    {
+      "name": "TwinDrip",
+      "slug": "polsia-twindrip",
+      "description": "You shouldn't have to dress preppy just to twin with your daughter. TwinDrip exists because moms who live in hoodies, joggers, and streetwear deserve matching fits that actually look like them.",
+      "description_fr": "Vous ne devriez pas avoir à vous habiller de manière BCBG juste pour vous jumeler avec votre fille. TwinDrip existe parce que les mamans qui portent des sweats à capuche, des joggers et du streetwear méritent des coupes assorties qui leur ressemblent réellement.",
+      "category": "Other",
+      "website": "https://twindrip.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T22:57:40.134708+00:00"
+    },
+    {
+      "name": "DeskLoom",
+      "slug": "polsia-deskloom",
+      "description": "Every hour spent chasing invoices, juggling schedules, and responding to \"what are your hours?\" is an hour you're not on the job. DeskLoom weaves your entire back office into one autonomous system that runs itself.",
+      "description_fr": "Chaque heure passée à courir après des factures, à jongler avec les plannings et à répondre à la question « quels sont vos horaires ? » c'est une heure pendant laquelle vous n'êtes pas au travail. DeskLoom intègre l'ensemble de votre back-office en un seul système autonome qui s'exécute tout seul.",
+      "category": "Finance & Fintech",
+      "website": "https://deskloom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T22:57:41.353594+00:00"
+    },
+    {
+      "name": "PeakHuman",
+      "slug": "polsia-peakhuman",
+      "description": "Submit your achievement. Upload the proof. Get verified in hours, not months. PeakHuman is the modern record book built for real people, not corporations.",
+      "description_fr": "Soumettez votre réalisation. Téléchargez la preuve. Faites-vous vérifier en quelques heures, pas en mois. PeakHuman est le livre des records moderne conçu pour de vraies personnes, pas pour des entreprises.",
+      "category": "Marketing & Advertising",
+      "website": "https://peakhuman.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T22:57:43.202147+00:00"
+    },
+    {
+      "name": "DesertResumesOS",
+      "slug": "polsia-desertresumesos",
+      "description": "AI is commoditizing basic resume writing. A partner billing $300K doesn't want ChatGPT on their career materials. Desert Resumes sits exactly where the market is heading: high-touch, niche expertise, irreplaceable domain knowledge.",
+      "description_fr": "L’IA banalise la rédaction de CV de base. Un partenaire facturant 300 000 $ ne veut pas que ChatGPT figure sur ses documents de carrière. Desert Resumes se situe exactement là où le marché se dirige : une expertise de niche et une connaissance du domaine irremplaçable.",
+      "category": "AI & Machine Learning",
+      "website": "https://desertresumesos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T22:57:44.307476+00:00"
     }
   ]
 }
