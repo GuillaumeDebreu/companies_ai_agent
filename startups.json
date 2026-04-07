@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T11:39:36.865019+00:00",
+  "last_updated": "2026-04-07T12:44:20.170418+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -24118,20 +24118,26 @@
       "scraped_at": "2026-04-07T10:40:26.339197+00:00"
     },
     {
-      "name": "Petits Prompts",
+      "name": "Petits Prompts — Apprendre l'IA, un prompt à la fois",
       "slug": "polsia-petits-prompts",
+      "description": "Chaque exercice Petits Prompts enseigne deux competences en meme temps. Une competence IA. Une competence cognitive universelle. C'est ce double benefice qui fait la difference.",
+      "description_fr": "Chaque exercice Petits Prompts enseigne deux compétences en même temps. Une compétence IA. Une compétence cognitive universelle. C'est ce double bénéfice qui fait la différence.",
+      "category": "Other",
       "website": "https://petits-prompts.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T11:39:16.050798+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T12:44:17.869760+00:00"
     },
     {
-      "name": "Ecritura",
+      "name": "Ecritura — Le comptable autonome propulsé par l'IA",
       "slug": "polsia-ecritura",
+      "description": "Déclarations de TVA, bulletins de paie, DSN, URSSAF, rapprochements bancaires. Un labyrinthe administratif quiconsomme des heureschaque semaine. Les solutions existantes automatisent les taches simples mais exigent toujours un comptable humain dans la boucle.Ecritura change la donne.L'IA prend en charge l'intégralité du processus. L'expert-comptable ne fait plus que valider.",
+      "description_fr": "Déclarations de TVA, bulletins de paie, DSN, URSSAF, rapprochements bancaires. Un labyrinthe administratif qui consomme des heureschaque semaine. Les solutions existantes automatisent les tâches simples mais exigeantes toujours un comptable humain dans la boucle.Ecritura change la donne.L'IA prend en charge l'intégralité du processus. L'expert-comptable ne fait plus que valider.",
+      "category": "Other",
       "website": "https://ecritura.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T11:39:16.192945+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T12:44:19.541261+00:00"
     },
     {
       "name": "Metamorphic — Your Coaching, Scaled by AI",
@@ -24220,6 +24226,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-07T11:39:25.010651+00:00"
+    },
+    {
+      "name": "EccobatOS",
+      "slug": "polsia-eccobatos",
+      "website": "https://eccobatos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T12:43:44.365725+00:00"
+    },
+    {
+      "name": "ImaginariumOS",
+      "slug": "polsia-imaginariumos",
+      "website": "https://imaginariumos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T12:43:44.563782+00:00"
+    },
+    {
+      "name": "ReelRev",
+      "slug": "polsia-reelrev",
+      "website": "https://reelrev.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T12:43:44.932031+00:00"
+    },
+    {
+      "name": "Wanderword — Words that know where you are",
+      "slug": "polsia-wanderword",
+      "description": "Every word stays. You learn \"Grüezi\" in Zurich, then two years later get the Viennese equivalent. Your vocabulary becomes a map of everywhere you've been and everyone you've become.",
+      "description_fr": "Chaque mot reste. Vous apprenez le \"Grüezi\" à Zurich, puis obtenez deux ans plus tard l'équivalent viennois. Votre vocabulaire devient une carte de partout où vous avez été et de tous ceux que vous êtes devenus.",
+      "category": "Sustainability & Green",
+      "website": "https://wanderword.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T12:43:45.929500+00:00"
+    },
+    {
+      "name": "Monta — AI",
+      "slug": "polsia-monta",
+      "description": "Cercle, COLORS, Tiny Desk. These brands were built on the back of professional production crews, post-production houses, and distribution teams. Independent collectives run the same playbook with a fraction of the resources. Every session is a logistical grind.",
+      "description_fr": "Cercle, COULEURS, Petit Bureau. Ces marques ont été construites grâce à des équipes de production professionnelles, des maisons de post-production et des équipes de distribution. Les collectifs indépendants exécutent le même playbook avec une fraction des ressources. Chaque session est une tâche logistique.",
+      "category": "AI & Machine Learning",
+      "website": "https://monta.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T12:43:46.745077+00:00"
+    },
+    {
+      "name": "FindBestDealFor — Every Product. Every Store. One Answer.",
+      "slug": "polsia-dealradaros",
+      "description": "Type what you want in plain language. \"65-inch TV under $500\" or \"best running shoes for flat feet.\" Our AI understands intent, not just keywords.",
+      "description_fr": "Tapez ce que vous voulez dans un langage simple. \"Téléviseur 65 pouces à moins de 500 $\" ou \"meilleures chaussures de course pour pieds plats\". Notre IA comprend l'intention, pas seulement les mots-clés.",
+      "category": "AI & Machine Learning",
+      "website": "https://dealradaros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T12:43:47.996786+00:00"
+    },
+    {
+      "name": "Pipesmith",
+      "slug": "polsia-pipesmith-17",
+      "description": "Pipesmith finds your ideal customers, researches their business, and sends outreach so personal they think a human wrote it. Runs 24/7. Costs less than a single SDR's monthly coffee budget.",
+      "description_fr": "Pipesmith trouve vos clients idéaux, recherche leur entreprise et envoie des messages si personnels qu'ils pensent qu'un humain l'a écrit. Fonctionne 24h/24 et 7j/7. Coûte moins que le budget café mensuel d’un seul SDR.",
+      "category": "Sales & CRM",
+      "website": "https://pipesmith-17.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T12:43:48.987660+00:00"
+    },
+    {
+      "name": "TutelaLive — Videoconsulenze per la Sicurezza sul Lavoro",
+      "slug": "polsia-tutelalive",
+      "description": "TutelaLive nasce per democratizzare l'accesso alla consulenza sulla sicurezza sul lavoro in Italia. Ogni impresa, grande o piccola, merita risposte rapide, competenti e accessibili. Questo e' il futuro della compliance.",
+      "description_fr": "TutelaLive est né pour démocratiser l'accès au consulat sur la sécurité du travail en Italie. Chaque entreprise, grande ou petite, mérite une réponse rapide, compétente et accessible. C'est le futur de la conformité.",
+      "category": "Software & SaaS",
+      "website": "https://tutelalive.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T12:43:50.151680+00:00"
+    },
+    {
+      "name": "BreazOS",
+      "slug": "polsia-breazos",
+      "description": "You run multiple products. Each has its own dashboard, its own metrics, its own chaos. BreazOS pulls everything into a single operational layer so you can think at the portfolio level.",
+      "description_fr": "Vous exécutez plusieurs produits. Chacun a son propre tableau de bord, ses propres métriques, son propre chaos. BreazOS rassemble tout dans une seule couche opérationnelle afin que vous puissiez penser au niveau du portefeuille.",
+      "category": "Software & SaaS",
+      "website": "https://breazos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T12:43:51.706731+00:00"
+    },
+    {
+      "name": "SparkleOS — The Operating System for Crystal Artisans",
+      "slug": "polsia-sparkleos-2",
+      "description": "SparkleOS is the operating system built for custom crystal embellishment businesses. Orders, customers, growth, all in one place, so you can focus on what nobody else can do: the art.",
+      "description_fr": "SparkleOS est le système d'exploitation conçu pour les entreprises d'embellissement de cristaux personnalisés. Commandes, clients, croissance, le tout au même endroit, pour que vous puissiez vous concentrer sur ce que personne d'autre ne peut faire : l'art.",
+      "category": "Other",
+      "website": "https://sparkleos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T12:43:52.984945+00:00"
     }
   ]
 }
