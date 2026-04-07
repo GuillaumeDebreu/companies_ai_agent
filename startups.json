@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T08:14:17.723581+00:00",
+  "last_updated": "2026-04-07T09:37:09.504060+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -22862,12 +22862,15 @@
       "scraped_at": "2026-04-06T20:50:56.963909+00:00"
     },
     {
-      "name": "AudioLayer",
+      "name": "AudioLayer — AI",
       "slug": "polsia-audiolayer",
+      "description": "Find the perfect sound effect in seconds. Describe what you hear in your head and AudioLayer finds it using AI.",
+      "description_fr": "Trouvez l'effet sonore parfait en quelques secondes. Décrivez ce que vous entendez dans votre tête et AudioLayer le trouve à l'aide de l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://audiolayer.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-06T20:50:57.188420+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T09:37:08.961409+00:00"
     },
     {
       "name": "GhostRealm — Reviving Forgotten MMOs, One Server at a Time",
@@ -23893,6 +23896,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-07T08:13:54.590327+00:00"
+    },
+    {
+      "name": "PropSwift",
+      "slug": "polsia-propswift",
+      "website": "https://propswift.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T09:36:49.291547+00:00"
+    },
+    {
+      "name": "SkyproOS",
+      "slug": "polsia-skyproos",
+      "description": "SkyproOS runs autonomously, making daily progress on student analytics, competitive intelligence, and market expansion while you focus on what matters: building the best courses in the market.",
+      "description_fr": "SkyproOS fonctionne de manière autonome, progressant quotidiennement en matière d'analyse des étudiants, de veille concurrentielle et d'expansion du marché tout en vous concentrant sur ce qui compte : créer les meilleurs cours du marché.",
+      "category": "Education",
+      "website": "https://skyproos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T09:36:49.877595+00:00"
+    },
+    {
+      "name": "Sparkhunt",
+      "slug": "polsia-sparkhunt",
+      "description": "Sparkhunt is an AI sales rep that researches prospects, writes personalized outreach, handles replies, and books meetings on your calendar. No templates. No babysitting. Just booked calls.",
+      "description_fr": "Sparkhunt est un représentant commercial IA qui recherche des prospects, rédige des messages personnalisés, gère les réponses et réserve des réunions sur votre calendrier. Aucun modèle. Pas de baby-sitting. Je viens de réserver des appels.",
+      "category": "Sales & CRM",
+      "website": "https://sparkhunt.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T09:36:51.417369+00:00"
+    },
+    {
+      "name": "BiscuitOS",
+      "slug": "polsia-biscuitos-2",
+      "description": "Competitive intelligence, growth tracking, and autonomous operations for the team building the all-in-one business platform. From waitlist to launch to scale, one dashboard runs it all.",
+      "description_fr": "Veille concurrentielle, suivi de la croissance et opérations autonomes pour l'équipe qui construit la plateforme commerciale tout-en-un. De la liste d'attente au lancement en passant par la mise à l'échelle, un seul tableau de bord gère tout.",
+      "category": "Software & SaaS",
+      "website": "https://biscuitos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T09:36:52.919013+00:00"
+    },
+    {
+      "name": "Mod'rn Prana Riz'n — Ancient Breath, Modern Rise",
+      "slug": "polsia-modrn-prana-rizn",
+      "description": "Mod'rn Prana Riz'n exists to change that. We're building a digital-first wellness platform rooted in prana, the Sanskrit concept of vital life energy, designed for real people in real places. Huntington, not Hollywood.",
+      "description_fr": "Mod'rn Prana Riz'n existe pour changer cela. Nous construisons une plateforme numérique de bien-être ancrée dans le prana, le concept sanscrit d'énergie vitale, conçue pour de vraies personnes dans des lieux réels. Huntington, pas Hollywood.",
+      "category": "Software & SaaS",
+      "website": "https://modrn-prana-rizn.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T09:36:54.284138+00:00"
+    },
+    {
+      "name": "Cellarist — The AI Sommelier That Runs Your Wine Bar",
+      "slug": "polsia-cellarist",
+      "description": "You got into wine because you love the craft. Now you spend your nights toggling between reservation apps, social media, inventory spreadsheets, and email blasts. The tools were supposed to help. They just multiplied.",
+      "description_fr": "Vous vous êtes lancé dans le vin parce que vous aimez ce métier. Vous passez désormais vos nuits à basculer entre les applications de réservation, les réseaux sociaux, les feuilles de calcul d'inventaire et les envois d'e-mails. Les outils étaient censés aider. Ils se sont simplement multipliés.",
+      "category": "AI & Machine Learning",
+      "website": "https://cellarist.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T09:36:55.204310+00:00"
+    },
+    {
+      "name": "MysticThreadsOS",
+      "slug": "polsia-mysticthreadsos",
+      "description": "Most alternative fashion brands are aesthetic-only. Mystic Threads is built by a real paranormal investigator, for a community that knows the difference. MysticThreadsOS is the system that turns that authenticity into growth.",
+      "description_fr": "La plupart des marques de mode alternative sont uniquement esthétiques. Mystic Threads est construit par un véritable enquêteur paranormal, pour une communauté qui connaît la différence. MysticThreadsOS est le système qui transforme cette authenticité en croissance.",
+      "category": "Marketing & Advertising",
+      "website": "https://mysticthreadsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T09:36:56.737696+00:00"
+    },
+    {
+      "name": "Flint — Your AI Sales Agent",
+      "slug": "polsia-flint-15",
+      "description": "Flint finds your ideal prospects, researches them, writes personalized outreach, and books meetings on your calendar. No templates. No manual work. Just results.",
+      "description_fr": "Flint trouve vos prospects idéaux, les recherche, rédige des communications personnalisées et réserve des réunions sur votre calendrier. Aucun modèle. Aucun travail manuel. Juste des résultats.",
+      "category": "Sales & CRM",
+      "website": "https://flint-15.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T09:36:58.322786+00:00"
+    },
+    {
+      "name": "SyncroLife — The Bio",
+      "slug": "polsia-syncrolife",
+      "description": "Your raw biometric data never leaves your device. HRV readings, cortisol levels, sleep patterns, all processed at the edge. No cloud uploads. No third-party access. Your body's data stays yours.",
+      "description_fr": "Vos données biométriques brutes ne quittent jamais votre appareil. Les relevés de VRC, les niveaux de cortisol, les habitudes de sommeil, tous traités en périphérie. Aucun téléchargement vers le cloud. Aucun accès tiers. Les données de votre corps restent les vôtres.",
+      "category": "Other",
+      "website": "https://syncrolife.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T09:36:59.442958+00:00"
+    },
+    {
+      "name": "LendGrid — AI That Runs Auto Lending Operations",
+      "slug": "polsia-lendgrid",
+      "description": "LendGrid is an autonomous agent that handles deal intake, credit decisions, dealer communication, and loan servicing. It works 24/7 so your team doesn't have to.",
+      "description_fr": "LendGrid est un agent autonome qui gère la prise de transactions, les décisions de crédit, la communication avec les concessionnaires et le service des prêts. Il fonctionne 24h/24 et 7j/7, ce qui évite à votre équipe d'avoir à le faire.",
+      "category": "AI & Machine Learning",
+      "website": "https://lendgrid.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T09:37:00.044263+00:00"
     }
   ]
 }
