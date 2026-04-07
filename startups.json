@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T19:06:32.980325+00:00",
+  "last_updated": "2026-04-07T19:45:09.455369+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -24775,20 +24775,26 @@
       "scraped_at": "2026-04-07T17:44:07.044582+00:00"
     },
     {
-      "name": "Adira",
+      "name": "Adira — Women's Stories, Unfiltered",
       "slug": "polsia-adira",
+      "description": "Adira is a digital space for the unfiltered, the honest, the real. Women's voices telling women's stories, without the editorial polish that scrubs away the truth.",
+      "description_fr": "Adira est un espace numérique pour le non filtré, l'honnêteté, le réel. Des voix de femmes racontent des histoires de femmes, sans le vernis éditorial qui efface la vérité.",
+      "category": "Other",
       "website": "https://adira.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T18:41:14.535234+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T19:45:04.769468+00:00"
     },
     {
-      "name": "NestIQ",
+      "name": "NestIQ — The AI Agent That Runs Your Real Estate Business",
       "slug": "polsia-nestiq-20",
+      "description": "NestIQ is an AI agent that monitors listings, qualifies leads, sends follow-ups, and generates market reports. Autonomously. Every day. While you do the work only humans can.",
+      "description_fr": "NestIQ est un agent IA qui surveille les annonces, qualifie les prospects, envoie des suivis et génère des rapports de marché. De manière autonome. Tous les jours. Pendant que vous faites le travail, seuls les humains le peuvent.",
+      "category": "AI & Machine Learning",
       "website": "https://nestiq-20.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T18:41:14.718550+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T19:45:05.911375+00:00"
     },
     {
       "name": "Wanda's Wings",
@@ -24815,10 +24821,13 @@
     {
       "name": "Dawnstack",
       "slug": "polsia-dawnstack",
+      "description": "You started a business to do work you love. Not to chase invoices, sort emails, and juggle calendars. Dawnstack gives you those hours back by handling all of it autonomously.",
+      "description_fr": "Vous avez démarré une entreprise pour faire un travail que vous aimez. Pas pour courir après les factures, trier les emails et jongler avec les calendriers. Dawnstack vous rend ces heures en gérant tout cela de manière autonome.",
+      "category": "Finance & Fintech",
       "website": "https://dawnstack.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-07T18:41:18.045729+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-07T19:45:07.407326+00:00"
     },
     {
       "name": "RocketReviewOS",
@@ -24874,6 +24883,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-07T18:41:25.282200+00:00"
+    },
+    {
+      "name": "FedScope — Your AI Contracts Officer",
+      "slug": "polsia-fedscope",
+      "description": "FedScope is an autonomous AI agent that monitors SAM.gov around the clock, matches opportunities to your capabilities, and drafts compliant proposals before your competitors even see the listing.",
+      "description_fr": "FedScope est un agent d'IA autonome qui surveille SAM.gov 24 heures sur 24, adapte les opportunités à vos capacités et rédige des propositions conformes avant même que vos concurrents ne voient la liste.",
+      "category": "AI & Machine Learning",
+      "website": "https://fedscope.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T19:45:09.061097+00:00"
+    },
+    {
+      "name": "PocketCrew",
+      "slug": "polsia-pocketcrew",
+      "website": "https://pocketcrew.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-07T19:44:42.673622+00:00"
+    },
+    {
+      "name": "RoadLore — Every Mile Has a Story",
+      "slug": "polsia-roadlore",
+      "description": "Forget \"are we there yet.\" RoadLore pipes narration through your car's Bluetooth or radio. Kids hear about every state line, every landmark, every cool fact, told by a character they picked.",
+      "description_fr": "Oubliez « est-ce qu'on y est déjà ». RoadLore diffuse la narration via le Bluetooth ou la radio de votre voiture. Les enfants entendent parler de chaque frontière étatique, de chaque point de repère, de chaque fait intéressant, raconté par un personnage qu'ils ont choisi.",
+      "category": "Other",
+      "website": "https://roadlore.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T19:44:43.809543+00:00"
+    },
+    {
+      "name": "Topiq",
+      "slug": "polsia-topiq",
+      "description": "4 sources, 1 story. Topiq reconstructed this topic automatically by detecting shared entities, timelines, and people across your connected tools. No tagging. No manual linking. It just works.",
+      "description_fr": "4 sources, 1 histoire. Topiq a reconstruit ce sujet automatiquement en détectant les entités partagées, les chronologies et les personnes dans vos outils connectés. Aucun marquage. Pas de liaison manuelle. Cela fonctionne.",
+      "category": "Sustainability & Green",
+      "website": "https://topiq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T19:44:44.603369+00:00"
+    },
+    {
+      "name": "ViableOS — The Operating System for Innovation Consulting",
+      "slug": "polsia-viableos",
+      "description": "ViableOS works while you sleep. It researches prospects, drafts proposals, tracks project health, and flags risks before they become problems. Every morning, you get a summary of what happened overnight.",
+      "description_fr": "ViableOS fonctionne pendant que vous dormez. Il recherche les perspectives, rédige des propositions, suit la santé du projet et signale les risques avant qu'ils ne deviennent des problèmes. Chaque matin, vous recevez un résumé de ce qui s'est passé pendant la nuit.",
+      "category": "Sales & CRM",
+      "website": "https://viableos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T19:44:46.039189+00:00"
+    },
+    {
+      "name": "Calendara — AI Front Desk for Service Businesses",
+      "slug": "polsia-calendara",
+      "description": "Automated reminders at 48 hours, 24 hours, and 2 hours before every appointment. Customers can reschedule with a single reply instead of ghosting. Your calendar stays full, your revenue stays predictable.",
+      "description_fr": "Rappels automatisés 48 heures, 24 heures et 2 heures avant chaque rendez-vous. Les clients peuvent reprogrammer avec une seule réponse au lieu d'un traitement fantôme. Votre calendrier reste plein, vos revenus restent prévisibles.",
+      "category": "AI & Machine Learning",
+      "website": "https://calendara.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T19:44:47.209478+00:00"
+    },
+    {
+      "name": "Feneca",
+      "slug": "polsia-fenecaos",
+      "description": "Feneca is an autonomous AI marketing engine built for local businesses. It runs your ads, writes your content, manages your reputation, and grows your customer base. No agency retainer. No marketing degree required.",
+      "description_fr": "Feneca est un moteur marketing d'IA autonome conçu pour les entreprises locales. Il diffuse vos annonces, rédige votre contenu, gère votre réputation et développe votre clientèle. Aucun mandat d'agence. Aucun diplôme en marketing requis.",
+      "category": "AI & Machine Learning",
+      "website": "https://fenecaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T19:44:48.617991+00:00"
+    },
+    {
+      "name": "VelvetAtlas — The Global Boutique, Curated",
+      "slug": "polsia-velvetatlas",
+      "description": "The fashion marketplace is drowning in volume. Thousands of brands, millions of products, infinite scrolling that leads nowhere. VelvetAtlas takes the opposite approach: a tight, intentional edit of global fashion, where every piece is chosen for craft, originality, and the story behind it.",
+      "description_fr": "Le marché de la mode croule sous le volume. Des milliers de marques, des millions de produits, un défilement infini qui ne mène nulle part. VelvetAtlas adopte l'approche opposée : une sélection serrée et intentionnelle de mode mondiale, où chaque pièce est choisie pour son artisanat, son originalité et l'histoire qui la cache.",
+      "category": "E-Commerce & Retail",
+      "website": "https://velvetatlas.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T19:44:50.344974+00:00"
+    },
+    {
+      "name": "StampForge",
+      "slug": "polsia-stampforge",
+      "description": "StampForge exists because generic gifts don't say anything. Every product we make carries someone's name, someone's story, someone's thank you. That's the difference between a mug and their mug.",
+      "description_fr": "StampForge existe parce que les cadeaux génériques ne disent rien. Chaque produit que nous fabriquons porte le nom de quelqu'un, l'histoire de quelqu'un, le remerciement de quelqu'un. C'est la différence entre une tasse et leur tasse.",
+      "category": "Other",
+      "website": "https://stampforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T19:44:51.202274+00:00"
+    },
+    {
+      "name": "AI Applications",
+      "slug": "polsia-aiappsos",
+      "description": "Our founder spent over a decade in classrooms, then built EdTech platforms. The skill of making complex things simple doesn't change. Whether it's English grammar or AI workflows, the method is the same: clarity over complexity. That's what makes AI Applications different from every directory and consultant out there.",
+      "description_fr": "Notre fondateur a passé plus d’une décennie dans des salles de classe, puis a construit des plateformes EdTech. La capacité de simplifier des choses complexes ne change pas. Qu'il s'agisse de grammaire anglaise ou de workflows d'IA, la méthode est la même : la clarté plutôt que la complexité. C'est ce qui différencie les applications AI de tous les annuaires et consultants.",
+      "category": "AI & Machine Learning",
+      "website": "https://aiappsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-07T19:44:52.089660+00:00"
     }
   ]
 }
