@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T08:47:35.483670+00:00",
+  "last_updated": "2026-04-08T09:54:25.761820+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -26093,6 +26093,36 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-08T08:47:33.615242+00:00"
+    },
+    {
+      "name": "Delray",
+      "slug": "polsia-delray",
+      "website": "https://delray.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-08T09:54:19.620925+00:00"
+    },
+    {
+      "name": "Tendwell — Your Agency Runs Itself",
+      "slug": "polsia-tendwell-3",
+      "description": "Tendwell is an AI operations manager for home care agencies. It handles scheduling, caregiver matching, compliance, and billing autonomously, so you never scramble for coverage at 5am again.",
+      "description_fr": "Tendwell est un responsable des opérations d'IA pour les agences de soins à domicile. Il gère la planification, la mise en relation des soignants, la conformité et la facturation de manière autonome, afin que vous ne vous précipitiez plus jamais pour obtenir une couverture à 5 heures du matin.",
+      "category": "AI & Machine Learning",
+      "website": "https://tendwell-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T09:54:21.424794+00:00"
+    },
+    {
+      "name": "ForkFlow — Your AI Content Manager for Food",
+      "slug": "polsia-forkflow",
+      "description": "ForkFlow is an AI agent that runs your food content business while you focus on what you love. It scouts restaurants, writes posts, schedules content, and manages brand deals. Autonomously. 24/7.",
+      "description_fr": "ForkFlow est un agent IA qui gère votre entreprise de contenu alimentaire pendant que vous vous concentrez sur ce que vous aimez. Il recherche les restaurants, rédige des articles, planifie le contenu et gère les offres de marque. De manière autonome. 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://forkflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T09:54:23.234163+00:00"
     }
   ]
 }
