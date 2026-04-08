@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T20:57:28.379872+00:00",
+  "last_updated": "2026-04-08T21:53:20.794540+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -26904,18 +26904,24 @@
     {
       "name": "ZenRise",
       "slug": "polsia-zenrise",
+      "description": "Meditation apps teach you to relax. ZenRise teaches you to rise. We take the deepest principles from yoga and zen traditions and turn them into actionable growth paths that transform how you see yourself, your work, and your future.",
+      "description_fr": "Les applications de méditation vous apprennent à vous détendre. ZenRise vous apprend à vous élever. Nous prenons les principes les plus profonds des traditions du yoga et du zen et les transformons en chemins de croissance concrets qui transforment la façon dont vous vous voyez, votre travail et votre avenir.",
+      "category": "Other",
       "website": "https://zenrise.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T20:57:18.403704+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T21:53:19.406481+00:00"
     },
     {
       "name": "FBA Vibes",
       "slug": "polsia-fba-vibes",
+      "description": "FBA Vibes exists because culture deserves more than generic prints on cheap blanks. Every product is designed with intention, printed with care, and worn with pride.",
+      "description_fr": "FBA Vibes existe parce que la culture mérite plus que des impressions génériques sur des supports bon marché. Chaque produit est conçu avec intention, imprimé avec soin et porté avec fierté.",
+      "category": "Other",
       "website": "https://fba-vibes.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T20:57:18.601540+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T21:53:20.428179+00:00"
     },
     {
       "name": "DreamOS",
@@ -27004,6 +27010,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-08T20:57:25.074329+00:00"
+    },
+    {
+      "name": "ByltOS",
+      "slug": "polsia-byltos",
+      "website": "https://byltos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-08T21:53:03.586180+00:00"
+    },
+    {
+      "name": "Ollo — AI agents your business actually needs",
+      "slug": "polsia-ollo",
+      "description": "75% of small businesses are experimenting with AI. But most are stuck choosing between hundreds of tools, wrestling with technical setup, or simply not knowing where to start.",
+      "description_fr": "75 % des petites entreprises expérimentent l’IA. Mais la plupart sont obligés de choisir entre des centaines d’outils, de se débattre avec la configuration technique ou ne savent tout simplement pas par où commencer.",
+      "category": "AI & Machine Learning",
+      "website": "https://ollo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T21:53:04.882725+00:00"
+    },
+    {
+      "name": "TrailDesk — Your Tour Company's AI Operations Manager",
+      "slug": "polsia-traildesk-2",
+      "description": "You got into this business for the trails, the water, the mountains. Instead, you spend your nights answering emails, juggling guide schedules, and updating five different platforms. Booking software handles reservations. But who handles everything else?",
+      "description_fr": "Vous vous êtes lancé dans ce métier pour les sentiers, l'eau, les montagnes. Au lieu de cela, vous passez vos nuits à répondre à des e-mails, à jongler avec les horaires des guides et à mettre à jour cinq plateformes différentes. Le logiciel de réservation gère les réservations. Mais qui s’occupe de tout le reste ?",
+      "category": "Software & SaaS",
+      "website": "https://traildesk-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T21:53:06.469456+00:00"
+    },
+    {
+      "name": "StyleSpark",
+      "slug": "polsia-stylespark",
+      "description": "StyleSpark exists because looking good shouldn't require a personal stylist on retainer. The principles behind great style are learnable. We're building the AI that finally teaches them.",
+      "description_fr": "StyleSpark existe parce qu'avoir fière allure ne devrait pas nécessiter l'intervention d'un styliste personnel. Les principes qui sous-tendent un bon style s’apprennent. Nous construisons l'IA qui leur apprend enfin.",
+      "category": "AI & Machine Learning",
+      "website": "https://stylespark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T21:53:07.750863+00:00"
+    },
+    {
+      "name": "SpawnHost",
+      "slug": "polsia-spawnhost",
+      "description": "Stop fighting config files. Tell us exactly what you want for yourMinecraftorRustserver, \n                and we'll deliver it ready to play.",
+      "description_fr": "Arrêtez de lutter contre les fichiers de configuration. Dites-nous exactement ce que vous souhaitez pour votre serveur Minecraft ou Rust, \n                et nous le livrerons prêt à jouer.",
+      "category": "Other",
+      "website": "https://spawnhost.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T21:53:08.772027+00:00"
+    },
+    {
+      "name": "Doctura — The Practice Runs Itself",
+      "slug": "polsia-doctura",
+      "description": "Doctura doesn't replace clinical judgment. It handles everything around it. Patient reminders, care coordination between specialists, proactive health monitoring, and practice analytics. The operational layer that lets a solo physician deliver care like a team of ten.",
+      "description_fr": "Doctura ne remplace pas le jugement clinique. Il gère tout autour de lui. Rappels aux patients, coordination des soins entre spécialistes, surveillance proactive de la santé et analyse de la pratique. La couche opérationnelle qui permet à un médecin seul de prodiguer des soins comme une équipe de dix.",
+      "category": "Health & Wellness",
+      "website": "https://doctura.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T21:53:10.047002+00:00"
+    },
+    {
+      "name": "ProspectVault",
+      "slug": "polsia-prospectvault",
+      "description": "ProspectVault combines strategic research, verified data, and real estate expertise to deliver leads that actually close. Built in Philadelphia. Serving investors nationwide.",
+      "description_fr": "ProspectVault combine recherche stratégique, données vérifiées et expertise immobilière pour générer des prospects réellement conclus. Construit à Philadelphie. Au service des investisseurs dans tout le pays.",
+      "category": "Sales & CRM",
+      "website": "https://prospectvault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T21:53:11.554721+00:00"
+    },
+    {
+      "name": "CamVault — One Dashboard. Every Tool. Full Control.",
+      "slug": "polsia-camvault",
+      "description": "CamVault is being built for the models and studios who are tired of handing over control to platforms that don't have their best interests at heart. One dashboard. Full ownership. The way it should have been from the start.",
+      "description_fr": "CamVault est conçu pour les mannequins et les studios qui en ont assez de céder le contrôle à des plateformes qui n'ont pas à cœur leurs meilleurs intérêts. Un tableau de bord. Pleine propriété. Comme cela aurait dû être depuis le début.",
+      "category": "Software & SaaS",
+      "website": "https://camvault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T21:53:12.882218+00:00"
+    },
+    {
+      "name": "GridFree — Your Path to $0 Energy Bills",
+      "slug": "polsia-gridfree",
+      "description": "Virtual power plant programs now pay homeowners$50-80/yearjust for sharing stored energy during peak hours. Combined with solar and battery self-consumption, that's a $0 bill.",
+      "description_fr": "Les programmes de centrales électriques virtuelles paient désormais aux propriétaires 50 à 80 $/an simplement pour le partage de l'énergie stockée pendant les heures de pointe. Combiné avec l’autoconsommation solaire et par batterie, cela représente une facture de 0 $.",
+      "category": "E-Commerce & Retail",
+      "website": "https://gridfree.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T21:53:13.712052+00:00"
+    },
+    {
+      "name": "AtelierKit — The business side of art, handled.",
+      "slug": "polsia-atelierkit",
+      "description": "You track commissions in spreadsheets. Client details live in DMs. Invoices are copy-pasted PDFs. Exhibition deadlines hide in calendar apps. Your art deserves a studio. Your business deserves one too.",
+      "description_fr": "Vous suivez les commissions dans des feuilles de calcul. Les détails du client vivent dans les DM. Les factures sont des PDF copiés-collés. Les dates limites des expositions se cachent dans les applications de calendrier. Votre art mérite un studio. Votre entreprise en mérite également un.",
+      "category": "Finance & Fintech",
+      "website": "https://atelierkit.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T21:53:14.945716+00:00"
     }
   ]
 }
