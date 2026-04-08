@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T07:23:36.897836+00:00",
+  "last_updated": "2026-04-08T07:49:00.932094+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -25765,12 +25765,15 @@
       "scraped_at": "2026-04-08T04:08:12.398683+00:00"
     },
     {
-      "name": "TaskHero",
+      "name": "TaskHero — The Task Marketplace That Pays Fair",
       "slug": "polsia-taskhero",
+      "description": "Every platform says they connect people. TaskHero is built for the people who actually do the work. Fair rates. Real verification. A marketplace where being good at your job matters more than being the cheapest bid.",
+      "description_fr": "Chaque plateforme prétend connecter les gens. TaskHero est conçu pour les personnes qui effectuent réellement le travail. Tarifs équitables. Vraie vérification. Un marché où le fait d'être bon dans son travail compte plus que d'être l'offre la moins chère.",
+      "category": "Software & SaaS",
       "website": "https://taskhero.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T05:57:32.148712+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T07:49:00.930037+00:00"
     },
     {
       "name": "EarnCraft — Digital Products That Pay You Every Day",
@@ -25870,6 +25873,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-08T05:57:45.941838+00:00"
+    },
+    {
+      "name": "PostForge — Your AI Social Media Team",
+      "slug": "polsia-postforge-16",
+      "description": "PostForge is the AI that creates your content, posts on schedule, engages your audience, and reports what worked. One autonomous system replacing an entire social media team.",
+      "description_fr": "PostForge est l'IA qui crée votre contenu, publie dans les délais, engage votre public et rapporte ce qui a fonctionné. Un système autonome remplaçant toute une équipe de médias sociaux.",
+      "category": "AI & Machine Learning",
+      "website": "https://postforge-16.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T07:48:46.684765+00:00"
+    },
+    {
+      "name": "Growvine — AI Lead Engine for Small Business",
+      "slug": "polsia-growvine",
+      "description": "Growvine is an AI agent that lives on your website. It talks to every visitor, captures leads, follows up, and books meetings on your calendar. The growth team that never clocks out.",
+      "description_fr": "Growvine est un agent IA qui vit sur votre site Web. Il parle à chaque visiteur, capture les pistes, assure le suivi et réserve des réunions sur votre calendrier. L'équipe de croissance qui ne s'arrête jamais.",
+      "category": "AI & Machine Learning",
+      "website": "https://growvine.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T07:48:47.875472+00:00"
+    },
+    {
+      "name": "PipeFix",
+      "slug": "polsia-pipefix",
+      "description": "Most plumbing apps are built by developers who have never held a pipe wrench. PipeFix was designed by a plumber who has spent 16 years diagnosing and fixing real problems in real homes. Every diagnosis, every materials list, every repair instruction is grounded in thousands of actual service calls. When we say \"replace the cartridge,\" we know which cartridge, which brand, and which aisle at the hardware store.",
+      "description_fr": "La plupart des applications de plomberie sont créées par des développeurs qui n'ont jamais tenu de clé à tube. PipeFix a été conçu par un plombier qui a passé 16 ans à diagnostiquer et à résoudre de vrais problèmes dans de vraies maisons. Chaque diagnostic, chaque liste de matériaux, chaque instruction de réparation repose sur des milliers d'appels de service réels. Lorsque nous disons « remplacer la cartouche », nous savons quelle cartouche, quelle marque et dans quel rayon de la quincaillerie.",
+      "category": "E-Commerce & Retail",
+      "website": "https://pipefix.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T07:48:48.802845+00:00"
+    },
+    {
+      "name": "SongforgeOS",
+      "slug": "polsia-songforgeos",
+      "description": "Unified analytics across Spotify, Apple Music, and every platform. See which playlists, cities, and demographics are driving your growth.",
+      "description_fr": "Analyses unifiées sur Spotify, Apple Music et toutes les plateformes. Découvrez quelles playlists, villes et données démographiques stimulent votre croissance.",
+      "category": "Software & SaaS",
+      "website": "https://songforgeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T07:48:49.942500+00:00"
+    },
+    {
+      "name": "StarKidOS",
+      "slug": "polsia-starkidos",
+      "description": "11 million Haitian Creole speakers worldwide. The 6th most common non-English language in American school children's homes. Yet almost no quality learning materials exist for young learners. Star Quality Kid is filling that gap.",
+      "description_fr": "11 millions de locuteurs du créole haïtien dans le monde. La 6ème langue non anglaise la plus courante dans les foyers des écoliers américains. Pourtant, il n’existe pratiquement aucun matériel pédagogique de qualité pour les jeunes apprenants. Star Quality Kid comble cette lacune.",
+      "category": "Education",
+      "website": "https://starkidos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T07:48:50.959797+00:00"
+    },
+    {
+      "name": "Zurvo",
+      "slug": "polsia-zurvo",
+      "description": "Zurvo is an AI bookkeeper that categorizes expenses, sends invoices, chases late payments, and keeps your financials clean. No spreadsheets. No manual entry. No $500/month accountant.",
+      "description_fr": "Zurvo est un comptable IA qui catégorise les dépenses, envoie des factures, traque les retards de paiement et garde vos finances propres. Pas de feuilles de calcul. Aucune saisie manuelle. Pas de comptable à 500 $/mois.",
+      "category": "Finance & Fintech",
+      "website": "https://zurvo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T07:48:52.125742+00:00"
+    },
+    {
+      "name": "ChiovendaOS — The Operating System Behind the Dealership",
+      "slug": "polsia-chiovendaos",
+      "description": "ChiovendaOS connects Novate and Garbagnate into a single operational view. Track inventory, manage service bookings, follow up with customers, and know exactly how the business is performing, at any time.",
+      "description_fr": "ChiovendaOS connecte Novate et Garbagnate en une seule vue opérationnelle. Suivez l'inventaire, gérez les réservations de services, effectuez le suivi des clients et connaissez exactement les performances de l'entreprise, à tout moment.",
+      "category": "Travel & Hospitality",
+      "website": "https://chiovendaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T07:48:52.852225+00:00"
+    },
+    {
+      "name": "Lendra",
+      "slug": "polsia-lendra",
+      "description": "Lendra replaces the manual machinery of lending. Underwriting, compliance, risk monitoring, borrower support. One AI system handles the full loan lifecycle, from first application to final payment.",
+      "description_fr": "Lendra remplace la machinerie manuelle du prêt. Souscription, conformité, suivi des risques, accompagnement des emprunteurs. Un système d’IA gère l’intégralité du cycle de vie du prêt, de la première demande au paiement final.",
+      "category": "AI & Machine Learning",
+      "website": "https://lendra.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T07:48:53.830208+00:00"
+    },
+    {
+      "name": "Klynt — Your AI Sales Rep",
+      "slug": "polsia-klynt",
+      "description": "Klynt is building the future where every B2B company has an AI sales team that works around the clock. No more cold calling scripts. No more spray-and-pray. Just intelligent, persistent, autonomous outbound.",
+      "description_fr": "Klynt construit l'avenir dans lequel chaque entreprise B2B dispose d'une équipe commerciale IA qui travaille 24 heures sur 24. Fini les scripts de démarchage téléphonique. Fini les pulvérisations et les prières. Juste un sortant intelligent, persistant et autonome.",
+      "category": "AI & Machine Learning",
+      "website": "https://klynt.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T07:48:55.593618+00:00"
+    },
+    {
+      "name": "Sparkdial",
+      "slug": "polsia-sparkdial",
+      "description": "Sparkdial finds your ideal prospects, researches their business, writes hyper-personalized cold emails, follows up intelligently, and books meetings on your calendar. Runs 24/7. Never quits.",
+      "description_fr": "Sparkdial trouve vos prospects idéaux, recherche leur entreprise, rédige des e-mails froids hyper-personnalisés, assure un suivi intelligent et planifie des réunions sur votre calendrier. Fonctionne 24h/24 et 7j/7. N'abandonne jamais.",
+      "category": "Sales & CRM",
+      "website": "https://sparkdial.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T07:48:57.031660+00:00"
     }
   ]
 }
