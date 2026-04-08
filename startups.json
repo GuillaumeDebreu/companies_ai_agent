@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T15:15:15.977961+00:00",
+  "last_updated": "2026-04-08T16:39:13.155345+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -26361,44 +26361,59 @@
       "scraped_at": "2026-04-08T13:56:03.066300+00:00"
     },
     {
-      "name": "GlintOS",
+      "name": "GlintOS — The Operating System for Joe's Window Washing",
       "slug": "polsia-glintos-3",
+      "description": "Joe's Window Washing has the work ethic and the local reputation. GlintOS gives it the backbone to scale, from a solo operation to a crew that runs like clockwork across every neighborhood in Syracuse.",
+      "description_fr": "Joe's Window Washing a l'éthique de travail et la réputation locale. GlintOS lui donne l'épine dorsale pour évoluer, d'une opération solo à une équipe qui fonctionne comme sur des roulettes dans tous les quartiers de Syracuse.",
+      "category": "Other",
       "website": "https://glintos-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T15:15:04.044150+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T16:39:06.987014+00:00"
     },
     {
-      "name": "FlipWatch",
+      "name": "TrumpVsTrump",
       "slug": "polsia-flipwatch",
+      "description": "Every Promise. Every Reversal. Exposed.",
+      "description_fr": "Chaque promesse. Chaque renversement. Exposé.",
+      "category": "Other",
       "website": "https://flipwatch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T15:15:04.466901+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T16:39:08.213620+00:00"
     },
     {
       "name": "Launch Sequence Studio",
       "slug": "polsia-launch-sequence-studio",
+      "description": "Launch Sequence Studio designs and builds websites that don't look like they came from a template. Custom-built for businesses and non-profits in Tulsa and beyond.",
+      "description_fr": "Launch Sequence Studio conçoit et crée des sites Web qui ne semblent pas provenir d'un modèle. Conçu sur mesure pour les entreprises et les organisations à but non lucratif à Tulsa et au-delà.",
+      "category": "Other",
       "website": "https://launch-sequence-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T15:15:04.680373+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T16:39:08.878918+00:00"
     },
     {
       "name": "GrowthLabOS",
       "slug": "polsia-growthlabos-3",
+      "description": "GrowthLabOS replaces scattered spreadsheets and gut instincts with a single system that tracks, analyzes, and accelerates your growth marketing operation.",
+      "description_fr": "GrowthLabOS remplace les feuilles de calcul dispersées et les instincts par un système unique qui suit, analyse et accélère vos opérations de marketing de croissance.",
+      "category": "Marketing & Advertising",
       "website": "https://growthlabos-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T15:15:04.909865+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T16:39:09.976369+00:00"
     },
     {
       "name": "PersonaPilot",
       "slug": "polsia-personapilot",
+      "description": "The internet doesn't need more generic AI content. It needs more of you. PersonaPilot exists so you can post everywhere, every day, without losing the thing that makes people actually follow you.",
+      "description_fr": "Internet n’a pas besoin de contenu d’IA plus générique. Il a besoin de plus de vous. PersonaPilot existe pour que vous puissiez publier partout, tous les jours, sans perdre ce qui incite les gens à vous suivre.",
+      "category": "AI & Machine Learning",
       "website": "https://personapilot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T15:15:05.354456+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T16:39:11.525284+00:00"
     },
     {
       "name": "DropBoard",
@@ -26425,10 +26440,13 @@
     {
       "name": "Keplo",
       "slug": "polsia-keplo",
+      "description": "Keplo reads every incoming email, categorizes by urgency, drafts responses to client inquiries, and flags only what needs your attention. Most emails never reach your inbox.",
+      "description_fr": "Keplo lit chaque e-mail entrant, les classe par urgence, rédige les réponses aux demandes des clients et signale uniquement ce qui nécessite votre attention. La plupart des e-mails n'arrivent jamais dans votre boîte de réception.",
+      "category": "Newsletter & Email",
       "website": "https://keplo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T15:15:09.272898+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T16:39:12.652882+00:00"
     },
     {
       "name": "AlpenglowOS",
@@ -26451,6 +26469,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-08T15:15:11.773418+00:00"
+    },
+    {
+      "name": "BuiltLocal",
+      "slug": "polsia-builtlocal",
+      "website": "https://builtlocal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-08T16:38:52.794192+00:00"
+    },
+    {
+      "name": "IdealDeals",
+      "slug": "polsia-idealdeals",
+      "website": "https://idealdeals.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-08T16:38:53.079809+00:00"
+    },
+    {
+      "name": "Brokr — Your AI Talent Agent",
+      "slug": "polsia-brokr",
+      "description": "The creator economy gave all the power tools to the buy side. Brokr is the first AI agent built entirely for the sell side. Because the person making the content should also be the one making the money.",
+      "description_fr": "L’économie des créateurs a donné tous les outils du pouvoir aux acheteurs. Brokr est le premier agent IA entièrement conçu pour le côté vendeur. Parce que celui qui crée le contenu doit aussi être celui qui gagne de l’argent.",
+      "category": "AI & Machine Learning",
+      "website": "https://brokr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T16:38:54.380312+00:00"
+    },
+    {
+      "name": "Life Made Better",
+      "slug": "polsia-life-made-better",
+      "description": "You know you want more. But \"more\" is vague, and the internet is full of noise. Career advice written for executives. Side hustle lists that assume you have savings to burn. Coaching programs that cost more than your rent.",
+      "description_fr": "Vous savez que vous en voulez plus. Mais « plus » est vague et Internet est plein de bruit. Conseils de carrière rédigés pour les cadres. Des listes secondaires qui supposent que vous avez des économies à dépenser. Des programmes de coaching qui coûtent plus cher que votre loyer.",
+      "category": "Education",
+      "website": "https://life-made-better.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T16:38:55.679704+00:00"
+    },
+    {
+      "name": "PUSH",
+      "slug": "polsia-pushos",
+      "description": "You've tried the apps. Set the goals. Built the spreadsheet. And by week three, you stopped opening it. The problem was never tracking. It was accountability. Nobody was watching. Nobody cared if you skipped. PUSH changes that equation.",
+      "description_fr": "Vous avez essayé les applications. Fixez-vous des objectifs. Construit la feuille de calcul. Et au bout de la troisième semaine, vous avez arrêté de l'ouvrir. Le problème n'a jamais été le suivi. C'était la responsabilité. Personne ne regardait. Personne ne s'en souciait si vous sautiez. PUSH change cette équation.",
+      "category": "Other",
+      "website": "https://pushos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T16:38:57.349276+00:00"
+    },
+    {
+      "name": "Kaltgruss — Your AI Sales Agent That Never Clocks Out",
+      "slug": "polsia-kaltgruss",
+      "description": "Kaltgruss researches your prospects, writes personalized emails, follows up on schedule, and books meetings on your calendar. An autonomous sales agent for teams that move fast.",
+      "description_fr": "Kaltgruss recherche vos prospects, rédige des e-mails personnalisés, assure le suivi dans les délais et planifie des réunions sur votre calendrier. Un commercial autonome pour des équipes qui bougent vite.",
+      "category": "AI & Machine Learning",
+      "website": "https://kaltgruss.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T16:38:58.245385+00:00"
+    },
+    {
+      "name": "GatsonOS — The Operating System for Gatson Life & Financial Group",
+      "slug": "polsia-gatsonos",
+      "description": "Gatson Life & Financial Group exists becausegenerational wealth shouldn't be a privilege reserved for a few. Every family, every small business owner, every individual deserves a financial plan that outlasts their lifetime. That's what we build, one policy and one plan at a time, right here in Texas.",
+      "description_fr": "Gatson Life & Financial Group existe parce que la richesse générationnelle ne devrait pas être un privilège réservé à quelques-uns. Chaque famille, chaque propriétaire de petite entreprise, chaque individu mérite un plan financier qui dure toute sa vie. C'est ce que nous construisons, une politique et un plan à la fois, ici même au Texas.",
+      "category": "Finance & Fintech",
+      "website": "https://gatsonos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T16:38:59.163654+00:00"
+    },
+    {
+      "name": "BiohackHer — Know What Actually Works",
+      "slug": "polsia-biohackher",
+      "description": "You've tried the supplements. Watched the podcasts. Read the books. And you're still not sure what's actually backed by evidence and what's just marketing. Most biohacking content is made by men, for men. Your biology is different. Your answers should be too.",
+      "description_fr": "Vous avez essayé les suppléments. J'ai regardé les podcasts. Lisez les livres. Et vous n’êtes toujours pas sûr de ce qui est réellement étayé par des preuves et de ce qui n’est que du marketing. La plupart des contenus de biohacking sont créés par des hommes, pour des hommes. Votre biologie est différente. Vos réponses devraient l’être aussi.",
+      "category": "Marketing & Advertising",
+      "website": "https://biohackher.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T16:39:00.604931+00:00"
+    },
+    {
+      "name": "SyncLane — AI Sync Licensing for Independent Musicians",
+      "slug": "polsia-synclane",
+      "description": "Every great song deserves an audience beyond streaming. SyncLane is building a world where independent musicians have the same access to sync placements that labels have always had.",
+      "description_fr": "Chaque grande chanson mérite une audience au-delà du streaming. SyncLane construit un monde dans lequel les musiciens indépendants ont le même accès aux placements de synchronisation que les labels ont toujours eu.",
+      "category": "AI & Machine Learning",
+      "website": "https://synclane.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T16:39:01.676684+00:00"
+    },
+    {
+      "name": "Legion Create",
+      "slug": "polsia-legion-create",
+      "description": "American Legions do incredible work every day, supporting veterans, hosting community events, preserving traditions. The only thing missing is the tools to share it. Legion Create puts professional-grade content creation in the hands of every post officer, adjutant, and volunteer.",
+      "description_fr": "Les Légions américaines accomplissent un travail incroyable chaque jour, en soutenant les anciens combattants, en organisant des événements communautaires et en préservant les traditions. La seule chose qui manque, ce sont les outils pour le partager. Legion Create met la création de contenu de qualité professionnelle entre les mains de chaque officier de poste, adjudant et bénévole.",
+      "category": "Marketing & Advertising",
+      "website": "https://legion-create.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T16:39:03.300716+00:00"
     }
   ]
 }
