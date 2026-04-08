@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T20:00:17.453238+00:00",
+  "last_updated": "2026-04-08T20:57:28.379872+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -26806,20 +26806,26 @@
       "scraped_at": "2026-04-08T20:00:01.086709+00:00"
     },
     {
-      "name": "DuBoisOS",
+      "name": "DuBoisOS — Power Your Grind",
       "slug": "polsia-duboiso",
+      "description": "An AI-powered command center built specifically for DuBois & Co. Competitor tracking, inventory intelligence, and automated growth, running 24/7 so you can focus on building the brand.",
+      "description_fr": "Un centre de commande alimenté par l'IA, spécialement conçu pour DuBois & Co. Suivi des concurrents, intelligence des stocks et croissance automatisée, fonctionnant 24h/24 et 7j/7 afin que vous puissiez vous concentrer sur le développement de la marque.",
+      "category": "AI & Machine Learning",
       "website": "https://duboiso.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T20:00:01.583408+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T20:57:27.010833+00:00"
     },
     {
       "name": "Pronto",
       "slug": "polsia-pronto-11",
+      "description": "Pronto is an AI receptionist for small businesses. It answers every call, qualifies every lead, books every appointment, and follows up with every customer. Automatically.",
+      "description_fr": "Pronto est une réceptionniste IA pour les petites entreprises. Il répond à chaque appel, qualifie chaque prospect, prend chaque rendez-vous et assure le suivi de chaque client. Automatiquement.",
+      "category": "AI & Machine Learning",
       "website": "https://pronto-11.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T20:00:02.030372+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T20:57:28.163296+00:00"
     },
     {
       "name": "ChantierSync",
@@ -26894,6 +26900,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-08T20:00:12.021728+00:00"
+    },
+    {
+      "name": "ZenRise",
+      "slug": "polsia-zenrise",
+      "website": "https://zenrise.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-08T20:57:18.403704+00:00"
+    },
+    {
+      "name": "FBA Vibes",
+      "slug": "polsia-fba-vibes",
+      "website": "https://fba-vibes.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-08T20:57:18.601540+00:00"
+    },
+    {
+      "name": "DreamOS",
+      "slug": "polsia-dreamos-2",
+      "description": "DreamOS is the autonomous growth engine for AI-native consumer products. It watches your metrics, tracks your competitors, and finds the revenue hiding in your user base.",
+      "description_fr": "DreamOS est le moteur de croissance autonome pour les produits grand public natifs de l'IA. Il surveille vos statistiques, suit vos concurrents et trouve les revenus cachés dans votre base d'utilisateurs.",
+      "category": "AI & Machine Learning",
+      "website": "https://dreamos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T20:57:19.338462+00:00"
+    },
+    {
+      "name": "SeekFlow",
+      "slug": "polsia-seekflow",
+      "description": "Monitors application status, sends follow-up emails to recruiters at the right time, and keeps your pipeline organized so nothing falls through.",
+      "description_fr": "Surveille l'état des candidatures, envoie des e-mails de suivi aux recruteurs au bon moment et maintient votre pipeline organisé pour que rien ne passe à côté.",
+      "category": "Sales & CRM",
+      "website": "https://seekflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T20:57:20.172393+00:00"
+    },
+    {
+      "name": "Nightfall Collective",
+      "slug": "polsia-nightfall-collective",
+      "description": "An anonymous, audio-only podcast. No face. No name. Just a voice sensing ripples in reality. The audience votes on the next vibration, but the host decides which thread to pull. Philosophical, grounded, slightly metaphysical. Like sitting in a chair with someone who sees things you almost can.",
+      "description_fr": "Un podcast anonyme uniquement audio. Pas de visage. Pas de nom. Juste une voix détectant des ondulations dans la réalité. Le public vote sur la vibration suivante, mais l'animateur décide quel fil tirer. Philosophique, fondé, légèrement métaphysique. C'est comme s'asseoir sur une chaise avec quelqu'un qui voit des choses que l'on peut presque voir.",
+      "category": "Marketing & Advertising",
+      "website": "https://nightfall-collective.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T20:57:21.124622+00:00"
+    },
+    {
+      "name": "FluxShop",
+      "slug": "polsia-fluxshop",
+      "description": "FluxShop uses AI to create your store, find the most profitable products from real-time global trends, build your brand identity, and put money in your pocket. No guessing. No manual work.",
+      "description_fr": "FluxShop utilise l'IA pour créer votre boutique, trouver les produits les plus rentables parmi les tendances mondiales en temps réel, construire votre identité de marque et mettre de l'argent dans votre poche. Aucune supposition. Aucun travail manuel.",
+      "category": "AI & Machine Learning",
+      "website": "https://fluxshop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T20:57:22.144476+00:00"
+    },
+    {
+      "name": "DataworkersOS",
+      "slug": "polsia-dataworkersos",
+      "description": "DataworkersOS is the command center for Dataworkers. Track agent swarm deployments, monitor pipeline health, and grow enterprise adoption from a single operating system.",
+      "description_fr": "DataworkersOS est le centre de commande des Dataworkers. Suivez les déploiements d’essaims d’agents, surveillez l’état du pipeline et développez l’adoption par l’entreprise à partir d’un système d’exploitation unique.",
+      "category": "Sales & CRM",
+      "website": "https://dataworkersos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T20:57:22.627127+00:00"
+    },
+    {
+      "name": "Glowwire — Beauty Trend Intelligence",
+      "slug": "polsia-glowwire",
+      "description": "Glowwire's AI processes the same data those enterprise tools use, but delivers it as a daily briefing built for people who actually make things. Trending ingredients before they blow up. Product categories gaining momentum. The signals buried in millions of social posts, search queries, and retail data.",
+      "description_fr": "L'IA de Glowwire traite les mêmes données que celles utilisées par les outils d'entreprise, mais les fournit sous forme de briefing quotidien conçu pour les personnes qui fabriquent réellement des choses. Des ingrédients tendance avant qu'ils n'explosent. Les catégories de produits montent en puissance. Les signaux enfouis dans des millions de publications sur les réseaux sociaux, de requêtes de recherche et de données de vente au détail.",
+      "category": "AI & Machine Learning",
+      "website": "https://glowwire.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T20:57:23.574033+00:00"
+    },
+    {
+      "name": "Ahmya — The Meme Coin That Actually Works",
+      "slug": "polsia-ahmya",
+      "description": "Ahmya is building what the meme coin space has been missing: a token where community energy translates into real, compounding value. Not a pump and dump. A protocol that rewards patience and participation.",
+      "description_fr": "Ahmya construit ce qui manquait à l'espace des pièces de monnaie : un jeton où l'énergie de la communauté se traduit par une valeur réelle et composée. Pas une pompe ni une décharge. Un protocole qui récompense la patience et la participation.",
+      "category": "Social & Community",
+      "website": "https://ahmya.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T20:57:24.149234+00:00"
+    },
+    {
+      "name": "AdminRx",
+      "slug": "polsia-adminrx",
+      "description": "Most medical VA companies hand you a person and wish you luck. AdminRx is different. We combine trained healthcare VAs with a coordination platform that gives you full visibility into what's getting done.",
+      "description_fr": "La plupart des sociétés médicales VA vous remettent une personne et vous souhaitent bonne chance. AdminRx est différent. Nous combinons des assistants virtuels en soins de santé formés avec une plateforme de coordination qui vous donne une visibilité complète sur ce qui se fait.",
+      "category": "Health & Wellness",
+      "website": "https://adminrx.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T20:57:25.074329+00:00"
     }
   ]
 }
