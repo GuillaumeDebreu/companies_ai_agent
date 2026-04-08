@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T17:46:48.382639+00:00",
+  "last_updated": "2026-04-08T18:56:37.119124+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -26605,10 +26605,13 @@
     {
       "name": "MowScout",
       "slug": "polsia-mowscout",
+      "description": "Compare prices from 18+ lawn care providers in the St. Louis area. Enter your yard details and see real estimates in seconds.",
+      "description_fr": "Comparez les prix de plus de 18 fournisseurs d'entretien de pelouse dans la région de Saint-Louis. Entrez les détails de votre cour et consultez des estimations réelles en quelques secondes.",
+      "category": "Sustainability & Green",
       "website": "https://mowscout.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T17:46:35.559419+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T18:56:34.437062+00:00"
     },
     {
       "name": "PostHarvest",
@@ -26624,10 +26627,13 @@
     {
       "name": "SpineRank",
       "slug": "polsia-spinerank",
+      "description": "Free SEO audit for Nashville chiropractic practices. Website speed, Google Business Profile, directory listings, competitor analysis - all in one report.",
+      "description_fr": "Audit SEO gratuit pour les cabinets chiropratiques de Nashville. Vitesse du site Web, profil d'entreprise Google, listes d'annuaires, analyse des concurrents, le tout dans un seul rapport.",
+      "category": "Marketing & Advertising",
       "website": "https://spinerank.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T17:46:36.755987+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T18:56:35.120293+00:00"
     },
     {
       "name": "Ranktide — Autonomous Content That Ranks",
@@ -26663,12 +26669,15 @@
       "scraped_at": "2026-04-08T17:46:41.468005+00:00"
     },
     {
-      "name": "ARC Angels Realms",
+      "name": "ARC Angels Realms — Science RPG Quests for Kids",
       "slug": "polsia-arc-angels-realms",
+      "description": "ARC Angels Realms is what happens when a decade of museum education, fifteen years of childcare, and a love of RPG storytelling collide. No screens. No worksheets. Just felt cloaks, clay coins, and the kind of science that sticks because it felt like magic.",
+      "description_fr": "ARC Angels Realms est ce qui se produit lorsqu'une décennie d'éducation muséale, quinze années de garde d'enfants et un amour de la narration RPG se rencontrent. Pas d'écrans. Pas de feuilles de travail. Je sentais juste des capes, des pièces d'argile et le genre de science qui colle parce que c'était comme de la magie.",
+      "category": "Education",
       "website": "https://arc-angels-realms.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T17:46:42.214023+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-08T18:56:36.944149+00:00"
     },
     {
       "name": "Cleverloop — n8n Automation Agency",
@@ -26680,6 +26689,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-08T17:46:42.991742+00:00"
+    },
+    {
+      "name": "GentleHues — Sensory",
+      "slug": "polsia-gentlehues",
+      "description": "GentleHues exists because coloring should be calming, not stressful. Because every kid deserves to pick up a crayon and feel proud of what they create. This series is for the families, therapists, and teachers who know that the right tools make all the difference.",
+      "description_fr": "GentleHues existe parce que la coloration doit être apaisante et non stressante. Parce que chaque enfant mérite de prendre un crayon et d’être fier de ce qu’il crée. Cette série s'adresse aux familles, aux thérapeutes et aux enseignants qui savent que les bons outils font toute la différence.",
+      "category": "Software & SaaS",
+      "website": "https://gentlehues.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T18:56:19.347017+00:00"
+    },
+    {
+      "name": "CourtVox",
+      "slug": "polsia-courtvox",
+      "website": "https://courtvox.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-08T18:56:19.576759+00:00"
+    },
+    {
+      "name": "Tallied",
+      "slug": "polsia-tallied-52",
+      "description": "Tallied is an autonomous AI bookkeeper that categorizes every transaction, generates financial reports, and prepares for tax season while you focus on running your business.",
+      "description_fr": "Tallied est un comptable IA autonome qui catégorise chaque transaction, génère des rapports financiers et prépare la saison des impôts pendant que vous vous concentrez sur la gestion de votre entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://tallied-52.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T18:56:21.065282+00:00"
+    },
+    {
+      "name": "Psyloom — Your Mind Deserves a 24/7 Employee",
+      "slug": "polsia-psyloom",
+      "description": "Open the app. Start a chat. Describe how you feel. Get a response. Close the app. Forget about it for a week. Repeat. That's not wellness. That's a chatbot with good marketing.",
+      "description_fr": "Ouvrez l'application. Démarrez une discussion. Décrivez ce que vous ressentez. Obtenez une réponse. Fermez l'application. Oubliez ça pendant une semaine. Répéter. Ce n'est pas du bien-être. C'est un chatbot avec un bon marketing.",
+      "category": "AI & Machine Learning",
+      "website": "https://psyloom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T18:56:22.770118+00:00"
+    },
+    {
+      "name": "SplashBash",
+      "slug": "polsia-splashbash",
+      "description": "SplashBash is a new kind of party experience for the Bay Area. No studio. No commute. No boring step-by-step tutorials. Just messy, joyful, one-of-a-kind art made with the people you love.",
+      "description_fr": "SplashBash est un nouveau type d'expérience de fête pour la Bay Area. Pas d'atelier. Pas de trajet. Pas de tutoriels ennuyeux étape par étape. Juste un art désordonné, joyeux et unique réalisé avec les personnes que vous aimez.",
+      "category": "Education",
+      "website": "https://splashbash.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T18:56:24.242148+00:00"
+    },
+    {
+      "name": "NestRun",
+      "slug": "polsia-nestrun-15",
+      "description": "NestRun is the AI that runs your family's logistics. Schedules, meals, activities, carpools. It coordinates everything across every kid, every week, without you lifting a finger.",
+      "description_fr": "NestRun est l'IA qui gère la logistique de votre famille. Horaires, repas, activités, covoiturages. Il coordonne tout pour chaque enfant, chaque semaine, sans que vous leviez le petit doigt.",
+      "category": "AI & Machine Learning",
+      "website": "https://nestrun-15.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T18:56:25.289911+00:00"
+    },
+    {
+      "name": "Adorna",
+      "slug": "polsia-adorna",
+      "description": "Every hat is a canvas. Every head deserves a masterpiece. Adorna creates one-of-a-kind headwear that lives at the intersection of fashion and fine art.",
+      "description_fr": "Chaque chapeau est une toile. Chaque tête mérite un chef-d'œuvre. Adorna crée des couvre-chefs uniques qui se situent à l'intersection de la mode et des beaux-arts.",
+      "category": "Marketing & Advertising",
+      "website": "https://adorna.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T18:56:26.311408+00:00"
+    },
+    {
+      "name": "FlowHunter — On",
+      "slug": "polsia-flowhunter",
+      "description": "Existing tools give you dashboards, charts, and raw wallet data. But when a whale quietly accumulates a small-cap token through 50 tiny buys over 3 days, nobody notices until it's 5x.",
+      "description_fr": "Les outils existants vous fournissent des tableaux de bord, des graphiques et des données brutes de portefeuille. Mais lorsqu'une baleine accumule tranquillement un jeton à petite capitalisation en effectuant 50 petits achats sur 3 jours, personne ne le remarque jusqu'à ce qu'il soit 5x.",
+      "category": "Software & SaaS",
+      "website": "https://flowhunter.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T18:56:27.861996+00:00"
+    },
+    {
+      "name": "CritterStack",
+      "slug": "polsia-critterstack",
+      "description": "StackPacks are custom character collections anyone can create and share. Turn your family pets into stackable critters. Make a dinosaur pack. A food pack. Whatever you can imagine.",
+      "description_fr": "Les StackPacks sont des collections de personnages personnalisées que tout le monde peut créer et partager. Transformez vos animaux de compagnie en créatures empilables. Fabriquez un pack de dinosaures. Un pack de nourriture. Tout ce que vous pouvez imaginer.",
+      "category": "Food & Beverage",
+      "website": "https://critterstack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T18:56:29.642522+00:00"
+    },
+    {
+      "name": "EthicsEngineOS",
+      "slug": "polsia-ethicsengineos",
+      "description": "Code Quest is more than a book series. It's a movement to build the next generation of ethical digital citizens. EthicsEngineOS makes sure the business behind that movement never stops growing.",
+      "description_fr": "Code Quest est plus qu'une série de livres. Il s'agit d'un mouvement visant à construire la prochaine génération de citoyens numériques éthiques. EthicsEngineOS veille à ce que l'activité derrière ce mouvement ne cesse de croître.",
+      "category": "Other",
+      "website": "https://ethicsengineos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-08T18:56:30.729056+00:00"
     }
   ]
 }
