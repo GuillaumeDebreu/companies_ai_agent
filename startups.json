@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T09:54:25.761820+00:00",
+  "last_updated": "2026-04-08T10:56:53.887167+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -26123,6 +26123,22 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-08T09:54:23.234163+00:00"
+    },
+    {
+      "name": "HealthCrewHQ",
+      "slug": "polsia-healthcrewhq",
+      "website": "https://healthcrewhq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-08T10:56:50.743125+00:00"
+    },
+    {
+      "name": "Aegis Agents",
+      "slug": "polsia-aegis-agents",
+      "website": "https://aegis-agents.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-08T10:56:51.139004+00:00"
     }
   ]
 }
