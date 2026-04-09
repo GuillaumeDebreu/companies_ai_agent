@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T23:01:28.986945+00:00",
+  "last_updated": "2026-04-09T23:50:26.195725+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -29199,10 +29199,13 @@
     {
       "name": "SnarkThread",
       "slug": "polsia-snarkthread",
+      "description": "Every Etsy store sells the same safe sarcasm. \"I speak fluent sarcasm.\" Cool. So does everyone.\n                SnarkThread is for the people who want their shirt to make someone choke on their coffee. \n                Clever. Sharp. The kind of humor that rewards a second read.",
+      "description_fr": "Chaque boutique Etsy vend le même sarcasme sécuritaire. \"Je parle couramment le sarcasme.\" Cool. Tout le monde aussi.\n                SnarkThread est destiné aux personnes qui veulent que leur chemise fasse s'étouffer quelqu'un avec leur café. \n                Intelligent. Pointu. Le genre d'humour qui récompense une seconde lecture.",
+      "category": "E-Commerce & Retail",
       "website": "https://snarkthread.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T23:01:15.476582+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T23:50:26.039523+00:00"
     },
     {
       "name": "TinyTrophy",
@@ -29302,6 +29305,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-09T23:01:25.998435+00:00"
+    },
+    {
+      "name": "Grand Theft Info",
+      "slug": "polsia-grand-theft-info",
+      "website": "https://grand-theft-info.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T23:50:08.591109+00:00"
+    },
+    {
+      "name": "Fixpoint",
+      "slug": "polsia-fixpoint-ai",
+      "description": "The first autonomous data quality agent. Monitors your pipelines, \n            diagnoses root causes, and resolves issues before they reach your dashboards.\n            No more alert fatigue. No more 3am pages.",
+      "description_fr": "Le premier agent autonome de qualité des données. Surveille vos pipelines, \n            diagnostique les causes profondes et résout les problèmes avant qu’ils n’atteignent vos tableaux de bord.\n            Fini la fatigue alerte. Fini les pages de 3 heures du matin.",
+      "category": "Software & SaaS",
+      "website": "https://fixpoint-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T23:50:10.265465+00:00"
+    },
+    {
+      "name": "Coldcraft",
+      "slug": "polsia-coldcraft-28",
+      "description": "Every email is written from scratch. No templates, no mail merge. Each message references something specific about the prospect's world. Reply rates that make human SDRs jealous.",
+      "description_fr": "Chaque e-mail est rédigé à partir de zéro. Pas de modèles, pas de publipostage. Chaque message fait référence à quelque chose de spécifique sur le monde du prospect. Des taux de réponse qui rendent jaloux les SDR humains.",
+      "category": "Sales & CRM",
+      "website": "https://coldcraft-28.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T23:50:11.855177+00:00"
+    },
+    {
+      "name": "SiteHarbor — Your Construction Sites, One Screen Away",
+      "slug": "polsia-siteharbor",
+      "description": "Owners juggle multiple sites, dozens of subcontractors, and tight budgets. The only way to know what's actually happening? Drive there. SiteHarbor replaces the daily drive with a daily digest.",
+      "description_fr": "Les propriétaires jonglent avec plusieurs sites, des dizaines de sous-traitants et des budgets serrés. La seule façon de savoir ce qui se passe réellement ? Conduisez-y. SiteHarbor remplace le lecteur quotidien par un résumé quotidien.",
+      "category": "Other",
+      "website": "https://siteharbor.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T23:50:13.357268+00:00"
+    },
+    {
+      "name": "Tonus — Nervous System Recovery + Soft Luxury",
+      "slug": "polsia-tonus",
+      "description": "Tonus exists at the intersection of recovery and restraint. Products that work, wrapped in a visual language that means something. Clinical without the cold. Aesthetic without the pretense.",
+      "description_fr": "Le tonus existe à l’intersection de la récupération et de la retenue. Des produits qui fonctionnent, enveloppés dans un langage visuel qui signifie quelque chose. Clinique sans le froid. Esthétique sans prétention.",
+      "category": "Health & Wellness",
+      "website": "https://tonus.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T23:50:15.042467+00:00"
+    },
+    {
+      "name": "SRQCleansOS",
+      "slug": "polsia-srq-cleans",
+      "description": "SRQCleansOS is the AI-powered operating system built specifically for SRQ Cleans. Client scheduling, job dispatch, growth tracking, competitor intelligence, and outreach. All running while you clean.",
+      "description_fr": "SRQCleansOS est le système d'exploitation basé sur l'IA, spécialement conçu pour SRQ Cleans. Planification des clients, répartition des tâches, suivi de la croissance, veille sur les concurrents et sensibilisation. Tout fonctionne pendant que vous nettoyez.",
+      "category": "AI & Machine Learning",
+      "website": "https://srq-cleans.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T23:50:16.066815+00:00"
+    },
+    {
+      "name": "LeadHound",
+      "slug": "polsia-getleadhound",
+      "description": "LeadHound is an AI sales rep that finds your ideal customers, writes personalized outreach, and follows up until they reply. No scripts. No setup. Just meetings on your calendar.",
+      "description_fr": "LeadHound est un représentant commercial IA qui trouve vos clients idéaux, rédige des messages personnalisés et assure le suivi jusqu'à ce qu'ils répondent. Aucun script. Aucune configuration. Juste des réunions sur votre calendrier.",
+      "category": "Sales & CRM",
+      "website": "https://getleadhound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T23:50:17.204926+00:00"
+    },
+    {
+      "name": "FlavorVault",
+      "slug": "polsia-flavorvaultos",
+      "description": "Every dish you've perfected, every family recipe you've inherited, every late-night discovery that became a weeknight staple. They belong in a vault, not a feed.",
+      "description_fr": "Chaque plat que vous avez perfectionné, chaque recette familiale dont vous avez hérité, chaque découverte de fin de soirée qui est devenue un incontournable des soirs de semaine. Leur place est dans un coffre-fort, pas dans un flux.",
+      "category": "Food & Beverage",
+      "website": "https://flavorvaultos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T23:50:18.654423+00:00"
+    },
+    {
+      "name": "GoonRoomOS",
+      "slug": "polsia-goonroomos",
+      "description": "GoonRoomOS is the autonomous operating system behind Goon Room. It handles analytics, growth, content ops, and competitor intel while you focus on what actually matters: building the community.",
+      "description_fr": "GoonRoomOS est le système d'exploitation autonome derrière Goon Room. Il gère l'analyse, la croissance, les opérations de contenu et les informations sur les concurrents pendant que vous vous concentrez sur ce qui compte vraiment : la construction de la communauté.",
+      "category": "Entertainment & Media",
+      "website": "https://goonroomos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T23:50:19.384469+00:00"
+    },
+    {
+      "name": "ReIntro",
+      "slug": "polsia-reintro",
+      "description": "ReIntro is built for the ones who are done performing wellness and ready to actually do the work. Raw. Honest. No filter. Because the body keeps the score, and the score has been wrong for too long.",
+      "description_fr": "ReIntro est conçu pour ceux qui ont fini de faire du bien-être et sont prêts à réellement faire le travail. Brut. Honnête. Pas de filtre. Parce que le corps garde le score, et le score est erroné depuis trop longtemps.",
+      "category": "Health & Wellness",
+      "website": "https://reintro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T23:50:20.957592+00:00"
     }
   ]
 }
