@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T16:08:26.139836+00:00",
+  "last_updated": "2026-04-09T17:22:07.921325+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -28429,18 +28429,24 @@
     {
       "name": "FreeHold",
       "slug": "polsia-freehold",
+      "description": "An AI agent that scans legislation, corporate filings, and news for threats to your freedoms. Get alerted before mandates land. Know what's coming before it arrives.",
+      "description_fr": "Un agent IA qui analyse la législation, les documents déposés par les entreprises et les actualités à la recherche de menaces pour vos libertés. Soyez alerté avant l’arrivée des mandats. Sachez ce qui s'en vient avant qu'il n'arrive.",
+      "category": "AI & Machine Learning",
       "website": "https://freehold.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T16:08:13.679508+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T17:22:05.630189+00:00"
     },
     {
-      "name": "FifthCrown",
+      "name": "FifthCrown — The Forgotten Dynasty",
       "slug": "polsia-fifthcrown",
+      "description": "Prince Milan IV declares Serbia a kingdom and crowns himself King Milan I. The Obrenović family transforms a small principality into a recognized European monarchy, building institutions, modernizing the state, and restoring monasteries like the UNESCO-listed Studenica.",
+      "description_fr": "Le prince Milan IV déclare la Serbie royaume et se couronne lui-même roi Milan I. La famille Obrenović transforme une petite principauté en une monarchie européenne reconnue, construisant des institutions, modernisant l'État et restaurant des monastères comme Studenica, classé au patrimoine mondial de l'UNESCO.",
+      "category": "Sustainability & Green",
       "website": "https://fifthcrown.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T16:08:14.031192+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T17:22:06.927699+00:00"
     },
     {
       "name": "Circle of Care — A Little Help Can Change Everything",
@@ -28529,6 +28535,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-09T16:08:22.431035+00:00"
+    },
+    {
+      "name": "StitchPulse",
+      "slug": "polsia-stitchpulse",
+      "website": "https://stitchpulse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T17:21:50.711845+00:00"
+    },
+    {
+      "name": "Stoneforge Academy",
+      "slug": "polsia-stoneforge-academy",
+      "website": "https://stoneforge-academy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T17:21:51.090690+00:00"
+    },
+    {
+      "name": "SweetCue",
+      "slug": "polsia-sweetcue",
+      "website": "https://sweetcue.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T17:21:51.467226+00:00"
+    },
+    {
+      "name": "DownlineOS",
+      "slug": "polsia-downlineos-3",
+      "website": "https://downlineos-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T17:21:51.846415+00:00"
+    },
+    {
+      "name": "Repora",
+      "slug": "polsia-repora",
+      "description": "Brandwatch alerts you. Mention notifies you. Sprout Social charts it. But when a coordinated troll attack hits at 2am, or a disgruntled post goes viral on a Sunday, they all do the same thing: send you an email and wait for you to wake up.",
+      "description_fr": "Brandwatch vous alerte. Mention vous en informe. Sprout Social le trace. Mais lorsqu'une attaque de trolls coordonnée frappe à 2 heures du matin ou qu'un message mécontent devient viral un dimanche, ils font tous la même chose : vous envoyer un e-mail et attendre que vous vous réveilliez.",
+      "category": "Marketing & Advertising",
+      "website": "https://repora.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T17:21:53.723602+00:00"
+    },
+    {
+      "name": "DemandSift",
+      "slug": "polsia-demandsift",
+      "description": "DemandSift reads Reddit the way a founder should. Not searching for keywords. Understanding when someone describes a situation, voices a frustration, or hints at a need they'd pay to solve. Then it validates the entire opportunity.",
+      "description_fr": "DemandSift lit Reddit comme le devrait un fondateur. Ne pas chercher de mots-clés. Comprendre quand quelqu'un décrit une situation, exprime une frustration ou fait allusion à un besoin qu'il paierait pour résoudre. Ensuite, il valide toute l’opportunité.",
+      "category": "Other",
+      "website": "https://demandsift.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T17:21:55.355652+00:00"
+    },
+    {
+      "name": "RollUp",
+      "slug": "polsia-rollup",
+      "description": "Every other field service app assumes you have a dispatcher, a back office, and a team of technicians. RollUp is built for the person who does it all. The mobile beautician. The pet groomer. The traveling barber. The mobile detailer. You.",
+      "description_fr": "Toutes les autres applications de service sur le terrain supposent que vous disposez d'un répartiteur, d'un back-office et d'une équipe de techniciens. RollUp est conçu pour la personne qui fait tout. L'esthéticienne mobile. Le toiletteur pour animaux. Le barbier ambulant. Le détaillant mobile. Toi.",
+      "category": "Travel & Hospitality",
+      "website": "https://rollup.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T17:21:57.165144+00:00"
+    },
+    {
+      "name": "Autoloom",
+      "slug": "polsia-autoloom",
+      "description": "Every growing startup hits the same wall. CRMs duct-taped in Google Sheets. Onboarding flows held together with Zapier and prayer. KPI dashboards that nobody trusts. You hire ops engineers or agencies to fix it. They embed in your team for months. They're expensive. And when they leave, the tools rot.",
+      "description_fr": "Chaque startup en croissance se heurte au même mur. CRM intégrés dans Google Sheets. Flux d'intégration maintenus avec Zapier et la prière. Des tableaux de bord KPI auxquels personne ne fait confiance. Vous engagez des ingénieurs opérationnels ou des agences pour résoudre ce problème. Ils s'intègrent dans votre équipe pendant des mois. Ils sont chers. Et quand ils partent, les outils pourrissent.",
+      "category": "Software & SaaS",
+      "website": "https://autoloom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T17:21:58.981658+00:00"
+    },
+    {
+      "name": "InsurePulse",
+      "slug": "polsia-insurepulse",
+      "description": "No hidden fees, no volume commitments, no surprise invoices. You know exactly what each lead costs before you buy it. Built by an agent who got tired of the old model.",
+      "description_fr": "Pas de frais cachés, pas d'engagements de volume, pas de factures surprises. Vous savez exactement combien coûte chaque prospect avant de l’acheter. Construit par un agent qui en avait assez de l'ancien modèle.",
+      "category": "Finance & Fintech",
+      "website": "https://insurepulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T17:21:59.831442+00:00"
+    },
+    {
+      "name": "BillZero",
+      "slug": "polsia-billzero",
+      "description": "Reconstructing your day in 6-minute increments is a cognitive burden that steals energy from actual legal work. Most attorneys batch this at end-of-day and forget half of what they did.",
+      "description_fr": "Reconstruire votre journée par incréments de 6 minutes est une charge cognitive qui détourne l'énergie du travail juridique réel. La plupart des avocats regroupent cela en fin de journée et oublient la moitié de ce qu’ils ont fait.",
+      "category": "Sustainability & Green",
+      "website": "https://billzero.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T17:22:01.185355+00:00"
     }
   ]
 }
