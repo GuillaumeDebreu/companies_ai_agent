@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T08:22:20.461307+00:00",
+  "last_updated": "2026-04-09T09:46:25.125943+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -27773,20 +27773,26 @@
       "scraped_at": "2026-04-09T06:56:25.382507+00:00"
     },
     {
-      "name": "RankSpy",
+      "name": "RankSpy — Etsy Competitor Intelligence on Autopilot",
       "slug": "polsia-rankspy",
+      "description": "Every week, the top sellers in your category adjust their tags, tweak their prices, and list new products based on what's working. RankSpy makes sure you never miss a move.",
+      "description_fr": "Chaque semaine, les meilleurs vendeurs de votre catégorie ajustent leurs étiquettes, modifient leurs prix et répertorient les nouveaux produits en fonction de ce qui fonctionne. RankSpy s'assure que vous ne manquiez jamais un mouvement.",
+      "category": "Other",
       "website": "https://rankspy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T08:22:05.704332+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T09:46:24.511223+00:00"
     },
     {
-      "name": "Croquis",
+      "name": "Croquis — AI Design Concepts for Architecture Studios",
       "slug": "polsia-croquis",
+      "description": "Every project starts the same way: a brief, a blank page, and hours of sourcing materials, assembling palettes, and iterating on layouts.Croquis replaces that first pass with AI that understands space, light, and brand.",
+      "description_fr": "Chaque projet commence de la même manière : un brief, une page blanche et des heures de recherche de matériaux, d'assemblage de palettes et d'itérations sur les mises en page. Croquis remplace cette première passe par une IA qui comprend l'espace, la lumière et la marque.",
+      "category": "AI & Machine Learning",
       "website": "https://croquis.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T08:22:06.125187+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T09:46:25.123663+00:00"
     },
     {
       "name": "ListPerfect — Your Airbnb Listing, Rewritten to Book",
@@ -27875,6 +27881,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-09T08:22:16.737446+00:00"
+    },
+    {
+      "name": "Pipesmith — Your AI Sales Agent",
+      "slug": "polsia-pipesmith-22",
+      "description": "Pipesmith is building the future of outbound. An AI agent that does the work of an entire SDR team, so founders and small teams can compete with companies ten times their size.",
+      "description_fr": "Pipesmith construit l'avenir du trafic sortant. Un agent IA qui effectue le travail de toute une équipe SDR, afin que les fondateurs et les petites équipes puissent rivaliser avec des entreprises dix fois plus grandes.",
+      "category": "AI & Machine Learning",
+      "website": "https://pipesmith-22.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T09:46:09.836960+00:00"
+    },
+    {
+      "name": "TaluxOS",
+      "slug": "polsia-taluxos",
+      "description": "RegoIQ monitors your operations inbox. When freight documents land, it reads, classifies, and connects related emails to the same shipment, even across different senders.",
+      "description_fr": "RegoIQ surveille la boîte de réception de vos opérations. Lorsque les documents de fret arrivent, il lit, classe et connecte les e-mails associés au même envoi, même entre différents expéditeurs.",
+      "category": "Newsletter & Email",
+      "website": "https://taluxos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T09:46:10.819343+00:00"
+    },
+    {
+      "name": "Aurelis",
+      "slug": "polsia-aurelis",
+      "description": "Aurelis is an autonomous AI brand strategist built for luxury and premium businesses. It defines your positioning, creates your content strategy, and manages your digital presence, running 24/7 with the taste of a top-tier agency.",
+      "description_fr": "Aurelis est un stratège de marque autonome en IA conçu pour les entreprises de luxe et haut de gamme. Elle définit votre positionnement, crée votre stratégie de contenu et gère votre présence numérique, fonctionnant 24h/24 et 7j/7 avec le goût d'une agence de premier plan.",
+      "category": "AI & Machine Learning",
+      "website": "https://aurelis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T09:46:12.427944+00:00"
+    },
+    {
+      "name": "HalloPilot",
+      "slug": "polsia-hallopilot",
+      "description": "HalloPilot is an AI agent that answers calls, books appointments, follows up with leads, and manages reviews for local service businesses. Not an answering service. An autonomous office manager.",
+      "description_fr": "HalloPilot est un agent IA qui répond aux appels, prend des rendez-vous, assure le suivi des pistes et gère les avis des entreprises de services locales. Pas un service de réponse. Un chef de bureau autonome.",
+      "category": "AI & Machine Learning",
+      "website": "https://hallopilot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T09:46:13.436056+00:00"
+    },
+    {
+      "name": "FundPathOS",
+      "slug": "polsia-fundpathos",
+      "description": "FundPathOS is the operating system behind Profit Path Funding. Pipeline management, competitor intel, and automated outreach, built for a business funding company that runs on relationships.",
+      "description_fr": "FundPathOS est le système d'exploitation derrière Profit Path Funding. Gestion de pipeline, informations sur les concurrents et sensibilisation automatisée, conçues pour une société de financement d'entreprise qui fonctionne sur la base de relations.",
+      "category": "Sales & CRM",
+      "website": "https://fundpathos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T09:46:14.437922+00:00"
+    },
+    {
+      "name": "FlatHawk",
+      "slug": "polsia-flathawk",
+      "description": "FlatHawk monitors every listing across NYC, scores them against your preferences, and surfaces only the ones worth your time. It works 24/7 so you don't have to.",
+      "description_fr": "FlatHawk surveille chaque annonce à New York, les évalue en fonction de vos préférences et ne présente que celles qui valent votre temps. Cela fonctionne 24h/24 et 7j/7, vous n'avez donc pas à le faire.",
+      "category": "Other",
+      "website": "https://flathawk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T09:46:15.442640+00:00"
+    },
+    {
+      "name": "Routelio — Your Trip, Planned in Seconds",
+      "slug": "polsia-routelio",
+      "description": "History buff? Foodie? Adventure seeker? Tell us your interests and budget. We tailor every recommendation.",
+      "description_fr": "Passionné d’histoire ? Fin gourmet? En quête d’aventure ? Faites-nous part de vos intérêts et de votre budget. Nous adaptons chaque recommandation.",
+      "category": "Food & Beverage",
+      "website": "https://routelio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T09:46:16.492355+00:00"
+    },
+    {
+      "name": "Vespra",
+      "slug": "polsia-vespra",
+      "description": "Vespra handles customer emails, follows up with leads, manages scheduling, and delivers a morning briefing. You close your laptop. It starts working.",
+      "description_fr": "Vespra gère les e-mails des clients, assure le suivi des prospects, gère la planification et donne un briefing matinal. Vous fermez votre ordinateur portable. Cela commence à fonctionner.",
+      "category": "Sales & CRM",
+      "website": "https://vespra.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T09:46:17.983028+00:00"
+    },
+    {
+      "name": "Parkday",
+      "slug": "polsia-parkday",
+      "description": "Parkday scans 50+ local sources and delivers a personalized weekend plan for your family, every Thursday. No more googling. No more \"I don't know, what do you want to do?\"",
+      "description_fr": "Parkday analyse plus de 50 sources locales et propose chaque jeudi un plan de week-end personnalisé pour votre famille. Plus besoin de chercher sur Google. Plus de \"Je ne sais pas, qu'est-ce que tu veux faire ?\"",
+      "category": "Other",
+      "website": "https://parkday.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T09:46:19.268831+00:00"
+    },
+    {
+      "name": "AlphaForge — AI Trading Coach for French",
+      "slug": "polsia-alphaforge-ai",
+      "description": "Every AI trading tool on the market speaks English. If you think in French, you're stuck translating concepts in your head while the market moves. AlphaForge removes that friction entirely. Real-time analysis, coaching, and market insights, delivered in the language you think in.",
+      "description_fr": "Chaque outil de trading d'IA sur le marché parle anglais. Si vous pensez en français, vous êtes obligé de traduire des concepts dans votre tête alors que le marché évolue. AlphaForge supprime entièrement cette friction. Analyses en temps réel, coaching et informations sur le marché, livrés dans la langue dans laquelle vous pensez.",
+      "category": "AI & Machine Learning",
+      "website": "https://alphaforge-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T09:46:20.884652+00:00"
     }
   ]
 }
