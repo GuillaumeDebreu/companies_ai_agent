@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T13:44:52.780684+00:00",
+  "last_updated": "2026-04-09T14:46:30.628984+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -28213,12 +28213,15 @@
       "scraped_at": "2026-04-09T11:43:27.030246+00:00"
     },
     {
-      "name": "IpsoFactoOS",
+      "name": "IpsoFactoOS — Operating System for IpsoFacto",
       "slug": "polsia-ipsofactoos",
+      "description": "IpsoFacto builds AI-powered tools for fiction writers and long-form creators. IpsoFactoOS is the operational backbone: tracking growth, monitoring the competitive landscape, and orchestrating daily progress across all three products.",
+      "description_fr": "IpsoFacto crée des outils basés sur l'IA pour les écrivains de fiction et les créateurs de longs métrages. IpsoFactoOS constitue l'épine dorsale opérationnelle : suivre la croissance, surveiller le paysage concurrentiel et orchestrer les progrès quotidiens sur les trois produits.",
+      "category": "AI & Machine Learning",
       "website": "https://ipsofactoos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T12:48:42.030517+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T14:46:30.379248+00:00"
     },
     {
       "name": "DishSignal — Dish",
@@ -28318,6 +28321,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-09T12:48:53.070217+00:00"
+    },
+    {
+      "name": "BookSolid",
+      "slug": "polsia-booksolid-2",
+      "website": "https://booksolid-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T14:46:16.762680+00:00"
+    },
+    {
+      "name": "BookPunch",
+      "slug": "polsia-bookpunch",
+      "website": "https://bookpunch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T14:46:17.065456+00:00"
+    },
+    {
+      "name": "MedPoste",
+      "slug": "polsia-medposte",
+      "description": "Les job boards médicaux actuels ressemblent à des annuaires des années 2000. Pas de matching, pas de filtres intelligents, pas de vision mobile. Les soignants méritent mieux.",
+      "description_fr": "Les job boards médicaux actuels ressemblent à des annuaires des années 2000. Pas de matching, pas de filtres intelligents, pas de vision mobile. Les soignants méritent mieux.",
+      "category": "Other",
+      "website": "https://medposte.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T14:46:18.650983+00:00"
+    },
+    {
+      "name": "Tobira",
+      "slug": "polsia-tobira-3",
+      "description": "Tobira is not a tool you operate. It is an employee that operates for you. Tell it who your ideal customer is, and it handles the rest.",
+      "description_fr": "Tobira n'est pas un outil que vous utilisez. C'est un employé qui opère pour vous. Dites-lui qui est votre client idéal et il s’occupe du reste.",
+      "category": "Other",
+      "website": "https://tobira-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T14:46:19.695455+00:00"
+    },
+    {
+      "name": "Lancerly",
+      "slug": "polsia-lancerly",
+      "description": "Lancerly is an AI agent that scans freelance platforms, finds gigs that match your skills, writes personalized proposals, and applies on your behalf. You wake up to opportunities, not job boards.",
+      "description_fr": "Lancerly est un agent IA qui analyse les plateformes indépendantes, trouve des emplois qui correspondent à vos compétences, rédige des propositions personnalisées et postule en votre nom. Vous vous réveillez avec des opportunités, pas avec des sites d'emploi.",
+      "category": "AI & Machine Learning",
+      "website": "https://lancerly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T14:46:21.117117+00:00"
+    },
+    {
+      "name": "Tivora — Your AI Front Desk Employee",
+      "slug": "polsia-tivora",
+      "description": "Tivora is an AI employee that answers every call, books appointments, responds to reviews, and follows up with leads. 24 hours a day, 7 days a week. For less than your phone bill.",
+      "description_fr": "Tivora est un employé d'IA qui répond à chaque appel, prend des rendez-vous, répond aux avis et assure le suivi des pistes. 24 heures sur 24, 7 jours sur 7. Pour moins que votre facture de téléphone.",
+      "category": "AI & Machine Learning",
+      "website": "https://tivora.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T14:46:22.777330+00:00"
+    },
+    {
+      "name": "BayCareOS",
+      "slug": "polsia-baycareos",
+      "description": "Bay County Caregivers serves seniors across Northwest Florida with personalized in-home care. BayCareOS is the autonomous system that manages growth, operations, and outreach so Shea can focus on what matters: the people.",
+      "description_fr": "Bay County Caregivers dessert les personnes âgées du nord-ouest de la Floride avec des soins personnalisés à domicile. BayCareOS est le système autonome qui gère la croissance, les opérations et la sensibilisation afin que Shea puisse se concentrer sur ce qui compte : les personnes.",
+      "category": "Sales & CRM",
+      "website": "https://baycareos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T14:46:23.767669+00:00"
+    },
+    {
+      "name": "FlicOS",
+      "slug": "polsia-flicos",
+      "website": "https://flicos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T14:46:24.107487+00:00"
+    },
+    {
+      "name": "Kaldwell",
+      "slug": "polsia-kaldwell",
+      "description": "Every email is researched, personalized, and written for one specific person. Kaldwell reads their LinkedIn, recent posts, company news, and weaves it into a message that earns a reply. No \"I hope this email finds you well.\"",
+      "description_fr": "Chaque e-mail est recherché, personnalisé et rédigé pour une personne spécifique. Kaldwell lit leur LinkedIn, leurs publications récentes, les actualités de l'entreprise et les intègre dans un message qui mérite une réponse. Non : \"J'espère que cet e-mail vous trouvera bien.\"",
+      "category": "Newsletter & Email",
+      "website": "https://kaldwell.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T14:46:25.448258+00:00"
+    },
+    {
+      "name": "GlowMuse — One Model. Every Look. Real Artistry.",
+      "slug": "polsia-glowmuse",
+      "description": "Most creators film themselves. Every video is a different face, different lighting, different skin. \n                You can never tell if a product actually works or if it's just the creator's unique features making it look good. \n                GlowMuse changes that. One model in every video. You see the same canvas, so you see the real results.",
+      "description_fr": "La plupart des créateurs se filment. Chaque vidéo est un visage différent, un éclairage différent, une peau différente. \n                Vous ne pouvez jamais savoir si un produit fonctionne réellement ou si ce sont simplement les caractéristiques uniques du créateur qui lui donnent une belle apparence. \n                GlowMuse change cela. Un modèle dans chaque vidéo. Vous voyez la même toile, donc vous voyez les vrais résultats.",
+      "category": "Real Estate",
+      "website": "https://glowmuse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T14:46:26.997186+00:00"
     }
   ]
 }
