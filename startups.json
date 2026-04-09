@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T02:31:01.844317+00:00",
+  "last_updated": "2026-04-09T03:21:11.378314+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -27176,10 +27176,13 @@
     {
       "name": "AudioSoundAI",
       "slug": "polsia-audiosoundai",
+      "description": "Record your engine sound, enter OBD-II codes, and get an instant AI-powered diagnosis. Know what's wrong before visiting the mechanic.",
+      "description_fr": "Enregistrez le son de votre moteur, entrez les codes OBD-II et obtenez un diagnostic instantané alimenté par l'IA. Sachez ce qui ne va pas avant de vous rendre chez le mécanicien.",
+      "category": "AI & Machine Learning",
       "website": "https://audiosoundai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-08T22:36:01.391301+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T03:21:11.156219+00:00"
     },
     {
       "name": "Courtn8",
@@ -27441,6 +27444,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-08T23:59:05.745143+00:00"
+    },
+    {
+      "name": "DriftGuard",
+      "slug": "polsia-driftguard-5",
+      "website": "https://driftguard-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T03:21:03.161463+00:00"
+    },
+    {
+      "name": "DealHound",
+      "slug": "polsia-dealhound-ai",
+      "website": "https://dealhound-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T03:21:03.364296+00:00"
+    },
+    {
+      "name": "VetHaven",
+      "slug": "polsia-vethaven",
+      "description": "VetHaven is a single platform that connects veterans to every housing resource available to them. Emergency shelter, transitional housing, VA loans, disability grants. One search. One place.",
+      "description_fr": "VetHaven est une plateforme unique qui connecte les anciens combattants à toutes les ressources de logement à leur disposition. Abris d'urgence, logements de transition, prêts VA, subventions pour personnes handicapées. Une recherche. Un seul endroit.",
+      "category": "Software & SaaS",
+      "website": "https://vethaven.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T03:21:04.002766+00:00"
+    },
+    {
+      "name": "WealthPulse",
+      "slug": "polsia-wealth-pulse",
+      "description": "WealthPulse is the AI agent that monitors your financial vital signs 24/7, spots what you'd miss, and acts before you even check.",
+      "description_fr": "WealthPulse est l'agent IA qui surveille vos signes vitaux financiers 24h/24 et 7j/7, détecte ce que vous manqueriez et agit avant même de vérifier.",
+      "category": "AI & Machine Learning",
+      "website": "https://wealth-pulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T03:21:04.579415+00:00"
+    },
+    {
+      "name": "HouseAIOS",
+      "slug": "polsia-houseaios",
+      "description": "House of AI exists at a rare intersection: deep technical AI knowledge \n                and transformational coaching, wrapped in a values-driven framework that \n                women entrepreneurs actually trust. HouseAIOS automates the business of \n                running that vision so the founder can focus on the work that matters.",
+      "description_fr": "House of AI existe à un carrefour rare : une connaissance technique approfondie de l'IA \n                et un coaching transformationnel, enveloppé dans un cadre axé sur les valeurs qui \n                les femmes entrepreneures font réellement confiance. HouseAIOS automatise les activités de \n                diriger cette vision afin que le fondateur puisse se concentrer sur le travail qui compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://houseaios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T03:21:05.670102+00:00"
+    },
+    {
+      "name": "CorvaOS",
+      "slug": "polsia-corvaos",
+      "description": "Most ABA organizations are stuck repeating the same processes. They need an external innovation department, but finding one that understands behavioral health is nearly impossible. Corva Co fills that gap. Now it needs the infrastructure to scale beyond one-to-one engagements.",
+      "description_fr": "La plupart des organisations ABA sont obligées de répéter les mêmes processus. Ils ont besoin d’un service d’innovation externe, mais il est presque impossible d’en trouver un qui comprenne la santé comportementale. Corva Co comble cette lacune. Il lui faut désormais une infrastructure capable d'évoluer au-delà des engagements individuels.",
+      "category": "Health & Wellness",
+      "website": "https://corvaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T03:21:06.572393+00:00"
+    },
+    {
+      "name": "FrontCatch",
+      "slug": "polsia-frontcatch",
+      "description": "Every business deserves a front desk that never drops the ball. FrontCatch catches what you miss, books what you'd lose, and follows up when you can't. Built for the businesses that run on phone calls and appointments.",
+      "description_fr": "Chaque entreprise mérite une réception qui ne lâche jamais la balle. FrontCatch détecte ce que vous manquez, enregistre ce que vous perdriez et assure le suivi lorsque vous ne pouvez pas le faire. Conçu pour les entreprises qui fonctionnent sur appels téléphoniques et sur rendez-vous.",
+      "category": "Other",
+      "website": "https://frontcatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T03:21:07.062576+00:00"
+    },
+    {
+      "name": "TinyReplay — Used Kids Toys, Replayed",
+      "slug": "polsia-tinyreplay",
+      "description": "Selling used toys shouldn't mean sketchy meetups, lowball offers, or zero accountability. TinyReplay is built specifically for parents who want a clean, safe, fair place to buy and sell the toys their kids loved.",
+      "description_fr": "Vendre des jouets d'occasion ne devrait pas signifier des rencontres sommaires, des offres médiocres ou une responsabilité nulle. TinyReplay est spécialement conçu pour les parents qui souhaitent un endroit propre, sûr et équitable pour acheter et vendre les jouets que leurs enfants adorent.",
+      "category": "Real Estate",
+      "website": "https://tinyreplay.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T03:21:07.762084+00:00"
+    },
+    {
+      "name": "SelfLed — Become the Leader of Your Own Life",
+      "slug": "polsia-selfled",
+      "description": "SelfLed is a guided experience for individuals who are done waiting for permission to become who they already are. Not a course. Not corporate training. A structured path to building the character that drives everything else.",
+      "description_fr": "SelfLed est une expérience guidée pour les personnes qui n'attendent plus la permission de devenir ce qu'elles sont déjà. Pas un cours. Pas de formation en entreprise. Un chemin structuré pour construire le personnage qui anime tout le reste.",
+      "category": "Education",
+      "website": "https://selfled.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T03:21:08.118839+00:00"
+    },
+    {
+      "name": "WanderPath",
+      "slug": "polsia-wanderpath",
+      "description": "Describe your ideal trip in plain English. Budget, vibe, interests, pace. WanderPath returns a polished, day-by-day plan that actually makes sense geographically and financially.",
+      "description_fr": "Décrivez votre voyage idéal dans un anglais simple. Budget, ambiance, intérêts, rythme. WanderPath renvoie un plan quotidien soigné qui a du sens géographiquement et financièrement.",
+      "category": "Finance & Fintech",
+      "website": "https://wanderpath.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T03:21:08.991234+00:00"
     }
   ]
 }
