@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T05:25:15.476676+00:00",
+  "last_updated": "2026-04-09T06:56:31.718171+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -27608,12 +27608,15 @@
       "scraped_at": "2026-04-09T05:25:05.610981+00:00"
     },
     {
-      "name": "StapleDrop",
+      "name": "StapleDrop — Brand",
       "slug": "polsia-stapledrop",
+      "description": "StapleDrop is a curated online store for brand-name household essentials, priced below what you'd pay at Target, CVS, or Amazon. Crest. Tide. Charmin. Clorox. All the staples, none of the markup.",
+      "description_fr": "StapleDrop est une boutique en ligne organisée pour les articles ménagers de marque, à un prix inférieur à celui que vous paieriez chez Target, CVS ou Amazon. Crête. Marée. Charmin. Clorox. Tous les produits de base, aucun balisage.",
+      "category": "E-Commerce & Retail",
       "website": "https://stapledrop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T05:25:05.897159+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T06:56:30.008830+00:00"
     },
     {
       "name": "444Affiliates",
@@ -27658,6 +27661,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-09T05:25:09.861942+00:00"
+    },
+    {
+      "name": "MamyiOS",
+      "slug": "polsia-mamyios",
+      "description": "Between stunt rehearsals, training sessions, and auditions, there's no time left to chase client bookings, follow up on leads, or post content. The art gets all the energy. The business gets whatever's left.",
+      "description_fr": "Entre les répétitions de cascades, les séances de formation et les auditions, il ne reste plus de temps pour rechercher des réservations de clients, suivre des pistes ou publier du contenu. L’art reçoit toute l’énergie. L'entreprise récupère ce qui reste.",
+      "category": "Sales & CRM",
+      "website": "https://mamyios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T06:56:31.715911+00:00"
+    },
+    {
+      "name": "CrateOS — The Label Runs Itself",
+      "slug": "polsia-crateos",
+      "description": "CrateOS is the operating system for independent music labels. Release management, royalty tracking, artist development, marketing. All running autonomously, all day, every day.",
+      "description_fr": "CrateOS est le système d'exploitation des labels de musique indépendants. Gestion des versions, suivi des redevances, développement des artistes, marketing. Tous fonctionnent de manière autonome, toute la journée, tous les jours.",
+      "category": "Marketing & Advertising",
+      "website": "https://crateos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T06:56:13.895114+00:00"
+    },
+    {
+      "name": "MemeMatesOS",
+      "slug": "polsia-memematos",
+      "description": "MemeMates replaces shallow swiping with shared humor. An AI-powered operating system tracking growth, engagement, and user acquisition for the social app that connects people through memes, music, and authentic expression.",
+      "description_fr": "MemeMates remplace le balayage superficiel par de l'humour partagé. Un système d'exploitation basé sur l'IA qui suit la croissance, l'engagement et l'acquisition d'utilisateurs pour l'application sociale qui connecte les gens via des mèmes, de la musique et une expression authentique.",
+      "category": "AI & Machine Learning",
+      "website": "https://memematos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T06:56:14.800183+00:00"
+    },
+    {
+      "name": "Com'unity",
+      "slug": "polsia-comunity",
+      "description": "3,700 municipalities. Millions of residents. One platform that finally makes local communicationsimple, instant, and accessible to everyone. Starting with Alberta, expanding across Canada.",
+      "description_fr": "3 700 communes. Des millions d'habitants. Une plateforme qui rend enfin les communications locales simples, instantanées et accessibles à tous. En commençant par l’Alberta, puis en s’étendant à tout le Canada.",
+      "category": "Software & SaaS",
+      "website": "https://comunity.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T06:56:16.289986+00:00"
+    },
+    {
+      "name": "GlintBox — Mail",
+      "slug": "polsia-glintbox",
+      "description": "Custom flatback gemstone decoration for your shoes, bags, boxes, picture frames, and anything else you want to shine. Hand-placed. One at a time. Shipped back to your door.",
+      "description_fr": "Décoration personnalisée de pierres précieuses à dos plat pour vos chaussures, sacs, boîtes, cadres photo et tout ce que vous souhaitez faire briller. Placé à la main. Un à la fois. Renvoyé à votre porte.",
+      "category": "Sustainability & Green",
+      "website": "https://glintbox.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T06:56:17.541772+00:00"
+    },
+    {
+      "name": "FiberOps — AI",
+      "slug": "polsia-fiberops",
+      "description": "FiberOps is an AI agent that autonomously monitors, diagnoses, and manages fixed telecom networks for operators. No more 3am pager alerts. No more spreadsheet SLAs.",
+      "description_fr": "FiberOps est un agent d'IA qui surveille, diagnostique et gère de manière autonome les réseaux de télécommunications fixes pour les opérateurs. Fini les alertes de téléavertisseur à 3 heures du matin. Fini les SLA de feuilles de calcul.",
+      "category": "AI & Machine Learning",
+      "website": "https://fiberops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T06:56:20.373275+00:00"
+    },
+    {
+      "name": "Turnovr",
+      "slug": "polsia-turnovr-ai",
+      "description": "You bought property management software. You still spend hours every day managing guests, adjusting prices, and coordinating cleaners. The software made things organized. It didn't make them autonomous.",
+      "description_fr": "Vous avez acheté un logiciel de gestion immobilière. Vous passez encore des heures chaque jour à gérer les clients, à ajuster les prix et à coordonner le nettoyage. Le logiciel a organisé les choses. Cela ne les a pas rendus autonomes.",
+      "category": "Software & SaaS",
+      "website": "https://turnovr-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T06:56:21.939924+00:00"
+    },
+    {
+      "name": "ContentFlow",
+      "slug": "polsia-contentflow-2",
+      "description": "ContentFlow is an AI employee that writes, schedules, and publishes your brand's content every single day. No prompts. No babysitting. Just consistent, on-brand content that shows up like clockwork.",
+      "description_fr": "ContentFlow est un employé d'IA qui écrit, planifie et publie le contenu de votre marque chaque jour. Aucune invite. Pas de baby-sitting. Juste un contenu cohérent et conforme à la marque qui apparaît comme sur des roulettes.",
+      "category": "AI & Machine Learning",
+      "website": "https://contentflow-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T06:56:23.379833+00:00"
+    },
+    {
+      "name": "FaceSearchOS",
+      "slug": "polsia-facesearchos-3",
+      "description": "600,000 users generating $8K MRR means conversion is below 1%. Even a modest improvement to 2-3% could 3-5x revenue without acquiring a single new user. FaceSearchOS identifies where users drop off and systematically fixes it.",
+      "description_fr": "600 000 utilisateurs générant un MRR de 8 000 $ signifie que la conversion est inférieure à 1 %. Même une modeste amélioration de 2 à 3 % pourrait multiplier par 3 à 5 les revenus sans acquérir un seul nouvel utilisateur. FaceSearchOS identifie l'endroit où les utilisateurs déposent et le corrige systématiquement.",
+      "category": "Other",
+      "website": "https://facesearchos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T06:56:24.213171+00:00"
+    },
+    {
+      "name": "Duskwell",
+      "slug": "polsia-duskwell",
+      "description": "Most sleep supplements are either underdosed single ingredients or mystery blends from Amazon warehouses. Duskwell is formulated in the UK, third-party tested, and transparent about every milligram. We don't hide behind proprietary blends.",
+      "description_fr": "La plupart des suppléments de sommeil sont soit des ingrédients uniques sous-dosés, soit des mélanges mystérieux provenant des entrepôts Amazon. Duskwell est formulé au Royaume-Uni, testé par un tiers et transparent sur chaque milligramme. Nous ne nous cachons pas derrière des mélanges exclusifs.",
+      "category": "Real Estate",
+      "website": "https://duskwell.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T06:56:25.382507+00:00"
     }
   ]
 }
