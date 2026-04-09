@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T03:21:11.378314+00:00",
+  "last_updated": "2026-04-09T05:25:15.476676+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -27448,18 +27448,24 @@
     {
       "name": "DriftGuard",
       "slug": "polsia-driftguard-5",
+      "description": "DriftGuard is an autonomous AI agent that continuously monitors your infrastructure, detects compliance drift, and remediates issues before your auditor even knows they existed.",
+      "description_fr": "DriftGuard est un agent d'IA autonome qui surveille en permanence votre infrastructure, détecte les dérives de conformité et corrige les problèmes avant même que votre auditeur ne sache qu'ils existent.",
+      "category": "AI & Machine Learning",
       "website": "https://driftguard-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T03:21:03.161463+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T05:25:13.724590+00:00"
     },
     {
       "name": "DealHound",
       "slug": "polsia-dealhound-ai",
+      "description": "DealHound is an AI agent that researches your ideal prospects, writes personalized cold emails, follows up relentlessly, and books qualified meetings on your calendar. It works 24/7 and never asks for a raise.",
+      "description_fr": "DealHound est un agent IA qui recherche vos prospects idéaux, rédige des e-mails froids personnalisés, assure un suivi sans relâche et réserve des réunions qualifiées sur votre calendrier. Il fonctionne 24h/24 et 7j/7 et ne demande jamais d'augmentation.",
+      "category": "AI & Machine Learning",
       "website": "https://dealhound-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T03:21:03.364296+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T05:25:15.173864+00:00"
     },
     {
       "name": "VetHaven",
@@ -27548,6 +27554,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-09T03:21:08.991234+00:00"
+    },
+    {
+      "name": "BookedSolid",
+      "slug": "polsia-bookedsolid-29",
+      "website": "https://bookedsolid-29.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T05:24:58.893614+00:00"
+    },
+    {
+      "name": "VoltTrail — One app for every e",
+      "slug": "polsia-volttrail",
+      "description": "Today, planning an e-bike ride means opening Strava for routes,\n                    PlugShare for chargers, Google Maps for bike shops, and Reddit\n                    for advice. That's four apps before you even start pedaling.\n                    VoltTrail replaces the juggle with a single, purpose-built experience.",
+      "description_fr": "Aujourd'hui, planifier une balade en vélo électrique signifie ouvrir Strava pour les itinéraires,\n                    PlugShare pour les chargeurs, Google Maps pour les magasins de vélos et Reddit\n                    pour des conseils. Cela représente quatre applications avant même de commencer à pédaler.\n                    VoltTrail remplace le jonglage par une expérience unique et spécialement conçue.",
+      "category": "E-Commerce & Retail",
+      "website": "https://volttrail.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T05:25:00.590890+00:00"
+    },
+    {
+      "name": "Encore",
+      "slug": "polsia-encore-8",
+      "description": "You're spending money on ads to find new customers while the ones who already love your business drift away.You don't have time to track who's missing, write personal follow-ups, or run win-back campaigns. That's a full-time job.",
+      "description_fr": "Vous dépensez de l'argent en publicités pour trouver de nouveaux clients tandis que ceux qui aiment déjà votre entreprise s'éloignent. Vous n'avez pas le temps de suivre les disparus, de rédiger des suivis personnels ou de lancer des campagnes de reconquête. C'est un travail à temps plein.",
+      "category": "Marketing & Advertising",
+      "website": "https://encore-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T05:25:02.013579+00:00"
+    },
+    {
+      "name": "Furst Responders — Emergency Pet Care When Life Goes Sideways",
+      "slug": "polsia-furst-responders",
+      "description": "Furst Responders is a nonprofit that picks up, houses, and cares for your pet within hours when life throws you a curveball. Emergency surgery. An unexpected arrest. A mental health crisis. We show up so your pet doesn't end up alone.",
+      "description_fr": "Furst Responders est une organisation à but non lucratif qui récupère, héberge et prend soin de votre animal de compagnie en quelques heures lorsque la vie vous lance une courbe. Chirurgie d'urgence. Une arrestation inattendue. Une crise de santé mentale. Nous nous présentons pour que votre animal ne se retrouve pas seul.",
+      "category": "Health & Wellness",
+      "website": "https://furst-responders.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T05:25:03.864348+00:00"
+    },
+    {
+      "name": "IdleFleet — Your Computer Earns While You Sleep",
+      "slug": "polsia-idlefleet",
+      "description": "IdleFleet installs a lightweight agent on your machine. When you're not using it, we rent your idle CPU, GPU, and memory to companies that need cheap processing power. You get paid. They save 80% vs. cloud.",
+      "description_fr": "IdleFleet installe un agent léger sur votre machine. Lorsque vous ne l'utilisez pas, nous louons votre CPU, GPU et mémoire inutilisés à des entreprises qui ont besoin d'une puissance de traitement bon marché. Vous êtes payé. Ils économisent 80 % par rapport au cloud.",
+      "category": "Real Estate",
+      "website": "https://idlefleet.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T05:25:05.610981+00:00"
+    },
+    {
+      "name": "StapleDrop",
+      "slug": "polsia-stapledrop",
+      "website": "https://stapledrop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T05:25:05.897159+00:00"
+    },
+    {
+      "name": "444Affiliates",
+      "slug": "polsia-444affiliates",
+      "description": "Every competitor either hides their pricing or charges enterprise rates for basic features. We don't. Two tiers, both under $50/mo, both include AI content generation.",
+      "description_fr": "Chaque concurrent cache ses prix ou facture des tarifs d'entreprise pour les fonctionnalités de base. Nous ne le faisons pas. Deux niveaux, tous deux inférieurs à 50 $/mois, incluent tous deux la génération de contenu IA.",
+      "category": "AI & Machine Learning",
+      "website": "https://444affiliates.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T05:25:07.057317+00:00"
+    },
+    {
+      "name": "SnapCount",
+      "slug": "polsia-snapcount",
+      "description": "Human sports analysts write 2-3 pieces a week and burn out in months. SnapCount produces daily content for every team, every week, every season. Consistent quality at inhuman scale.",
+      "description_fr": "Les analystes du sport humain écrivent 2 à 3 articles par semaine et s'épuisent en quelques mois. SnapCount produit du contenu quotidien pour chaque équipe, chaque semaine, chaque saison. Qualité constante à échelle inhumaine.",
+      "category": "Entertainment & Media",
+      "website": "https://snapcount.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T05:25:08.342065+00:00"
+    },
+    {
+      "name": "GravityCoach — Your AI Calisthenics Coach",
+      "slug": "polsia-gravitycoach",
+      "description": "Every athlete deserves a coach who understands their body, their goals, and their progression. GravityCoach makes that possible for everyone, not just those who can afford a personal trainer.",
+      "description_fr": "Chaque athlète mérite un entraîneur qui comprend son corps, ses objectifs et sa progression. GravityCoach rend cela possible à tout le monde, pas seulement à ceux qui peuvent se permettre un entraîneur personnel.",
+      "category": "AI & Machine Learning",
+      "website": "https://gravitycoach.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T05:25:09.097197+00:00"
+    },
+    {
+      "name": "DGTFOS — Run the Whole Damn Business",
+      "slug": "polsia-dgtfos-2",
+      "description": "Sales dashboards for tees, hoodies, caps, and decals. See what's moving, what's stale, and where your revenue actually comes from. No spreadsheets. No guessing.",
+      "description_fr": "Tableaux de bord de vente de t-shirts, sweats à capuche, casquettes et décalcomanies. Découvrez ce qui bouge, ce qui est obsolète et d'où proviennent réellement vos revenus. Pas de feuilles de calcul. Aucune supposition.",
+      "category": "Software & SaaS",
+      "website": "https://dgtfos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T05:25:09.861942+00:00"
     }
   ]
 }
