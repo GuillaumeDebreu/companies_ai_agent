@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T20:37:23.508109+00:00",
+  "last_updated": "2026-04-09T21:31:05.104390+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -28869,18 +28869,24 @@
     {
       "name": "RunDesk",
       "slug": "polsia-rundesk-11",
+      "description": "RunDesk handles scheduling, invoice follow-ups, email triage, and vendor coordination for your business. Autonomously. 24/7. For a fraction of what you'd pay a human hire.",
+      "description_fr": "RunDesk gère la planification, le suivi des factures, le tri des e-mails et la coordination des fournisseurs pour votre entreprise. De manière autonome. 24h/24 et 7j/7. Pour une fraction de ce que vous paieriez pour un employé humain.",
+      "category": "Finance & Fintech",
       "website": "https://rundesk-11.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T20:37:10.188732+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T21:31:04.221642+00:00"
     },
     {
       "name": "Evalytics",
       "slug": "polsia-evalytics",
+      "description": "Input a subject property. Get ranked comparable sales with AI-calculated adjustments for location, condition, size, and amenities. Reviewed and verified, not just an AVM guess.",
+      "description_fr": "Saisissez une propriété de sujet. Obtenez un classement des ventes comparables grâce à des ajustements calculés par l'IA pour l'emplacement, l'état, la taille et les commodités. Examiné et vérifié, pas seulement une supposition AVM.",
+      "category": "AI & Machine Learning",
       "website": "https://evalytics.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T20:37:10.392400+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T21:31:05.038192+00:00"
     },
     {
       "name": "Whyndical Wonders — Equine & Canine Bodywork",
@@ -28969,6 +28975,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-09T20:37:19.098823+00:00"
+    },
+    {
+      "name": "The Crit Gazette",
+      "slug": "polsia-the-crit-gazette",
+      "website": "https://the-crit-gazette.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T21:30:52.174306+00:00"
+    },
+    {
+      "name": "Love Over Limits — Apparel for Strong Moms & Autism Families",
+      "slug": "polsia-love-over-limits",
+      "description": "Love Over Limits exists because every strong mom deserves to be seen, every autism family deserves to be celebrated, and every piece of clothing you put on should remind you of who you are.",
+      "description_fr": "Love Over Limits existe parce que chaque maman forte mérite d'être vue, chaque famille autiste mérite d'être célébrée et chaque vêtement que vous portez doit vous rappeler qui vous êtes.",
+      "category": "Other",
+      "website": "https://love-over-limits.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T21:30:53.018776+00:00"
+    },
+    {
+      "name": "SparkOps",
+      "slug": "polsia-sparkops-6",
+      "description": "SparkOps is the AI operations manager for independent electricians. Estimates, scheduling, invoicing, customer follow-ups. All handled. You just show up and wire.",
+      "description_fr": "SparkOps est le gestionnaire des opérations d'IA pour les électriciens indépendants. Devis, planification, facturation, suivis clients. Tout a été géré. Il vous suffit de vous présenter et de télégraphier.",
+      "category": "AI & Machine Learning",
+      "website": "https://sparkops-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T21:30:54.443068+00:00"
+    },
+    {
+      "name": "EpurevaOS — Le système nerveux de votre entreprise de nettoyage",
+      "slug": "polsia-epurevaos",
+      "description": "EPUREVA a déjà prouvé que le nettoyage professionnel à Marrakech peut être structuré, fiable et constant.EpurevaOSest le moteur qui transforme cette excellence en machine de croissance.",
+      "description_fr": "EPUREVA a déjà prouvé que le nettoyage professionnel à Marrakech peut être structuré, fiable et constant.EpurevaOSest le moteur qui transforme cette excellence en machine de croissance.",
+      "category": "Other",
+      "website": "https://epurevaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T21:30:55.862984+00:00"
+    },
+    {
+      "name": "Prospera",
+      "slug": "polsia-prospera-19",
+      "description": "An AI sales agent that researches prospects, writes personalized outreach, follows up, and manages your pipeline. You focus on delivering great work. Prospera fills it.",
+      "description_fr": "Un agent commercial IA qui recherche des prospects, rédige des communications personnalisées, assure le suivi et gère votre pipeline. Vous vous concentrez sur la réalisation d’un excellent travail. Prospera le remplit.",
+      "category": "Sales & CRM",
+      "website": "https://prospera-19.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T21:30:56.652937+00:00"
+    },
+    {
+      "name": "EuroyachtsOS",
+      "slug": "polsia-euroyachtsos",
+      "description": "Track brokerage listings from intake to handover. See days on market, enquiry velocity, and price positioning against competitors. Flag stale inventory before it costs you berth fees. Automatically sync across YachtWorld, EYB portals, and your own site.",
+      "description_fr": "Suivez les listes de courtage de l’admission à la remise. Consultez les jours sur le marché, la vitesse des demandes de renseignements et le positionnement des prix par rapport aux concurrents. Signalez les stocks périmés avant qu’ils ne vous coûtent des frais d’amarrage. Synchronisez automatiquement sur YachtWorld, les portails EYB et votre propre site.",
+      "category": "Other",
+      "website": "https://euroyachtsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T21:30:57.259105+00:00"
+    },
+    {
+      "name": "Sapio Labs",
+      "slug": "polsia-sapio-labs",
+      "description": "Our team architects and implements AI systems alongside your engineers. Custom models, agentic workflows, or off-the-shelf integrations, whatever gets results fastest.",
+      "description_fr": "Notre équipe conçoit et met en œuvre des systèmes d’IA aux côtés de vos ingénieurs. Modèles personnalisés, flux de travail agents ou intégrations prêtes à l'emploi, tout ce qui permet d'obtenir les résultats les plus rapides.",
+      "category": "AI & Machine Learning",
+      "website": "https://sapio-labs.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T21:30:58.318444+00:00"
+    },
+    {
+      "name": "BlushInk — Aesthetic Digital Agendas",
+      "slug": "polsia-blushink",
+      "description": "Every BlushInk agenda starts with a palette that feels like home. Beige warmth, blush softness, sage calm. Then we layer in the structure you need: weekly layouts, habit trackers, goal pages, and reflection prompts. Nothing extra. Nothing missing.",
+      "description_fr": "Chaque agenda BlushInk commence par une palette qui ressemble à la maison. Chaleur beige, douceur du blush, calme de la sauge. Ensuite, nous ajoutons la structure dont vous avez besoin : mises en page hebdomadaires, suivis d'habitudes, pages d'objectifs et invites de réflexion. Rien de plus. Rien ne manque.",
+      "category": "Other",
+      "website": "https://blushink.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T21:30:59.502061+00:00"
+    },
+    {
+      "name": "PavéOS",
+      "slug": "polsia-paveos-2",
+      "description": "PavéOS is the autonomous operating system for Pave Sports. Order tracking, competitor intelligence, and customer outreach running 24/7 so Brett can focus on what matters: the ride and the relationships.",
+      "description_fr": "PavéOS est le système d'exploitation autonome de Pave Sports. Suivi des commandes, veille sur la concurrence et sensibilisation des clients 24h/24 et 7j/7 afin que Brett puisse se concentrer sur ce qui compte : le trajet et les relations.",
+      "category": "Sales & CRM",
+      "website": "https://paveos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T21:31:00.221272+00:00"
+    },
+    {
+      "name": "Nestova",
+      "slug": "polsia-nestova",
+      "description": "Orlando has 30,000+ vacation rentals. Most managers cobble together separate apps for messaging, pricing, cleaning, and reviews. Guests expect instant replies. Turnovers happen every 2-3 days. Something always slips through the cracks.",
+      "description_fr": "Orlando compte plus de 30 000 locations de vacances. La plupart des gestionnaires concoctent des applications distinctes pour la messagerie, la tarification, le nettoyage et les avis. Les clients attendent des réponses instantanées. Les revirements ont lieu tous les 2-3 jours. Quelque chose passe toujours entre les mailles du filet.",
+      "category": "Travel & Hospitality",
+      "website": "https://nestova.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T21:31:01.656296+00:00"
     }
   ]
 }
