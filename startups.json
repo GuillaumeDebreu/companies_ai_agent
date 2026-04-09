@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T19:49:02.224111+00:00",
+  "last_updated": "2026-04-09T20:37:23.508109+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -28759,18 +28759,24 @@
     {
       "name": "MetricSlate",
       "slug": "polsia-metricslate",
+      "description": "Most agency reporting tools charge $79-229/month and still require hours of setup. MetricSlate gives you professional, branded dashboards at a fraction of the cost, so you can charge your clients more and keep the difference.",
+      "description_fr": "La plupart des outils de reporting d'agence facturent entre 79 et 229 $/mois et nécessitent encore des heures de configuration. MetricSlate vous propose des tableaux de bord professionnels de marque à une fraction du coût, afin que vous puissiez facturer davantage à vos clients et conserver la différence.",
+      "category": "Software & SaaS",
       "website": "https://metricslate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T19:48:51.313609+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T20:37:21.135928+00:00"
     },
     {
-      "name": "VelvetNight",
+      "name": "VelvetNight — Elegant Room Decoration for Romantic Occasions",
       "slug": "polsia-velvetnight",
+      "description": "VelvetNight createsrefined, sensory environmentsfor romantic occasions. Real candlelight. Curated textures. Personalized details that tell your story. Every room we touch becomes a world that exists for two people only.",
+      "description_fr": "VelvetNight crée des environnements sensoriels raffinés pour les occasions romantiques. De vraies chandelles. Textures soignées. Des détails personnalisés qui racontent votre histoire. Chaque pièce que nous touchons devient un monde qui n'existe que pour deux personnes.",
+      "category": "Sustainability & Green",
       "website": "https://velvetnight.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T19:48:51.578746+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T20:37:22.618578+00:00"
     },
     {
       "name": "MaxilocalOS — Le système nerveux de l'activation territoriale",
@@ -28817,12 +28823,15 @@
       "scraped_at": "2026-04-09T19:48:55.678549+00:00"
     },
     {
-      "name": "PineKeep",
+      "name": "PineKeep — Your AI Property Manager",
       "slug": "polsia-pinekeep",
+      "description": "PineKeep is an AI property manager that handles guest communication autonomously. Context-aware responses using your property details, house rules, and local knowledge. 24/7.",
+      "description_fr": "PineKeep est un gestionnaire immobilier IA qui gère la communication avec les clients de manière autonome. Des réponses contextuelles utilisant les détails de votre propriété, les règles de la maison et les connaissances locales. 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://pinekeep.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T19:48:55.992470+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-09T20:37:23.323766+00:00"
     },
     {
       "name": "DocMotion",
@@ -28856,6 +28865,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-09T19:48:59.360267+00:00"
+    },
+    {
+      "name": "RunDesk",
+      "slug": "polsia-rundesk-11",
+      "website": "https://rundesk-11.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T20:37:10.188732+00:00"
+    },
+    {
+      "name": "Evalytics",
+      "slug": "polsia-evalytics",
+      "website": "https://evalytics.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-09T20:37:10.392400+00:00"
+    },
+    {
+      "name": "Whyndical Wonders — Equine & Canine Bodywork",
+      "slug": "polsia-whyndicalos",
+      "description": "Whyndical Wonders serves the Twin Cities equestrian and canine community with bodywork rooted in trust, patience, and deep listening. Every session is a conversation between practitioner and animal, and the animal always speaks first.",
+      "description_fr": "Whyndical Wonders sert la communauté équestre et canine de Twin Cities avec un travail corporel ancré dans la confiance, la patience et une écoute profonde. Chaque séance est une conversation entre le praticien et l'animal, et l'animal parle toujours en premier.",
+      "category": "Social & Community",
+      "website": "https://whyndicalos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T20:37:11.509627+00:00"
+    },
+    {
+      "name": "LumiNeon — Configurez votre néon sur mesure",
+      "slug": "polsia-lumineon",
+      "description": "LumiNeon rend le néon sur mesure accessible. Pour votre chambre, votre bar, votre commerce ou votre événement. Un configurateur pensé pour que chaque idée devienne lumineuse.",
+      "description_fr": "LumiNeon rend le néon sur mesure accessible. Pour votre chambre, votre bar, votre commerce ou votre événement. Un configurateur pensé pour que chaque idée devienne lumineuse.",
+      "category": "Other",
+      "website": "https://lumineon.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T20:37:12.830277+00:00"
+    },
+    {
+      "name": "PlanF — AI",
+      "slug": "polsia-planfos",
+      "description": "We believe the best events aren't made by working harder. They're made by working with systems intelligent enough to handle the complexity, so organizers can focus on what actually matters: the people in the room.",
+      "description_fr": "Nous pensons que les meilleurs événements ne se créent pas en travaillant plus dur. Ils sont créés en travaillant avec des systèmes suffisamment intelligents pour gérer la complexité, afin que les organisateurs puissent se concentrer sur ce qui compte réellement : les personnes présentes dans la salle.",
+      "category": "AI & Machine Learning",
+      "website": "https://planfos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T20:37:13.668905+00:00"
+    },
+    {
+      "name": "Fresh Buddy",
+      "slug": "polsia-fresh-buddy",
+      "description": "Fresh Buddy is a functional xylitol oral spray with a hint of menthol. Three bold flavors. Zero sugar. Oral care that you actually want to use.",
+      "description_fr": "Fresh Buddy est un spray oral fonctionnel au xylitol avec une touche de menthol. Trois saveurs audacieuses. Zéro sucre. Des soins bucco-dentaires que vous souhaitez réellement utiliser.",
+      "category": "Other",
+      "website": "https://fresh-buddy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T20:37:14.837771+00:00"
+    },
+    {
+      "name": "MealDesk — Corporate Catering for Malta's Best Teams",
+      "slug": "polsia-mealdesk",
+      "description": "Daily meal delivery for Malta's busiest offices. Choose a restaurant, set a budget per head, let employees pick what they want. Fresh food, delivered every weekday.",
+      "description_fr": "Livraison quotidienne de repas pour les bureaux les plus fréquentés de Malte. Choisissez un restaurant, fixez un budget par personne, laissez les employés choisir ce qu'ils veulent. Nourriture fraîche, livrée tous les jours de la semaine.",
+      "category": "Food & Beverage",
+      "website": "https://mealdesk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T20:37:15.489415+00:00"
+    },
+    {
+      "name": "FreshPath — Dignity First, Then Opportunity",
+      "slug": "polsia-freshpath",
+      "description": "FreshPath connects people with the hygiene, food, and job readiness resources they need to get hired and housed. Because you can't build a future on an empty stomach.",
+      "description_fr": "FreshPath connecte les gens aux ressources d'hygiène, de nourriture et de préparation à l'emploi dont ils ont besoin pour être embauchés et logés. Parce qu’on ne peut pas construire son avenir le ventre vide.",
+      "category": "Food & Beverage",
+      "website": "https://freshpath.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T20:37:16.879661+00:00"
+    },
+    {
+      "name": "LoudType",
+      "slug": "polsia-loudtype",
+      "description": "LoudType printsoriginal funny sloganson heavyweight sweaters and tees. No stolen quotes. No prints that peel after three washes. No fast-fashion throwaways.",
+      "description_fr": "LoudType imprime des slogans amusants et originaux sur des pulls et des t-shirts épais. Aucun devis volé. Aucune impression qui se décolle après trois lavages. Pas de produits jetables fast-fashion.",
+      "category": "Other",
+      "website": "https://loudtype.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T20:37:18.033152+00:00"
+    },
+    {
+      "name": "Semios — Raisonnement clinique structuré",
+      "slug": "polsia-semios",
+      "description": "Semios guide les professionnels de santé mentale à travers un raisonnement clinique structuré, de la demande initiale à la conceptualisation de cas. Pas un diagnostic automatisé. Un compagnon de réflexion.",
+      "description_fr": "Semios guide les professionnels de la santé mentale à travers un raisonnement clinique structuré, de la demande initiale à la conceptualisation de cas. Pas un diagnostic automatisé. Un compagnon de réflexion.",
+      "category": "Other",
+      "website": "https://semios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-09T20:37:19.098823+00:00"
     }
   ]
 }
