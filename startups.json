@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T13:15:23.717699+00:00",
+  "last_updated": "2026-04-10T13:50:23.796988+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -30175,28 +30175,37 @@
       "scraped_at": "2026-04-10T11:30:12.949552+00:00"
     },
     {
-      "name": "RealProjectOS",
+      "name": "R.E.A.L. Project — The Hybrid Athlete's Brain",
       "slug": "polsia-realprojectos",
+      "description": "R.E.A.L. is the first coaching app that treats strength and endurance as one system. Not two apps duct-taped together. One adaptive brain that understands the interference between your barbell work and your long runs.",
+      "description_fr": "RÉEL. est la première application de coaching qui traite la force et l'endurance comme un seul système. Pas deux applications collées ensemble. Un cerveau adaptatif qui comprend l'interférence entre votre travail avec des haltères et vos longues courses.",
+      "category": "Education",
       "website": "https://realprojectos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-10T12:09:04.637521+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-10T13:50:21.623809+00:00"
     },
     {
-      "name": "HaulSafe",
+      "name": "HaulSafe — DOT Compliance & Loss Control for Trucking",
       "slug": "polsia-haulsafe",
+      "description": "The FMCSA rewrote the CSA playbook in 2025. New scoring categories, new violation groups, new enforcement priorities. Carriers who adapt will thrive. Those who don't will pay the price in fines, insurance hikes, and out-of-service orders. HaulSafe exists to make sure you're on the right side of that line.",
+      "description_fr": "La FMCSA a réécrit le manuel du CSA en 2025. Nouvelles catégories de notation, nouveaux groupes de violations, nouvelles priorités d'application. Les transporteurs qui s’adaptent prospéreront. Ceux qui ne le feront pas en paieront le prix en amendes, en hausses d'assurance et en mises hors service. HaulSafe existe pour vous assurer que vous êtes du bon côté de cette ligne.",
+      "category": "Social & Community",
       "website": "https://haulsafe.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-10T12:09:04.970227+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-10T13:50:22.700732+00:00"
     },
     {
       "name": "GuestPilot",
       "slug": "polsia-guestpilot-38",
+      "description": "You don't need enterprise software that costs $500/month and takes weeks to set up. GuestPilot is designed for hosts managing 1-10 properties who want professional results without the professional overhead.",
+      "description_fr": "Vous n'avez pas besoin d'un logiciel d'entreprise qui coûte 500 $/mois et dont la configuration prend des semaines. GuestPilot est conçu pour les hôtes gérant 1 à 10 propriétés qui souhaitent des résultats professionnels sans frais généraux professionnels.",
+      "category": "Software & SaaS",
       "website": "https://guestpilot-38.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-10T12:09:05.287115+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-10T13:50:23.657841+00:00"
     },
     {
       "name": "Voxable",
@@ -30274,6 +30283,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-10T12:09:17.676894+00:00"
+    },
+    {
+      "name": "Roost",
+      "slug": "polsia-roost-35",
+      "website": "https://roost-35.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T13:50:05.584093+00:00"
+    },
+    {
+      "name": "CreditRise",
+      "slug": "polsia-creditrise",
+      "description": "CreditRise helps you escape debt and rebuild your credit through real education, transparent pricing, and a plan that actually works. No gimmicks. No empty promises.",
+      "description_fr": "CreditRise vous aide à échapper à l'endettement et à reconstruire votre crédit grâce à une véritable éducation, une tarification transparente et un plan qui fonctionne réellement. Pas de gadgets. Pas de promesses creuses.",
+      "category": "Education",
+      "website": "https://creditrise.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T13:50:06.741719+00:00"
+    },
+    {
+      "name": "Hearthfolk",
+      "slug": "polsia-hearthfolk",
+      "description": "Hearthfolk pairs you with a single, trusted helper who handles your cleaning, errands, meal prep, pet care, and more. Not five strangers. One person who knows your home like you do.",
+      "description_fr": "Hearthfolk vous met en relation avec un assistant unique et de confiance qui s'occupe de votre nettoyage, de vos courses, de la préparation des repas, des soins aux animaux et bien plus encore. Pas cinq étrangers. Une personne qui connaît votre maison comme vous.",
+      "category": "Food & Beverage",
+      "website": "https://hearthfolk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T13:50:08.353680+00:00"
+    },
+    {
+      "name": "CompanyEnrich — Agent",
+      "slug": "polsia-enrich",
+      "description": "Autonomous AI agents that compound your growth across four dimensions: personal, professional, operational, and financial. Not another automation tool. A growth engine.",
+      "description_fr": "Des agents d'IA autonomes qui optimisent votre croissance dans quatre dimensions : personnelle, professionnelle, opérationnelle et financière. Pas un autre outil d'automatisation. Un moteur de croissance.",
+      "category": "AI & Machine Learning",
+      "website": "https://enrich.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T13:50:10.240629+00:00"
+    },
+    {
+      "name": "ReadMarkOS — The Operating System Behind ReadMark",
+      "slug": "polsia-readmarkos",
+      "description": "ReadMark turns documents into calm, distraction-free reading. ReadMarkOS is the growth system running behind it: tracking competitors, finding customers, and shipping features while you focus on the product.",
+      "description_fr": "ReadMark transforme les documents en une lecture calme et sans distraction. ReadMarkOS est le système de croissance qui le sous-tend : suivi des concurrents, recherche de clients et expédition de fonctionnalités pendant que vous vous concentrez sur le produit.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://readmarkos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T13:50:11.558281+00:00"
+    },
+    {
+      "name": "CrewPilot — Your AI Back Office",
+      "slug": "polsia-crewpilot-89",
+      "description": "Service businesses keep the world running. Plumbers, electricians, HVAC techs, landscapers.\n            They deserve operations that work as hard as they do.\n            CrewPilot is the back office they never had.",
+      "description_fr": "Les entreprises de services font fonctionner le monde. Plombiers, électriciens, techniciens CVC, paysagistes.\n            Ils méritent des opérations qui travaillent aussi dur qu’eux.\n            CrewPilot est le back-office qu'ils n'ont jamais eu.",
+      "category": "AI & Machine Learning",
+      "website": "https://crewpilot-89.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T13:50:12.624542+00:00"
+    },
+    {
+      "name": "FanChart — Playlists Voted by Fans",
+      "slug": "polsia-fanchart",
+      "description": "Every artist community gets its own living chart. See what the Radiohead fanbase thinks is the best deep cut, or what Kendrick fans rank #1 right now.",
+      "description_fr": "Chaque communauté d’artistes possède sa propre charte vivante. Découvrez ce que les fans de Radiohead pensent être le meilleur montage profond, ou ce que les fans de Kendrick classent actuellement n°1.",
+      "category": "Marketing & Advertising",
+      "website": "https://fanchart.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T13:50:13.559490+00:00"
+    },
+    {
+      "name": "LumiStitch — Handcrafted Initial Purse Lights",
+      "slug": "polsia-lumistitch",
+      "description": "LumiStitch combines both. A personalized initial, handcrafted using the tricotin technique, with a tiny embedded LED that glows when your bag opens. It's functional art that clips right inside your purse.",
+      "description_fr": "LumiStitch combine les deux. Une initiale personnalisée, fabriquée à la main selon la technique du tricotin, avec une petite LED intégrée qui s'allume lorsque votre sac s'ouvre. C'est un art fonctionnel qui se clipse directement dans votre sac à main.",
+      "category": "Other",
+      "website": "https://lumistitch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T13:50:14.331919+00:00"
+    },
+    {
+      "name": "Vacaro",
+      "slug": "polsia-vacaro",
+      "description": "Property management software gives you more screens to check. Vacaro gives you time back. It reads messages, makes decisions, coordinates cleaners, adjusts prices, and writes reviews. You get a daily briefing on what happened while you were living your life.",
+      "description_fr": "Le logiciel de gestion immobilière vous offre plus d’écrans à vérifier. Vacaro vous redonne du temps. Il lit les messages, prend des décisions, coordonne les nettoyeurs, ajuste les prix et rédige des avis. Vous recevez un briefing quotidien sur ce qui s'est passé pendant que vous viviez votre vie.",
+      "category": "Software & SaaS",
+      "website": "https://vacaro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T13:50:15.908588+00:00"
+    },
+    {
+      "name": "Deskless",
+      "slug": "polsia-godeskless",
+      "description": "Deskless is the AI that answers every call, books every job, dispatches your crew, and sends every invoice. No receptionist. No office manager. No missed revenue.",
+      "description_fr": "Deskless est l'IA qui répond à chaque appel, réserve chaque travail, répartit votre équipe et envoie chaque facture. Pas de réceptionniste. Pas de chef de bureau. Aucun revenu manqué.",
+      "category": "AI & Machine Learning",
+      "website": "https://godeskless.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T13:50:17.093326+00:00"
     }
   ]
 }
