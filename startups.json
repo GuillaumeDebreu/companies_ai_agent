@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T22:07:14.401311+00:00",
+  "last_updated": "2026-04-10T22:55:51.699834+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -31384,10 +31384,13 @@
     {
       "name": "OneStopOS",
       "slug": "polsia-onestopos",
+      "description": "One Stop Company makes quality everyday products accessible without membership fees or gatekeeping. \n                OneStopOS makes running that business feel effortless.",
+      "description_fr": "One Stop Company rend accessibles des produits quotidiens de qualité sans frais d’adhésion ni contrôle d’accès. \n                OneStopOS permet de gérer cette entreprise sans effort.",
+      "category": "Other",
       "website": "https://onestopos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-10T22:06:59.825343+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-10T22:55:50.140607+00:00"
     },
     {
       "name": "Hestio",
@@ -31447,10 +31450,13 @@
     {
       "name": "Competitor Action Engine",
       "slug": "polsia-competitor-action-engine",
+      "description": "Know what your competitors changed before your customers do. Get weekly briefs with exactly what changed, why it matters, and what to do about it.",
+      "description_fr": "Sachez ce que vos concurrents ont changé avant vos clients. Recevez des briefings hebdomadaires expliquant exactement ce qui a changé, pourquoi c'est important et comment y remédier.",
+      "category": "Other",
       "website": "https://competitor-action-engine.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-10T22:07:06.615665+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-10T22:55:50.902050+00:00"
     },
     {
       "name": "GreenHaul",
@@ -31484,6 +31490,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-10T22:07:11.052668+00:00"
+    },
+    {
+      "name": "GoldReel",
+      "slug": "polsia-goldreel",
+      "website": "https://goldreel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T22:55:39.177174+00:00"
+    },
+    {
+      "name": "Hailcast",
+      "slug": "polsia-hailcast",
+      "website": "https://hailcast.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T22:55:39.543867+00:00"
+    },
+    {
+      "name": "LifeReady",
+      "slug": "polsia-lifeready",
+      "website": "https://lifeready.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T22:55:40.179163+00:00"
+    },
+    {
+      "name": "FirelightOS",
+      "slug": "polsia-firelightos",
+      "description": "Between writing gear reviews, filming YouTube episodes, managing the Amazon storefront, tracking affiliate commissions, keeping an eye on what GearJunkie published this week, and actually going camping, there's no time left to think strategically.",
+      "description_fr": "Entre rédiger des critiques de matériel, filmer des épisodes YouTube, gérer la vitrine Amazon, suivre les commissions des affiliés, garder un œil sur ce que GearJunkie a publié cette semaine et aller camper, il ne reste plus de temps pour réfléchir stratégiquement.",
+      "category": "E-Commerce & Retail",
+      "website": "https://firelightos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T22:55:41.815448+00:00"
+    },
+    {
+      "name": "PBWAOS — Operating System for Palm Beach Watch Alliance",
+      "slug": "polsia-pbwaos",
+      "description": "Every event is curated. Every member is vetted. Every conversation carries weight. This is not a social club with watches on the side. It is a serious network for people who collect with intention and connect with purpose.",
+      "description_fr": "Chaque événement est organisé. Chaque membre est contrôlé. Chaque conversation a du poids. Ce n’est pas un club social avec des montres à côté. Il s’agit d’un réseau sérieux pour les personnes qui collectionnent avec intention et se connectent avec détermination.",
+      "category": "Social & Community",
+      "website": "https://pbwaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T22:55:42.939625+00:00"
+    },
+    {
+      "name": "TimelessOS — The Operating System for Palm Beach Watch Alliance",
+      "slug": "polsia-timelessos-3",
+      "description": "There are watch groups. There are watch dealers. And then there is what happens when you gather the most obsessive, knowledgeable, and connected collectors under one roof in the most concentrated wealth corridor in America.",
+      "description_fr": "Il existe des groupes de surveillance. Il y a des marchands de montres. Et puis il y a ce qui se produit lorsque vous rassemblez les collectionneurs les plus obsessionnels, les plus compétents et les plus connectés sous un même toit dans le corridor de richesse le plus concentré d’Amérique.",
+      "category": "Social & Community",
+      "website": "https://timelessos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T22:55:44.375733+00:00"
+    },
+    {
+      "name": "ServiceLegendOS",
+      "slug": "polsia-servicelegendos",
+      "description": "ServiceLegendOS is the autonomous operating system built for a home service marketing agency. Client dashboards, campaign intelligence, and growth ops, all running 24/7.",
+      "description_fr": "ServiceLegendOS est le système d'exploitation autonome conçu pour une agence de marketing de services à domicile. Tableaux de bord clients, informations sur les campagnes et opérations de croissance, le tout fonctionnant 24h/24 et 7j/7.",
+      "category": "Marketing & Advertising",
+      "website": "https://servicelegendos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T22:55:45.497882+00:00"
+    },
+    {
+      "name": "Recurra",
+      "slug": "polsia-recurra",
+      "description": "Most service businesses lose 10-25% of their clients every year. Not because the service was bad, but because nobody followed up. Recurra fixes that by turning one-time visitors into lifelong regulars.",
+      "description_fr": "La plupart des entreprises de services perdent 10 à 25 % de leurs clients chaque année. Non pas parce que le service était mauvais, mais parce que personne n'a donné suite. Recurra résout ce problème en transformant les visiteurs ponctuels en habitués à vie.",
+      "category": "Other",
+      "website": "https://recurra.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T22:55:46.040988+00:00"
+    },
+    {
+      "name": "Peakhour",
+      "slug": "polsia-peakhour",
+      "description": "Every inquiry gets a response in under 60 seconds. Web form, email, or chat. Peakhour captures the lead, qualifies it, and starts the conversation before your competitor even sees the notification.",
+      "description_fr": "Chaque demande reçoit une réponse en moins de 60 secondes. Formulaire Web, e-mail ou chat. Peakhour capture le prospect, le qualifie et démarre la conversation avant même que votre concurrent ne voie la notification.",
+      "category": "Sales & CRM",
+      "website": "https://peakhour.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T22:55:46.954766+00:00"
+    },
+    {
+      "name": "Grounded — Stay present. Stay sober.",
+      "slug": "polsia-grounded",
+      "description": "Most sobriety apps want you to share your journey with strangers.Recovery is personal.Grounded keeps it that way. A private space with an AI coach that knows when to listen, when to intervene, and when to call for help.",
+      "description_fr": "La plupart des applications de sobriété souhaitent que vous partagiez votre voyage avec des inconnus. La récupération est personnelle. Grounded le maintient ainsi. Un espace privé avec un coach IA qui sait quand écouter, quand intervenir et quand appeler à l'aide.",
+      "category": "AI & Machine Learning",
+      "website": "https://grounded.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T22:55:47.492709+00:00"
     }
   ]
 }
