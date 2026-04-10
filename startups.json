@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T10:33:19.892350+00:00",
+  "last_updated": "2026-04-10T11:30:15.251367+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -30063,6 +30063,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-10T10:33:10.913155+00:00"
+    },
+    {
+      "name": "Fortivate",
+      "slug": "polsia-fortivate",
+      "website": "https://fortivate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T11:30:04.581412+00:00"
+    },
+    {
+      "name": "RigBid",
+      "slug": "polsia-rigbid",
+      "website": "https://rigbid.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T11:30:04.906343+00:00"
+    },
+    {
+      "name": "Clarasec",
+      "slug": "polsia-clarasec",
+      "description": "Monitors GDPR, CCPA, LGPD, DPDPA and 130+ privacy frameworks in real-time. When a regulation changes, you know before your competitors do. Automatic impact assessment tells you exactly what needs to change in your systems.",
+      "description_fr": "Surveille les RGPD, CCPA, LGPD, DPDPA et plus de 130 cadres de confidentialité en temps réel. Lorsqu’une réglementation change, vous le savez avant vos concurrents. L'évaluation d'impact automatique vous indique exactement ce qui doit changer dans vos systèmes.",
+      "category": "Other",
+      "website": "https://clarasec.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T11:30:05.905188+00:00"
+    },
+    {
+      "name": "New Bern AI — AI Consulting for Eastern North Carolina",
+      "slug": "polsia-newbernaios",
+      "description": "Every restaurant, real estate office, medical practice, and retail shop in Eastern North Carolina will adopt AI tools in the next three years. The business that helps them do it becomes essential infrastructure. That business is New Bern AI.",
+      "description_fr": "Tous les restaurants, agences immobilières, cabinets médicaux et magasins de détail de l’est de la Caroline du Nord adopteront des outils d’IA au cours des trois prochaines années. L’entreprise qui les aide à y parvenir devient une infrastructure essentielle. Cette entreprise est New Bern AI.",
+      "category": "AI & Machine Learning",
+      "website": "https://newbernaios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T11:30:06.754517+00:00"
+    },
+    {
+      "name": "SentioGrid",
+      "slug": "polsia-sentiogrid",
+      "description": "SentioGrid is the AI operations engineer for your IoT fleet. It watches every sensor, predicts failures before they happen, and acts autonomously so you don't have to.",
+      "description_fr": "SentioGrid est l'ingénieur opérationnel IA pour votre flotte IoT. Il surveille chaque capteur, prédit les pannes avant qu'elles ne surviennent et agit de manière autonome pour que vous n'ayez pas à le faire.",
+      "category": "AI & Machine Learning",
+      "website": "https://sentiogrid.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T11:30:07.405613+00:00"
+    },
+    {
+      "name": "PipeVolt",
+      "slug": "polsia-pipevolt-sales",
+      "description": "PipeVolt exists because small businesses shouldn't lose deals just because they can't afford a sales team. Your product is great. Now let AI make sure people hear about it.",
+      "description_fr": "PipeVolt existe parce que les petites entreprises ne devraient pas perdre des contrats simplement parce qu'elles n'ont pas les moyens d'embaucher une équipe de vente. Votre produit est génial. Maintenant, laissez l’IA s’assurer que les gens en entendent parler.",
+      "category": "AI & Machine Learning",
+      "website": "https://pipevolt-sales.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T11:30:08.762619+00:00"
+    },
+    {
+      "name": "Sliver — 0.77% of every transaction",
+      "slug": "polsia-sliver",
+      "description": "Sliver is building transaction infrastructure where the fee disappears into the rounding error. Volume is the moat. Trust is the product.",
+      "description_fr": "Sliver construit une infrastructure de transaction où les frais disparaissent dans l'erreur d'arrondi. Le volume est le fossé. La confiance est le produit.",
+      "category": "Other",
+      "website": "https://sliver.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T11:30:10.255326+00:00"
+    },
+    {
+      "name": "TwinDragonOS",
+      "slug": "polsia-twindraganos",
+      "description": "TwinDragonOS is the command center for Twin Dragon Aviation. Fleet status, bookings, financials, compliance, and customer pipeline, all in one place. Built for operators who refuse to run a modern aircraft fleet on spreadsheets.",
+      "description_fr": "TwinDragonOS est le centre de commandement de Twin Dragon Aviation. Statut de la flotte, réservations, données financières, conformité et pipeline de clients, le tout au même endroit. Conçu pour les opérateurs qui refusent de gérer une flotte d'avions modernes sur des feuilles de calcul.",
+      "category": "AI & Machine Learning",
+      "website": "https://twindraganos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T11:30:11.287370+00:00"
+    },
+    {
+      "name": "Sortium",
+      "slug": "polsia-sortium",
+      "description": "NLP models analyze thousands of startups, parsing what each company actually does, not how they categorize themselves. Entity recognition, relationship extraction, signal detection.",
+      "description_fr": "Les modèles PNL analysent des milliers de startups, analysant ce que chaque entreprise fait réellement, et non la façon dont elle se catégorise. Reconnaissance d'entités, extraction de relations, détection de signaux.",
+      "category": "Sustainability & Green",
+      "website": "https://sortium.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T11:30:11.881723+00:00"
+    },
+    {
+      "name": "PurposeFound",
+      "slug": "polsia-purposefound",
+      "description": "Daily motivational support for recovering addicts, those healing from heartbreak, and parents fighting to find purpose after losing custody. Not therapy. Not tracking. Just the reason to keep going, delivered every single day.",
+      "description_fr": "Soutien de motivation quotidien pour les toxicomanes en convalescence, ceux qui se remettent d'un chagrin d'amour et les parents qui luttent pour trouver un but après avoir perdu la garde. Pas une thérapie. Pas de suivi. Juste la raison de continuer, livrée chaque jour.",
+      "category": "Health & Wellness",
+      "website": "https://purposefound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T11:30:12.949552+00:00"
     }
   ]
 }
