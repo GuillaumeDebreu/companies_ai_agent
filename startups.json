@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:20:56.833340+00:00",
+  "last_updated": "2026-04-10T06:13:32.398834+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -29527,12 +29527,15 @@
       "scraped_at": "2026-04-10T04:20:56.601170+00:00"
     },
     {
-      "name": "Numble",
+      "name": "Numble — Your AI Bookkeeper",
       "slug": "polsia-numble",
+      "description": "Numble is an AI bookkeeper that categorizes transactions, tracks expenses, and generates financial reports autonomously. No spreadsheets. No accountant. Just connect your bank and walk away.",
+      "description_fr": "Numble est un comptable IA qui catégorise les transactions, suit les dépenses et génère des rapports financiers de manière autonome. Pas de feuilles de calcul. Pas de comptable. Connectez simplement votre banque et partez.",
+      "category": "AI & Machine Learning",
       "website": "https://numble.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-10T04:20:40.057180+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-10T06:13:32.197890+00:00"
     },
     {
       "name": "Reachwell",
@@ -29629,6 +29632,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-10T04:20:52.143390+00:00"
+    },
+    {
+      "name": "Threadly",
+      "slug": "polsia-threadly-2",
+      "website": "https://threadly-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T06:13:19.312659+00:00"
+    },
+    {
+      "name": "Closette",
+      "slug": "polsia-closette",
+      "description": "Big retailers throw 50,000 SKUs at you and call it \"selection.\" We think that's lazy. Real curation means saying no to 99% of what's out there so you only see the 1% that actually matters.",
+      "description_fr": "Les grands détaillants vous lancent 50 000 SKU et appellent cela « sélection ». Nous pensons que c'est paresseux. La vraie curation signifie dire non à 99 % de ce qui existe afin que vous ne voyiez que le 1 % qui compte réellement.",
+      "category": "E-Commerce & Retail",
+      "website": "https://closette.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T06:13:20.589468+00:00"
+    },
+    {
+      "name": "AgentLedger — The P&L for Every AI Agent",
+      "slug": "polsia-agentledger",
+      "description": "Every business has a P&L. Every department has a budget. Every employee has a cost center. But AI agents, the fastest-growing workforce on the planet, have nothing. AgentLedger is the financial infrastructure the agent economy has been waiting for.",
+      "description_fr": "Chaque entreprise a un P&L. Chaque département a un budget. Chaque employé a un centre de coûts. Mais les agents d’IA, la main-d’œuvre qui connaît la croissance la plus rapide de la planète, n’ont rien. AgentLedger est l’infrastructure financière que l’économie des agents attendait.",
+      "category": "AI & Machine Learning",
+      "website": "https://agentledger.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T06:13:21.388234+00:00"
+    },
+    {
+      "name": "CreatorDeck",
+      "slug": "polsia-creatordeck",
+      "website": "https://creatordeck.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T06:13:21.589427+00:00"
+    },
+    {
+      "name": "HorizonOS",
+      "slug": "polsia-horizonos-6",
+      "description": "HorizonOS is the operations layer for vacation rental managers who refuse to drown in spreadsheets, tabs, and manual pricing. Every property, every booking, every owner report. Unified.",
+      "description_fr": "HorizonOS est la couche opérationnelle destinée aux gestionnaires de locations saisonnières qui refusent de se noyer dans les feuilles de calcul, les onglets et la tarification manuelle. Chaque propriété, chaque réservation, chaque rapport de propriétaire. Unifié.",
+      "category": "Travel & Hospitality",
+      "website": "https://horizonos-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T06:13:23.046548+00:00"
+    },
+    {
+      "name": "VaultSoundOS",
+      "slug": "polsia-vaultsoundos",
+      "description": "The old model: upload everywhere, hope the algorithm notices, collect $0.003 per stream. The Vault model: fans come directly to you, pay for access, and you keep everything.",
+      "description_fr": "L'ancien modèle : téléchargez partout, en espérant que l'algorithme le remarque, collectez 0,003 $ par flux. Le modèle Vault : les fans viennent directement chez vous, paient l'accès et vous gardez tout.",
+      "category": "Marketing & Advertising",
+      "website": "https://vaultsoundos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T06:13:24.501356+00:00"
+    },
+    {
+      "name": "SageGrove — Spiritual School & Healing Center",
+      "slug": "polsia-sagegrove",
+      "description": "There's a reason healers and seekers have gathered along the Front Range for generations. The mountains ground you. The sky opens you. SageGrove brings that energy indoors, creating a space where the land and the work become one.",
+      "description_fr": "Il y a une raison pour laquelle les guérisseurs et les chercheurs se rassemblent le long du Front Range depuis des générations. Les montagnes vous ancrent. Le ciel vous ouvre. SageGrove apporte cette énergie à l'intérieur, créant un espace où la terre et le travail ne font plus qu'un.",
+      "category": "Sustainability & Green",
+      "website": "https://sagegrove.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T06:13:25.389210+00:00"
+    },
+    {
+      "name": "KinReveal",
+      "slug": "polsia-kinreveal",
+      "description": "Every child deserves to know where they come from. Every parent deserves to know their child exists. KinReveal is building the bridge between biological truth and human connection.",
+      "description_fr": "Chaque enfant mérite de savoir d'où il vient. Chaque parent mérite de savoir que son enfant existe. KinReveal construit le pont entre la vérité biologique et la connexion humaine.",
+      "category": "Real Estate",
+      "website": "https://kinreveal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T06:13:26.466520+00:00"
+    },
+    {
+      "name": "GeckOS",
+      "slug": "polsia-geckos",
+      "description": "GeckOS handles the operations so you can focus on what actually grows the business: delivering thorough inspections and building trust with agents who send you work.",
+      "description_fr": "GeckOS gère les opérations afin que vous puissiez vous concentrer sur ce qui fait réellement croître l'entreprise : effectuer des inspections approfondies et établir la confiance avec les agents qui vous envoient du travail.",
+      "category": "Other",
+      "website": "https://geckos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T06:13:28.025877+00:00"
+    },
+    {
+      "name": "HireSignal — Your AI Recruiter",
+      "slug": "polsia-hiresignal-25",
+      "description": "HireSignal is an autonomous AI recruiting agent that sources candidates, writes personalized outreach, screens responses, and books interviews on your calendar. It works 24/7 for a fraction of the cost.",
+      "description_fr": "HireSignal est un agent de recrutement autonome par IA qui recherche des candidats, rédige des communications personnalisées, filtre les réponses et réserve des entretiens sur votre calendrier. Cela fonctionne 24h/24 et 7j/7 pour une fraction du coût.",
+      "category": "AI & Machine Learning",
+      "website": "https://hiresignal-25.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T06:13:29.436152+00:00"
     }
   ]
 }
