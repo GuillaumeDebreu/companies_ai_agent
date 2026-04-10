@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T20:53:28.515133+00:00",
+  "last_updated": "2026-04-10T21:35:17.536529+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -31164,10 +31164,13 @@
     {
       "name": "HerdForge",
       "slug": "polsia-herdforge",
+      "description": "HerdForge is an AI operations agent for ranches. It monitors your herd, manages pasture rotation, tracks weather, and handles daily logistics autonomously. No more spreadsheets. No more guesswork.",
+      "description_fr": "HerdForge est un agent opérationnel d'IA pour les ranchs. Il surveille votre troupeau, gère la rotation des pâturages, suit la météo et gère de manière autonome la logistique quotidienne. Fini les feuilles de calcul. Plus de conjectures.",
+      "category": "AI & Machine Learning",
       "website": "https://herdforge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-10T20:53:17.521175+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-10T21:35:16.663203+00:00"
     },
     {
       "name": "GoldenEarthOS",
@@ -31181,12 +31184,15 @@
       "scraped_at": "2026-04-10T20:53:28.474788+00:00"
     },
     {
-      "name": "Marketmind",
+      "name": "MarketMind",
       "slug": "polsia-marketmind-ai",
+      "description": "MarketMind is an AI marketing agent that creates content, manages your social media, responds to reviews, and runs campaigns. Autonomously. 24 hours a day.",
+      "description_fr": "MarketMind est un agent marketing IA qui crée du contenu, gère vos réseaux sociaux, répond aux avis et mène des campagnes. De manière autonome. 24 heures sur 24.",
+      "category": "Marketing & Advertising",
       "website": "https://marketmind-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-10T20:53:17.922444+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-10T21:35:17.534904+00:00"
     },
     {
       "name": "Dealux — Gagnez quand vos partenaires gagnent",
@@ -31264,6 +31270,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-10T20:53:25.534098+00:00"
+    },
+    {
+      "name": "TideLot — AI Real Estate Intelligence for Hawaii",
+      "slug": "polsia-tidelot",
+      "description": "The tools available are built for the mainland. They don't understand military PCS cycles, vacation rental regulation shifts, or how a listing in Kailua competes differently than one in Kapolei. You're doing the analysis yourself, and you're leaving deals on the table.",
+      "description_fr": "Les outils disponibles sont conçus pour le continent. Ils ne comprennent pas les cycles PCS militaires, les changements dans la réglementation des locations de vacances ou la manière dont une annonce à Kailua est en concurrence différemment à celle de Kapolei. Vous faites l'analyse vous-même et vous laissez des accords sur la table.",
+      "category": "AI & Machine Learning",
+      "website": "https://tidelot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T21:35:01.923558+00:00"
+    },
+    {
+      "name": "Patterna — Discover emerging markets before they have names",
+      "slug": "polsia-patterna",
+      "description": "Every startup database categorizes companies usingpredefined industry tags. But the most interesting markets are the ones that don't have names yet. By the time CB Insights publishes a market map, the opportunity window has narrowed.",
+      "description_fr": "Chaque base de données de startup catégorise les entreprises à l'aide de balises sectorielles prédéfinies. Mais les marchés les plus intéressants sont ceux qui n’ont pas encore de nom. Au moment où CB Insights publie une carte du marché, la fenêtre d’opportunité s’est rétrécie.",
+      "category": "Other",
+      "website": "https://patterna.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T21:35:02.935562+00:00"
+    },
+    {
+      "name": "Weftline — AI Runs Your Fashion Studio",
+      "slug": "polsia-weftline",
+      "description": "You trained for years to master draping, pattern-making, and garment construction. Instead, you spend your days chasing manufacturers, updating spreadsheets, writing marketing copy, and managing order fulfillment. The creative work that defines your brand gets squeezed into whatever hours are left.",
+      "description_fr": "Vous vous êtes entraîné pendant des années pour maîtriser le drapage, la création de patrons et la construction de vêtements. Au lieu de cela, vous passez vos journées à courir après les fabricants, à mettre à jour des feuilles de calcul, à rédiger des textes marketing et à gérer l'exécution des commandes. Le travail créatif qui définit votre marque est concentré dans les heures restantes.",
+      "category": "AI & Machine Learning",
+      "website": "https://weftline.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T21:35:03.509349+00:00"
+    },
+    {
+      "name": "Money Bought Happiness",
+      "slug": "polsia-money-bought-happiness",
+      "description": "Not NYC. Not LA. Indianapolis. Where the hustle is quieter but the hunger is just as real. MBH was built in a city that doesn't get credit for its culture. That changes now.",
+      "description_fr": "Pas New York. Pas Los Angeles. Indianapolis. Où l’agitation est plus calme mais la faim est tout aussi réelle. MBH a été construit dans une ville qui n'est pas reconnue pour sa culture. Cela change maintenant.",
+      "category": "Other",
+      "website": "https://money-bought-happiness.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T21:35:05.084533+00:00"
+    },
+    {
+      "name": "SteddyOS",
+      "slug": "polsia-steddyos",
+      "description": "Most wellness brands add more. More caffeine. More adaptogens. More ingredients you can't pronounce. SteddyTeas takes the opposite approach. Less noise. More ground beneath your feet.",
+      "description_fr": "La plupart des marques de bien-être en ajoutent davantage. Plus de caféine. Plus d'adaptogènes. Plus d'ingrédients que vous ne pouvez pas prononcer. SteddyTeas adopte l'approche inverse. Moins de bruit. Plus de terrain sous vos pieds.",
+      "category": "Marketing & Advertising",
+      "website": "https://steddyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T21:35:05.907005+00:00"
+    },
+    {
+      "name": "PlayNest — Every Child Deserves a Perfect Play Pal",
+      "slug": "polsia-playnest",
+      "description": "Forget random recommendations. PlayNest uses a detailed questionnaire about your child's temperament, play preferences, energy level, and social comfort to find genuinely compatible matches. Think Match.com, but for kids finding friends.",
+      "description_fr": "Oubliez les recommandations aléatoires. PlayNest utilise un questionnaire détaillé sur le tempérament de votre enfant, ses préférences de jeu, son niveau d'énergie et son confort social pour trouver des correspondances véritablement compatibles. Pensez à Match.com, mais pour les enfants qui trouvent des amis.",
+      "category": "Sustainability & Green",
+      "website": "https://playnest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T21:35:06.842390+00:00"
+    },
+    {
+      "name": "ArcAlpha",
+      "slug": "polsia-arcalpha",
+      "description": "Single-market funds leave alpha on the table. When crypto sleeps, Paris opens. When New York closes, Bitcoin keeps running. ArcAlpha stays in the flow, rotating capital where momentum lives, not where habit keeps it.",
+      "description_fr": "Les fonds du marché unique laissent l’alpha sur la table. Quand la crypto dort, Paris s’ouvre. Lorsque New York ferme, Bitcoin continue de fonctionner. ArcAlpha reste dans le flux, faisant tourner le capital là où réside l'élan, et non là où l'habitude le maintient.",
+      "category": "Software & SaaS",
+      "website": "https://arcalpha.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T21:35:07.954976+00:00"
+    },
+    {
+      "name": "GlowReset",
+      "slug": "polsia-glowreset",
+      "description": "Fill your clinic's partnership calendar without lifting a finger. AI-powered outreach that speaks the language of longevity medicine. 10+ qualified partnership meetings per month.",
+      "description_fr": "Remplissez le calendrier des partenariats de votre clinique sans lever le petit doigt. Une sensibilisation basée sur l'IA qui parle le langage de la médecine de la longévité. 10+ rendez-vous de partenariat qualifiés par mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://glowreset.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T21:35:09.075176+00:00"
+    },
+    {
+      "name": "Dealwell",
+      "slug": "polsia-dealwell",
+      "description": "Dealwell is an AI agent that finds your ideal customers, writes personalized outreach, follows up relentlessly, and books meetings on your calendar. You close. It does everything else.",
+      "description_fr": "Dealwell est un agent IA qui trouve vos clients idéaux, rédige des communications personnalisées, assure un suivi sans relâche et planifie des réunions sur votre calendrier. Vous fermez. Il fait tout le reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://dealwell.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T21:35:10.671013+00:00"
+    },
+    {
+      "name": "Porchlight",
+      "slug": "polsia-porchlight-17",
+      "description": "While you close up shop, Porchlight keeps working. Booking tomorrow's appointments. Following up with last month's clients. Building the business you always wanted, one conversation at a time.",
+      "description_fr": "Pendant que vous fermez boutique, Porchlight continue de fonctionner. Prise de rendez-vous de demain. Suivi des clients du mois dernier. Bâtissez l’entreprise dont vous avez toujours rêvé, une conversation à la fois.",
+      "category": "E-Commerce & Retail",
+      "website": "https://porchlight-17.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T21:35:11.456653+00:00"
     }
   ]
 }
