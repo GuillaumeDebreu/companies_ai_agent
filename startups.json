@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T23:50:26.195725+00:00",
+  "last_updated": "2026-04-10T01:18:12.460279+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -29309,10 +29309,13 @@
     {
       "name": "Grand Theft Info",
       "slug": "polsia-grand-theft-info",
+      "description": "Your employees sit through annual compliance slides. They pass the quiz. They forget everything by lunch. Then someone clicks a phishing link and your entire network is compromised.The cybersecurity skills gap is 3.4 million people wide. The old way of training isn't closing it. The old way never will.",
+      "description_fr": "Vos employés passent par des diapositives de conformité annuelles. Ils réussissent le quiz. Ils oublient tout au déjeuner. Ensuite, quelqu’un clique sur un lien de phishing et l’ensemble de votre réseau est compromis. Le manque de compétences en matière de cybersécurité touche 3,4 millions de personnes. L'ancienne façon de s'entraîner ne le ferme pas. L’ancienne méthode ne le sera jamais.",
+      "category": "Education",
       "website": "https://grand-theft-info.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-09T23:50:08.591109+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-10T01:18:12.123197+00:00"
     },
     {
       "name": "Fixpoint",
@@ -29412,6 +29415,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-09T23:50:20.957592+00:00"
+    },
+    {
+      "name": "Delvox",
+      "slug": "polsia-delvox",
+      "website": "https://delvox.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T01:17:55.830745+00:00"
+    },
+    {
+      "name": "DivotIQ",
+      "slug": "polsia-divotiq",
+      "description": "DivotIQ is an AI employee that runs your course's entire marketing operation. Social posts, email campaigns, review responses, weather-based promotions. All on autopilot.",
+      "description_fr": "DivotIQ est un employé d'IA qui gère l'ensemble des opérations marketing de votre cours. Publications sur les réseaux sociaux, campagnes par e-mail, réponses aux avis, promotions basées sur la météo. Le tout en pilote automatique.",
+      "category": "AI & Machine Learning",
+      "website": "https://divotiq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T01:17:57.240788+00:00"
+    },
+    {
+      "name": "SignForgeOS",
+      "slug": "polsia-signforgeos",
+      "description": "Between design approvals, CNC queues, metal fab schedules, and install crews, most sign shops track jobs in spreadsheets, whiteboards, and memory. SignForgeOS replaces all of that with a single system built for how sign shops actually work.",
+      "description_fr": "Entre les approbations de conception, les files d'attente CNC, les calendriers de fabrication de métaux et les équipes d'installation, la plupart des ateliers d'enseignes suivent les travaux dans des feuilles de calcul, des tableaux blancs et dans la mémoire. SignForgeOS remplace tout cela par un système unique conçu pour le fonctionnement réel des enseignes.",
+      "category": "E-Commerce & Retail",
+      "website": "https://signforgeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T01:17:58.657489+00:00"
+    },
+    {
+      "name": "MicroTrace — Per",
+      "slug": "polsia-microtrace",
+      "description": "MicroTrace turns data validation from a cost center into a value chain. Every verified digit has a price. Every hash is proof of work. Every settlement is programmable. This is infrastructure for the next era of enterprise data operations.",
+      "description_fr": "MicroTrace transforme la validation des données d'un centre de coûts en une chaîne de valeur. Chaque chiffre vérifié a un prix. Chaque hachage est une preuve de travail. Chaque règlement est programmable. Il s’agit d’une infrastructure pour la prochaine ère des opérations de données d’entreprise.",
+      "category": "Other",
+      "website": "https://microtrace.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T01:17:59.656074+00:00"
+    },
+    {
+      "name": "Fuse — Stop Swiping. Start Sparking.",
+      "slug": "polsia-fuse",
+      "description": "Fuse orchestrates your night through progressive rounds: large group games narrow to smaller groups, then pairs. Tap phones to connect. The app reveals shared traits and conversation prompts. Then comes the Spark: a surprise countdown captures a candid photo of you together.",
+      "description_fr": "Fuse orchestre votre soirée à travers des rondes progressives : des jeux en grand groupe se réduisent aux petits groupes, puis aux paires. Appuyez sur les téléphones pour vous connecter. L'application révèle des traits partagés et des invites de conversation. Vient ensuite le Spark : un compte à rebours surprise capture une photo franche de vous ensemble.",
+      "category": "Social & Community",
+      "website": "https://fuse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T01:18:01.151567+00:00"
+    },
+    {
+      "name": "MoneyCheckupOS",
+      "slug": "polsia-moneycheckupai",
+      "description": "MoneyCheckupOS is the operating system that turns a simple quiz into a lead generation engine, and turns leads into clients who trust you with their finances.",
+      "description_fr": "MoneyCheckupOS est le système d'exploitation qui transforme un simple quiz en un moteur de génération de leads et transforme les leads en clients qui vous font confiance pour leurs finances.",
+      "category": "Marketing & Advertising",
+      "website": "https://moneycheckupai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T01:18:02.593675+00:00"
+    },
+    {
+      "name": "Hivesync — Your Community Never Sleeps",
+      "slug": "polsia-hivesync",
+      "description": "Hivesync is an AI agent that monitors, engages, and grows your online community 24/7. It handles the work that burns out community managers, so your members always feel heard.",
+      "description_fr": "Hivesync est un agent d'IA qui surveille, engage et développe votre communauté en ligne 24h/24 et 7j/7. Il gère le travail qui épuise les gestionnaires de communauté, afin que vos membres se sentent toujours entendus.",
+      "category": "AI & Machine Learning",
+      "website": "https://hivesync.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T01:18:03.337122+00:00"
+    },
+    {
+      "name": "FormPulse",
+      "slug": "polsia-formpulse",
+      "description": "Track your food intake with healthy alternatives to your favorite fast food. Not a guilt machine. A practical guide to eating better without giving up what you love.",
+      "description_fr": "Suivez votre consommation alimentaire avec des alternatives saines à votre restauration rapide préférée. Pas une machine à culpabiliser. Un guide pratique pour mieux manger sans renoncer à ce que l’on aime.",
+      "category": "Health & Wellness",
+      "website": "https://formpulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T01:18:04.918888+00:00"
+    },
+    {
+      "name": "Pamela Orock Academy — Learn to Create, Publish, and Build",
+      "slug": "polsia-pamela-orock-academy",
+      "description": "Pamela heard a still, small voice telling her to create her own skincare formula. \n                    She did. Then she built a product line, a publishing house, a ministry, and a career \n                    in professional beauty, all from scratch.",
+      "description_fr": "Pamela entendit une petite voix douce lui disant de créer sa propre formule de soin pour la peau. \n                    Elle l’a fait. Puis elle a construit une gamme de produits, une maison d'édition, un ministère et une carrière \n                    en beauté professionnelle, tout à partir de zéro.",
+      "category": "Other",
+      "website": "https://pamela-orock-academy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T01:18:06.536661+00:00"
+    },
+    {
+      "name": "OooCookieOS",
+      "slug": "polsia-ooocookieos",
+      "website": "https://ooocookieos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T01:18:07.336455+00:00"
     }
   ]
 }
