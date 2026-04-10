@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T13:50:23.796988+00:00",
+  "last_updated": "2026-04-10T14:41:55.668610+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -30287,10 +30287,13 @@
     {
       "name": "Roost",
       "slug": "polsia-roost-35",
+      "description": "Upload a settlement statement and Roost breaks it down. Earnings per pound, per house, per flock. It flags anomalies, tracks trends, and shows you exactly where you stand vs. the tournament average.",
+      "description_fr": "Téléchargez un relevé de règlement et Roost le décompose. Gains par livre, par maison, par troupeau. Il signale les anomalies, suit les tendances et vous montre exactement où vous en êtes par rapport à la moyenne du tournoi.",
+      "category": "Marketing & Advertising",
       "website": "https://roost-35.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-10T13:50:05.584093+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-10T14:41:54.765384+00:00"
     },
     {
       "name": "CreditRise",
@@ -30390,6 +30393,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-10T13:50:17.093326+00:00"
+    },
+    {
+      "name": "ChampLibre",
+      "slug": "polsia-champlibre",
+      "website": "https://champlibre.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T14:41:40.335753+00:00"
+    },
+    {
+      "name": "RackFlow — Your AI Resale Employee",
+      "slug": "polsia-rackflow",
+      "description": "RackFlow is the AI employee that creates listings, sets prices, manages buyers, and cross-posts across every marketplace. You source the inventory. It runs everything else.",
+      "description_fr": "RackFlow est l'employé de l'IA qui crée des annonces, fixe les prix, gère les acheteurs et publie des publications croisées sur tous les marchés. Vous recherchez l'inventaire. Il gère tout le reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://rackflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T14:41:41.305785+00:00"
+    },
+    {
+      "name": "Patchline",
+      "slug": "polsia-patchline-ai",
+      "description": "Patchline is an AI receptionist that answers calls, books appointments, and follows up on every lead for your business. 24 hours a day, 7 days a week.",
+      "description_fr": "Patchline est une réceptionniste IA qui répond aux appels, prend des rendez-vous et assure le suivi de chaque piste de votre entreprise. 24 heures sur 24, 7 jours sur 7.",
+      "category": "AI & Machine Learning",
+      "website": "https://patchline-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T14:41:55.666648+00:00"
+    },
+    {
+      "name": "SparkOpsOS — The Operating System for Fractional CMOs",
+      "slug": "polsia-sparkopsos",
+      "description": "Every engagement teaches you something. SparkOpsOS captures those patterns, automates the repetitive work, and keeps every client relationship moving forward, even when you're deep in a positioning session for someone else.",
+      "description_fr": "Chaque engagement vous apprend quelque chose. SparkOpsOS capture ces modèles, automatise le travail répétitif et fait avancer chaque relation client, même lorsque vous êtes plongé dans une session de positionnement pour quelqu'un d'autre.",
+      "category": "Other",
+      "website": "https://sparkopsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T14:41:42.846854+00:00"
+    },
+    {
+      "name": "ResearchLambdaOS — The Founder's Operating System",
+      "slug": "polsia-researchlambdaos",
+      "description": "Research Lambda applies the same techniques used to map influence in social networks to the structure of scientific knowledge. AI agents that don't just retrieve papers, but trace the hidden connections between ideas, people, and funding that shape what gets discovered next.",
+      "description_fr": "Research Lambda applique les mêmes techniques que celles utilisées pour cartographier l'influence dans les réseaux sociaux à la structure des connaissances scientifiques. Des agents d'IA qui ne se contentent pas de récupérer des documents, mais retracent les liens cachés entre les idées, les personnes et les financements qui façonnent ce qui sera découvert ensuite.",
+      "category": "AI & Machine Learning",
+      "website": "https://researchlambdaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T14:41:44.322416+00:00"
+    },
+    {
+      "name": "DNAye — Your Campaign, Designed Around You",
+      "slug": "polsia-dnaye",
+      "description": "But finding a DM who can deliver that, consistently, session after session? That's the hard part. Marketplaces give you a name and a timeslot. DNAye gives you a journey designed from the ground up around the experience you actually want.",
+      "description_fr": "Mais trouver un DM capable de fournir cela, de manière cohérente, session après session ? C'est la partie la plus difficile. Les places de marché vous donnent un nom et un créneau horaire. DNAye vous propose un voyage conçu dès le départ autour de l’expérience que vous souhaitez réellement.",
+      "category": "E-Commerce & Retail",
+      "website": "https://dnaye.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T14:41:45.912962+00:00"
+    },
+    {
+      "name": "Pacerun",
+      "slug": "polsia-pacerun",
+      "description": "Pacerun is an AI agent that handles outreach, follow-ups, pipeline tracking, and daily operations. You focus on the work. It runs everything else.",
+      "description_fr": "Pacerun est un agent IA qui gère la sensibilisation, les suivis, le suivi du pipeline et les opérations quotidiennes. Vous vous concentrez sur le travail. Il gère tout le reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://pacerun.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T14:41:47.384006+00:00"
+    },
+    {
+      "name": "Coldcraft — Your AI Sales Rep That Never Clocks Out",
+      "slug": "polsia-coldcraft-30",
+      "description": "Coldcraft is an AI sales agent that researches prospects, writes personalized outreach, handles responses, and books meetings on your calendar. It works while you sleep.",
+      "description_fr": "Coldcraft est un agent commercial IA qui recherche des prospects, rédige des communications personnalisées, gère les réponses et réserve des réunions sur votre calendrier. Cela fonctionne pendant que vous dormez.",
+      "category": "Sales & CRM",
+      "website": "https://coldcraft-30.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T14:41:48.474896+00:00"
+    },
+    {
+      "name": "Kuleads",
+      "slug": "polsia-kuleads",
+      "description": "Kuleads is an AI sales agent that finds your ideal customers, writes personalized outreach, handles follow-ups, and books meetings. Autonomously. Every day.",
+      "description_fr": "Kuleads est un agent commercial IA qui trouve vos clients idéaux, rédige des communications personnalisées, gère les suivis et organise des réunions. De manière autonome. Tous les jours.",
+      "category": "Sales & CRM",
+      "website": "https://kuleads.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T14:41:49.617446+00:00"
+    },
+    {
+      "name": "GeneDriftOS",
+      "slug": "polsia-genedriftos",
+      "description": "GeneDriftOS brings regulatory strategy, pharmacovigilance case flow, and multi-market compliance into a single command layer. Built for consultancies that move drugs from development to market across continents.",
+      "description_fr": "GeneDriftOS regroupe la stratégie réglementaire, le flux des dossiers de pharmacovigilance et la conformité multi-marchés dans une seule couche de commande. Conçu pour les cabinets de conseil qui font passer les médicaments du développement au marché sur tous les continents.",
+      "category": "Other",
+      "website": "https://genedriftos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T14:41:50.590728+00:00"
     }
   ]
 }
