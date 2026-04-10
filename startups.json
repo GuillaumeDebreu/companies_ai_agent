@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T14:41:55.668610+00:00",
+  "last_updated": "2026-04-10T15:37:02.621104+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -30395,12 +30395,15 @@
       "scraped_at": "2026-04-10T13:50:17.093326+00:00"
     },
     {
-      "name": "ChampLibre",
+      "name": "ChampLibre — Vos attestations agricoles, enfin sous contrôle",
       "slug": "polsia-champlibre",
+      "description": "ChampLibre existe pour que vous passiez votre temps dans vos champs, pas dans vos dossiers. La conformité administrative ne devrait jamais être un frein à votre métier.",
+      "description_fr": "ChampLibre existe pour que vous passiez votre temps dans vos champs, pas dans vos dossiers. La conformité administrative ne devrait jamais être un frein à votre métier.",
+      "category": "Other",
       "website": "https://champlibre.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-10T14:41:40.335753+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-10T15:37:02.408038+00:00"
     },
     {
       "name": "RackFlow — Your AI Resale Employee",
@@ -30500,6 +30503,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-10T14:41:50.590728+00:00"
+    },
+    {
+      "name": "Accuvo",
+      "slug": "polsia-accuvo",
+      "website": "https://accuvo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T15:36:48.836524+00:00"
+    },
+    {
+      "name": "BizCompass — Find the Home Business That Fits Your Life",
+      "slug": "polsia-bizcompass",
+      "description": "BizCompass interviews you about your skills, time, budget, and goals, then matches you with home-based businesses that actually fit your life. Complete with real costs, time commitments, and income projections.",
+      "description_fr": "BizCompass vous interroge sur vos compétences, votre temps, votre budget et vos objectifs, puis vous met en contact avec des entreprises à domicile qui correspondent réellement à votre vie. Complet avec les coûts réels, les engagements de temps et les projections de revenus.",
+      "category": "Other",
+      "website": "https://bizcompass.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T15:36:49.770391+00:00"
+    },
+    {
+      "name": "Fluxa — Your Entire Marketing Team. One AI.",
+      "slug": "polsia-fluxa",
+      "description": "Fluxa doesn't wait for briefs. It monitors your industry, identifies opportunities, creates campaigns, and launches them across every channel. You wake up to results, not to-do lists.",
+      "description_fr": "Fluxa n'attend pas les briefs. Il surveille votre secteur, identifie les opportunités, crée des campagnes et les lance sur tous les canaux. Vous vous réveillez avec des résultats, pas des listes de tâches.",
+      "category": "Marketing & Advertising",
+      "website": "https://fluxa.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T15:36:50.784975+00:00"
+    },
+    {
+      "name": "VibeLint",
+      "slug": "polsia-vibelint",
+      "description": "VibeLint doesn't write for you. It catches what you'd cringe at tomorrow morning. Think of it as a gut-check from a friend who actually tells the truth.",
+      "description_fr": "VibeLint n'écrit pas pour vous. Cela reflète ce qui vous ferait grincer des dents demain matin. Considérez-le comme une vérification instinctive d'un ami qui dit réellement la vérité.",
+      "category": "Other",
+      "website": "https://vibelint.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T15:36:52.304914+00:00"
+    },
+    {
+      "name": "VelvetBash — Curated Intimacy. Hosted Celebrations.",
+      "slug": "polsia-velvetbash",
+      "description": "VelvetBash exists because the best moments in life, the ones you remember, the ones that bring people closer, deserve more than generic party supplies and awkward online shopping. We curate. We host. We make it easy to celebrate everything worth celebrating.",
+      "description_fr": "VelvetBash existe parce que les meilleurs moments de la vie, ceux dont vous vous souvenez, ceux qui rapprochent les gens, méritent plus que des fournitures de fête génériques et des achats en ligne difficiles. Nous organisons. Nous hébergeons. Nous facilitons la célébration de tout ce qui mérite d'être célébré.",
+      "category": "E-Commerce & Retail",
+      "website": "https://velvetbash.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T15:36:53.791157+00:00"
+    },
+    {
+      "name": "Gable",
+      "slug": "polsia-gable",
+      "description": "Gable is an AI property manager that coordinates every vendor, handles every guest, and keeps your home running, whether you're there or not. No phone calls. No spreadsheets. No 25% management fees.",
+      "description_fr": "Gable est un gestionnaire immobilier IA qui coordonne chaque fournisseur, gère chaque invité et assure le fonctionnement de votre maison, que vous soyez là ou non. Pas d'appels téléphoniques. Pas de feuilles de calcul. Pas de frais de gestion de 25%.",
+      "category": "AI & Machine Learning",
+      "website": "https://gable.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T15:36:54.471447+00:00"
+    },
+    {
+      "name": "ColdBloom",
+      "slug": "polsia-coldbloom-4",
+      "description": "Today's cold therapy and wellness brands are stuck in 2020. Product sourcing, content creation, customer education, email campaigns, inventory decisions. All done by humans, one task at a time. It doesn't scale. And the founders burn out.",
+      "description_fr": "Les marques actuelles de thérapie par le froid et de bien-être sont bloquées en 2020. Approvisionnement en produits, création de contenu, éducation des clients, campagnes par e-mail, décisions en matière d'inventaire. Tout est fait par des humains, une tâche à la fois. Cela n’évolue pas. Et les fondateurs s’épuisent.",
+      "category": "Marketing & Advertising",
+      "website": "https://coldbloom-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T15:36:56.003099+00:00"
+    },
+    {
+      "name": "SolidVerseOS",
+      "slug": "polsia-solidverseos",
+      "description": "SolidVerse isn't chasing millions of followers. It's building a community that actually shows up, buys the merch, watches the streams, and stays for years. SolidVerseOS is the operating system that makes that sustainable.",
+      "description_fr": "SolidVerse ne court pas après des millions de followers. Il s'agit de construire une communauté qui se présente réellement, achète les produits, regarde les flux et reste pendant des années. SolidVerseOS est le système d'exploitation qui rend cela durable.",
+      "category": "Marketing & Advertising",
+      "website": "https://solidverseos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T15:36:57.365794+00:00"
+    },
+    {
+      "name": "Logimo",
+      "slug": "polsia-logimo",
+      "website": "https://logimo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T15:36:57.594279+00:00"
+    },
+    {
+      "name": "Regily",
+      "slug": "polsia-regily",
+      "description": "AI scans your region for businesses that match your ideal advertiser profile. Restaurants opening, shops expanding, events launching. It finds them before your competitors do.",
+      "description_fr": "L'IA analyse votre région à la recherche d'entreprises qui correspondent à votre profil d'annonceur idéal. Ouverture de restaurants, agrandissement de magasins, lancement d'événements. Il les trouve avant vos concurrents.",
+      "category": "AI & Machine Learning",
+      "website": "https://regily.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T15:36:58.440901+00:00"
     }
   ]
 }
