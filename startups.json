@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T02:42:06.467544+00:00",
+  "last_updated": "2026-04-10T04:20:56.833340+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -29417,12 +29417,15 @@
       "scraped_at": "2026-04-09T23:50:20.957592+00:00"
     },
     {
-      "name": "Delvox",
+      "name": "Delvox — The AI Front Office for Service Businesses",
       "slug": "polsia-delvox",
+      "description": "Service businesses lose thousands every month to missed calls, slow follow-ups, and admin they can't keep up with. Delvox is the employee who handles all of it, so the people doing the real work can focus on the real work.",
+      "description_fr": "Les entreprises de services en perdent des milliers chaque mois à cause d'appels manqués, de suivis lents et d'administrations qu'elles ne peuvent pas suivre. Delvox est l'employé qui gère tout, afin que les personnes qui effectuent le vrai travail puissent se concentrer sur le vrai travail.",
+      "category": "AI & Machine Learning",
       "website": "https://delvox.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-10T01:17:55.830745+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-10T04:20:55.092352+00:00"
     },
     {
       "name": "DivotIQ",
@@ -29513,12 +29516,119 @@
       "scraped_at": "2026-04-10T01:18:06.536661+00:00"
     },
     {
-      "name": "OooCookieOS",
+      "name": "OooCookie",
       "slug": "polsia-ooocookieos",
+      "description": "Cookie-themed athleisure that feels as good as it looks. Leggings, crop tops, biker shorts, and yoga wear for every body. Designed in Nashville.",
+      "description_fr": "Un sport sur le thème des cookies aussi beau qu'il en a l'air. Leggings, hauts courts, shorts de motard et vêtements de yoga pour tous les corps. Conçu à Nashville.",
+      "category": "Other",
       "website": "https://ooocookieos.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T04:20:56.601170+00:00"
+    },
+    {
+      "name": "Numble",
+      "slug": "polsia-numble",
+      "website": "https://numble.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-04-10T01:18:07.336455+00:00"
+      "scraped_at": "2026-04-10T04:20:40.057180+00:00"
+    },
+    {
+      "name": "Reachwell",
+      "slug": "polsia-reachwell-2",
+      "website": "https://reachwell-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-10T04:20:40.296185+00:00"
+    },
+    {
+      "name": "BugHound",
+      "slug": "polsia-bughound-2",
+      "description": "BugHound is an AI QA engineer that tests your web app around the clock. It finds bugs before your users do, writes detailed reports, and costs a fraction of a human tester.",
+      "description_fr": "BugHound est un ingénieur QA IA qui teste votre application Web 24 heures sur 24. Il détecte les bogues avant vos utilisateurs, rédige des rapports détaillés et coûte une fraction du prix d'un testeur humain.",
+      "category": "AI & Machine Learning",
+      "website": "https://bughound-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T04:20:41.978924+00:00"
+    },
+    {
+      "name": "Dwellio",
+      "slug": "polsia-dwellio-2",
+      "description": "Traditional property managers take 8-12% of your monthly rent. For a $2,000/month rental, that's $160-240/month per unit. Dwellio costs a flat fee per unit, regardless of rent amount. The savings compound fast.",
+      "description_fr": "Les gestionnaires immobiliers traditionnels prennent 8 à 12 % de votre loyer mensuel. Pour une location de 2 000 $/mois, cela représente 160 à 240 $/mois par unité. Dwellio coûte un montant forfaitaire par unité, quel que soit le montant du loyer. Les économies s’accumulent rapidement.",
+      "category": "Travel & Hospitality",
+      "website": "https://dwellio-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T04:20:43.205478+00:00"
+    },
+    {
+      "name": "VisionsNetOS",
+      "slug": "polsia-visionsnetos",
+      "description": "Automated outreach to eligible households and businesses. Find people who qualify for Maryland's Community Solar Pilot Program and connect them to clean energy.",
+      "description_fr": "Sensibilisation automatisée aux ménages et aux entreprises éligibles. Trouvez des personnes admissibles au programme pilote solaire communautaire du Maryland et connectez-les à une énergie propre.",
+      "category": "Sales & CRM",
+      "website": "https://visionsnetos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T04:20:44.681265+00:00"
+    },
+    {
+      "name": "TreadLine",
+      "slug": "polsia-treadline-2",
+      "description": "An AI employee that handles customer texts, scheduling, inventory, invoicing, and reviews. You stay in the bay. It handles everything else.",
+      "description_fr": "Un employé IA qui gère les SMS des clients, la planification, l'inventaire, la facturation et les avis. Vous restez dans la baie. Il gère tout le reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://treadline-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T04:20:46.253618+00:00"
+    },
+    {
+      "name": "IntakeHQ — AI Front Office for Professional Services",
+      "slug": "polsia-intakehq",
+      "description": "IntakeHQ replaces your receptionist, intake coordinator, and follow-up team with AI that books appointments, qualifies leads, and runs internal workflows 24/7.",
+      "description_fr": "IntakeHQ remplace votre réceptionniste, votre coordinateur d'admission et votre équipe de suivi par une IA qui prend des rendez-vous, qualifie les prospects et exécute des flux de travail internes 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://intakehq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T04:20:47.718259+00:00"
+    },
+    {
+      "name": "Kestro",
+      "slug": "polsia-kestro",
+      "description": "Kestro is an AI agent that manages your entire customer inbox. It reads, understands, and replies to customers on your behalf, around the clock. You focus on building. Kestro handles the rest.",
+      "description_fr": "Kestro est un agent IA qui gère l'intégralité de votre boîte de réception client. Il lit, comprend et répond aux clients en votre nom, 24 heures sur 24. Vous vous concentrez sur la construction. Kestro s'occupe du reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://kestro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T04:20:49.152302+00:00"
+    },
+    {
+      "name": "PlanForge",
+      "slug": "polsia-planforge-2",
+      "description": "Lesson plans. Grading stacks. Parent emails at 10pm. IEP documentation. Attendance reports. Progress tracking. None of it is why you became a teacher, but it consumes more than half your working hours. PlanForge takes over the paperwork so you can get back to the classroom.",
+      "description_fr": "Plans de cours. Piles de classement. E-mails des parents à 22h. Documentation du PEI. Rapports de présence. Suivi des progrès. Rien de tout cela n’est la raison pour laquelle vous êtes devenu enseignant, mais cela consomme plus de la moitié de vos heures de travail. PlanForge se charge de la paperasse afin que vous puissiez retourner en classe.",
+      "category": "Real Estate",
+      "website": "https://planforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T04:20:50.612898+00:00"
+    },
+    {
+      "name": "PurityOS",
+      "slug": "polsia-purityos",
+      "description": "Running a supplement brand across Amazon, Shopify, eBay, and dozens of wholesale accounts means drowning in tabs, spreadsheets, and email threads. PurityOS consolidates everything into one intelligent system that works while you focus on formulation and growth.",
+      "description_fr": "Gérer une marque de suppléments sur Amazon, Shopify, eBay et des dizaines de comptes de vente en gros signifie se noyer dans les onglets, les feuilles de calcul et les fils de discussion. PurityOS consolide tout en un seul système intelligent qui fonctionne pendant que vous vous concentrez sur la formulation et la croissance.",
+      "category": "E-Commerce & Retail",
+      "website": "https://purityos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-10T04:20:52.143390+00:00"
     }
   ]
 }
