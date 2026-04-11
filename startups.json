@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T17:41:25.804431+00:00",
+  "last_updated": "2026-04-11T18:04:20.852315+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -33642,12 +33642,15 @@
       "scraped_at": "2026-04-11T16:58:52.227587+00:00"
     },
     {
-      "name": "StresslineOS",
+      "name": "Stressline",
       "slug": "polsia-stresslineos",
+      "description": "Most of them fail for reasons that were already documented in someone else's postmortem. Stressline exists to make those postmortems useful before they become yours.",
+      "description_fr": "La plupart d’entre eux échouent pour des raisons déjà documentées dans l’autopsie de quelqu’un d’autre. Stressline existe pour rendre ces post-mortems utiles avant qu'elles ne deviennent les vôtres.",
+      "category": "Sustainability & Green",
       "website": "https://stresslineos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T17:41:09.340356+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T18:04:20.850414+00:00"
     },
     {
       "name": "GonzoAmp",
@@ -33747,6 +33750,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-11T17:41:22.466029+00:00"
+    },
+    {
+      "name": "PawsOS",
+      "slug": "polsia-pawsos",
+      "description": "Automated appointment reminders, vaccine schedules, follow-up care instructions, and review requests. Consistent communication without the admin burden.",
+      "description_fr": "Rappels de rendez-vous automatisés, calendriers de vaccination, instructions de suivi des soins et demandes de révision. Communication cohérente sans la charge administrative.",
+      "category": "Other",
+      "website": "https://pawsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T18:04:06.557838+00:00"
+    },
+    {
+      "name": "CoralDesk",
+      "slug": "polsia-coraldesk-ai",
+      "description": "The Caribbean welcomes millions of visitors every year. Most are hosted by independent operators who pour their hearts into hospitality but lose sleep to midnight messages and last-minute logistics. CoralDesk changes that. One AI employee, trained on island life, working every hour you can't.",
+      "description_fr": "Les Caraïbes accueillent des millions de visiteurs chaque année. La plupart sont hébergés par des opérateurs indépendants qui consacrent tout leur cœur à l'hospitalité mais perdent le sommeil à cause des messages de minuit et de la logistique de dernière minute. CoralDesk change cela. Un employé d'IA, formé à la vie insulaire, travaillant toutes les heures, ce n'est pas possible.",
+      "category": "AI & Machine Learning",
+      "website": "https://coraldesk-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T18:04:07.584713+00:00"
+    },
+    {
+      "name": "Army of the Abyss",
+      "slug": "polsia-abyssarmyos",
+      "description": "Most digital art sellers leave money on the table. Army of the Abyss captures revenue from both direct sales and premium advertising space, doubling the earning potential of every visitor.",
+      "description_fr": "La plupart des vendeurs d’art numérique laissent de l’argent sur la table. Army of the Abyss génère des revenus provenant à la fois des ventes directes et des espaces publicitaires premium, doublant ainsi le potentiel de revenus de chaque visiteur.",
+      "category": "Marketing & Advertising",
+      "website": "https://abyssarmyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T18:04:08.974266+00:00"
+    },
+    {
+      "name": "ShredStack",
+      "slug": "polsia-shredstack",
+      "description": "ShredStack is an AI-native commerce platform for action sports. It curates gear, personalizes every recommendation, handles customers, and drives marketing. No spreadsheets. No guesswork. Just an autonomous retail operation that never sleeps.",
+      "description_fr": "ShredStack est une plateforme commerciale native d'IA pour les sports d'action. Il organise le matériel, personnalise chaque recommandation, gère les clients et pilote le marketing. Pas de feuilles de calcul. Aucune conjecture. Juste une opération de vente au détail autonome qui ne dort jamais.",
+      "category": "Software & SaaS",
+      "website": "https://shredstack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T18:04:10.055380+00:00"
+    },
+    {
+      "name": "FriendQuest",
+      "slug": "polsia-friendquest",
+      "description": "The more your guild plays together, the better your rewards. Unlock exclusive challenges, earn titles like \"Adventure Buddies\" or \"Epic Squad,\" and access real-world perks from local businesses. Your friendships literally pay off.",
+      "description_fr": "Plus votre guilde joue ensemble, meilleures sont vos récompenses. Débloquez des défis exclusifs, gagnez des titres comme « Adventure Buddies » ou « Epic Squad » et accédez à des avantages réels proposés par des entreprises locales. Vos amitiés portent littéralement leurs fruits.",
+      "category": "Other",
+      "website": "https://friendquest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T18:04:11.629658+00:00"
+    },
+    {
+      "name": "EthoscribeOS",
+      "slug": "polsia-ethoscribeos",
+      "description": "Every tool on the market writes the same way. Ethoscribe is the only platform that learns YOUR voice, scores how close it got, and posts automatically once you trust it. No more editing ChatGPT output to sound like yourself.",
+      "description_fr": "Chaque outil du marché écrit de la même manière. Ethoscribe est la seule plate-forme qui apprend VOTRE voix, note à quel point elle s'est rapprochée et publie automatiquement une fois que vous lui faites confiance. Plus besoin de modifier la sortie ChatGPT pour ressembler à vous-même.",
+      "category": "Software & SaaS",
+      "website": "https://ethoscribeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T18:04:12.554681+00:00"
+    },
+    {
+      "name": "Keystone Outdoor Adventures Co. — Full",
+      "slug": "polsia-keystone-outdoor-adventures-co",
+      "description": "Keystone Outdoor Adventures brings together fishing, kayaking, hiking, paddleboarding, and lakeside camping into one seamless experience. No more piecing together five different services for one great weekend.",
+      "description_fr": "Keystone Outdoor Adventures rassemble la pêche, le kayak, la randonnée, le paddleboard et le camping au bord du lac en une seule expérience fluide. Plus besoin de rassembler cinq services différents pour un seul excellent week-end.",
+      "category": "Real Estate",
+      "website": "https://keystone-outdoor-adventures-co.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T18:04:13.383751+00:00"
+    },
+    {
+      "name": "StayPilot — Your Rentals, Run by AI",
+      "slug": "polsia-getstaypilot",
+      "description": "StayPilot is an autonomous AI agent that manages your short-term rentals end to end. Guests get instant responses. Pricing adjusts in real time. Cleaners get dispatched. You get a revenue report.",
+      "description_fr": "StayPilot est un agent IA autonome qui gère de bout en bout vos locations courte durée. Les clients obtiennent des réponses instantanées. Les prix s'ajustent en temps réel. Des nettoyeurs sont dépêchés. Vous obtenez un rapport sur les revenus.",
+      "category": "AI & Machine Learning",
+      "website": "https://getstaypilot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T18:04:14.549358+00:00"
+    },
+    {
+      "name": "LaffStrOS",
+      "slug": "polsia-laffstros",
+      "description": "An autonomous operating system that tracks growth, surfaces insights, and runs the business side of the comedy career platform, so the founder can focus on building for comedians.",
+      "description_fr": "Un système d'exploitation autonome qui suit la croissance, présente des informations et gère le côté commercial de la plateforme de carrière de comédien, afin que le fondateur puisse se concentrer sur la création pour les comédiens.",
+      "category": "Software & SaaS",
+      "website": "https://laffstros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T18:04:16.363969+00:00"
+    },
+    {
+      "name": "Pounce",
+      "slug": "polsia-pounce-27",
+      "description": "Pounce is an AI sales agent that finds your ideal prospects, writes personalized outreach, sends it, and follows up. No templates. No manual work. Just meetings on your calendar.",
+      "description_fr": "Pounce est un agent commercial IA qui trouve vos prospects idéaux, rédige des messages personnalisés, les envoie et assure le suivi. Aucun modèle. Aucun travail manuel. Juste des réunions sur votre calendrier.",
+      "category": "Sales & CRM",
+      "website": "https://pounce-27.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T18:04:17.729926+00:00"
     }
   ]
 }
