@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T16:58:54.250687+00:00",
+  "last_updated": "2026-04-11T17:41:25.804431+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -33532,12 +33532,15 @@
       "scraped_at": "2026-04-11T16:17:28.300615+00:00"
     },
     {
-      "name": "Awardly",
+      "name": "Awardly — AI That Wins Government Contracts",
       "slug": "polsia-awardly",
+      "description": "Awardly monitors government procurement opportunities, scores them against your capabilities, and drafts competitive proposals while you focus on delivery.",
+      "description_fr": "Awardly surveille les opportunités de marchés publics, les évalue en fonction de vos capacités et rédige des propositions concurrentielles pendant que vous vous concentrez sur la livraison.",
+      "category": "AI & Machine Learning",
       "website": "https://awardly.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T16:58:41.302071+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T17:41:25.510924+00:00"
     },
     {
       "name": "PierOS — The Operations Layer for Boardwalk Entertainment",
@@ -33637,6 +33640,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-11T16:58:52.227587+00:00"
+    },
+    {
+      "name": "StresslineOS",
+      "slug": "polsia-stresslineos",
+      "website": "https://stresslineos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-11T17:41:09.340356+00:00"
+    },
+    {
+      "name": "GonzoAmp",
+      "slug": "polsia-gonzoamp",
+      "description": "60,000 AI tracks flood streaming platforms every single day. Country and pop dominate. Gospel gets buried. The tools that exist are generic playlisting bots and one-size-fits-all promotion. None of them understand a brand like Gonzo Gospel.",
+      "description_fr": "60 000 IA suivent chaque jour les plateformes de streaming inondées. La country et la pop dominent. L'Évangile est enterré. Les outils qui existent sont des robots de playlist génériques et une promotion unique. Aucun d’entre eux ne comprend une marque comme Gonzo Gospel.",
+      "category": "AI & Machine Learning",
+      "website": "https://gonzoamp.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T17:41:11.076904+00:00"
+    },
+    {
+      "name": "Baseflow",
+      "slug": "polsia-baseflow",
+      "description": "Technicians drive to sites. Collect grab samples. Ship to a lab. Wait days for results. By the time contamination shows up in lab data, the damage is already downstream. Real-time sensors exist, but they generate data nobody has time to watch.",
+      "description_fr": "Les techniciens se rendent sur les sites. Recueillir des échantillons instantanés. Expédier à un laboratoire. Attendez des jours pour les résultats. Au moment où la contamination apparaît dans les données de laboratoire, les dégâts sont déjà en aval. Des capteurs en temps réel existent, mais ils génèrent des données que personne n’a le temps de regarder.",
+      "category": "Other",
+      "website": "https://baseflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T17:41:12.810155+00:00"
+    },
+    {
+      "name": "GoFerr",
+      "slug": "polsia-go-ferr",
+      "description": "No hidden 28% \"trust fees.\" You see the price before you confirm. Flat rates for common errands, clear quotes for everything else.",
+      "description_fr": "Pas de « frais de confiance » cachés de 28 %. Vous voyez le prix avant de confirmer. Tarifs forfaitaires pour les courses courantes, devis clairs pour tout le reste.",
+      "category": "Other",
+      "website": "https://go-ferr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T17:41:14.337028+00:00"
+    },
+    {
+      "name": "Rockhold Consulting",
+      "slug": "polsia-rockholdos",
+      "description": "Rockhold Consulting designs and installs custom tile, lighting, and woodwork as a unified craft. Not three contractors. One team, one aesthetic, one outcome that transforms your space.",
+      "description_fr": "Rockhold Consulting conçoit et installe des carreaux, des éclairages et des boiseries personnalisés comme un métier unifié. Pas trois entrepreneurs. Une équipe, une esthétique, un résultat qui transforme votre espace.",
+      "category": "Consulting & Services",
+      "website": "https://rockholdos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T17:41:15.851084+00:00"
+    },
+    {
+      "name": "GigPilot",
+      "slug": "polsia-gigpilot-31",
+      "description": "GigPilot is an autonomous AI agent that handles your entire booking workflow. It finds the right venues, sends personalized outreach, follows up, and manages your calendar. You focus on the music.",
+      "description_fr": "GigPilot est un agent IA autonome qui gère l'ensemble de votre flux de réservation. Il trouve les bons lieux, envoie des messages personnalisés, assure le suivi et gère votre calendrier. Vous vous concentrez sur la musique.",
+      "category": "AI & Machine Learning",
+      "website": "https://gigpilot-31.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T17:41:17.004784+00:00"
+    },
+    {
+      "name": "ClearPrompt — AI Made Simple for Real People",
+      "slug": "polsia-clearprompt",
+      "description": "Practical AI skills for people who run businesses, chase side hustles, and don't have time for jargon. Learn by doing. Copy-paste prompts that actually work.",
+      "description_fr": "Compétences pratiques en IA pour les personnes qui dirigent des entreprises, poursuivent des activités secondaires et n'ont pas le temps pour le jargon. Apprenez en faisant. Des invites copier-coller qui fonctionnent réellement.",
+      "category": "AI & Machine Learning",
+      "website": "https://clearprompt.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T17:41:18.609179+00:00"
+    },
+    {
+      "name": "Solvd",
+      "slug": "polsia-solvd-2",
+      "description": "Every company deserves AI that works as hard as their best support agent, available 24/7, in every language, at a fraction of the cost. That's not an enterprise luxury. It's the new standard.",
+      "description_fr": "Chaque entreprise mérite une IA qui travaille aussi dur que son meilleur agent d'assistance, disponible 24h/24 et 7j/7, dans toutes les langues, à une fraction du prix. Ce n'est pas un luxe d'entreprise. C'est la nouvelle norme.",
+      "category": "AI & Machine Learning",
+      "website": "https://solvd-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T17:41:19.757988+00:00"
+    },
+    {
+      "name": "Virascout",
+      "slug": "polsia-virascout",
+      "description": "Virascout monitors TikTok, YouTube, and Instagram around the clock. It detects emerging challenge trends within hours, not days, by analyzing engagement velocity, hashtag momentum, and creator adoption rates.",
+      "description_fr": "Virascout surveille TikTok, YouTube et Instagram 24 heures sur 24. Il détecte les tendances émergentes en matière de défis en quelques heures, et non en quelques jours, en analysant la vitesse d'engagement, la dynamique des hashtags et les taux d'adoption des créateurs.",
+      "category": "Other",
+      "website": "https://virascout.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T17:41:20.859754+00:00"
+    },
+    {
+      "name": "MetaRadar — Diagnose. Fix. Scale.",
+      "slug": "polsia-metaradar",
+      "description": "Most advertisers lose 20-40% of their Meta ad budget tomisconfigurations they don't even know exist. Overlapping audiences compete against each other. Broken events poison attribution. Campaign structures that made sense six months ago now bleed money.",
+      "description_fr": "La plupart des annonceurs perdent 20 à 40 % de leur budget publicitaire Meta à cause de mauvaises configurations dont ils ignorent même l'existence. Les publics qui se chevauchent se font concurrence. Les événements brisés empoisonnent l’attribution. Les structures de campagne qui avaient du sens il y a six mois saignent désormais de l’argent.",
+      "category": "Marketing & Advertising",
+      "website": "https://metaradar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T17:41:22.466029+00:00"
     }
   ]
 }
