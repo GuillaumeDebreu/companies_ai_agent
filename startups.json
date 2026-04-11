@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T15:43:02.995003+00:00",
+  "last_updated": "2026-04-11T16:17:33.148986+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -33314,10 +33314,13 @@
     {
       "name": "TaskReady",
       "slug": "polsia-taskready",
+      "description": "AI companies are paying billions for human data labeling. Platforms like Appen, Remotasks, and Clickworker have real work and real pay. But getting started? Confusing profile setups, unclear qualification tests, fragmented guides, and no strategy for which tasks actually pay well.",
+      "description_fr": "Les entreprises d’IA paient des milliards pour l’étiquetage des données humaines. Des plateformes comme Appen, Remotasks et Clickworker offrent un vrai travail et un vrai salaire. Mais pour commencer ? Configurations de profil déroutantes, tests de qualification peu clairs, guides fragmentés et aucune stratégie pour déterminer quelles tâches sont réellement rémunératrices.",
+      "category": "AI & Machine Learning",
       "website": "https://taskready.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T15:42:48.137749+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T16:17:32.052624+00:00"
     },
     {
       "name": "Ghost Talk",
@@ -33331,12 +33334,15 @@
       "scraped_at": "2026-04-11T15:42:50.005072+00:00"
     },
     {
-      "name": "AudioArchOS",
+      "name": "Audio Architect",
       "slug": "polsia-audioarchos",
+      "description": "GPT-4o analyzes your audio and explains what it hears in plain language. Not just \"reduce noise\" but \"your recording has a 60Hz hum, likely from nearby electrical interference. Here's how to fix it.\" Context-aware, specific, actionable.",
+      "description_fr": "GPT-4o analyse votre audio et explique ce qu'il entend dans un langage simple. Non seulement « réduisez le bruit », mais « votre enregistrement a un bourdonnement de 60 Hz, probablement dû à des interférences électriques à proximité. Voici comment y remédier ». Adapté au contexte, spécifique et exploitable.",
+      "category": "AI & Machine Learning",
       "website": "https://audioarchos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T15:42:50.258368+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T16:17:33.147146+00:00"
     },
     {
       "name": "FieldMind",
@@ -33414,6 +33420,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-11T15:42:59.772699+00:00"
+    },
+    {
+      "name": "Cave & Shed — Trending & Legacy Gear for Your Retreat",
+      "slug": "polsia-cave-and-shed",
+      "description": "The first online store dedicated to both man-caves and she-sheds. Curated gear, from neon signs to garden retreats, for the spaces that are entirely yours.",
+      "description_fr": "La première boutique en ligne dédiée à la fois aux cavernes d'hommes et aux hangars à femmes. Du matériel sélectionné, des enseignes lumineuses aux retraites de jardin, pour les espaces qui vous appartiennent entièrement.",
+      "category": "E-Commerce & Retail",
+      "website": "https://cave-and-shed.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T16:17:17.647509+00:00"
+    },
+    {
+      "name": "InstantlyDeploy — Force Ideas Into Existence",
+      "slug": "polsia-instantlydeploy",
+      "description": "Three versions are generated instantly. The Immediate Version (what can exist today), the Buildable Version (what fits your budget), and the Long-Term Vision (the full realization).",
+      "description_fr": "Trois versions sont générées instantanément. La version immédiate (ce qui peut exister aujourd'hui), la version constructible (ce qui correspond à votre budget) et la vision à long terme (la réalisation complète).",
+      "category": "Entertainment & Media",
+      "website": "https://instantlydeploy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T16:17:18.718816+00:00"
+    },
+    {
+      "name": "MarlotOS",
+      "slug": "polsia-marlotos",
+      "description": "Lani Marlot already has the product. Paris-sourced, pheromone-activated, genuinely different. MarlotOS is the operational backbone that turns a great product into a growing empire. Every insight surfaced, every opportunity captured, every competitor watched.",
+      "description_fr": "Lani Marlot a déjà le produit. Originaire de Paris, activé par les phéromones, véritablement différent. MarlotOS est l'épine dorsale opérationnelle qui transforme un excellent produit en un empire en pleine croissance. Chaque idée a fait surface, chaque opportunité capturée, chaque concurrent observé.",
+      "category": "Real Estate",
+      "website": "https://marlotos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T16:17:20.347168+00:00"
+    },
+    {
+      "name": "Complot — L'app qui organise vos EVJF & EVG",
+      "slug": "polsia-complot",
+      "description": "Chaque participante entre son budget max en privé. Personne ne voit les montants individuels. L'app calcule la médiane et révèle uniquement le budget du groupe. Fini la gêne.",
+      "description_fr": "Chaque participant entre son budget max en privé. Personne ne voit les montants individuels. L'application calcule la médiane et révèle uniquement le budget du groupe. Fini la gêne.",
+      "category": "Social & Community",
+      "website": "https://complot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T16:17:21.410607+00:00"
+    },
+    {
+      "name": "MainStageOS",
+      "slug": "polsia-mainstageos",
+      "description": "Voices on Main Street tells the stories that big media ignores. MainStageOS makes sure none of those stories fall through the cracks, from first pitch to published episode to sponsor invoice. The backbone your podcast deserves.",
+      "description_fr": "Voices on Main Street raconte des histoires que les grands médias ignorent. MainStageOS s'assure qu'aucune de ces histoires ne passe entre les mailles du filet, du premier pitch à l'épisode publié en passant par la facture du sponsor. L'épine dorsale que votre podcast mérite.",
+      "category": "Entertainment & Media",
+      "website": "https://mainstageos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T16:17:22.618525+00:00"
+    },
+    {
+      "name": "CSCRecruitsOS",
+      "slug": "polsia-cscrecruitsos",
+      "description": "Big platforms sell hope at scale. They blast form emails to coaches, push aggressive sales calls on parents, and treat every athlete like a database entry. Families deserve better than a profile page and a prayer.",
+      "description_fr": "Les grandes plateformes vendent de l’espoir à grande échelle. Ils envoient des e-mails aux entraîneurs, lancent des appels commerciaux agressifs aux parents et traitent chaque athlète comme une entrée de base de données. Les familles méritent mieux qu’une page de profil et une prière.",
+      "category": "Software & SaaS",
+      "website": "https://cscrecruitsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T16:17:23.647479+00:00"
+    },
+    {
+      "name": "ResuscitateOS",
+      "slug": "polsia-resuscitateos",
+      "description": "But scaling a life-saving operation on spreadsheets and memory doesn't work. You need to know which sites are running low, which parishes have the highest need, and how many doses actually made it into someone's hands when it mattered.",
+      "description_fr": "Mais mettre à l’échelle une opération vitale sur des feuilles de calcul et de la mémoire ne fonctionne pas. Vous devez savoir quels sites sont en rupture de stock, quelles paroisses en ont le plus besoin et combien de doses sont réellement parvenues entre les mains de quelqu'un au moment opportun.",
+      "category": "Other",
+      "website": "https://resuscitateos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T16:17:25.189535+00:00"
+    },
+    {
+      "name": "Groundwork FC — One Neighborhood. Every Age. Real Soccer.",
+      "slug": "polsia-groundwork-fc",
+      "description": "Your kid plays for one club. You play in a different league across town. When they age out of youth, there's nowhere to go. Families juggle multiple organizations, multiple registrations, multiple schedules. The sport that's supposed to bring neighborhoods together ends up pulling them apart.",
+      "description_fr": "Votre enfant joue pour un club. Vous jouez dans une ligue différente à travers la ville. Lorsqu’ils vieillissent, ils n’ont nulle part où aller. Les familles jonglent avec plusieurs organisations, plusieurs inscriptions, plusieurs horaires. Le sport censé rapprocher les quartiers finit par les séparer.",
+      "category": "Real Estate",
+      "website": "https://groundwork-fc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T16:17:25.855069+00:00"
+    },
+    {
+      "name": "GoRadOS — The Operating System for GoRad Designs",
+      "slug": "polsia-gorados",
+      "description": "GoRadOS handles the operational side of running a creative agency so you can focus on what you actually love: making things look incredible for your clients.",
+      "description_fr": "GoRadOS gère l'aspect opérationnel de la gestion d'une agence de création afin que vous puissiez vous concentrer sur ce que vous aimez réellement : rendre les choses incroyables pour vos clients.",
+      "category": "Marketing & Advertising",
+      "website": "https://gorados.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T16:17:27.102073+00:00"
+    },
+    {
+      "name": "Eigenfield",
+      "slug": "polsia-eigenfield",
+      "description": "Eigenfield is an AI research agent that monitors publications, tracks your experiments, and surfaces insights your team would miss. Built for the pace quantum computing demands.",
+      "description_fr": "Eigenfield est un agent de recherche en IA qui surveille les publications, suit vos expériences et présente des informations qui pourraient manquer à votre équipe. Conçu pour répondre aux exigences de l'informatique quantique.",
+      "category": "AI & Machine Learning",
+      "website": "https://eigenfield.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T16:17:28.300615+00:00"
     }
   ]
 }
