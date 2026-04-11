@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T07:03:34.743565+00:00",
+  "last_updated": "2026-04-11T07:30:21.657270+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -32036,28 +32036,37 @@
       "scraped_at": "2026-04-11T05:09:59.436415+00:00"
     },
     {
-      "name": "PostForge",
+      "name": "PostForge — Your AI Social Media Employee",
       "slug": "polsia-postforge-18",
+      "description": "PostForge runs your entire social media operation autonomously. Strategy, content, scheduling, engagement, analytics. It works while you sleep, learns what your audience loves, and never asks for a day off.",
+      "description_fr": "PostForge gère l'ensemble de vos opérations sur les réseaux sociaux de manière autonome. Stratégie, contenu, planification, engagement, analyses. Il fonctionne pendant que vous dormez, apprend ce que votre public aime et ne demande jamais de jour de congé.",
+      "category": "AI & Machine Learning",
       "website": "https://postforge-18.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T06:13:41.383802+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:19.214749+00:00"
     },
     {
       "name": "Forge3DOS",
       "slug": "polsia-forge3dos",
+      "description": "Forge3DOS is the operating system that manages orders, generates quotes, tracks inventory, and handles customer outreach for your 3D printing business. It works while you print.",
+      "description_fr": "Forge3DOS est le système d'exploitation qui gère les commandes, génère des devis, suit les stocks et gère la sensibilisation des clients pour votre entreprise d'impression 3D. Cela fonctionne pendant que vous imprimez.",
+      "category": "Sales & CRM",
       "website": "https://forge3dos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T06:13:41.638097+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:20.439994+00:00"
     },
     {
       "name": "Praxeo",
       "slug": "polsia-praxeo-2",
+      "description": "You operate at Apollo, Aster, Sagar, and three other hospitals. Your patients are scattered across six different systems. Praxeo brings your entire practice into one AI-powered dashboard.",
+      "description_fr": "Vous opérez à Apollo, Aster, Sagar et dans trois autres hôpitaux. Vos patients sont répartis dans six systèmes différents. Praxeo rassemble l'ensemble de votre cabinet dans un seul tableau de bord alimenté par l'IA.",
+      "category": "Software & SaaS",
       "website": "https://praxeo-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T06:13:41.778256+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:21.655298+00:00"
     },
     {
       "name": "DeepPress — Where Curiosity Gets Rewarded",
@@ -32135,6 +32144,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-11T06:13:51.484132+00:00"
+    },
+    {
+      "name": "ForkCast",
+      "slug": "polsia-forkcast-4",
+      "description": "ForkCast exists because nobody should spend mental energy figuring out dinner after a long day. Your personal chef doesn't take days off, doesn't forget your allergies, and gets better every single week.",
+      "description_fr": "ForkCast existe parce que personne ne devrait dépenser de l'énergie mentale pour préparer le dîner après une longue journée. Votre chef personnel ne prend pas de jours de congé, n'oublie pas vos allergies et s'améliore chaque semaine.",
+      "category": "Food & Beverage",
+      "website": "https://forkcast-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:01.821370+00:00"
+    },
+    {
+      "name": "HomeHelm — Your AI Property Manager",
+      "slug": "polsia-homehelm",
+      "description": "HomeHelm is your AI property manager. It coordinates contractors, follows up with insurance, schedules inspections, and handles maintenance. All autonomously, while you sleep.",
+      "description_fr": "HomeHelm est votre gestionnaire immobilier IA. Il coordonne les entrepreneurs, assure le suivi des assurances, planifie les inspections et s'occupe de la maintenance. Le tout de manière autonome, pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://homehelm.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:03.096812+00:00"
+    },
+    {
+      "name": "GrownFolk",
+      "slug": "polsia-grownfolk",
+      "description": "Customizing your profile page. Setting a song that played when friends visited.\n                Chatting in rooms where people actually talked to each other. Before the algorithms,\n                the toxicity, and the teenagers took over. GrownFolk brings that feeling back,\n                with everything you wish existed then.",
+      "description_fr": "Personnalisation de votre page de profil. Définir une chanson jouée lors de la visite d'amis.\n                Discuter dans des pièces où les gens se parlaient réellement. Avant les algorithmes,\n                la toxicité, et les adolescents ont pris le relais. GrownFolk ramène ce sentiment,\n                avec tout ce que vous souhaiteriez exister à l'époque.",
+      "category": "Other",
+      "website": "https://grownfolk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:04.649717+00:00"
+    },
+    {
+      "name": "DomainLens — See What Domains Are Really Worth",
+      "slug": "polsia-domainlens",
+      "description": "DomainLens brings clarity to domain valuations. Built for investors, brokers, and anyone who believes a domain's worth should never be a mystery.",
+      "description_fr": "DomainLens apporte de la clarté aux évaluations de domaines. Conçu pour les investisseurs, les courtiers et tous ceux qui pensent que la valeur d'un domaine ne devrait jamais être un mystère.",
+      "category": "Other",
+      "website": "https://domainlens.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:05.591457+00:00"
+    },
+    {
+      "name": "VisionGrid — Operational Intelligence From Any Camera",
+      "slug": "polsia-visiongrid",
+      "description": "VisionGrid connects to your existing cameras and applies AI-powered computer vision to monitor traffic, track operations, and optimize every space you manage.",
+      "description_fr": "VisionGrid se connecte à vos caméras existantes et applique une vision par ordinateur basée sur l'IA pour surveiller le trafic, suivre les opérations et optimiser chaque espace que vous gérez.",
+      "category": "AI & Machine Learning",
+      "website": "https://visiongrid.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:06.893082+00:00"
+    },
+    {
+      "name": "Raku",
+      "slug": "polsia-raku",
+      "description": "Tell Raku where you want to eat. It calls the restaurant in Japanese, books your table, confirms the details, and sends you the confirmation. No more pointing at Google Translate.",
+      "description_fr": "Dites à Raku où vous voulez manger. Il appelle le restaurant en japonais, réserve votre table, confirme les détails et vous envoie la confirmation. Plus besoin de pointer du doigt Google Translate.",
+      "category": "Food & Beverage",
+      "website": "https://raku.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:07.967868+00:00"
+    },
+    {
+      "name": "CreoAI — One Brief. Every Format.",
+      "slug": "polsia-creoai",
+      "description": "CreoAI turns a single content brief into blog posts, social cards, images, and video. Stop juggling five tools. Start creating.",
+      "description_fr": "CreoAI transforme un résumé de contenu unique en articles de blog, cartes sociales, images et vidéos. Arrêtez de jongler avec cinq outils. Commencez à créer.",
+      "category": "Entertainment & Media",
+      "website": "https://creoai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:09.586030+00:00"
+    },
+    {
+      "name": "HaulOS — The Autonomous Freight Operating System",
+      "slug": "polsia-haulos-4",
+      "description": "One tool for rate comparisons. Another for yield analysis. A third for customs filings. A fourth for competitive pricing. Your operations team spends more time switching tabs than making decisions. HaulOS collapses the entire stack into one autonomous system.",
+      "description_fr": "Un outil pour comparer les tarifs. Un autre pour l’analyse du rendement. Un tiers pour les déclarations en douane. Un quatrième pour des prix compétitifs. Votre équipe opérationnelle passe plus de temps à changer d’onglet qu’à prendre des décisions. HaulOS regroupe l'ensemble de la pile en un seul système autonome.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://haulos-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:11.366953+00:00"
+    },
+    {
+      "name": "Leadcraft",
+      "slug": "polsia-leadcraft-7",
+      "description": "Leadcraft is an AI sales agent that researches your prospects, writes personalized outreach, follows up on schedule, and books meetings. All while you sleep.",
+      "description_fr": "Leadcraft est un agent commercial IA qui recherche vos prospects, rédige des communications personnalisées, assure le suivi dans les délais et organise des réunions. Tout cela pendant que tu dors.",
+      "category": "Sales & CRM",
+      "website": "https://leadcraft-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:12.224796+00:00"
+    },
+    {
+      "name": "Ponteo",
+      "slug": "polsia-ponteo",
+      "description": "Ponteo replaces the chaos of manual import-export operations with an autonomous system that handles orders, tracks shipments, and keeps your clients informed. So you can focus on growing into new markets.",
+      "description_fr": "Ponteo remplace le chaos des opérations manuelles d'import-export par un système autonome qui gère les commandes, suit les expéditions et tient vos clients informés. Vous pouvez ainsi vous concentrer sur votre croissance sur de nouveaux marchés.",
+      "category": "Other",
+      "website": "https://ponteo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T07:30:13.494953+00:00"
     }
   ]
 }
