@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T19:03:35.390940+00:00",
+  "last_updated": "2026-04-11T19:47:06.786139+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -33864,18 +33864,24 @@
     {
       "name": "Coldrev",
       "slug": "polsia-coldrev",
+      "description": "Coldrev is an autonomous sales agent. It researches your ideal buyers, writes hyper-personalized outreach, sends emails, follows up, and books meetings. You wake up to a full calendar.",
+      "description_fr": "Coldrev est un agent commercial autonome. Il recherche vos acheteurs idéaux, rédige des communications hyper-personnalisées, envoie des e-mails, assure le suivi et organise des réunions. Vous vous réveillez avec un calendrier bien rempli.",
+      "category": "Sales & CRM",
       "website": "https://coldrev.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T19:03:23.103628+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T19:47:05.379618+00:00"
     },
     {
       "name": "Atrium",
       "slug": "polsia-atrium-work",
+      "description": "AI reads every thread in real time. It summarizes for latecomers, flags contradictions, and asks the questions nobody thought to ask. No more \"can someone catch me up?\"",
+      "description_fr": "L'IA lit chaque fil de discussion en temps réel. Il résume pour les retardataires, signale les contradictions et pose les questions que personne n'a pensé à poser. Plus de « quelqu'un peut-il me rattraper ? »",
+      "category": "AI & Machine Learning",
       "website": "https://atrium-work.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T19:03:23.374762+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T19:47:06.517756+00:00"
     },
     {
       "name": "Kovara",
@@ -33964,6 +33970,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-11T19:03:33.659417+00:00"
+    },
+    {
+      "name": "GridHawk",
+      "slug": "polsia-gridhawk",
+      "description": "GridHawk brings over a decade of visual production experience to every flight. Your deliverables are not just data points, they are professional-grade documentation that holds up in boardrooms, courtrooms, and insurance claims.",
+      "description_fr": "GridHawk apporte plus d'une décennie d'expérience en production visuelle à chaque vol. Vos livrables ne sont pas seulement des points de données, ce sont des documents de qualité professionnelle qui résistent aux salles de conférence, aux tribunaux et aux réclamations d'assurance.",
+      "category": "Other",
+      "website": "https://gridhawk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T19:46:51.748946+00:00"
+    },
+    {
+      "name": "MonotribOS — Tu negocio bajo control",
+      "slug": "polsia-monotribos",
+      "description": "MonotribOS es el sistema operativo para monotributistas.com.ar. Dashboard inteligente, facturación integrada con ARCA, alertas de recategorización y análisis de facturación. Todo en un solo lugar.",
+      "description_fr": "MonotribOS est le système opérationnel pour monotributistas.com.ar. Tableau de bord intelligent, facturation intégrée avec ARCA, alertes de recatégorisation et analyse de facturation. Tout cela en un seul endroit.",
+      "category": "Software & SaaS",
+      "website": "https://monotribos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T19:46:53.093236+00:00"
+    },
+    {
+      "name": "Sprintara",
+      "slug": "polsia-sprintara",
+      "website": "https://sprintara.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-11T19:46:53.313744+00:00"
+    },
+    {
+      "name": "Spectracle",
+      "slug": "polsia-spectracle",
+      "description": "You started an immersive events company tocreate experiences, not to spend nights writing social posts, chasing vendors, and managing ticket analytics.The business side eats the creative side alive.",
+      "description_fr": "Vous avez lancé une entreprise d'événements immersifs pour créer des expériences, et non pour passer des nuits à rédiger des publications sur les réseaux sociaux, à courir après des fournisseurs et à gérer l'analyse des tickets. Le côté commercial dévore le côté créatif.",
+      "category": "Social & Community",
+      "website": "https://spectracle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T19:46:54.557114+00:00"
+    },
+    {
+      "name": "CrudeEdge — Oil Trading Signals for Kalshi",
+      "slug": "polsia-crudeedge",
+      "description": "Compares Kalshi contract prices against our probability model built on historical data, volatility patterns, and supply/demand fundamentals. Flags when the market is wrong.",
+      "description_fr": "Compare les prix des contrats Kalshi à notre modèle de probabilité construit sur des données historiques, des modèles de volatilité et des fondamentaux de l'offre et de la demande. Signale lorsque le marché se trompe.",
+      "category": "Finance & Fintech",
+      "website": "https://crudeedge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T19:46:56.083326+00:00"
+    },
+    {
+      "name": "CareSheets — Bilingual Calendars & Cheat Sheets for Activity Directors",
+      "slug": "polsia-caresheets",
+      "description": "Hispanic and Latino seniors are the fastest-growing demographic in care facilities. Your tools should reflect the people you serve. CareSheets delivers every piece of content in English and Spanish, side by side.",
+      "description_fr": "Les personnes âgées hispaniques et latino-américaines constituent le groupe démographique qui connaît la croissance la plus rapide dans les établissements de soins. Vos outils doivent refléter les personnes que vous servez. CareSheets propose chaque élément de contenu en anglais et en espagnol, côte à côte.",
+      "category": "Entertainment & Media",
+      "website": "https://caresheets.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T19:46:57.402647+00:00"
+    },
+    {
+      "name": "Clariva",
+      "slug": "polsia-clariva",
+      "description": "Insurance companies don't need more consultants. They need intelligence that runs continuously, catches what humans miss, and turns every policyholder interaction into an opportunity to build loyalty. That's Clariva.",
+      "description_fr": "Les compagnies d'assurance n'ont pas besoin de plus de consultants. Ils ont besoin d’une intelligence qui fonctionne en permanence, détecte ce que les humains oublient et transforme chaque interaction avec les assurés en une opportunité de fidéliser. C'est Clariva.",
+      "category": "Other",
+      "website": "https://clariva.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T19:46:58.665807+00:00"
+    },
+    {
+      "name": "VoltGridOS — Operating System for VoltGrid Jobs",
+      "slug": "polsia-voltgridos",
+      "description": "VoltGrid already has the positioning, the content authority, and the employer relationships. VoltGridOS adds the autonomous operating layer that turns a great product into a category winner.",
+      "description_fr": "VoltGrid dispose déjà du positionnement, de l'autorité de contenu et des relations avec l'employeur. VoltGridOS ajoute la couche opérationnelle autonome qui transforme un excellent produit en gagnant de catégorie.",
+      "category": "Entertainment & Media",
+      "website": "https://voltgridos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T19:46:59.799842+00:00"
+    },
+    {
+      "name": "RootHerbalOS",
+      "slug": "polsia-rootherbal-os",
+      "description": "Root Herbal is a family-owned brand in London selling organic Ayurvedic powders and cold-pressed soaps.Ashwagandha. Moringa. Spirulina.Each one sourced from India, minimally processed, and designed to fit into a daily routine.",
+      "description_fr": "Root Herbal est une marque familiale basée à Londres qui vend des poudres ayurvédiques biologiques et des savons pressés à froid.Ashwagandha. Moringa. Spiruline. Chacune provient d'Inde, peu transformée et conçue pour s'adapter à une routine quotidienne.",
+      "category": "Marketing & Advertising",
+      "website": "https://rootherbal-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T19:47:00.961866+00:00"
+    },
+    {
+      "name": "Parlavox — AI Language Tutors That Never Sleep",
+      "slug": "polsia-parlavox",
+      "description": "Parlavox is building the future of language education: autonomous, personalized, and grounded in real pedagogy. Every learner deserves a great teacher. Now they can have one, any time.",
+      "description_fr": "Parlavox construit l'avenir de l'enseignement des langues : autonome, personnalisé et fondé sur une véritable pédagogie. Chaque apprenant mérite un excellent professeur. Désormais, ils peuvent en avoir un à tout moment.",
+      "category": "AI & Machine Learning",
+      "website": "https://parlavox.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T19:47:02.000960+00:00"
     }
   ]
 }
