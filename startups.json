@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T13:02:15.829131+00:00",
+  "last_updated": "2026-04-11T13:36:49.345567+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -31494,10 +31494,13 @@
     {
       "name": "GoldReel",
       "slug": "polsia-goldreel",
+      "description": "The first casino where every spin is provably fair and every odd is transparent. Sweepstakes gaming available in 45+ states.",
+      "description_fr": "Le premier casino où chaque tour est prouvé équitable et où chaque impair est transparent. Jeux par tirage au sort disponibles dans plus de 45 États.",
+      "category": "Real Estate",
       "website": "https://goldreel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-10T22:55:39.177174+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T13:36:47.936371+00:00"
     },
     {
       "name": "Hailcast",
@@ -32882,10 +32885,13 @@
     {
       "name": "Artlinq",
       "slug": "polsia-artlinq",
+      "description": "You got into design to create. Instead, you spend most of your day resizing graphics, reformatting for different channels, and cranking out variations of the same assets. Clients want more content across more platforms, but your time hasn't scaled to match.",
+      "description_fr": "Vous vous êtes lancé dans le design pour créer. Au lieu de cela, vous passez la majeure partie de votre journée à redimensionner les graphiques, à reformater pour différents canaux et à créer des variantes des mêmes ressources. Les clients veulent plus de contenu sur plus de plates-formes, mais votre temps n'a pas été adapté pour correspondre.",
+      "category": "Software & SaaS",
       "website": "https://artlinq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T12:24:32.684291+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T13:36:49.343866+00:00"
     },
     {
       "name": "FiveStarCrew",
@@ -32974,6 +32980,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-11T12:24:44.300735+00:00"
+    },
+    {
+      "name": "LawSchooled — Legal Education That Actually Makes Sense",
+      "slug": "polsia-lawschooled",
+      "description": "LawSchooled is a video-first legal education platform taught by a practicing attorney. Short clips for social media. Deep-dive courses for the serious stuff. And when you need a real lawyer, we connect you to one locally.",
+      "description_fr": "LawSchooled est une plateforme de formation juridique axée sur la vidéo, enseignée par un avocat en exercice. Courts clips pour les réseaux sociaux. Des cours approfondis pour les choses sérieuses. Et lorsque vous avez besoin d’un véritable avocat, nous vous en mettons en contact localement.",
+      "category": "Education",
+      "website": "https://lawschooled.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T13:36:32.690666+00:00"
+    },
+    {
+      "name": "SwipeClear",
+      "slug": "polsia-swipeclear",
+      "description": "SwipeClear starts from your oldest photos and works forward. Swipe right to keep, swipe left to delete. That's it. Reclaim your storage in minutes, not hours.",
+      "description_fr": "SwipeClear part de vos photos les plus anciennes et continue. Balayez vers la droite pour conserver, balayez vers la gauche pour supprimer. C'est ça. Récupérez votre espace de stockage en quelques minutes, et non en quelques heures.",
+      "category": "Other",
+      "website": "https://swipeclear.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T13:36:33.853975+00:00"
+    },
+    {
+      "name": "RootsRunnerOS",
+      "slug": "polsia-rootsrunneros",
+      "description": "RootsRunnerOS is the autonomous operating system behind Genealogy Beginner. It tracks membership growth, monitors competitors, reaches new audiences, and keeps the business running while the humans do what they do best: teach people how to find their roots.",
+      "description_fr": "RootsRunnerOS est le système d'exploitation autonome derrière Genealogy Beginner. Il suit la croissance des adhésions, surveille les concurrents, atteint de nouveaux publics et maintient l'entreprise en marche pendant que les humains font ce qu'ils font de mieux : apprendre aux gens comment trouver leurs racines.",
+      "category": "Other",
+      "website": "https://rootsrunneros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T13:36:35.246198+00:00"
+    },
+    {
+      "name": "Cogito — Free AI for Everyone",
+      "slug": "polsia-cogito",
+      "description": "$20 a month to ask a question. $200 for the \"pro\" version. Ads injected into your conversations. Your prompts sold back to you as training data. The AI industry turned a breakthrough in human capability into a subscription trap. Cogito exists because we believe that's wrong.",
+      "description_fr": "20 $ par mois pour poser une question. 200$ pour la version \"pro\". Des publicités injectées dans vos conversations. Vos invites vous sont revendues sous forme de données d'entraînement. L’industrie de l’IA a transformé une percée dans les capacités humaines en un piège d’abonnement. Cogito existe parce que nous pensons que c'est faux.",
+      "category": "AI & Machine Learning",
+      "website": "https://cogito.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T13:36:37.084338+00:00"
+    },
+    {
+      "name": "GigPilot",
+      "slug": "polsia-gigpilot-30",
+      "description": "GigPilot is the AI manager for your side hustles. It watches every platform, finds the highest-paying gigs, and tells you exactly what to work, when, and where.",
+      "description_fr": "GigPilot est le gestionnaire d'IA pour vos activités annexes. Il surveille chaque plateforme, trouve les concerts les mieux rémunérés et vous indique exactement quoi travailler, quand et où.",
+      "category": "AI & Machine Learning",
+      "website": "https://gigpilot-30.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T13:36:38.392969+00:00"
+    },
+    {
+      "name": "Duskguard",
+      "slug": "polsia-duskguard",
+      "description": "Ring, Nest, Wyze, Arlo, old IP cams gathering dust. Americans own over 100 million security cameras, but most just record footage nobody watches. Motion alerts fire for every squirrel, delivery truck, and gust of wind. The hardware works. The intelligence doesn't exist.",
+      "description_fr": "Ring, Nest, Wyze, Arlo, les vieilles caméras IP qui prennent la poussière. Les Américains possèdent plus de 100 millions de caméras de sécurité, mais la plupart enregistrent des images que personne ne regarde. Le mouvement alerte le feu pour chaque écureuil, camion de livraison et rafale de vent. Le matériel fonctionne. L'intelligence n'existe pas.",
+      "category": "Sustainability & Green",
+      "website": "https://duskguard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T13:36:39.649379+00:00"
+    },
+    {
+      "name": "LiteRentOS — The Brain Behind Your Fleet",
+      "slug": "polsia-literentos",
+      "description": "Dubai's car rental market is a $1.2B arena growing 8-10% annually. The operators who win are the ones who know their fleet inside out, price with precision, and follow up relentlessly. LiteRentOS makes that happen on autopilot.",
+      "description_fr": "Le marché de la location de voitures à Dubaï représente un marché de 1,2 milliard de dollars, en croissance de 8 à 10 % par an. Les opérateurs qui gagnent sont ceux qui connaissent parfaitement leur flotte, fixent leurs tarifs avec précision et assurent un suivi sans relâche. LiteRentOS permet que cela se produise sur pilote automatique.",
+      "category": "Travel & Hospitality",
+      "website": "https://literentos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T13:36:40.625949+00:00"
+    },
+    {
+      "name": "SpectraGrid — Intelligent Wireless Network Control",
+      "slug": "polsia-spectragrid",
+      "description": "SpectraGrid is the vendor-agnostic SDN controller for PTMP wireless networks. Monitor, predict, and optimize your entire RF infrastructure from a single pane of glass.",
+      "description_fr": "SpectraGrid est le contrôleur SDN indépendant du fournisseur pour les réseaux sans fil PTMP. Surveillez, prédisez et optimisez l’ensemble de votre infrastructure RF à partir d’un seul écran.",
+      "category": "Social & Community",
+      "website": "https://spectragrid.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T13:36:41.473817+00:00"
+    },
+    {
+      "name": "AntidoteOS",
+      "slug": "polsia-antidoteos",
+      "description": "AntidoteOS works around the clock so Druide can focus on what it does best: perfecting language tools for millions.",
+      "description_fr": "AntidoteOS travaille 24 heures sur 24 afin que Druide puisse se concentrer sur ce qu'il fait de mieux : perfectionner des outils linguistiques pour des millions de personnes.",
+      "category": "Other",
+      "website": "https://antidoteos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T13:36:44.024674+00:00"
+    },
+    {
+      "name": "PickEdge",
+      "slug": "polsia-pickedge",
+      "description": "Marketplaces sell you 30 handicappers and hope you pick the right one. Season packages lock you in for $900 with no accountability until April. Free Twitter picks delete their losses overnight.",
+      "description_fr": "Les marchés vous vendent 30 handicappers et espèrent que vous choisirez le bon. Les forfaits saisonniers vous enferment pour 900 $ sans aucune responsabilité jusqu'en avril. Les choix gratuits sur Twitter suppriment leurs pertes du jour au lendemain.",
+      "category": "E-Commerce & Retail",
+      "website": "https://pickedge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T13:36:45.195075+00:00"
     }
   ]
 }
