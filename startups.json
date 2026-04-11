@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T20:54:29.639426+00:00",
+  "last_updated": "2026-04-11T21:33:01.621855+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -34192,12 +34192,15 @@
       "scraped_at": "2026-04-11T20:16:37.716700+00:00"
     },
     {
-      "name": "GalleryVault",
+      "name": "GalleryVault — Where Art Finds Its People",
       "slug": "polsia-galleryvault",
+      "description": "Online art sales have permanently shifted. Younger collectors are buying their first pieces online. Cross-border transactions are accelerating. The platforms that win will be the ones that make art buying feel personal, not transactional.",
+      "description_fr": "Les ventes d’art en ligne ont définitivement changé. Les jeunes collectionneurs achètent leurs premières pièces en ligne. Les transactions transfrontalières s’accélèrent. Les plateformes qui gagneront seront celles qui donneront à l’achat d’art un caractère personnel et non transactionnel.",
+      "category": "Software & SaaS",
       "website": "https://galleryvault.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T20:54:11.765660+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T21:33:01.532313+00:00"
     },
     {
       "name": "PhnxOS",
@@ -34297,6 +34300,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-11T20:54:22.281213+00:00"
+    },
+    {
+      "name": "GhostwrightOS",
+      "slug": "polsia-ghostwrightos-2",
+      "website": "https://ghostwrightos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-11T21:32:47.820949+00:00"
+    },
+    {
+      "name": "YorkXLOS",
+      "slug": "polsia-yorkxlos",
+      "description": "YorkXLOS is the command center for York XL's mission: bringing people together to imagine and passionately create empowered neighborhoods across York, Pennsylvania.",
+      "description_fr": "YorkXLOS est le centre de commandement de la mission de York XL : rassembler les gens pour imaginer et créer avec passion des quartiers responsabilisés à travers York, en Pennsylvanie.",
+      "category": "Other",
+      "website": "https://yorkxlos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:32:49.569441+00:00"
+    },
+    {
+      "name": "UnwrittenOS",
+      "slug": "polsia-unwrittenos",
+      "description": "Every apparel brand hits the same wall: too many spreadsheets, too many tabs, too many things falling through the cracks. UnwrittenOS replaces the chaos with four always-on systems that handle the work you never have time for.",
+      "description_fr": "Toutes les marques de vêtements se heurtent au même mur : trop de feuilles de calcul, trop d’onglets, trop de choses passent entre les mailles du filet. UnwriteOS remplace le chaos par quatre systèmes toujours actifs qui gèrent le travail pour lequel vous n'avez jamais le temps.",
+      "category": "Marketing & Advertising",
+      "website": "https://unwrittenos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:32:50.462133+00:00"
+    },
+    {
+      "name": "CastMind",
+      "slug": "polsia-castmind",
+      "description": "CastMind is the AI agent that runs your influencer campaigns end-to-end. It finds the right creators, manages outreach, tracks performance, and learns from every result to make the next campaign better.",
+      "description_fr": "CastMind est l'agent IA qui gère vos campagnes d'influence de bout en bout. Il trouve les bons créateurs, gère la sensibilisation, suit les performances et apprend de chaque résultat pour améliorer la prochaine campagne.",
+      "category": "AI & Machine Learning",
+      "website": "https://castmind.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:32:51.639611+00:00"
+    },
+    {
+      "name": "Ghostwright — AI Agents That Play Your Game 24/7",
+      "slug": "polsia-ghostwrightos",
+      "description": "Ghostwright deploys autonomous AI agents that explore your game like real players. They find bugs, break your economy, and map every untested corner. No scripts. No babysitting.",
+      "description_fr": "Ghostwright déploie des agents IA autonomes qui explorent votre jeu comme de vrais joueurs. Ils trouvent des bugs, brisent votre économie et cartographient tous les coins non testés. Aucun script. Pas de baby-sitting.",
+      "category": "AI & Machine Learning",
+      "website": "https://ghostwrightos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:32:52.676782+00:00"
+    },
+    {
+      "name": "Flourra",
+      "slug": "polsia-flourra",
+      "description": "Flourra exists because small businesses and creators deserve the kind of social media presence that only big brands could afford. Now an AI employee handles it all, for a fraction of the cost.",
+      "description_fr": "Flourra existe parce que les petites entreprises et les créateurs méritent le type de présence sur les réseaux sociaux que seules les grandes marques peuvent se permettre. Désormais, un employé d’IA s’occupe de tout, pour une fraction du coût.",
+      "category": "AI & Machine Learning",
+      "website": "https://flourra.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:32:53.736574+00:00"
+    },
+    {
+      "name": "GeoFlip",
+      "slug": "polsia-geoflip",
+      "description": "GeoFlip is a web browser that lets you switch your browsing location in one click. No proxy configs. No enterprise dashboards. Just a map and a pin.",
+      "description_fr": "GeoFlip est un navigateur Web qui vous permet de changer d'emplacement de navigation en un clic. Aucune configuration de proxy. Aucun tableau de bord d'entreprise. Juste une carte et une épingle.",
+      "category": "Software & SaaS",
+      "website": "https://geoflip.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:32:54.990223+00:00"
+    },
+    {
+      "name": "Zervo",
+      "slug": "polsia-zervo",
+      "description": "Every small business deserves the outreach power of a Fortune 500 sales team. Zervo makes AI-powered lead generation accessible to everyone, so you can spend your time on what matters: building relationships and closing deals.",
+      "description_fr": "Chaque petite entreprise mérite le pouvoir de sensibilisation d'une équipe commerciale Fortune 500. Zervo rend la génération de leads basée sur l'IA accessible à tous, afin que vous puissiez consacrer votre temps à ce qui compte : établir des relations et conclure des contrats.",
+      "category": "Sales & CRM",
+      "website": "https://zervo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:32:56.505832+00:00"
+    },
+    {
+      "name": "Calva",
+      "slug": "polsia-calva",
+      "description": "Calva is an AI receptionist for local businesses. It answers messages, books appointments, follows up with leads, and manages customer interactions, all day, every day, without a salary.",
+      "description_fr": "Calva est une réceptionniste IA pour les entreprises locales. Il répond aux messages, prend des rendez-vous, assure le suivi des prospects et gère les interactions avec les clients, toute la journée, tous les jours, sans salaire.",
+      "category": "AI & Machine Learning",
+      "website": "https://calva.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:32:57.587830+00:00"
+    },
+    {
+      "name": "Ghostwright — AI Agents That Playtest Your Game",
+      "slug": "polsia-ghostwright",
+      "description": "Ghostwright deploys AI agents that play your game 24/7. They find bugs, break balance, map edge cases, and deliver reports before your team wakes up. No scripts. No test plans. Just results.",
+      "description_fr": "Ghostwright déploie des agents IA qui jouent à votre jeu 24h/24 et 7j/7. Ils détectent les bugs, rompent l'équilibre, cartographient les cas extrêmes et fournissent des rapports avant que votre équipe ne se réveille. Aucun script. Aucun plan de test. Juste des résultats.",
+      "category": "AI & Machine Learning",
+      "website": "https://ghostwright.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:32:58.476340+00:00"
     }
   ]
 }
