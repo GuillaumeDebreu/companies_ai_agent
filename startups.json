@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T08:06:03.124111+00:00",
+  "last_updated": "2026-04-11T09:00:41.835551+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -32269,10 +32269,13 @@
     {
       "name": "Archer",
       "slug": "polsia-archer-21",
+      "description": "Archer is an AI sales agent that researches your ideal prospects, writes personalized outreach, follows up automatically, and books meetings on your calendar. The $80K/year SDR, replaced.",
+      "description_fr": "Archer est un agent commercial IA qui recherche vos prospects idéaux, rédige des messages personnalisés, assure un suivi automatique et réserve des réunions sur votre calendrier. Le DTS de 80 000 $/an, remplacé.",
+      "category": "Sales & CRM",
       "website": "https://archer-21.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T08:05:55.485643+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T09:00:41.406475+00:00"
     },
     {
       "name": "Pallium — The AI That Watches Over Your Patients",
@@ -32336,6 +32339,110 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-04-11T08:06:00.778886+00:00"
+    },
+    {
+      "name": "PulsarOS",
+      "slug": "polsia-pulsaros-2",
+      "website": "https://pulsaros-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-11T09:00:26.905737+00:00"
+    },
+    {
+      "name": "CasePilot",
+      "slug": "polsia-casepilot-19",
+      "website": "https://casepilot-19.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-11T09:00:27.207967+00:00"
+    },
+    {
+      "name": "AugustusOS",
+      "slug": "polsia-augustusos",
+      "description": "You produce beats, DJ shows, score films, sell merch, teach students, manage a label, and post content. But your \"business tools\" are Spotify for Artists and a Google Sheet. That gap is where money and momentum disappear.",
+      "description_fr": "Vous produisez des rythmes, des émissions de DJ, composez des musiques de films, vendez des produits dérivés, enseignez à des étudiants, gérez un label et publiez du contenu. Mais vos « outils professionnels » sont Spotify pour les artistes et Google Sheet. C’est dans cet écart que l’argent et l’élan disparaissent.",
+      "category": "Education",
+      "website": "https://augustusos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T09:00:28.458016+00:00"
+    },
+    {
+      "name": "SurplusTrackOS",
+      "slug": "polsia-surplustrackos",
+      "description": "SurplusTrackOS is the operating system behind USA Track & Reclaim, a husband-and-wife team recovering surplus funds from tax deed and foreclosure auctions across all 50 states. Zero upfront cost. You only pay when you get paid.",
+      "description_fr": "SurplusTrackOS est le système d'exploitation derrière USA Track & Reclaim, une équipe mari et femme récupérant les fonds excédentaires provenant des actes fiscaux et des enchères de saisies immobilières dans les 50 États. Zéro coût initial. Vous ne payez que lorsque vous êtes payé.",
+      "category": "Sustainability & Green",
+      "website": "https://surplustrackos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T09:00:30.234395+00:00"
+    },
+    {
+      "name": "Bakstage — AI that runs your bakery",
+      "slug": "polsia-bakstage",
+      "description": "PreciTaste charges enterprise prices. Loman AI only answers phones. Takeaway.com takes a commission and gives you nothing back. Your POS counts transactions but can't tell you how many pistolets to bake tomorrow.",
+      "description_fr": "PreciTaste facture des prix d'entreprise. Loman AI ne répond qu'aux téléphones. Takeaway.com prend une commission et ne vous rend rien. Votre point de vente compte les transactions mais ne peut pas vous dire combien de pistolets vous préparerez demain.",
+      "category": "AI & Machine Learning",
+      "website": "https://bakstage.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T09:00:31.169850+00:00"
+    },
+    {
+      "name": "BrickMind",
+      "slug": "polsia-brickmind",
+      "description": "BrickMind analyzes every deal, stress-tests your numbers, and builds your portfolio strategy. Like having a seasoned property mentor on call 24 hours a day, 7 days a week.",
+      "description_fr": "BrickMind analyse chaque transaction, teste vos chiffres et élabore votre stratégie de portefeuille. C’est comme avoir un mentor immobilier chevronné disponible 24 heures sur 24, 7 jours sur 7.",
+      "category": "Education",
+      "website": "https://brickmind.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T09:00:32.175937+00:00"
+    },
+    {
+      "name": "GuildKeep",
+      "slug": "polsia-guildkeep",
+      "description": "GuildKeep is an AI employee that manages your Discord, Slack, or online community 24/7. It moderates, engages members, organizes events, and grows your community autonomously.",
+      "description_fr": "GuildKeep est un employé IA qui gère votre communauté Discord, Slack ou en ligne 24h/24 et 7j/7. Il modère, engage les membres, organise des événements et développe votre communauté de manière autonome.",
+      "category": "AI & Machine Learning",
+      "website": "https://guildkeep.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T09:00:32.964711+00:00"
+    },
+    {
+      "name": "HolaOS",
+      "slug": "polsia-holaos",
+      "description": "See every active engagement at a glance. Track delivery milestones, budget burn, and team allocation across blockchain, AI, web, and mobile projects simultaneously.",
+      "description_fr": "Visualisez chaque engagement actif en un coup d’œil. Suivez simultanément les étapes de livraison, la consommation budgétaire et l’allocation des équipes sur les projets blockchain, IA, Web et mobiles.",
+      "category": "AI & Machine Learning",
+      "website": "https://holaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T09:00:34.767106+00:00"
+    },
+    {
+      "name": "Unscatter",
+      "slug": "polsia-unscatter",
+      "description": "Unscatter is being built right now. An app that finally respects how your brain actually works, not how productivity culture thinks it should.",
+      "description_fr": "Unscatter est en cours de construction en ce moment. Une application qui respecte enfin le fonctionnement réel de votre cerveau, et non ce que la culture de la productivité pense qu'il devrait faire.",
+      "category": "Productivity & Automation",
+      "website": "https://unscatter.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T09:00:35.978558+00:00"
+    },
+    {
+      "name": "Voxwise",
+      "slug": "polsia-voxwise",
+      "description": "You record the meeting. You read the transcript. You extract the action items. You write the follow-ups. You update the CRM. The tool did 5% of the job. You did the other 95%.",
+      "description_fr": "Vous enregistrez la réunion. Vous avez lu la transcription. Vous extrayez les éléments d'action. Vous rédigez les suites. Vous mettez à jour le CRM. L'outil a fait 5% du travail. Vous avez fait les 95 % restants.",
+      "category": "Marketing & Advertising",
+      "website": "https://voxwise.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T09:00:37.610075+00:00"
     }
   ]
 }
