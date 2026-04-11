@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T21:33:01.621855+00:00",
+  "last_updated": "2026-04-11T22:00:00.582404+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -34302,12 +34302,15 @@
       "scraped_at": "2026-04-11T20:54:22.281213+00:00"
     },
     {
-      "name": "GhostwrightOS",
+      "name": "Ghostwright",
       "slug": "polsia-ghostwrightos-2",
+      "description": "A decade of writing behavior trees at studios like Ubisoft and Rare. Now those same AI techniques find the bugs that human testers miss. Ghostwright is what happens when game AI expertise meets autonomous QA.",
+      "description_fr": "Une décennie passée à écrire des arbres comportementaux dans des studios comme Ubisoft et Rare. Désormais, ces mêmes techniques d’IA détectent les bugs qui échappent aux testeurs humains. Ghostwright est ce qui se produit lorsque l'expertise en IA du jeu rencontre l'assurance qualité autonome.",
+      "category": "AI & Machine Learning",
       "website": "https://ghostwrightos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T21:32:47.820949+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T22:00:00.580644+00:00"
     },
     {
       "name": "YorkXLOS",
@@ -34407,6 +34410,83 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-11T21:32:58.476340+00:00"
+    },
+    {
+      "name": "PlaybookOS — Operating System for GMP Playbook",
+      "slug": "polsia-playbookos-2",
+      "description": "The Modernization of Cosmetics Regulation Act made GMP compliance mandatory for cosmetics manufacturers. Thousands of small businesses are scrambling to comply with regulations they've never faced before.",
+      "description_fr": "La loi sur la modernisation de la réglementation des cosmétiques a rendu obligatoire la conformité aux BPF pour les fabricants de cosmétiques. Des milliers de petites entreprises se démènent pour se conformer à des réglementations auxquelles elles n'ont jamais été confrontées auparavant.",
+      "category": "Other",
+      "website": "https://playbookos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:59:49.966160+00:00"
+    },
+    {
+      "name": "KotasOS — Command Center for the Sol's Fury Multiverse",
+      "slug": "polsia-kotasos",
+      "description": "What started as a roleplaying group became something bigger. Kotas Studios weaves science fiction, alternate history, and fantasy into a single interconnected multiverse, with games, novels, and animation all feeding the same living world.",
+      "description_fr": "Ce qui a commencé comme un groupe de jeu de rôle est devenu quelque chose de plus grand. Kotas Studios tisse la science-fiction, l'histoire alternative et la fantasy dans un seul multivers interconnecté, avec des jeux, des romans et des animations alimentant tous le même monde vivant.",
+      "category": "Social & Community",
+      "website": "https://kotasos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:59:51.436236+00:00"
+    },
+    {
+      "name": "ChronicleOS",
+      "slug": "polsia-chronicleos",
+      "description": "ChronicleOS changes the equation. It handles the operational work that drains editorial energy: audience analytics, content scheduling, competitor monitoring, newsletter automation, and growth campaigns. The founder focuses on reporting. The system handles everything else.",
+      "description_fr": "ChronicleOS change l'équation. Il gère le travail opérationnel qui draine l'énergie éditoriale : analyse d'audience, planification de contenu, surveillance des concurrents, automatisation des newsletters et campagnes de croissance. Le fondateur se concentre sur le reporting. Le système gère tout le reste.",
+      "category": "Productivity & Automation",
+      "website": "https://chronicleos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:59:53.103058+00:00"
+    },
+    {
+      "name": "Repeater — AI Sales Agent",
+      "slug": "polsia-repeater",
+      "description": "Repeater is an AI sales agent that finds your ideal prospects,\n                    writes personalized outreach, follows up on schedule, and books\n                    meetings on your calendar. No templates. No manual work. It just runs.",
+      "description_fr": "Repeater est un agent commercial IA qui trouve vos prospects idéaux,\n                    rédige des documents de sensibilisation personnalisés, assure le suivi dans les délais et publie des livres\n                    réunions sur votre calendrier. Aucun modèle. Aucun travail manuel. Il fonctionne simplement.",
+      "category": "Sales & CRM",
+      "website": "https://repeater.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:59:54.777836+00:00"
+    },
+    {
+      "name": "AcreNote",
+      "slug": "polsia-acrenote",
+      "description": "Sellers post on five different sites, then cobble together payments via Zelle, PayPal, or handshake agreements. Buyers see \"owner financing available\" but have no way to actually close the deal online.",
+      "description_fr": "Les vendeurs publient sur cinq sites différents, puis concoctent des paiements via Zelle, PayPal ou des accords de poignée de main. Les acheteurs voient « le financement du propriétaire disponible » mais n'ont aucun moyen de conclure la transaction en ligne.",
+      "category": "Finance & Fintech",
+      "website": "https://acrenote.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:59:55.731528+00:00"
+    },
+    {
+      "name": "ScaleShip",
+      "slug": "polsia-scaleship",
+      "description": "ScaleShip is the dedicated reptile supply store built for keepers who care. \n                Fast shipping on everything from UVB bulbs to bioactive substrates, \n                curated by people who actually keep reptiles.",
+      "description_fr": "ScaleShip est le magasin de fournitures pour reptiles dédié, conçu pour les gardiens qui s'en soucient. \n                Expédition rapide sur tout, des ampoules UVB aux substrats bioactifs, \n                organisé par des personnes qui élèvent réellement des reptiles.",
+      "category": "E-Commerce & Retail",
+      "website": "https://scaleship.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:59:57.084427+00:00"
+    },
+    {
+      "name": "Myface",
+      "slug": "polsia-myfaceos",
+      "description": "This isn't a simulation. Your AI enhances your social life, it doesn't replace it. Find people who actually get you, not just people the algorithm thinks you'll engage with.",
+      "description_fr": "Ce n'est pas une simulation. Votre IA améliore votre vie sociale, elle ne la remplace pas. Trouvez des personnes qui vous comprennent réellement, pas seulement des personnes avec lesquelles l'algorithme pense que vous allez interagir.",
+      "category": "AI & Machine Learning",
+      "website": "https://myfaceos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T21:59:58.022566+00:00"
     }
   ]
 }
