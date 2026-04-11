@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T02:27:01.865356+00:00",
+  "last_updated": "2026-04-11T03:18:01.972082+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -31708,10 +31708,13 @@
     {
       "name": "Masar",
       "slug": "polsia-masar",
+      "description": "Every Arabic business hires 2-4 people just to manage customer messages. Same questions, same responses, same follow-ups. Day after day. It's expensive, slow, and doesn't scale.",
+      "description_fr": "Chaque entreprise arabe embauche 2 à 4 personnes uniquement pour gérer les messages des clients. Mêmes questions, mêmes réponses, mêmes suivis. Jour après jour. C'est cher, lent et n'évolue pas.",
+      "category": "Other",
       "website": "https://masar.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T00:05:26.530425+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T03:18:00.450987+00:00"
     },
     {
       "name": "SWAMPSTAR",
@@ -31738,10 +31741,13 @@
     {
       "name": "Pelliq",
       "slug": "polsia-pelliq",
+      "description": "AI-powered skin triage that prioritizes urgent cases in minutes, not months. Upload photos. Get scored. See a dermatologist faster.",
+      "description_fr": "Triage cutané basé sur l'IA qui priorise les cas urgents en quelques minutes, et non en mois. Téléchargez des photos. Soyez marqué. Consultez un dermatologue plus rapidement.",
+      "category": "AI & Machine Learning",
       "website": "https://pelliq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-11T00:05:29.504834+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-11T03:18:01.969983+00:00"
     },
     {
       "name": "GambitHaus",
@@ -31808,6 +31814,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-11T00:05:37.580850+00:00"
+    },
+    {
+      "name": "SnapLister — Snap. List. Sell.",
+      "slug": "polsia-snaplister",
+      "description": "SnapLister turns any physical item into a professional, SEO-optimized marketplace listing with accurate pricing. From camera to commerce in 30 seconds.",
+      "description_fr": "SnapLister transforme n'importe quel article physique en une liste de marché professionnelle optimisée pour le référencement avec des prix précis. De la caméra au commerce en 30 secondes.",
+      "category": "E-Commerce & Retail",
+      "website": "https://snaplister.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T03:17:44.589614+00:00"
+    },
+    {
+      "name": "SoMoOS",
+      "slug": "polsia-somoos",
+      "description": "SoMoOS is the operating system behind SoMo Technologies, a managed IT and cybersecurity firm that gives small businesses the security posture of a Fortune 500 company, without the overhead, the contracts, or the runaround.",
+      "description_fr": "SoMoOS est le système d'exploitation derrière SoMo Technologies, une société d'informatique gérée et de cybersécurité qui offre aux petites entreprises la posture de sécurité d'une entreprise Fortune 500, sans les frais généraux, les contrats ou les contournements.",
+      "category": "Other",
+      "website": "https://somoos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T03:17:45.526441+00:00"
+    },
+    {
+      "name": "FriendLensOS",
+      "slug": "polsia-friendlensos",
+      "description": "An autonomous operating system built for commercial photography. Client management, project tracking, and AI-powered workflows, all running while you're on set.",
+      "description_fr": "Un système d'exploitation autonome conçu pour la photographie commerciale. Gestion des clients, suivi des projets et flux de travail basés sur l'IA, le tout exécuté pendant que vous êtes sur le plateau.",
+      "category": "AI & Machine Learning",
+      "website": "https://friendlensos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T03:17:47.091579+00:00"
+    },
+    {
+      "name": "PourScope — Brand Intelligence for Spirits",
+      "slug": "polsia-pourscopeos",
+      "description": "You check IWSR for market sizing. Overproof for menu data. Nielsen for depletion reports. Social media for trends. Trade publications for competitor moves. None of it talks to each other. PourScope brings it all into one intelligence feed, powered by AI that understands spirits.",
+      "description_fr": "Vous consultez IWSR pour connaître la taille du marché. Overproof pour les données de menu. Nielsen pour les rapports d'épuisement. Médias sociaux pour les tendances. Publications commerciales pour les mouvements des concurrents. Rien de tout cela ne se parle. PourScope rassemble tout cela dans un seul flux de renseignements, alimenté par une IA qui comprend les esprits.",
+      "category": "AI & Machine Learning",
+      "website": "https://pourscopeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T03:17:48.578500+00:00"
+    },
+    {
+      "name": "BloomBrew",
+      "slug": "polsia-bloombrew",
+      "description": "Every DIY beauty blog gives you generic recipes for \"all skin types.\" But your skin isn't generic. Your ingredients aren't the same as everyone else's. Your beauty routine should be as unique as you are.",
+      "description_fr": "Chaque blog beauté DIY vous propose des recettes génériques pour « tous les types de peau ». Mais votre peau n'est pas générique. Vos ingrédients ne sont pas les mêmes que ceux des autres. Votre routine beauté doit être aussi unique que vous.",
+      "category": "Food & Beverage",
+      "website": "https://bloombrew.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T03:17:49.968043+00:00"
+    },
+    {
+      "name": "Eclore",
+      "slug": "polsia-eclore",
+      "description": "The best accelerators don't just give advice. They give structure, pressure, and direction. Eclore brings that same discipline to every founder, everywhere, at a fraction of the cost. No application. No equity. No waiting.",
+      "description_fr": "Les meilleurs accélérateurs ne se contentent pas de donner des conseils. Ils donnent structure, pression et direction. Eclore apporte la même discipline à chaque fondateur, partout, à une fraction du prix. Aucune candidature. Pas d'équité. Pas d'attente.",
+      "category": "Other",
+      "website": "https://eclore.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T03:17:51.560177+00:00"
+    },
+    {
+      "name": "Promoto — Your AI Marketing Agency That Never Sleeps",
+      "slug": "polsia-promoto",
+      "description": "Writes sequences, segments audiences, schedules sends, and A/B tests subject lines. Handles welcome flows, nurture campaigns, and re-engagement automatically.",
+      "description_fr": "Écrit des séquences, segmente les audiences, planifie les envois et teste les lignes d'objet A/B. Gère automatiquement les flux de bienvenue, les campagnes de développement et le réengagement.",
+      "category": "AI & Machine Learning",
+      "website": "https://promoto.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T03:17:52.230064+00:00"
+    },
+    {
+      "name": "MuatBareng — Carpooling for Cargo",
+      "slug": "polsia-muatbareng",
+      "description": "Thousands of small fleet operators, no unified matching system. Finding the right truck at the right time for a partial load is still done by phone calls and WhatsApp.",
+      "description_fr": "Des milliers d'opérateurs de petites flottes, pas de système de mise en correspondance unifié. Trouver le bon camion au bon moment pour un chargement partiel se fait toujours par téléphone et via WhatsApp.",
+      "category": "Marketing & Advertising",
+      "website": "https://muatbareng.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T03:17:54.021550+00:00"
+    },
+    {
+      "name": "Numra — Your AI Bookkeeper",
+      "slug": "polsia-numra-19",
+      "description": "Numra is an autonomous AI bookkeeper for small businesses. It categorizes expenses, sends invoices, chases late payments, and prepares your taxes. No spreadsheets. No manual work. No $500/month human.",
+      "description_fr": "Numra est un comptable IA autonome pour les petites entreprises. Il catégorise les dépenses, envoie les factures, recherche les retards de paiement et prépare vos impôts. Pas de feuilles de calcul. Aucun travail manuel. Pas de 500 $/mois humain.",
+      "category": "AI & Machine Learning",
+      "website": "https://numra-19.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T03:17:55.615193+00:00"
+    },
+    {
+      "name": "LifeShare — One platform. Every side of you.",
+      "slug": "polsia-lifeshare",
+      "description": "LifeShare merges photo sharing, disappearing messages, and professional networking into one platform. Free forever. No algorithms deciding what you see. No ads shaping your experience.",
+      "description_fr": "LifeShare fusionne le partage de photos, la disparition des messages et le réseautage professionnel en une seule plateforme. Libre pour toujours. Aucun algorithme ne décide de ce que vous voyez. Aucune publicité ne façonne votre expérience.",
+      "category": "Software & SaaS",
+      "website": "https://lifeshare.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-11T03:17:56.952957+00:00"
     }
   ]
 }
