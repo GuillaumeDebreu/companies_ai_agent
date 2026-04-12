@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T18:55:15.574728+00:00",
+  "last_updated": "2026-04-12T19:24:43.690788+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -36561,18 +36561,24 @@
     {
       "name": "FlashCrate",
       "slug": "polsia-flashcrate",
+      "description": "Artists spend more time managing DMs, shipping prints, and chasing payments than actually drawing. Shops cycle the same tired flash because sourcing fresh work is a hassle. The entire supply chain runs on Instagram posts and hope.",
+      "description_fr": "Les artistes passent plus de temps à gérer les DM, à expédier les tirages et à rechercher les paiements qu'à dessiner. Les magasins suivent le même cycle de fatigue, car trouver du nouveau travail est un problème. L’ensemble de la chaîne d’approvisionnement repose sur les publications Instagram et l’espoir.",
+      "category": "Logistics & Supply Chain",
       "website": "https://flashcrate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T18:27:52.243881+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T19:24:40.761057+00:00"
     },
     {
       "name": "TermReady",
       "slug": "polsia-termready",
+      "description": "You know you need life insurance. You've known for a while. But between work, school pickups, and keeping the house standing,scheduling a medical exam and waiting weeks for approvaljust never makes the list.",
+      "description_fr": "Vous savez que vous avez besoin d’une assurance-vie. Vous le savez depuis un moment. Mais entre le travail, les transferts à l'école et le maintien de la maison en bon état, planifier un examen médical et attendre des semaines pour obtenir son approbation ne fait jamais partie de la liste.",
+      "category": "Health & Wellness",
       "website": "https://termready.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T18:27:52.641666+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T19:24:41.574137+00:00"
     },
     {
       "name": "SacredLens",
@@ -36588,10 +36594,13 @@
     {
       "name": "Frontlinq",
       "slug": "polsia-frontlinq",
+      "description": "Frontlinq is an AI receptionist that handles your emails, texts, and chats around the clock. Every inquiry answered. Every appointment booked. Every customer impressed.",
+      "description_fr": "Frontlinq est une réceptionniste IA qui gère vos e-mails, SMS et discussions 24 heures sur 24. Chaque demande a répondu. Chaque rendez-vous réservé. Chaque client a été impressionné.",
+      "category": "AI & Machine Learning",
       "website": "https://frontlinq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T18:27:54.635817+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T19:24:43.046744+00:00"
     },
     {
       "name": "CrewPilot",
@@ -36691,6 +36700,113 @@
       "category": "Consulting & Services",
       "website": "https://prohive.nanocorp.app",
       "scraped_at": "2026-04-12T18:53:49.099910+00:00"
+    },
+    {
+      "name": "VegasKartsOS",
+      "slug": "polsia-vegaskartos",
+      "website": "https://vegaskartos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T19:24:26.626120+00:00"
+    },
+    {
+      "name": "Apptblitz",
+      "slug": "polsia-apptblitz",
+      "description": "Apptblitz is an AI-powered outreach system that finds leads, sends personalized messages, handles replies, and books appointments directly onto your calendar. You focus on closing.",
+      "description_fr": "Apptblitz est un système de sensibilisation basé sur l'IA qui recherche des prospects, envoie des messages personnalisés, gère les réponses et prend des rendez-vous directement sur votre calendrier. Vous vous concentrez sur la clôture.",
+      "category": "Sales & CRM",
+      "website": "https://apptblitz.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:24:28.230947+00:00"
+    },
+    {
+      "name": "Mentava",
+      "slug": "polsia-mentava",
+      "description": "Mentava is building toward a future whereone instructor can run an academy of thousands, because the operations, engagement, and administration are handled by AI agents that never sleep, never miss a deadline, and get smarter with every cohort.",
+      "description_fr": "Mentava construit un avenir dans lequel un instructeur peut diriger une académie de milliers de personnes, car les opérations, l'engagement et l'administration sont gérés par des agents d'IA qui ne dorment jamais, ne manquent jamais une date limite et deviennent plus intelligents avec chaque cohorte.",
+      "category": "AI & Machine Learning",
+      "website": "https://mentava.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:24:29.236045+00:00"
+    },
+    {
+      "name": "SoberBaseOS",
+      "slug": "polsia-soberbaseos",
+      "description": "National platforms build for NARR compliance and charge $150-400/month. They don't know what an ODMHAS audit looks like. SoberBase was built inside an Ohio recovery house, for Ohio recovery houses. The compliance checklists match what auditors actually ask for. The pricing fits what operators can actually afford.",
+      "description_fr": "Les plateformes nationales sont conçues pour la conformité NARR et facturent entre 150 et 400 $/mois. Ils ne savent pas à quoi ressemble un audit ODMHAS. SoberBase a été construit à l'intérieur d'une maison de récupération de l'Ohio, pour les maisons de récupération de l'Ohio. Les listes de contrôle de conformité correspondent à ce que les auditeurs demandent réellement. Le prix correspond à ce que les opérateurs peuvent réellement se permettre.",
+      "category": "Software & SaaS",
+      "website": "https://soberbaseos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:24:30.119326+00:00"
+    },
+    {
+      "name": "Stayworth",
+      "slug": "polsia-stayworth",
+      "description": "Stayworth is an AI agent that manages your vacation rental 24/7. Guest messages, dynamic pricing, cleaning coordination, owner reports. No humans in the loop.",
+      "description_fr": "Stayworth est un agent IA qui gère votre location de vacances 24h/24 et 7j/7. Messages invités, tarification dynamique, coordination du nettoyage, rapports des propriétaires. Aucun humain dans la boucle.",
+      "category": "AI & Machine Learning",
+      "website": "https://stayworth.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:24:31.037917+00:00"
+    },
+    {
+      "name": "MuseOS — The Operating System Behind the Art",
+      "slug": "polsia-museos-3",
+      "description": "MuseOS is the invisible infrastructure behind a fine art photography brand. It handles the business of art so the art itself stays pure. Every edition managed, every collector nurtured, every opportunity surfaced. Autonomously.",
+      "description_fr": "MuseOS est l'infrastructure invisible derrière une marque de photographie d'art. Il gère les affaires de l’art afin que l’art lui-même reste pur. Chaque édition gérée, chaque collectionneur nourri, chaque opportunité présentée. De manière autonome.",
+      "category": "Marketing & Advertising",
+      "website": "https://museos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:24:32.249214+00:00"
+    },
+    {
+      "name": "GigLane",
+      "slug": "polsia-giglane",
+      "description": "You want to earn. You're ready to work. But between credit checks, security deposits, and insurance requirements, traditional car rental makes it nearly impossible. Dealerships won't approve you. Rental companies want a credit card you don't have. Meanwhile, there's money to be made on DoorDash, Uber Eats, and Instacart right now.",
+      "description_fr": "Vous voulez gagner. Vous êtes prêt à travailler. Mais entre les vérifications de crédit, les dépôts de garantie et les exigences d’assurance, la location de voiture traditionnelle rend la tâche presque impossible. Les concessionnaires ne vous approuveront pas. Les sociétés de location veulent une carte de crédit que vous n'avez pas. Pendant ce temps, il y a actuellement de l'argent à gagner sur DoorDash, Uber Eats et Instacart.",
+      "category": "E-Commerce & Retail",
+      "website": "https://giglane.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:24:33.610354+00:00"
+    },
+    {
+      "name": "BankrollOS",
+      "slug": "polsia-bankrollos",
+      "description": "BankrollOS is the command center for sports betting consultation businesses. Manage clients, track performance, distribute picks, and grow your operation from one place.",
+      "description_fr": "BankrollOS est le centre de commande des entreprises de consultation en paris sportifs. Gérez les clients, suivez les performances, distribuez les choix et développez vos opérations à partir d'un seul endroit.",
+      "category": "Other",
+      "website": "https://bankrollos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:24:34.440006+00:00"
+    },
+    {
+      "name": "Workora",
+      "slug": "polsia-workora",
+      "description": "Workora is an AI that works like a real team member. It books appointments, follows up with clients, manages your social media, and sends invoices. Autonomously. While you sleep.",
+      "description_fr": "Workora est une IA qui fonctionne comme un véritable membre d'une équipe. Il prend des rendez-vous, assure le suivi des clients, gère vos réseaux sociaux et envoie des factures. De manière autonome. Pendant que tu dors.",
+      "category": "AI & Machine Learning",
+      "website": "https://workora.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:24:35.557431+00:00"
+    },
+    {
+      "name": "AtmosOS",
+      "slug": "polsia-atmosos",
+      "description": "Atmos invented multi-scent smart diffusion. The Tria's 3-slot system with app-controlled switching, scheduling, and the patent-pending Rotate feature is something Pura, Aera, and Aroma360 simply don't offer. AtmosOS exists to turn that product advantage into market dominance.",
+      "description_fr": "Atmos a inventé la diffusion intelligente multi-parfums. Le système à 3 emplacements du Tria avec commutation, planification et fonction de rotation contrôlées par application est quelque chose que Pura, Aera et Aroma360 n'offrent tout simplement pas. AtmosOS existe pour transformer cet avantage produit en domination du marché.",
+      "category": "Productivity & Automation",
+      "website": "https://atmosos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:24:37.433924+00:00"
     }
   ]
 }
