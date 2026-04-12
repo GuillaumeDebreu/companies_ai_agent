@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T21:21:22.295580+00:00",
+  "last_updated": "2026-04-12T21:55:45.470965+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -37034,10 +37034,13 @@
     {
       "name": "RemoteReadyOS",
       "slug": "polsia-remotereadyos-3",
+      "description": "The remote job market is booming, but competition is fierce. Most people apply without knowing how to set up a home office, communicate asynchronously, manage their time, or use the tools remote teams actually rely on. The training that exists is either built for corporations or priced for executives. There's nothing for the person just starting out.",
+      "description_fr": "Le marché du travail à distance est en plein essor, mais la concurrence est féroce. La plupart des gens postulent sans savoir comment installer un bureau à domicile, communiquer de manière asynchrone, gérer leur temps ou utiliser les outils sur lesquels les équipes distantes s'appuient réellement. La formation existante est soit conçue pour les entreprises, soit tarifée pour les cadres. Il n'y a rien pour la personne qui débute.",
+      "category": "Education",
       "website": "https://remotereadyos-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T21:21:10.414824+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T21:55:42.571255+00:00"
     },
     {
       "name": "TheranCemOS",
@@ -37072,10 +37075,13 @@
     {
       "name": "DeskFlow",
       "slug": "polsia-deskflow-45",
+      "description": "Post-appointment check-ins. Re-engagement for clients who haven't booked in a while. Review requests timed perfectly. The things you always mean to do but never get to.",
+      "description_fr": "Enregistrements après rendez-vous. Réengagement pour les clients qui n'ont pas réservé depuis un moment. Les demandes de révision sont parfaitement chronométrées. Les choses que vous avez toujours l’intention de faire mais que vous n’arrivez jamais à réaliser.",
+      "category": "Other",
       "website": "https://deskflow-45.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T21:21:12.131542+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T21:55:44.467910+00:00"
     },
     {
       "name": "Castbound",
@@ -37131,6 +37137,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-12T21:21:19.100328+00:00"
+    },
+    {
+      "name": "Survai",
+      "slug": "polsia-survai",
+      "website": "https://survai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T21:55:25.640992+00:00"
+    },
+    {
+      "name": "BookSteady — Bookkeeping that handles itself",
+      "slug": "polsia-booksteady",
+      "description": "You didn't start a business to stare at spreadsheets. But QuickBooks expects you to become an accountant. And hiring one costs $500+/month for basic work. There's a gap between \"do it yourself\" and \"pay a fortune.\" BookSteady fills it.",
+      "description_fr": "Vous n’avez pas démarré une entreprise pour regarder des feuilles de calcul. Mais QuickBooks s'attend à ce que vous deveniez comptable. Et en embaucher un coûte plus de 500 $/mois pour le travail de base. Il y a un écart entre « faire soi-même » et « payer une fortune ». BookSteady le remplit.",
+      "category": "Sustainability & Green",
+      "website": "https://booksteady.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T21:55:27.190326+00:00"
+    },
+    {
+      "name": "VelvetVault — AI",
+      "slug": "polsia-velvet-vault",
+      "description": "The next generation of luxury resale won't be built on more warehouses and more authenticators. It will be built on models that see what the human eye misses, price what intuition can only guess, and move at the speed the market demands.",
+      "description_fr": "La prochaine génération de revente de produits de luxe ne reposera pas sur plus d’entrepôts et plus d’authentificateurs. Il sera construit sur des modèles qui voient ce que l’œil humain oublie, évaluent ce que l’intuition ne peut que deviner et évoluent à la vitesse exigée par le marché.",
+      "category": "AI & Machine Learning",
+      "website": "https://velvet-vault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T21:55:45.468683+00:00"
+    },
+    {
+      "name": "NestLeaf",
+      "slug": "polsia-nestleaf",
+      "description": "Warehouse eggs can be weeks old before they hit your kitchen. Your customers can taste the difference. Your omelets, quiches, and pastas deserve better.",
+      "description_fr": "Les œufs d’entrepôt peuvent avoir des semaines avant d’arriver dans votre cuisine. Vos clients peuvent goûter la différence. Vos omelettes, quiches et pâtes méritent mieux.",
+      "category": "Food & Beverage",
+      "website": "https://nestleaf.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T21:55:29.259899+00:00"
+    },
+    {
+      "name": "DockMind",
+      "slug": "polsia-dockmind-2",
+      "description": "DockMind replaces the warehouse management team with AI that monitors inventory, forecasts demand, and resolves exceptions 24/7. No dashboards to check. No reports to read. It just runs.",
+      "description_fr": "DockMind remplace l'équipe de gestion de l'entrepôt par une IA qui surveille les stocks, prévoit la demande et résout les exceptions 24h/24 et 7j/7. Aucun tableau de bord à vérifier. Aucun rapport à lire. Il fonctionne simplement.",
+      "category": "AI & Machine Learning",
+      "website": "https://dockmind-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T21:55:30.812358+00:00"
+    },
+    {
+      "name": "CallShift — Never Miss a Customer Call Again",
+      "slug": "polsia-callshift-3",
+      "description": "You're with a customer. The phone rings. You can't answer. The caller hangs up, Googles your competitor, and books with them instead. You'll never know it happened. This plays out hundreds of times a year in every salon, auto shop, dental office, and restaurant in America.",
+      "description_fr": "Vous êtes avec un client. Le téléphone sonne. Vous ne pouvez pas répondre. L'appelant raccroche, recherche votre concurrent sur Google et réserve avec lui à la place. Vous ne saurez jamais que c'est arrivé. Cela se produit des centaines de fois par an dans tous les salons, ateliers automobiles, cabinets dentaires et restaurants d’Amérique.",
+      "category": "E-Commerce & Retail",
+      "website": "https://callshift-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T21:55:32.319605+00:00"
+    },
+    {
+      "name": "Bloomly",
+      "slug": "polsia-bloomly-2",
+      "description": "Bloomly is an AI marketing employee for local businesses. It creates your content, posts to social media, manages your reviews, and runs email campaigns. Autonomously. Every single day.",
+      "description_fr": "Bloomly est un employé du marketing de l'IA pour les entreprises locales. Il crée votre contenu, publie sur les réseaux sociaux, gère vos avis et lance des campagnes par e-mail. De manière autonome. Chaque jour.",
+      "category": "Marketing & Advertising",
+      "website": "https://bloomly-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T21:55:33.972974+00:00"
+    },
+    {
+      "name": "HerdMind — AI Ranch Management",
+      "slug": "polsia-herdmind-3",
+      "description": "HerdMind is an AI ranch manager built for family cattle operations. It tracks your herd, watches the market, manages breeding records, and finds buyers while you focus on the work that matters.",
+      "description_fr": "HerdMind est un gestionnaire de ranch IA conçu pour les exploitations bovines familiales. Il suit votre troupeau, surveille le marché, gère les registres d'élevage et trouve des acheteurs pendant que vous vous concentrez sur le travail qui compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://herdmind-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T21:55:35.312748+00:00"
+    },
+    {
+      "name": "DescafanoOS",
+      "slug": "polsia-descafanoos",
+      "description": "The operating system built for a criminal investigator with 12 years in the field. Case management, client tracking, and billing that works the way you actually work.",
+      "description_fr": "Le système d'exploitation conçu pour un enquêteur criminel avec 12 ans d'expérience dans le domaine. Gestion des dossiers, suivi des clients et facturation qui fonctionnent comme vous travaillez réellement.",
+      "category": "Other",
+      "website": "https://descafanoos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T21:55:36.567774+00:00"
+    },
+    {
+      "name": "SwarmNode — Your Computers Become a Workforce",
+      "slug": "polsia-swarmnode",
+      "description": "Every node runs locally. No API calls to the cloud. No data leaks. No subscription fees per seat. SwarmNode is built for industries where privacy isn't optional: legal, healthcare, government, finance.",
+      "description_fr": "Chaque nœud s'exécute localement. Aucun appel API vers le cloud. Aucune fuite de données. Pas de frais d'abonnement par siège. SwarmNode est conçu pour les secteurs où la confidentialité n'est pas facultative : droit, soins de santé, gouvernement, finance.",
+      "category": "Health & Wellness",
+      "website": "https://swarmnode.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T21:55:37.823422+00:00"
     }
   ]
 }
