@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T07:57:43.135447+00:00",
+  "last_updated": "2026-04-12T09:01:39.118749+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -35151,12 +35151,15 @@
       "scraped_at": "2026-04-12T07:57:30.229278+00:00"
     },
     {
-      "name": "PineDesk",
+      "name": "PineDesk — Your AI Office Manager",
       "slug": "polsia-pinedesk",
+      "description": "PineDesk is an autonomous AI that handles scheduling, customer emails, invoicing, and bookkeeping for small businesses. Not a tool you learn. An employee that works.",
+      "description_fr": "PineDesk est une IA autonome qui gère la planification, les e-mails des clients, la facturation et la comptabilité pour les petites entreprises. Ce n'est pas un outil que l'on apprend. Un employé qui travaille.",
+      "category": "AI & Machine Learning",
       "website": "https://pinedesk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T07:57:30.603599+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T09:01:39.016546+00:00"
     },
     {
       "name": "Luxelink",
@@ -35245,6 +35248,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-12T07:57:41.668296+00:00"
+    },
+    {
+      "name": "SceneSpeak — Learn English Through Movie Scenes",
+      "slug": "polsia-scenespeak",
+      "description": "Every conversation is a scene. Every sentence is a line. SceneSpeak teaches English the way it's actually spoken: with emotion, rhythm, and a scene partner.",
+      "description_fr": "Chaque conversation est une scène. Chaque phrase est une ligne. SceneSpeak enseigne l'anglais tel qu'il est réellement parlé : avec émotion, rythme et un partenaire de scène.",
+      "category": "Other",
+      "website": "https://scenespeak.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T09:01:26.099022+00:00"
+    },
+    {
+      "name": "Prosfr",
+      "slug": "polsia-prosfros",
+      "description": "Prosfr researches every prospect, writes emails that sound like a human wrote them, and books meetings while you sleep. Not another email blaster. An actual sales rep.",
+      "description_fr": "Prosfr recherche chaque prospect, rédige des e-mails qui ressemblent à ceux d'un humain et planifie des réunions pendant que vous dormez. Pas un autre blaster d'e-mails. Un véritable représentant commercial.",
+      "category": "Sales & CRM",
+      "website": "https://prosfros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T09:01:27.185646+00:00"
+    },
+    {
+      "name": "AppliedIntelOS",
+      "slug": "polsia-appliedintel-os",
+      "description": "We connect your platforms into one intelligent system. AutoDesk, Procore, BIM360, Salesforce, QuickBooks, and hundreds more. AI handles the translation layer.",
+      "description_fr": "Nous connectons vos plateformes en un seul système intelligent. AutoDesk, Procore, BIM360, Salesforce, QuickBooks et des centaines d'autres. L'IA gère la couche de traduction.",
+      "category": "AI & Machine Learning",
+      "website": "https://appliedintel-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T09:01:28.886936+00:00"
+    },
+    {
+      "name": "LotFlow — Auction Art Arbitrage",
+      "slug": "polsia-lotflow",
+      "description": "Most of the art world waits for value to appreciate. LotFlow captures value that already exists, hidden in the spread between what the market knows and what the auctioneer sees.",
+      "description_fr": "La majeure partie du monde de l’art attend que la valeur s’apprécie. LotFlow capture la valeur qui existe déjà, cachée dans l'écart entre ce que le marché sait et ce que voit le commissaire-priseur.",
+      "category": "Marketing & Advertising",
+      "website": "https://lotflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T09:01:30.469385+00:00"
+    },
+    {
+      "name": "KeepFull — The AI Front Desk That Never Sleeps",
+      "slug": "polsia-keepfull",
+      "description": "KeepFull is an AI employee that answers every client inquiry in seconds, books appointments automatically, and makes sure no one falls through the cracks. It works while you don't.",
+      "description_fr": "KeepFull est un employé IA qui répond à chaque demande de client en quelques secondes, prend automatiquement des rendez-vous et s'assure que personne ne passe entre les mailles du filet. Cela fonctionne alors que vous ne le faites pas.",
+      "category": "AI & Machine Learning",
+      "website": "https://keepfull.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T09:01:31.286421+00:00"
+    },
+    {
+      "name": "Crewless — Your AI Office Manager",
+      "slug": "polsia-gocrewless",
+      "description": "Crewless is an AI office manager that answers every call, books every job, follows up with every customer, and gets you 5-star reviews. No receptionist needed. No office staff. Just results.",
+      "description_fr": "Crewless est un chef de bureau IA qui répond à chaque appel, réserve chaque travail, assure le suivi de chaque client et vous obtient des avis 5 étoiles. Pas besoin de réceptionniste. Pas de personnel de bureau. Juste des résultats.",
+      "category": "AI & Machine Learning",
+      "website": "https://gocrewless.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T09:01:32.918574+00:00"
+    },
+    {
+      "name": "PFAS Watch",
+      "slug": "polsia-pfaswatch",
+      "website": "https://pfaswatch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T09:01:33.158676+00:00"
+    },
+    {
+      "name": "Nexcast — Autonomous Performance Marketing",
+      "slug": "polsia-nexcast",
+      "description": "Big agencies charge six figures for teams of analysts who manually pull reports, adjust bids, and reallocate budgets. Smaller businesses get the leftovers: basic rule-based tools that can't think. The gap between what Fortune 500 brands get and what everyone else can afford is massive.",
+      "description_fr": "Les grandes agences facturent six chiffres pour les équipes d'analystes qui établissent manuellement des rapports, ajustent les offres et réaffectent les budgets. Les petites entreprises reçoivent les restes : des outils de base basés sur des règles qui ne peuvent pas réfléchir. L’écart entre ce qu’obtiennent les marques Fortune 500 et ce que tout le monde peut se permettre est énorme.",
+      "category": "Marketing & Advertising",
+      "website": "https://nexcast.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T09:01:33.891532+00:00"
+    },
+    {
+      "name": "Lanterna",
+      "slug": "polsia-lanterna",
+      "description": "Continuously improves your titles, descriptions, and photo ordering based on what converts. Monitors search ranking and adjusts strategy to keep your properties visible and competitive across Airbnb, Vrbo, and Booking.com.",
+      "description_fr": "Améliore continuellement vos titres, descriptions et classement des photos en fonction de ce qui convertit. Surveille le classement des recherches et ajuste la stratégie pour garder vos propriétés visibles et compétitives sur Airbnb, Vrbo et Booking.com.",
+      "category": "Travel & Hospitality",
+      "website": "https://lanterna.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T09:01:34.780851+00:00"
+    },
+    {
+      "name": "YallOS",
+      "slug": "polsia-yallos",
+      "description": "Y'all AI sits at the intersection of 28 years of spiritual practice and the most advanced AI available. YallOS is the autonomous system that turns that intersection into a thriving business, tracking every metric, surfacing every opportunity, and executing daily without waiting to be asked.",
+      "description_fr": "Y'all AI se situe à l'intersection de 28 ans de pratique spirituelle et de l'IA la plus avancée disponible. YallOS est le système autonome qui transforme cette intersection en une entreprise florissante, en suivant chaque métrique, en faisant apparaître chaque opportunité et en l'exécutant quotidiennement sans attendre qu'on le lui demande.",
+      "category": "AI & Machine Learning",
+      "website": "https://yallos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T09:01:36.216608+00:00"
     }
   ]
 }
