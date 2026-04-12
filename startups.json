@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T02:51:08.564233+00:00",
+  "last_updated": "2026-04-12T05:15:54.342838+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -34786,12 +34786,15 @@
       "scraped_at": "2026-04-11T23:55:19.318249+00:00"
     },
     {
-      "name": "ShowSeed",
+      "name": "ShowSeed — AI",
       "slug": "polsia-showseed",
+      "description": "Organizing a benefit concert takes dozens of volunteer hours across spreadsheets, group texts, and late-night phone calls. Most of that time goes to logistics, not the mission. The music is the easy part. Everything around it is what breaks people.",
+      "description_fr": "L'organisation d'un concert-bénéfice nécessite des dizaines d'heures de bénévolat sur des feuilles de calcul, des SMS de groupe et des appels téléphoniques de fin de soirée. La majeure partie de ce temps est consacrée à la logistique et non à la mission. La musique est la partie la plus facile. Tout ce qui l'entoure est ce qui brise les gens.",
+      "category": "AI & Machine Learning",
       "website": "https://showseed.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T02:50:56.595889+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T05:15:54.023821+00:00"
     },
     {
       "name": "Bukku",
@@ -34888,6 +34891,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-12T02:51:06.677578+00:00"
+    },
+    {
+      "name": "AIStackHub",
+      "slug": "polsia-aistackhub",
+      "website": "https://aistackhub.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T05:15:41.264837+00:00"
+    },
+    {
+      "name": "Tidemark",
+      "slug": "polsia-tidemark-ai",
+      "description": "Tidemark is an autonomous AI agent that runs customer operations for local businesses. Reviews, inquiries, social media, daily reports. All handled. All day. Every day.",
+      "description_fr": "Tidemark est un agent d'IA autonome qui gère les opérations clients pour les entreprises locales. Avis, demandes de renseignements, médias sociaux, rapports quotidiens. Tout a été géré. Toute la journée. Tous les jours.",
+      "category": "AI & Machine Learning",
+      "website": "https://tidemark-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T05:15:42.822438+00:00"
+    },
+    {
+      "name": "SteapOS — The Operating System for sTEAp house",
+      "slug": "polsia-steapos",
+      "description": "sTEAp house started with a simple observation: everywhere had endless coffee options, but tea was always just Lipton or Tetley. Jasmine Garland turned that frustration into a mission. Now she hand-blends artisan teas that turn an everyday ritual into something intentional. SteapOS exists to scale that mission without losing the soul.",
+      "description_fr": "sTEAp house a commencé avec une observation simple : partout il y avait une infinité de choix de café, mais le thé était toujours juste du Lipton ou du Tetley. Jasmine Garland a transformé cette frustration en mission. Aujourd’hui, elle mélange à la main des thés artisanaux qui transforment un rituel quotidien en quelque chose d’intentionnel. SteapOS existe pour faire évoluer cette mission sans perdre l'âme.",
+      "category": "Marketing & Advertising",
+      "website": "https://steapos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T05:15:43.550752+00:00"
+    },
+    {
+      "name": "SpotCheck",
+      "slug": "polsia-spotcheck",
+      "description": "Clients mark workouts \"complete\" when they skipped the hard sets, cut rest short, or dropped the weight by 30%. You see a green checkmark. Reality is red.",
+      "description_fr": "Les clients marquent les entraînements comme « terminés » lorsqu’ils sautent les séries difficiles, raccourcissent le repos ou diminuent le poids de 30 %. Vous voyez une coche verte. La réalité est rouge.",
+      "category": "Sustainability & Green",
+      "website": "https://spotcheck.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T05:15:44.880402+00:00"
+    },
+    {
+      "name": "GridStackHub",
+      "slug": "polsia-gridstackhub",
+      "website": "https://gridstackhub.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T05:15:45.190952+00:00"
+    },
+    {
+      "name": "PeopleStackHub.ai — The Workforce Design Engine for the AI Era",
+      "slug": "polsia-the-people-stack",
+      "description": "The intelligence layer for workforce design in the hybrid era. Real cost data. Real frameworks. No $200K enterprise contracts.",
+      "description_fr": "La couche d’intelligence pour la conception des effectifs à l’ère hybride. Données sur les coûts réels. De vrais cadres. Aucun contrat d'entreprise de 200 000 $.",
+      "category": "AI & Machine Learning",
+      "website": "https://the-people-stack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T05:15:46.416161+00:00"
+    },
+    {
+      "name": "Presswork — You Create. It Sells.",
+      "slug": "polsia-presswork-2",
+      "description": "Presswork is the team you'd hire if you could afford one. Product manager, marketing lead, sales rep, analyst. All running 24/7, all working for you. The only thing it can't do is make the art. That part's still yours.",
+      "description_fr": "Presswork est l'équipe que vous embaucheriez si vous en aviez les moyens. Chef de produit, responsable marketing, commercial, analyste. Tous fonctionnent 24h/24 et 7j/7, et travaillent pour vous. La seule chose qu’il ne peut pas faire, c’est créer de l’art. Cette partie est toujours à toi.",
+      "category": "Sales & CRM",
+      "website": "https://presswork-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T05:15:47.701233+00:00"
+    },
+    {
+      "name": "NeuroPath — Neuroscience",
+      "slug": "polsia-neuropath",
+      "description": "Neuroscience tells us something different.Addiction rewires the brain's reward circuits, stress responses, and decision-making pathways. Recovery requires building new neural pathways. And the family environment is one of the most powerful forces shaping whether those new pathways take hold.",
+      "description_fr": "Les neurosciences nous disent quelque chose de différent. La dépendance restructure les circuits de récompense, les réponses au stress et les voies de prise de décision du cerveau. La récupération nécessite la construction de nouvelles voies neuronales. Et l’environnement familial est l’une des forces les plus puissantes qui déterminent la réussite de ces nouvelles voies.",
+      "category": "Sustainability & Green",
+      "website": "https://neuropath.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T05:15:49.061603+00:00"
+    },
+    {
+      "name": "CrowdLens",
+      "slug": "polsia-crowdlens",
+      "description": "Xiaohongshu reveals what Chinese consumers actually buy. Reddit reveals what Western investors actually think. The gap between them is where alpha lives.",
+      "description_fr": "Xiaohongshu révèle ce que les consommateurs chinois achètent réellement. Reddit révèle ce que pensent réellement les investisseurs occidentaux. L'écart entre eux est l'endroit où vit Alpha.",
+      "category": "Other",
+      "website": "https://crowdlens.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T05:15:50.601875+00:00"
+    },
+    {
+      "name": "NewGround — Build Your Home. Rebuild Your Life.",
+      "slug": "polsia-newground",
+      "description": "NewGround is different. Men learn construction trades by building tiny houses on-site. Women earn degrees and certifications through partnered schools. Couples rebuild together. Everyone leaves with something tangible: a skill, a credential, a community, and the confidence that they built it themselves.",
+      "description_fr": "NewGround est différent. Les hommes apprennent les métiers de la construction en construisant des petites maisons sur place. Les femmes obtiennent des diplômes et des certifications grâce à des écoles partenaires. Les couples se reconstruisent ensemble. Chacun repart avec quelque chose de tangible : une compétence, un diplôme, une communauté et la confiance qu'il l'a construit lui-même.",
+      "category": "Real Estate",
+      "website": "https://newground.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T05:15:51.802114+00:00"
     }
   ]
 }
