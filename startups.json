@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T14:55:36.893035+00:00",
+  "last_updated": "2026-04-12T15:39:23.126105+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -36029,12 +36029,15 @@
       "scraped_at": "2026-04-12T14:03:48.298143+00:00"
     },
     {
-      "name": "Prose & Pours",
+      "name": "Prose & Pours — Books. Drinks. Huntsville.",
       "slug": "polsia-prose-and-pours",
+      "description": "Not a warehouse. Not a chain. A tightly curated collection of fiction, poetry, memoir, and local voices. Every title on the shelf was chosen with intention. Staff picks you can trust. Genres you didn't know you loved.",
+      "description_fr": "Pas un entrepôt. Pas une chaîne. Une collection soigneusement organisée de fiction, de poésie, de mémoires et de voix locales. Chaque titre en rayon a été choisi avec intention. Des choix de personnel en qui vous pouvez avoir confiance. Des genres que vous ne saviez pas aimer.",
+      "category": "Logistics & Supply Chain",
       "website": "https://prose-and-pours.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T14:55:20.029408+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T15:39:21.879795+00:00"
     },
     {
       "name": "CryoFlux",
@@ -36134,6 +36137,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-12T14:55:31.482468+00:00"
+    },
+    {
+      "name": "WealthCast",
+      "slug": "polsia-wealthcast",
+      "description": "Financial education content that earns while it teaches. YouTube long-form for depth, Shorts and TikTok for discovery, Instagram for community. Every piece of content is an asset.",
+      "description_fr": "Un contenu d'éducation financière qui rapporte tout en enseignant. YouTube long pour la profondeur, Shorts et TikTok pour la découverte, Instagram pour la communauté. Chaque élément de contenu est un atout.",
+      "category": "Finance & Fintech",
+      "website": "https://wealthcast.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T15:39:23.006641+00:00"
+    },
+    {
+      "name": "AscendOps",
+      "slug": "polsia-ascendops",
+      "website": "https://ascendops.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T15:39:11.464393+00:00"
+    },
+    {
+      "name": "GigForge",
+      "slug": "polsia-gigforge-2",
+      "website": "https://gigforge-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T15:39:11.669639+00:00"
+    },
+    {
+      "name": "Unbottle",
+      "slug": "polsia-unbottle",
+      "description": "Unbottle is an AI consulting firm that diagnoses operational bottlenecks in service businesses and implements solutions that actually work. No generic playbooks. No pilot purgatory. Just results.",
+      "description_fr": "Unbottle est une société de conseil en IA qui diagnostique les goulots d'étranglement opérationnels dans les entreprises de services et met en œuvre des solutions qui fonctionnent réellement. Pas de playbooks génériques. Pas de purgatoire pilote. Juste des résultats.",
+      "category": "AI & Machine Learning",
+      "website": "https://unbottle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T15:39:13.085559+00:00"
+    },
+    {
+      "name": "CrewPilot",
+      "slug": "polsia-crewpilot-92",
+      "description": "CrewPilot runs your back office autonomously, so you can focus on the work that actually makes you money. Built for plumbers, electricians, HVAC techs, landscapers, cleaners, and every service crew that's too busy working to answer the phone.",
+      "description_fr": "CrewPilot gère votre back-office de manière autonome, afin que vous puissiez vous concentrer sur le travail qui vous rapporte réellement de l'argent. Conçu pour les plombiers, les électriciens, les techniciens CVC, les paysagistes, les nettoyeurs et toute équipe de service trop occupée à travailler pour répondre au téléphone.",
+      "category": "Other",
+      "website": "https://crewpilot-92.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T15:39:13.838645+00:00"
+    },
+    {
+      "name": "Wellshift",
+      "slug": "polsia-wellshift-3",
+      "description": "For every hour of patient care, providers spend two hours on paperwork. Scheduling conflicts, missed follow-ups, referral bottlenecks, insurance pre-auths. The system was built for paperwork, not people.",
+      "description_fr": "Pour chaque heure de soins aux patients, les prestataires consacrent deux heures à la paperasse. Conflits d'horaire, suivis manqués, goulots d'étranglement en matière de référencement, pré-autorisations d'assurance. Le système a été conçu pour la paperasse, pas pour les personnes.",
+      "category": "Health & Wellness",
+      "website": "https://wellshift-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T15:39:14.861310+00:00"
+    },
+    {
+      "name": "PrimeLine Painting — Custom Interior & Exterior Painting in Louisville",
+      "slug": "polsia-primeline-painting",
+      "description": "Louisville is growing. New businesses opening downtown, families moving into historic neighborhoods, property values climbing. Every one of those spaces needs paint done right. PrimeLine exists to be the name Louisville trusts when the job has to be perfect.",
+      "description_fr": "Louisville grandit. De nouvelles entreprises ouvrent leurs portes au centre-ville, des familles emménagent dans des quartiers historiques, la valeur des propriétés grimpe. Chacun de ces espaces a besoin d’une peinture bien faite. PrimeLine existe pour être le nom auquel Louisville fait confiance lorsque le travail doit être parfait.",
+      "category": "Real Estate",
+      "website": "https://primeline-painting.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T15:39:16.066204+00:00"
+    },
+    {
+      "name": "Evolve22 — Future",
+      "slug": "polsia-evolve22",
+      "description": "The market is full of one-day audits and generic roadmaps. They tell you what AI can do. They never tell you what it means for your P&L, your team, or your customers. Evolve22 is different. We sit inside your business, with your people, and work out what actually matters.",
+      "description_fr": "Le marché regorge d’audits d’une journée et de feuilles de route génériques. Ils vous disent ce que l'IA peut faire. Ils ne vous disent jamais ce que cela signifie pour votre P&L, votre équipe ou vos clients. Evolve22 est différent. Nous nous asseyons au sein de votre entreprise, avec vos collaborateurs, et déterminons ce qui compte réellement.",
+      "category": "AI & Machine Learning",
+      "website": "https://evolve22.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T15:39:17.288249+00:00"
+    },
+    {
+      "name": "Nocturnly",
+      "slug": "polsia-nocturnly",
+      "description": "Independent venues, social clubs, and event spaces spend more time answering DMs, updating social media, and chasing bookings than they do on what actually matters: the experience. Nocturnly handles the operations so you can handle the room.",
+      "description_fr": "Les lieux indépendants, les clubs sociaux et les espaces événementiels passent plus de temps à répondre aux messages directs, à mettre à jour les réseaux sociaux et à rechercher les réservations qu'à ce qui compte réellement : l'expérience. Gère les opérations de manière nocturne afin que vous puissiez gérer la pièce.",
+      "category": "Social & Community",
+      "website": "https://nocturnly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T15:39:18.441657+00:00"
+    },
+    {
+      "name": "Foyer",
+      "slug": "polsia-foyer-9",
+      "description": "You're with a client. In the field. On a ladder. In a meeting. The phone rings. You can't pick up. The caller hangs up, Googles the next name on the list, and books with them instead. It happens dozens of times a week.",
+      "description_fr": "Vous êtes avec un client. Dans le champ. Sur une échelle. En réunion. Le téléphone sonne. Vous ne pouvez pas décrocher. L'appelant raccroche, recherche sur Google le nom suivant sur la liste et réserve avec lui à la place. Cela arrive des dizaines de fois par semaine.",
+      "category": "Other",
+      "website": "https://foyer-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T15:39:19.497684+00:00"
     }
   ]
 }
