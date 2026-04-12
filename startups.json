@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T17:48:44.751249+00:00",
+  "last_updated": "2026-04-12T18:28:04.158501+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -36557,6 +36557,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-12T17:48:41.173052+00:00"
+    },
+    {
+      "name": "FlashCrate",
+      "slug": "polsia-flashcrate",
+      "website": "https://flashcrate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T18:27:52.243881+00:00"
+    },
+    {
+      "name": "TermReady",
+      "slug": "polsia-termready",
+      "website": "https://termready.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T18:27:52.641666+00:00"
+    },
+    {
+      "name": "SacredLens",
+      "slug": "polsia-sacredlens",
+      "description": "SacredLens is a research and writing project that investigates spiritual wisdom across traditions, not to flatten their differences, but to find the threads that connect them, and make those threads useful in everyday life.",
+      "description_fr": "SacredLens est un projet de recherche et d'écriture qui étudie la sagesse spirituelle à travers les traditions, non pas pour aplatir leurs différences, mais pour trouver les fils qui les relient et rendre ces fils utiles dans la vie de tous les jours.",
+      "category": "Other",
+      "website": "https://sacredlens.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T18:27:54.411990+00:00"
+    },
+    {
+      "name": "Frontlinq",
+      "slug": "polsia-frontlinq",
+      "website": "https://frontlinq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T18:27:54.635817+00:00"
+    },
+    {
+      "name": "CrewPilot",
+      "slug": "polsia-crewpilot-93",
+      "website": "https://crewpilot-93.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T18:27:54.995542+00:00"
+    },
+    {
+      "name": "DropPulse — AI Product Scout for TikTok Sellers",
+      "slug": "polsia-droppulse",
+      "description": "DropPulse is an AI agent that monitors TikTok 24/7, finds winning products before they peak, and delivers daily briefs with margin analysis and trend scores.",
+      "description_fr": "DropPulse est un agent d'IA qui surveille TikTok 24h/24 et 7j/7, trouve les produits gagnants avant qu'ils n'atteignent leur apogée et fournit des briefings quotidiens avec une analyse des marges et des scores de tendance.",
+      "category": "AI & Machine Learning",
+      "website": "https://droppulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T18:27:56.216477+00:00"
+    },
+    {
+      "name": "Heart Rehab Community — Recovery doesn't end at discharge",
+      "slug": "polsia-heartboundos",
+      "description": "Hospital cardiac rehab programs are medically supervised, time-limited, and insurance-constrained. When the program ends, patients lose their support system, their accountability partners, and their momentum. Most never find it again.",
+      "description_fr": "Les programmes hospitaliers de réadaptation cardiaque sont supervisés médicalement, limités dans le temps et limités par l’assurance. Lorsque le programme prend fin, les patients perdent leur système de soutien, leurs partenaires responsables et leur élan. La plupart ne le retrouvent jamais.",
+      "category": "Health & Wellness",
+      "website": "https://heartboundos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T18:27:57.404252+00:00"
+    },
+    {
+      "name": "Caudal — AI that fills your pipeline while you sleep",
+      "slug": "polsia-caudal",
+      "description": "Caudal is an autonomous AI sales agent. It researches prospects, writes personalized outreach, follows up, and books meetings on your calendar. You wake up to a full pipeline.",
+      "description_fr": "Caudal est un agent commercial autonome en IA. Il recherche des prospects, rédige des communications personnalisées, assure le suivi et réserve des réunions sur votre calendrier. Vous vous réveillez avec un pipeline plein.",
+      "category": "Sales & CRM",
+      "website": "https://caudal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T18:27:58.383744+00:00"
+    },
+    {
+      "name": "HostCraft",
+      "slug": "polsia-hostcraft-ai",
+      "description": "Restaurants lose revenue every night to walk-aways, slow seating, and guests who leave because the wait felt too long. HostCraft exists to make that problem disappear. Not with another app your staff has to learn, but with an AI that simply handles it.",
+      "description_fr": "Les restaurants perdent des revenus chaque soir à cause des absences, des sièges lents et des clients qui partent parce que l'attente leur semble trop longue. HostCraft existe pour faire disparaître ce problème. Pas avec une autre application que votre personnel doit apprendre, mais avec une IA qui s'en charge simplement.",
+      "category": "AI & Machine Learning",
+      "website": "https://hostcraft-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T18:27:59.479916+00:00"
+    },
+    {
+      "name": "AvaOS",
+      "slug": "polsia-avaos-4",
+      "description": "AvaAssist was founded by a team from NASA's Johnson Space Center. AvaOS brings that same systems-engineering discipline to scaling a business that serves hundreds of real estate professionals.",
+      "description_fr": "AvaAssist a été fondée par une équipe du Johnson Space Center de la NASA. AvaOS apporte cette même discipline d'ingénierie système au développement d'une entreprise qui sert des centaines de professionnels de l'immobilier.",
+      "category": "Real Estate",
+      "website": "https://avaos-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T18:28:00.544947+00:00"
     }
   ]
 }
