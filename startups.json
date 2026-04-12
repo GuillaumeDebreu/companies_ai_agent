@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T11:22:15.120324+00:00",
+  "last_updated": "2026-04-12T11:54:57.740550+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -35576,18 +35576,24 @@
     {
       "name": "Clipwerk",
       "slug": "polsia-clipwerk",
+      "description": "Turn any product listing into a polished video ad. Our engine understands product photography, extracts key selling points, and builds motion graphics that convert. Optimized for Amazon.de, Otto, Zalando, and every social platform.",
+      "description_fr": "Transformez n'importe quelle liste de produits en une publicité vidéo soignée. Notre moteur comprend la photographie de produits, extrait les principaux arguments de vente et crée des graphiques animés qui convertissent. Optimisé pour Amazon.de, Otto, Zalando et toutes les plateformes sociales.",
+      "category": "Software & SaaS",
       "website": "https://clipwerk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T11:22:00.905872+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T11:54:55.216676+00:00"
     },
     {
-      "name": "Sojoura",
+      "name": "Sojoura — Your Vacation Rental, On Autopilot",
       "slug": "polsia-sojoura",
+      "description": "Sojoura is the AI operations manager for vacation rental hosts. It handles guest messaging, dynamic pricing, turnover coordination, and compliance tracking. Not another dashboard. An actual employee that works while you sleep.",
+      "description_fr": "Sojoura est le responsable des opérations d'IA pour les hôtes de location de vacances. Il gère la messagerie client, la tarification dynamique, la coordination du chiffre d'affaires et le suivi de la conformité. Pas un autre tableau de bord. Un véritable employé qui travaille pendant que vous dormez.",
+      "category": "AI & Machine Learning",
       "website": "https://sojoura.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T11:22:01.103144+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T11:54:56.581202+00:00"
     },
     {
       "name": "VoyageLuxOS — The Operating System for Luxury Travel",
@@ -35612,12 +35618,15 @@
       "scraped_at": "2026-04-12T11:22:02.618155+00:00"
     },
     {
-      "name": "Spliceway",
+      "name": "Spliceway — AI",
       "slug": "polsia-spliceway",
+      "description": "Professional editors still manually ingest footage, sync audio, organize bins, build selects, and export dozens of deliverables by hand. The tools got faster, but the workflow stayed manual. Every hour an editor spends syncing timecode is an hour they're not telling a story.",
+      "description_fr": "Les monteurs professionnels ingèrent toujours manuellement les séquences, synchronisent l'audio, organisent les chutiers, créent des sélections et exportent manuellement des dizaines de livrables. Les outils sont devenus plus rapides, mais le flux de travail est resté manuel. Chaque heure qu'un éditeur passe à synchroniser le timecode représente une heure pendant laquelle il ne raconte pas d'histoire.",
+      "category": "AI & Machine Learning",
       "website": "https://spliceway.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T11:22:02.989569+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T11:54:57.454786+00:00"
     },
     {
       "name": "FixFlow — Your AI Back Office for Home Services",
@@ -35673,6 +35682,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-12T11:22:10.882171+00:00"
+    },
+    {
+      "name": "ShutterPath — Learn Photography Step by Step",
+      "slug": "polsia-shutterpath",
+      "description": "ShutterPath is a structured photography curriculum that takes you from \"what's an f-stop?\" to confidently creating images you're proud of. One step at a time.",
+      "description_fr": "ShutterPath est un programme de photographie structuré qui vous emmène de « Qu'est-ce qu'un f-stop ? » pour créer en toute confiance des images dont vous êtes fier. Un pas à la fois.",
+      "category": "Other",
+      "website": "https://shutterpath.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:54:42.126992+00:00"
+    },
+    {
+      "name": "IronPitch",
+      "slug": "polsia-ironpitch-2",
+      "website": "https://ironpitch-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T11:54:42.345562+00:00"
+    },
+    {
+      "name": "JazzDeptOS",
+      "slug": "polsia-jazzdeptos",
+      "description": "An autonomous operating system that handles booking, revenue, audience discovery, content, and institutional access, so jazz musicians can focus on what actually matters: the music.",
+      "description_fr": "Un système d'exploitation autonome qui gère les réservations, les revenus, la découverte du public, le contenu et l'accès institutionnel, afin que les musiciens de jazz puissent se concentrer sur ce qui compte vraiment : la musique.",
+      "category": "Entertainment & Media",
+      "website": "https://jazzdeptos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:54:42.990286+00:00"
+    },
+    {
+      "name": "Angel Lane Manor",
+      "slug": "polsia-angelmanoros",
+      "description": "Clearwater has no shortage of hotel event spaces and sandy ceremony sites. What it lacks is a venue with soul. A place where architecture, landscape, and thoughtful design create an atmosphere that photographs can only partly capture. Angel Lane Manor fills that gap with intention, warmth, and a commitment to making every detail feel effortless for hosts and guests alike.",
+      "description_fr": "Clearwater ne manque pas d'espaces événementiels hôteliers et de sites de cérémonie sablonneux. Ce qui lui manque, c'est un lieu avec une âme. Un lieu où l'architecture, le paysage et le design réfléchi créent une atmosphère que les photographies ne peuvent capturer que partiellement. Angel Lane Manor comble cette lacune avec intention, chaleur et engagement à faire en sorte que chaque détail se sente sans effort pour les hôtes et les invités.",
+      "category": "Travel & Hospitality",
+      "website": "https://angelmanoros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:54:44.634958+00:00"
+    },
+    {
+      "name": "CrewPilot — Your AI Dispatcher",
+      "slug": "polsia-crewpilot-91",
+      "description": "CrewPilot is an AI dispatcher that answers customer calls, books appointments, routes your technicians, and follows up for reviews. It works 24/7 so you never miss a lead while you're on a job site.",
+      "description_fr": "CrewPilot est un répartiteur IA qui répond aux appels des clients, prend des rendez-vous, achemine vos techniciens et assure le suivi des avis. Il fonctionne 24 heures sur 24, 7 jours sur 7, pour que vous ne manquiez aucune piste lorsque vous êtes sur un chantier.",
+      "category": "AI & Machine Learning",
+      "website": "https://crewpilot-91.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:54:45.780449+00:00"
+    },
+    {
+      "name": "Helvora",
+      "slug": "polsia-helvora",
+      "description": "Other tools suggest replies for humans to approve. Helvora resolves issues end-to-end. It reads, understands context, checks your knowledge base, and responds. No human in the loop unless necessary.",
+      "description_fr": "D'autres outils suggèrent des réponses que les humains doivent approuver. Helvora résout les problèmes de bout en bout. Il lit, comprend le contexte, vérifie votre base de connaissances et répond. Aucun humain dans la boucle sauf si nécessaire.",
+      "category": "Other",
+      "website": "https://helvora.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:54:46.664444+00:00"
+    },
+    {
+      "name": "TideKnot",
+      "slug": "polsia-tideknot",
+      "description": "TideKnot is an AI operations manager for wedding and event businesses. It handles client inquiries, vendor coordination, timelines, invoicing, and follow-ups autonomously, so you can focus on creating unforgettable moments.",
+      "description_fr": "TideKnot est un gestionnaire d'opérations d'IA pour les entreprises de mariage et d'événements. Il gère les demandes des clients, la coordination des fournisseurs, les délais, la facturation et les suivis de manière autonome, afin que vous puissiez vous concentrer sur la création de moments inoubliables.",
+      "category": "AI & Machine Learning",
+      "website": "https://tideknot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:54:48.403080+00:00"
+    },
+    {
+      "name": "MeetSpark",
+      "slug": "polsia-meetspark",
+      "description": "Most life insurance agents spend the majority of their time finding people to talk to, not actually talking to them. Cold calls go unanswered. Purchased leads are stale. Referrals dry up. MeetSpark flips the ratio so you spend your time where it counts: in front of qualified prospects.",
+      "description_fr": "La plupart des agents d’assurance-vie passent la majorité de leur temps à trouver des personnes à qui parler, sans vraiment leur parler. Les appels à froid restent sans réponse. Les prospects achetés sont périmés. Les références se tarissent. MeetSpark inverse le ratio pour que vous passiez votre temps là où cela compte : devant des prospects qualifiés.",
+      "category": "Sales & CRM",
+      "website": "https://meetspark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:54:49.523423+00:00"
+    },
+    {
+      "name": "Aetheria",
+      "slug": "polsia-aetheriaos",
+      "description": "7 years inside the beauty industry's biggest platform. 155 million appointments. Every pain point, every workaround, every feature request that never shipped. Aetheria is what should have existed all along.",
+      "description_fr": "7 ans au sein de la plus grande plateforme de l'industrie de la beauté. 155 millions de rendez-vous. Chaque problème, chaque solution de contournement, chaque demande de fonctionnalité qui n'a jamais été expédiée. Aetheria est ce qui aurait dû exister depuis le début.",
+      "category": "Software & SaaS",
+      "website": "https://aetheriaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:54:51.015224+00:00"
+    },
+    {
+      "name": "JohnDoeOS — The Operating System Behind JohnDoe.com",
+      "slug": "polsia-johndoeos",
+      "description": "JohnDoeOS is the founder command center for JohnDoe.com. Search volume, user growth, competitive intel, conversion metrics, and outreach campaigns, all running autonomously while you focus on what matters.",
+      "description_fr": "JohnDoeOS est le centre de commande fondateur de JohnDoe.com. Volume de recherche, croissance du nombre d'utilisateurs, informations sur la concurrence, mesures de conversion et campagnes de sensibilisation, le tout fonctionnant de manière autonome pendant que vous vous concentrez sur ce qui compte.",
+      "category": "Marketing & Advertising",
+      "website": "https://johndoeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:54:52.555256+00:00"
     }
   ]
 }
