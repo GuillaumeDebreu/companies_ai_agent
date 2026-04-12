@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T17:01:46.277986+00:00",
+  "last_updated": "2026-04-12T17:48:44.751249+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -36355,10 +36355,13 @@
     {
       "name": "BurnSlow",
       "slug": "polsia-burnslow",
+      "description": "Most cannabis tees slap a leaf on cotton and charge $35. BurnSlow is sayings-first. Sharp, funny, unapologetic. The kind of shirt that starts conversations and ends debates.",
+      "description_fr": "La plupart des t-shirts au cannabis appliquent une feuille sur du coton et facturent 35 $. BurnSlow donne la priorité aux paroles. Sharp, drôle, sans vergogne. Le genre de chemise qui démarre les conversations et met fin aux débats.",
+      "category": "Other",
       "website": "https://burnslow.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T17:01:27.447271+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T17:48:43.480337+00:00"
     },
     {
       "name": "EntexsOS",
@@ -36394,12 +36397,15 @@
       "scraped_at": "2026-04-12T17:01:30.606380+00:00"
     },
     {
-      "name": "Tenfold",
+      "name": "Tenfold — Your Business Never Sleeps",
       "slug": "polsia-tenfold",
+      "description": "Tenfold studies your services, pricing, availability, and communication style. Responses feel like they came from you, because they're built from how you actually talk to customers.",
+      "description_fr": "Tenfold étudie vos services, vos prix, votre disponibilité et votre style de communication. Les réponses semblent provenir de vous, car elles sont basées sur la manière dont vous parlez réellement aux clients.",
+      "category": "Other",
       "website": "https://tenfold.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T17:01:30.920247+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T17:48:44.694931+00:00"
     },
     {
       "name": "InnerWealth",
@@ -36455,6 +36461,102 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-12T17:01:37.642748+00:00"
+    },
+    {
+      "name": "Sightline",
+      "slug": "polsia-sightline-3",
+      "website": "https://sightline-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T17:48:31.250300+00:00"
+    },
+    {
+      "name": "Limber — Your Pocket Physio",
+      "slug": "polsia-limber",
+      "description": "Likelyiliotibial band syndromefrom overuse. Starting you on a 4-week plan: foam rolling, hip strengthening, and graduated return to running. Let's track your pain daily.",
+      "description_fr": "Probablement un syndrome de la bandelette ilio-tibiale dû à une utilisation excessive. Vous démarrez sur un plan de 4 semaines : roulement de mousse, renforcement des hanches et reprise progressive de la course à pied. Suivons votre douleur quotidiennement.",
+      "category": "Other",
+      "website": "https://limber.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T17:48:32.449047+00:00"
+    },
+    {
+      "name": "RawReset — Stop Planning. Start Fixing Your Life.",
+      "slug": "polsia-rawreset",
+      "description": "RawReset is a 30-day discipline system for people who know they're screwing up but don't know how to stop. Not a planner. Not a journal. A set of rules.",
+      "description_fr": "RawReset est un système de discipline de 30 jours destiné aux personnes qui savent qu'elles se trompent mais ne savent pas comment s'arrêter. Pas un planificateur. Pas un journal. Un ensemble de règles.",
+      "category": "Other",
+      "website": "https://rawreset.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T17:48:33.257920+00:00"
+    },
+    {
+      "name": "Nurtiva",
+      "slug": "polsia-nurtiva",
+      "description": "Nurtiva is an autonomous AI agent that finds your ideal prospects, writes personalized outreach, follows up relentlessly, and books meetings on your calendar. No templates. No babysitting. Just pipeline.",
+      "description_fr": "Nurtiva est un agent IA autonome qui trouve vos prospects idéaux, rédige des communications personnalisées, assure un suivi sans relâche et réserve des réunions sur votre calendrier. Aucun modèle. Pas de baby-sitting. Juste un pipeline.",
+      "category": "Sales & CRM",
+      "website": "https://nurtiva.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T17:48:34.744494+00:00"
+    },
+    {
+      "name": "SolMarketOS",
+      "slug": "polsia-solmarketos",
+      "description": "SolMarketOS is the operating system for El Paso Marketing. One dashboard to manage every client, every campaign, every result. Built for the border market.",
+      "description_fr": "SolMarketOS est le système d'exploitation d'El Paso Marketing. Un tableau de bord pour gérer chaque client, chaque campagne, chaque résultat. Construit pour le marché frontalier.",
+      "category": "Marketing & Advertising",
+      "website": "https://solmarketos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T17:48:36.162394+00:00"
+    },
+    {
+      "name": "BellFlow — Voice AI for Hotel Operations",
+      "slug": "polsia-bellflow",
+      "description": "BellFlow is voice AI that answers guest calls, captures requests, and routes tasks to the right staff member. No hold times. No lost requests. No wasted labor.",
+      "description_fr": "BellFlow est une IA vocale qui répond aux appels des invités, capture les demandes et achemine les tâches vers le bon membre du personnel. Pas de temps d'attente. Aucune demande perdue. Pas de travail inutile.",
+      "category": "AI & Machine Learning",
+      "website": "https://bellflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T17:48:36.998896+00:00"
+    },
+    {
+      "name": "Zuvo",
+      "slug": "polsia-zuvo",
+      "description": "Zuvo is an autonomous AI agent that optimizes your Krankenkasse, prepares your Steuererklärung, tracks your Pillar 3a, and manages the paperwork you avoid. In every Swiss language.",
+      "description_fr": "Zuvo est un agent IA autonome qui optimise votre Krankenkasse, prépare votre Steuererklärung, suit votre pilier 3a et gère les formalités administratives que vous évitez. Dans toutes les langues suisses.",
+      "category": "AI & Machine Learning",
+      "website": "https://zuvo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T17:48:38.496918+00:00"
+    },
+    {
+      "name": "PeptimizingHim",
+      "slug": "polsia-peptimizinghim",
+      "description": "PeptimizingHim is building the most transparent resource for men who want to optimize with peptides. Every protocol documented. Every product vetted. Every result proven.",
+      "description_fr": "PeptimizingHim crée la ressource la plus transparente pour les hommes qui souhaitent optimiser avec les peptides. Chaque protocole est documenté. Chaque produit vérifié. Chaque résultat prouvé.",
+      "category": "Real Estate",
+      "website": "https://peptimizinghim.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T17:48:39.825969+00:00"
+    },
+    {
+      "name": "MintCondition — Cleaning + Maintenance, One Company",
+      "slug": "polsia-mintcondition",
+      "description": "Philadelphia homes and businesses shouldn't need a rolodex of contractors to stay clean and well-maintained. One company. One subscription. Everything handled.",
+      "description_fr": "Les maisons et les entreprises de Philadelphie ne devraient pas avoir besoin d'un rolodex d'entrepreneurs pour rester propres et bien entretenues. Une entreprise. Un abonnement. Tout géré.",
+      "category": "Other",
+      "website": "https://mintcondition.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T17:48:41.173052+00:00"
     }
   ]
 }
