@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T19:24:43.690788+00:00",
+  "last_updated": "2026-04-12T19:59:23.236799+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -36704,10 +36704,13 @@
     {
       "name": "VegasKartsOS",
       "slug": "polsia-vegaskartos",
+      "description": "Street kart tours are a proven global phenomenon. VegasKartsOS exists to make sure the operation behind the spectacle runs as smoothly as the karts themselves. Every booking, every kart, every route, every dollar, all in one place.",
+      "description_fr": "Les circuits de street kart sont un phénomène mondial avéré. VegasKartsOS existe pour garantir que les opérations derrière le spectacle se déroulent aussi bien que les karts eux-mêmes. Chaque réservation, chaque kart, chaque itinéraire, chaque dollar, le tout au même endroit.",
+      "category": "Travel & Hospitality",
       "website": "https://vegaskartos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T19:24:26.626120+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T19:59:22.906457+00:00"
     },
     {
       "name": "Apptblitz",
@@ -36807,6 +36810,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-12T19:24:37.433924+00:00"
+    },
+    {
+      "name": "ThermaPath",
+      "slug": "polsia-thermapath",
+      "website": "https://thermapath.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T19:59:09.561017+00:00"
+    },
+    {
+      "name": "CarbonOS",
+      "slug": "polsia-carbonos-2",
+      "website": "https://carbonos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T19:59:09.920698+00:00"
+    },
+    {
+      "name": "StashDenim",
+      "slug": "polsia-stashdenim",
+      "description": "Cargo pockets. Tactical fabric. Visible zippers everywhere. Current travel pants solve the security problem by making you look like you have something to hide. StashDenim takes the opposite approach: look normal, be secure.",
+      "description_fr": "Poches cargo. Tissu tactique. Fermetures éclair visibles partout. Les pantalons de voyage actuels résolvent le problème de sécurité en vous donnant l'impression que vous avez quelque chose à cacher. StashDenim adopte l'approche inverse : ayez l'air normal, soyez en sécurité.",
+      "category": "Travel & Hospitality",
+      "website": "https://stashdenim.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:59:11.731319+00:00"
+    },
+    {
+      "name": "PitchCycle",
+      "slug": "polsia-pitchcycle",
+      "website": "https://pitchcycle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T19:59:12.114945+00:00"
+    },
+    {
+      "name": "Conquering Lion Archives",
+      "slug": "polsia-lionarchivesos",
+      "description": "Major institutions preserve their own collections. But what about the family photo albums, the church records from 1952, the handwritten letters, the audio recordings of grandparents telling stories they heard from their grandparents?",
+      "description_fr": "Les grandes institutions conservent leurs propres collections. Mais qu’en est-il des albums photos de famille, des registres paroissiaux de 1952, des lettres manuscrites, des enregistrements audio des grands-parents racontant des histoires qu’ils ont entendues de leurs grands-parents ?",
+      "category": "Real Estate",
+      "website": "https://lionarchivesos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:59:13.316547+00:00"
+    },
+    {
+      "name": "ScoopDash — Professional Pet Waste Removal, Simplified",
+      "slug": "polsia-scoopdash",
+      "description": "ScoopDash is a professional pet waste removal service for residential and commercial properties. Book online, pay digitally, and see before-and-after photos of every visit.",
+      "description_fr": "ScoopDash est un service professionnel d'élimination des déjections d'animaux pour les propriétés résidentielles et commerciales. Réservez en ligne, payez numériquement et voyez des photos avant et après de chaque visite.",
+      "category": "Other",
+      "website": "https://scoopdash.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:59:15.006533+00:00"
+    },
+    {
+      "name": "AssessFlow — Assessor Management for Accreditation Bodies",
+      "slug": "polsia-assessflow",
+      "description": "Centralized profiles for every empanelled assessor. Qualifications, domain expertise, availability, past assignments, and conflict declarations in one place. No more cross-referencing spreadsheets to find the right person for an assessment.",
+      "description_fr": "Profils centralisés pour chaque évaluateur désigné. Qualifications, expertise du domaine, disponibilité, missions passées et déclarations de conflits en un seul endroit. Fini les croisements de feuilles de calcul pour trouver la bonne personne pour une évaluation.",
+      "category": "Other",
+      "website": "https://assessflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:59:15.712606+00:00"
+    },
+    {
+      "name": "Spectate",
+      "slug": "polsia-spectate",
+      "description": "Purpose-built to index gaming ecosystems in Turkey, MENA, Southeast Asia, and Latin America. Tracks studios, funding rounds, publisher partnerships, and regulatory shifts in markets that Western tools ignore.",
+      "description_fr": "Spécialement conçu pour indexer les écosystèmes de jeux en Turquie, dans la région MENA, en Asie du Sud-Est et en Amérique latine. Suit les studios, les cycles de financement, les partenariats avec les éditeurs et les changements réglementaires sur les marchés que les outils occidentaux ignorent.",
+      "category": "Entertainment & Media",
+      "website": "https://spectate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:59:16.653836+00:00"
+    },
+    {
+      "name": "BareBloom — Clean Hair Care for Sensitive Skin",
+      "slug": "polsia-barebloom",
+      "description": "We believe everyone deserves hair products that work without causing harm. BareBloom is building the clean hair care standard for sensitive skin, from Chesapeake, Virginia to your bathroom shelf.",
+      "description_fr": "Nous pensons que tout le monde mérite des produits capillaires qui fonctionnent sans nuire. BareBloom crée la norme de soins capillaires propres pour les peaux sensibles, de Chesapeake, en Virginie, jusqu'à l'étagère de votre salle de bain.",
+      "category": "Other",
+      "website": "https://barebloom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:59:17.852139+00:00"
+    },
+    {
+      "name": "WeekNest",
+      "slug": "polsia-weeknest",
+      "description": "Not every parent has hours to research activities, chase down event calendars, and plan the perfect weekend. WeekNest believes the planning should be invisible, so the memories can be unforgettable.",
+      "description_fr": "Tous les parents n'ont pas le temps de rechercher des activités, de rechercher des calendriers d'événements et de planifier le week-end parfait. WeekNest estime que la planification doit être invisible afin que les souvenirs soient inoubliables.",
+      "category": "Real Estate",
+      "website": "https://weeknest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T19:59:18.681956+00:00"
     }
   ]
 }
