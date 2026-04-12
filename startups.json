@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T19:59:23.236799+00:00",
+  "last_updated": "2026-04-12T20:49:01.018664+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -36814,18 +36814,24 @@
     {
       "name": "ThermaPath",
       "slug": "polsia-thermapath",
+      "description": "Meanwhile, peer-reviewed research from Huberman Lab to the Finnish sauna studies proves that temperature, duration, frequency, and timing all matter.You wouldn't train without tracking your lifts. Why sauna without tracking your sessions?",
+      "description_fr": "Pendant ce temps, des recherches évaluées par des pairs du laboratoire Huberman et des études sur le sauna finlandais prouvent que la température, la durée, la fréquence et le timing comptent tous. Vous ne vous entraîneriez pas sans suivre vos mouvements. Pourquoi faire du sauna sans suivre vos séances ?",
+      "category": "Other",
       "website": "https://thermapath.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T19:59:09.561017+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T20:48:58.036247+00:00"
     },
     {
       "name": "CarbonOS",
       "slug": "polsia-carbonos-2",
+      "description": "Every morning: what changed in the market, what tasks completed, what needs your attention. A founder's daily brief, written by an AI that knows your business.",
+      "description_fr": "Chaque matin : ce qui a changé sur le marché, quelles tâches ont été accomplies, ce qui nécessite votre attention. Le brief quotidien d'un fondateur, rédigé par une IA qui connaît votre entreprise.",
+      "category": "AI & Machine Learning",
       "website": "https://carbonos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T19:59:09.920698+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T20:48:59.589272+00:00"
     },
     {
       "name": "StashDenim",
@@ -36841,10 +36847,13 @@
     {
       "name": "PitchCycle",
       "slug": "polsia-pitchcycle",
+      "description": "PitchCycle is an AI sales agent that finds your ideal prospects, writes personalized outreach, handles every reply, and books meetings on your calendar. No scripts. No burnout. No missed leads.",
+      "description_fr": "PitchCycle est un agent commercial IA qui trouve vos prospects idéaux, rédige des messages personnalisés, gère chaque réponse et réserve des réunions sur votre calendrier. Aucun script. Pas d'épuisement professionnel. Aucune piste manquée.",
+      "category": "Sales & CRM",
       "website": "https://pitchcycle.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T19:59:12.114945+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T20:49:01.016723+00:00"
     },
     {
       "name": "Conquering Lion Archives",
@@ -36911,6 +36920,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-12T19:59:18.681956+00:00"
+    },
+    {
+      "name": "Nurtivo",
+      "slug": "polsia-nurtivo",
+      "description": "Nurtivo researches your prospects, writes personalized outreach, follows up on autopilot, and books qualified meetings on your calendar. Every day. While you sleep.",
+      "description_fr": "Nurtivo recherche vos prospects, rédige des communications personnalisées, assure le suivi en pilote automatique et réserve des réunions qualifiées sur votre calendrier. Tous les jours. Pendant que tu dors.",
+      "category": "Sales & CRM",
+      "website": "https://nurtivo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T20:48:42.901372+00:00"
+    },
+    {
+      "name": "BassGPT",
+      "slug": "polsia-bassgptos",
+      "description": "This isn't a weekend hackathon project. BassGPT was built methodically by someone who has gigged in NYC, transcribed Paul Chambers, and knows what a bass line needs to do in a band. That experience is baked into every output.",
+      "description_fr": "Ce n'est pas un projet de hackathon du week-end. BassGPT a été construit méthodiquement par quelqu'un qui a joué à New York, a transcrit Paul Chambers et sait ce qu'une ligne de basse doit faire dans un groupe. Cette expérience est intégrée à chaque sortie.",
+      "category": "AI & Machine Learning",
+      "website": "https://bassgptos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T20:48:44.489772+00:00"
+    },
+    {
+      "name": "FundSwarm — Autonomous AI Fundraising Agents",
+      "slug": "polsia-fundswarm",
+      "description": "AI investor agents like ADIN and Agent Fund are already deploying real capital. They evaluate pitch decks, run due diligence, and make investment decisions in hours instead of months. But founders still fundraise the old way: cold emails, warm intros, pitch meetings. FundSwarm builds the other side of the table.",
+      "description_fr": "Les agents investisseurs en IA comme ADIN et Agent Fund déploient déjà du capital réel. Ils évaluent les pitch decks, effectuent une diligence raisonnable et prennent des décisions d'investissement en quelques heures au lieu de plusieurs mois. Mais les fondateurs collectent toujours des fonds à l’ancienne : e-mails froids, introductions chaleureuses, réunions de pitch. FundSwarm construit l’autre côté de la table.",
+      "category": "AI & Machine Learning",
+      "website": "https://fundswarm.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T20:48:45.625319+00:00"
+    },
+    {
+      "name": "RankVox",
+      "slug": "polsia-rankvox",
+      "description": "RankVox is built for the plumber, the dentist, the gym owner, the local attorney. The people who are great at what they do but don't have time to master Google, social media, and phone systems. That's our job.",
+      "description_fr": "RankVox est conçu pour le plombier, le dentiste, le propriétaire d'une salle de sport, l'avocat local. Les gens qui excellent dans ce qu'ils font mais qui n'ont pas le temps de maîtriser Google, les réseaux sociaux et les systèmes téléphoniques. C'est notre travail.",
+      "category": "Marketing & Advertising",
+      "website": "https://rankvox.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T20:48:46.454060+00:00"
+    },
+    {
+      "name": "Clarvio — Your Business Never Sleeps",
+      "slug": "polsia-clarvio",
+      "description": "Small businesses shouldn't have to choose between being affordable and being responsive. Clarvio is the AI employee that makes sure no customer falls through the cracks, no matter what time they reach out.",
+      "description_fr": "Les petites entreprises ne devraient pas avoir à choisir entre être abordables et réactives. Clarvio est l'employé d'IA qui veille à ce qu'aucun client ne passe entre les mailles du filet, quelle que soit l'heure à laquelle il nous contacte.",
+      "category": "AI & Machine Learning",
+      "website": "https://clarvio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T20:48:47.854310+00:00"
+    },
+    {
+      "name": "Pronto",
+      "slug": "polsia-pronto-12",
+      "description": "You're with a client. In a meeting. On another call. The phone rings and goes to voicemail.That caller moves on to your competitor.Hiring a receptionist costs over €35,000 a year. Existing AI solutions are built for American businesses, with American accents, American phone numbers, and American assumptions about how business works.European businesses deserve better.",
+      "description_fr": "Vous êtes avec un client. En réunion. Sur un autre appel. Le téléphone sonne et va sur la messagerie vocale. Cet appelant passe ensuite à votre concurrent. Embaucher une réceptionniste coûte plus de 35 000 € par an. Les solutions d’IA existantes sont conçues pour les entreprises américaines, avec des accents américains, des numéros de téléphone américains et des hypothèses américaines sur le fonctionnement des entreprises. Les entreprises européennes méritent mieux.",
+      "category": "AI & Machine Learning",
+      "website": "https://pronto-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T20:48:49.178871+00:00"
+    },
+    {
+      "name": "Honey Glow Soap Boutique",
+      "slug": "polsia-honey-glow-soap-boutique",
+      "description": "Every Honey Glow bar starts with locally sourced Sacramento honey and is cold-processed in small batches. No shortcuts, no synthetic fragrances, no ingredients you can't pronounce. Just real honey meeting real craftsmanship, one bar at a time.",
+      "description_fr": "Chaque barre Honey Glow commence avec du miel de Sacramento d'origine locale et est traitée à froid en petits lots. Pas de raccourcis, pas de parfums synthétiques, pas d'ingrédients que vous ne pouvez pas prononcer. Juste du vrai miel qui rencontre le véritable savoir-faire, une barre à la fois.",
+      "category": "Other",
+      "website": "https://honey-glow-soap-boutique.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T20:48:50.434982+00:00"
+    },
+    {
+      "name": "FlareAds",
+      "slug": "polsia-flareads",
+      "description": "You started your business to do what you love, not to become a marketing expert. But agencies charge $3,000-$10,000/month, freelancers are unreliable, and doing it yourself burns hours you don't have. FlareAds changes the math entirely.",
+      "description_fr": "Vous avez démarré votre entreprise pour faire ce que vous aimez, pas pour devenir un expert en marketing. Mais les agences facturent entre 3 000 et 10 000 dollars par mois, les pigistes ne sont pas fiables et le fait de le faire vous-même vous fait perdre des heures dont vous n'avez pas. FlareAds change complètement les calculs.",
+      "category": "Marketing & Advertising",
+      "website": "https://flareads.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T20:48:51.949388+00:00"
+    },
+    {
+      "name": "ShelfPick — One product. Every category. Done.",
+      "slug": "polsia-shelfpick",
+      "description": "ShelfPick tells you the single best product in every home category. No top-10 lists. No analysis paralysis. One pick, one reason, done.",
+      "description_fr": "ShelfPick vous indique le meilleur produit dans chaque catégorie de maison. Aucune liste des 10 meilleurs. Pas de paralysie de l’analyse. Un choix, une raison, c'est fait.",
+      "category": "Other",
+      "website": "https://shelfpick.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T20:48:53.212232+00:00"
+    },
+    {
+      "name": "ManuscriptMill — Your AI Book Factory",
+      "slug": "polsia-manuscriptmill",
+      "description": "ManuscriptMill removes the bottleneck. You bring the ideas and the editorial eye. The machine handles the 80% that's mechanical: structure, research, drafting, formatting. You handle the 20% that matters: voice, vision, genre instinct.",
+      "description_fr": "ManuscriptMill supprime le goulot d'étranglement. Vous apportez les idées et le regard éditorial. La machine gère les 80% qui sont mécaniques : structure, recherche, dessin, mise en forme. Vous gérez les 20 % qui comptent : la voix, la vision, l’instinct du genre.",
+      "category": "AI & Machine Learning",
+      "website": "https://manuscriptmill.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T20:48:54.400771+00:00"
     }
   ]
 }
