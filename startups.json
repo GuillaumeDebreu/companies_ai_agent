@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T13:06:37.633318+00:00",
+  "last_updated": "2026-04-12T14:03:54.304758+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -35793,18 +35793,24 @@
     {
       "name": "SuiteFlowOS",
       "slug": "polsia-suiteflowos",
+      "description": "Sola has 700 locations and a corporate playbook. You have 5 locations and construction instincts that cut buildout costs in half. SuiteFlowOS is how you turn that edge into 15 locations without losing what makes Salons & Studios different.",
+      "description_fr": "Sola compte 700 sites et un manuel d'entreprise. Vous disposez de 5 emplacements et d’instincts de construction qui réduisent de moitié les coûts de construction. SuiteFlowOS vous permet de transformer cet avantage en 15 emplacements sans perdre ce qui différencie les salons et studios.",
+      "category": "Real Estate",
       "website": "https://suiteflowos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T13:04:28.044737+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T14:03:51.118176+00:00"
     },
     {
       "name": "TapReach",
       "slug": "polsia-tapreach",
+      "description": "TapReach deploys NFC campaigns for local businesses. Your customers tap. You get reviews, leads, and repeat visits. No apps. No friction.",
+      "description_fr": "TapReach déploie des campagnes NFC pour les entreprises locales. Vos clients tapent. Vous obtenez des avis, des prospects et des visites répétées. Aucune application. Aucun frottement.",
+      "category": "Marketing & Advertising",
       "website": "https://tapreach.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T13:04:28.290806+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T14:03:52.475092+00:00"
     },
     {
       "name": "ShelfMind — Retail Intelligence That Works While You Sleep",
@@ -35831,10 +35837,13 @@
     {
       "name": "AnteCut",
       "slug": "polsia-antecut",
+      "description": "The same AI measurement technology that builds your perfect glove has far bigger applications. Custom-fit orthotics. Compression garments. Post-surgical wearables. Medical devices where fit directly impacts therapeutic outcome.",
+      "description_fr": "La même technologie de mesure par IA qui permet de fabriquer votre gant parfait a des applications bien plus vastes. Orthèses sur mesure. Vêtements de compression. Appareils portables post-chirurgicaux. Les dispositifs médicaux adaptés ont un impact direct sur les résultats thérapeutiques.",
+      "category": "AI & Machine Learning",
       "website": "https://antecut.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T13:04:31.898529+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T14:03:54.091783+00:00"
     },
     {
       "name": "ShelfMind",
@@ -35908,6 +35917,110 @@
       "category": "Sales & CRM",
       "website": "https://caillou.nanocorp.app",
       "scraped_at": "2026-04-12T13:05:16.490886+00:00"
+    },
+    {
+      "name": "Maison Eclipse",
+      "slug": "polsia-maison-eclipse",
+      "website": "https://maison-eclipse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T14:03:38.807132+00:00"
+    },
+    {
+      "name": "Explanation Engineering",
+      "slug": "polsia-explanation-engineering",
+      "website": "https://explanation-engineering.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T14:03:39.131124+00:00"
+    },
+    {
+      "name": "DestinyStack — Layer Every Destiny System Into One Blueprint",
+      "slug": "polsia-destinystack",
+      "description": "You have your natal chart, your body graph, your life path number, maybe even your Gene Keys profile. Each one reveals something true. But when they seem to contradict each other, you're left guessing. The missing piece isn't another reading. It's the translation layer between all of them.",
+      "description_fr": "Vous avez votre thème natal, votre graphique corporel, votre numéro de chemin de vie, peut-être même votre profil Gene Keys. Chacun révèle quelque chose de vrai. Mais quand ils semblent se contredire, on se laisse deviner. La pièce manquante n'est pas une autre lecture. C'est la couche de traduction entre eux tous.",
+      "category": "Other",
+      "website": "https://destinystack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T14:03:40.156599+00:00"
+    },
+    {
+      "name": "GoodBet",
+      "slug": "polsia-goodbet",
+      "description": "GoodBet is built on one belief: if the house is going to take a cut, some of it should go back to the world. The 90/9/1 split isn't a gimmick. It's the entire point.",
+      "description_fr": "GoodBet est construit sur une conviction : si la maison doit subir une part, une partie devrait revenir au monde. La répartition 90/9/1 n’est pas un gadget. C'est tout le problème.",
+      "category": "Other",
+      "website": "https://goodbet.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T14:03:41.364087+00:00"
+    },
+    {
+      "name": "RenewalOS — The Operating System for Renewal Life Church",
+      "slug": "polsia-renewalos",
+      "description": "Renewal Life Church doesn't just survive. It transforms. RenewalOS is the operational backbone for a ministry that serves as the only emergency shelter in its community, runs two services every Sunday, and is building toward a multi-church future that spans the country. This is what it looks like when faith meets infrastructure.",
+      "description_fr": "Renewal Life Church ne se contente pas de survivre. Cela se transforme. RenewalOS est l'épine dorsale opérationnelle d'un ministère qui sert de seul refuge d'urgence dans sa communauté, organise deux services chaque dimanche et construit un avenir multi-églises qui s'étend à travers le pays. Voilà à quoi cela ressemble lorsque la foi rencontre l’infrastructure.",
+      "category": "Social & Community",
+      "website": "https://renewalos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T14:03:42.319721+00:00"
+    },
+    {
+      "name": "Delta360OS",
+      "slug": "polsia-delta360os",
+      "description": "Delta Group 360 earned its place as Abilene's most trusted agency through relentless work and creative excellence. Delta360OS is the operating system that turns that legacy into a scalable, autonomous machine.",
+      "description_fr": "Delta Group 360 a gagné sa place en tant qu'agence la plus fiable d'Abilene grâce à un travail acharné et à son excellence créative. Delta360OS est le système d'exploitation qui transforme cet héritage en une machine évolutive et autonome.",
+      "category": "Consulting & Services",
+      "website": "https://delta360os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T14:03:43.310525+00:00"
+    },
+    {
+      "name": "FlipReview",
+      "slug": "polsia-flipreview",
+      "description": "Contractors review clients on payment reliability, communication, and whether they'd work with them again. Stop walking into nightmare projects blind.",
+      "description_fr": "Les entrepreneurs examinent les clients sur la fiabilité des paiements, la communication et s'ils travailleraient à nouveau avec eux. Arrêtez de vous lancer aveuglement dans des projets cauchemardesques.",
+      "category": "Finance & Fintech",
+      "website": "https://flipreview.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T14:03:44.674841+00:00"
+    },
+    {
+      "name": "InkSignal — Your Books Deserve an Audience",
+      "slug": "polsia-inksignal",
+      "description": "You didn't become a writer to manage content calendars. The tools that exist today are either generic social schedulers that know nothing about books, or Amazon keyword tools that don't touch social media. InkSignal bridges the gap.",
+      "description_fr": "Vous n'êtes pas devenu écrivain pour gérer des calendriers de contenu. Les outils qui existent aujourd'hui sont soit des planificateurs sociaux génériques qui ne connaissent rien aux livres, soit des outils de mots clés Amazon qui ne touchent pas aux médias sociaux. InkSignal comble le fossé.",
+      "category": "Entertainment & Media",
+      "website": "https://inksignal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T14:03:45.852550+00:00"
+    },
+    {
+      "name": "Afterwell — When someone dies, we handle the rest.",
+      "slug": "polsia-afterwell",
+      "description": "When you lose someone, you're handed a mountain of logistics: death certificates, insurance claims, bank notifications, subscription cancellations, Social Security paperwork, employer notifications, utility transfers, mail forwarding. The list doesn't care that you're grieving.",
+      "description_fr": "Lorsque vous perdez quelqu'un, vous vous retrouvez confronté à une montagne de logistique : actes de décès, réclamations d'assurance, notifications bancaires, annulations d'abonnement, formalités de sécurité sociale, notifications à l'employeur, transferts de services publics, transfert de courrier. La liste ne se soucie pas du fait que vous soyez en deuil.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://afterwell.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T14:03:47.120206+00:00"
+    },
+    {
+      "name": "SoftStormOS",
+      "slug": "polsia-softstormos",
+      "description": "SoftStormMom sells apparel, drinkware, and accessories for moms who live between bedtime stories and K-drama binges. SoftStormOS is the private command center that tracks revenue, monitors competitors, manages social content, and surfaces the insights that turn a side hustle into a real business.",
+      "description_fr": "SoftStormMom vend des vêtements, des verres et des accessoires pour les mamans qui vivent entre des histoires au coucher et des frénésie de K-drama. SoftStormOS est le centre de commande privé qui suit les revenus, surveille les concurrents, gère le contenu social et présente les informations qui transforment une activité secondaire en une véritable entreprise.",
+      "category": "Entertainment & Media",
+      "website": "https://softstormos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T14:03:48.298143+00:00"
     }
   ]
 }
