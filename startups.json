@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T10:43:13.206784+00:00",
+  "last_updated": "2026-04-12T11:22:15.120324+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -35469,18 +35469,24 @@
     {
       "name": "OfficerUp",
       "slug": "polsia-officerup",
+      "description": "Every spring, student organizations elect new executive boards. Most officers walk into roles they've never been trained for. The result: burned-out leaders, disengaged members, and advisors left picking up the pieces.",
+      "description_fr": "Chaque printemps, les organisations étudiantes élisent de nouveaux conseils d'administration. La plupart des agents accèdent à des rôles pour lesquels ils n'ont jamais été formés. Résultat : des dirigeants épuisés, des membres désengagés et des conseillers qui doivent ramasser les morceaux.",
+      "category": "Sales & CRM",
       "website": "https://officerup.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T10:43:01.378473+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T11:22:13.019517+00:00"
     },
     {
-      "name": "TraceOps",
+      "name": "TraceOps — AI That Runs Your Electronics Manufacturing",
       "slug": "polsia-traceops",
+      "description": "Contract manufacturers spend more time on spreadsheets, emails, and phone calls than on actual production. Every quote is manual. Every BOM revision triggers a chain of updates. Every client wants a status update yesterday.",
+      "description_fr": "Les sous-traitants consacrent plus de temps aux feuilles de calcul, aux e-mails et aux appels téléphoniques qu'à la production réelle. Chaque devis est manuel. Chaque révision de la nomenclature déclenche une chaîne de mises à jour. Chaque client souhaite une mise à jour de son statut hier.",
+      "category": "AI & Machine Learning",
       "website": "https://traceops.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T10:43:01.810252+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-12T11:22:14.509463+00:00"
     },
     {
       "name": "StormForge",
@@ -35566,6 +35572,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-12T10:43:09.546469+00:00"
+    },
+    {
+      "name": "Clipwerk",
+      "slug": "polsia-clipwerk",
+      "website": "https://clipwerk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T11:22:00.905872+00:00"
+    },
+    {
+      "name": "Sojoura",
+      "slug": "polsia-sojoura",
+      "website": "https://sojoura.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T11:22:01.103144+00:00"
+    },
+    {
+      "name": "VoyageLuxOS — The Operating System for Luxury Travel",
+      "slug": "polsia-voyageluxos",
+      "description": "An autonomous operating system that tracks clients, follows up on leads, monitors competitors, and keeps your pipeline warm. Built for a travel advisor who'd rather be planning dream trips than chasing spreadsheets.",
+      "description_fr": "Un système d'exploitation autonome qui suit les clients, assure le suivi des prospects, surveille les concurrents et maintient votre pipeline au chaud. Conçu pour un conseiller en voyages qui préfère planifier des voyages de rêve plutôt que de courir après des feuilles de calcul.",
+      "category": "Sales & CRM",
+      "website": "https://voyageluxos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:22:01.823607+00:00"
+    },
+    {
+      "name": "CanalKey",
+      "slug": "polsia-canalkey",
+      "description": "Most rental owners either pay someone else to run their property or burn out doing it themselves. CanalKey is the third option: an AI agent that does the work, while you keep the revenue and the control.",
+      "description_fr": "La plupart des propriétaires locatifs paient quelqu'un d'autre pour gérer leur propriété ou s'épuisent en le faisant eux-mêmes. CanalKey est la troisième option : un agent IA qui fait le travail, tandis que vous conservez les revenus et le contrôle.",
+      "category": "AI & Machine Learning",
+      "website": "https://canalkey.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:22:02.618155+00:00"
+    },
+    {
+      "name": "Spliceway",
+      "slug": "polsia-spliceway",
+      "website": "https://spliceway.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-12T11:22:02.989569+00:00"
+    },
+    {
+      "name": "FixFlow — Your AI Back Office for Home Services",
+      "slug": "polsia-fixflow-8",
+      "description": "Every evening you spend writing quotes is an evening you're not with your family. Every missed call on a job site is a customer who goes to the next handyman on Google. The admin never stops.",
+      "description_fr": "Chaque soirée que vous passez à écrire des citations est une soirée où vous n'êtes pas avec votre famille. Chaque appel manqué sur un chantier est un client qui s'adresse au prochain bricoleur de Google. L'administrateur ne s'arrête jamais.",
+      "category": "AI & Machine Learning",
+      "website": "https://fixflow-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:22:04.715083+00:00"
+    },
+    {
+      "name": "Surfdesk",
+      "slug": "polsia-surfdesk",
+      "description": "Surfdesk is an AI operations manager that handles guest communication, cleaning coordination, dynamic pricing, and compliance for vacation rental hosts. Not another dashboard. An employee.",
+      "description_fr": "Surfdesk est un gestionnaire d'opérations IA qui gère la communication avec les clients, la coordination du nettoyage, la tarification dynamique et la conformité pour les hôtes de location de vacances. Pas un autre tableau de bord. Un employé.",
+      "category": "AI & Machine Learning",
+      "website": "https://surfdesk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:22:06.205998+00:00"
+    },
+    {
+      "name": "SnapToProof — Proof your work was done right.",
+      "slug": "polsia-snaptoproof",
+      "description": "Timestamped before/after photos. No-login client links. One-tap sign-off. The proof-of-work tool built for contractors, cleaners, and service pros.",
+      "description_fr": "Photos avant/après horodatées. Liens clients sans connexion. Signature en un seul clic. L'outil de preuve de travail conçu pour les entrepreneurs, les nettoyeurs et les professionnels du service.",
+      "category": "Other",
+      "website": "https://snaptoproof.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:22:07.869881+00:00"
+    },
+    {
+      "name": "House of Yasmin",
+      "slug": "polsia-house-of-yasmin",
+      "description": "Every House of Yasmin product is made by hand in small batches. No mass production. No shortcuts. Just real ingredients, real care, and products that are as good for the planet as they are for you.",
+      "description_fr": "Chaque produit House of Yasmin est fabriqué à la main en petits lots. Pas de production de masse. Aucun raccourci. Juste de vrais ingrédients, de vrais soins et des produits aussi bons pour la planète que pour vous.",
+      "category": "Other",
+      "website": "https://house-of-yasmin.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:22:09.237605+00:00"
+    },
+    {
+      "name": "CareHive",
+      "slug": "polsia-carehive-7",
+      "description": "CareHive is the AI operations manager for home care agencies. Scheduling, family updates, insurance claims, caregiver matching. All running autonomously while you focus on what matters: care.",
+      "description_fr": "CareHive est le gestionnaire des opérations d'IA pour les agences de soins à domicile. Planification, mises à jour familiales, réclamations d'assurance, jumelage des soignants. Le tout fonctionne de manière autonome pendant que vous vous concentrez sur ce qui compte : les soins.",
+      "category": "AI & Machine Learning",
+      "website": "https://carehive-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-12T11:22:10.882171+00:00"
     }
   ]
 }
