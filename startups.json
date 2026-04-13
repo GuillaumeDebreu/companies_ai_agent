@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T03:26:03.677656+00:00",
+  "last_updated": "2026-04-13T06:01:26.776964+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -47754,10 +47754,13 @@
     {
       "name": "ResidentAgent",
       "slug": "polsia-residentagent",
+      "description": "ResidentAgent is the AI service department that plugs into home maintenance vendors. We take their customer list and handle everything: reminders, scheduling, payments, follow-up. They do the work. We fill the calendar.",
+      "description_fr": "ResidentAgent est le département de service d'IA qui se connecte aux fournisseurs de services d'entretien domestique. Nous prenons leur liste de clients et nous occupons de tout : relances, planification, paiements, suivi. Ils font le travail. Nous remplissons le calendrier.",
+      "category": "AI & Machine Learning",
       "website": "https://residentagent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-13T03:25:47.485718+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-13T06:01:26.774764+00:00"
     },
     {
       "name": "CalmamixOS",
@@ -47857,6 +47860,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-13T03:25:59.597460+00:00"
+    },
+    {
+      "name": "Saqr",
+      "slug": "polsia-saqr",
+      "description": "Saqr is an AI agent that monitors your competitors around the clock. Website changes, pricing shifts, new hires, product launches, social signals. Delivered as a daily briefing, not a dashboard you'll never check.",
+      "description_fr": "Saqr est un agent IA qui surveille vos concurrents 24 heures sur 24. Modifications de sites Web, changements de prix, nouvelles embauches, lancements de produits, signaux sociaux. Livré sous forme de briefing quotidien, pas de tableau de bord que vous ne consulterez jamais.",
+      "category": "AI & Machine Learning",
+      "website": "https://saqr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T06:01:11.602286+00:00"
+    },
+    {
+      "name": "Beyond Labels",
+      "slug": "polsia-beyond-labels",
+      "description": "People don't die because they're weak. They die because shame keeps them silent. Beyond Labels puts the truth on your chest so you don't have to find the words. Wear it. Start the conversation. Change a mind.",
+      "description_fr": "Les gens ne meurent pas parce qu'ils sont faibles. Ils meurent parce que la honte les fait taire. Beyond Labels met la vérité sur votre poitrine pour que vous n'ayez pas à trouver les mots. Portez-le. Démarrez la conversation. Changez d'avis.",
+      "category": "Other",
+      "website": "https://beyond-labels.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T06:01:12.613877+00:00"
+    },
+    {
+      "name": "Anvl",
+      "slug": "polsia-anvl",
+      "description": "They're buried in Excel tracking BOMs, chasing stakeholders for updates, and managing timelines across email threads. The tools that exist are either bloated enterprise PLM suites or generic project boards that don't speak engineering.",
+      "description_fr": "Ils sont enfouis dans Excel pour suivre les nomenclatures, rechercher les mises à jour auprès des parties prenantes et gérer les délais dans les fils de discussion par courrier électronique. Les outils qui existent sont soit des suites PLM d'entreprise surchargées, soit des tableaux de projets génériques qui ne parlent pas d'ingénierie.",
+      "category": "Newsletter & Email",
+      "website": "https://anvl.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T06:01:13.693471+00:00"
+    },
+    {
+      "name": "HoodScore",
+      "slug": "polsia-hoodscore",
+      "description": "HoodScore finds used cars under $5,000 and turns check engine lights into opportunities. Know what the code means, what the fix costs, and what the car is actually worth.",
+      "description_fr": "HoodScore trouve les voitures d'occasion à moins de 5 000 $ et transforme les voyants de contrôle du moteur en opportunités. Sachez ce que signifie le code, combien coûte la réparation et ce que vaut réellement la voiture.",
+      "category": "Other",
+      "website": "https://hoodscore.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T06:01:14.437274+00:00"
+    },
+    {
+      "name": "EloForge",
+      "slug": "polsia-eloforge",
+      "description": "EloForge analyzes your games, finds the patterns in your mistakes, and builds a training plan that evolves with you. Not engine lines. Real coaching.",
+      "description_fr": "EloForge analyse vos jeux, trouve les schémas de vos erreurs et construit un plan d'entraînement qui évolue avec vous. Pas les conduites de moteur. Un vrai coaching.",
+      "category": "Education",
+      "website": "https://eloforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T06:01:15.854117+00:00"
+    },
+    {
+      "name": "PraxisPoint — Where Systems Learn Accountability",
+      "slug": "polsia-praxispoint",
+      "description": "Compliance frameworks check boxes. Training programs expire. Meanwhile, the people these systems are supposed to protect continue to fall through structural gaps that no audit will catch. PraxisPoint exists because the distance between policy and practice is where harm lives.",
+      "description_fr": "Cases à cocher des cadres de conformité. Les programmes de formation expirent. Pendant ce temps, les personnes que ces systèmes sont censés protéger continuent de souffrir de lacunes structurelles qu’aucun audit ne parviendra à détecter. PraxisPoint existe parce que la distance entre la politique et la pratique est là où réside le mal.",
+      "category": "Education",
+      "website": "https://praxispoint.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T06:01:17.014385+00:00"
+    },
+    {
+      "name": "Knockr — Your AI Sales Rep That Never Sleeps",
+      "slug": "polsia-knockr",
+      "description": "Knockr is your AI sales rep that researches prospects, writes personalized outreach, follows up relentlessly, and books qualified meetings on your calendar. 24 hours a day. 7 days a week.",
+      "description_fr": "Knockr est votre représentant commercial IA qui recherche des prospects, rédige des communications personnalisées, assure un suivi sans relâche et réserve des réunions qualifiées sur votre calendrier. 24 heures sur 24. 7 jours sur 7.",
+      "category": "Sales & CRM",
+      "website": "https://knockr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T06:01:18.735910+00:00"
+    },
+    {
+      "name": "LunarInk",
+      "slug": "polsia-lunarink",
+      "description": "Every oracle app gives you a random card.LunarInk reads the actual sky.Your daily draws, spreads, and affirmations shift with the Moon's phases, turning each reading into a conversation between you and the cosmos.",
+      "description_fr": "Chaque application Oracle vous donne une carte aléatoire. LunarInk lit le ciel réel. Vos dessins, diffusions et affirmations quotidiens changent avec les phases de la Lune, transformant chaque lecture en une conversation entre vous et le cosmos.",
+      "category": "Other",
+      "website": "https://lunarink.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T06:01:19.874699+00:00"
+    },
+    {
+      "name": "PhenxOS",
+      "slug": "polsia-phenxos",
+      "description": "Phenx Products has machined everything from stainless steel pens to aerospace-grade defense components. PhenxOS takes that operational expertise and makes it self-running. Less time tracking. More time making.",
+      "description_fr": "Phenx Products a tout usiné, des stylos en acier inoxydable aux composants de défense de qualité aérospatiale. PhenxOS utilise cette expertise opérationnelle et la rend autonome. Moins de suivi du temps. Plus de temps à faire.",
+      "category": "Other",
+      "website": "https://phenxos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T06:01:20.981468+00:00"
+    },
+    {
+      "name": "Parlo",
+      "slug": "polsia-parlo-17",
+      "description": "Parlo is an AI agent that handles every booking, every review, every message for your business. It learns your voice, works around the clock, and never takes a day off.",
+      "description_fr": "Parlo est un agent IA qui gère chaque réservation, chaque avis, chaque message pour votre entreprise. Il apprend votre voix, travaille 24 heures sur 24 et ne prend jamais un jour de congé.",
+      "category": "AI & Machine Learning",
+      "website": "https://parlo-17.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T06:01:22.417815+00:00"
     }
   ]
 }
