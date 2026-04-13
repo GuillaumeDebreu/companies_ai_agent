@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T03:10:25.936390+00:00",
+  "last_updated": "2026-04-13T03:26:03.677656+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -37468,10 +37468,13 @@
     {
       "name": "Forty Dawns",
       "slug": "polsia-forty-dawns",
+      "description": "A storyteller who has known since childhood that words would define her life. From poems and song lyrics to published novels, Tiffanie writes to bring unseen worlds into focus. Forty Dawns is her most ambitious work: a novel that enters the silence of Scripture and listens for what happened next.",
+      "description_fr": "Une conteuse qui sait depuis son enfance que les mots définiraient sa vie. Des poèmes et paroles de chansons aux romans publiés, Tiffanie écrit pour mettre en lumière des mondes invisibles. Forty Dawns est son œuvre la plus ambitieuse : un roman qui entre dans le silence de l’Écriture et écoute ce qui s’est passé ensuite.",
+      "category": "Other",
       "website": "https://forty-dawns.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T23:55:58.016328+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-13T03:26:03.150187+00:00"
     },
     {
       "name": "Spora",
@@ -47747,6 +47750,113 @@
       "category": "Finance & Fintech",
       "website": "https://reply.nanocorp.app",
       "scraped_at": "2026-04-13T03:10:25.935941+00:00"
+    },
+    {
+      "name": "ResidentAgent",
+      "slug": "polsia-residentagent",
+      "website": "https://residentagent.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-13T03:25:47.485718+00:00"
+    },
+    {
+      "name": "CalmamixOS",
+      "slug": "polsia-calmamixos",
+      "description": "CalmamixOS is the autonomous operating system behind Calmamix. It handles competitor tracking, customer outreach, analytics, and growth ops so the founder can focus on formulation and product.",
+      "description_fr": "CalmamixOS est le système d'exploitation autonome derrière Calmamix. Il gère le suivi des concurrents, la sensibilisation des clients, l'analyse et les opérations de croissance afin que le fondateur puisse se concentrer sur la formulation et le produit.",
+      "category": "Sales & CRM",
+      "website": "https://calmamixos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T03:25:48.734203+00:00"
+    },
+    {
+      "name": "DealScope",
+      "slug": "polsia-dealscope-8",
+      "description": "DealScope monitors real estate markets around the clock, sources investment opportunities, runs comps, and underwrites properties. You wake up to a curated list of deals worth your time.",
+      "description_fr": "DealScope surveille les marchés immobiliers 24 heures sur 24, recherche des opportunités d'investissement, gère des compositions et souscrit des propriétés. Vous vous réveillez avec une liste organisée d’offres qui valent la peine.",
+      "category": "Finance & Fintech",
+      "website": "https://dealscope-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T03:25:50.109333+00:00"
+    },
+    {
+      "name": "Riff",
+      "slug": "polsia-riff-3",
+      "description": "Riff is an AI agent that autonomously creates content, schedules posts, runs campaigns, and reports results. Not a dashboard you log into. A marketing employee that works 24/7.",
+      "description_fr": "Riff est un agent d'IA qui crée du contenu de manière autonome, planifie des publications, exécute des campagnes et rapporte les résultats. Pas un tableau de bord auquel vous vous connectez. Un employé marketing qui travaille 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://riff-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T03:25:51.344669+00:00"
+    },
+    {
+      "name": "InboxPilot",
+      "slug": "polsia-inboxpilot-13",
+      "description": "Reads every incoming email, understands the intent, and crafts intelligent responses using your business context. Handles inquiries, answers FAQs, and routes complex issues to you. Your customers get a thoughtful reply in minutes, not hours.",
+      "description_fr": "Lit chaque e-mail entrant, comprend l'intention et élabore des réponses intelligentes en utilisant votre contexte commercial. Gère les demandes de renseignements, répond aux FAQ et vous transmet les problèmes complexes. Vos clients reçoivent une réponse réfléchie en quelques minutes, et non en quelques heures.",
+      "category": "Newsletter & Email",
+      "website": "https://inboxpilot-13.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T03:25:52.801348+00:00"
+    },
+    {
+      "name": "DiscbinOS — The Operating System for Discbin",
+      "slug": "polsia-discbinos",
+      "description": "Streaming fatigue is real. Collectors are coming back to discs for ownership, quality, and curation. Discbin sits at the center of this shift, and DiscbinOS makes sure you capitalize on every wave of new collectors entering the space.",
+      "description_fr": "La fatigue du streaming est réelle. Les collectionneurs reviennent aux disques pour des raisons de propriété, de qualité et de conservation. Discbin est au centre de ce changement, et DiscbinOS veille à ce que vous capitalisiez sur chaque vague de nouveaux collectionneurs entrant dans l'espace.",
+      "category": "Software & SaaS",
+      "website": "https://discbinos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T03:25:53.920661+00:00"
+    },
+    {
+      "name": "CBAPopOS",
+      "slug": "polsia-cbapop-os",
+      "description": "The operating system for CBA Pop. Track members, manage vendor partnerships, \n                and grow your mutual benefit association with autonomous AI doing the heavy lifting.",
+      "description_fr": "Le système d'exploitation pour CBA Pop. Suivre les membres, gérer les partenariats avec les fournisseurs, \n                et développez votre association mutuellement bénéfique avec une IA autonome qui fait le gros du travail.",
+      "category": "AI & Machine Learning",
+      "website": "https://cbapop-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T03:25:55.461476+00:00"
+    },
+    {
+      "name": "CheekyBreeze",
+      "slug": "polsia-cheekybreeze",
+      "description": "CheekyBreeze is the antidote. Part gift, part prank, part conversation starter. The kind of thing you buy for your friend's birthday and they keep in their car for years.",
+      "description_fr": "CheekyBreeze est l'antidote. En partie cadeau, en partie farce, en partie démarreur de conversation. Le genre de chose que vous achetez pour l’anniversaire de votre ami et qu’il garde dans sa voiture pendant des années.",
+      "category": "Other",
+      "website": "https://cheekybreeze.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T03:25:56.616551+00:00"
+    },
+    {
+      "name": "Keypillar",
+      "slug": "polsia-keypillar",
+      "description": "Keypillar is an AI operations manager for vacation rental hosts. It handles guest messages, adjusts pricing, coordinates cleaning, and manages reviews. You own the property. It runs the business.",
+      "description_fr": "Keypillar est un gestionnaire d'opérations d'IA pour les hôtes de location de vacances. Il gère les messages des clients, ajuste les prix, coordonne le nettoyage et gère les avis. Vous êtes propriétaire de la propriété. C'est lui qui gère l'entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://keypillar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T03:25:58.106896+00:00"
+    },
+    {
+      "name": "VelvetBlack Studio — Fiction for the Fearless",
+      "slug": "polsia-velvetblack-studio",
+      "description": "VelvetBlack is built for serious adult fiction. Obsession, betrayal, moral corruption, fear, jealousy, possessiveness as literary themes. It refuses content involving minors, trafficking, and non-consensual exploitation presented for titillation. Dark romance is literature. We treat it that way.",
+      "description_fr": "VelvetBlack est conçu pour la fiction sérieuse pour adultes. Obsession, trahison, corruption morale, peur, jalousie, possessivité comme thèmes littéraires. Il refuse les contenus impliquant des mineurs, du trafic et de l'exploitation non consensuelle présentés à des fins d'émulation. La romance noire est de la littérature. Nous le traitons de cette façon.",
+      "category": "Entertainment & Media",
+      "website": "https://velvetblack-studio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T03:25:59.597460+00:00"
     }
   ]
 }
