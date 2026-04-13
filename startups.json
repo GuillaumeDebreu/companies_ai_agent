@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T14:24:43.513300+00:00",
+  "last_updated": "2026-04-13T15:56:23.302033+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -48480,10 +48480,13 @@
     {
       "name": "Clientara",
       "slug": "polsia-clientara",
+      "description": "From the moment someone reaches out to the day they become a loyal repeat client, every touchpoint is managed. Booking confirmations. Reminders. Post-visit follow-ups. Payment collection. Re-engagement when they haven't visited in a while.",
+      "description_fr": "À partir du moment où quelqu'un vous contacte jusqu'au jour où il devient un client fidèle et régulier, chaque point de contact est géré. Confirmations de réservation. Rappels. Suivis post-visite. Encaissement des paiements. Réengagement lorsqu'ils ne sont pas venus depuis un certain temps.",
+      "category": "Finance & Fintech",
       "website": "https://clientara.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-13T14:24:30.634196+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-13T15:56:22.901258+00:00"
     },
     {
       "name": "Raid Coffee",
@@ -48550,6 +48553,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-13T14:24:38.686293+00:00"
+    },
+    {
+      "name": "KolEchad",
+      "slug": "polsia-kolechad",
+      "website": "https://kolechad.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-13T15:56:10.395520+00:00"
+    },
+    {
+      "name": "Voxly",
+      "slug": "polsia-voxly-14",
+      "website": "https://voxly-14.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-13T15:56:10.868004+00:00"
+    },
+    {
+      "name": "Deskflow",
+      "slug": "polsia-deskflow-46",
+      "description": "Deskflow is the AI employee that handles every inquiry, books every appointment, and follows up with every customer. Built for service businesses that can't afford to lose another lead.",
+      "description_fr": "Deskflow est l'employé de l'IA qui traite chaque demande, prend chaque rendez-vous et assure le suivi de chaque client. Conçu pour les entreprises de services qui ne peuvent pas se permettre de perdre un autre prospect.",
+      "category": "AI & Machine Learning",
+      "website": "https://deskflow-46.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T15:56:11.527663+00:00"
+    },
+    {
+      "name": "Festara",
+      "slug": "polsia-getfestara",
+      "description": "Right now, you're juggling group chats, spreadsheets, random notes, and endless back-and-forth. Guest lists in one place, budget in another, to-dos scattered everywhere. It works until it doesn't.",
+      "description_fr": "En ce moment, vous jonglez avec des discussions de groupe, des feuilles de calcul, des notes aléatoires et des allers-retours interminables. Listes d’invités à un endroit, budget à un autre, tâches éparpillées partout. Cela fonctionne jusqu'à ce que ce ne soit plus le cas.",
+      "category": "Travel & Hospitality",
+      "website": "https://getfestara.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T15:56:12.125449+00:00"
+    },
+    {
+      "name": "PitchVault",
+      "slug": "polsia-pitchvault-ai",
+      "website": "https://pitchvault-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-13T15:56:12.481039+00:00"
+    },
+    {
+      "name": "WalkieOS",
+      "slug": "polsia-walkieos-2",
+      "description": "WalkieOS runs revenue analysis, monitors competitors, and drives growth, every single day. The operating system that scales Money Walkie while you build the product.",
+      "description_fr": "WalkieOS effectue des analyses de revenus, surveille les concurrents et stimule la croissance chaque jour. Le système d'exploitation qui fait évoluer Money Walkie pendant que vous créez le produit.",
+      "category": "Other",
+      "website": "https://walkieos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T15:56:13.272668+00:00"
+    },
+    {
+      "name": "PropCurrent",
+      "slug": "polsia-propcurrent",
+      "description": "PropCurrent is building a future where rental properties run themselves. Landlords own the asset. AI runs the operation. Every tenant message answered, every repair coordinated, every dollar tracked.",
+      "description_fr": "PropCurrent construit un avenir où les propriétés locatives sont gérées elles-mêmes. Les propriétaires sont propriétaires de l'actif. L’IA dirige l’opération. Chaque message du locataire a été répondu, chaque réparation coordonnée, chaque dollar suivi.",
+      "category": "Real Estate",
+      "website": "https://propcurrent.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T15:56:14.767352+00:00"
+    },
+    {
+      "name": "Talondesk",
+      "slug": "polsia-talondesk",
+      "description": "Talondesk exists because skilled people deserve a front desk that works as hard as they do. Every call answered. Every lead captured. Every customer followed up with. Automatically.",
+      "description_fr": "Talondesk existe parce que les personnes qualifiées méritent une réception qui travaille aussi dur qu'eux. Chaque appel a répondu. Chaque piste capturée. Chaque client a suivi. Automatiquement.",
+      "category": "Marketing & Advertising",
+      "website": "https://talondesk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T15:56:15.956058+00:00"
+    },
+    {
+      "name": "WashMatch — San Antonio Pressure Washing, Matched",
+      "slug": "polsia-washmatch",
+      "description": "WashMatch is building the lead-gen platform that puts local contractors first. One lead, one pro, one deal. The way it should work.",
+      "description_fr": "WashMatch construit la plate-forme de génération de leads qui donne la priorité aux entrepreneurs locaux. Un prospect, un pro, une affaire. La façon dont cela devrait fonctionner.",
+      "category": "Software & SaaS",
+      "website": "https://washmatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T15:56:17.649919+00:00"
+    },
+    {
+      "name": "PlayGate",
+      "slug": "polsia-playgate",
+      "description": "PlayGate is a distribution platform for indie game developers. Upload your game build, and we generate interactive, try-before-you-install ad units that run across every major ad network.",
+      "description_fr": "PlayGate est une plateforme de distribution pour les développeurs de jeux indépendants. Téléchargez votre version de jeu et nous générons des blocs d'annonces interactifs à essayer avant d'installer qui s'exécutent sur tous les principaux réseaux publicitaires.",
+      "category": "Software & SaaS",
+      "website": "https://playgate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T15:56:18.388944+00:00"
     }
   ]
 }
