@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T10:10:02.541475+00:00",
+  "last_updated": "2026-04-13T11:41:40.857891+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -48099,10 +48099,13 @@
     {
       "name": "Frontli",
       "slug": "polsia-frontli-ai",
+      "description": "Frontli is the AI employee that answers every customer email, books every appointment, and follows up on every lead. 24 hours a day. 7 days a week. No humans required.",
+      "description_fr": "Frontli est l'employé IA qui répond à tous les e-mails des clients, prend chaque rendez-vous et assure le suivi de chaque piste. 24 heures sur 24. 7 jours sur 7. Aucun humain requis.",
+      "category": "AI & Machine Learning",
       "website": "https://frontli-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-13T10:09:48.884214+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-13T11:41:40.510133+00:00"
     },
     {
       "name": "AppLedger",
@@ -48202,6 +48205,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-13T10:09:59.622788+00:00"
+    },
+    {
+      "name": "PathForge",
+      "slug": "polsia-pathforge-4",
+      "website": "https://pathforge-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-13T11:41:24.874624+00:00"
+    },
+    {
+      "name": "Coldfront",
+      "slug": "polsia-coldfront-13",
+      "website": "https://coldfront-13.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-13T11:41:25.039447+00:00"
+    },
+    {
+      "name": "Kindro",
+      "slug": "polsia-kindro",
+      "description": "Kindro is an autonomous AI agent that researches prospects, writes personalized outreach, follows up relentlessly, and books meetings on your calendar. No templates. No babysitting. It just works.",
+      "description_fr": "Kindro est un agent d'IA autonome qui recherche des prospects, rédige des communications personnalisées, assure un suivi sans relâche et réserve des réunions sur votre calendrier. Aucun modèle. Pas de baby-sitting. Cela fonctionne.",
+      "category": "AI & Machine Learning",
+      "website": "https://kindro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T11:41:26.559297+00:00"
+    },
+    {
+      "name": "Claritiv",
+      "slug": "polsia-claritiv",
+      "description": "Claritiv is an autonomous AI analyst that reviews every claim, catches coding errors before they become denials, and recovers the revenue your practice is leaving on the table.",
+      "description_fr": "Claritiv est un analyste d'IA autonome qui examine chaque réclamation, détecte les erreurs de codage avant qu'elles ne se transforment en refus et récupère les revenus que votre cabinet laisse sur la table.",
+      "category": "AI & Machine Learning",
+      "website": "https://claritiv.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T11:41:27.851717+00:00"
+    },
+    {
+      "name": "Ansa",
+      "slug": "polsia-ansa-4",
+      "description": "Ansa is an AI front desk for service businesses. It handles client inquiries, scheduling, reminders, follow-ups, and reviews autonomously, so you can focus on the work that matters.",
+      "description_fr": "Ansa est une réception IA pour les entreprises de services. Il gère les demandes des clients, la planification, les rappels, les suivis et les évaluations de manière autonome, afin que vous puissiez vous concentrer sur le travail qui compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://ansa-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T11:41:29.417064+00:00"
+    },
+    {
+      "name": "Consentium",
+      "slug": "polsia-consentium",
+      "description": "Consentium lets citizens propose and vote on legislation through a cryptographic architecture that makes linking any voter to their ballot mathematically impossible.",
+      "description_fr": "Consentium permet aux citoyens de proposer et de voter des lois grâce à une architecture cryptographique qui rend mathématiquement impossible la liaison de tout électeur à son bulletin de vote.",
+      "category": "Finance & Fintech",
+      "website": "https://consentium.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T11:41:30.501488+00:00"
+    },
+    {
+      "name": "DabOGram",
+      "slug": "polsia-dabogram",
+      "description": "DabOGramsends a camera crew with the strongest concentrates and coolest rigs straight to your friend's door. It's the ultimate surprise for anyone over 21.",
+      "description_fr": "DabOGram envoie une équipe de tournage avec les concentrés les plus puissants et les équipements les plus cool directement à la porte de votre ami. C'est la surprise ultime pour toute personne de plus de 21 ans.",
+      "category": "Other",
+      "website": "https://dabogram.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T11:41:31.862004+00:00"
+    },
+    {
+      "name": "Blackthorn",
+      "slug": "polsia-blackthorn",
+      "description": "Blackthorn is an AI agent that continuously pen tests your systems, finds vulnerabilities, and generates actionable reports. No scheduling. No waiting. No $50K invoices.",
+      "description_fr": "Blackthorn est un agent d'IA qui teste en permanence vos systèmes, détecte les vulnérabilités et génère des rapports exploitables. Pas de planning. Pas d'attente. Aucune facture de 50 000 $.",
+      "category": "AI & Machine Learning",
+      "website": "https://blackthorn.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T11:41:33.385264+00:00"
+    },
+    {
+      "name": "FacelessFlowOS",
+      "slug": "polsia-facelessflowos",
+      "description": "FacelessFlowOS is the command center for creators who let their content, products, and automation do the talking. Privacy-first. Revenue-focused. Always on.",
+      "description_fr": "FacelessFlowOS est le centre de commande pour les créateurs qui laissent parler leur contenu, leurs produits et leur automatisation. La confidentialité avant tout. Axé sur les revenus. Toujours allumé.",
+      "category": "Productivity & Automation",
+      "website": "https://facelessflowos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T11:41:34.926414+00:00"
+    },
+    {
+      "name": "FreshThread",
+      "slug": "polsia-freshthread",
+      "description": "Independent boutique owners wear every hat. Curating collections, posting to Instagram, answering DMs, tracking inventory, shipping orders. There aren't enough hours. FreshThread changes that.",
+      "description_fr": "Les propriétaires de boutiques indépendantes portent tous les chapeaux. Organiser les collections, publier sur Instagram, répondre aux DM, suivre l'inventaire, expédier les commandes. Il n'y a pas assez d'heures. FreshThread change cela.",
+      "category": "Marketing & Advertising",
+      "website": "https://freshthread.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T11:41:36.499302+00:00"
     }
   ]
 }
