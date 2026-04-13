@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T08:19:29.783128+00:00",
+  "last_updated": "2026-04-13T10:10:02.541475+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -48014,10 +48014,13 @@
     {
       "name": "Selah",
       "slug": "polsia-selah-5",
+      "description": "You open a devotional app and get the same verse 10 million other people got today. You log a prayer request and never hear about it again. You start a Bible study plan and abandon it by week three because it feels disconnected from your actual life.",
+      "description_fr": "Vous ouvrez une application de dévotion et obtenez le même verset que 10 millions d’autres personnes ont reçu aujourd’hui. Vous enregistrez une demande de prière et n’en entendez plus jamais parler. Vous commencez un plan d’étude biblique et l’abandonnez au bout de la troisième semaine parce qu’il vous semble déconnecté de votre vie réelle.",
+      "category": "Other",
       "website": "https://selah-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-13T08:19:22.022675+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-13T10:10:01.818076+00:00"
     },
     {
       "name": "FluxLab",
@@ -48072,12 +48075,15 @@
       "scraped_at": "2026-04-13T08:19:27.023231+00:00"
     },
     {
-      "name": "SkillPages",
+      "name": "SkillPages — Practical guides for the stuff nobody teaches you",
       "slug": "polsia-skillpages",
+      "description": "SkillPages creates short, clear instructional ebooks for the everyday things people Google but never fully figure out. Distributed through social media, priced so anyone can afford them.",
+      "description_fr": "SkillPages crée des ebooks pédagogiques courts et clairs pour les choses quotidiennes que les gens recherchent sur Google mais ne comprennent jamais complètement. Distribué via les réseaux sociaux, à un prix accessible à tous.",
+      "category": "Marketing & Advertising",
       "website": "https://skillpages.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-13T08:19:27.123472+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-13T10:10:02.495604+00:00"
     },
     {
       "name": "BKOS",
@@ -48089,6 +48095,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-13T08:19:28.194531+00:00"
+    },
+    {
+      "name": "Frontli",
+      "slug": "polsia-frontli-ai",
+      "website": "https://frontli-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-13T10:09:48.884214+00:00"
+    },
+    {
+      "name": "AppLedger",
+      "slug": "polsia-appledger",
+      "description": "Upload your App Store Connect and Google Play reports. Get annual revenue by country, subscription breakdowns by recognition date, and audit-ready financials. No spreadsheet gymnastics.",
+      "description_fr": "Téléchargez vos rapports App Store Connect et Google Play. Obtenez des revenus annuels par pays, la répartition des abonnements par date de comptabilisation et des états financiers prêts à être audités. Pas de gymnastique de tableur.",
+      "category": "Finance & Fintech",
+      "website": "https://appledger.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T10:09:49.554859+00:00"
+    },
+    {
+      "name": "SpecRight — Procurement intelligence that starts where it matters",
+      "slug": "polsia-specright",
+      "description": "As teams build scopes and report outcomes, SpecRight builds a proprietary procurement effectiveness dataset. What works. What drives savings. What categories respond to competition. This intelligence compounds with every user, creating a moat no competitor can replicate without the same base.",
+      "description_fr": "À mesure que les équipes établissent des périmètres et rendent compte des résultats, SpecRight crée un ensemble de données exclusif sur l'efficacité des achats. Ce qui fonctionne. Ce qui génère des économies. Quelles catégories répondent à la concurrence. Cette intelligence s'ajoute à chaque utilisateur, créant un fossé qu'aucun concurrent ne peut reproduire sans la même base.",
+      "category": "Other",
+      "website": "https://specright.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T10:09:50.999349+00:00"
+    },
+    {
+      "name": "ProprioPilot — Vendez votre bien comme un pro, sans commission",
+      "slug": "polsia-propriopilot",
+      "description": "En un clic, votre annonce est adaptée et distribuée sur Leboncoin, les groupes Facebook, les réseaux sociaux. Chaque canal reçoit un contenu optimisé, pas du copier-coller.",
+      "description_fr": "En un clic, votre annonce est adaptée et distribuée sur Leboncoin, les groupes Facebook, les réseaux sociaux. Chaque canal reçoit un contenu optimisé, pas du copier-coller.",
+      "category": "Social & Community",
+      "website": "https://propriopilot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T10:09:52.170969+00:00"
+    },
+    {
+      "name": "Civika — AI Agents for Municipal Services",
+      "slug": "polsia-civika",
+      "description": "The future of municipal services isn't more software. It's fewer bottlenecks. Civika is building the operating layer that lets small governments deliver big-city service quality, powered by AI agents that work around the clock.",
+      "description_fr": "L'avenir des services municipaux ne réside pas davantage dans les logiciels. Il y a moins de goulots d'étranglement. Civika construit la couche opérationnelle qui permet aux petits gouvernements de fournir un service de qualité aux grandes villes, alimenté par des agents d'IA qui travaillent 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://civika.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T10:09:53.156651+00:00"
+    },
+    {
+      "name": "HomesteadOS",
+      "slug": "polsia-homesteados",
+      "description": "LandWatch, Zillow, and the CoStar network aggregate millions of listings. But they can't tell you if a deal is good. They can't verify data against county records. And by the time a parcel shows up on their platform, the opportunity window is closing.",
+      "description_fr": "LandWatch, Zillow et le réseau CoStar regroupent des millions d'annonces. Mais ils ne peuvent pas vous dire si une affaire est bonne. Ils ne peuvent pas vérifier les données par rapport aux registres du comté. Et au moment où un colis apparaît sur leur plateforme, la fenêtre d’opportunité se ferme.",
+      "category": "Software & SaaS",
+      "website": "https://homesteados.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T10:09:54.633499+00:00"
+    },
+    {
+      "name": "CodeSieve — Find Vulnerabilities Across Any Language",
+      "slug": "polsia-codesieve",
+      "description": "CodeSieve understands code meaning, not just patterns. It traces data flow across functions, files, and language boundaries to find vulnerabilities that grep and regex miss.",
+      "description_fr": "CodeSieve comprend la signification du code, pas seulement les modèles. Il trace le flux de données à travers les fonctions, les fichiers et les frontières linguistiques pour trouver les vulnérabilités qui manquent grep et regex.",
+      "category": "Other",
+      "website": "https://codesieve.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T10:09:56.190441+00:00"
+    },
+    {
+      "name": "ReShell — 3D",
+      "slug": "polsia-reshell",
+      "description": "Every year, billions of plastic bottles end up in landfills. ReShell diverts that waste stream into large-format 3D printers that produce structural camper modules, strong enough to handle desert trails and mountain passes. The same bottles clogging our waterways become the walls, roof, and floor of your next adventure.",
+      "description_fr": "Chaque année, des milliards de bouteilles en plastique finissent dans les décharges. ReShell détourne ce flux de déchets vers des imprimantes 3D grand format qui produisent des modules de camping-car structurels, suffisamment solides pour gérer les sentiers du désert et les cols de montagne. Les mêmes bouteilles qui obstruent nos cours d’eau deviennent les murs, le toit et le sol de votre prochaine aventure.",
+      "category": "Sustainability & Green",
+      "website": "https://reshell.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T10:09:57.124095+00:00"
+    },
+    {
+      "name": "Benchcall",
+      "slug": "polsia-benchcall",
+      "description": "You're too small for an in-house recruiter, too busy to sort through 200 resumes, and too smart to pay a staffing agency 20% of every salary. There's a gap, and you're stuck in it.",
+      "description_fr": "Vous êtes trop petit pour un recruteur interne, trop occupé pour trier 200 CV et trop intelligent pour payer à une agence de recrutement 20 % de chaque salaire. Il y a un écart et vous êtes coincé dedans.",
+      "category": "Consulting & Services",
+      "website": "https://benchcall.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T10:09:58.157350+00:00"
+    },
+    {
+      "name": "Cornice — AI Compliance Intelligence for Architecture",
+      "slug": "polsia-cornice-ai",
+      "description": "Cornice is an autonomous AI agent that reviews architectural projects against UK Building Regulations, generates compliance reports, and monitors regulatory changes. So your team can focus on designing, not reading.",
+      "description_fr": "Cornice est un agent d'IA autonome qui examine les projets architecturaux par rapport aux réglementations britanniques en matière de construction, génère des rapports de conformité et surveille les modifications réglementaires. Ainsi, votre équipe peut se concentrer sur la conception et non sur la lecture.",
+      "category": "AI & Machine Learning",
+      "website": "https://cornice-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T10:09:59.622788+00:00"
     }
   ]
 }
