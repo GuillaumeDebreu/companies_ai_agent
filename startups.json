@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T21:32:56.607868+00:00",
+  "last_updated": "2026-04-13T22:27:22.200645+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -49116,10 +49116,13 @@
     {
       "name": "PlotMail",
       "slug": "polsia-plotmail",
+      "description": "Mailchimp, ActiveCampaign, Loops. They all compete on deliverability, automation, and segmentation. The plumbing is solved. But your subscribers still delete your emails because they read like every other template in their inbox.",
+      "description_fr": "Mailchimp, ActiveCampaign, Boucles. Ils sont tous en concurrence sur la délivrabilité, l’automatisation et la segmentation. La plomberie est résolue. Mais vos abonnés suppriment toujours vos e-mails car ils se lisent comme tous les autres modèles dans leur boîte de réception.",
+      "category": "Newsletter & Email",
       "website": "https://plotmail.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-13T21:32:43.533689+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-13T22:27:20.529330+00:00"
     },
     {
       "name": "DuBoisOS — Power Your Grind",
@@ -49135,10 +49138,13 @@
     {
       "name": "Selvora",
       "slug": "polsia-selvora",
+      "description": "Selvora is an AI sales agent that finds your ideal prospects, writes personalized outreach, follows up relentlessly, and books meetings on your calendar. It works while you sleep.",
+      "description_fr": "Selvora est un agent commercial IA qui trouve vos prospects idéaux, rédige des communications personnalisées, assure un suivi sans relâche et réserve des réunions sur votre calendrier. Cela fonctionne pendant que vous dormez.",
+      "category": "Sales & CRM",
       "website": "https://selvora.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-13T21:32:44.880595+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-13T22:27:22.198617+00:00"
     },
     {
       "name": "The Good Family Tree — Every Family Has a Story Worth Finding",
@@ -49216,6 +49222,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-13T21:32:53.377206+00:00"
+    },
+    {
+      "name": "HoldZero — Your AI Receptionist",
+      "slug": "polsia-holdzero-6",
+      "description": "HoldZero makes sure someone always picks up. No hold music. No voicemail. No lost revenue. Just a friendly AI voice that knows your business inside out.",
+      "description_fr": "HoldZero s'assure que quelqu'un décroche toujours. Pas de musique d'attente. Pas de message vocal. Aucune perte de revenus. Juste une voix IA amicale qui connaît parfaitement votre entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://holdzero-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T22:27:06.380524+00:00"
+    },
+    {
+      "name": "With Love, Nesha — Hair Care & Hygiene for Seniors, Delivered",
+      "slug": "polsia-with-love-nesha",
+      "description": "Wigs, hair products, and hygiene essentials delivered directly to seniors who can't make it to the store. Because looking good and feeling cared for shouldn't depend on mobility.",
+      "description_fr": "Perruques, produits capillaires et produits d'hygiène livrés directement aux seniors qui ne peuvent pas se déplacer en magasin. Parce qu'être belle et se sentir bien ne devrait pas dépendre de la mobilité.",
+      "category": "E-Commerce & Retail",
+      "website": "https://with-love-nesha.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T22:27:07.015682+00:00"
+    },
+    {
+      "name": "TurnerOS",
+      "slug": "polsia-turneros",
+      "description": "Most people overpay for things they don't need and miss the things they do.TurnerOS changes that.We combine real product research with AI-driven curation to surface what actually matters, at prices that make sense.",
+      "description_fr": "La plupart des gens paient trop cher pour des choses dont ils n'ont pas besoin et passent à côté de ce qu'ils font. TurnerOS change cela. Nous combinons de véritables recherches de produits avec une curation basée sur l'IA pour faire ressortir ce qui compte réellement, à des prix logiques.",
+      "category": "AI & Machine Learning",
+      "website": "https://turneros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T22:27:08.381081+00:00"
+    },
+    {
+      "name": "Ruddr",
+      "slug": "polsia-ruddr",
+      "description": "The shipping industry hasn't changed in decades. Ruddr is built for the forwarders who refuse to wait any longer. Autonomous operations, from the first quote to final delivery.",
+      "description_fr": "L'industrie du transport maritime n'a pas changé depuis des décennies. Ruddr est conçu pour les transitaires qui refusent d'attendre plus longtemps. Opérations autonomes, du premier devis à la livraison finale.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://ruddr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T22:27:09.935839+00:00"
+    },
+    {
+      "name": "HoldingGrid — See Your Empire",
+      "slug": "polsia-holdinggrid",
+      "description": "Your entire entity structure as a dynamic, interactive diagram. Click any entity to see ownership chain, manager, state of formation, and compliance dates.",
+      "description_fr": "La structure entière de votre entité sous forme de diagramme dynamique et interactif. Cliquez sur n’importe quelle entité pour voir la chaîne de propriété, le gestionnaire, l’état de formation et les dates de conformité.",
+      "category": "Other",
+      "website": "https://holdinggrid.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T22:27:10.993390+00:00"
+    },
+    {
+      "name": "LensPilot",
+      "slug": "polsia-lenspilot-4",
+      "description": "LensPilot is an AI agent that runs the business side of your photography studio. It handles inquiries, sends quotes, manages contracts, and follows up on payments, all in your voice, while you do what you love.",
+      "description_fr": "LensPilot est un agent IA qui gère le côté commercial de votre studio de photographie. Il traite les demandes de renseignements, envoie des devis, gère les contrats et assure le suivi des paiements, le tout avec votre voix, pendant que vous faites ce que vous aimez.",
+      "category": "AI & Machine Learning",
+      "website": "https://lenspilot-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T22:27:11.828669+00:00"
+    },
+    {
+      "name": "CascadeVault",
+      "slug": "polsia-cascadevault",
+      "description": "Track every entity, model every distribution tier, and see exactly how your wealth cascades through the structure you built. No attorney fees. No enterprise contracts. Just clarity.",
+      "description_fr": "Suivez chaque entité, modélisez chaque niveau de distribution et voyez exactement comment votre richesse se répercute à travers la structure que vous avez construite. Pas de frais d'avocat. Pas de contrats d'entreprise. Juste de la clarté.",
+      "category": "Other",
+      "website": "https://cascadevault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T22:27:12.796946+00:00"
+    },
+    {
+      "name": "Safesip — The Lid That Keeps Them Hydrated",
+      "slug": "polsia-safesipos",
+      "description": "People with dementia forget to drink. They can't always express thirst. Standard cups spill. Caregivers are stretched thin. And every day without enough water accelerates the very condition they're fighting.",
+      "description_fr": "Les personnes atteintes de démence oublient de boire. Ils ne peuvent pas toujours exprimer leur soif. Les tasses standard se renversent. Les soignants sont à bout de souffle. Et chaque jour sans suffisamment d’eau accélère la condition même contre laquelle ils luttent.",
+      "category": "Other",
+      "website": "https://safesipos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T22:27:14.322550+00:00"
+    },
+    {
+      "name": "DigitalFlip",
+      "slug": "polsia-digitalflip",
+      "description": "The sellers who win aren't the ones with the most products. They're the ones with the strongest brand, the sharpest positioning, and bundles that feel curated rather than copied.",
+      "description_fr": "Les vendeurs qui gagnent ne sont pas ceux qui proposent le plus de produits. Ce sont ceux qui ont la marque la plus forte, le positionnement le plus précis et des offres groupées qui semblent organisées plutôt que copiées.",
+      "category": "Marketing & Advertising",
+      "website": "https://digitalflip.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T22:27:14.947603+00:00"
+    },
+    {
+      "name": "ParcBoard",
+      "slug": "polsia-parcboard",
+      "description": "ParcBoard is building the future where SMEs never worry about IT again. One autonomous agent, managing every device, every ticket, every security threat. Always on.",
+      "description_fr": "ParcBoard construit un avenir où les PME ne se soucieront plus jamais de l'informatique. Un agent autonome, gérant chaque appareil, chaque ticket, chaque menace de sécurité. Toujours allumé.",
+      "category": "AI & Machine Learning",
+      "website": "https://parcboard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T22:27:16.163543+00:00"
     }
   ]
 }
