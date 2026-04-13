@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T11:41:40.857891+00:00",
+  "last_updated": "2026-04-13T12:48:12.857410+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -48217,10 +48217,13 @@
     {
       "name": "Coldfront",
       "slug": "polsia-coldfront-13",
+      "description": "Coldfront is an AI sales agent that researches your ideal customers, writes emails they actually want to read, and books qualified meetings on your calendar. No scripts. No templates. No humans required.",
+      "description_fr": "Coldfront est un agent commercial IA qui recherche vos clients idéaux, rédige les e-mails qu'ils souhaitent réellement lire et réserve des réunions qualifiées sur votre calendrier. Aucun script. Aucun modèle. Aucun humain requis.",
+      "category": "AI & Machine Learning",
       "website": "https://coldfront-13.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-13T11:41:25.039447+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-13T12:48:12.855410+00:00"
     },
     {
       "name": "Kindro",
@@ -48309,6 +48312,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-13T11:41:36.499302+00:00"
+    },
+    {
+      "name": "WebIntelAgent",
+      "slug": "polsia-webintelos",
+      "description": "WebIntelAgent deploys autonomous AI agents that monitor the web around the clock. Competitor moves, market shifts, pricing changes. Synthesized into intelligence briefs, not data dumps.",
+      "description_fr": "WebIntelAgent déploie des agents d'IA autonomes qui surveillent le Web 24 heures sur 24. Mouvements des concurrents, changements du marché, changements de prix. Synthétisé dans des dossiers de renseignement, pas dans des décharges de données.",
+      "category": "AI & Machine Learning",
+      "website": "https://webintelos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T12:47:57.127444+00:00"
+    },
+    {
+      "name": "BeanzQuest",
+      "slug": "polsia-beanzquest",
+      "description": "The best coffee shops are the ones nobody knows about yet. Scout new shops, post them to BeanzQuest, and watch a community form around your discovery. Every Hidden Gem gets 2 months of free exposure.",
+      "description_fr": "Les meilleurs cafés sont ceux que personne ne connaît encore. Recherchez de nouvelles boutiques, publiez-les sur BeanzQuest et regardez une communauté se former autour de votre découverte. Chaque joyau caché bénéficie de 2 mois d’exposition gratuite.",
+      "category": "E-Commerce & Retail",
+      "website": "https://beanzquest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T12:47:58.664163+00:00"
+    },
+    {
+      "name": "AutoLocal",
+      "slug": "polsia-autolocal",
+      "description": "AutoLocal deploys AI agents that answer customer inquiries, qualify leads, and book appointments around the clock. Your phone rings at 2 AM? We've got it.",
+      "description_fr": "AutoLocal déploie des agents IA qui répondent aux demandes des clients, qualifient les prospects et prennent rendez-vous 24 heures sur 24. Votre téléphone sonne à 2 heures du matin ? Nous l'avons.",
+      "category": "AI & Machine Learning",
+      "website": "https://autolocal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T12:47:59.665580+00:00"
+    },
+    {
+      "name": "BreachPulse",
+      "slug": "polsia-breachpulse",
+      "description": "Existing tools dump a list of breaches and leave you on your own. BreachPulse was built by a CISO who knows exactly what needs to happen after a breach, and turned that into guided workflows anyone can follow.",
+      "description_fr": "Les outils existants dressent une liste des violations et vous laissent livré à vous-même. BreachPulse a été conçu par un RSSI qui sait exactement ce qui doit se passer après une violation, et a transformé cela en flux de travail guidés que tout le monde peut suivre.",
+      "category": "Productivity & Automation",
+      "website": "https://breachpulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T12:48:00.625907+00:00"
+    },
+    {
+      "name": "Surety",
+      "slug": "polsia-surety",
+      "description": "The insurance industry protects everything we care about. The people who work in it deserve a hiring process built for this decade, not the last one. Surety encodes decades of insurance recruiting expertise into AI that works around the clock, so the right talent finds the right role, faster.",
+      "description_fr": "Le secteur des assurances protège tout ce qui nous tient à cœur. Les personnes qui y travaillent méritent un processus de recrutement conçu pour cette décennie, et non pour la dernière. Surety code des décennies d’expertise en matière de recrutement d’assurance dans une IA qui fonctionne 24 heures sur 24, afin que le bon talent trouve le bon poste plus rapidement.",
+      "category": "AI & Machine Learning",
+      "website": "https://surety.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T12:48:02.304383+00:00"
+    },
+    {
+      "name": "OnvidaOS",
+      "slug": "polsia-onvidaos",
+      "description": "ONVIDA is building the future of corporate health in Brazil. Not by competing with traditional insurers on their terms, but by making healthcare so affordable and accessible that every SME can offer it. That's not a feature. That's a movement.",
+      "description_fr": "ONVIDA construit l'avenir de la santé en entreprise au Brésil. Non pas en rivalisant avec les assureurs traditionnels selon leurs conditions, mais en rendant les soins de santé si abordables et accessibles que chaque PME peut les offrir. Ce n'est pas une fonctionnalité. C'est un mouvement.",
+      "category": "Health & Wellness",
+      "website": "https://onvidaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T12:48:03.746527+00:00"
+    },
+    {
+      "name": "ProductJam — Know What to Build Next",
+      "slug": "polsia-productjam",
+      "description": "ProductJam exists because the gap between traction and scale is where great products either break through or stall out. We're building the tool that makes that decision clear.",
+      "description_fr": "ProductJam existe parce que l'écart entre la traction et l'échelle est l'endroit où les excellents produits perdent ou calent. Nous construisons l'outil qui rend cette décision claire.",
+      "category": "Other",
+      "website": "https://productjam.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T12:48:05.083606+00:00"
+    },
+    {
+      "name": "MoveShield — Insurance That Pays for Your Move",
+      "slug": "polsia-moveshield",
+      "description": "Every existing product protects your stuff from getting broken on the truck. That's it. Nobody covers the cost of the truck itself, the movers, the boxes, the gas. If your landlord raises rent 30% or you need to leave a bad situation, you're on your own financially.",
+      "description_fr": "Chaque produit existant protège vos affaires contre les bris sur le camion. C'est ça. Personne ne couvre le coût du camion lui-même, des déménageurs, des cartons, de l'essence. Si votre propriétaire augmente votre loyer de 30 % ou si vous devez sortir d'une mauvaise situation, vous êtes seul financièrement.",
+      "category": "Real Estate",
+      "website": "https://moveshield.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T12:48:05.858371+00:00"
+    },
+    {
+      "name": "PrintRoute",
+      "slug": "polsia-printroute",
+      "description": "Most tools compare quotes. PrintRoute compares total cost: print production, transport to delivery point, paper consumption efficiency, finishing complexity, and rush surcharges. The cheapest quote is rarely the cheapest project.",
+      "description_fr": "La plupart des outils comparent les devis. PrintRoute compare le coût total : production d'impression, transport jusqu'au point de livraison, efficacité de la consommation de papier, complexité de finition et suppléments d'urgence. Le devis le moins cher est rarement le projet le moins cher.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://printroute.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T12:48:06.965885+00:00"
+    },
+    {
+      "name": "Homesteadly",
+      "slug": "polsia-homesteadly",
+      "description": "Calendars, meal planners, budget trackers, to-do lists, maintenance logs. Families juggle them all and still miss things. Homesteadly replaces the patchwork with one AI that learns your family's rhythm and handles the rest.",
+      "description_fr": "Calendriers, planificateurs de repas, suivis de budget, listes de tâches, journaux d'entretien. Les familles jonglent avec tout cela et manquent encore de choses. Homesteadly remplace le patchwork par une IA qui apprend le rythme de votre famille et gère le reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://homesteadly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T12:48:07.880208+00:00"
     }
   ]
 }
