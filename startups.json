@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T19:44:07.552548+00:00",
+  "last_updated": "2026-04-13T20:39:41.523615+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -36469,12 +36469,15 @@
       "scraped_at": "2026-04-12T17:01:37.642748+00:00"
     },
     {
-      "name": "Sightline",
+      "name": "Sightline — Autonomous Crypto Investment Intelligence",
       "slug": "polsia-sightline-3",
+      "description": "AI agents that source deals, analyze protocols, and monitor on-chain signals around the clock. Built for crypto funds that move faster than their analysts can read.",
+      "description_fr": "Des agents d'IA qui recherchent des transactions, analysent les protocoles et surveillent les signaux en chaîne 24 heures sur 24. Conçu pour les fonds cryptographiques qui évoluent plus rapidement que ce que leurs analystes peuvent lire.",
+      "category": "AI & Machine Learning",
       "website": "https://sightline-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-12T17:48:31.250300+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-13T20:39:39.532706+00:00"
     },
     {
       "name": "Limber — Your Pocket Physio",
@@ -49002,6 +49005,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-13T19:44:02.421055+00:00"
+    },
+    {
+      "name": "RevFitOS",
+      "slug": "polsia-revfitos",
+      "description": "RevFitOS is the operating backbone for Revolution Wellness Clinic. Client management, session intelligence, revenue tracking, and growth automation, built for trainers who refuse to settle.",
+      "description_fr": "RevFitOS est l'épine dorsale opérationnelle de Revolution Wellness Clinic. Gestion des clients, intelligence des sessions, suivi des revenus et automatisation de la croissance, conçus pour les formateurs qui refusent de s'installer.",
+      "category": "Health & Wellness",
+      "website": "https://revfitos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T20:39:27.347491+00:00"
+    },
+    {
+      "name": "ShiftHound",
+      "slug": "polsia-shifthound",
+      "description": "Every unfilled shift is a pet that doesn't get seen, a vet who burns out, and a clinic that loses revenue. ShiftHound exists to make sure that never happens again.",
+      "description_fr": "Chaque quart de travail non pourvu est un animal de compagnie qui n'est pas vu, un vétérinaire qui s'épuise et une clinique qui perd des revenus. ShiftHound existe pour garantir que cela ne se reproduise plus.",
+      "category": "Health & Wellness",
+      "website": "https://shifthound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T20:39:28.706137+00:00"
+    },
+    {
+      "name": "Deskly",
+      "slug": "polsia-deskly-6",
+      "website": "https://deskly-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-13T20:39:28.877030+00:00"
+    },
+    {
+      "name": "LioraOS",
+      "slug": "polsia-lioraos-3",
+      "description": "LioraOS is the AI nerve center behind Liora Jewelry Co. Competitor tracking, customer intelligence, growth ops. Running 24/7 so Chloe doesn't have to.",
+      "description_fr": "LioraOS est le centre névralgique de l'IA derrière Liora Jewelry Co. Suivi des concurrents, intelligence client, opérations de croissance. Fonctionne 24h/24 et 7j/7 pour que Chloé n'ait pas à le faire.",
+      "category": "AI & Machine Learning",
+      "website": "https://lioraos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T20:39:30.152321+00:00"
+    },
+    {
+      "name": "CutIntoAI",
+      "slug": "polsia-cutintoai",
+      "description": "Launching with 8 manuals covering the most requested AI topics. Each one written in plain language, designed for implementation, and priced so anyone can afford to learn.",
+      "description_fr": "Lancement avec 8 manuels couvrant les sujets d'IA les plus demandés. Chacun est écrit dans un langage simple, conçu pour être mis en œuvre et tarifé pour que tout le monde puisse se permettre d'apprendre.",
+      "category": "AI & Machine Learning",
+      "website": "https://cutintoai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T20:39:31.785152+00:00"
+    },
+    {
+      "name": "ClearDock",
+      "slug": "polsia-cleardock",
+      "description": "ClearDock is building the operational backbone that lets small and mid-size fabricators compete with the giants, without hiring an army.",
+      "description_fr": "ClearDock construit l'épine dorsale opérationnelle qui permet aux petits et moyens fabricants de rivaliser avec les géants, sans embaucher une armée.",
+      "category": "Other",
+      "website": "https://cleardock.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T20:39:32.958028+00:00"
+    },
+    {
+      "name": "Posturely — AI Compliance Officer for Dental Practices",
+      "slug": "polsia-posturely",
+      "description": "Posturely is an AI agent that monitors your systems 24/7, keeps HIPAA documentation current, runs risk assessments, and makes sure you're audit-ready every single day. No spreadsheets. No surprise violations.",
+      "description_fr": "Posturely est un agent d'IA qui surveille vos systèmes 24h/24 et 7j/7, maintient à jour la documentation HIPAA, effectue des évaluations des risques et s'assure que vous êtes prêt pour un audit chaque jour. Pas de feuilles de calcul. Aucune violation surprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://posturely.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T20:39:34.569531+00:00"
+    },
+    {
+      "name": "Mixora",
+      "slug": "polsia-mixora",
+      "description": "Custom tracks, background scores, jingles, and sound design. Genre-specific, mood-matched, royalty-clear. From a 15-second sting to a full album.",
+      "description_fr": "Pistes personnalisées, musiques de fond, jingles et conception sonore. Spécifique au genre, adapté à l'ambiance, clair pour les redevances. D'une séquence de 15 secondes à un album complet.",
+      "category": "Sustainability & Green",
+      "website": "https://mixora.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T20:39:35.646139+00:00"
+    },
+    {
+      "name": "GlowDesk",
+      "slug": "polsia-glowdesk-24",
+      "description": "Creates and schedules Instagram and Facebook posts that match your voice and style. Before-and-afters, tips, seasonal promotions. Consistent presence without the effort.",
+      "description_fr": "Crée et programme des publications Instagram et Facebook qui correspondent à votre voix et à votre style. Avant-après, bons plans, promotions saisonnières. Présence constante sans effort.",
+      "category": "Other",
+      "website": "https://glowdesk-24.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T20:39:36.576188+00:00"
+    },
+    {
+      "name": "TicketNerve",
+      "slug": "polsia-ticketnerve",
+      "description": "TicketNerve is an AI agent that triages, diagnoses, and resolves IT issues for small businesses. No technicians. No hold times. No escalation chains. Just fixes.",
+      "description_fr": "TicketNerve est un agent d'IA qui trie, diagnostique et résout les problèmes informatiques des petites entreprises. Pas de techniciens. Pas de temps d'attente. Aucune chaîne d'escalade. Juste des correctifs.",
+      "category": "AI & Machine Learning",
+      "website": "https://ticketnerve.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-13T20:39:37.785794+00:00"
     }
   ]
 }
