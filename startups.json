@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T19:43:26.806499+00:00",
+  "last_updated": "2026-04-14T20:37:24.755857+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -50901,18 +50901,24 @@
     {
       "name": "YardFetch",
       "slug": "polsia-yardfetch",
+      "description": "Browse real salvage yard inventory. Order the part. We pull it off the vehicle and get it to your door. No crawling under cars in the rain.",
+      "description_fr": "Parcourez l’inventaire réel d’un chantier de récupération. Commandez la pièce. Nous le retirons du véhicule et le livrons à votre porte. Pas de rampe sous les voitures sous la pluie.",
+      "category": "Other",
       "website": "https://yardfetch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-14T19:43:13.824818+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-14T20:37:23.646574+00:00"
     },
     {
-      "name": "Charmante",
+      "name": "Charmante — Expanding Your Imagination Into Reality",
       "slug": "polsia-charmante",
+      "description": "Every structure tells a story. We design spaces that respond to how people actually live, work, and gather. Not templates dressed up with materials, but architecture that begins and ends with the humans inside it.",
+      "description_fr": "Chaque structure raconte une histoire. Nous concevons des espaces qui répondent à la façon dont les gens vivent, travaillent et se réunissent réellement. Pas des modèles habillés de matériaux, mais une architecture qui commence et se termine avec les humains qui la composent.",
+      "category": "Other",
       "website": "https://charmante.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-14T19:43:14.173489+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-14T20:37:24.711129+00:00"
     },
     {
       "name": "Kapwa — Travel is better together",
@@ -51001,6 +51007,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-14T19:43:23.420595+00:00"
+    },
+    {
+      "name": "PortopaOS",
+      "slug": "polsia-portopaos",
+      "website": "https://portopaos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-14T20:37:12.106785+00:00"
+    },
+    {
+      "name": "CampCatch",
+      "slug": "polsia-campcatch",
+      "description": "CampCatch is building a world where working parents in MetroWest Boston never lose a camp spot because they were in a meeting. Because every kid deserves a great summer, and every parent deserves peace of mind.",
+      "description_fr": "CampCatch construit un monde dans lequel les parents qui travaillent dans la région métropolitaine de Boston ne perdent jamais une place de camping parce qu'ils étaient en réunion. Parce que chaque enfant mérite un bel été et chaque parent mérite d’avoir l’esprit tranquille.",
+      "category": "Real Estate",
+      "website": "https://campcatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T20:37:13.246456+00:00"
+    },
+    {
+      "name": "ClashForge",
+      "slug": "polsia-clashforge",
+      "description": "ClashForge is building the future of competitive gaming. Every community deserves tournaments that run as well as the pros, without a full-time staff to make it happen.",
+      "description_fr": "ClashForge construit l'avenir du jeu compétitif. Chaque communauté mérite des tournois qui se déroulent aussi bien que les pros, sans un personnel à plein temps pour y parvenir.",
+      "category": "Entertainment & Media",
+      "website": "https://clashforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T20:37:14.503768+00:00"
+    },
+    {
+      "name": "NordMedOS",
+      "slug": "polsia-nordmedos-2",
+      "description": "Nord-Med a bati sa reputation sur la confiance et l'expertise. NordMedOS lui donne les outils pour transformer cette reputation en leadership national.",
+      "description_fr": "Nord-Med bat sa réputation sur la confiance et l'expertise. NordMedOS lui donne les outils pour transformer cette réputation en leadership national.",
+      "category": "Sales & CRM",
+      "website": "https://nordmedos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T20:37:15.049375+00:00"
+    },
+    {
+      "name": "ReferPipe",
+      "slug": "polsia-referpipe",
+      "description": "ReferPipe is a content-driven job discovery platform for AI work. We help people find and land roles on Mercor, Micro1, and other AI platforms. Every successful hire earns referral income.",
+      "description_fr": "ReferPipe est une plateforme de découverte d'emplois basée sur le contenu pour le travail en IA. Nous aidons les gens à trouver et à décrocher des postes sur Mercor, Micro1 et d'autres plateformes d'IA. Chaque embauche réussie génère un revenu de référence.",
+      "category": "AI & Machine Learning",
+      "website": "https://referpipe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T20:37:16.042874+00:00"
+    },
+    {
+      "name": "Lucy Nails — See It On Your Hand Before You Commit",
+      "slug": "polsia-lucy-nails",
+      "description": "Choose a base colour, accent nails, patterns and stickers, then see the result on your own hand. Upload a photo or use your camera for a live view. No more imagining. No more guessing. Just your next perfect set, visualized before a single coat goes on.",
+      "description_fr": "Choisissez une couleur de base, des ongles d'accent, des motifs et des autocollants, puis voyez le résultat par vous-même. Téléchargez une photo ou utilisez votre appareil photo pour une vue en direct. Plus besoin d'imaginer. Plus besoin de deviner. Juste votre prochain ensemble parfait, visualisé avant qu'une seule couche ne soit appliquée.",
+      "category": "Marketing & Advertising",
+      "website": "https://lucy-nails.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T20:37:17.130253+00:00"
+    },
+    {
+      "name": "TruLensOS — Asset Intelligence, Unified",
+      "slug": "polsia-trulens-os",
+      "description": "Hotels track food inventory in one system and laptops in another. Hospitals manage medical supplies separately from IT equipment. Universities run three different tools for three different departments. The result: blind spots, waste, and audits that take weeks instead of hours.",
+      "description_fr": "Les hôtels suivent les stocks de nourriture dans un système et les ordinateurs portables dans un autre. Les hôpitaux gèrent les fournitures médicales séparément des équipements informatiques. Les universités disposent de trois outils différents pour trois départements différents. Le résultat : des angles morts, du gaspillage et des audits qui prennent des semaines au lieu de plusieurs heures.",
+      "category": "Marketing & Advertising",
+      "website": "https://trulens-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T20:37:18.411835+00:00"
+    },
+    {
+      "name": "KREED",
+      "slug": "polsia-kreed",
+      "description": "Most brands pick a lane and stay there. Gym clothes that never leave the gym. Streetwear that can't keep up when you move.KREED is different. We believehow you dress should match how you live, not the other way around. Four distinct collections, one uncompromising identity.Starting with what moves you.",
+      "description_fr": "La plupart des marques choisissent une voie et y restent. Des vêtements de sport qui ne quittent jamais la salle de sport. Un streetwear qui ne peut pas suivre lorsque vous bougez. KREED est différent. Nous pensons que la façon dont vous vous habillez doit correspondre à votre façon de vivre, et non l'inverse. Quatre collections distinctes, une identité sans compromis. En commençant par ce qui vous passionne.",
+      "category": "Marketing & Advertising",
+      "website": "https://kreed.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T20:37:19.435092+00:00"
+    },
+    {
+      "name": "MindLane — Performance Coaching from a 2x Olympic Medalist",
+      "slug": "polsia-mindlane",
+      "description": "English Gardner is a Nike-sponsored sprinter who won Olympic gold in Rio and silver in Tokyo. She's a 5-time NCAA champion from Oregon, a Pac-12 Hall of Honor inductee, and co-host of The Athlete's Lounge on FloTrack.",
+      "description_fr": "English Gardner est un sprinter sponsorisé par Nike qui a remporté l'or olympique à Rio et l'argent à Tokyo. Elle est cinq fois championne de la NCAA de l'Oregon, intronisée au Temple d'honneur du Pac-12 et co-animatrice de The Athlete's Lounge sur FloTrack.",
+      "category": "Education",
+      "website": "https://mindlane.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T20:37:20.309111+00:00"
+    },
+    {
+      "name": "KeyPost — Property, Unfiltered",
+      "slug": "polsia-keypost",
+      "description": "Zillow sells your attention to agents. Redfin takes a commission. Opendoor lowballs your home. They call it \"technology.\" It's just middlemen with better marketing. KeyPost strips that out. Buyers see real prices. Sellers keep more money. Everyone sees the same information.",
+      "description_fr": "Zillow vend votre attention aux agents. Redfin prend une commission. La porte ouverte minimise votre maison. Ils appellent cela « la technologie ». Ce ne sont que des intermédiaires avec un meilleur marketing. KeyPost supprime cela. Les acheteurs voient les prix réels. Les vendeurs gardent plus d’argent. Tout le monde voit les mêmes informations.",
+      "category": "Marketing & Advertising",
+      "website": "https://keypost.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T20:37:21.802956+00:00"
     }
   ]
 }
