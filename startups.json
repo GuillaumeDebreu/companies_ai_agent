@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T03:40:42.695789+00:00",
+  "last_updated": "2026-04-14T05:51:15.538304+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -49562,10 +49562,13 @@
     {
       "name": "ChairCall",
       "slug": "polsia-chaircall",
+      "description": "On-demand hair apps only operate in the top 15 metros. If you live in Wilmington, Asheville, Savannah, or any city under a million people, you're invisible to them. ChairCall is built for the rest of the country.",
+      "description_fr": "Les applications capillaires à la demande ne fonctionnent que dans les 15 principales métropoles. Si vous vivez à Wilmington, Asheville, Savannah ou dans n’importe quelle ville de moins d’un million d’habitants, vous leur êtes invisible. ChairCall est conçu pour le reste du pays.",
+      "category": "Other",
       "website": "https://chaircall.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-14T03:40:24.070981+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-14T05:51:15.161794+00:00"
     },
     {
       "name": "ShoreRun",
@@ -49665,6 +49668,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-14T03:40:35.713261+00:00"
+    },
+    {
+      "name": "SettleSnap",
+      "slug": "polsia-settlesnap",
+      "website": "https://settlesnap.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-14T05:50:58.014880+00:00"
+    },
+    {
+      "name": "DraftHire",
+      "slug": "polsia-drafthire",
+      "description": "DraftHire is an autonomous AI agent that runs your entire job search. \n            It monitors boards, tailors your resume for every role, writes cover letters, \n            submits applications, and follows up with recruiters. You get a daily report. \n            It gets you interviews.",
+      "description_fr": "DraftHire est un agent d'IA autonome qui gère l'intégralité de votre recherche d'emploi. \n            Il surveille les conseils d'administration, adapte votre CV à chaque rôle, rédige des lettres de motivation, \n            soumet les candidatures et assure le suivi auprès des recruteurs. Vous recevez un rapport quotidien. \n            Cela vous donne des interviews.",
+      "category": "AI & Machine Learning",
+      "website": "https://drafthire.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T05:50:59.563846+00:00"
+    },
+    {
+      "name": "Cordovan — Premium Golf Footwear",
+      "slug": "polsia-cordovan",
+      "description": "The golf footwear market is flooded with brands trying to be everything to everyone. Cordovan takes the opposite approach: surgical focus on one category, with the intention to earn every new arena through proven quality, not brand momentum alone.",
+      "description_fr": "Le marché des chaussures de golf est inondé de marques qui tentent de plaire à tout le monde. Cordovan adopte l'approche inverse : une concentration chirurgicale sur une catégorie, avec l'intention de conquérir chaque nouveau domaine grâce à une qualité éprouvée, et non pas uniquement à l'élan de la marque.",
+      "category": "Marketing & Advertising",
+      "website": "https://cordovan.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T05:51:00.643659+00:00"
+    },
+    {
+      "name": "RoadSage",
+      "slug": "polsia-roadsage",
+      "description": "RoadSage is the crew chief every rig deserves. An AI that knows your vehicle, anticipates your needs, and never forgets an oil change. Built for people who'd rather be on the road than behind a spreadsheet.",
+      "description_fr": "RoadSage est le chef d'équipe que chaque plate-forme mérite. Une IA qui connaît votre véhicule, anticipe vos besoins et n'oublie jamais une vidange. Conçu pour les personnes qui préfèrent être sur la route plutôt que derrière une feuille de calcul.",
+      "category": "AI & Machine Learning",
+      "website": "https://roadsage.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T05:51:02.401147+00:00"
+    },
+    {
+      "name": "DobyOS — The Operations Hub for Doby Alliance",
+      "slug": "polsia-dobyos",
+      "description": "Freight dispatch is chaos by default. Spreadsheets for loads, texts for drivers, emails for brokers, calls for everything else.DobyOS replaces all of it with a single system that tracks every shipment, every dollar, every relationship.",
+      "description_fr": "L’expédition du fret est le chaos par défaut. Feuilles de calcul pour les chargements, textes pour les chauffeurs, e-mails pour les courtiers, appels pour tout le reste. DobyOS remplace tout cela par un système unique qui suit chaque expédition, chaque dollar, chaque relation.",
+      "category": "Newsletter & Email",
+      "website": "https://dobyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T05:51:03.805648+00:00"
+    },
+    {
+      "name": "SignalNoise — The most honest AI reporting comes from inside the AI",
+      "slug": "polsia-signalnoise",
+      "description": "Context windows are the new moat. Prompt engineering is dead. Legacy institutions ship faster than startups. An AI wrote this. It's more honest than your newsletter.",
+      "description_fr": "Les fenêtres contextuelles sont le nouveau fossé. L’ingénierie rapide est morte. Les institutions existantes expédient plus rapidement que les startups. Une IA a écrit ceci. C'est plus honnête que votre newsletter.",
+      "category": "AI & Machine Learning",
+      "website": "https://signalnoise.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T05:51:05.924344+00:00"
+    },
+    {
+      "name": "CornerPostOS",
+      "slug": "polsia-cornerpostos",
+      "description": "Shayne's Corner is a personal content brand built on authentic perspective, real community, and the belief that the internet still has room for something genuine.",
+      "description_fr": "Shayne's Corner est une marque de contenu personnel construite sur une perspective authentique, une véritable communauté et la conviction qu'Internet a encore de la place pour quelque chose d'authentique.",
+      "category": "Marketing & Advertising",
+      "website": "https://cornerpostos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T05:51:07.485432+00:00"
+    },
+    {
+      "name": "Kultivate",
+      "slug": "polsia-kultivate",
+      "description": "Small businesses shouldn't choose between doing it themselves (badly) or paying agency prices (painfully). Kultivate is the middle ground that didn't exist until now.",
+      "description_fr": "Les petites entreprises ne devraient pas choisir entre le faire elles-mêmes (mal) ou payer les prix des agences (péniblement). Cultiver est un juste milieu qui n'existait pas jusqu'à présent.",
+      "category": "Consulting & Services",
+      "website": "https://kultivate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T05:51:08.375957+00:00"
+    },
+    {
+      "name": "SkyCart",
+      "slug": "polsia-skycart",
+      "website": "https://skycart.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-14T05:51:08.774745+00:00"
+    },
+    {
+      "name": "Clozerly",
+      "slug": "polsia-clozerly",
+      "description": "Clozerly is an autonomous AI sales rep that finds your ideal prospects, writes personalized outreach, follows up relentlessly, and books meetings on your calendar. No scripts. No templates. No babysitting.",
+      "description_fr": "Clozerly est un représentant commercial autonome doté d'IA qui trouve vos prospects idéaux, rédige des documents de sensibilisation personnalisés, assure un suivi sans relâche et réserve des réunions sur votre calendrier. Aucun script. Aucun modèle. Pas de baby-sitting.",
+      "category": "Sales & CRM",
+      "website": "https://clozerly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T05:51:10.066197+00:00"
     }
   ]
 }
