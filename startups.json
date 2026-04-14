@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T05:51:15.538304+00:00",
+  "last_updated": "2026-04-14T07:18:52.018802+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -49672,10 +49672,13 @@
     {
       "name": "SettleSnap",
       "slug": "polsia-settlesnap",
+      "description": "SettleSnap continuously monitors court databases, settlement administrators, and legal filings for claims that require no proof of purchase.",
+      "description_fr": "SettleSnap surveille en permanence les bases de données judiciaires, les administrateurs de règlement et les dépôts juridiques pour les réclamations qui ne nécessitent aucune preuve d'achat.",
+      "category": "Other",
       "website": "https://settlesnap.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-14T05:50:58.014880+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-14T07:18:51.202922+00:00"
     },
     {
       "name": "DraftHire",
@@ -49772,6 +49775,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-14T05:51:10.066197+00:00"
+    },
+    {
+      "name": "SheelyOS",
+      "slug": "polsia-sheelyos",
+      "website": "https://sheelyos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-14T07:18:36.317060+00:00"
+    },
+    {
+      "name": "NoteShelf",
+      "slug": "polsia-noteshelf",
+      "website": "https://noteshelf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-14T07:18:36.708438+00:00"
+    },
+    {
+      "name": "Noema",
+      "slug": "polsia-noemaos",
+      "description": "Most AI tools try to think for you. Noema reflects your thinking back to you, illuminating patterns you couldn't see alone. Built on contemplative neuroscience, Buddhist philosophy, and transpersonal psychology, it treats consciousness as the governing intelligence, not a problem to be optimized.",
+      "description_fr": "La plupart des outils d’IA essaient de penser à votre place. Noema reflète vos réflexions, illuminant des motifs que vous ne pourriez pas voir seul. Construit sur les neurosciences contemplatives, la philosophie bouddhiste et la psychologie transpersonnelle, il traite la conscience comme une intelligence gouvernante et non comme un problème à optimiser.",
+      "category": "AI & Machine Learning",
+      "website": "https://noemaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T07:18:38.513895+00:00"
+    },
+    {
+      "name": "Boltboard — Your AI Operations Manager",
+      "slug": "polsia-boltboard",
+      "description": "Electricians, plumbers, HVAC techs, landscapers, roofers, painters. You got into this business because you're great at your trade. Boltboard makes sure the business side runs itself so you can stay on the job site where you belong.",
+      "description_fr": "Électriciens, plombiers, techniciens CVC, paysagistes, couvreurs, peintres. Vous vous êtes lancé dans ce métier parce que vous excellez dans votre métier. Boltboard s'assure que le côté commercial fonctionne de manière autonome afin que vous puissiez rester sur le chantier auquel vous appartenez.",
+      "category": "AI & Machine Learning",
+      "website": "https://boltboard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T07:18:40.122471+00:00"
+    },
+    {
+      "name": "Anthros",
+      "slug": "polsia-anthros",
+      "description": "AI-generated accounts, deepfakes, and automated bots are flooding every platform. CAPTCHAs are solved by machines. KYC costs $3-5 per check and demands government IDs. Iris-scanning hardware can't reach everyone.",
+      "description_fr": "Les comptes générés par l’IA, les deepfakes et les robots automatisés inondent toutes les plateformes. Les CAPTCHA sont résolus par des machines. KYC coûte 3 à 5 $ par chèque et exige des pièces d’identité gouvernementales. Le matériel d'analyse de l'iris ne peut pas atteindre tout le monde.",
+      "category": "Software & SaaS",
+      "website": "https://anthros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T07:18:42.515357+00:00"
+    },
+    {
+      "name": "SpookLight",
+      "slug": "polsia-spooklight",
+      "description": "Collect physical and digital editions of SpookLight originals. From foil-based visionary pieces to surface-transformation captures, each work is a one-of-a-kind record of light behaving in ways science is still catching up to.",
+      "description_fr": "Collectionnez les éditions physiques et numériques des originaux de SpookLight. Des pièces visionnaires sur papier d'aluminium aux captures de transformation de surface, chaque œuvre est un enregistrement unique en son genre de la lumière se comportant d'une manière que la science est encore en train de rattraper.",
+      "category": "Sustainability & Green",
+      "website": "https://spooklight.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T07:18:44.379023+00:00"
+    },
+    {
+      "name": "Myoflow",
+      "slug": "polsia-myoflow",
+      "description": "Solo massage practitioners lose thousands of dollars and dozens of hours every month to admin work that has nothing to do with hands-on care. Existing software gives you a better calendar. Myoflow gives you your time back.",
+      "description_fr": "Les praticiens du massage solo perdent des milliers de dollars et des dizaines d’heures chaque mois en raison d’un travail administratif qui n’a rien à voir avec des soins pratiques. Les logiciels existants vous offrent un meilleur calendrier. Myoflow vous redonne du temps.",
+      "category": "Software & SaaS",
+      "website": "https://myoflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T07:18:44.942591+00:00"
+    },
+    {
+      "name": "AgriNexus",
+      "slug": "polsia-agrinexus",
+      "description": "AgriNexus uses AI to identify promising sustainable agriculture projects, \n                evaluate their impact potential, and match them with aligned investors. \n                Due diligence that took weeks now happens in hours.",
+      "description_fr": "AgriNexus utilise l'IA pour identifier des projets d'agriculture durable prometteurs, \n                évaluez leur potentiel d’impact et associez-les à des investisseurs alignés. \n                La diligence raisonnable qui prenait des semaines se produit désormais en quelques heures.",
+      "category": "AI & Machine Learning",
+      "website": "https://agrinexus.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T07:18:45.597565+00:00"
+    },
+    {
+      "name": "Rivvex",
+      "slug": "polsia-rivvex",
+      "website": "https://rivvex.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-14T07:18:45.765178+00:00"
+    },
+    {
+      "name": "PastDailyOS",
+      "slug": "polsia-pastdailyos",
+      "description": "Built over decades by Gordon Skene, a music journalist who started by remastering analog tapes for labels like Vee-Jay and Specialty Records. What began as a personal collection became one of the largest independent audio archives in the country.",
+      "description_fr": "Construit au fil des décennies par Gordon Skene, un journaliste musical qui a commencé par remasteriser des bandes analogiques pour des labels comme Vee-Jay et Specialty Records. Ce qui a commencé comme une collection personnelle est devenue l’une des plus grandes archives audio indépendantes du pays.",
+      "category": "Entertainment & Media",
+      "website": "https://pastdailyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T07:18:46.811393+00:00"
     }
   ]
 }
