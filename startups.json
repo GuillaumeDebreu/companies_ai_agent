@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T07:50:02.622936+00:00",
+  "last_updated": "2026-04-14T08:57:55.407852+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -49779,18 +49779,24 @@
     {
       "name": "SheelyOS",
       "slug": "polsia-sheelyos",
+      "description": "SheelyOS is the AI-powered operating system built for Middletown Spine and Injury. Patient retention, practice analytics, marketing performance, and growth metrics, all in one command center built for how Dr. Sheely actually runs his practice.",
+      "description_fr": "SheelyOS est le système d'exploitation basé sur l'IA conçu pour Middletown Spine and Injury. Fidélisation des patients, analyses du cabinet, performances marketing et mesures de croissance, le tout dans un seul centre de commande conçu pour la manière dont le Dr Sheely gère réellement son cabinet.",
+      "category": "AI & Machine Learning",
       "website": "https://sheelyos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-14T07:18:36.317060+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-14T08:57:53.678992+00:00"
     },
     {
-      "name": "NoteShelf",
+      "name": "NoteShelf — Learn to Play. Find Your Sound.",
       "slug": "polsia-noteshelf",
+      "description": "NoteShelf is an AI instructor that adapts to how you play, then recommends the exact gear that matches your skill, style, and goals. Education meets the right instrument, at the right time.",
+      "description_fr": "NoteShelf est un instructeur d'IA qui s'adapte à votre façon de jouer, puis recommande l'équipement exact qui correspond à vos compétences, votre style et vos objectifs. L’éducation rencontre le bon instrument, au bon moment.",
+      "category": "AI & Machine Learning",
       "website": "https://noteshelf.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-14T07:18:36.708438+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-14T08:57:54.281097+00:00"
     },
     {
       "name": "Noema",
@@ -49861,10 +49867,13 @@
     {
       "name": "Rivvex",
       "slug": "polsia-rivvex",
+      "description": "Rivvex is an autonomous AI agent that handles your entire collections process. From friendly reminders to final notices, it gets you paid without the awkward conversations.",
+      "description_fr": "Rivvex est un agent IA autonome qui gère l'ensemble de votre processus de recouvrement. Des rappels amicaux aux avis finaux, vous êtes payé sans les conversations gênantes.",
+      "category": "AI & Machine Learning",
       "website": "https://rivvex.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-14T07:18:45.765178+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-14T08:57:55.349697+00:00"
     },
     {
       "name": "PastDailyOS",
@@ -49939,6 +49948,113 @@
       "category": "Marketing & Advertising",
       "website": "https://joblens.nanocorp.app",
       "scraped_at": "2026-04-14T07:49:32.124626+00:00"
+    },
+    {
+      "name": "ClosrBooks",
+      "slug": "polsia-closrbooks",
+      "website": "https://closrbooks.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-14T08:57:40.279917+00:00"
+    },
+    {
+      "name": "InkOriginOS",
+      "slug": "polsia-inkoriginos",
+      "description": "Then the business side showed up.Listing optimization. Pricing research. Customer outreach. Competitor tracking. Social media. Email campaigns. The work that has nothing to do with creating, and everything to do with surviving.",
+      "description_fr": "Ensuite, le côté commercial est apparu. Optimisation des listes. Recherche de prix. Sensibilisation des clients. Suivi des concurrents. Réseaux sociaux. Campagnes par e-mail. Un travail qui n’a rien à voir avec la création, mais plutôt avec la survie.",
+      "category": "Marketing & Advertising",
+      "website": "https://inkoriginos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T08:57:41.334473+00:00"
+    },
+    {
+      "name": "TaleStream",
+      "slug": "polsia-talestream",
+      "description": "The audiobook market is growing faster than any other format in publishing. TaleStream is building a catalog of original stories that meet listeners where they already are, on every platform, in every format, ready to press play.",
+      "description_fr": "Le marché du livre audio connaît une croissance plus rapide que tout autre format d’édition. TaleStream construit un catalogue d'histoires originales qui rencontrent les auditeurs là où ils se trouvent déjà, sur chaque plateforme, dans tous les formats, prêts à appuyer sur play.",
+      "category": "Software & SaaS",
+      "website": "https://talestream.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T08:57:42.267867+00:00"
+    },
+    {
+      "name": "Effacia — Protégez vos données personnelles en ligne",
+      "slug": "polsia-effacia",
+      "description": "Effacia detecte, classe et supprime vos donnees personnelles exposees en ligne. Adresse domicile, telephone prive, nom civil. Pas vos informations de cabinet. Juste ce qui ne devrait pas etre public.",
+      "description_fr": "Effacia détecte, classe et supprime vos données personnelles exposées en ligne. Adresse domicile, téléphone privé, nom civil. Pas vos informations de cabinet. Juste ce qui ne devrait pas être public.",
+      "category": "Other",
+      "website": "https://effacia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T08:57:43.313762+00:00"
+    },
+    {
+      "name": "TicketZero",
+      "slug": "polsia-ticketzero-18",
+      "description": "TicketZero is an AI that resolves IT support tickets autonomously. Password resets, software access, network issues. Handled in seconds, not hours. Built for small businesses that deserve enterprise-grade support.",
+      "description_fr": "TicketZero est une IA qui résout les tickets d'assistance informatique de manière autonome. Réinitialisations de mot de passe, accès aux logiciels, problèmes de réseau. Géré en quelques secondes, pas en heures. Conçu pour les petites entreprises qui méritent une assistance de niveau entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://ticketzero-18.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T08:57:44.497236+00:00"
+    },
+    {
+      "name": "ZapForge",
+      "slug": "polsia-zapforge",
+      "description": "ZapForge is an autonomous agent that grows your presence on Nostr, creates Bitcoin-native content, and earns Lightning sats. It works 24/7. You own the audience.",
+      "description_fr": "ZapForge est un agent autonome qui développe votre présence sur Nostr, crée du contenu natif Bitcoin et gagne des sats Lightning. Cela fonctionne 24h/24 et 7j/7. Vous possédez le public.",
+      "category": "AI & Machine Learning",
+      "website": "https://zapforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T08:57:45.747835+00:00"
+    },
+    {
+      "name": "YardPilot — Your AI Operations Manager for Lawn Care",
+      "slug": "polsia-yardpilot-3",
+      "description": "You're on a riding mower at 2pm. A new customer calls. Your current client needs to reschedule Thursday. An invoice from last week is overdue. YardPilot handles all three before you finish the back yard.",
+      "description_fr": "Vous êtes sur une tondeuse autoportée à 14 heures. Un nouveau client appelle. Votre client actuel doit reprogrammer jeudi. Une facture de la semaine dernière est en retard. YardPilot gère les trois avant de terminer la cour arrière.",
+      "category": "AI & Machine Learning",
+      "website": "https://yardpilot-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T08:57:46.660525+00:00"
+    },
+    {
+      "name": "FixMatch",
+      "slug": "polsia-fixmatch",
+      "description": "Other platforms list contractors and leave you to manage everything. FixMatch is different. It works like a dedicated project coordinator on your payroll, except it never sleeps, never forgets, and costs a fraction of what you'd pay a human.",
+      "description_fr": "D'autres plateformes répertorient les entrepreneurs et vous laissent tout gérer. FixMatch est différent. Il fonctionne comme un coordinateur de projet dédié sur votre paie, sauf qu'il ne dort jamais, n'oublie jamais et coûte une fraction de ce que vous paieriez à un humain.",
+      "category": "Software & SaaS",
+      "website": "https://fixmatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T08:57:49.121139+00:00"
+    },
+    {
+      "name": "BrandMuse",
+      "slug": "polsia-brandmuse-ai",
+      "description": "Inconsistent branding costs businesses 23% in revenue. BrandMuse enforces your visual identity and tone across Instagram, LinkedIn, email, web, and print, automatically maintaining the consistency that builds trust.",
+      "description_fr": "Une image de marque incohérente coûte aux entreprises 23 % de revenus. BrandMuse applique votre identité visuelle et votre ton sur Instagram, LinkedIn, par courrier électronique, sur le Web et sur papier, en maintenant automatiquement la cohérence qui renforce la confiance.",
+      "category": "Marketing & Advertising",
+      "website": "https://brandmuse-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T08:57:50.235828+00:00"
+    },
+    {
+      "name": "CoverNest — Never scramble for coverage again",
+      "slug": "polsia-covernest",
+      "description": "CoverNest is an AI staffing agent for daycare centers. When a teacher calls out, it finds qualified coverage, checks your ratios, and fills the shift before your alarm goes off.",
+      "description_fr": "CoverNest est un agent de recrutement d'IA pour les garderies. Lorsqu'un enseignant vous appelle, il trouve une couverture qualifiée, vérifie vos ratios et remplit le poste avant que votre alarme ne sonne.",
+      "category": "AI & Machine Learning",
+      "website": "https://covernest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T08:57:50.954539+00:00"
     }
   ]
 }
