@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T15:51:42.260247+00:00",
+  "last_updated": "2026-04-14T16:57:42.071572+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -50562,12 +50562,15 @@
       "scraped_at": "2026-04-14T15:51:27.988104+00:00"
     },
     {
-      "name": "MailMindOS",
+      "name": "MailMind — Your Inbox Never Sleeps",
       "slug": "polsia-mailmindos",
+      "description": "MailMind is an AI agent that reads, triages, and drafts replies to your email 24/7. You wake up to a managed inbox, not an overwhelming one.",
+      "description_fr": "MailMind est un agent IA qui lit, trie et rédige les réponses à votre e-mail 24h/24 et 7j/7. Vous vous réveillez avec une boîte de réception gérée, pas une boîte de réception écrasante.",
+      "category": "AI & Machine Learning",
       "website": "https://mailmindos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-14T15:51:28.225119+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-14T16:57:41.370683+00:00"
     },
     {
       "name": "RadioActiveOS",
@@ -50656,6 +50659,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-14T15:51:37.448280+00:00"
+    },
+    {
+      "name": "FunnelZeroOS",
+      "slug": "polsia-funnelzeroos",
+      "website": "https://funnelzeroos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-14T16:57:29.543076+00:00"
+    },
+    {
+      "name": "IronArc",
+      "slug": "polsia-ironarc",
+      "website": "https://ironarc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-14T16:57:29.795639+00:00"
+    },
+    {
+      "name": "PropReady",
+      "slug": "polsia-propready",
+      "website": "https://propready.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-14T16:57:30.278534+00:00"
+    },
+    {
+      "name": "CartClimb",
+      "slug": "polsia-cartclimb",
+      "website": "https://cartclimb.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-14T16:57:30.627216+00:00"
+    },
+    {
+      "name": "BloomOS",
+      "slug": "polsia-bloomos-7",
+      "description": "Better Beginnings has spent seven years building trust in the Richmond behavioral health community. BloomOS exists so the business side of the practice keeps up with the clinical mission. Healing is the priority. Everything else runs in the background.",
+      "description_fr": "Better Beginnings a passé sept ans à bâtir la confiance dans la communauté de santé comportementale de Richmond. BloomOS existe pour que le côté commercial du cabinet suive le rythme de la mission clinique. La guérison est la priorité. Tout le reste s'exécute en arrière-plan.",
+      "category": "Health & Wellness",
+      "website": "https://bloomos-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T16:57:31.996974+00:00"
+    },
+    {
+      "name": "TechHaulOS",
+      "slug": "polsia-techhaulos",
+      "description": "TechHaulOS is the command center for TechHaulers and CL Tech Recycling. \n                Pickup scheduling, job tracking, customer management, and materials recovery, \n                all in one place. Built to scale an e-waste business from trucks to territory.",
+      "description_fr": "TechHaulOS est le centre de commande des TechHaulers et CL Tech Recycling. \n                Planification des enlèvements, suivi des travaux, gestion des clients et récupération des matériaux, \n                le tout en un seul endroit. Conçu pour faire évoluer une entreprise de déchets électroniques des camions au territoire.",
+      "category": "Productivity & Automation",
+      "website": "https://techhaulos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T16:57:33.233318+00:00"
+    },
+    {
+      "name": "Kenan's Elite — Premium Detailing & Services",
+      "slug": "polsia-kenans-elite",
+      "description": "The Raeford-Fayetteville area is full of specialists. A detailer here, a pressure washer there, a cleaning crew somewhere else. Kenan's Elite consolidates it all into one trusted provider. One relationship, one standard of quality, one number to call.",
+      "description_fr": "La région de Raeford-Fayetteville regorge de spécialistes. Un dessinateur ici, un nettoyeur haute pression là, une équipe de nettoyage ailleurs. Kenan's Elite regroupe tout cela en un seul fournisseur de confiance. Une relation, un standard de qualité, un numéro à appeler.",
+      "category": "Other",
+      "website": "https://kenans-elite.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T16:57:34.048814+00:00"
+    },
+    {
+      "name": "Brut Nomad — 6 Items. 1 Week. Gone.",
+      "slug": "polsia-brut-nomad",
+      "description": "Brut Nomad is the opposite of infinite scroll. We source six exceptional pieces each week from artisan makers, heritage brands, and independent designers across the globe.",
+      "description_fr": "Brut Nomad est à l’opposé du scroll infini. Nous nous approvisionnons chaque semaine en six pièces exceptionnelles auprès d'artisans, de marques patrimoniales et de designers indépendants du monde entier.",
+      "category": "Marketing & Advertising",
+      "website": "https://brut-nomad.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T16:57:35.061652+00:00"
+    },
+    {
+      "name": "SprintHire — 83 Days → 24 Hours",
+      "slug": "polsia-sprinthire",
+      "description": "No resumes. No weeks of silence. Record a 2-minute video pitch, get AI-matched to roles that fit you, interview instantly, and start working. The entire hiring cycle, compressed into a single day.",
+      "description_fr": "Pas de CV. Pas de semaines de silence. Enregistrez un pitch vidéo de 2 minutes, faites correspondre l'IA aux rôles qui vous conviennent, interviewez instantanément et commencez à travailler. L’ensemble du cycle de recrutement, compressé en une seule journée.",
+      "category": "AI & Machine Learning",
+      "website": "https://sprinthire.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T16:57:36.029570+00:00"
+    },
+    {
+      "name": "MyoSync",
+      "slug": "polsia-myosync",
+      "description": "The core of MyoSync. Learns each patient's behavior patterns and intervenes at the right moment. Sends personalized reminders, adapts exercise difficulty, and predicts which patients are at risk of dropping off, so you can act before they do.",
+      "description_fr": "Le cœur de MyoSync. Apprend les comportements de chaque patient et intervient au bon moment. Envoie des rappels personnalisés, adapte la difficulté de l'exercice et prédit quels patients risquent d'abandonner, afin que vous puissiez agir avant qu'ils ne le fassent.",
+      "category": "Health & Wellness",
+      "website": "https://myosync.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T16:57:37.165190+00:00"
     }
   ]
 }
