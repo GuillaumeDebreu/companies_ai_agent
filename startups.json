@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T21:33:35.911571+00:00",
+  "last_updated": "2026-04-14T22:27:02.042363+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -51118,18 +51118,24 @@
     {
       "name": "DeskSpark",
       "slug": "polsia-deskspark-ai",
+      "description": "You're on a job site, in a meeting, helping a customer. The phone rings. It goes to voicemail. \n                That callermoves on to your competitor who answered. \n                DeskSpark makes sure that never happens again.",
+      "description_fr": "Vous êtes sur un chantier, en réunion, en train d'aider un client. Le téléphone sonne. Il va à la messagerie vocale. \n                Cet appelant passe à votre concurrent qui a répondu. \n                DeskSpark veille à ce que cela ne se reproduise plus.",
+      "category": "Newsletter & Email",
       "website": "https://deskspark-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-14T21:33:23.212269+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-14T22:27:00.696987+00:00"
     },
     {
       "name": "Growthbolt",
       "slug": "polsia-growthbolt",
+      "description": "An autonomous AI agent that researches prospects, writes personalized outreach, and follows up until they reply. The sales team small businesses actually need.",
+      "description_fr": "Un agent IA autonome qui recherche les prospects, rédige des messages personnalisés et assure le suivi jusqu'à ce qu'ils répondent. L’équipe commerciale dont les petites entreprises ont réellement besoin.",
+      "category": "Sales & CRM",
       "website": "https://growthbolt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-14T21:33:23.426632+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-14T22:27:01.885973+00:00"
     },
     {
       "name": "RemunIQ",
@@ -51218,6 +51224,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-14T21:33:33.403902+00:00"
+    },
+    {
+      "name": "Fynch",
+      "slug": "polsia-fynch",
+      "website": "https://fynch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-14T22:26:45.432207+00:00"
+    },
+    {
+      "name": "EaselOps — Your Art Business, on Autopilot",
+      "slug": "polsia-easelops",
+      "description": "Independent artists spend half their time on business operations: photographing work, writing listings, posting to social media, emailing collectors, scheduling markets, managing inventory. The tools that exist? Built for tech companies, not studios.",
+      "description_fr": "Les artistes indépendants consacrent la moitié de leur temps aux opérations commerciales : photographier leurs œuvres, rédiger des listes, publier sur les réseaux sociaux, envoyer des e-mails aux collectionneurs, planifier des marchés, gérer les stocks. Les outils qui existent ? Conçu pour les entreprises technologiques, pas pour les studios.",
+      "category": "Marketing & Advertising",
+      "website": "https://easelops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T22:26:46.872065+00:00"
+    },
+    {
+      "name": "StudioHive",
+      "slug": "polsia-studiohive",
+      "description": "The handmade economy is worth $268 billion in the US alone. The people creating that value shouldn't spend half their time on spreadsheets and SEO. StudioHive changes that equation.",
+      "description_fr": "L’économie artisanale représente 268 milliards de dollars rien qu’aux États-Unis. Les personnes qui créent cette valeur ne devraient pas consacrer la moitié de leur temps aux feuilles de calcul et au référencement. StudioHive change cette équation.",
+      "category": "Marketing & Advertising",
+      "website": "https://studiohive.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T22:26:47.997415+00:00"
+    },
+    {
+      "name": "Vetify — Healthcare Data That Passes Every Test",
+      "slug": "polsia-vetify",
+      "description": "Healthcare data is too important to leave to batch processing and manual review. Vetify brings the rigor of automated quality assurance to every provider record in your system.",
+      "description_fr": "Les données de santé sont trop importantes pour être traitées par lots et examinées manuellement. Vetify apporte la rigueur de l'assurance qualité automatisée à chaque enregistrement de fournisseur dans votre système.",
+      "category": "Health & Wellness",
+      "website": "https://vetify.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T22:26:49.002740+00:00"
+    },
+    {
+      "name": "UptimeOS",
+      "slug": "polsia-uptimeos",
+      "description": "Backup Business Internet keeps your operations running when your primary connection doesn't. Built by telecom veterans who've spent 20 years keeping businesses connected.",
+      "description_fr": "Backup Business Internet maintient vos opérations en cours lorsque votre connexion principale ne le fait pas. Construit par des vétérans des télécommunications qui ont passé 20 ans à maintenir les entreprises connectées.",
+      "category": "Sustainability & Green",
+      "website": "https://uptimeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T22:26:49.644460+00:00"
+    },
+    {
+      "name": "OrlandoAIOS",
+      "slug": "polsia-orlandoaios",
+      "description": "OrlandoAIOS is the command center for AI Orlando Consulting. Pipeline, client tracking, readiness assessments, competitive intel, and outreach, all managed from one place.",
+      "description_fr": "OrlandoAIOS est le centre de commande d'AI Orlando Consulting. Pipeline, suivi des clients, évaluations de l'état de préparation, informations sur la concurrence et sensibilisation, le tout géré à partir d'un seul endroit.",
+      "category": "AI & Machine Learning",
+      "website": "https://orlandoaios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T22:26:50.894174+00:00"
+    },
+    {
+      "name": "Speakly — Voice dictation that respects your privacy",
+      "slug": "polsia-speakly",
+      "description": "Your voice data is processed and discarded. No recordings stored. No audio used for training. End-to-end encryption on every request. This is the dictation tool privacy professionals would build for themselves.",
+      "description_fr": "Vos données vocales sont traitées et supprimées. Aucun enregistrement stocké. Aucun audio utilisé pour la formation. Chiffrement de bout en bout sur chaque requête. Il s’agit de l’outil de dictée que les professionnels de la protection de la vie privée pourraient créer eux-mêmes.",
+      "category": "E-Commerce & Retail",
+      "website": "https://speakly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T22:26:52.146923+00:00"
+    },
+    {
+      "name": "ListWise",
+      "slug": "polsia-listwise",
+      "description": "ListWise is an AI agent that monitors, enriches, and optimizes every product listing across your store. No dashboards to check. No spreadsheets to update. It just works.",
+      "description_fr": "ListWise est un agent d'IA qui surveille, enrichit et optimise chaque liste de produits dans votre boutique. Aucun tableau de bord à vérifier. Aucune feuille de calcul à mettre à jour. Cela fonctionne.",
+      "category": "AI & Machine Learning",
+      "website": "https://listwise.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T22:26:53.274742+00:00"
+    },
+    {
+      "name": "FlowTalk",
+      "slug": "polsia-flowtalk",
+      "description": "FlowTalk builds AI-powered chatbots that handle sales, support, and engagement across WhatsApp, Messenger, and web chat. No code. No enterprise contracts. Just conversations that convert.",
+      "description_fr": "FlowTalk crée des chatbots basés sur l'IA qui gèrent les ventes, l'assistance et l'engagement sur WhatsApp, Messenger et le chat Web. Aucun code. Pas de contrats d'entreprise. Juste des conversations qui convertissent.",
+      "category": "AI & Machine Learning",
+      "website": "https://flowtalk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T22:26:54.860300+00:00"
+    },
+    {
+      "name": "GrowthPulseOS",
+      "slug": "polsia-growthpulseos",
+      "description": "AAG All Around Growth exists because businesses deserve better than piecemeal solutions. One system. Every channel. Real results. Built in Cleveland for businesses everywhere.",
+      "description_fr": "AAG All Around Growth existe parce que les entreprises méritent mieux que des solutions fragmentaires. Un système. Chaque chaîne. De vrais résultats. Construit à Cleveland pour les entreprises du monde entier.",
+      "category": "Marketing & Advertising",
+      "website": "https://growthpulseos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-14T22:26:56.084517+00:00"
     }
   ]
 }
