@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T22:04:24.451527+00:00",
+  "last_updated": "2026-04-15T22:59:00.191603+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -55318,10 +55318,13 @@
     {
       "name": "Peavey Financial",
       "slug": "polsia-peavey-financial",
+      "description": "Peavey Financial delivers the financial clarity real estate investors need to make confident decisions. Every number verified. Every month. No exceptions.",
+      "description_fr": "Peavey Financial offre la clarté financière dont les investisseurs immobiliers ont besoin pour prendre des décisions en toute confiance. Chaque numéro est vérifié. Chaque mois. Aucune exception.",
+      "category": "Finance & Fintech",
       "website": "https://peavey-financial.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T22:04:11.484812+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T22:58:59.234948+00:00"
     },
     {
       "name": "FieldDesk",
@@ -55418,6 +55421,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-15T22:04:19.472384+00:00"
+    },
+    {
+      "name": "ResultsOS",
+      "slug": "polsia-resultsos",
+      "website": "https://resultsos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T22:58:47.766507+00:00"
+    },
+    {
+      "name": "CrankCrate",
+      "slug": "polsia-crankcrate",
+      "website": "https://crankcrate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T22:58:48.093002+00:00"
+    },
+    {
+      "name": "ExtLift",
+      "slug": "polsia-extlift",
+      "website": "https://extlift.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T22:58:48.394831+00:00"
+    },
+    {
+      "name": "Celestune",
+      "slug": "polsia-celestune",
+      "website": "https://celestune.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T22:58:48.803122+00:00"
+    },
+    {
+      "name": "Closio",
+      "slug": "polsia-closio-2",
+      "website": "https://closio-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T22:58:49.055600+00:00"
+    },
+    {
+      "name": "Gridhaus — Web Design & Development Agency",
+      "slug": "polsia-gridhaus",
+      "description": "Gridhaus is a Los Angeles web design and development agency. We build fast, sharp, conversion-focused websites for businesses that refuse to blend in.",
+      "description_fr": "Gridhaus est une agence de conception et de développement de sites Web à Los Angeles. Nous construisons des sites Web rapides, précis et axés sur la conversion pour les entreprises qui refusent de se fondre dans la masse.",
+      "category": "Consulting & Services",
+      "website": "https://gridhaus.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T22:58:50.186261+00:00"
+    },
+    {
+      "name": "SaveSlot",
+      "slug": "polsia-saveslot",
+      "description": "SaveSlot runs 24/7. It already knows what you want. When a deal hits your threshold, you get a ping. When a sale is predicted, you get a heads up. You just buy.",
+      "description_fr": "SaveSlot fonctionne 24h/24 et 7j/7. Il sait déjà ce que vous voulez. Lorsqu'une transaction atteint votre seuil, vous recevez un ping. Lorsqu’une vente est prévue, vous êtes averti. Vous venez d'acheter.",
+      "category": "Other",
+      "website": "https://saveslot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T22:58:51.864898+00:00"
+    },
+    {
+      "name": "DropRadarOS — Your Radar for Everything Dropping",
+      "slug": "polsia-dropradaros",
+      "description": "DropRadar is being built to become the default place people check before every weekend, every month, every season. One destination for what's next in entertainment.",
+      "description_fr": "DropRadar est conçu pour devenir l'endroit par défaut que les gens vérifient avant chaque week-end, chaque mois, chaque saison. Une destination pour l'avenir du divertissement.",
+      "category": "Entertainment & Media",
+      "website": "https://dropradaros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T22:58:53.026238+00:00"
+    },
+    {
+      "name": "VaerfelOS — Command Center for an Indie Idle RPG",
+      "slug": "polsia-vaerfelos",
+      "description": "Players are fed up with predatory monetization. Every top idle MMO thread on Reddit includes complaints about pay-to-win mechanics. Vaerfel Idle's \"power is earned through teamwork and time\" philosophy isn't just ethical. It's a market gap.",
+      "description_fr": "Les joueurs en ont assez de la monétisation prédatrice. Chaque fil de discussion MMO inactif sur Reddit comprend des plaintes concernant les mécanismes de paiement pour gagner. La philosophie de Vaerfel Idle selon laquelle « le pouvoir s'acquiert grâce au travail d'équipe et au temps » n'est pas seulement éthique. C'est une lacune du marché.",
+      "category": "Marketing & Advertising",
+      "website": "https://vaerfelos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T22:58:54.348057+00:00"
+    },
+    {
+      "name": "RentalFlip",
+      "slug": "polsia-rentalflip",
+      "description": "RentalFlip gives landlords the research, tools, and guidance to confidently transition from long-term leases to short-term rentals, and unlock 2-3x the income from the property they already own.",
+      "description_fr": "RentalFlip offre aux propriétaires la recherche, les outils et les conseils nécessaires pour passer en toute confiance des baux à long terme aux locations à court terme et débloquer 2 à 3 fois les revenus de la propriété qu'ils possèdent déjà.",
+      "category": "Real Estate",
+      "website": "https://rentalflip.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T22:58:56.085931+00:00"
     }
   ]
 }
