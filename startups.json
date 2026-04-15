@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T17:53:01.747102+00:00",
+  "last_updated": "2026-04-15T19:10:41.484807+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -54867,12 +54867,15 @@
       "scraped_at": "2026-04-15T16:44:45.139017+00:00"
     },
     {
-      "name": "Pagerloop",
+      "name": "Pagerloop — AI That Runs Your IT Helpdesk",
       "slug": "polsia-pagerloop",
+      "description": "Pagerloop is an AI operations layer for managed service providers. It ingests helpdesk tickets, diagnoses root cause, and resolves common issues autonomously. Your team handles the hard stuff. Pagerloop handles everything else.",
+      "description_fr": "Pagerloop est une couche d'opérations d'IA pour les fournisseurs de services gérés. Il ingère les tickets du service d'assistance, diagnostique la cause première et résout les problèmes courants de manière autonome. Votre équipe gère les choses difficiles. Pagerloop gère tout le reste.",
+      "category": "AI & Machine Learning",
       "website": "https://pagerloop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T17:52:46.567118+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T19:10:40.171259+00:00"
     },
     {
       "name": "RackBet",
@@ -54888,10 +54891,13 @@
     {
       "name": "LoreLab",
       "slug": "polsia-lorelab",
+      "description": "Weasleys' Wizard Wheezes reported revenue of 500,000 Galleons and operating expenses of 420,000 Galleons last quarter. Calculate the shop's net income and determine its profit margin. Would Gringotts consider this a healthy business?",
+      "description_fr": "Weasleys' Wizard Wheezes a déclaré un chiffre d'affaires de 500 000 galions et des dépenses d'exploitation de 420 000 galions au dernier trimestre. Calculez le revenu net du magasin et déterminez sa marge bénéficiaire. Gringotts considérerait-il cela comme une entreprise saine ?",
+      "category": "E-Commerce & Retail",
       "website": "https://lorelab.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T17:52:48.202452+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T19:10:41.281321+00:00"
     },
     {
       "name": "CodeMedic",
@@ -54969,6 +54975,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-15T17:52:57.178409+00:00"
+    },
+    {
+      "name": "OptInOS",
+      "slug": "polsia-optinos",
+      "website": "https://optinos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T19:10:23.775526+00:00"
+    },
+    {
+      "name": "YieldKit",
+      "slug": "polsia-yieldkit",
+      "description": "YieldKit is the ops layer for AI asset farms. Deploy faceless YouTube channels, \n                automated content sites, and digital income streams from a single dashboard. \n                No stitching tools together. No manual setup.",
+      "description_fr": "YieldKit est la couche opérationnelle pour les fermes d'actifs d'IA. Déployez des chaînes YouTube sans visage, \n                des sites de contenu automatisés et des flux de revenus numériques à partir d'un seul tableau de bord. \n                Aucun outil de couture ensemble. Aucune configuration manuelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://yieldkit.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T19:10:25.429924+00:00"
+    },
+    {
+      "name": "SkyForge",
+      "slug": "polsia-skyforge",
+      "description": "Every hour you spend in structured VR training is an hour less burning fuel and budget on maneuvers you could have mastered at home. SkyForge is building the bridge between your headset and your checkride.",
+      "description_fr": "Chaque heure que vous consacrez à une formation VR structurée représente une heure de consommation de carburant et de budget en moins pour les manœuvres que vous auriez pu maîtriser à la maison. SkyForge construit le pont entre votre casque et votre checkride.",
+      "category": "Education",
+      "website": "https://skyforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T19:10:26.589009+00:00"
+    },
+    {
+      "name": "Prox",
+      "slug": "polsia-prox",
+      "description": "Every dating app copied Tinder. We copied what actually works. A proximity grid that shows you everyone nearby, with real-time distance.",
+      "description_fr": "Chaque application de rencontres a copié Tinder. Nous avons copié ce qui fonctionne réellement. Une grille de proximité qui vous montre toutes les personnes à proximité, avec une distance en temps réel.",
+      "category": "Social & Community",
+      "website": "https://prox.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T19:10:27.624809+00:00"
+    },
+    {
+      "name": "Stillwater Spaces — Plunge Pool + Deck Systems",
+      "slug": "polsia-stillwater-spaces",
+      "description": "Everyone sells you a cold plunge.Nobody solves where it goes.Stillwater Spaces designs the complete environment: the plunge, the deck, the proportions, the equipment, all in one cohesive system that feels like it was always there.",
+      "description_fr": "Tout le monde vous vend un plongeon froid. Personne ne décide où il va. Stillwater Spaces conçoit l'environnement complet : le plongeon, le pont, les proportions, l'équipement, le tout dans un système cohérent qui donne l'impression qu'il a toujours été là.",
+      "category": "Sustainability & Green",
+      "website": "https://stillwater-spaces.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T19:10:29.374842+00:00"
+    },
+    {
+      "name": "Ironlight Pictures",
+      "slug": "polsia-ironlight-pictures",
+      "description": "Most production companies are started by dealmakers. Ironlight was started by someone who's managed call sheets, coordinated extras in the rain, and kept a 200-person set running on time. That operational discipline shapes every project we touch.",
+      "description_fr": "La plupart des sociétés de production sont créées par des négociateurs. Ironlight a été lancé par quelqu'un qui gérait les feuilles d'appel, coordonnait les extras sous la pluie et maintenait un groupe de 200 personnes à l'heure. Cette discipline opérationnelle façonne chaque projet auquel nous participons.",
+      "category": "Other",
+      "website": "https://ironlight-pictures.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T19:10:30.181158+00:00"
+    },
+    {
+      "name": "Grace2Go Coffee",
+      "slug": "polsia-grace2goos",
+      "description": "Grace2Go Coffee is a ministry-driven business supporting Mission Tabernacle Church of the Nazarene. When you buy a bag, you're not just getting great beans. You're keeping outreach programs alive, feeding neighbors, and building something bigger than a cup of coffee.",
+      "description_fr": "Grace2Go Coffee est une entreprise dirigée par le ministère qui soutient l'Église Mission Tabernacle du Nazaréen. Lorsque vous achetez un sac, vous n'obtenez pas seulement d'excellents grains. Vous maintenez les programmes de sensibilisation en vie, nourrissez les voisins et construisez quelque chose de plus grand qu'une tasse de café.",
+      "category": "Sales & CRM",
+      "website": "https://grace2goos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T19:10:32.051111+00:00"
+    },
+    {
+      "name": "Stowly — Your Facility Runs Itself",
+      "slug": "polsia-stowly",
+      "description": "Stowly was born from the daily reality of managing a self-storage facility. Every feature solves a problem we lived. The goal is simple: free operators to grow their business instead of running it.",
+      "description_fr": "Stowly est né de la réalité quotidienne de la gestion d'un espace de self-stockage. Chaque fonctionnalité résout un problème que nous avons vécu. L’objectif est simple : permettre aux opérateurs de développer leur activité au lieu de la gérer.",
+      "category": "Marketing & Advertising",
+      "website": "https://stowly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T19:10:33.354115+00:00"
+    },
+    {
+      "name": "AeroLuster — Premium Private Aviation Detailing",
+      "slug": "polsia-aeroluster",
+      "description": "We understand composite surfaces, pressurized doors, and flight-critical systems. Every technician is trained in aviation safety protocols before touching your aircraft.",
+      "description_fr": "Nous comprenons les surfaces composites, les portes pressurisées et les systèmes critiques pour le vol. Chaque technicien est formé aux protocoles de sécurité aérienne avant de toucher votre avion.",
+      "category": "AI & Machine Learning",
+      "website": "https://aeroluster.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T19:10:34.871953+00:00"
+    },
+    {
+      "name": "Pious Land Holdings",
+      "slug": "polsia-piouslandholdings",
+      "description": "Memphis sits at the intersection of affordability and growth. With thousands of vacant parcels, active land bank programs, and a wave of neighborhood revitalization, the opportunity for principled land investors has never been stronger.",
+      "description_fr": "Memphis se situe à l’intersection de l’abordabilité et de la croissance. Avec des milliers de parcelles vacantes, des programmes actifs de réserves foncières et une vague de revitalisation des quartiers, l'opportunité pour les investisseurs fonciers de principe n'a jamais été aussi forte.",
+      "category": "Other",
+      "website": "https://piouslandholdings.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T19:10:36.486436+00:00"
     }
   ]
 }
