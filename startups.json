@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T20:11:03.524955+00:00",
+  "last_updated": "2026-04-15T21:08:00.048979+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -55098,18 +55098,24 @@
     {
       "name": "Roammate",
       "slug": "polsia-roammate",
+      "description": "Browse students within walking distance. Filter by language, university, or interests. See who just arrived this week and who's been here a semester.",
+      "description_fr": "Parcourez les étudiants à distance de marche. Filtrez par langue, université ou intérêts. Voyez qui vient d'arriver cette semaine et qui est ici depuis un semestre.",
+      "category": "Education",
       "website": "https://roammate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T20:10:50.008928+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T21:07:58.495461+00:00"
     },
     {
       "name": "WeFixItOS",
       "slug": "polsia-wefixitos",
+      "description": "Crestron Master Programmers don't grow on trees. You've spent decades building knowledge that generalist repair shops can't match. WeFixItOS makes sure none of that gets lost in spreadsheets or forgotten follow-ups.",
+      "description_fr": "Les Master Programmeurs Crestron ne poussent pas sur les arbres. Vous avez passé des décennies à acquérir des connaissances que les ateliers de réparation généralistes ne peuvent égaler. WeFixItOS veille à ce que rien de tout cela ne soit perdu dans les feuilles de calcul ou dans les suivis oubliés.",
+      "category": "E-Commerce & Retail",
       "website": "https://wefixitos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T20:10:50.479187+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T21:07:59.813103+00:00"
     },
     {
       "name": "Roamara",
@@ -55198,6 +55204,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-15T20:10:59.037524+00:00"
+    },
+    {
+      "name": "Silent Dads",
+      "slug": "polsia-silent-dads",
+      "website": "https://silent-dads.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T21:07:45.085887+00:00"
+    },
+    {
+      "name": "WinnersCircleOS",
+      "slug": "polsia-winnerscircleos",
+      "website": "https://winnerscircleos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T21:07:45.492461+00:00"
+    },
+    {
+      "name": "FoxOS",
+      "slug": "polsia-foxos-2",
+      "description": "FoxOS takes that trust and compounds it.Every lead gets a fast response. Every finished project becomes a review. Every happy customer becomes a referral source.The same craftsmanship that goes into your kitchens, applied to how you run the business.",
+      "description_fr": "FoxOS prend cette confiance et l'aggrave. Chaque prospect reçoit une réponse rapide. Chaque projet terminé devient une revue. Chaque client satisfait devient une source de référence. Le même savoir-faire que celui utilisé dans vos cuisines s'applique à la façon dont vous gérez l'entreprise.",
+      "category": "Marketing & Advertising",
+      "website": "https://foxos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T21:07:47.014727+00:00"
+    },
+    {
+      "name": "Helmdeck",
+      "slug": "polsia-helmdeck",
+      "description": "Helmdeck is an AI operations manager that handles scheduling, invoicing, customer follow-ups, and marketing for service businesses. Autonomously. Every day. While you sleep.",
+      "description_fr": "Helmdeck est un responsable des opérations d'IA qui gère la planification, la facturation, le suivi des clients et le marketing pour les entreprises de services. De manière autonome. Tous les jours. Pendant que tu dors.",
+      "category": "AI & Machine Learning",
+      "website": "https://helmdeck.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T21:07:48.160055+00:00"
+    },
+    {
+      "name": "Rivvu",
+      "slug": "polsia-rivvu",
+      "description": "Birdeye and Podium charge $300+/month for features designed for 500-location franchises. Your restaurant, salon, or dental practice needs something simpler, smarter, and built for one thing: getting you more customers through better reviews.",
+      "description_fr": "Birdeye et Podium facturent plus de 300 $/mois pour les fonctionnalités conçues pour les franchises de 500 emplacements. Votre restaurant, salon ou cabinet dentaire a besoin de quelque chose de plus simple, de plus intelligent et conçu dans un seul but : attirer plus de clients grâce à de meilleurs avis.",
+      "category": "Food & Beverage",
+      "website": "https://rivvu.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T21:07:49.623581+00:00"
+    },
+    {
+      "name": "LadderWatchOS — The Operating System for Ladder Safety",
+      "slug": "polsia-ladderwatchos",
+      "description": "While generic platforms spread thin across every safety category, Ladder Watch goes deep on the one that matters most. Purpose-built monitoring for the equipment that causes more workplace injuries than almost anything else. Based in Washington, DC, serving the contractors and facility managers who can't afford to guess.",
+      "description_fr": "Alors que les plates-formes génériques sont réparties dans toutes les catégories de sécurité, Ladder Watch se concentre sur celle qui compte le plus. Surveillance spécialement conçue pour les équipements qui causent plus de blessures au travail que presque tout autre objet. Basé à Washington, DC, au service des entrepreneurs et des gestionnaires d'installations qui ne peuvent pas se permettre de deviner.",
+      "category": "Software & SaaS",
+      "website": "https://ladderwatchos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T21:07:50.761352+00:00"
+    },
+    {
+      "name": "CipherIntel",
+      "slug": "polsia-cipherintel",
+      "description": "CipherIntel is building a world where any team, \n                at any scale, can make decisions with the same quality of intelligence \n                that was once reserved for three-letter agencies.",
+      "description_fr": "CipherIntel construit un monde où toute équipe, \n                à n’importe quelle échelle, peut prendre des décisions avec la même qualité d’intelligence \n                qui était autrefois réservé aux agences trois lettres.",
+      "category": "Other",
+      "website": "https://cipherintel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T21:07:51.694792+00:00"
+    },
+    {
+      "name": "CradleDesk — Your Childcare Center, On Autopilot",
+      "slug": "polsia-cradledesk",
+      "description": "CradleDesk is the AI employee that handles parent updates, enrollment, billing, and compliance for your childcare center. You focus on the kids. It handles the rest.",
+      "description_fr": "CradleDesk est l'employé de l'IA qui gère les mises à jour des parents, l'inscription, la facturation et la conformité de votre garderie. Vous vous concentrez sur les enfants. Il gère le reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://cradledesk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T21:07:53.353724+00:00"
+    },
+    {
+      "name": "TrellisOps",
+      "slug": "polsia-trellisops",
+      "description": "You started coaching to help people. Now you spend half your day on operations. Client emails. Onboarding workflows. Scheduling. Program delivery logistics. The business side grew faster than you did, and hiring an OBM costs $5,000+ per month. So you keep doing it yourself, and coaching takes a back seat.",
+      "description_fr": "Vous avez commencé à coacher pour aider les gens. Désormais, vous consacrez la moitié de votre journée aux opérations. E-mails des clients. Flux de travail d'intégration. Planification. Logistique de livraison du programme. Le côté commercial a connu une croissance plus rapide que vous et l'embauche d'un OBM coûte plus de 5 000 $ par mois. Alors vous continuez à le faire vous-même et le coaching passe au second plan.",
+      "category": "Productivity & Automation",
+      "website": "https://trellisops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T21:07:54.958747+00:00"
+    },
+    {
+      "name": "MarketPlusOS",
+      "slug": "polsia-marketplusos",
+      "description": "MarketPlusOS is the operating system for Market Plus.Client pipelines, campaign performance, competitor intel, and outreach. All in one place, powered by AI that works while you sleep.",
+      "description_fr": "MarketPlusOS est le système d'exploitation pour Market Plus. Pipelines de clients, performances des campagnes, informations sur les concurrents et sensibilisation. Le tout au même endroit, alimenté par une IA qui fonctionne pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://marketplusos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T21:07:56.133722+00:00"
     }
   ]
 }
