@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T22:59:00.191603+00:00",
+  "last_updated": "2026-04-15T23:54:22.096110+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -55433,34 +55433,46 @@
     {
       "name": "CrankCrate",
       "slug": "polsia-crankcrate",
+      "description": "CrankCrate ships the exact motor oil, filter, and extras your car needs, on a schedule that matches how you drive. No trips to the parts store. No wrong filter. No hassle.",
+      "description_fr": "CrankCrate expédie exactement l'huile moteur, le filtre et les extras dont votre voiture a besoin, selon un calendrier qui correspond à votre façon de conduire. Pas de déplacement au magasin de pièces détachées. Pas de mauvais filtre. Pas de soucis.",
+      "category": "E-Commerce & Retail",
       "website": "https://crankcrate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T22:58:48.093002+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T23:54:18.952192+00:00"
     },
     {
       "name": "ExtLift",
       "slug": "polsia-extlift",
+      "description": "Upload your legacy TYPO3 extension, pick a target version, and get a detailed migration report. AI-powered analysis that turns weeks of manual review into minutes.",
+      "description_fr": "Téléchargez votre ancienne extension TYPO3, choisissez une version cible et obtenez un rapport de migration détaillé. Analyse basée sur l'IA qui transforme des semaines de révision manuelle en quelques minutes.",
+      "category": "AI & Machine Learning",
       "website": "https://extlift.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T22:58:48.394831+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T23:54:19.719029+00:00"
     },
     {
       "name": "Celestune",
       "slug": "polsia-celestune",
+      "description": "Every person's chart is a one-of-a-kind map of personality, emotion, and potential. Celestune reads that map and turns it into something you can hear, feel, and share with the people who matter most.",
+      "description_fr": "Le thème de chaque personne est une carte unique en son genre de la personnalité, des émotions et du potentiel. Celestune lit cette carte et la transforme en quelque chose que vous pouvez entendre, ressentir et partager avec les personnes qui comptent le plus.",
+      "category": "Other",
       "website": "https://celestune.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T22:58:48.803122+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T23:54:20.969568+00:00"
     },
     {
-      "name": "Closio",
+      "name": "Closio — AI Sales Agent for $99/month",
       "slug": "polsia-closio-2",
+      "description": "Closio finds your ideal prospects, writes personalized outreach, and follows up until they book. Same work as a full-time SDR, at a fraction of the cost.",
+      "description_fr": "Closio trouve vos prospects idéaux, rédige des informations personnalisées et assure le suivi jusqu'à ce qu'ils réservent. Même travail qu’un SDR à temps plein, à une fraction du coût.",
+      "category": "Sales & CRM",
       "website": "https://closio-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T22:58:49.055600+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T23:54:21.851796+00:00"
     },
     {
       "name": "Gridhaus — Web Design & Development Agency",
@@ -55516,6 +55528,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-15T22:58:56.085931+00:00"
+    },
+    {
+      "name": "TenantVault",
+      "slug": "polsia-tenantvault",
+      "website": "https://tenantvault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T23:54:09.381960+00:00"
+    },
+    {
+      "name": "Go Dutch Home Buyers — Fair Cash Offers for Houston Homes",
+      "slug": "polsia-godutchos",
+      "description": "Go Dutch Home Buyers makes honest, all-cash offers on Houston properties. \n                No agents, no fees, no months of waiting. Just a straightforward deal \n                that respects your time and your property.",
+      "description_fr": "Go Dutch Home Buyers propose des offres honnêtes et entièrement en espèces sur les propriétés de Houston. \n                Pas d'agents, pas de frais, pas de mois d'attente. Juste une affaire simple \n                qui respecte votre temps et vos biens.",
+      "category": "Real Estate",
+      "website": "https://godutchos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T23:54:10.714439+00:00"
+    },
+    {
+      "name": "ClosedWon",
+      "slug": "polsia-closedwon-app",
+      "website": "https://closedwon-app.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T23:54:10.844647+00:00"
+    },
+    {
+      "name": "Tidecast",
+      "slug": "polsia-tidecast",
+      "website": "https://tidecast.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T23:54:11.039476+00:00"
+    },
+    {
+      "name": "TitanOS",
+      "slug": "polsia-titanos-3",
+      "description": "TitanOS is the command center for moving companies that are done losing leads to voicemail, double-booking crews, and tracking jobs on whiteboards.",
+      "description_fr": "TitanOS est le centre de commande pour les entreprises de déménagement qui ont fini de perdre des prospects à cause de la messagerie vocale, des doubles réservations d'équipes et du suivi des tâches sur des tableaux blancs.",
+      "category": "Sales & CRM",
+      "website": "https://titanos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T23:54:11.992928+00:00"
+    },
+    {
+      "name": "Kinvoy",
+      "slug": "polsia-kinvoy",
+      "description": "Kinvoy is the AI front office that answers every inquiry, books every appointment, follows up on every quote, and runs your customer operations 24/7. Not a chatbot. An employee.",
+      "description_fr": "Kinvoy est le front office IA qui répond à chaque demande, prend chaque rendez-vous, assure le suivi de chaque devis et gère vos opérations clients 24h/24 et 7j/7. Pas un chatbot. Un employé.",
+      "category": "AI & Machine Learning",
+      "website": "https://kinvoy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T23:54:13.362694+00:00"
+    },
+    {
+      "name": "Pipesmith",
+      "slug": "polsia-pipesmith-36",
+      "website": "https://pipesmith-36.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T23:54:13.584782+00:00"
+    },
+    {
+      "name": "FuelSpot",
+      "slug": "polsia-fuelspot",
+      "description": "GasBuddy does gas. SpotAngels does parking. Waze does navigation. No app combines real-time gas prices and crowdsourced parking into one driver utility. FuelSpot is the first.",
+      "description_fr": "GasBuddy fait du gaz. SpotAngels fait du stationnement. Waze fait la navigation. Aucune application ne combine les prix de l’essence en temps réel et le stationnement participatif en un seul utilitaire pour les conducteurs. FuelSpot est le premier.",
+      "category": "Other",
+      "website": "https://fuelspot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T23:54:14.358328+00:00"
+    },
+    {
+      "name": "The Hall Closet",
+      "slug": "polsia-the-hall-closet",
+      "description": "Part curator, part enabler, fully obsessed with Telecasters. \n                Telly has been neck-deep in the Fender parts world for two decades. \n                He knows which bodies ring, which necks play fast, and which combos \n                make something that feels like it was born, not built.",
+      "description_fr": "En partie conservateur, en partie facilitateur, totalement obsédé par les Telecasters. \n                Telly est impliqué dans le monde des pièces détachées Fender depuis deux décennies. \n                Il sait quels corps sonnent, quels manches jouent vite et quels combos \n                créer quelque chose qui donne l'impression d'être né et non construit.",
+      "category": "Other",
+      "website": "https://the-hall-closet.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T23:54:15.704636+00:00"
+    },
+    {
+      "name": "ArizzZ — Something's Coming",
+      "slug": "polsia-arizzzos",
+      "description": "The name sticks because it's supposed to. No safe choices, no committee decisions. ArizzZ is unapologetically distinct.",
+      "description_fr": "Le nom reste parce que c'est censé le faire. Pas de choix sûrs, pas de décisions de comité. ArizzZ est résolument distinct.",
+      "category": "Other",
+      "website": "https://arizzzos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T23:54:16.606077+00:00"
     }
   ]
 }
