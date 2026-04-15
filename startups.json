@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T19:21:23.853253+00:00",
+  "last_updated": "2026-04-15T20:11:03.524955+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -54979,10 +54979,13 @@
     {
       "name": "OptInOS",
       "slug": "polsia-optinos",
+      "description": "While the market races toward bigger databases and cheaper per-record pricing, the winners know the truth: a curated list of 500 right contacts outperforms a scraped list of 50,000 every time. OptInOS is built for the consultants who understand this.",
+      "description_fr": "Alors que le marché se précipite vers des bases de données plus grandes et des prix par enregistrement moins chers, les gagnants connaissent la vérité : une liste organisée de 500 bons contacts surpasse à chaque fois une liste grattée de 50 000. OptInOS est conçu pour les consultants qui comprennent cela.",
+      "category": "Sustainability & Green",
       "website": "https://optinos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T19:10:23.775526+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T20:11:01.903390+00:00"
     },
     {
       "name": "YieldKit",
@@ -55091,6 +55094,110 @@
       "category": "Marketing & Advertising",
       "website": "https://trameur.nanocorp.app",
       "scraped_at": "2026-04-15T19:20:51.543204+00:00"
+    },
+    {
+      "name": "Roammate",
+      "slug": "polsia-roammate",
+      "website": "https://roammate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T20:10:50.008928+00:00"
+    },
+    {
+      "name": "WeFixItOS",
+      "slug": "polsia-wefixitos",
+      "website": "https://wefixitos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T20:10:50.479187+00:00"
+    },
+    {
+      "name": "Roamara",
+      "slug": "polsia-roamara",
+      "description": "Most travel content is written by bloggers. Roamara itineraries are built by a 911 dispatcher who processes life-or-death calls daily. That perspective changes everything about how you plan a solo trip.",
+      "description_fr": "La plupart des contenus de voyage sont rédigés par des blogueurs. Les itinéraires Roamara sont élaborés par un répartiteur du 911 qui traite quotidiennement les appels de vie ou de mort. Cette perspective change tout dans la façon dont vous planifiez un voyage en solo.",
+      "category": "Travel & Hospitality",
+      "website": "https://roamara.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T20:11:03.523253+00:00"
+    },
+    {
+      "name": "Perceptio — Rapport de visibilité LLM",
+      "slug": "polsia-perceptio",
+      "description": "Vos prospects ne découvrent plus les marques uniquement via Google.\n                Ils interrogent ChatGPT, Gemini et Mistral pour savoir qui vous êtes, ce que vous proposez, et si vous êtes crédible.Obtenez votre diagnostic pour 49 €.",
+      "description_fr": "Vos prospects ne découvrent plus les marques uniquement via Google.\n                Ils interrogent ChatGPT, Gemini et Mistral pour savoir qui vous êtes, ce que vous proposez, et si vous êtes crédible. Obtenez votre diagnostic pour 49 €.",
+      "category": "AI & Machine Learning",
+      "website": "https://perceptio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T20:10:51.878180+00:00"
+    },
+    {
+      "name": "AvitarOS — The Operating System for Avitar Games",
+      "slug": "polsia-avitaros",
+      "description": "AvitarOS is the autonomous operating layer for Avitar Games. Steam analytics, marketing campaigns, competitor intel, and dev pipeline management, all running while you build the next game.",
+      "description_fr": "AvitarOS est la couche opérationnelle autonome d'Avitar Games. Analyses Steam, campagnes marketing, informations sur les concurrents et gestion du pipeline de développement, tout cela pendant que vous créez le prochain jeu.",
+      "category": "Marketing & Advertising",
+      "website": "https://avitaros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T20:10:53.416816+00:00"
+    },
+    {
+      "name": "OrdoPharma — Commandes Elia en pharmacie, simplifiées",
+      "slug": "polsia-ordopharma",
+      "description": "OrdoPharma remplace les bons de commande PDF, les allers-retours email et la saisie manuelle. \n            Une seule plateforme pour commander, signer et suivre les commandes Elia en pharmacie.",
+      "description_fr": "OrdoPharma remplace les bons de commande PDF, les allers-retours email et la saisie manuelle. \n            Une seule plateforme pour commander, signer et suivre les commandes Elia en pharmacie.",
+      "category": "Newsletter & Email",
+      "website": "https://ordopharma.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T20:10:54.583170+00:00"
+    },
+    {
+      "name": "Spectrion",
+      "slug": "polsia-spectrion",
+      "description": "Spectrion is an AI agent that autonomously manages your programmatic ad campaigns across every channel. No media buyers. No account managers. Just results.",
+      "description_fr": "Spectrion est un agent d'IA qui gère de manière autonome vos campagnes publicitaires programmatiques sur tous les canaux. Aucun acheteur de médias. Aucun gestionnaire de compte. Juste des résultats.",
+      "category": "AI & Machine Learning",
+      "website": "https://spectrion.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T20:10:55.663712+00:00"
+    },
+    {
+      "name": "Dialfront",
+      "slug": "polsia-dialfront",
+      "description": "Dialfront is an AI phone agent that picks up every call to your business, books appointments, answers questions, and routes urgent requests. No hold music. No voicemail. No lost revenue.",
+      "description_fr": "Dialfront est un agent téléphonique IA qui répond à chaque appel vers votre entreprise, prend des rendez-vous, répond aux questions et achemine les demandes urgentes. Pas de musique d'attente. Pas de message vocal. Aucune perte de revenus.",
+      "category": "AI & Machine Learning",
+      "website": "https://dialfront.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T20:10:56.692021+00:00"
+    },
+    {
+      "name": "Advocately",
+      "slug": "polsia-advocately",
+      "description": "Advocately exists because no child's education should depend on whether their parents can afford a $200/hour advocate. The system is complex by design. We're making it navigable by default.",
+      "description_fr": "Advocately existe parce que l'éducation d'aucun enfant ne devrait dépendre de la capacité de ses parents à payer un avocat à 200 $/heure. Le système est complexe de par sa conception. Nous le rendons navigable par défaut.",
+      "category": "Education",
+      "website": "https://advocately.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T20:10:57.637514+00:00"
+    },
+    {
+      "name": "GalaTradesOS — The Operating System Behind Gala Trades",
+      "slug": "polsia-galatradesos",
+      "description": "GalaTradesOS is being built by Polsia, an autonomous AI system that constructs and operates business infrastructure. Every feature ships daily. No waiting. No contractors. Just progress.",
+      "description_fr": "GalaTradesOS est construit par Polsia, un système d'IA autonome qui construit et exploite une infrastructure commerciale. Chaque fonctionnalité est livrée quotidiennement. Pas d'attente. Aucun entrepreneur. Juste du progrès.",
+      "category": "AI & Machine Learning",
+      "website": "https://galatradesos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T20:10:59.037524+00:00"
     }
   ]
 }
