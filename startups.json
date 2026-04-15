@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T14:17:35.175047+00:00",
+  "last_updated": "2026-04-15T15:41:59.525241+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -54539,10 +54539,13 @@
     {
       "name": "ClutchParts",
       "slug": "polsia-clutchparts",
+      "description": "No more gambling on quality. No more paying dealer prices. ClutchParts is building the auto parts store the internet should have had from the start.",
+      "description_fr": "Ne pariez plus sur la qualité. Fini de payer les prix des concessionnaires. ClutchParts construit le magasin de pièces automobiles qu'Internet aurait dû avoir dès le départ.",
+      "category": "E-Commerce & Retail",
       "website": "https://clutchparts.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T14:17:22.860225+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T15:41:59.523193+00:00"
     },
     {
       "name": "GlideBand",
@@ -54642,6 +54645,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-15T14:17:34.204965+00:00"
+    },
+    {
+      "name": "PayPact",
+      "slug": "polsia-paypact",
+      "description": "Every completed pact, every on-time payment, every term you honor builds your reputation in the community. Lenders can see your track record before agreeing to terms.",
+      "description_fr": "Chaque pacte conclu, chaque paiement à temps, chaque terme que vous honorez bâtit votre réputation dans la communauté. Les prêteurs peuvent consulter vos antécédents avant d’accepter les conditions.",
+      "category": "Finance & Fintech",
+      "website": "https://paypact.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T15:41:47.404039+00:00"
+    },
+    {
+      "name": "QuickPlate",
+      "slug": "polsia-quickplate",
+      "description": "Got food at home? Tap your proteins, veggies, and spices from visual icons. Need to shop? QuickPlate shows budget-friendly recipes with estimated grocery costs for stores near you.",
+      "description_fr": "Vous avez de la nourriture à la maison ? Appuyez sur vos protéines, légumes et épices à partir d'icônes visuelles. Besoin de faire du shopping ? QuickPlate affiche des recettes économiques avec une estimation des coûts d'épicerie pour les magasins près de chez vous.",
+      "category": "E-Commerce & Retail",
+      "website": "https://quickplate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T15:41:48.415023+00:00"
+    },
+    {
+      "name": "Gritboard",
+      "slug": "polsia-gritboard",
+      "description": "Gritboard is an AI operations employee for trade businesses. It handles your bookings, follows up with customers, and chases reviews while you're on the job site.",
+      "description_fr": "Gritboard est un employé des opérations d'IA pour les entreprises commerciales. Il gère vos réservations, assure le suivi des clients et recherche les avis pendant que vous êtes sur le chantier.",
+      "category": "AI & Machine Learning",
+      "website": "https://gritboard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T15:41:48.913391+00:00"
+    },
+    {
+      "name": "QSafeOS — Operating System for Quality and Safety",
+      "slug": "polsia-qsafeos",
+      "description": "QSafeOS is the operational backbone for Quality and Safety Srl, a company that has digitized and legally preserved millions of documents since 1994. From healthcare records to RENTRI waste compliance, one system to run it all.",
+      "description_fr": "QSafeOS est l'épine dorsale opérationnelle de Quality and Safety Srl, une entreprise qui a numérisé et conservé légalement des millions de documents depuis 1994. Des dossiers médicaux à la conformité des déchets RENTRI, un seul système pour tout gérer.",
+      "category": "Health & Wellness",
+      "website": "https://qsafeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T15:41:50.091198+00:00"
+    },
+    {
+      "name": "Caisso",
+      "slug": "polsia-caisso",
+      "description": "Small and mid-sized food distributors deserve the same automation the giants have. Caisso brings it, without the enterprise price tag or the 12-month implementation.",
+      "description_fr": "Les petits et moyens distributeurs alimentaires méritent la même automatisation que les géants. Caisso l'apporte, sans le prix d'entreprise ni les 12 mois de mise en œuvre.",
+      "category": "Food & Beverage",
+      "website": "https://caisso.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T15:41:51.061533+00:00"
+    },
+    {
+      "name": "MovementOS",
+      "slug": "polsia-movementos",
+      "description": "UNiDAYS serves Apple. Student Beans serves Nike. Nobody serves the taco shop, the barbershop, the gym two blocks from campus. The Movement owns that layer. MovementOS makes it scale to every campus in the country.",
+      "description_fr": "UNiDAYS est au service d'Apple. Student Beans sert Nike. Personne ne dessert le magasin de tacos, le salon de coiffure, la salle de sport à deux pâtés de maisons du campus. Le Mouvement possède cette couche. MovementOS l'adapte à tous les campus du pays.",
+      "category": "E-Commerce & Retail",
+      "website": "https://movementos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T15:41:52.075409+00:00"
+    },
+    {
+      "name": "QuickBrick",
+      "slug": "polsia-quickbrick",
+      "description": "You're great at running your business. But your website? It's either ancient, ugly, slow, or doesn't exist. And the options aren't great either.",
+      "description_fr": "Vous êtes doué pour gérer votre entreprise. Mais votre site internet ? Soit c'est ancien, soit c'est laid, c'est lent, soit c'est inexistant. Et les options ne sont pas géniales non plus.",
+      "category": "Other",
+      "website": "https://quickbrick.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T15:41:53.220583+00:00"
+    },
+    {
+      "name": "PawGig",
+      "slug": "polsia-pawgig",
+      "description": "Wag went bankrupt. Rover takes 20% from every caregiver. Care.com treats dogs like an afterthought. Miami dog owners deserve a platform built by someone who actually loves dogs.",
+      "description_fr": "Wag a fait faillite. Rover prend 20 % à chaque soignant. Care.com traite les chiens comme une réflexion après coup. Les propriétaires de chiens de Miami méritent une plate-forme construite par quelqu'un qui aime vraiment les chiens.",
+      "category": "Software & SaaS",
+      "website": "https://pawgig.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T15:41:54.728821+00:00"
+    },
+    {
+      "name": "Ventix",
+      "slug": "polsia-ventix",
+      "description": "Ventix is an AI agent that watches every compressor, coil, and air handler in your portfolio. It predicts failures weeks ahead, cuts energy waste, and files work orders while you sleep.",
+      "description_fr": "Ventix est un agent IA qui surveille chaque compresseur, serpentin et système de traitement d'air de votre portefeuille. Il prédit les pannes des semaines à l'avance, réduit le gaspillage d'énergie et classe les ordres de travail pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://ventix.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T15:41:55.463883+00:00"
+    },
+    {
+      "name": "PortSocialOS",
+      "slug": "polsia-portsocialos",
+      "description": "PortSocialOS is the command center for Port Social. Client pipelines, content workflows, competitive intel, and growth metrics, all wired into one place. Built by AI. Tuned for your voice.",
+      "description_fr": "PortSocialOS est le centre de commande de Port Social. Pipelines de clients, flux de travail de contenu, informations sur la concurrence et mesures de croissance, le tout regroupé en un seul endroit. Construit par l'IA. Adapté à votre voix.",
+      "category": "AI & Machine Learning",
+      "website": "https://portsocialos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T15:41:56.862591+00:00"
     }
   ]
 }
