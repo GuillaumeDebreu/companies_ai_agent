@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T23:25:23.130791+00:00",
+  "last_updated": "2026-04-15T00:07:24.978037+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -51338,10 +51338,13 @@
     {
       "name": "PureHomeOS",
       "slug": "polsia-purehomeos",
+      "description": "PureHomeOS tracks every lead, every demo, every closed deal. It researches your local market, finds commercial prospects, and keeps your pipeline full while you focus on what you do best: selling clean air.",
+      "description_fr": "PureHomeOS suit chaque prospect, chaque démo, chaque transaction conclue. Il étudie votre marché local, trouve des prospects commerciaux et maintient votre pipeline plein pendant que vous vous concentrez sur ce que vous faites le mieux : vendre de l'air pur.",
+      "category": "Sales & CRM",
       "website": "https://purehomeos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-14T23:25:09.803246+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T00:07:24.687924+00:00"
     },
     {
       "name": "ReadyWrench",
@@ -51438,6 +51441,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-14T23:25:19.205312+00:00"
+    },
+    {
+      "name": "SparkFloor",
+      "slug": "polsia-sparkfloor",
+      "website": "https://sparkfloor.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T00:07:14.303286+00:00"
+    },
+    {
+      "name": "TrustLensOS",
+      "slug": "polsia-trustlensos",
+      "website": "https://trustlensos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T00:07:14.463271+00:00"
+    },
+    {
+      "name": "Batchwell",
+      "slug": "polsia-batchwell",
+      "description": "Every artisan confectioner knows this story. The product is extraordinary. The reviews are glowing. But the business side burns you out. Etsy takes its cut and buries your listings. Shopify gives you tools but no operator. You end up spending more time on spreadsheets than on recipes. Batchwell changes that equation entirely.",
+      "description_fr": "Tout artisan pâtissier connaît cette histoire. Le produit est extraordinaire. Les critiques sont élogieuses. Mais le côté business vous épuise. Etsy prend sa part et enterre vos annonces. Shopify vous donne des outils mais pas d'opérateur. Vous finissez par passer plus de temps sur des feuilles de calcul que sur des recettes. Batchwell change complètement cette équation.",
+      "category": "E-Commerce & Retail",
+      "website": "https://batchwell.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T00:07:15.971817+00:00"
+    },
+    {
+      "name": "TitleRun",
+      "slug": "polsia-titlerun",
+      "description": "TitleRun is an autonomous AI agent that monitors your leases, tracks mineral rights, and manages title obligations around the clock. Built for independent Permian Basin operators.",
+      "description_fr": "TitleRun est un agent IA autonome qui surveille vos baux, suit les droits miniers et gère les obligations de titre 24 heures sur 24. Conçu pour les opérateurs indépendants du bassin permien.",
+      "category": "AI & Machine Learning",
+      "website": "https://titlerun.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T00:07:17.062108+00:00"
+    },
+    {
+      "name": "Repped",
+      "slug": "polsia-repped-15",
+      "description": "An autonomous AI agent that finds your next gig, pitches clients, manages bookings, and grows your brand. Like having a talent agent that works 24/7 for a fraction of the cost.",
+      "description_fr": "Un agent IA autonome qui trouve votre prochain concert, présente les clients, gère les réservations et développe votre marque. C’est comme avoir un agent artistique qui travaille 24h/24 et 7j/7 pour une fraction du coût.",
+      "category": "AI & Machine Learning",
+      "website": "https://repped-15.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T00:07:17.610084+00:00"
+    },
+    {
+      "name": "LoopVault",
+      "slug": "polsia-loopvault",
+      "website": "https://loopvault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T00:07:17.847787+00:00"
+    },
+    {
+      "name": "Echoshift",
+      "slug": "polsia-echoshift",
+      "description": "Echoshift handles your inbound emails, form submissions, and DMs around the clock. It responds in your voice, resolves issues autonomously, and sends you a morning briefing of everything that happened overnight.",
+      "description_fr": "Echoshift gère vos e-mails entrants, vos soumissions de formulaires et vos DM 24 heures sur 24. Il répond avec votre voix, résout les problèmes de manière autonome et vous envoie un briefing matinal de tout ce qui s'est passé pendant la nuit.",
+      "category": "Newsletter & Email",
+      "website": "https://echoshift.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T00:07:18.470014+00:00"
+    },
+    {
+      "name": "IronTide Games",
+      "slug": "polsia-irontide-games",
+      "description": "IronTide Games is an independent studio from Maine building original titles that respect your time and reward your curiosity. Small team. Big ideas. No filler.",
+      "description_fr": "IronTide Games est un studio indépendant du Maine qui crée des titres originaux qui respectent votre temps et récompensent votre curiosité. Petite équipe. De grandes idées. Pas de remplissage.",
+      "category": "Other",
+      "website": "https://irontide-games.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T00:07:19.477609+00:00"
+    },
+    {
+      "name": "Plateshift — The AI That Runs Your Restaurant",
+      "slug": "polsia-plateshift",
+      "description": "Review platforms. Reservation systems. Social schedulers. Analytics dashboards. You pay for all of them, and none of them talk to each other. Meanwhile, a bad review sits unanswered for three days.",
+      "description_fr": "Plateformes de révision. Systèmes de réservation. Planificateurs sociaux. Tableaux de bord d'analyse. Vous payez pour chacun d’eux et aucun d’eux ne se parle. Pendant ce temps, une mauvaise critique reste sans réponse pendant trois jours.",
+      "category": "Software & SaaS",
+      "website": "https://plateshift.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T00:07:20.670349+00:00"
+    },
+    {
+      "name": "PumpjackIQ",
+      "slug": "polsia-pumpjack-iq",
+      "description": "Automated daily and weekly reports delivered to your inbox. Production summaries, revenue estimates, and operational insights, all without lifting a finger.",
+      "description_fr": "Rapports quotidiens et hebdomadaires automatisés envoyés dans votre boîte de réception. Des résumés de production, des estimations de revenus et des informations opérationnelles, le tout sans lever le petit doigt.",
+      "category": "Newsletter & Email",
+      "website": "https://pumpjack-iq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T00:07:23.216412+00:00"
     }
   ]
 }
