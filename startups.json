@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T11:33:53.114513+00:00",
+  "last_updated": "2026-04-15T12:42:33.336967+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -54308,12 +54308,15 @@
       "scraped_at": "2026-04-15T10:23:57.070287+00:00"
     },
     {
-      "name": "Wrought",
+      "name": "Wrought — Where Handmade Means Handmade",
       "slug": "polsia-wrought",
+      "description": "Etsy was supposed to be for handmade goods. Now it's flooded with dropshippers, print-on-demand factories, and mass-produced imports. Real makers are drowning in a sea of fakes, spending more time on business operations than on their craft.",
+      "description_fr": "Etsy était censé être destiné aux produits faits à la main. Elle est désormais inondée de dropshippers, d'usines d'impression à la demande et d'importations produites en masse. Les vrais créateurs se noient dans une mer de contrefaçons, consacrant plus de temps aux opérations commerciales qu’à leur métier.",
+      "category": "Other",
       "website": "https://wrought.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T11:33:39.750330+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T12:42:32.241258+00:00"
     },
     {
       "name": "Finch — The app that goes with you to every doctor visit",
@@ -54413,6 +54416,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-15T11:33:50.534308+00:00"
+    },
+    {
+      "name": "FlipFinder",
+      "slug": "polsia-flipfinder",
+      "description": "Foreclosures, abandoned properties, and bank-owned homes, sorted by price and how much work they need. The property intel platform built for everyday investors, not Wall Street.",
+      "description_fr": "Saisies, propriétés abandonnées et maisons appartenant à des banques, triées par prix et par quantité de travaux nécessaires. La plateforme d'informations immobilières conçue pour les investisseurs ordinaires, pas pour Wall Street.",
+      "category": "Software & SaaS",
+      "website": "https://flipfinder.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T12:42:33.335518+00:00"
+    },
+    {
+      "name": "Viracash — Le simulateur qui te dit si tu peux vraiment tout plaquer",
+      "slug": "polsia-viracash",
+      "description": "Viracash est le premier simulateur de cash-flow concu pour la reconversion professionnelle en France. Pas de coaching. Pas de platitudes. Juste les chiffres qui te manquent pour prendre ta decision.",
+      "description_fr": "Viracash est le premier simulateur de cash-flow conçu pour la reconversion professionnelle en France. Pas de coaching. Pas de platitudes. Juste les chiffres qui te manquent pour prendre ta décision.",
+      "category": "Education",
+      "website": "https://viracash.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T12:42:18.234848+00:00"
+    },
+    {
+      "name": "Vedetta — Your AI Security Lookout",
+      "slug": "polsia-vedetta",
+      "description": "Vedetta runs continuous reconnaissance on your domains, infrastructure, and exposed services. It finds what scanners miss because it thinks like a researcher, not a checklist.",
+      "description_fr": "Vedetta effectue une reconnaissance continue de vos domaines, infrastructures et services exposés. Il trouve ce qui manque aux scanners car il pense comme un chercheur et non comme une liste de contrôle.",
+      "category": "AI & Machine Learning",
+      "website": "https://vedetta.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T12:42:19.687728+00:00"
+    },
+    {
+      "name": "TriageDesk",
+      "slug": "polsia-triagedesk",
+      "description": "Every hour a developer spends on customer support is an hour they're not shipping product. Most startups can't afford a support team. So the engineers do it. And progress stalls.",
+      "description_fr": "Chaque heure qu'un développeur consacre au support client correspond à une heure pendant laquelle il n'expédie pas de produit. La plupart des startups ne peuvent pas se permettre une équipe d'assistance. Alors les ingénieurs le font. Et les progrès s’arrêtent.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://triagedesk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T12:42:20.769965+00:00"
+    },
+    {
+      "name": "EcoFleetOS",
+      "slug": "polsia-ecofleetos",
+      "description": "EcoFleetOS is the command center for mobile mechanics. Track jobs, manage customers, and grow revenue from one dashboard, while AI handles the busywork you shouldn't be doing at midnight.",
+      "description_fr": "EcoFleetOS est le centre de commande de la mécanique mobile. Suivez les tâches, gérez les clients et augmentez vos revenus à partir d'un seul tableau de bord, tandis que l'IA gère le travail que vous ne devriez pas faire à minuit.",
+      "category": "AI & Machine Learning",
+      "website": "https://ecofleetos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T12:42:21.877484+00:00"
+    },
+    {
+      "name": "Enrollis",
+      "slug": "polsia-enrollis",
+      "description": "Enrollis is an AI-powered operations platform for clinical research sites. It screens patients, tracks enrollment, manages compliance, and coordinates with sponsors, so your team focuses on science instead of spreadsheets.",
+      "description_fr": "Enrollis est une plateforme opérationnelle basée sur l'IA pour les sites de recherche clinique. Il sélectionne les patients, suit les inscriptions, gère la conformité et se coordonne avec les sponsors, afin que votre équipe se concentre sur la science plutôt que sur les feuilles de calcul.",
+      "category": "AI & Machine Learning",
+      "website": "https://enrollis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T12:42:23.357464+00:00"
+    },
+    {
+      "name": "AmplifAI",
+      "slug": "polsia-amplifai-music",
+      "description": "Traditional music marketing platforms assume you have a tour to promote, a face for the poster, and a venue for the meet-and-greet. AI musicians live in feeds, playlists, and algorithmic discovery. The rules are different. The tools should be too.",
+      "description_fr": "Les plateformes de marketing musical traditionnel supposent que vous disposez d’une tournée à promouvoir, d’un visage pour l’affiche et d’un lieu pour la rencontre. Les musiciens IA vivent dans les flux, les listes de lecture et la découverte algorithmique. Les règles sont différentes. Les outils devraient l’être aussi.",
+      "category": "AI & Machine Learning",
+      "website": "https://amplifai-music.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T12:42:24.992407+00:00"
+    },
+    {
+      "name": "LeefOS",
+      "slug": "polsia-leefos",
+      "description": "LeefOS is the operating system that runs competitor tracking, lead intelligence, content operations, and growth analytics for the Netherlands' smartest emigration platform.",
+      "description_fr": "LeefOS est le système d'exploitation qui gère le suivi des concurrents, les renseignements sur les prospects, les opérations de contenu et l'analyse de la croissance pour la plateforme d'émigration la plus intelligente des Pays-Bas.",
+      "category": "Software & SaaS",
+      "website": "https://leefos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T12:42:26.066632+00:00"
+    },
+    {
+      "name": "NexTicker",
+      "slug": "polsia-nexticker",
+      "description": "NexTicker is an autonomous AI market analyst. It monitors prices, sentiment, and on-chain data 24/7, then delivers a daily briefing so you can trade on signal, not noise.",
+      "description_fr": "NexTicker est un analyste autonome du marché de l'IA. Il surveille les prix, le sentiment et les données en chaîne 24h/24 et 7j/7, puis fournit un briefing quotidien afin que vous puissiez négocier sur le signal et non sur le bruit.",
+      "category": "AI & Machine Learning",
+      "website": "https://nexticker.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T12:42:27.609720+00:00"
+    },
+    {
+      "name": "StatutClair — Quel statut choisir quand on s'installe en dentisterie ?",
+      "slug": "polsia-statutclair",
+      "description": "\"Quel statut choisir quand on commence en dentisterie ?\" Taux réels de prélèvement par statut, exemples chiffrés, seuils de rentabilité SELARL, tout ce que vous devez savoir avant de signer quoi que ce soit.",
+      "description_fr": "\"Quel statut choisir quand on commence en dentisterie ?\" Taux réels de prélèvement par statut, exemples chiffrés, seuils de rentabilité SELARL, tout ce que vous devez savoir avant de signer quoi que ce soit.",
+      "category": "Real Estate",
+      "website": "https://statutclair.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T12:42:28.367360+00:00"
     }
   ]
 }
