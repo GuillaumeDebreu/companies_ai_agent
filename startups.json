@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T03:39:36.566558+00:00",
+  "last_updated": "2026-04-15T05:50:39.988310+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -51602,12 +51602,15 @@
       "scraped_at": "2026-04-15T03:39:19.916626+00:00"
     },
     {
-      "name": "Hearthrun",
+      "name": "The Silver Fountain — Old",
       "slug": "polsia-hearthrun",
+      "description": "The Silver Fountain is an old-fashioned soda fountain in Tonopah, Nevada. Craft sodas, floats, malts, sundaes, and classic candy. A taste of the good old days.",
+      "description_fr": "La Silver Fountain est une fontaine à soda à l'ancienne située à Tonopah, dans le Nevada. Fabriquez des sodas, des flotteurs, des malts, des coupes glacées et des bonbons classiques. Un avant-goût du bon vieux temps.",
+      "category": "Other",
       "website": "https://hearthrun.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T03:39:20.167291+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T05:50:39.986451+00:00"
     },
     {
       "name": "Tecnologías del Silbido — Industrial IoT for the Dominican Republic",
@@ -51685,6 +51688,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-15T03:39:30.240135+00:00"
+    },
+    {
+      "name": "DataNerve",
+      "slug": "polsia-datanerve",
+      "description": "DataNerve replaces the repetitive work of data engineering with autonomous AI agents. Your infrastructure becomes self-aware, self-healing, and self-optimizing. The data team finally gets to think about what matters.",
+      "description_fr": "DataNerve remplace le travail répétitif d'ingénierie des données par des agents d'IA autonomes. Votre infrastructure devient consciente d’elle-même, s’auto-répare et s’auto-optimise. L'équipe chargée des données peut enfin réfléchir à ce qui compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://datanerve.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T05:50:24.900484+00:00"
+    },
+    {
+      "name": "TacSquad",
+      "slug": "polsia-tacsquad",
+      "description": "大多数俱乐部拼KD，我们拼体验。TacSquad 从创立之初就以「玩得开心」为核心理念，技术是底线，有趣才是卖点。你不会被匹配给一个闷头打枪的陌生人。",
+      "description_fr": "大多数俱乐部拼KD，们拼体验。TacSquad从创立之初就以「玩得开心」为核心理念，技术是底线，有趣才是卖点。你不会被匹配给一个闷头打枪的陌生人。",
+      "category": "Marketing & Advertising",
+      "website": "https://tacsquad.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T05:50:25.949025+00:00"
+    },
+    {
+      "name": "Nexscope — Competitive Intelligence That Never Sleeps",
+      "slug": "polsia-nexscope",
+      "description": "Autonomous AI agents that track competitor pricing, features, hiring, and market moves. Synthesized into daily briefings. No analysts required.",
+      "description_fr": "Agents d'IA autonomes qui suivent les prix, les fonctionnalités, l'embauche et les évolutions du marché des concurrents. Synthétisé en briefings quotidiens. Aucun analyste requis.",
+      "category": "AI & Machine Learning",
+      "website": "https://nexscope.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T05:50:27.925440+00:00"
+    },
+    {
+      "name": "RoxWorksOS — The Operating System for Rox Metal Works",
+      "slug": "polsia-roxworksos",
+      "description": "RoxWorksOS handles the work that keeps you from the shop floor. Quoting, follow-ups, project tracking, competitor intel, and customer outreach, all running autonomously.",
+      "description_fr": "RoxWorksOS gère le travail qui vous éloigne de l'atelier. Devis, suivis, suivi de projet, informations sur les concurrents et sensibilisation des clients, le tout fonctionnant de manière autonome.",
+      "category": "E-Commerce & Retail",
+      "website": "https://roxworksos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T05:50:28.452031+00:00"
+    },
+    {
+      "name": "Bookd",
+      "slug": "polsia-getbookd",
+      "description": "Bookd is an AI agent that finds clients, sends personalized pitches, and books gigs for you. While you focus on the work you love, it fills your calendar.",
+      "description_fr": "Bookd est un agent IA qui trouve des clients, envoie des pitchs personnalisés et réserve des concerts pour vous. Pendant que vous vous concentrez sur le travail que vous aimez, cela remplit votre calendrier.",
+      "category": "AI & Machine Learning",
+      "website": "https://getbookd.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T05:50:29.276722+00:00"
+    },
+    {
+      "name": "ClaimLock — AI That Fights for Veterans",
+      "slug": "polsia-claimlock",
+      "description": "Other tools let you spend weeks on a claim that was never going to work. ClaimLock tells you the truth upfront, so qualified veterans move fast and unqualified claims don't waste anyone's time.",
+      "description_fr": "D’autres outils vous permettent de passer des semaines sur une réclamation qui n’aboutirait jamais. ClaimLock vous dit la vérité dès le départ, afin que les anciens combattants qualifiés traitent rapidement et que les réclamations non qualifiées ne font perdre de temps à personne.",
+      "category": "AI & Machine Learning",
+      "website": "https://claimlock.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T05:50:30.944456+00:00"
+    },
+    {
+      "name": "Velocity Voyage — Zero",
+      "slug": "polsia-velocity-voyage",
+      "description": "Velocity Voyage is building the future of independent car rental in the Inland Empire. No middlemen. No commission. Just your fleet, your brand, your business.",
+      "description_fr": "Velocity Voyage construit l'avenir de la location de voitures indépendante dans l'Inland Empire. Pas d'intermédiaires. Aucune commission. Juste votre flotte, votre marque, votre entreprise.",
+      "category": "Marketing & Advertising",
+      "website": "https://velocity-voyage.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T05:50:32.466774+00:00"
+    },
+    {
+      "name": "FireteamGG",
+      "slug": "polsia-fireteamgg",
+      "description": "FireteamGG connects you with skilled Delta Force companions for extraction runs, warfare matches, and coaching. Real teammates, not bots. No account sharing, ever.专业三角洲行动陪玩俱乐部",
+      "description_fr": "FireteamGG vous met en contact avec des compagnons qualifiés de Delta Force pour des courses d'extraction, des matchs de guerre et du coaching. De vrais coéquipiers, pas des robots. Aucun partage de compte, jamais.",
+      "category": "Education",
+      "website": "https://fireteamgg.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T05:50:33.841370+00:00"
+    },
+    {
+      "name": "TailChaseOS",
+      "slug": "polsia-tailchaseos",
+      "description": "TailChaseOS is the AI-powered operating system that runs lead generation, client management, and competitive intelligence for your marketing agency while you focus on what you do best: coaching founders to win.",
+      "description_fr": "TailChaseOS est le système d'exploitation basé sur l'IA qui gère la génération de leads, la gestion des clients et la veille concurrentielle pour votre agence de marketing pendant que vous vous concentrez sur ce que vous faites de mieux : coacher les fondateurs pour qu'ils gagnent.",
+      "category": "Marketing & Advertising",
+      "website": "https://tailchaseos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T05:50:35.135735+00:00"
+    },
+    {
+      "name": "Willow Wand Oracle",
+      "slug": "polsia-inkwell-14",
+      "description": "Tarot, Numerology, Astrology & Mediumship readings to help women move forward with clarity and confidence. Book your reading today.",
+      "description_fr": "Lectures de tarot, de numérologie, d'astrologie et de médiumnité pour aider les femmes à avancer avec clarté et confiance. Réservez votre lecture aujourd'hui.",
+      "category": "Other",
+      "website": "https://inkwell-14.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T05:50:36.814252+00:00"
     }
   ]
 }
