@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T02:40:56.141312+00:00",
+  "last_updated": "2026-04-15T03:39:36.566558+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -51445,18 +51445,24 @@
     {
       "name": "SparkFloor",
       "slug": "polsia-sparkfloor",
+      "description": "SparkFloor is owner-operated commercial cleaning for Atlanta offices, medical practices, and co-working spaces. One team. Consistent quality. No franchise lottery.",
+      "description_fr": "SparkFloor est un service de nettoyage commercial exploité par le propriétaire pour les bureaux, les cabinets médicaux et les espaces de coworking d'Atlanta. Une équipe. Qualité constante. Pas de loterie de franchise.",
+      "category": "Health & Wellness",
       "website": "https://sparkfloor.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T00:07:14.303286+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T03:39:33.933583+00:00"
     },
     {
-      "name": "TrustLensOS",
+      "name": "TrustLens",
       "slug": "polsia-trustlensos",
+      "description": "The home services industry runs on trust that can't be verified.\n                TrustLens is changing the default from \"trust us\" to \"see for yourself.\"\n                The companies that adopt radical transparency win the customers who care.",
+      "description_fr": "Le secteur des services à domicile repose sur une confiance qui ne peut être vérifiée.\n                TrustLens modifie la valeur par défaut de « faites-nous confiance » à « voyez par vous-même ».\n                Les entreprises qui adoptent une transparence radicale gagnent les clients qui s’en soucient.",
+      "category": "Other",
       "website": "https://trustlensos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T00:07:14.463271+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T03:39:34.843117+00:00"
     },
     {
       "name": "Batchwell",
@@ -51492,12 +51498,15 @@
       "scraped_at": "2026-04-15T00:07:17.610084+00:00"
     },
     {
-      "name": "LoopVault",
+      "name": "LoopVault — The Control Plane for Autonomous DeFi",
       "slug": "polsia-loopvault",
+      "description": "LoopVault is the operations dashboard for autonomous DeFi. Monitor AI agents, track treasury performance, catch drawdowns before they compound. One screen for your entire on-chain operation.",
+      "description_fr": "LoopVault est le tableau de bord des opérations pour la DeFi autonome. Surveillez les agents IA, suivez les performances de la trésorerie, détectez les retraits avant qu’ils ne s’aggravent. Un écran pour l’ensemble de vos opérations en chaîne.",
+      "category": "AI & Machine Learning",
       "website": "https://loopvault.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T00:07:17.847787+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-15T03:39:36.404142+00:00"
     },
     {
       "name": "Echoshift",
@@ -51569,6 +51578,113 @@
       "category": "Education",
       "website": "https://tricoach.nanocorp.app",
       "scraped_at": "2026-04-15T02:40:14.816066+00:00"
+    },
+    {
+      "name": "GoneJunk",
+      "slug": "polsia-gonejunk",
+      "description": "See your total before you book. No on-site estimates, no \"we'll call you back,\" no surprise charges. The price you see is the price you pay.",
+      "description_fr": "Consultez votre total avant de réserver. Pas d'estimation sur place, pas de \"on vous rappelle\", pas de frais surprises. Le prix que vous voyez est le prix que vous payez.",
+      "category": "Other",
+      "website": "https://gonejunk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T03:39:18.611196+00:00"
+    },
+    {
+      "name": "ShieldDeskOS",
+      "slug": "polsia-shielddeskos",
+      "description": "Local insurance is a relationship game. You earn clients face-to-face, through community presence and word of mouth. ShieldDeskOS handles the operational layer so your competitive advantage grows with you.",
+      "description_fr": "L'assurance locale est un jeu relationnel. Vous gagnez des clients en face à face, grâce à la présence communautaire et au bouche à oreille. ShieldDeskOS gère la couche opérationnelle afin que votre avantage concurrentiel grandisse avec vous.",
+      "category": "Social & Community",
+      "website": "https://shielddeskos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T03:39:19.916626+00:00"
+    },
+    {
+      "name": "Hearthrun",
+      "slug": "polsia-hearthrun",
+      "website": "https://hearthrun.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-15T03:39:20.167291+00:00"
+    },
+    {
+      "name": "Tecnologías del Silbido — Industrial IoT for the Dominican Republic",
+      "slug": "polsia-silbido",
+      "description": "The Dominican Republic manufactures for the world. But every IoT vendor selling into its factories is foreign, expensive, and disconnected. Silbido is the first IIoT brand born from the Caribbean, for the Caribbean.",
+      "description_fr": "La République Dominicaine fabrique pour le monde. Mais tous les fournisseurs d’IoT qui vendent dans leurs usines sont étrangers, coûteux et déconnectés. Silbido est la première marque IIoT née des Caraïbes, pour les Caraïbes.",
+      "category": "Marketing & Advertising",
+      "website": "https://silbido.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T03:39:20.919061+00:00"
+    },
+    {
+      "name": "CashLock",
+      "slug": "polsia-cashlock",
+      "description": "People who've never saved a dime will lock $50 on impulse, forget about it, and find it waiting when they need it most. That's not fintech. That's a life change.",
+      "description_fr": "Les gens qui n’ont jamais économisé un centime verront 50 $ de manière impulsive, l’oublieront et le trouveront en attente lorsqu’ils en auront le plus besoin. Ce n'est pas de la fintech. C'est un changement de vie.",
+      "category": "Finance & Fintech",
+      "website": "https://cashlock.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T03:39:22.566409+00:00"
+    },
+    {
+      "name": "PourPilot — Your Winery's AI DTC Manager",
+      "slug": "polsia-pourpilot-12",
+      "description": "You opened a winery to make great wine, not to manage email sequences and spreadsheets. But wine clubs need constant attention. Tasting room visitors need follow-ups. Members need to feel remembered. Most small wineries drop the ball because there's nobody dedicated to the job.",
+      "description_fr": "Vous avez ouvert une cave pour produire du bon vin, pas pour gérer des séquences d'e-mails et des feuilles de calcul. Mais les clubs de vin nécessitent une attention constante. Les visiteurs de la salle de dégustation ont besoin d’un suivi. Les membres ont besoin de se sentir rappelés. La plupart des petits établissements vinicoles lâchent la balle parce qu'il n'y a personne dédié à ce travail.",
+      "category": "AI & Machine Learning",
+      "website": "https://pourpilot-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T03:39:23.910606+00:00"
+    },
+    {
+      "name": "PrintForgeOS — The Operating System for Your Print Shop",
+      "slug": "polsia-printforgeos",
+      "description": "PrintForgeOS is the business brain behind your print shop. Built by Polsia, powered by autonomous AI, running 24/7 so you can focus on what you do best.",
+      "description_fr": "PrintForgeOS est le cerveau commercial derrière votre imprimerie. Construit par Polsia, alimenté par une IA autonome, fonctionnant 24h/24 et 7j/7 pour que vous puissiez vous concentrer sur ce que vous faites de mieux.",
+      "category": "AI & Machine Learning",
+      "website": "https://printforgeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T03:39:25.148818+00:00"
+    },
+    {
+      "name": "GlobalClockOS",
+      "slug": "polsia-globalclockos",
+      "description": "GlobalClock.net already has what most utility sites never get: a clean product people actually use. GlobalClockOS adds the business brain. SEO, outreach, analytics, competitor intel, all running autonomously while you focus on what matters.",
+      "description_fr": "GlobalClock.net propose déjà ce que la plupart des sites d'utilitaires n'obtiennent jamais : un produit propre que les gens utilisent réellement. GlobalClockOS ajoute le cerveau de l'entreprise. SEO, sensibilisation, analyses, informations sur les concurrents, le tout fonctionnant de manière autonome pendant que vous vous concentrez sur ce qui compte.",
+      "category": "Marketing & Advertising",
+      "website": "https://globalclockos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T03:39:26.973421+00:00"
+    },
+    {
+      "name": "Kavelo — Your AI Sales Agent",
+      "slug": "polsia-kavelo",
+      "description": "Every autonomous AI SDR on the market charges $900 or more per month. They're built for mid-market sales teams with dedicated ops people. If you're a solopreneur, freelancer, or small business owner, you're priced out of the tools that could actually grow your revenue.",
+      "description_fr": "Chaque SDR AI autonome sur le marché coûte 900 $ ou plus par mois. Ils sont conçus pour les équipes commerciales de taille moyenne dotées de personnes opérationnelles dédiées. Si vous êtes un entrepreneur solo, un indépendant ou un propriétaire de petite entreprise, vous n'avez pas accès aux outils qui pourraient réellement augmenter vos revenus.",
+      "category": "AI & Machine Learning",
+      "website": "https://kavelo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T03:39:29.379224+00:00"
+    },
+    {
+      "name": "FluxFit — Your AI Coach That Never Sleeps",
+      "slug": "polsia-fluxfit",
+      "description": "FluxFit is an AI that programs, adapts, and manages your entire fitness journey. It learns from your wearable data, adjusts daily, and never takes a day off.",
+      "description_fr": "FluxFit est une IA qui programme, adapte et gère l'ensemble de votre parcours de remise en forme. Il apprend de vos données portables, s'ajuste quotidiennement et ne prend jamais un jour de congé.",
+      "category": "AI & Machine Learning",
+      "website": "https://fluxfit.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-15T03:39:30.240135+00:00"
     }
   ]
 }
