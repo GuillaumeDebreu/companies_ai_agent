@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T10:17:57.006558+00:00",
+  "last_updated": "2026-04-16T11:34:20.956352+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -57578,18 +57578,24 @@
     {
       "name": "Privora",
       "slug": "polsia-privora-2",
+      "description": "Privora believes every company, regardless of size, deserves enterprise-grade privacy compliance. Built from Zurich with the precision and privacy-first mindset Switzerland is known for.",
+      "description_fr": "Privora estime que chaque entreprise, quelle que soit sa taille, mérite une conformité de niveau entreprise en matière de confidentialité. Construit à Zurich avec l’état d’esprit de précision et de confidentialité pour lequel la Suisse est connue.",
+      "category": "Other",
       "website": "https://privora-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-16T10:17:43.348667+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T11:34:19.609876+00:00"
     },
     {
       "name": "Regulus",
       "slug": "polsia-regulus",
+      "description": "Continuously monitors CSSF circulars, ESMA guidelines, EU directives, and national transpositions. Every relevant change is captured, classified, and mapped to your specific fund structures within hours of publication.",
+      "description_fr": "Surveille en permanence les circulaires CSSF, les lignes directrices de l’ESMA, les directives européennes et les transpositions nationales. Chaque changement pertinent est capturé, classé et mappé à vos structures de fonds spécifiques dans les heures suivant la publication.",
+      "category": "Other",
       "website": "https://regulus.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-16T10:17:43.584128+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T11:34:20.532418+00:00"
     },
     {
       "name": "SnugosOS",
@@ -57664,6 +57670,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-16T10:17:52.357526+00:00"
+    },
+    {
+      "name": "GrowthForgeOS",
+      "slug": "polsia-growthforgeos-2",
+      "website": "https://growthforgeos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-16T11:34:05.243193+00:00"
+    },
+    {
+      "name": "RollingRefuge — Remodeled RVs for Homeless Families",
+      "slug": "polsia-rollingrefuge",
+      "description": "We accept donated travel trailers and RVs, remodel them into safe, self-contained homes, and give them to homeless families in Central Florida. Donors get a tax deduction. Families get a front door.",
+      "description_fr": "Nous acceptons les dons de caravanes et de camping-cars, les transformons en maisons sûres et autonomes et les donnons aux familles sans abri du centre de la Floride. Les donateurs bénéficient d'une déduction fiscale. Les familles ont une porte d'entrée.",
+      "category": "Travel & Hospitality",
+      "website": "https://rollingrefuge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T11:34:06.517788+00:00"
+    },
+    {
+      "name": "PlantWheelOS",
+      "slug": "polsia-plantwheelos",
+      "description": "Plants on Wheels started with two people, a kitchen, and a conviction. PlantWheelOS gives them the infrastructure to scale that conviction across every borough, every week, without losing the personal touch that makes this work matter.",
+      "description_fr": "Plants on Wheels a commencé avec deux personnes, une cuisine et une conviction. PlantWheelOS leur donne l'infrastructure nécessaire pour étendre cette conviction dans chaque arrondissement, chaque semaine, sans perdre la touche personnelle qui fait l'importance de ce travail.",
+      "category": "Food & Beverage",
+      "website": "https://plantwheelos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T11:34:07.299568+00:00"
+    },
+    {
+      "name": "GoSoinsOS",
+      "slug": "polsia-gosoins-os",
+      "description": "La ou les concurrents vendent des briques isolees, GoSoins Global integre tout ce dont un etablissement medico-social a besoin pour reussir sa transition numerique.",
+      "description_fr": "La ou les concurrents vendant des briques isolées, GoSoins Global intègre tout ce dont un établissement médico-social a besoin pour réussir sa transition numérique.",
+      "category": "Real Estate",
+      "website": "https://gosoins-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T11:34:09.055032+00:00"
+    },
+    {
+      "name": "Brake Medic",
+      "slug": "polsia-brake-medic",
+      "description": "Brake Medic is bringing honest, transparent mobile brake repair to Birmingham. No shop visits, no mystery pricing, no wasted afternoons. Just brakes, done right, where you are.",
+      "description_fr": "Brake Medic propose une réparation de freins mobiles honnête et transparente à Birmingham. Pas de visites en magasin, pas de prix mystères, pas d'après-midi perdus. Juste des freins, bien faits, là où vous êtes.",
+      "category": "E-Commerce & Retail",
+      "website": "https://brake-medic.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T11:34:10.758894+00:00"
+    },
+    {
+      "name": "911BooksOS",
+      "slug": "polsia-911booksos",
+      "description": "Full-service bookkeeping, tax, and business consulting for trades contractors who'd rather fix an AC unit than reconcile a ledger. Based in Baton Rouge, serving the businesses that keep America running.",
+      "description_fr": "Service complet de tenue de livres, de fiscalité et de conseil commercial pour les entrepreneurs spécialisés qui préfèrent réparer une unité de climatisation plutôt que de rapprocher un grand livre. Basé à Baton Rouge, au service des entreprises qui font fonctionner l'Amérique.",
+      "category": "Consulting & Services",
+      "website": "https://911booksos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T11:34:11.968682+00:00"
+    },
+    {
+      "name": "ShiftWell",
+      "slug": "polsia-shiftwell-ai",
+      "description": "ShiftWell exists because the people who keep healthcare running deserve to own their careers. Better shifts. Better pay. Full transparency. That's the future of healthcare staffing.",
+      "description_fr": "ShiftWell existe parce que les personnes qui assurent le fonctionnement des soins de santé méritent de s'approprier leur carrière. De meilleurs changements. Mieux vaut payer. Transparence totale. C'est l'avenir du personnel de santé.",
+      "category": "Health & Wellness",
+      "website": "https://shiftwell-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T11:34:13.272417+00:00"
+    },
+    {
+      "name": "Centari",
+      "slug": "polsia-centari",
+      "description": "Reads every inbound email and message. Responds instantly with context-aware answers. Escalates only what truly needs a human. Your customers think they're talking to your best employee.",
+      "description_fr": "Lit chaque e-mail et message entrant. Répond instantanément avec des réponses contextuelles. Augmente uniquement ce qui a vraiment besoin d'un humain. Vos clients pensent qu'ils parlent à votre meilleur employé.",
+      "category": "Newsletter & Email",
+      "website": "https://centari.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T11:34:14.126847+00:00"
+    },
+    {
+      "name": "Clearway",
+      "slug": "polsia-clearway",
+      "description": "Clearway is an autonomous AI agent that navigates government software accreditation for you. ATO packages, FedRAMP documentation, compliance monitoring. No consultants. No 18-month timelines.",
+      "description_fr": "Clearway est un agent d'IA autonome qui navigue pour vous dans l'accréditation gouvernementale des logiciels. Packages ATO, documentation FedRAMP, surveillance de la conformité. Pas de consultants. Pas de délai de 18 mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://clearway.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T11:34:15.877212+00:00"
+    },
+    {
+      "name": "Trovos",
+      "slug": "polsia-trovos",
+      "description": "Trovos is an AI sales agent that researches prospects, writes personalized outreach, and follows up until they book a meeting. It works while you sleep.",
+      "description_fr": "Trovos est un agent commercial IA qui recherche des prospects, rédige des informations personnalisées et assure le suivi jusqu'à ce qu'ils prennent rendez-vous. Cela fonctionne pendant que vous dormez.",
+      "category": "Sales & CRM",
+      "website": "https://trovos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T11:34:17.000331+00:00"
     }
   ]
 }
