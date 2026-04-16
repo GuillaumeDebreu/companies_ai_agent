@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T05:18:49.115421+00:00",
+  "last_updated": "2026-04-16T07:07:49.258773+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -57237,10 +57237,13 @@
     {
       "name": "NeuhuOS",
       "slug": "polsia-neuhuos",
+      "description": "NeuhuOS is the operating system behind Neuhu+. It tracks viewer engagement, monitors competitors, runs outreach to creators, and delivers daily progress reports. No manual work required.",
+      "description_fr": "NeuhuOS est le système d'exploitation derrière Neuhu+. Il suit l'engagement des téléspectateurs, surveille les concurrents, sensibilise les créateurs et fournit des rapports de progression quotidiens. Aucun travail manuel requis.",
+      "category": "Sales & CRM",
       "website": "https://neuhuos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-16T05:18:33.556733+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T07:07:49.158914+00:00"
     },
     {
       "name": "OddCarlOS",
@@ -57340,6 +57343,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-16T05:18:44.516055+00:00"
+    },
+    {
+      "name": "LYTOS",
+      "slug": "polsia-lytos",
+      "description": "LYTOS is the command center for Lose Your Thoughts. Clients, sessions, workbooks, outreach, and growth metrics in one place. So you can spend more time coaching and less time managing spreadsheets.",
+      "description_fr": "LYTOS est le centre de commande de Lose Your Thoughts. Clients, sessions, cahiers d'exercices, sensibilisation et mesures de croissance en un seul endroit. Vous pouvez ainsi consacrer plus de temps au coaching et moins de temps à gérer des feuilles de calcul.",
+      "category": "Sales & CRM",
+      "website": "https://lytos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T07:07:41.978401+00:00"
+    },
+    {
+      "name": "ElxrOS",
+      "slug": "polsia-elxros",
+      "description": "Cafes and bars worldwide are adding functional beverages to their menus. They need reliable suppliers of quality extracts. Most competitors sell finished products to consumers. ELXR Craft supplies the raw ingredients that let cafes create their own.",
+      "description_fr": "Les cafés et les bars du monde entier ajoutent des boissons fonctionnelles à leurs menus. Ils ont besoin de fournisseurs fiables d’extraits de qualité. La plupart des concurrents vendent des produits finis aux consommateurs. ELXR Craft fournit les matières premières qui permettent aux cafés de créer les leurs.",
+      "category": "Food & Beverage",
+      "website": "https://elxros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T07:07:42.539254+00:00"
+    },
+    {
+      "name": "SparkHive",
+      "slug": "polsia-sparkhive",
+      "website": "https://sparkhive.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-16T07:07:42.736729+00:00"
+    },
+    {
+      "name": "Stayrev",
+      "slug": "polsia-stayrev",
+      "website": "https://stayrev.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-16T07:07:42.943078+00:00"
+    },
+    {
+      "name": "Zestay",
+      "slug": "polsia-zestay",
+      "description": "Zestay is an AI agent that manages your short-term rental properties 24/7. Guests, pricing, turnovers, reviews. All handled autonomously while you sleep.",
+      "description_fr": "Zestay est un agent IA qui gère vos locations courte durée 24h/24 et 7j/7. Invités, tarifs, chiffres d'affaires, avis. Tout est géré de manière autonome pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://zestay.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T07:07:43.734622+00:00"
+    },
+    {
+      "name": "O.D.A.T.",
+      "slug": "polsia-odat",
+      "description": "No financial penalties. No shame mechanics. Just a partner who checks in, celebrates your wins, and helps you show up again tomorrow. Progress isn't linear. But it is daily.",
+      "description_fr": "Aucune pénalité financière. Pas de honte à la mécanique. Juste un partenaire qui s'enregistre, célèbre vos victoires et vous aide à vous présenter à nouveau demain. Le progrès n'est pas linéaire. Mais c'est quotidien.",
+      "category": "Finance & Fintech",
+      "website": "https://odat.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T07:07:44.739525+00:00"
+    },
+    {
+      "name": "SwipeGiveOS — The Operating System Behind Every Charitable Swipe",
+      "slug": "polsia-swipegiveos",
+      "description": "The command center for a merchant processor that turns every transaction into charitable impact. Pipeline, donations, growth, all running autonomously.",
+      "description_fr": "Le centre de commande d'un processeur marchand qui transforme chaque transaction en impact caritatif. Pipeline, dons, croissance, tout fonctionne de manière autonome.",
+      "category": "Sales & CRM",
+      "website": "https://swipegiveos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T07:07:45.246712+00:00"
+    },
+    {
+      "name": "SpreadHawk",
+      "slug": "polsia-spreadhawk",
+      "description": "Sportsbooks and prediction markets price the same events differently, every day. SpreadHawk turns that inefficiency into a system: scan, calculate, execute. No guessing, no gambling, just math.",
+      "description_fr": "Les paris sportifs et les marchés de pronostics évaluent les mêmes événements différemment, chaque jour. SpreadHawk transforme cette inefficacité en système : analysez, calculez, exécutez. Pas de devinettes, pas de jeu, juste des mathématiques.",
+      "category": "Real Estate",
+      "website": "https://spreadhawk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T07:07:46.076956+00:00"
+    },
+    {
+      "name": "Velra",
+      "slug": "polsia-velra",
+      "description": "Velra is an autonomous AI that runs your office end-to-end. Emails, scheduling, invoices, client follow-ups, daily reports. One employee that never clocks out.",
+      "description_fr": "Velra est une IA autonome qui gère votre bureau de bout en bout. Courriels, planning, factures, suivis clients, rapports quotidiens. Un employé qui ne pointe jamais.",
+      "category": "AI & Machine Learning",
+      "website": "https://velra.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T07:07:46.592612+00:00"
+    },
+    {
+      "name": "NestPilot — Your AI Employee for Real Estate",
+      "slug": "polsia-nestpilot-9",
+      "description": "Built by someone who knows what it means to juggle leads, listings, and life in Maricopa County. NestPilot exists so agents can get back to what actually closes deals: the human connection.",
+      "description_fr": "Construit par quelqu'un qui sait ce que signifie jongler avec les prospects, les annonces et la vie dans le comté de Maricopa. NestPilot existe pour que les agents puissent revenir à ce qui conclut réellement les transactions : la connexion humaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://nestpilot-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T07:07:47.248073+00:00"
     }
   ]
 }
