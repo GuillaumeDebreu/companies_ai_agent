@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T02:51:24.726022+00:00",
+  "last_updated": "2026-04-16T05:18:49.115421+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -55640,20 +55640,26 @@
       "scraped_at": "2026-04-15T23:54:16.606077+00:00"
     },
     {
-      "name": "CohereOS",
+      "name": "Cohere OS",
       "slug": "polsia-cohereos",
+      "description": "Spending, bills, subscriptions, renewals. Flags anomalies. Tracks habits. The financial and personal logistics you forget about until they break.",
+      "description_fr": "Dépenses, factures, abonnements, renouvellements. Signale les anomalies. Suit les habitudes. La logistique financière et personnelle que vous oubliez jusqu'à ce qu'elle se brise.",
+      "category": "Finance & Fintech",
       "website": "https://cohereos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-16T02:37:55.587283+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T05:18:47.538927+00:00"
     },
     {
       "name": "CrewMind",
       "slug": "polsia-crewmind-7",
+      "description": "Enterprise tools cost $150+/user and take months to deploy. CrewMind is built specifically for mid-market staffing agencies that need AI power without enterprise complexity.",
+      "description_fr": "Les outils d'entreprise coûtent plus de 150 $/utilisateur et prennent des mois à déployer. CrewMind est spécialement conçu pour les agences de recrutement de taille moyenne qui ont besoin de la puissance de l'IA sans complexité d'entreprise.",
+      "category": "AI & Machine Learning",
       "website": "https://crewmind-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-16T02:37:55.859948+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T05:18:48.273855+00:00"
     },
     {
       "name": "Hydro Strike Wash Co — Pressure Washing, Spokane WA",
@@ -55669,10 +55675,13 @@
     {
       "name": "GrooveKit",
       "slug": "polsia-groovekit",
+      "description": "Existing platforms dump thousands of videos on you and call it education. That's a library, not a teacher.GrooveKit is the teacher.It tells you what to practice, tracks how you do, and shows you the proof.",
+      "description_fr": "Les plateformes existantes vous déchargent des milliers de vidéos et appellent cela de l’éducation. C'est une bibliothèque, pas un professeur. GrooveKit est le professeur. Il vous indique quoi pratiquer, suit vos progrès et vous montre la preuve.",
+      "category": "Software & SaaS",
       "website": "https://groovekit.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-16T02:37:57.940661+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T05:18:48.877582+00:00"
     },
     {
       "name": "ListFlowOS — AI",
@@ -57224,6 +57233,113 @@
       "category": "Software & SaaS",
       "website": "https://eloscout.nanocorp.app",
       "scraped_at": "2026-04-16T02:51:24.725649+00:00"
+    },
+    {
+      "name": "NeuhuOS",
+      "slug": "polsia-neuhuos",
+      "website": "https://neuhuos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-16T05:18:33.556733+00:00"
+    },
+    {
+      "name": "OddCarlOS",
+      "slug": "polsia-oddcarlos",
+      "description": "Odd Carl already has the hardest thing to create: a character people connect with. OddCarlOS exists to turn that emotional connection into a licensing business that runs itself. The introverted cat that quietly takes over the world.",
+      "description_fr": "Odd Carl a déjà la chose la plus difficile à créer : un personnage avec lequel les gens s'identifient. OddCarlOS existe pour transformer ce lien émotionnel en une entreprise de licences qui se gère elle-même. Le chat introverti qui envahit tranquillement le monde.",
+      "category": "Other",
+      "website": "https://oddcarlos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T05:18:36.079999+00:00"
+    },
+    {
+      "name": "Outpace — Your AI Sales Rep That Never Sleeps",
+      "slug": "polsia-outpace-52",
+      "description": "Outpace is an autonomous AI sales agent. It finds your ideal prospects, researches them, writes personalized outreach, and follows up. You close.",
+      "description_fr": "Outpace est un agent commercial autonome en IA. Il trouve vos prospects idéaux, les recherche, rédige des informations personnalisées et assure le suivi. Vous fermez.",
+      "category": "Sales & CRM",
+      "website": "https://outpace-52.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T05:18:37.673360+00:00"
+    },
+    {
+      "name": "TuneStack",
+      "slug": "polsia-tunestack",
+      "description": "TuneStack was built by someone who got tired of digging through notes, screenshots, and half-baked forum posts every time they tuned something. Every answer comes from real builds, real data, real busted knuckles.",
+      "description_fr": "TuneStack a été construit par quelqu'un qui en avait assez de fouiller dans des notes, des captures d'écran et des messages de forum à moitié cuits à chaque fois qu'il ajustait quelque chose. Chaque réponse vient de vraies constructions, de vraies données, de vraies phalanges cassées.",
+      "category": "Social & Community",
+      "website": "https://tunestack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T05:18:38.415849+00:00"
+    },
+    {
+      "name": "HomFaxOS",
+      "slug": "polsia-homfaxos",
+      "description": "Ambassador HomFax is building the intelligence layer that every adjuster, contractor, and homeowner deserves. Fort Worth first. Then everywhere storm clouds gather.",
+      "description_fr": "L'ambassadeur HomFax construit la couche de renseignement que chaque expert en sinistres, entrepreneur et propriétaire mérite. Fort Worth d’abord. Puis partout les nuages ​​d’orage se rassemblent.",
+      "category": "Other",
+      "website": "https://homfaxos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T05:18:39.822400+00:00"
+    },
+    {
+      "name": "BluumOS",
+      "slug": "polsia-bluumos",
+      "description": "Bluum Digital was built on a simple truth: every click comes from a real person making a real decision. BluumOS preserves that philosophy while removing the operational weight that slows agencies down.",
+      "description_fr": "Bluum Digital a été construit sur une vérité simple : chaque clic provient d'une vraie personne prenant une vraie décision. BluumOS préserve cette philosophie tout en supprimant le poids opérationnel qui ralentit les agences.",
+      "category": "Other",
+      "website": "https://bluumos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T05:18:40.406942+00:00"
+    },
+    {
+      "name": "ShieldBridge — Cybersecurity You Can Trust",
+      "slug": "polsia-shieldbridge",
+      "description": "ShieldBridge connects startups and small businesses with vetted cybersecurity professionals. Not random freelancers. Verified experts matched to your specific threats, industry, and budget.",
+      "description_fr": "ShieldBridge met en relation les startups et les petites entreprises avec des professionnels agréés de la cybersécurité. Pas des pigistes au hasard. Des experts vérifiés adaptés à vos menaces spécifiques, à votre secteur et à votre budget.",
+      "category": "Consulting & Services",
+      "website": "https://shieldbridge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T05:18:41.341405+00:00"
+    },
+    {
+      "name": "Firetune",
+      "slug": "polsia-firetune",
+      "description": "Firetune exists because keeping models sharp in production shouldn't require a dedicated ML team. The agent does what the team does. Continuously.",
+      "description_fr": "Firetune existe parce que le maintien des modèles en production ne devrait pas nécessiter une équipe ML dédiée. L'agent fait ce que fait l'équipe. En continu.",
+      "category": "Other",
+      "website": "https://firetune.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T05:18:42.467255+00:00"
+    },
+    {
+      "name": "Atendo — The AI Employee for Your Front Desk",
+      "slug": "polsia-atendo-ai",
+      "description": "Atendo is an AI that runs your entire front desk operation. It answers every call, books every appointment, follows up with every customer, and manages your reputation online. It never sleeps, never calls in sick, and speaks your customers' language.",
+      "description_fr": "Atendo est une IA qui gère l'ensemble des opérations de votre réception. Il répond à chaque appel, prend chaque rendez-vous, assure le suivi de chaque client et gère votre réputation en ligne. Il ne dort jamais, n'appelle jamais malade et parle la langue de vos clients.",
+      "category": "AI & Machine Learning",
+      "website": "https://atendo-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T05:18:43.171887+00:00"
+    },
+    {
+      "name": "OldMontanaOS",
+      "slug": "polsia-oldmontanaos",
+      "description": "In 1996, he married an architect's eye with a boatbuilder's hands. Cajune Boatbuilding was born. Today, Old Montana Boat Company floats guests down the Yellowstone in wooden drift boats Jason designed and built himself. No other tour company in Paradise Valley can say that.",
+      "description_fr": "En 1996, il épouse l'œil d'un architecte et les mains d'un constructeur de bateaux. Cajune Boatbuilding était né. Aujourd'hui, Old Montana Boat Company fait flotter ses invités sur le Yellowstone dans des bateaux dérivants en bois que Jason a conçus et construits lui-même. Aucune autre agence de voyage de Paradise Valley ne peut en dire autant.",
+      "category": "Travel & Hospitality",
+      "website": "https://oldmontanaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T05:18:44.516055+00:00"
     }
   ]
 }
