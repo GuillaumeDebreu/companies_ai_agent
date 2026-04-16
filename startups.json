@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T23:54:22.096110+00:00",
+  "last_updated": "2026-04-16T02:38:13.933100+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -55532,10 +55532,13 @@
     {
       "name": "TenantVault",
       "slug": "polsia-tenantvault",
+      "description": "Free tools cap out at 20 units. Enterprise platforms start at $280/month with six-month onboarding. If you manage 100 to 2,000 units, you've been forced to choose between outgrowing your software or overpaying for features you'll never use.",
+      "description_fr": "Les outils gratuits sont limités à 20 unités. Les plates-formes d'entreprise commencent à 280 $/mois avec une intégration de six mois. Si vous gérez 100 à 2 000 unités, vous êtes obligé de choisir entre devenir trop petit pour votre logiciel ou payer trop cher pour des fonctionnalités que vous n'utiliserez jamais.",
+      "category": "Software & SaaS",
       "website": "https://tenantvault.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T23:54:09.381960+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T02:38:09.835931+00:00"
     },
     {
       "name": "Go Dutch Home Buyers — Fair Cash Offers for Houston Homes",
@@ -55549,20 +55552,26 @@
       "scraped_at": "2026-04-15T23:54:10.714439+00:00"
     },
     {
-      "name": "ClosedWon",
+      "name": "ClosedWon — Your AI Sales Agent",
       "slug": "polsia-closedwon-app",
+      "description": "ClosedWon finds your ideal customers, writes personalized outreach, follows up relentlessly, and books meetings on your calendar. Like hiring a sales rep who works 24/7 and never misses a follow-up.",
+      "description_fr": "ClosedWon trouve vos clients idéaux, rédige des communications personnalisées, assure un suivi sans relâche et réserve des réunions sur votre calendrier. C’est comme embaucher un commercial qui travaille 24h/24 et 7j/7 et ne manque jamais un suivi.",
+      "category": "AI & Machine Learning",
       "website": "https://closedwon-app.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T23:54:10.844647+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T02:38:11.514448+00:00"
     },
     {
       "name": "Tidecast",
       "slug": "polsia-tidecast",
+      "description": "The $5.8B AI SDR market is dominated by enterprise tools that cost more than the SDRs they replace. Tidecast is built for founders and small teams who need pipeline, not complexity. Your autonomous sales agent, working every hour you aren't.",
+      "description_fr": "Le marché des SDR IA, d’une valeur de 5,8 milliards de dollars, est dominé par les outils d’entreprise qui coûtent plus cher que les SDR qu’ils remplacent. Tidecast est conçu pour les fondateurs et les petites équipes qui ont besoin de pipeline et non de complexité. Votre agent commercial autonome, travaillant toutes les heures, contrairement à vous.",
+      "category": "AI & Machine Learning",
       "website": "https://tidecast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T23:54:11.039476+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T02:38:12.182021+00:00"
     },
     {
       "name": "TitanOS",
@@ -55589,10 +55598,13 @@
     {
       "name": "Pipesmith",
       "slug": "polsia-pipesmith-36",
+      "description": "Pipesmith is an autonomous AI agent that researches your ideal prospects, writes personalized outreach, sends multi-touch sequences, and books meetings on your calendar. No templates. No busywork. No humans in the loop.",
+      "description_fr": "Pipesmith est un agent IA autonome qui recherche vos prospects idéaux, rédige des communications personnalisées, envoie des séquences multi-touch et réserve des réunions sur votre calendrier. Aucun modèle. Pas de travail fastidieux. Aucun humain dans la boucle.",
+      "category": "AI & Machine Learning",
       "website": "https://pipesmith-36.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-15T23:54:13.584782+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T02:38:13.322010+00:00"
     },
     {
       "name": "FuelSpot",
@@ -55626,6 +55638,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-15T23:54:16.606077+00:00"
+    },
+    {
+      "name": "CohereOS",
+      "slug": "polsia-cohereos",
+      "website": "https://cohereos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-16T02:37:55.587283+00:00"
+    },
+    {
+      "name": "CrewMind",
+      "slug": "polsia-crewmind-7",
+      "website": "https://crewmind-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-16T02:37:55.859948+00:00"
+    },
+    {
+      "name": "Hydro Strike Wash Co — Pressure Washing, Spokane WA",
+      "slug": "polsia-hydro-strike-wash-co",
+      "description": "Hydro Strike Wash Co delivers commercial-grade pressure washing for homes and businesses across Spokane. One rig. One operator. Zero shortcuts.",
+      "description_fr": "Hydro Strike Wash Co propose un lavage sous pression de qualité commerciale pour les maisons et les entreprises de Spokane. Une plate-forme. Un opérateur. Zéro raccourci.",
+      "category": "Other",
+      "website": "https://hydro-strike-wash-co.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T02:37:57.548675+00:00"
+    },
+    {
+      "name": "GrooveKit",
+      "slug": "polsia-groovekit",
+      "website": "https://groovekit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-16T02:37:57.940661+00:00"
+    },
+    {
+      "name": "ListFlowOS — AI",
+      "slug": "polsia-listflowos",
+      "description": "ListFlowOS turns vintage inventory into optimized, platform-specific listings across eBay, Poshmark, Depop, Mercari, Etsy, and more. AI handles identification, pricing, and tone. You handle sourcing.",
+      "description_fr": "ListFlowOS transforme l'inventaire vintage en annonces optimisées et spécifiques à la plate-forme sur eBay, Poshmark, Depop, Mercari, Etsy, etc. L'IA gère l'identification, la tarification et le ton. Vous gérez le sourcing.",
+      "category": "AI & Machine Learning",
+      "website": "https://listflowos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T02:37:58.761433+00:00"
+    },
+    {
+      "name": "Launchwise",
+      "slug": "polsia-launchwise",
+      "description": "Launchwise is an autonomous AI business consultant. It runs competitive analysis, delivers strategic recommendations, and monitors your market position, every single day, without the enterprise price tag.",
+      "description_fr": "Launchwise est un consultant commercial autonome en IA. Il effectue une analyse concurrentielle, fournit des recommandations stratégiques et surveille votre position sur le marché, chaque jour, sans le prix de l'entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://launchwise.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T02:38:00.422951+00:00"
+    },
+    {
+      "name": "DripEngine — Your AI Creative Director, Marketer & Ops Lead",
+      "slug": "polsia-dripengine-2",
+      "description": "Most brand owners burn out juggling design, marketing, fulfillment, and customer service. They have the taste but not the bandwidth. DripEngine replaces the team you can't afford with AI that works around the clock.",
+      "description_fr": "La plupart des propriétaires de marques s'épuisent en jonglant avec la conception, le marketing, l'exécution et le service client. Ils ont le goût mais pas la bande passante. DripEngine remplace l'équipe que vous ne pouvez pas vous permettre par une IA qui fonctionne 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://dripengine-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T02:38:01.963220+00:00"
+    },
+    {
+      "name": "Propagate",
+      "slug": "polsia-propagate-ai",
+      "description": "AI-generated product listings with growing zone compatibility, care instructions, and seasonal availability baked in. Your plants look professional without the effort.",
+      "description_fr": "Listes de produits générées par l'IA avec compatibilité des zones de culture, instructions d'entretien et disponibilité saisonnière intégrées. Vos plantes ont un aspect professionnel sans effort.",
+      "category": "AI & Machine Learning",
+      "website": "https://propagate-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T02:38:03.516921+00:00"
+    },
+    {
+      "name": "CircleNow",
+      "slug": "polsia-circlenow",
+      "description": "Pick an activity type. Set the time (or just tap \"ASAP\"). Drop a pin or use your location. Set max participants. Done. Your activity is live and pulsing on every nearby map. The fastest path from \"I'm bored\" to \"I'm there.\"",
+      "description_fr": "Choisissez un type d'activité. Réglez l'heure (ou appuyez simplement sur « DÈS QUE POSSIBLE »). Déposez une épingle ou utilisez votre position. Définissez le nombre maximum de participants. Fait. Votre activité est en direct et palpitante sur toutes les cartes à proximité. Le chemin le plus rapide de « je m’ennuie » à « j’y suis ».",
+      "category": "Other",
+      "website": "https://circlenow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T02:38:05.001549+00:00"
+    },
+    {
+      "name": "RingReadyOS — The Command Center Behind Your AI Receptionist",
+      "slug": "polsia-ringreadyos",
+      "description": "RingReady exists so no call goes unanswered. No lead goes cold. No business gets lost to a voicemail box that nobody checks. 24 hours a day, 365 days a year.",
+      "description_fr": "RingReady existe donc aucun appel ne reste sans réponse. Aucun plomb ne refroidit. Aucune entreprise ne se perd dans une boîte vocale que personne ne vérifie. 24 heures sur 24, 365 jours par an.",
+      "category": "AI & Machine Learning",
+      "website": "https://ringreadyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T02:38:06.677550+00:00"
     }
   ]
 }
