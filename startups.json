@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T11:34:20.956352+00:00",
+  "last_updated": "2026-04-16T12:46:54.267231+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -57674,10 +57674,13 @@
     {
       "name": "GrowthForgeOS",
       "slug": "polsia-growthforgeos-2",
+      "description": "GrowthForgeOS is the command center for Scalable Growth Solutions. Client pipelines, competitive intel, exit readiness, and daily operations, all managed by AI that works while you sleep.",
+      "description_fr": "GrowthForgeOS est le centre de commande des solutions de croissance évolutives. Pipelines de clients, informations sur la concurrence, préparation à la sortie et opérations quotidiennes, le tout géré par une IA qui fonctionne pendant que vous dormez.",
+      "category": "AI & Machine Learning",
       "website": "https://growthforgeos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-16T11:34:05.243193+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T12:46:54.139400+00:00"
     },
     {
       "name": "RollingRefuge — Remodeled RVs for Homeless Families",
@@ -57777,6 +57780,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-16T11:34:17.000331+00:00"
+    },
+    {
+      "name": "RoyerOS",
+      "slug": "polsia-royeros",
+      "website": "https://royeros.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-16T12:46:41.034010+00:00"
+    },
+    {
+      "name": "ListedAI",
+      "slug": "polsia-listedai",
+      "description": "We run a deep AI audit of your business. Then we optimize your Google Business Profile, clean up your Maps presence, and structure your data so AI search engines confidently recommend you.",
+      "description_fr": "Nous effectuons un audit IA approfondi de votre entreprise. Ensuite, nous optimisons votre profil d'entreprise Google, nettoyons votre présence sur Maps et structurons vos données afin que les moteurs de recherche IA vous recommandent en toute confiance.",
+      "category": "AI & Machine Learning",
+      "website": "https://listedai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T12:46:42.348758+00:00"
+    },
+    {
+      "name": "BeatShed",
+      "slug": "polsia-beatshed",
+      "description": "BeatShed doesn't teach \"generic drumming.\" We teach through the music you actually listen to. From the polyrhythms of West Africa to the pocket of classic R&B, every lesson connects to real music.",
+      "description_fr": "BeatShed n'enseigne pas la « batterie générique ». Nous enseignons à travers la musique que vous écoutez réellement. Des polyrythmies de l'Afrique de l'Ouest à la poche du R&B classique, chaque leçon est liée à la vraie musique.",
+      "category": "Entertainment & Media",
+      "website": "https://beatshed.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T12:46:43.661473+00:00"
+    },
+    {
+      "name": "ContentPipe",
+      "slug": "polsia-contentpipe",
+      "description": "Most AI writers produce generic copy because they don't know the client. ContentPipe's intake-to-research pipeline means every word is grounded in real data about who the client is and what their market looks like.",
+      "description_fr": "La plupart des rédacteurs d'IA produisent des copies génériques parce qu'ils ne connaissent pas le client. Le pipeline d'admission à la recherche de ContentPipe signifie que chaque mot est fondé sur des données réelles sur qui est le client et à quoi ressemble son marché.",
+      "category": "AI & Machine Learning",
+      "website": "https://contentpipe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T12:46:44.174018+00:00"
+    },
+    {
+      "name": "BrainBites — Knowledge, simplified.",
+      "slug": "polsia-brainbites",
+      "description": "Most educational content is too long, too boring, or too complicated. BrainBites strips away the jargon and delivers one important topic every day in under 60 seconds. Powered by AI, designed for humans, built for every platform where people actually spend their time.",
+      "description_fr": "La plupart des contenus éducatifs sont trop longs, trop ennuyeux ou trop compliqués. BrainBites supprime le jargon et propose un sujet important chaque jour en moins de 60 secondes. Propulsé par l'IA, conçu pour les humains, conçu pour chaque plateforme sur laquelle les gens passent réellement leur temps.",
+      "category": "Software & SaaS",
+      "website": "https://brainbites.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T12:46:45.078745+00:00"
+    },
+    {
+      "name": "AwardRadar",
+      "slug": "polsia-awardradar",
+      "description": "AwardRadar is an autonomous AI agent that monitors government procurement databases 24/7, qualifies opportunities against your capabilities, and delivers a curated pipeline by morning.",
+      "description_fr": "AwardRadar est un agent d'IA autonome qui surveille les bases de données des marchés publics 24h/24 et 7j/7, qualifie les opportunités en fonction de vos capacités et fournit un pipeline organisé le matin.",
+      "category": "AI & Machine Learning",
+      "website": "https://awardradar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T12:46:46.819448+00:00"
+    },
+    {
+      "name": "Craftwork — Your AI Web Developer",
+      "slug": "polsia-craftwork",
+      "description": "Your business needs a website that evolves. Content updates, performance fixes, SEO optimization, new pages, bug fixes. But full-time developers cost $80K+/year, and freelancers charge $150/hour for work that takes them three weeks to start.",
+      "description_fr": "Votre entreprise a besoin d'un site Web qui évolue. Mises à jour de contenu, correctifs de performances, optimisation du référencement, nouvelles pages, corrections de bugs. Mais les développeurs à temps plein coûtent plus de 80 000 $/an, et les pigistes facturent 150 $/heure pour un travail qui leur prend trois semaines pour démarrer.",
+      "category": "AI & Machine Learning",
+      "website": "https://craftwork.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T12:46:48.242086+00:00"
+    },
+    {
+      "name": "ScaleWellOS",
+      "slug": "polsia-scalewellos",
+      "description": "ScaleWellOS is built for the weight loss clinic founder who outgrew their tools months ago but hasn't had time to fix it. One system. Every patient. Every dollar. Every decision.",
+      "description_fr": "ScaleWellOS est conçu pour le fondateur d'une clinique de perte de poids qui est devenu trop grand pour ses outils il y a des mois mais n'a pas eu le temps de le réparer. Un système. Chaque patient. Chaque dollar. Chaque décision.",
+      "category": "Health & Wellness",
+      "website": "https://scalewellos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T12:46:49.664882+00:00"
+    },
+    {
+      "name": "PostStream",
+      "slug": "polsia-poststream-2",
+      "description": "PostStream is the marketing employee you always needed but could never hire. It shows up every day, posts content that sounds like you, and never asks for time off.",
+      "description_fr": "PostStream est l'employé marketing dont vous avez toujours eu besoin mais que vous n'avez jamais pu embaucher. Il apparaît tous les jours, publie du contenu qui vous ressemble et ne demande jamais de congés.",
+      "category": "Marketing & Advertising",
+      "website": "https://poststream-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T12:46:50.548608+00:00"
+    },
+    {
+      "name": "Parlo",
+      "slug": "polsia-parlo-21",
+      "description": "Parlo is an AI receptionist that answers your business phone 24/7, books appointments, and follows up with clients. No hold music. No voicemail. No missed revenue.",
+      "description_fr": "Parlo est une réceptionniste IA qui répond à votre téléphone professionnel 24h/24 et 7j/7, prend des rendez-vous et assure le suivi des clients. Pas de musique d'attente. Pas de message vocal. Aucun revenu manqué.",
+      "category": "AI & Machine Learning",
+      "website": "https://parlo-21.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T12:46:51.913065+00:00"
     }
   ]
 }
