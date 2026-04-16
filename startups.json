@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T07:50:30.610919+00:00",
+  "last_updated": "2026-04-16T08:55:31.403206+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -57369,18 +57369,24 @@
     {
       "name": "SparkHive",
       "slug": "polsia-sparkhive",
+      "description": "SparkHive deploys AI agents that run your social media, customer outreach, lead nurturing, and growth analytics. Continuously. Without supervision. While you focus on what matters.",
+      "description_fr": "SparkHive déploie des agents d'IA qui gèrent vos réseaux sociaux, votre sensibilisation client, votre lead nurturing et vos analyses de croissance. En continu. Sans surveillance. Pendant que vous vous concentrez sur ce qui compte.",
+      "category": "AI & Machine Learning",
       "website": "https://sparkhive.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-16T07:07:42.736729+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T08:55:29.508531+00:00"
     },
     {
       "name": "Stayrev",
       "slug": "polsia-stayrev",
+      "description": "Stayrev is AI-native hotel revenue optimization. It predicts room availability, dynamically prices flexible check-in and check-out windows, and communicates with guests autonomously. No staff required. Pure profit.",
+      "description_fr": "Stayrev est une optimisation native des revenus hôteliers basée sur l'IA. Il prédit la disponibilité des chambres, évalue de manière dynamique les fenêtres d'enregistrement et de départ flexibles et communique avec les clients de manière autonome. Aucun personnel requis. Du pur profit.",
+      "category": "Travel & Hospitality",
       "website": "https://stayrev.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-04-16T07:07:42.943078+00:00"
+      "status": "live",
+      "scraped_at": "2026-04-16T08:55:31.135828+00:00"
     },
     {
       "name": "Zestay",
@@ -57447,6 +57453,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-04-16T07:07:47.248073+00:00"
+    },
+    {
+      "name": "FitLinkOS",
+      "slug": "polsia-fitlinkos",
+      "website": "https://fitlinkos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-04-16T08:55:15.711333+00:00"
+    },
+    {
+      "name": "LeasePilot",
+      "slug": "polsia-leasepilot-2",
+      "description": "LeasePilot exists because managing rentals shouldn't be a second full-time job. Your tenants get instant responses. Your rent gets collected on time. Your maintenance gets handled. And you get your mornings back.",
+      "description_fr": "LeasePilot existe parce que la gestion des locations ne devrait pas être un deuxième travail à temps plein. Vos locataires obtiennent des réponses instantanées. Votre loyer est perçu à temps. Votre maintenance est prise en charge. Et vous récupérez vos matinées.",
+      "category": "Real Estate",
+      "website": "https://leasepilot-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T08:55:17.570855+00:00"
+    },
+    {
+      "name": "TalucaOS",
+      "slug": "polsia-talucaos",
+      "description": "Taluca Feeds has been converting food surplus into animal nutrition since 2018. From Cape Town to the EU, the opportunity is clear: the world wastes too much food, and animals need to eat. TalucaOS makes sure every stream is tracked, every conversion is optimized, and every impact is measured.",
+      "description_fr": "Taluca Feeds convertit les surplus alimentaires en nutrition animale depuis 2018. Du Cap à l’UE, l’opportunité est claire : le monde gaspille trop de nourriture et les animaux ont besoin de manger. TalucaOS s'assure que chaque flux est suivi, chaque conversion est optimisée et chaque impact est mesuré.",
+      "category": "Health & Wellness",
+      "website": "https://talucaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T08:55:19.081016+00:00"
+    },
+    {
+      "name": "DayEngine",
+      "slug": "polsia-dayengine",
+      "description": "DayEngine handles your email, follows up with leads, posts to social media, and sends you a report at the end of every day. You focus on growing. It handles the grind.",
+      "description_fr": "DayEngine gère votre courrier électronique, assure le suivi des prospects, publie sur les réseaux sociaux et vous envoie un rapport à la fin de chaque journée. Vous vous concentrez sur la croissance. Il gère la mouture.",
+      "category": "Marketing & Advertising",
+      "website": "https://dayengine.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T08:55:20.649788+00:00"
+    },
+    {
+      "name": "RadarOS",
+      "slug": "polsia-radaros",
+      "description": "You're tracking 15+ startups across news, LinkedIn, job boards, and regulatory filings. Manually. The tools that exist are built for funds with teams, not solo angels managing a growing portfolio alongside a day job.",
+      "description_fr": "Vous suivez plus de 15 startups dans les actualités, LinkedIn, les sites d'emploi et les dépôts réglementaires. Manuellement. Les outils existants sont conçus pour les fonds en équipe, et non pour des investisseurs solitaires gérant un portefeuille en croissance parallèlement à un travail quotidien.",
+      "category": "Other",
+      "website": "https://radaros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T08:55:21.369765+00:00"
+    },
+    {
+      "name": "PragmaAI",
+      "slug": "polsia-pragmaai",
+      "description": "PragmaAI is founded by a Rochester business owner who has lived the same operational headaches you have. Missed follow-ups, spreadsheet chaos, tools that don't talk to each other. The difference is we went and learned how to fix it with AI, and now we're fixing it for every business on this side of the state.",
+      "description_fr": "PragmaAI est fondée par un propriétaire d'entreprise de Rochester qui a vécu les mêmes problèmes opérationnels que vous. Suivis manqués, chaos des feuilles de calcul, outils qui ne communiquent pas entre eux. La différence est que nous avons appris à résoudre ce problème grâce à l'IA, et maintenant nous le réparons pour toutes les entreprises de ce côté-ci de l'État.",
+      "category": "AI & Machine Learning",
+      "website": "https://pragmaai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T08:55:22.507473+00:00"
+    },
+    {
+      "name": "Pipevine",
+      "slug": "polsia-pipevine",
+      "description": "Pipevine is the first AI employee purpose-built for local service businesses. One agent. Every lead. Every follow-up. Every review. Running while you do what you actually got into business to do.",
+      "description_fr": "Pipevine est le premier employé d'IA spécialement conçu pour les entreprises de services locales. Un agent. Chaque piste. Chaque suivi. Chaque révision. Courir pendant que vous faites ce pour quoi vous vous êtes réellement engagé en affaires.",
+      "category": "AI & Machine Learning",
+      "website": "https://pipevine.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T08:55:23.590777+00:00"
+    },
+    {
+      "name": "Artivate",
+      "slug": "polsia-artivate",
+      "description": "Artivate replaces the operations.Not with more tools you have to learn, but with an autonomous AI that does the work. It contacts retailers. Writes product descriptions. Posts to social media. Follows up with customers. All while you're in the studio.",
+      "description_fr": "Artivate remplace les opérations. Non pas avec plus d'outils à apprendre, mais avec une IA autonome qui fait le travail. Il contacte les détaillants. Rédige les descriptions de produits. Publications sur les réseaux sociaux. Effectue le suivi auprès des clients. Tout cela pendant que vous êtes en studio.",
+      "category": "AI & Machine Learning",
+      "website": "https://artivate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T08:55:24.649204+00:00"
+    },
+    {
+      "name": "SkillHouse",
+      "slug": "polsia-skillhouse",
+      "description": "Gambling requires three things: a prize, paid entry, and an outcome decided by chance. Remove chance, and it's a legal competition. Like a chess tournament or an esports league.",
+      "description_fr": "Le jeu nécessite trois choses : un prix, une entrée payante et un résultat décidé par le hasard. Supprimez le hasard, et c'est une compétition légale. Comme un tournoi d’échecs ou une ligue d’esports.",
+      "category": "Other",
+      "website": "https://skillhouse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T08:55:25.532597+00:00"
+    },
+    {
+      "name": "BootyBobble",
+      "slug": "polsia-bootybobble",
+      "description": "BootyBobble flips the script. Same spring-loaded charm. Same collectible shelf appeal. But the action happens at the other end. A jiggle, a bounce, a personality you can feel from across the room.",
+      "description_fr": "BootyBobble retourne le script. Même charme à ressort. Même attrait pour les étagères de collection. Mais l’action se passe à l’autre bout. Un tremblement, un rebond, une personnalité que vous pouvez ressentir de l'autre côté de la pièce.",
+      "category": "Other",
+      "website": "https://bootybobble.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-04-16T08:55:26.575885+00:00"
     }
   ]
 }
