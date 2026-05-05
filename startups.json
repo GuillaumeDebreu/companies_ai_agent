@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T11:57:46.796161+00:00",
+  "last_updated": "2026-05-05T16:04:39.244352+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -109609,26 +109609,35 @@
     {
       "name": "TicketLift",
       "slug": "polsia-ticketlift",
+      "description": "Most HVAC companies have no real pricing system. Techs freestyle. Installs get undercharged. Options aren't presented. Financing isn't positioned. The money is earned but never captured.",
+      "description_fr": "La plupart des entreprises de CVC n’ont pas de véritable système de tarification. Techniques freestyle. Les installations sont sous-facturées. Les options ne sont pas présentées. Le financement n'est pas positionné. L'argent est gagné mais jamais capturé.",
+      "category": "Other",
       "website": "https://ticketlift.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-05T11:57:32.494100+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:37.148618+00:00"
     },
     {
       "name": "SignalForge",
       "slug": "polsia-signalforge-23",
+      "description": "Every signal your team misses is revenue your competitor captures. SignalForge runs 24/7 across every market you care about, acting on intelligence faster than any human SDR team ever could. Built for European B2B, powered by the deepest data layer in the market.",
+      "description_fr": "Chaque signal manqué par votre équipe est un revenu capturé par votre concurrent. SignalForge fonctionne 24h/24 et 7j/7 sur tous les marchés qui vous intéressent, agissant sur les renseignements plus rapidement que n'importe quelle équipe SDR humaine. Conçu pour le B2B européen, alimenté par la couche de données la plus approfondie du marché.",
+      "category": "Sales & CRM",
       "website": "https://signalforge-23.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-05T11:57:32.725067+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:37.954415+00:00"
     },
     {
       "name": "Reachfolio",
       "slug": "polsia-reachfolio",
+      "description": "Reachfolio finds your ideal prospects, researches their pain points, writes hyper-personalized outreach, and follows up until they reply. You wake up to booked meetings.",
+      "description_fr": "Reachfolio trouve vos prospects idéaux, recherche leurs problèmes, rédige des informations hyper-personnalisées et assure le suivi jusqu'à ce qu'ils répondent. Vous vous réveillez avec des réunions réservées.",
+      "category": "Sales & CRM",
       "website": "https://reachfolio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-05T11:57:32.923937+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:39.241670+00:00"
     },
     {
       "name": "SparkledOS",
@@ -109706,6 +109715,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-05T11:57:41.319563+00:00"
+    },
+    {
+      "name": "EverVoice",
+      "slug": "polsia-evervoice",
+      "description": "EverVoice transforms journals, voice recordings, and personal videos into interactive AI avatars, so future generations can hear, ask, and learn from the people who shaped your family.",
+      "description_fr": "EverVoice transforme les journaux, les enregistrements vocaux et les vidéos personnelles en avatars interactifs d'IA, afin que les générations futures puissent entendre, demander et apprendre des personnes qui ont façonné votre famille.",
+      "category": "AI & Machine Learning",
+      "website": "https://evervoice.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:22.282895+00:00"
+    },
+    {
+      "name": "ShutterPass",
+      "slug": "polsia-shutterpass",
+      "description": "You hire a photographer for your wedding. They do great work. Then you never see them again. For every birthday, every festival, every milestone, you start the search all over.",
+      "description_fr": "Vous engagez un photographe pour votre mariage. Ils font un excellent travail. Ensuite, vous ne les reverrez plus jamais. Pour chaque anniversaire, chaque festival, chaque étape importante, vous recommencez la recherche.",
+      "category": "Other",
+      "website": "https://shutterpass.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:23.401039+00:00"
+    },
+    {
+      "name": "Halcyon Nutrients",
+      "slug": "polsia-halcyonos",
+      "description": "The Southern Appalachian bioregion holds one of the richest concentrations of medicinal plants in North America. Ginseng, goldenseal, reishi, ashwagandha grown in mountain soil. Generations of knowledge about what works.",
+      "description_fr": "La biorégion du sud des Appalaches abrite l’une des plus riches concentrations de plantes médicinales en Amérique du Nord. Ginseng, hydraste, reishi, ashwagandha cultivés en sol de montagne. Des générations de connaissances sur ce qui fonctionne.",
+      "category": "Other",
+      "website": "https://halcyonos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:24.638085+00:00"
+    },
+    {
+      "name": "MotoJaga",
+      "slug": "polsia-motojaga",
+      "description": "130 million motorcycles. Millions of riders touring this archipelago every weekend. It's time they had an app that speaks their language, knows their roads, and works where they ride.",
+      "description_fr": "130 millions de motos. Des millions de riders parcourent cet archipel chaque week-end. Il est temps qu'ils disposent d'une application qui parle leur langue, connaisse leurs routes et fonctionne là où ils roulent.",
+      "category": "Marketing & Advertising",
+      "website": "https://motojaga.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:25.637658+00:00"
+    },
+    {
+      "name": "PointsVault",
+      "slug": "polsia-pointsvault",
+      "description": "PointsVault turns vacation ownership into what it should have been from the start: a self-sustaining asset that funds itself, grows over time, and passes to your heirs without the weight of ever-increasing fees.",
+      "description_fr": "PointsVault transforme la propriété de vacances en ce qu'elle aurait dû être dès le départ : un actif autonome qui se finance tout seul, grandit avec le temps et est transmis à vos héritiers sans le poids de frais toujours croissants.",
+      "category": "Other",
+      "website": "https://pointsvault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:26.468262+00:00"
+    },
+    {
+      "name": "MoltFund",
+      "slug": "polsia-moltfund",
+      "description": "Finance creators scatter opinions across Twitter, YouTube, and podcasts. Conviction changes go untracked. There's no structure, no accountability, no continuity. You're following charisma, not signal.",
+      "description_fr": "Les créateurs financiers diffusent leurs opinions sur Twitter, YouTube et les podcasts. Les changements de conviction ne sont pas suivis. Il n'y a pas de structure, pas de responsabilité, pas de continuité. Vous suivez le charisme, pas le signal.",
+      "category": "Entertainment & Media",
+      "website": "https://moltfund.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:28.014144+00:00"
+    },
+    {
+      "name": "TruGrowthOS",
+      "slug": "polsia-trugrowth-os",
+      "description": "The best advisory firms grow because someone showed them how. A consultant who's been in their shoes, who knows what \"Infinite Practice\" actually looks like, who can spot the leadership gap or the hiring mistake before it costs six figures.But that consultant can only be in one room at a time.TruGrowthOS changes the math.The same methodology that built sustainable, scalable practices for decades is now embedded in an intelligent system that coaches firms continuously, not just during quarterly calls.",
+      "description_fr": "Les meilleurs cabinets de conseil se développent parce que quelqu’un leur a montré comment le faire. Un consultant qui a été à leur place, qui sait à quoi ressemble réellement la « pratique infinie », qui peut repérer le manque de leadership ou l'erreur d'embauche avant que cela ne coûte six chiffres. Mais ce consultant ne peut être présent que dans une pièce à la fois. TruGrowthOS change les calculs.",
+      "category": "Sales & CRM",
+      "website": "https://trugrowth-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:28.990540+00:00"
+    },
+    {
+      "name": "Vosper",
+      "slug": "polsia-vosper",
+      "description": "Vosper is an AI sales agent that finds your ideal customers, writes emails they actually reply to, and books meetings on your calendar. Not a tool. An employee.",
+      "description_fr": "Vosper est un agent commercial IA qui trouve vos clients idéaux, rédige les e-mails auxquels ils répondent réellement et planifie des réunions sur votre calendrier. Pas un outil. Un employé.",
+      "category": "AI & Machine Learning",
+      "website": "https://vosper.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:29.931351+00:00"
+    },
+    {
+      "name": "Silos of Still Haven",
+      "slug": "polsia-stillhavenos",
+      "description": "Most vacation rentals ask you to do more. We ask you to do less. These silos stood for decades holding grain. Now they hold something rarer: permission to be still. No itinerary. No agenda. Just the curved walls, the quiet land, and the version of yourself that emerges when the noise stops.",
+      "description_fr": "La plupart des locations de vacances vous demandent d’en faire plus. Nous vous demandons d'en faire moins. Ces silos ont conservé du grain pendant des décennies. Ils détiennent désormais quelque chose de plus rare : la permission de rester tranquilles. Aucun itinéraire. Pas d'ordre du jour. Juste les murs incurvés, le paysage calme et la version de vous-même qui émerge lorsque le bruit s'arrête.",
+      "category": "Travel & Hospitality",
+      "website": "https://stillhavenos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:31.156748+00:00"
+    },
+    {
+      "name": "Bramble",
+      "slug": "polsia-bramble",
+      "description": "Big brands have marketing teams. Independent businesses have owners who stay up late trying to write Instagram captions. That gap shouldn't exist. Bramble closes it.",
+      "description_fr": "Les grandes marques ont des équipes marketing. Les entreprises indépendantes ont des propriétaires qui veillent tard pour essayer d'écrire des légendes sur Instagram. Cet écart ne devrait pas exister. Bramble le ferme.",
+      "category": "Marketing & Advertising",
+      "website": "https://bramble.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T16:04:32.145943+00:00"
     }
   ]
 }
