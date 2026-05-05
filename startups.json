@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T21:17:24.622452+00:00",
+  "last_updated": "2026-05-05T22:16:32.371475+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -110354,10 +110354,13 @@
     {
       "name": "NextLevelOS",
       "slug": "polsia-nextlevelos-8",
+      "description": "International agencies charge $150/hour and don't understand the market. Local freelancers compete on price alone. You sit in between, and that's exactly where the opportunity is.",
+      "description_fr": "Les agences internationales facturent 150 $/heure et ne comprennent pas le marché. Les pigistes locaux rivalisent uniquement sur le prix. Vous vous situez entre les deux, et c'est exactement là que se trouve l'opportunité.",
+      "category": "Consulting & Services",
       "website": "https://nextlevelos-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-05T21:17:12.694679+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:26.865375+00:00"
     },
     {
       "name": "NilForge",
@@ -110368,12 +110371,15 @@
       "scraped_at": "2026-05-05T21:17:12.871801+00:00"
     },
     {
-      "name": "FadeCraft",
+      "name": "FadeCraft — Pristina's Modern Salon",
       "slug": "polsia-fadecraft",
+      "description": "FadeCraft is built around one idea: your time at the salon should feel as good as the result looks. No waiting. No guessing. No rushed cuts. Just craft.",
+      "description_fr": "FadeCraft est construit autour d'une idée : votre temps au salon doit être aussi agréable que le résultat en a l'air. Pas d'attente. Aucune supposition. Pas de coupes précipitées. Juste du bricolage.",
+      "category": "Other",
       "website": "https://fadecraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-05T21:17:13.030828+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:27.785197+00:00"
     },
     {
       "name": "AmazingOS — The Agency Command Center",
@@ -110398,20 +110404,26 @@
       "scraped_at": "2026-05-05T21:17:15.203037+00:00"
     },
     {
-      "name": "Prospero",
+      "name": "Prospero — Your AI Sales Agent",
       "slug": "polsia-prospero-42",
+      "description": "The AI SDR market is $5.8B in 2026, but every product in it is a tool, not an employee. You still write the sequences, build the lists, manage the workflows. Prospero replaces that entire layer. You describe who you want to sell to. Prospero does the rest.",
+      "description_fr": "Le marché de l’IA SDR s’élève à 5,8 milliards de dollars en 2026, mais chaque produit qu’il contient est un outil et non un employé. Vous rédigez toujours les séquences, construisez les listes, gérez les workflows. Prospero remplace toute cette couche. Vous décrivez à qui vous souhaitez vendre. Prospero fait le reste.",
+      "category": "AI & Machine Learning",
       "website": "https://prospero-42.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-05T21:17:15.461180+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:29.221500+00:00"
     },
     {
       "name": "OwnPathOS",
       "slug": "polsia-ownpathos",
+      "description": "Own Path provides continuous, non-medical emotional, physical, and informational support from a certified doula who knows your name, your fears, your hopes. We're here to help you embrace your own strength and welcome your baby in a way that feels right for you.",
+      "description_fr": "Own Path fournit un soutien émotionnel, physique et informationnel continu et non médical de la part d'une doula certifiée qui connaît votre nom, vos peurs et vos espoirs. Nous sommes là pour vous aider à exploiter votre propre force et à accueillir votre bébé d'une manière qui vous convient.",
+      "category": "Health & Wellness",
       "website": "https://ownpathos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-05T21:17:15.717716+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:30.049674+00:00"
     },
     {
       "name": "Outcall — AI Voice Agents for Outbound Sales",
@@ -110445,6 +110457,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-05T21:17:20.663051+00:00"
+    },
+    {
+      "name": "BoostRadius — AI",
+      "slug": "polsia-boostradius",
+      "description": "Too small for a real agency. Too busy to DIY. They know they need better marketing, but every option costs too much, takes too long, or delivers generic results that don't move the needle.",
+      "description_fr": "Trop petit pour une vraie agence. Trop occupé pour bricoler. Ils savent qu'ils ont besoin d'un meilleur marketing, mais chaque option coûte trop cher, prend trop de temps ou donne des résultats génériques qui ne font pas bouger les choses.",
+      "category": "AI & Machine Learning",
+      "website": "https://boostradius.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:32.311574+00:00"
+    },
+    {
+      "name": "Respo",
+      "slug": "polsia-respo",
+      "website": "https://respo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T22:16:15.891584+00:00"
+    },
+    {
+      "name": "PromptChain",
+      "slug": "polsia-promptchain",
+      "description": "ModelForge is the analytics platform that does the heavy lifting so you don't have to. Automated insights, clean visualizations, and zero guesswork. Analysts save 8 hours per week on average...",
+      "description_fr": "ModelForge est la plateforme d'analyse qui fait le gros du travail pour que vous n'ayez pas à le faire. Des informations automatisées, des visualisations claires et aucune hypothèse. Les analystes gagnent en moyenne 8 heures par semaine...",
+      "category": "Software & SaaS",
+      "website": "https://promptchain.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:17.367487+00:00"
+    },
+    {
+      "name": "VoxtellOS",
+      "slug": "polsia-voxtellos",
+      "description": "Identify and qualify MSPs, telecom providers, and agencies who sell phone systems but haven't added AI voice agents yet. Automated prospecting with personalized outreach. Turn the reseller channel into a growth engine.",
+      "description_fr": "Identify and qualify MSPs, telecom providers, and agencies who sell phone systems but haven't added AI voice agents yet. Automated prospecting with personalized outreach. Transformez le canal des revendeurs en un moteur de croissance.",
+      "category": "AI & Machine Learning",
+      "website": "https://voxtellos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:18.228368+00:00"
+    },
+    {
+      "name": "Watchglass",
+      "slug": "polsia-watchglass",
+      "description": "Watchglass is an AI agent that monitors the chemical and industrial market 24/7. It tracks competitor moves, pricing shifts, regulatory changes, and supply chain signals, then delivers intelligence briefings before your morning coffee.",
+      "description_fr": "Watchglass est un agent IA qui surveille le marché chimique et industriel 24h/24 et 7j/7. Il suit les mouvements des concurrents, les changements de prix, les changements réglementaires et les signaux de la chaîne d'approvisionnement, puis fournit des informations sur les renseignements avant votre café du matin.",
+      "category": "AI & Machine Learning",
+      "website": "https://watchglass.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:19.579108+00:00"
+    },
+    {
+      "name": "HideTrail — Rustic Leather Goods for the Wild at Heart",
+      "slug": "polsia-hidetrail",
+      "description": "HideTrail sits in the sweet spot: genuine leather goods priced for real people. We source from artisan workshops that use recycled hides and sustainable tanning processes. No plastic. No pretension. Just leather that develops character with every use.",
+      "description_fr": "HideTrail se trouve au juste endroit : des articles en cuir véritable à un prix adapté à de vraies personnes. Nous nous approvisionnons auprès d'ateliers artisanaux qui utilisent des peaux recyclées et des processus de tannage durables. Pas de plastique. Aucune prétention. Juste du cuir qui développe du caractère à chaque utilisation.",
+      "category": "E-Commerce & Retail",
+      "website": "https://hidetrail.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:20.422860+00:00"
+    },
+    {
+      "name": "PagePilot — Your Page Never Sleeps",
+      "slug": "polsia-pagepilot-26",
+      "description": "A customer messages your page at 11pm asking about a product. You're asleep. By morning, they've already bought from a competitor. This happens every single night to millions of businesses. PagePilot makes sure it never happens to yours.",
+      "description_fr": "Un client envoie un message sur votre page à 23 heures pour vous poser des questions sur un produit. Tu dors. Le matin, ils ont déjà acheté chez un concurrent. Cela arrive chaque nuit à des millions d’entreprises. PagePilot s'assure que cela n'arrive jamais au vôtre.",
+      "category": "Other",
+      "website": "https://pagepilot-26.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:21.438236+00:00"
+    },
+    {
+      "name": "Rentova",
+      "slug": "polsia-rentova-2",
+      "description": "Rentova answers inquiries, sends check-in instructions, handles special requests, and resolves issues in the guest's language. French, English, Arabic, Japanese, you name it.",
+      "description_fr": "Rentova répond aux demandes de renseignements, envoie les instructions d'enregistrement, traite les demandes spéciales et résout les problèmes dans la langue du client. Français, anglais, arabe, japonais, etc.",
+      "category": "Travel & Hospitality",
+      "website": "https://rentova-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:22.939128+00:00"
+    },
+    {
+      "name": "Lumivault — Your Data Already Knows. You Just Haven't Asked.",
+      "slug": "polsia-lumivault",
+      "description": "Daily and weekly summaries with context, not just numbers. \"Revenue up 12% because enterprise deals closed 3 days faster this sprint.\" The kind of analysis that takes a human analyst hours.",
+      "description_fr": "Résumés quotidiens et hebdomadaires avec contexte, pas seulement des chiffres. \"Chiffre d'affaires en hausse de 12 % car les transactions d'entreprise ont été conclues 3 jours plus rapidement au cours de ce sprint.\" Le genre d’analyse qui prend des heures à un analyste humain.",
+      "category": "Other",
+      "website": "https://lumivault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:23.821602+00:00"
+    },
+    {
+      "name": "FleetMind — AI That Runs Your Delivery Fleet",
+      "slug": "polsia-fleetmind-45",
+      "description": "You can only deliver so many orders on one bike. Adding riders means juggling routes by hand, splitting orders on intuition, and losing money on dead miles. Enterprise tools cost thousands and assume you have 50 drivers. You have 3.",
+      "description_fr": "Vous ne pouvez livrer qu’un nombre limité de commandes sur un seul vélo. Ajouter des coureurs signifie jongler avec les itinéraires à la main, diviser les commandes selon l'intuition et perdre de l'argent sur les kilomètres morts. Les outils d'entreprise coûtent des milliers de dollars et supposent que vous disposez de 50 pilotes. Vous en avez 3.",
+      "category": "AI & Machine Learning",
+      "website": "https://fleetmind-45.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T22:16:24.806492+00:00"
     }
   ]
 }
