@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T20:14:01.748571+00:00",
+  "last_updated": "2026-05-05T21:17:24.622452+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -110244,10 +110244,13 @@
     {
       "name": "PropSolo",
       "slug": "polsia-propsolo",
+      "description": "Not a projection. Not an estimate. When you stop missing calls, start managing properties properly, and present a professional portfolio, growth follows. The math is simple: answer every call, close more deals.",
+      "description_fr": "Pas une projection. Pas une estimation. Lorsque vous arrêtez de manquer des appels, commencez à gérer correctement vos propriétés et présentez un portefeuille professionnel, la croissance suit. Le calcul est simple : répondez à chaque appel, concluez plus de transactions.",
+      "category": "Other",
       "website": "https://propsolo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-05T20:13:46.551293+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-05T21:17:24.170013+00:00"
     },
     {
       "name": "TreasuryPulse",
@@ -110347,6 +110350,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-05T20:13:57.632031+00:00"
+    },
+    {
+      "name": "NextLevelOS",
+      "slug": "polsia-nextlevelos-8",
+      "website": "https://nextlevelos-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T21:17:12.694679+00:00"
+    },
+    {
+      "name": "NilForge",
+      "slug": "polsia-nilforge",
+      "website": "https://nilforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T21:17:12.871801+00:00"
+    },
+    {
+      "name": "FadeCraft",
+      "slug": "polsia-fadecraft",
+      "website": "https://fadecraft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T21:17:13.030828+00:00"
+    },
+    {
+      "name": "AmazingOS — The Agency Command Center",
+      "slug": "polsia-amazingos-2",
+      "description": "AmazingOS turns operational excellence into competitive advantage. When your systems handle the coordination, your people focus on what they were hired for: creating campaigns that move markets across West Africa and beyond.",
+      "description_fr": "AmazingOS transforme l'excellence opérationnelle en avantage concurrentiel. Lorsque vos systèmes gèrent la coordination, vos collaborateurs se concentrent sur la raison pour laquelle ils ont été embauchés : créer des campagnes qui font évoluer les marchés à travers l'Afrique de l'Ouest et au-delà.",
+      "category": "Marketing & Advertising",
+      "website": "https://amazingos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T21:17:14.100322+00:00"
+    },
+    {
+      "name": "Kounta — Your AI Sales Employee for WhatsApp & Instagram",
+      "slug": "polsia-kounta",
+      "description": "Responds to customer messages on WhatsApp and Instagram in natural French and Wolof. Answers product questions, shares prices, sends photos, and closes sales while you sleep.",
+      "description_fr": "Répond aux messages des clients sur WhatsApp et Instagram en français naturel et wolof. Répond aux questions sur les produits, partage les prix, envoie des photos et conclut les ventes pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://kounta.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T21:17:15.203037+00:00"
+    },
+    {
+      "name": "Prospero",
+      "slug": "polsia-prospero-42",
+      "website": "https://prospero-42.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T21:17:15.461180+00:00"
+    },
+    {
+      "name": "OwnPathOS",
+      "slug": "polsia-ownpathos",
+      "website": "https://ownpathos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T21:17:15.717716+00:00"
+    },
+    {
+      "name": "Outcall — AI Voice Agents for Outbound Sales",
+      "slug": "polsia-outcall-ai",
+      "description": "AI voice agents that handle outbound sales calls autonomously. Trained on real Nordic sales playbooks. Fluent in Swedish, English, and 12 more European languages.",
+      "description_fr": "AI voice agents that handle outbound sales calls autonomously. Formé sur de vrais playbooks de vente nordiques. Fluent in Swedish, English, and 12 more European languages.",
+      "category": "AI & Machine Learning",
+      "website": "https://outcall-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T21:17:17.664521+00:00"
+    },
+    {
+      "name": "PlotPilot — Your AI Back",
+      "slug": "polsia-plotpilot-7",
+      "description": "PlotPilot exists because the people who are great at reading terrain, setting control, and running instruments shouldn't also have to be great at typing reports and chasing invoices. The office runs itself. You run the field.",
+      "description_fr": "PlotPilot existe parce que les personnes qui sont douées pour lire le terrain, définir les commandes et faire fonctionner des instruments ne devraient pas également être douées pour rédiger des rapports et rechercher des factures. Le bureau fonctionne tout seul. Vous dirigez le terrain.",
+      "category": "AI & Machine Learning",
+      "website": "https://plotpilot-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T21:17:19.388720+00:00"
+    },
+    {
+      "name": "DraftSharp",
+      "slug": "polsia-draftsharp",
+      "description": "Paste a confusing assignment brief. DraftSharp breaks it into clear steps, identifies what's actually being asked, and maps out how to approach it. No more staring at a prompt wondering where to start.",
+      "description_fr": "Collez un brief de mission déroutant. DraftSharp le divise en étapes claires, identifie ce qui est réellement demandé et indique comment l'aborder. Plus besoin de regarder une invite en vous demandant par où commencer.",
+      "category": "Other",
+      "website": "https://draftsharp.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T21:17:20.663051+00:00"
     }
   ]
 }
