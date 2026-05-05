@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T22:16:32.371475+00:00",
+  "last_updated": "2026-05-05T23:14:47.040309+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -110470,12 +110470,15 @@
       "scraped_at": "2026-05-05T22:16:32.311574+00:00"
     },
     {
-      "name": "Respo",
+      "name": "Respo — Your AI Receptionist",
       "slug": "polsia-respo",
+      "description": "Respo is an AI receptionist that picks up the phone, responds to texts, books appointments, and handles customer questions. 24 hours a day, 7 days a week. No hold music. No voicemail graveyard.",
+      "description_fr": "Respo est une réceptionniste IA qui répond au téléphone, répond aux SMS, prend rendez-vous et répond aux questions des clients. 24 heures sur 24, 7 jours sur 7. Pas de musique d'attente. Pas de cimetière de messagerie vocale.",
+      "category": "AI & Machine Learning",
       "website": "https://respo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-05T22:16:15.891584+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-05T23:14:46.660486+00:00"
     },
     {
       "name": "PromptChain",
@@ -110564,6 +110567,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-05T22:16:24.806492+00:00"
+    },
+    {
+      "name": "LootWeekly",
+      "slug": "polsia-lootweekly",
+      "description": "Drop your email once. You're in the drawing for this week's gift card. No hoops, no quizzes, no \"complete 5 offers\" nonsense.",
+      "description_fr": "Déposez votre e-mail une fois. Vous êtes dans le tirage au sort de la carte cadeau de cette semaine. Pas de cerceaux, pas de quiz, pas de bêtises « compléter 5 offres ».",
+      "category": "Newsletter & Email",
+      "website": "https://lootweekly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T23:14:35.344061+00:00"
+    },
+    {
+      "name": "GradePilot",
+      "slug": "polsia-gradepilot-4",
+      "website": "https://gradepilot-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T23:14:35.613481+00:00"
+    },
+    {
+      "name": "SheThingsOS",
+      "slug": "polsia-shethingsos",
+      "website": "https://shethingsos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T23:14:35.744061+00:00"
+    },
+    {
+      "name": "Nightledger",
+      "slug": "polsia-nightledger-2",
+      "website": "https://nightledger-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T23:14:35.920811+00:00"
+    },
+    {
+      "name": "Fixly — Trusted Home Services, Transparent Pricing",
+      "slug": "polsia-fixlyos",
+      "description": "Fixly is building the home services experience the GTA deserves. Transparent pricing, trusted professionals, and a platform that respects your time.",
+      "description_fr": "Fixly crée l'expérience de services à domicile que la région du Grand Toronto mérite. Une tarification transparente, des professionnels de confiance et une plateforme qui respecte votre temps.",
+      "category": "Software & SaaS",
+      "website": "https://fixlyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T23:14:36.361312+00:00"
+    },
+    {
+      "name": "DoorKeep",
+      "slug": "polsia-doorkeep-11",
+      "description": "When a unit opens up, DoorKeep writes the listing, syndicates it across rental platforms, schedules showings, and starts screening applicants. Average days vacant drops from weeks to days.",
+      "description_fr": "Lorsqu'une unité s'ouvre, DoorKeep rédige l'annonce, la diffuse sur les plateformes de location, planifie les visites et commence à sélectionner les candidats. Le nombre moyen de jours vacants passe de semaines à jours.",
+      "category": "Software & SaaS",
+      "website": "https://doorkeep-11.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T23:14:37.739271+00:00"
+    },
+    {
+      "name": "Bellhound — Your AI Sales Rep That Never Sleeps",
+      "slug": "polsia-bellhound",
+      "description": "Every business deserves a relentless, intelligent sales engine. Bellhound is the AI employee that fills your calendar with qualified conversations, so you can focus on closing.",
+      "description_fr": "Chaque entreprise mérite un moteur de vente implacable et intelligent. Bellhound est l'employé IA qui remplit votre calendrier de conversations qualifiées afin que vous puissiez vous concentrer sur la clôture.",
+      "category": "AI & Machine Learning",
+      "website": "https://bellhound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T23:14:38.475856+00:00"
+    },
+    {
+      "name": "ContractorPulse",
+      "slug": "polsia-contractorpulse",
+      "description": "Most contractors in Florida have a website that was \"good enough\" years ago. No mobile optimization, no online booking, no reviews integration. Meanwhile, the guy down the street who shows up first on Google is getting every call.",
+      "description_fr": "La plupart des entrepreneurs en Floride ont un site Web qui était « assez bon » il y a des années. Pas d'optimisation mobile, pas de réservation en ligne, pas d'intégration d'avis. Pendant ce temps, le gars du coin qui apparaît en premier sur Google reçoit tous les appels.",
+      "category": "Travel & Hospitality",
+      "website": "https://contractorpulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T23:14:39.573015+00:00"
+    },
+    {
+      "name": "RoutePilot",
+      "slug": "polsia-routepilot-6",
+      "description": "Built for operators who know that great transportation isn't about technology. It's about every kid getting home safe, every day. RoutePilot handles the logistics so you can focus on what matters.",
+      "description_fr": "Conçu pour les opérateurs qui savent qu'un bon transport n'est pas une question de technologie. Il s’agit pour chaque enfant de rentrer chez lui sain et sauf, chaque jour. RoutePilot gère la logistique afin que vous puissiez vous concentrer sur ce qui compte.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://routepilot-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T23:14:41.223181+00:00"
+    },
+    {
+      "name": "BandReady",
+      "slug": "polsia-bandready",
+      "description": "BandReady is an AI coach that practices speaking and writing with you, scores every attempt against real IELTS criteria, and builds a study plan that adapts daily. Available 24/7. Costs less than one hour with a human tutor.",
+      "description_fr": "BandReady est un coach en IA qui s'entraîne à parler et à écrire avec vous, note chaque tentative par rapport aux véritables critères de l'IELTS et élabore un plan d'étude qui s'adapte quotidiennement. Disponible 24h/24 et 7j/7. Coûte moins d’une heure avec un tuteur humain.",
+      "category": "AI & Machine Learning",
+      "website": "https://bandready.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T23:14:42.684382+00:00"
     }
   ]
 }
