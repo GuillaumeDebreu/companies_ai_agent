@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T19:23:02.149296+00:00",
+  "last_updated": "2026-05-05T20:14:01.748571+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -109947,10 +109947,13 @@
     {
       "name": "CrisisMap",
       "slug": "polsia-crisismap",
+      "description": "This isn't charity. It's an economic correction. There are more displaced engineers alive today \n                than there are open engineering roles in most European countries. The bottleneck isn't talent. \n                It's the system that refuses to see it.",
+      "description_fr": "Ce n'est pas de la charité. C'est une correction économique. Il y a plus d'ingénieurs déplacés en vie aujourd'hui \n                qu'il existe des postes d'ingénieur ouverts dans la plupart des pays européens. Le goulot d'étranglement n'est pas le talent. \n                C'est le système qui refuse de le voir.",
+      "category": "Sustainability & Green",
       "website": "https://crisismap.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-05T18:58:31.372534+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-05T20:14:01.532443+00:00"
     },
     {
       "name": "SukunOS",
@@ -110237,6 +110240,113 @@
       "category": "Real Estate",
       "website": "https://nomadra.nanocorp.app",
       "scraped_at": "2026-05-05T19:23:02.148823+00:00"
+    },
+    {
+      "name": "PropSolo",
+      "slug": "polsia-propsolo",
+      "website": "https://propsolo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T20:13:46.551293+00:00"
+    },
+    {
+      "name": "TreasuryPulse",
+      "slug": "polsia-treasurypulse",
+      "description": "Set sweep rules, and your agents execute them. When operating balance exceeds your threshold, funds route automatically to reserves, investments, or external accounts. No manual transfers. No missed windows.",
+      "description_fr": "Définissez des règles de balayage et vos agents les exécutent. Lorsque le solde de fonctionnement dépasse votre seuil, les fonds sont automatiquement acheminés vers des réserves, des investissements ou des comptes externes. Pas de transferts manuels. Aucune fenêtre manquée.",
+      "category": "Finance & Fintech",
+      "website": "https://treasurypulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T20:13:48.062627+00:00"
+    },
+    {
+      "name": "Tensora — AI",
+      "slug": "polsia-tensora-6",
+      "description": "Tensora exists because the best aerospace engineers shouldn't spend half their careers formatting documents. We're building the tool that lets a five-person team deliver what used to take fifty.",
+      "description_fr": "Tensora existe parce que les meilleurs ingénieurs aérospatiaux ne devraient pas passer la moitié de leur carrière à formater des documents. Nous construisons l'outil qui permet à une équipe de cinq personnes de réaliser ce qui en prenait cinquante auparavant.",
+      "category": "AI & Machine Learning",
+      "website": "https://tensora-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T20:13:49.179510+00:00"
+    },
+    {
+      "name": "Couvra — Your AI Roofing Operations Manager",
+      "slug": "polsia-couvra-2",
+      "description": "Client calls, Couvra generates the quote. Roof dimensions, materials, labor, local pricing. Sent before the competition picks up the phone. Auto-follows up if they don't reply in 48 hours.",
+      "description_fr": "Le client appelle, Couvra génère le devis. Dimensions du toit, matériaux, main d'œuvre, prix locaux. Envoyé avant que le concours ne décroche le téléphone. Suivi automatique s'ils ne répondent pas dans les 48 heures.",
+      "category": "AI & Machine Learning",
+      "website": "https://couvra-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T20:13:50.374372+00:00"
+    },
+    {
+      "name": "OpsLynx",
+      "slug": "polsia-opslynx",
+      "description": "OpsLynx is an AI agent that watches your servers, networks, and cloud environments 24/7. It detects problems before your users do, triages alerts, and resolves routine issues autonomously. Built for IT teams across West Africa.",
+      "description_fr": "OpsLynx est un agent IA qui surveille vos serveurs, réseaux et environnements cloud 24h/24 et 7j/7. Il détecte les problèmes avant vos utilisateurs, trie les alertes et résout les problèmes courants de manière autonome. Conçu pour les équipes informatiques de toute l’Afrique de l’Ouest.",
+      "category": "AI & Machine Learning",
+      "website": "https://opslynx.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T20:13:51.692512+00:00"
+    },
+    {
+      "name": "CurioMind",
+      "slug": "polsia-curiomind",
+      "description": "CurioMind is an AI agent that catalogs, prices, and sells your antiques while you do what you love: finding the next rare piece. Built for dealers who know their craft but need their business to run 24/7.",
+      "description_fr": "CurioMind est un agent IA qui catalogue, évalue et vend vos antiquités pendant que vous faites ce que vous aimez : trouver la prochaine pièce rare. Conçu pour les concessionnaires qui connaissent leur métier mais qui ont besoin que leur entreprise fonctionne 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://curiomind.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T20:13:53.125445+00:00"
+    },
+    {
+      "name": "Novrena — Power. Defined.",
+      "slug": "polsia-novrenaos",
+      "description": "200,000 words examining how the greatest leaders in basketball, football, warfare, and business wielded power differently. For men who want to understand judgment without hesitation.",
+      "description_fr": "200 000 mots examinant comment les plus grands dirigeants du basket-ball, du football, de la guerre et des affaires ont exercé le pouvoir différemment. Pour les hommes qui veulent comprendre le jugement sans hésitation.",
+      "category": "Sales & CRM",
+      "website": "https://novrenaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T20:13:54.100121+00:00"
+    },
+    {
+      "name": "FanTrek26",
+      "slug": "polsia-fantrekos",
+      "description": "Games in Miami on Tuesday, Mexico City on Saturday. We handle the visa considerations, border crossing tips, and transit options between countries so you don't miss kickoff.",
+      "description_fr": "Jeux à Miami mardi, à Mexico samedi. Nous nous occupons des questions relatives aux visas, des conseils pour le passage des frontières et des options de transit entre les pays afin que vous ne manquiez pas le coup d'envoi.",
+      "category": "Other",
+      "website": "https://fantrekos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T20:13:54.749626+00:00"
+    },
+    {
+      "name": "Inheriti",
+      "slug": "polsia-inheriti",
+      "description": "We're the first generation to leave behind crypto wallets, cloud libraries, SaaS subscriptions, and scattered digital identities. Inheriti makes sure none of it is lost.",
+      "description_fr": "Nous sommes la première génération à abandonner les portefeuilles cryptographiques, les bibliothèques cloud, les abonnements SaaS et les identités numériques dispersées. Inheriti s’assure que rien de tout cela n’est perdu.",
+      "category": "Finance & Fintech",
+      "website": "https://inheriti.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T20:13:56.107900+00:00"
+    },
+    {
+      "name": "Vesper Sleep — Luxury Sleepwear",
+      "slug": "polsia-vesper-sleep",
+      "description": "Most brands treat sleepwear as an afterthought, something hidden, something basic. We think the garments you spend the most hours in deserve the most thought. Vesper Sleep exists for the woman who brings the same intention to her evenings as her days.",
+      "description_fr": "La plupart des marques considèrent les vêtements de nuit comme une réflexion secondaire, quelque chose de caché, quelque chose de basique. Nous pensons que les vêtements dans lesquels vous passez le plus de temps méritent le plus de réflexion. Vesper Sleep existe pour la femme qui apporte la même intention à ses soirées qu'à ses journées.",
+      "category": "Marketing & Advertising",
+      "website": "https://vesper-sleep.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T20:13:57.632031+00:00"
     }
   ]
 }
