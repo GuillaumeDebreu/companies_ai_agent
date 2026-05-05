@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T16:04:39.244352+00:00",
+  "last_updated": "2026-05-05T17:46:13.252076+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -109825,6 +109825,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-05T16:04:32.145943+00:00"
+    },
+    {
+      "name": "Makerly",
+      "slug": "polsia-makerly",
+      "website": "https://makerly.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T17:45:58.964361+00:00"
+    },
+    {
+      "name": "ColdForge",
+      "slug": "polsia-coldforge-15",
+      "website": "https://coldforge-15.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T17:45:59.473513+00:00"
+    },
+    {
+      "name": "ConnectHawk",
+      "slug": "polsia-connecthawk",
+      "website": "https://connecthawk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T17:45:59.711939+00:00"
+    },
+    {
+      "name": "HaulSmith",
+      "slug": "polsia-haulsmith",
+      "description": "Every load we pick up gets sorted. Metal gets pulled, weighed, and sold to local recyclers. That means lower costs for you, less waste in landfills, and a hauling company that actually knows what things are worth.",
+      "description_fr": "Chaque chargement que nous récupérons est trié. Le métal est extrait, pesé et vendu aux recycleurs locaux. Cela signifie des coûts réduits pour vous, moins de déchets dans les décharges et une entreprise de transport qui sait réellement ce que valent les choses.",
+      "category": "Marketing & Advertising",
+      "website": "https://haulsmith.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T17:46:01.517140+00:00"
+    },
+    {
+      "name": "TopMark",
+      "slug": "polsia-topmark",
+      "description": "The apps and websites that exist are glorified PDF folders. No structure. No feedback. No reason to come back tomorrow. Students download a past paper, get stuck on question 3, and have no way to check if they're right.",
+      "description_fr": "Les applications et sites Web qui existent sont des dossiers PDF glorifiés. Aucune structure. Aucun retour. Aucune raison de revenir demain. Les étudiants téléchargent un article antérieur, restent bloqués sur la question 3 et n'ont aucun moyen de vérifier s'ils ont raison.",
+      "category": "Marketing & Advertising",
+      "website": "https://topmark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T17:46:03.240078+00:00"
+    },
+    {
+      "name": "SpecBolt",
+      "slug": "polsia-specbolt",
+      "description": "NAS, MS, and AN rated nuts, bolts, and fasteners for aircraft maintenance, restoration, and builds. Spec-grade hardware from surplus inventory, properly documented, shipped from South Florida.",
+      "description_fr": "Écrous, boulons et fixations homologués NAS, MS et AN pour la maintenance, la restauration et la construction d'aéronefs. Matériel de qualité spécifique provenant d'un inventaire excédentaire, correctement documenté, expédié du sud de la Floride.",
+      "category": "AI & Machine Learning",
+      "website": "https://specbolt.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T17:46:04.605264+00:00"
+    },
+    {
+      "name": "Prow",
+      "slug": "polsia-prow-ai",
+      "description": "Monitors funding announcements, product launches, hiring signals, and founder activity across hundreds of sources. Surfaces opportunities before they hit your inbox.",
+      "description_fr": "Surveille les annonces de financement, les lancements de produits, les signaux d'embauche et l'activité des fondateurs à travers des centaines de sources. Faites apparaître les opportunités avant qu’elles n’arrivent dans votre boîte de réception.",
+      "category": "Newsletter & Email",
+      "website": "https://prow-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T17:46:06.639374+00:00"
+    },
+    {
+      "name": "Qualifyre",
+      "slug": "polsia-qualifyre",
+      "website": "https://qualifyre.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-05T17:46:06.971547+00:00"
+    },
+    {
+      "name": "AromaOS",
+      "slug": "polsia-aromaos-2",
+      "description": "Jasmine Mercedez is building something the essential oils industry hasn't seen: a founder-led brand where every bottle is a deliberate choice, every blend tells a story, and every customer matters more than a sales quota.",
+      "description_fr": "Jasmine Mercedez construit quelque chose que l'industrie des huiles essentielles n'a pas vu : une marque dirigée par son fondateur où chaque bouteille est un choix délibéré, chaque mélange raconte une histoire et chaque client compte plus qu'un quota de vente.",
+      "category": "Marketing & Advertising",
+      "website": "https://aromaos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T17:46:08.176342+00:00"
+    },
+    {
+      "name": "Taff",
+      "slug": "polsia-taff",
+      "description": "Taff surveille toutes les offres d'emploi en France, postule pour toi avec des lettres de motivation personnalisees, et relance les recruteurs. Pendant que tu dors.",
+      "description_fr": "Taff surveille toutes les offres d'emploi en France, postule pour toi avec des lettres de motivation personnalisées, et relance les recruteurs. Pendant que tu dors.",
+      "category": "Other",
+      "website": "https://taff.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-05T17:46:09.461434+00:00"
     }
   ]
 }
