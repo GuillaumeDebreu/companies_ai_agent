@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T17:09:49.193620+00:00",
+  "last_updated": "2026-05-06T18:59:25.670261+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -111490,26 +111490,35 @@
     {
       "name": "FoldedFlair",
       "slug": "polsia-foldedflair",
+      "description": "FoldedFlair started with a simple belief: paper can be more than flat. A notepad can carry personality. A chip bag can steal the show at a birthday party. A paper purse can turn heads. Every item in our shop is made by hand in Cincinnati, Ohio, with the kind of attention that machines simply cannot replicate.",
+      "description_fr": "FoldedFlair est né d'une conviction simple : le papier peut être plus que plat. Un bloc-notes peut véhiculer de la personnalité. Un sac de chips peut voler la vedette lors d’une fête d’anniversaire. Un sac à main en papier peut faire tourner les têtes. Chaque article de notre boutique est fabriqué à la main à Cincinnati, Ohio, avec le genre d'attention que les machines ne peuvent tout simplement pas reproduire.",
+      "category": "E-Commerce & Retail",
       "website": "https://foldedflair.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T17:09:36.463539+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:22.572868+00:00"
     },
     {
-      "name": "DevBench",
+      "name": "DevBench — Web Developers, Ready Now",
       "slug": "polsia-devbench",
+      "description": "Traditional hiring takes 4-6 weeks and costs $15K-30K per placement. Freelance platforms drown you in unvetted profiles. DevBench sits in the middle: fast, vetted, transparent.",
+      "description_fr": "L'embauche traditionnelle prend 4 à 6 semaines et coûte entre 15 000 et 30 000 $ par placement. Les plateformes freelance vous noient sous des profils non vérifiés. DevBench se situe au milieu : rapide, approuvé et transparent.",
+      "category": "Software & SaaS",
       "website": "https://devbench.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T17:09:36.703899+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:23.398030+00:00"
     },
     {
       "name": "BoloAI",
       "slug": "polsia-boloai",
+      "description": "Answers customer queries instantly on your website or WhatsApp. Handles FAQs, product questions, store hours, directions, and pricing. Speaks Hindi and English. Sounds like you, not a robot.",
+      "description_fr": "Répond instantanément aux requêtes des clients sur votre site Web ou WhatsApp. Gère les FAQ, les questions sur les produits, les heures d'ouverture des magasins, les itinéraires et les prix. Parle hindi et anglais. Cela ressemble à vous, pas à un robot.",
+      "category": "AI & Machine Learning",
       "website": "https://boloai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T17:09:37.011400+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:24.457294+00:00"
     },
     {
       "name": "BizPing — WhatsApp on Autopilot for Local Businesses",
@@ -111542,12 +111551,15 @@
       "scraped_at": "2026-05-06T17:09:39.927078+00:00"
     },
     {
-      "name": "NestRun",
+      "name": "NestRun — Your AI Household Operations Manager",
       "slug": "polsia-nestrun-28",
+      "description": "NestRun is an AI operations manager for your household. It coordinates service providers, manages schedules, tracks spending, and reports back to you. Like hiring a household manager, without the salary.",
+      "description_fr": "NestRun est un gestionnaire d'opérations d'IA pour votre foyer. Il coordonne les prestataires de services, gère les plannings, suit les dépenses et vous rend compte. C’est comme embaucher un chef de famille, sans le salaire.",
+      "category": "AI & Machine Learning",
       "website": "https://nestrun-28.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T17:09:40.240694+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:25.515716+00:00"
     },
     {
       "name": "FiscalFitOS",
@@ -111581,6 +111593,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-06T17:09:43.636684+00:00"
+    },
+    {
+      "name": "WingsOfEdenOS",
+      "slug": "polsia-wingsofedenos",
+      "website": "https://wingsofedenos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T18:59:05.982572+00:00"
+    },
+    {
+      "name": "Xclusive Media",
+      "slug": "polsia-xclusive-media",
+      "description": "We build media presence for coaches and athletes who are too busy winning to post. Content creation, social management, and brand growth from people who actually understand your world.",
+      "description_fr": "Nous construisons une présence médiatique pour les entraîneurs et les athlètes qui sont trop occupés à gagner pour publier. Création de contenu, gestion sociale et croissance de la marque par des personnes qui comprennent réellement votre monde.",
+      "category": "Marketing & Advertising",
+      "website": "https://xclusive-media.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:07.535679+00:00"
+    },
+    {
+      "name": "MindfulYardOS",
+      "slug": "polsia-mindfulyardos",
+      "description": "Parents who buy baby clothes also own pets. Women shopping for themselves browse kids' sections. Mindful Yard's cross-category model isn't complexity. It's compounding value per customer.",
+      "description_fr": "Les parents qui achètent des vêtements pour bébés possèdent également des animaux de compagnie. Les femmes qui magasinent pour elles-mêmes parcourent les sections pour enfants. Le modèle intercatégoriel de Mindful Yard n'est pas complexe. Il s'agit d'une valeur composée par client.",
+      "category": "E-Commerce & Retail",
+      "website": "https://mindfulyardos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:08.814323+00:00"
+    },
+    {
+      "name": "BidForge",
+      "slug": "polsia-bidforge-ai-6",
+      "description": "BidForge reads the tender, calculates optimal lane pricing, and submits the response. Freight forwarders and 3PLs respond to more RFPs, faster, with better margins. No spreadsheets. No bottlenecks. No bid desk required.",
+      "description_fr": "BidForge lit l'appel d'offres, calcule le prix optimal des voies et soumet la réponse. Les transitaires et les 3PL répondent à davantage d'appels d'offres, plus rapidement, avec de meilleures marges. Pas de feuilles de calcul. Aucun goulot d'étranglement. Aucun bureau de soumission n’est requis.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://bidforge-ai-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:12.266707+00:00"
+    },
+    {
+      "name": "SteadyForgeOS",
+      "slug": "polsia-steadyforgeos",
+      "description": "Describe your operation. Our AI analyzes workflow patterns, identifies waste streams, and generates a prioritized efficiency report with projected ROI. No account required. No payment. Just answers.",
+      "description_fr": "Décrivez votre opération. Notre IA analyse les modèles de flux de travail, identifie les flux de déchets et génère un rapport d'efficacité hiérarchisé avec le retour sur investissement projeté. Aucun compte requis. Aucun paiement. Juste des réponses.",
+      "category": "AI & Machine Learning",
+      "website": "https://steadyforgeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:13.633304+00:00"
+    },
+    {
+      "name": "NyayaOS",
+      "slug": "polsia-nyayaos",
+      "description": "NyayaOS is the command center for a modern legal practice in Kolkata. Track clients, manage cases, automate follow-ups, and grow your firm without drowning in paperwork.",
+      "description_fr": "NyayaOS est le centre de commandement d'un cabinet juridique moderne à Calcutta. Suivez les clients, gérez les dossiers, automatisez les suivis et développez votre entreprise sans vous noyer dans la paperasse.",
+      "category": "Other",
+      "website": "https://nyayaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:15.184820+00:00"
+    },
+    {
+      "name": "SentWell",
+      "slug": "polsia-sentwell",
+      "description": "SentWell is an AI operations agent that writes your donor updates, manages supporter relationships, and runs fundraising campaigns, so you can be fully present with your community.",
+      "description_fr": "SentWell est un agent opérationnel d'IA qui rédige les mises à jour de vos donateurs, gère les relations avec les supporters et mène des campagnes de collecte de fonds, afin que vous puissiez être pleinement présent auprès de votre communauté.",
+      "category": "AI & Machine Learning",
+      "website": "https://sentwell.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:16.337076+00:00"
+    },
+    {
+      "name": "LeadCircuit",
+      "slug": "polsia-leadcircuit",
+      "description": "LeadCircuit sets up AI-powered automation for local businesses. Missed-call text back, instant lead follow-up, review requests, appointment booking. All running 24/7 without you lifting a finger.",
+      "description_fr": "LeadCircuit met en place une automatisation basée sur l'IA pour les entreprises locales. SMS de rappel manqué, suivi instantané des prospects, demandes d'avis, prise de rendez-vous. Le tout fonctionnant 24h/24 et 7j/7 sans que vous ayez à lever le petit doigt.",
+      "category": "AI & Machine Learning",
+      "website": "https://leadcircuit.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:17.584511+00:00"
+    },
+    {
+      "name": "GleamGrid",
+      "slug": "polsia-gleamgrid",
+      "description": "Our AI asks the questions other platforms skip. Square footage, surfaces, pets, sensitivities, how you define \"clean.\" No generic checklists.",
+      "description_fr": "Notre IA pose les questions ignorées par les autres plateformes. Superficie, surfaces, animaux, sensibilités, comment vous définissez « propre ». Pas de listes de contrôle génériques.",
+      "category": "AI & Machine Learning",
+      "website": "https://gleamgrid.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:18.900643+00:00"
+    },
+    {
+      "name": "DayForge",
+      "slug": "polsia-dayforge-2",
+      "description": "Process emotions before they process you. Identify relational patterns, build emotional vocabulary, and develop the inner clarity that drives better decisions.",
+      "description_fr": "Traitez les émotions avant qu’elles ne vous traitent. Identifiez les modèles relationnels, construisez un vocabulaire émotionnel et développez la clarté intérieure qui conduit à de meilleures décisions.",
+      "category": "Other",
+      "website": "https://dayforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T18:59:19.904930+00:00"
     }
   ]
 }
