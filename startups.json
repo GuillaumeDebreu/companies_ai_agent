@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T20:42:35.344660+00:00",
+  "last_updated": "2026-05-06T21:47:07.758957+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -111813,6 +111813,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-06T20:42:33.302152+00:00"
+    },
+    {
+      "name": "SporeVault",
+      "slug": "polsia-sporevault",
+      "website": "https://sporevault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T21:46:57.312917+00:00"
+    },
+    {
+      "name": "ApexDrop",
+      "slug": "polsia-apexdrop",
+      "website": "https://apexdrop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T21:46:57.490700+00:00"
+    },
+    {
+      "name": "ReBloomaOS",
+      "slug": "polsia-rebloomaos",
+      "website": "https://rebloomaos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T21:46:57.906011+00:00"
+    },
+    {
+      "name": "HangPro",
+      "slug": "polsia-hangpro",
+      "description": "We're building the platform where the best mounting professionals get the leads they deserve, and homeowners get the quality they're paying for. No race to the bottom. No surprise invoices. Just great work on every wall.",
+      "description_fr": "Nous construisons la plate-forme où les meilleurs professionnels du montage obtiennent les pistes qu'ils méritent et où les propriétaires obtiennent la qualité pour laquelle ils paient. Pas de course vers le bas. Pas de factures surprises. Juste un excellent travail sur chaque mur.",
+      "category": "Software & SaaS",
+      "website": "https://hangpro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T21:46:59.765979+00:00"
+    },
+    {
+      "name": "IvyLaneOS",
+      "slug": "polsia-ivylaneos",
+      "description": "The private operating system behind Love at Ivy Lane. Track orders, know your customers, and grow your handmade business without losing what makes it personal.",
+      "description_fr": "Le système d'exploitation privé derrière Love at Ivy Lane. Suivez les commandes, connaissez vos clients et développez votre entreprise artisanale sans perdre ce qui la rend personnelle.",
+      "category": "Other",
+      "website": "https://ivylaneos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T21:47:00.740153+00:00"
+    },
+    {
+      "name": "Callkeep",
+      "slug": "polsia-callkeep",
+      "website": "https://callkeep.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T21:47:01.176049+00:00"
+    },
+    {
+      "name": "ThinkStep",
+      "slug": "polsia-thinkstep",
+      "description": "ThinkStep doesn't give your kid the answer. It walks them through the reasoning, step by step, adapting to exactly where they're stuck. Like having a patient tutor available at 11pm on a school night.",
+      "description_fr": "ThinkStep ne donne pas la réponse à votre enfant. Il les guide dans le raisonnement, étape par étape, en s'adaptant exactement à l'endroit où ils sont bloqués. C'est comme avoir un tuteur patient disponible à 23 heures un soir d'école.",
+      "category": "Education",
+      "website": "https://thinkstep.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T21:47:01.974718+00:00"
+    },
+    {
+      "name": "RecallOS",
+      "slug": "polsia-recallos-2",
+      "description": "After 60 days without contact, rebooking drops below 30%. After 90 days, below 15%. Your EHR has the data. But nobody has time to sort 600 patients and decide who matters most today. That's the gap Patient Recall fills.",
+      "description_fr": "Après 60 jours sans contact, les nouvelles réservations descendent en dessous de 30 %. Après 90 jours, en dessous de 15 %. Votre DSE contient les données. Mais personne n’a le temps de trier 600 patients et de décider qui compte le plus aujourd’hui. C’est la lacune que comble le rappel des patients.",
+      "category": "Health & Wellness",
+      "website": "https://recallos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T21:47:03.134733+00:00"
+    },
+    {
+      "name": "Dainexgen",
+      "slug": "polsia-dainexgenos",
+      "description": "Dainexgen detects signals across your systems, initiates outreach, coordinates actions, and feeds results back into the next cycle. No manual handoffs. No dropped threads.",
+      "description_fr": "Dainexgen détecte les signaux dans vos systèmes, lance la sensibilisation, coordonne les actions et transmet les résultats au cycle suivant. Aucun transfert manuel. Aucun fil abandonné.",
+      "category": "Sales & CRM",
+      "website": "https://dainexgenos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T21:47:04.445842+00:00"
+    },
+    {
+      "name": "StorylineLearn",
+      "slug": "polsia-storylinelearn",
+      "description": "Millions of students fall behind not because they can't learn, but because nothing in the system was built for them. They get phonics drills when they need a reason to care. They get test prep when they need someone to listen. StorylineLearn is the space they've been missing.",
+      "description_fr": "Des millions d'étudiants sont à la traîne, non pas parce qu'ils ne peuvent pas apprendre, mais parce que rien dans le système n'a été conçu pour eux. Ils reçoivent des exercices phonétiques lorsqu’ils ont besoin d’une raison de s’en soucier. Ils reçoivent une préparation aux tests lorsqu’ils ont besoin que quelqu’un les écoute. StorylineLearn est l'espace qui leur manquait.",
+      "category": "Education",
+      "website": "https://storylinelearn.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T21:47:05.401355+00:00"
     }
   ]
 }
