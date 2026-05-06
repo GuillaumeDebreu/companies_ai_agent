@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T22:36:00.763857+00:00",
+  "last_updated": "2026-05-06T23:33:48.600218+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -111924,18 +111924,24 @@
     {
       "name": "BlockBuild",
       "slug": "polsia-blockbuild",
+      "description": "BlockBuild makes custom mobile and web apps for local businesses. Restaurants, shops, clinics, service providers. Real software, built for how your customers actually behave.",
+      "description_fr": "BlockBuild crée des applications mobiles et Web personnalisées pour les entreprises locales. Restaurants, magasins, cliniques, prestataires de services. Un vrai logiciel, conçu pour le comportement réel de vos clients.",
+      "category": "Software & SaaS",
       "website": "https://blockbuild.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T22:35:46.379007+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T23:33:46.703738+00:00"
     },
     {
       "name": "WadeCraftOS",
       "slug": "polsia-wadecraftos",
+      "description": "Every custom bar, every hand-fitted cabinet, every set of stairs built to last generations. The craftsmanship has never been the problem. The paperwork, the follow-ups, the scheduling, the leads that slip through the cracks. That's where good businesses hit a ceiling. WadeCraftOS removes the ceiling.",
+      "description_fr": "Chaque bar personnalisé, chaque armoire montée à la main, chaque escalier construit pour les dernières générations. Le savoir-faire n’a jamais été le problème. La paperasse, les suivis, la planification, les pistes qui passent entre les mailles du filet. C’est là que les bonnes entreprises atteignent un plafond. WadeCraftOS supprime le plafond.",
+      "category": "Sales & CRM",
       "website": "https://wadecraftos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T22:35:46.728570+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T23:33:47.884683+00:00"
     },
     {
       "name": "TermForge",
@@ -112024,6 +112030,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-06T22:35:55.567211+00:00"
+    },
+    {
+      "name": "Koursya",
+      "slug": "polsia-koursya",
+      "description": "Koursya rend la livraison locale aussi fiable qu'un appel telephonique. Rapide, tracable, abordable. La ville avance, la livraison suit.",
+      "description_fr": "Koursya rend la livraison locale aussi fiable qu'un appel téléphonique. Rapide, traçable, abordable. La ville avance, la livraison suit.",
+      "category": "Software & SaaS",
+      "website": "https://koursya.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T23:33:35.781049+00:00"
+    },
+    {
+      "name": "Bloomhaus",
+      "slug": "polsia-bloomhaus",
+      "description": "Bloomhaus is your full-time marketing department in a box. It learns your brand, designs your presence, finds your customers, and reports back with results. You focus on the product. Bloomhaus handles the rest.",
+      "description_fr": "Bloomhaus est votre service marketing à plein temps dans une boîte. Il apprend votre marque, conçoit votre présence, trouve vos clients et rend compte des résultats. Vous vous concentrez sur le produit. Bloomhaus s'occupe du reste.",
+      "category": "Marketing & Advertising",
+      "website": "https://bloomhaus.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T23:33:48.598285+00:00"
+    },
+    {
+      "name": "CalebsCustomsOS",
+      "slug": "polsia-calebscustomsos",
+      "description": "Aurora and the Denver metro have the demand. You have the diesel and auto expertise that competitors don't. CalebsCustomsOS connects those two things, finding customers, filling your schedule, and making sure no lead or follow-up slips through the cracks while you're focused on the work itself.",
+      "description_fr": "Aurora et le métro de Denver répondent à la demande. Vous disposez de l'expertise en matière de diesel et d'automobile que vos concurrents n'ont pas. CalebsCustomsOS relie ces deux choses : trouver des clients, remplir votre emploi du temps et s'assurer qu'aucune piste ou suivi ne passe entre les mailles du filet pendant que vous vous concentrez sur le travail lui-même.",
+      "category": "Marketing & Advertising",
+      "website": "https://calebscustomsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T23:33:37.685748+00:00"
+    },
+    {
+      "name": "MalletteOS",
+      "slug": "polsia-malletteos",
+      "description": "MalletteOS is the operating system for a firm that resolves workplace conflicts, \n                trains leaders, and builds human capital across government and private sectors.",
+      "description_fr": "MalletteOS est le système d'exploitation d'une entreprise qui résout les conflits sur le lieu de travail, \n                forme des dirigeants et développe le capital humain dans les secteurs public et privé.",
+      "category": "Software & SaaS",
+      "website": "https://malletteos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T23:33:38.276166+00:00"
+    },
+    {
+      "name": "StormLens",
+      "slug": "polsia-stormlens",
+      "description": "Storm chasers shouldn't need a $250 license and Windows to see what's happening in the atmosphere. StormLens puts NEXRAD Level 2 data where it should have been years ago, with intelligence that makes professional-grade radar accessible to anyone who cares about the sky above them.",
+      "description_fr": "Les chasseurs de tempêtes ne devraient pas avoir besoin d'une licence à 250 $ et de Windows pour voir ce qui se passe dans l'atmosphère. StormLens place les données NEXRAD niveau 2 là où elles auraient dû être il y a des années, avec une intelligence qui rend les radars de qualité professionnelle accessibles à tous ceux qui se soucient du ciel au-dessus d'eux.",
+      "category": "Marketing & Advertising",
+      "website": "https://stormlens.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T23:33:39.215064+00:00"
+    },
+    {
+      "name": "JourneyOS",
+      "slug": "polsia-journeyos",
+      "description": "JourneyOS gives garage door service operators the scheduling, dispatch, and customer management backbone that used to require a back-office team. Built for Atlanta. Built to grow.",
+      "description_fr": "JourneyOS offre aux opérateurs de services de portes de garage la structure de planification, de répartition et de gestion des clients qui nécessitait auparavant une équipe de back-office. Construit pour Atlanta. Construit pour grandir.",
+      "category": "Productivity & Automation",
+      "website": "https://journeyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T23:33:40.323473+00:00"
+    },
+    {
+      "name": "FloorCareOS",
+      "slug": "polsia-floorcareos",
+      "description": "You built this business with discipline, hard work, and showing up when nobody else would.FloorCareOS makes sure the back office keeps up with you.Every job tracked, every customer remembered, every opportunity captured.",
+      "description_fr": "Vous avez bâti cette entreprise avec discipline, travail acharné et en vous présentant quand personne d'autre ne le ferait. FloorCareOS s'assure que le back-office vous suit. Chaque travail suivi, chaque client mémorisé, chaque opportunité saisie.",
+      "category": "Other",
+      "website": "https://floorcareos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T23:33:41.190829+00:00"
+    },
+    {
+      "name": "GraystoneOS",
+      "slug": "polsia-graystoneos",
+      "description": "Most fractional CMOs cap at 3-4 clients because everything lives in their head. GraystoneOS externalizes the system, making every engagement repeatable, measurable, and transferable. The Growth Operating System isn't just methodology. It's infrastructure.",
+      "description_fr": "La plupart des CMO fractionnés se limitent à 3 ou 4 clients, car tout vit dans leur tête. GraystoneOS externalise le système, rendant chaque engagement répétable, mesurable et transférable. Le système d’exploitation de croissance n’est pas seulement une méthodologie. C'est une infrastructure.",
+      "category": "Other",
+      "website": "https://graystoneos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T23:33:42.350300+00:00"
+    },
+    {
+      "name": "StripDailyOS",
+      "slug": "polsia-stripdailyos",
+      "description": "StripDailyOS handles product ops, competitor intel, customer analytics, and growth marketing while you focus on building the best oral strips on the market.",
+      "description_fr": "StripDailyOS gère les opérations produit, les informations sur les concurrents, l'analyse client et le marketing de croissance pendant que vous vous concentrez sur la création des meilleures bandes orales du marché.",
+      "category": "Marketing & Advertising",
+      "website": "https://stripdailyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T23:33:42.761798+00:00"
+    },
+    {
+      "name": "LogiForge",
+      "slug": "polsia-logiforge",
+      "description": "Lean, functional, French-first. Designed for how people in Abidjan, Dakar, and Douala actually work: mobile screens, WhatsApp workflows, FCFA payments.",
+      "description_fr": "Lean, fonctionnel, français d’abord. Conçu pour la manière dont les gens d'Abidjan, de Dakar et de Douala travaillent réellement : écrans mobiles, workflows WhatsApp, paiements en FCFA.",
+      "category": "Finance & Fintech",
+      "website": "https://logiforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T23:33:44.033637+00:00"
     }
   ]
 }
