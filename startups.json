@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T15:35:13.483843+00:00",
+  "last_updated": "2026-05-06T17:09:49.193620+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -111380,18 +111380,24 @@
     {
       "name": "Hotelio",
       "slug": "polsia-hotelio",
+      "description": "Traditional property management charges 15-25% per booking and still needs your time. Hotelio delivers better results at a fraction of the cost, around the clock, in every language your guests speak.",
+      "description_fr": "La gestion immobilière traditionnelle facture 15 à 25 % par réservation et a toujours besoin de votre temps. Hotelio offre de meilleurs résultats à une fraction du coût, 24 heures sur 24, dans toutes les langues parlées par vos clients.",
+      "category": "Travel & Hospitality",
       "website": "https://hotelio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T15:34:56.298000+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T17:09:46.094796+00:00"
     },
     {
       "name": "ShekinahOS",
       "slug": "polsia-shekinahos",
+      "description": "The most trusted financial agent on earth won't be built by a corporation. It'll be built by someone who was scammed, learned the cost of broken trust, and architected loyalty into every line of code.",
+      "description_fr": "L’agent financier le plus fiable au monde ne sera pas construit par une entreprise. Il sera construit par quelqu'un qui a été victime d'une arnaque, qui a appris le prix d'une confiance brisée et qui a intégré la loyauté dans chaque ligne de code.",
+      "category": "Finance & Fintech",
       "website": "https://shekinahos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T15:34:56.706838+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T17:09:47.275476+00:00"
     },
     {
       "name": "ProspectEdge",
@@ -111427,12 +111433,15 @@
       "scraped_at": "2026-05-06T15:35:01.946955+00:00"
     },
     {
-      "name": "Arbitrage",
+      "name": "Arbitrage — Sprint exploratoire IA pour dirigeants",
       "slug": "polsia-arbitrage",
+      "description": "Un groupe de taille intermediaire souhaitait explorer les opportunites de l'IA sur ses processus metier, sans savoir par ou commencer. En 3 demi-journees, nous avons identifie 8 cas d'usage potentiels, priorise les 3 plus pertinents, et cadre 2 POC actionnables. Le dirigeant a pu presenter un plan clair a son Comex et decider quoi lancer des le mois suivant.",
+      "description_fr": "Un groupe de taille intermédiaire souhaitait explorer les opportunités de l'IA sur ses processus métier, sans savoir par ou commencer. En 3 demi-journées, nous avons identifié 8 cas d'utilisation potentiels, priorisé les 3 plus pertinents, et encadré 2 POC actionnables. Le dirigeant a pu présenter un plan clair à son Comex et décider quoi lancer des le mois suivant.",
+      "category": "Entertainment & Media",
       "website": "https://arbitrage.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T15:35:02.314756+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T17:09:48.516143+00:00"
     },
     {
       "name": "CraftFix",
@@ -111477,6 +111486,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-06T15:35:08.053952+00:00"
+    },
+    {
+      "name": "FoldedFlair",
+      "slug": "polsia-foldedflair",
+      "website": "https://foldedflair.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T17:09:36.463539+00:00"
+    },
+    {
+      "name": "DevBench",
+      "slug": "polsia-devbench",
+      "website": "https://devbench.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T17:09:36.703899+00:00"
+    },
+    {
+      "name": "BoloAI",
+      "slug": "polsia-boloai",
+      "website": "https://boloai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T17:09:37.011400+00:00"
+    },
+    {
+      "name": "BizPing — WhatsApp on Autopilot for Local Businesses",
+      "slug": "polsia-bizping",
+      "description": "Customers message at midnight, during festivals, while you're busy with a client. BizPing replies in seconds with natural, context-aware responses. No canned templates.",
+      "description_fr": "Messages clients à minuit, pendant les festivals, pendant que vous êtes occupé avec un client. BizPing répond en quelques secondes avec des réponses naturelles et contextuelles. Aucun modèle prédéfini.",
+      "category": "Sustainability & Green",
+      "website": "https://bizping.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T17:09:38.431324+00:00"
+    },
+    {
+      "name": "Proposely",
+      "slug": "polsia-proposely-2",
+      "website": "https://proposely-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T17:09:38.691659+00:00"
+    },
+    {
+      "name": "QuickServ",
+      "slug": "polsia-quickserv",
+      "description": "Connects to your WhatsApp Business and Instagram. Answers customer questions instantly in Amharic and English. Handles bookings, pricing inquiries, hours, and directions. You train it once with your business info. It learns your voice.",
+      "description_fr": "Se connecte à votre WhatsApp Business et Instagram. Répond instantanément aux questions des clients en amharique et en anglais. Gère les réservations, les demandes de prix, les horaires et les directions. Vous l'entraînez une fois avec les informations de votre entreprise. Il apprend votre voix.",
+      "category": "Travel & Hospitality",
+      "website": "https://quickserv.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T17:09:39.927078+00:00"
+    },
+    {
+      "name": "NestRun",
+      "slug": "polsia-nestrun-28",
+      "website": "https://nestrun-28.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T17:09:40.240694+00:00"
+    },
+    {
+      "name": "FiscalFitOS",
+      "slug": "polsia-fiscalfitos-2",
+      "description": "Track engagement, service tiers, billing status, and open items for each client. No more juggling tabs, emails, and sticky notes to know where things stand.",
+      "description_fr": "Suivez l'engagement, les niveaux de service, l'état de facturation et les éléments ouverts pour chaque client. Fini de jongler avec les onglets, les e-mails et les notes autocollantes pour savoir où en sont les choses.",
+      "category": "Newsletter & Email",
+      "website": "https://fiscalfitos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T17:09:41.048850+00:00"
+    },
+    {
+      "name": "AikaiOS",
+      "slug": "polsia-aikaios",
+      "description": "AikaiOS gives AIKA'I Pickleball one command center for sales analytics, competitor intelligence, inventory forecasting, and customer growth. Built for a family-owned brand scaling in a $210M market.",
+      "description_fr": "AikaiOS offre à AIKA'I Pickleball un centre de commande pour l'analyse des ventes, la veille sur les concurrents, la prévision des stocks et la croissance de la clientèle. Conçu pour une marque familiale évoluant sur un marché de 210 millions de dollars.",
+      "category": "AI & Machine Learning",
+      "website": "https://aikaios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T17:09:42.006467+00:00"
+    },
+    {
+      "name": "ForgeWealth",
+      "slug": "polsia-forgewealth",
+      "description": "ForgeWealth turns raw market data into plain-English insights. Track your holdings, understand your risk, and know exactly what your portfolio is doing. No jargon, no $24,000 terminal required.",
+      "description_fr": "ForgeWealth transforme les données brutes du marché en informations en anglais simple. Suivez vos avoirs, comprenez votre risque et sachez exactement ce que fait votre portefeuille. Pas de jargon, pas de terminal à 24 000 $ requis.",
+      "category": "Other",
+      "website": "https://forgewealth.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T17:09:43.636684+00:00"
     }
   ]
 }
