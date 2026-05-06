@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T09:10:45.548893+00:00",
+  "last_updated": "2026-05-06T11:20:56.168458+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -111061,10 +111061,13 @@
     {
       "name": "CortexVault",
       "slug": "polsia-cortex-vault",
+      "description": "Every case you've argued, every diagnosis you've made, every strategy you've crafted. That knowledge lives scattered across documents, emails, and memory. When a client needs an answer in minutes, you shouldn't be digging through folders from 2019.",
+      "description_fr": "Chaque cas que vous avez défendu, chaque diagnostic que vous avez posé, chaque stratégie que vous avez élaborée. Ces connaissances sont dispersées dans les documents, les e-mails et la mémoire. Lorsqu'un client a besoin d'une réponse en quelques minutes, vous ne devriez pas fouiller dans des dossiers de 2019.",
+      "category": "Newsletter & Email",
       "website": "https://cortex-vault.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T09:10:34.883825+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T11:20:55.777668+00:00"
     },
     {
       "name": "Soul Compass",
@@ -111153,6 +111156,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-06T09:10:43.775248+00:00"
+    },
+    {
+      "name": "PulseQuant",
+      "slug": "polsia-pulsequant",
+      "website": "https://pulsequant.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T11:20:40.805735+00:00"
+    },
+    {
+      "name": "HeavensOS",
+      "slug": "polsia-heavensos",
+      "website": "https://heavensos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T11:20:40.952837+00:00"
+    },
+    {
+      "name": "GoldGrid",
+      "slug": "polsia-goldgrid",
+      "description": "GoldGrid auto-calculates psychological price levels across monthly, weekly, and daily timeframes. Purpose-built for XAUUSD traders who know round numbers are where the money moves.",
+      "description_fr": "GoldGrid calcule automatiquement les niveaux de prix psychologiques sur des périodes mensuelles, hebdomadaires et quotidiennes. Spécialement conçu pour les traders XAUUSD qui savent que les chiffres ronds sont l'endroit où l'argent circule.",
+      "category": "Other",
+      "website": "https://goldgrid.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T11:20:42.049731+00:00"
+    },
+    {
+      "name": "LeadBite",
+      "slug": "polsia-leadbite",
+      "description": "Most dental marketing agencies treat implant leads like general dentistry inquiries. They cast a wide net, send unqualified traffic, and leave your front desk sorting through tire-kickers. You deserve better.",
+      "description_fr": "La plupart des agences de marketing dentaire traitent les pistes d'implants comme des demandes de renseignements en dentisterie générale. Ils ratissent large, envoient du trafic non qualifié et quittent votre réception pour trier les pneus. Vous méritez mieux.",
+      "category": "Marketing & Advertising",
+      "website": "https://leadbite.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T11:20:43.809391+00:00"
+    },
+    {
+      "name": "VelosisOS",
+      "slug": "polsia-velosisos",
+      "description": "Every agile tool on the market will track your velocity, generate your burndowns, and predict your delivery date. None of them will tell you that your team's been splitting stories wrong for three sprints, or that your PI planning assumptions are drifting from actual capacity. Tracking what happened is table stakes. Catching what's going wrong is the gap.",
+      "description_fr": "Tous les outils agiles du marché suivront votre vélocité, généreront vos burndowns et prédisent votre date de livraison. Aucun d'entre eux ne vous dira que votre équipe a mal divisé les histoires pendant trois sprints, ou que vos hypothèses de planification PI s'écartent de la capacité réelle. Suivre ce qui s’est passé est un enjeu de table. Attraper ce qui ne va pas, c'est l'écart.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://velosisos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T11:20:45.386357+00:00"
+    },
+    {
+      "name": "AutoRescue",
+      "slug": "polsia-autorescue",
+      "description": "AutoRescue is launching in Phoenix, Arizona. A city where the heat breaks cars and the sprawl makes waiting for a tow truck feel like forever. We're changing how roadside help works, one mechanic at a time.",
+      "description_fr": "AutoRescue est lancé à Phoenix, en Arizona. Une ville où la chaleur brise les voitures et où l’étalement urbain donne l’impression que l’attente d’une dépanneuse est une éternité. Nous modifions le fonctionnement de l'assistance routière, un mécanicien à la fois.",
+      "category": "Other",
+      "website": "https://autorescue.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T11:20:46.984764+00:00"
+    },
+    {
+      "name": "LiftEd",
+      "slug": "polsia-lifted",
+      "description": "Unlike general crowdfunding, LiftEd verifies every loan, pays every lender directly, and tracks every dollar. Donors see exactly what their contribution accomplished.",
+      "description_fr": "Contrairement au financement participatif général, LiftEd vérifie chaque prêt, paie directement chaque prêteur et suit chaque dollar. Les donateurs voient exactement ce que leur contribution a accompli.",
+      "category": "Other",
+      "website": "https://lifted.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T11:20:48.291467+00:00"
+    },
+    {
+      "name": "Penfold — Your AI Marketing Manager",
+      "slug": "polsia-penfold-ai",
+      "description": "Penfold is an AI employee that runs your entire marketing operation. Social posts, email campaigns, review responses, Google updates. It works while you work on your business.",
+      "description_fr": "Penfold est un employé d'IA qui gère l'ensemble de vos opérations marketing. Publications sur les réseaux sociaux, campagnes par e-mail, réponses aux avis, mises à jour Google. Cela fonctionne pendant que vous travaillez sur votre entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://penfold-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T11:20:49.792398+00:00"
+    },
+    {
+      "name": "SomaCoach",
+      "slug": "polsia-somacoach",
+      "description": "SomaCoach is an AI tutor that turns school material into simple, clear lessons your students actually understand. Personalized study plans. Daily quizzes. Voice and text. Works offline. Built for Africa.",
+      "description_fr": "SomaCoach est un tuteur IA qui transforme le matériel scolaire en leçons simples et claires que vos élèves comprennent réellement. Plans d'études personnalisés. Des quiz quotidiens. Voix et texte. Fonctionne hors ligne. Construit pour l'Afrique.",
+      "category": "AI & Machine Learning",
+      "website": "https://somacoach.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T11:20:51.771238+00:00"
+    },
+    {
+      "name": "DreadCast",
+      "slug": "polsia-dreadcast",
+      "description": "That behavioral pattern, habitual binge consumption of long-form content, is what makes this format so powerful on YouTube. The algorithm rewards watch time above everything. DreadCast is engineered to maximize exactly that.",
+      "description_fr": "",
+      "category": "Entertainment & Media",
+      "website": "https://dreadcast.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T11:20:52.252801+00:00"
     }
   ]
 }
