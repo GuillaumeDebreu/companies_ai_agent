@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T23:14:47.040309+00:00",
+  "last_updated": "2026-05-06T00:07:50.538279+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -110580,20 +110580,26 @@
       "scraped_at": "2026-05-05T23:14:35.344061+00:00"
     },
     {
-      "name": "GradePilot",
+      "name": "GradePilot — Your AI Academic Agent",
       "slug": "polsia-gradepilot-4",
+      "description": "GradePilot monitors your classes, generates study materials, tracks every deadline, and coaches you before exams. It works while you sleep.",
+      "description_fr": "GradePilot surveille vos cours, génère du matériel d'étude, suit chaque date limite et vous coache avant les examens. Cela fonctionne pendant que vous dormez.",
+      "category": "AI & Machine Learning",
       "website": "https://gradepilot-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-05T23:14:35.613481+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T00:07:49.000988+00:00"
     },
     {
-      "name": "SheThingsOS",
+      "name": "She of Things",
       "slug": "polsia-shethingsos",
+      "description": "We believe the things you surround yourself with shouldmean something. Not because they're expensive, but because they were chosen with care, designed with purpose, and made to be part ofyour story.",
+      "description_fr": "Nous pensons que les choses dont vous vous entourez devraient signifier quelque chose. Non pas parce qu'ils sont chers, mais parce qu'ils ont été choisis avec soin, conçus dans un but précis et conçus pour faire partie de votre histoire.",
+      "category": "Other",
       "website": "https://shethingsos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-05T23:14:35.744061+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T00:07:50.234891+00:00"
     },
     {
       "name": "Nightledger",
@@ -110668,6 +110674,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-05T23:14:42.684382+00:00"
+    },
+    {
+      "name": "ConciergeOS",
+      "slug": "polsia-conciergeos-4",
+      "website": "https://conciergeos-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T00:07:33.692800+00:00"
+    },
+    {
+      "name": "Kanga Immo",
+      "slug": "polsia-kanga-immo",
+      "description": "Des annonces éparpillées sur WhatsApp, des prix opaques, des photos qui ne correspondent pas, des agents difficiles à joindre. Le marché immobilier ivoirien explose, mais les outils pour y naviguer sont restés bloqués dans le passé. Kanga Immo change la donne.",
+      "description_fr": "Des annonces éparpillées sur WhatsApp, des prix opaques, des photos qui ne correspondent pas, des agents difficiles à joindre. Le marché immobilier ivoirien explose, mais les outils pour y naviguer sont restés bloqués dans le passé. Kanga Immo change la donne.",
+      "category": "Other",
+      "website": "https://kanga-immo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T00:07:34.680114+00:00"
+    },
+    {
+      "name": "FragReel",
+      "slug": "polsia-fragreel-2",
+      "description": "FragReel is an AI agent that watches your gaming sessions, detects your best moments, auto-edits them into polished clips, and publishes them across every platform. Your full content team, running while you play.",
+      "description_fr": "FragReel est un agent IA qui surveille vos sessions de jeu, détecte vos meilleurs moments, les édite automatiquement en clips soignés et les publie sur toutes les plateformes. Votre équipe de contenu complète, fonctionnant pendant que vous jouez.",
+      "category": "AI & Machine Learning",
+      "website": "https://fragreel-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T00:07:35.489757+00:00"
+    },
+    {
+      "name": "CareHelm",
+      "slug": "polsia-carehelm",
+      "description": "CareHelm isn't designed by technologists guessing at healthcare. It's shaped by decades of medical directing, rounding, staffing, and knowing what falls through the cracks. This is what a medical director wished existed every morning at 6 AM.",
+      "description_fr": "CareHelm n'est pas conçu par des technologues qui devinent les soins de santé. Il est façonné par des décennies de direction médicale, de regroupement, de recrutement et de connaissance de ce qui passe entre les mailles du filet. C'est ce qu'un directeur médical souhaitait voir exister chaque matin à 6 heures du matin.",
+      "category": "Health & Wellness",
+      "website": "https://carehelm.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T00:07:36.957863+00:00"
+    },
+    {
+      "name": "Magnetek — Your AI Marketing Team",
+      "slug": "polsia-katalyst-6",
+      "description": "Built by a marketing consultant who spent years doing the work manually, Magnetek encodes that expertise into AI agents that never sleep, never miss a trend, and never bill by the hour.",
+      "description_fr": "Construit par un consultant en marketing qui a passé des années à faire le travail manuellement, Magnetek code cette expertise dans des agents d'IA qui ne dorment jamais, ne manquent jamais une tendance et ne facturent jamais à l'heure.",
+      "category": "AI & Machine Learning",
+      "website": "https://katalyst-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T00:07:38.159004+00:00"
+    },
+    {
+      "name": "Payvane",
+      "slug": "polsia-payvane",
+      "description": "AI agents can access 400+ APIs, spin up compute, and purchase data autonomously. But there's no CFO. No budget enforcement. No spend visibility. Fleet operators discover overruns after the invoice hits, not before.",
+      "description_fr": "Les agents IA peuvent accéder à plus de 400 API, lancer des calculs et acheter des données de manière autonome. Mais il n'y a pas de directeur financier. Aucune application du budget. Aucune visibilité sur les dépenses. Les opérateurs de flotte découvrent les dépassements après l'arrivée de la facture, pas avant.",
+      "category": "AI & Machine Learning",
+      "website": "https://payvane.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T00:07:39.865008+00:00"
+    },
+    {
+      "name": "Laguerre Systems — Software Engineering, Cape Coral FL",
+      "slug": "polsia-laguerre-systems",
+      "description": "Based in Cape Coral, serving businesses across SWFL and beyond. Local enough for face-to-face meetings. Capable enough for clients anywhere. Your software partner doesn't need to be in Miami or Silicon Valley.",
+      "description_fr": "Basé à Cape Coral, au service des entreprises de SWFL et au-delà. Assez local pour des réunions en face à face. Assez capable pour les clients n’importe où. Votre partenaire logiciel n'a pas besoin d'être à Miami ou dans la Silicon Valley.",
+      "category": "Software & SaaS",
+      "website": "https://laguerre-systems.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T00:07:41.153298+00:00"
+    },
+    {
+      "name": "TradeForge",
+      "slug": "polsia-tradeforge-14",
+      "description": "TradeForge monitors your buyer inquiries across platforms, responds instantly with accurate product information and pricing, qualifies serious buyers from tire-kickers, and follows up until the deal closes. It understands GST, MOQs, shipping terms, and export documentation. It speaks your buyer's language.",
+      "description_fr": "TradeForge surveille les demandes de vos acheteurs sur toutes les plateformes, répond instantanément avec des informations précises sur les produits et les prix, qualifie les acheteurs sérieux parmi les acheteurs de pneus et assure le suivi jusqu'à la conclusion de la transaction. Il comprend la TPS, les MOQ, les conditions d'expédition et la documentation d'exportation. Il parle la langue de votre acheteur.",
+      "category": "Software & SaaS",
+      "website": "https://tradeforge-14.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T00:07:42.823528+00:00"
+    },
+    {
+      "name": "Kravven",
+      "slug": "polsia-kravven",
+      "description": "Kravven is building the future where every business, from a one-person shop in Missouri to a growing startup in San Francisco, has access to world-class sales outreach. No hires. No overhead. Just results.",
+      "description_fr": "Kravven construit un avenir où chaque entreprise, d'une boutique individuelle dans le Missouri à une startup en pleine croissance à San Francisco, a accès à un réseau commercial de classe mondiale. Aucune embauche. Pas de frais généraux. Juste des résultats.",
+      "category": "Sales & CRM",
+      "website": "https://kravven.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T00:07:44.270312+00:00"
+    },
+    {
+      "name": "Attentiv — Your AI Account Manager",
+      "slug": "polsia-attentiv",
+      "description": "Attentiv is an AI account manager that monitors your client channels 24/7, drafts responses in your voice, follows up on invoices, and delivers morning briefings. Not a tool. An employee.",
+      "description_fr": "Attentiv est un gestionnaire de compte IA qui surveille vos canaux clients 24h/24 et 7j/7, rédige les réponses avec votre voix, assure le suivi des factures et donne des briefings matinaux. Pas un outil. Un employé.",
+      "category": "AI & Machine Learning",
+      "website": "https://attentiv.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T00:07:45.025302+00:00"
     }
   ]
 }
