@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T14:16:59.256873+00:00",
+  "last_updated": "2026-05-06T15:35:13.483843+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -111270,18 +111270,24 @@
     {
       "name": "PencilMe",
       "slug": "polsia-pencilme",
+      "description": "PencilMe gives everyone in your life exactly the access they need, nothing more, nothing less. One place where your entire world can coordinate around you.",
+      "description_fr": "PencilMe donne à chacun dans votre vie exactement l'accès dont il a besoin, ni plus, ni moins. Un endroit où votre monde entier peut se coordonner autour de vous.",
+      "category": "Other",
       "website": "https://pencilme.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T13:09:20.393615+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T15:35:11.360538+00:00"
     },
     {
       "name": "CortexWorks",
       "slug": "polsia-cortexworks",
+      "description": "Most consultancies hand you a strategy deck. We hand you a working implementation. London-based AI consultancy for companies ready to stop experimenting and start deploying.",
+      "description_fr": "La plupart des cabinets de conseil vous remettent un dossier stratégique. Nous vous remettons une implémentation fonctionnelle. Cabinet de conseil en IA basé à Londres pour les entreprises prêtes à arrêter d'expérimenter et à commencer à déployer.",
+      "category": "AI & Machine Learning",
       "website": "https://cortexworks.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T13:09:20.617714+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T15:35:12.958987+00:00"
     },
     {
       "name": "ArticleForge — HTML",
@@ -111370,6 +111376,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-06T13:09:32.713060+00:00"
+    },
+    {
+      "name": "Hotelio",
+      "slug": "polsia-hotelio",
+      "website": "https://hotelio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T15:34:56.298000+00:00"
+    },
+    {
+      "name": "ShekinahOS",
+      "slug": "polsia-shekinahos",
+      "website": "https://shekinahos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T15:34:56.706838+00:00"
+    },
+    {
+      "name": "ProspectEdge",
+      "slug": "polsia-prospectedge",
+      "description": "ProspectEdge is not a gym. It's a performance system that prepares athletes for the next level of competition through structured coaching, measurable progress, and honest evaluation.",
+      "description_fr": "ProspectEdge n'est pas une salle de sport. Il s'agit d'un système de performance qui prépare les athlètes au prochain niveau de compétition grâce à un entraînement structuré, des progrès mesurables et une évaluation honnête.",
+      "category": "Sales & CRM",
+      "website": "https://prospectedge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T15:34:58.401082+00:00"
+    },
+    {
+      "name": "SharpFrame",
+      "slug": "polsia-sharpframe",
+      "description": "Your clients deserve sharp artwork. Your prints deserve clean files. SharpFrame makes it happen without you learning another tool.",
+      "description_fr": "Vos clients méritent des œuvres d’art soignées. Vos impressions méritent des fichiers propres. SharpFrame y parvient sans que vous appreniez un autre outil.",
+      "category": "Education",
+      "website": "https://sharpframe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T15:35:00.077931+00:00"
+    },
+    {
+      "name": "StyleValet — Your AI Personal Stylist",
+      "slug": "polsia-stylevalet",
+      "description": "StyleValet learns your aesthetic, checks your calendar, watches the weather, and delivers your outfit before you open your eyes. Every single morning.",
+      "description_fr": "StyleValet apprend votre esthétique, vérifie votre calendrier, surveille la météo et vous livre votre tenue avant d'ouvrir les yeux. Chaque matin.",
+      "category": "AI & Machine Learning",
+      "website": "https://stylevalet.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T15:35:01.946955+00:00"
+    },
+    {
+      "name": "Arbitrage",
+      "slug": "polsia-arbitrage",
+      "website": "https://arbitrage.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-06T15:35:02.314756+00:00"
+    },
+    {
+      "name": "CraftFix",
+      "slug": "polsia-craftfix",
+      "description": "CraftFix delivers professional remodeling and handyman services with transparent pricing, online booking, and craftsmanship that lasts. No missed calls. No vague estimates. Just work done right.",
+      "description_fr": "CraftFix propose des services professionnels de rénovation et de bricoleur avec des prix transparents, une réservation en ligne et un savoir-faire durable. Aucun appel manqué. Pas d’estimations vagues. Juste un travail bien fait.",
+      "category": "Travel & Hospitality",
+      "website": "https://craftfix.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T15:35:03.550003+00:00"
+    },
+    {
+      "name": "Trellis",
+      "slug": "polsia-trellis-growth-2",
+      "description": "Trellis is an AI agent that runs influencer outreach, email campaigns, subscription retention, and marketplace ops for DTC brands. Autonomously. Daily.",
+      "description_fr": "Trellis est un agent d'IA qui gère la sensibilisation des influenceurs, les campagnes par e-mail, la rétention des abonnements et les opérations de marché pour les marques DTC. De manière autonome. Tous les jours.",
+      "category": "Marketing & Advertising",
+      "website": "https://trellis-growth-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T15:35:05.095531+00:00"
+    },
+    {
+      "name": "Lookout AI",
+      "slug": "polsia-lookout-ai",
+      "description": "Lookout AI monitors competitor websites, pricing, features, job postings, and social activity around the clock. You get a daily brief with what changed and why it matters.",
+      "description_fr": "Lookout AI surveille 24 heures sur 24 les sites Web concurrents, les prix, les fonctionnalités, les offres d'emploi et l'activité sociale. Vous recevez un briefing quotidien sur ce qui a changé et pourquoi c'est important.",
+      "category": "AI & Machine Learning",
+      "website": "https://lookout-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T15:35:06.230746+00:00"
+    },
+    {
+      "name": "Revizo",
+      "slug": "polsia-revizo",
+      "description": "Revizo monitors every transaction in real-time, detects fraud patterns before they materialize, and generates compliance reports that used to take your team weeks. Autonomous audit intelligence, built for BCEAO and OHADA frameworks.",
+      "description_fr": "Revizo surveille chaque transaction en temps réel, détecte les modèles de fraude avant qu'ils ne se matérialisent et génère des rapports de conformité qui prenaient auparavant des semaines à votre équipe. Intelligence d'audit autonome, conçue pour les cadres de la BCEAO et de l'OHADA.",
+      "category": "Other",
+      "website": "https://revizo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T15:35:08.053952+00:00"
     }
   ]
 }
