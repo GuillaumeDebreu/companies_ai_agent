@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T19:48:18.881660+00:00",
+  "last_updated": "2026-05-06T20:42:35.344660+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -111597,10 +111597,13 @@
     {
       "name": "WingsOfEdenOS",
       "slug": "polsia-wingsofedenos",
+      "description": "The Wings of Eden exists at the intersection of warmth and rigor. A home-like environment backed by systems that ensure nothing falls through the cracks. Every shift covered. Every family informed. Every resident seen.",
+      "description_fr": "Les Wings of Eden existent à l’intersection de la chaleur et de la rigueur. Un environnement semblable à celui d’une maison soutenu par des systèmes qui garantissent que rien ne passe entre les mailles du filet. Chaque quart de travail est couvert. Chaque famille informée. Chaque résident vu.",
+      "category": "Sustainability & Green",
       "website": "https://wingsofedenos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-06T18:59:05.982572+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-06T20:42:35.342913+00:00"
     },
     {
       "name": "Xclusive Media",
@@ -111700,6 +111703,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-06T18:59:19.904930+00:00"
+    },
+    {
+      "name": "SunSplit",
+      "slug": "polsia-sunsplit",
+      "description": "SunSplit installs solar panels on apartment rooftops at zero cost to landlords. Tenants subscribe to cheaper, greener electricity. We own the panels, handle everything, and everyone wins.",
+      "description_fr": "SunSplit installe des panneaux solaires sur les toits des appartements sans frais pour les propriétaires. Les locataires s’abonnent à une électricité moins chère et plus verte. Nous possédons les panneaux, gérons tout et tout le monde y gagne.",
+      "category": "Real Estate",
+      "website": "https://sunsplit.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T20:42:22.825312+00:00"
+    },
+    {
+      "name": "SignalForge",
+      "slug": "polsia-signalforge-24",
+      "description": "When issues arise, SignalForge acts. Load balancing, failover routing, and resource reallocation happen without a human in the loop.",
+      "description_fr": "Lorsque des problèmes surviennent, SignalForge agit. L'équilibrage de charge, le routage de basculement et la réallocation des ressources s'effectuent sans intervention humaine.",
+      "category": "Marketing & Advertising",
+      "website": "https://signalforge-24.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T20:42:24.157092+00:00"
+    },
+    {
+      "name": "FlashpointOS",
+      "slug": "polsia-flashpointos",
+      "description": "The operational backbone for investment firms running multiple fund products across multiple jurisdictions. Portfolio intelligence that compounds.",
+      "description_fr": "L'épine dorsale opérationnelle des sociétés d'investissement qui gèrent plusieurs produits de fonds dans plusieurs juridictions. Une intelligence de portefeuille qui compose.",
+      "category": "Finance & Fintech",
+      "website": "https://flashpointos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T20:42:25.297647+00:00"
+    },
+    {
+      "name": "WhyTheHealthOS",
+      "slug": "polsia-whythehealthos",
+      "description": "WhyTheHealthOS is the operating system for health content creators who are done guessing what works. Track what grows your audience, what earns revenue, and what to write next.",
+      "description_fr": "WhyTheHealthOS est le système d'exploitation destiné aux créateurs de contenu sur la santé qui ont fini de deviner ce qui fonctionne. Suivez ce qui augmente votre audience, ce qui génère des revenus et ce qu'il faut écrire ensuite.",
+      "category": "Health & Wellness",
+      "website": "https://whythehealthos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T20:42:26.008244+00:00"
+    },
+    {
+      "name": "QuickCut",
+      "slug": "polsia-quickcut",
+      "description": "TikTok. Reels. YouTube Shorts. Every business knows they should be posting. \n                Almost none of them are. We fix that with a flat monthly subscription and relentless output.",
+      "description_fr": "Tik Tok. Bobines. Courts métrages YouTube. Chaque entreprise sait qu'elle devrait publier. \n                Presque aucun d’entre eux ne l’est. Nous résolvons ce problème avec un abonnement mensuel fixe et une production incessante.",
+      "category": "Other",
+      "website": "https://quickcut.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T20:42:27.695279+00:00"
+    },
+    {
+      "name": "Prospr",
+      "slug": "polsia-prospr-21",
+      "description": "Prospr is an AI sales rep that researches your ideal prospects, writes hyper-personalized outreach, sends emails, follows up, and books meetings on your calendar. No scripts. No templates. Just pipeline.",
+      "description_fr": "Prospr est un représentant commercial IA qui recherche vos prospects idéaux, rédige des communications hyper-personnalisées, envoie des e-mails, assure le suivi et planifie des réunions sur votre calendrier. Aucun script. Aucun modèle. Juste un pipeline.",
+      "category": "Sales & CRM",
+      "website": "https://prospr-21.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T20:42:29.744326+00:00"
+    },
+    {
+      "name": "SupremacyOS",
+      "slug": "polsia-supremacyos",
+      "description": "Every brand that made it had a system behind the scenes. SupremacyOS is yours. Built for Sauces Supremacy. Running autonomously. Making daily progress.",
+      "description_fr": "Chaque marque qui l’a créé avait un système en coulisses. SupremacyOS est à vous. Conçu pour la suprématie des sauces. Fonctionner de manière autonome. Faire des progrès au quotidien.",
+      "category": "Marketing & Advertising",
+      "website": "https://supremacyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T20:42:31.125273+00:00"
+    },
+    {
+      "name": "Vendself",
+      "slug": "polsia-vendself",
+      "description": "Freelancers chase clients one by one. Consultants sell hours. But the smartest creators figured something out: package your knowledge once, distribute it infinitely. Your content builds the audience. Your audience becomes the market. Your products do the rest.",
+      "description_fr": "Les freelances courent après les clients un par un. Les consultants vendent des heures. Mais les créateurs les plus intelligents ont trouvé une solution : emballez vos connaissances une fois et distribuez-les à l'infini. Votre contenu construit l'audience. Votre public devient le marché. Vos produits font le reste.",
+      "category": "Consulting & Services",
+      "website": "https://vendself.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T20:42:32.056284+00:00"
+    },
+    {
+      "name": "ShiftPilot",
+      "slug": "polsia-shiftpilot-27",
+      "description": "Ingests order volume forecasts and generates optimized shift schedules. Detects coverage gaps before they become missed shipments. Adapts in real-time to call-outs and demand spikes.",
+      "description_fr": "Ingère les prévisions de volume de commandes et génère des horaires de travail optimisés. Détecte les lacunes de couverture avant qu’elles ne se transforment en expéditions manquées. S'adapte en temps réel aux appels et aux pics de demande.",
+      "category": "Sustainability & Green",
+      "website": "https://shiftpilot-27.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T20:42:32.718164+00:00"
+    },
+    {
+      "name": "Lumara Ledger",
+      "slug": "polsia-lumara-ledger",
+      "description": "Cash flow, net worth, debt strategy, tax planning, and goal tracking in one premium financial system built for people who build things.",
+      "description_fr": "Flux de trésorerie, valeur nette, stratégie d'endettement, planification fiscale et suivi des objectifs dans un système financier haut de gamme conçu pour les personnes qui construisent des choses.",
+      "category": "Finance & Fintech",
+      "website": "https://lumara-ledger.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-06T20:42:33.302152+00:00"
     }
   ]
 }
