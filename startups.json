@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:50:21.268300+00:00",
+  "last_updated": "2026-05-07T07:36:56.067414+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -112254,10 +112254,13 @@
     {
       "name": "Mr Poolman",
       "slug": "polsia-mr-poolman",
+      "description": "Not just the surface. The plumbing beneath the deck. The equipment in the closet. The chemistry that keeps everything balanced. Mr Poolman brings construction expertise to every service visit.",
+      "description_fr": "Pas seulement la surface. La plomberie sous le pont. Le matériel dans le placard. La chimie qui maintient tout en équilibre. M. Poolman apporte son expertise en construction à chaque visite de service.",
+      "category": "Other",
       "website": "https://mr-poolman.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T04:50:10.274947+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T07:36:51.948335+00:00"
     },
     {
       "name": "VanityOS",
@@ -112273,10 +112276,13 @@
     {
       "name": "Coldarc",
       "slug": "polsia-coldarc",
+      "description": "Coldarc finds your ideal prospects, researches them, writes personalized outreach, follows up relentlessly, and books meetings on your calendar. You close. It does everything else.",
+      "description_fr": "Coldarc trouve vos prospects idéaux, les recherche, rédige des documents de sensibilisation personnalisés, assure un suivi sans relâche et réserve des réunions sur votre calendrier. Vous fermez. Il fait tout le reste.",
+      "category": "Sales & CRM",
       "website": "https://coldarc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T04:50:11.211407+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T07:36:53.581744+00:00"
     },
     {
       "name": "MaxEffortOS",
@@ -112354,6 +112360,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-07T04:50:19.573930+00:00"
+    },
+    {
+      "name": "IndSoftworkOS",
+      "slug": "polsia-indsoftworkos",
+      "description": "IndSoftworkOS is the operations layer for a software agency that delivers React apps and SaaS platforms to clients across four continents. Clients tracked. Pipeline visible. Delivery predictable.",
+      "description_fr": "IndSoftworkOS est la couche opérationnelle d'une agence de logiciels qui fournit des applications React et des plates-formes SaaS à des clients sur quatre continents. Clients suivis. Pipeline visible. Livraison prévisible.",
+      "category": "Software & SaaS",
+      "website": "https://indsoftworkos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T07:36:54.820990+00:00"
+    },
+    {
+      "name": "UFirestOS",
+      "slug": "polsia-ufirestos",
+      "website": "https://ufirestos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T07:36:38.843750+00:00"
+    },
+    {
+      "name": "Traktion",
+      "slug": "polsia-traktion",
+      "description": "The music industry gatekeeps management. Only artists who are already successful get the team they need to grow. Traktion breaks that cycle. Every independent artist deserves a manager working for them around the clock.",
+      "description_fr": "L’industrie musicale contrôle la gestion. Seuls les artistes qui ont déjà du succès disposent de l’équipe dont ils ont besoin pour grandir. Traktion brise ce cycle. Chaque artiste indépendant mérite un manager qui travaille pour lui 24 heures sur 24.",
+      "category": "Entertainment & Media",
+      "website": "https://traktion.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T07:36:39.893981+00:00"
+    },
+    {
+      "name": "LaunchCopy",
+      "slug": "polsia-launchcopy",
+      "description": "Complete funnel packages for coaches and course creators. Bridge pages, email sequences, ad copy, VSL scripts. AI produces, humans perfect.",
+      "description_fr": "Packages d'entonnoir complets pour les coachs et les créateurs de cours. Pages de pont, séquences d'e-mails, textes publicitaires, scripts VSL. L'IA produit, les humains sont parfaits.",
+      "category": "AI & Machine Learning",
+      "website": "https://launchcopy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T07:36:41.188133+00:00"
+    },
+    {
+      "name": "Praxium",
+      "slug": "polsia-praxium",
+      "description": "Praxium is an AI mentor that guides engineering students through real full-stack projects, reviews code in real-time, and prepares you for placements. Available 24/7. Adapts to you.",
+      "description_fr": "Praxium est un mentor en IA qui guide les étudiants en ingénierie à travers de véritables projets full-stack, révise le code en temps réel et vous prépare aux stages. Disponible 24h/24 et 7j/7. S'adapte à vous.",
+      "category": "AI & Machine Learning",
+      "website": "https://praxium.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T07:36:42.779332+00:00"
+    },
+    {
+      "name": "DriftLead",
+      "slug": "polsia-driftlead",
+      "description": "AI finds your ideal prospects, writes personalized emails, sends them, and follows up. You set it once. It runs forever.",
+      "description_fr": "L'IA trouve vos prospects idéaux, rédige des e-mails personnalisés, les envoie et assure le suivi. Vous l'avez défini une fois. Cela fonctionne pour toujours.",
+      "category": "AI & Machine Learning",
+      "website": "https://driftlead.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T07:36:56.065612+00:00"
+    },
+    {
+      "name": "PromptHotel",
+      "slug": "polsia-prompthotel",
+      "description": "Vous n'avez pas besoin d'être technique. Vous avez besoin de gagner du temps, \n                d'impressionner vos clients, et de prendre de meilleures décisions. \n                Claude fait le reste.",
+      "description_fr": "Vous n'avez pas besoin d'être technique. Vous avez besoin de gagner du temps, \n                d'impressionner vos clients, et de prendre de meilleures décisions. \n                Claude fait le reste.",
+      "category": "Travel & Hospitality",
+      "website": "https://prompthotel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T07:36:44.591901+00:00"
+    },
+    {
+      "name": "OutHound",
+      "slug": "polsia-out-hound",
+      "description": "Enterprise AI sales tools cost $900+/month and require a sales ops team to configure. OutHound is the opposite: simple enough for a one-person shop, powerful enough to fill your pipeline every week. The future of sales isn't bigger teams. It's smarter agents.",
+      "description_fr": "Les outils de vente d'IA d'entreprise coûtent plus de 900 $/mois et nécessitent une équipe d'opérations commerciales pour être configurés. OutHound est tout le contraire : assez simple pour une boutique individuelle, suffisamment puissant pour remplir votre pipeline chaque semaine. L’avenir des ventes ne réside pas dans des équipes plus grandes. Ce sont des agents plus intelligents.",
+      "category": "AI & Machine Learning",
+      "website": "https://out-hound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T07:36:46.203716+00:00"
+    },
+    {
+      "name": "AutoNest",
+      "slug": "polsia-autonest",
+      "description": "AutoNest designs, builds, and manages AI-powered workflows so your team can stop doing repetitive work and start growing. From WhatsApp bots to invoice automation, fully managed.",
+      "description_fr": "AutoNest conçoit, crée et gère des flux de travail basés sur l'IA afin que votre équipe puisse cesser de faire des travaux répétitifs et commencer à se développer. Des robots WhatsApp à l'automatisation des factures, entièrement gérés.",
+      "category": "Productivity & Automation",
+      "website": "https://autonest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T07:36:48.009569+00:00"
+    },
+    {
+      "name": "Thalysa",
+      "slug": "polsia-thalysaos",
+      "description": "Thalysa exists because the current system fails rare disease patients at every turn. We believe AI can close the gap between suffering and understanding, making expert-level navigation accessible to everyone, everywhere.",
+      "description_fr": "Thalysa existe parce que le système actuel laisse tomber à chaque instant les patients atteints de maladies rares. Nous pensons que l’IA peut combler le fossé entre la souffrance et la compréhension, en rendant la navigation de niveau expert accessible à tous, partout.",
+      "category": "AI & Machine Learning",
+      "website": "https://thalysaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T07:36:48.936931+00:00"
     }
   ]
 }
