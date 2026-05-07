@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T21:06:21.170564+00:00",
+  "last_updated": "2026-05-07T22:14:30.839923+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -113128,18 +113128,24 @@
     {
       "name": "SponsorSlate",
       "slug": "polsia-sponsorslate",
+      "description": "SponsorSlate is the first marketplace built specifically for minor league sponsorship. Teams list inventory. Brands browse, compare, and build deals. No more cold calls into the void.",
+      "description_fr": "SponsorSlate est le premier marché spécialement conçu pour le parrainage de ligues mineures. Les équipes répertorient l'inventaire. Les marques parcourent, comparent et concluent des offres. Fini les appels à froid dans le vide.",
+      "category": "E-Commerce & Retail",
       "website": "https://sponsorslate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T21:06:02.446472+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T22:14:29.546228+00:00"
     },
     {
       "name": "AdForgeOS",
       "slug": "polsia-adforgeos",
+      "description": "Ad Forge doesn't guess what your audience wants. It reads what they're already saying across 15+ data sources, then builds campaigns grounded in real sentiment, real language, real purchase behavior.",
+      "description_fr": "Ad Forge ne devine pas ce que veut votre public. Il lit ce qu'ils disent déjà dans plus de 15 sources de données, puis crée des campagnes fondées sur des sentiments réels, un langage réel et un comportement d'achat réel.",
+      "category": "Marketing & Advertising",
       "website": "https://adforgeos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T21:06:02.645466+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T22:14:30.645110+00:00"
     },
     {
       "name": "ZarrinOS",
@@ -113228,6 +113234,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-07T21:06:13.169125+00:00"
+    },
+    {
+      "name": "YellOS",
+      "slug": "polsia-yellos",
+      "website": "https://yellos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T22:14:16.257307+00:00"
+    },
+    {
+      "name": "DRPHAUS",
+      "slug": "polsia-drphaus",
+      "website": "https://drphaus.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T22:14:16.502244+00:00"
+    },
+    {
+      "name": "ChairPilot",
+      "slug": "polsia-chairpilot-4",
+      "description": "ChairPilot is an AI employee that manages your barbershop 24/7. It fills empty chairs, follows up with no-shows, books walk-ins, and runs your marketing. You focus on the craft.",
+      "description_fr": "ChairPilot est un employé IA qui gère votre salon de coiffure 24h/24 et 7j/7. Il remplit les chaises vides, assure le suivi des non-présentations, réserve les visites sans rendez-vous et gère votre marketing. Vous vous concentrez sur le métier.",
+      "category": "AI & Machine Learning",
+      "website": "https://chairpilot-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T22:14:17.448353+00:00"
+    },
+    {
+      "name": "SimMint",
+      "slug": "polsia-simmint",
+      "description": "SimMint turns your simulator game ideas into playable Roblox code. Progression systems, economy balance, UI, and Luau scripts. All from a single prompt.",
+      "description_fr": "SimMint transforme vos idées de jeux de simulation en code Roblox jouable. Systèmes de progression, équilibre économique, interface utilisateur et scripts Luau. Le tout à partir d’une seule invite.",
+      "category": "Sustainability & Green",
+      "website": "https://simmint.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T22:14:18.628782+00:00"
+    },
+    {
+      "name": "SoleMap — Reflexology Insoles Mapped to Your Feet",
+      "slug": "polsia-solemap",
+      "description": "SoleMap uses your phone camera to scan your feet, maps reflexology pressure points specific to you, and builds a custom insole with removable marbles you place exactly where your body needs them.",
+      "description_fr": "SoleMap utilise l'appareil photo de votre téléphone pour scanner vos pieds, cartographie les points de pression de réflexologie qui vous sont spécifiques et construit une semelle intérieure personnalisée avec des billes amovibles que vous placez exactement là où votre corps en a besoin.",
+      "category": "Other",
+      "website": "https://solemap.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T22:14:20.107595+00:00"
+    },
+    {
+      "name": "BlastLocal",
+      "slug": "polsia-blastlocal",
+      "description": "BlastLocal generates a full month of social media posts, email newsletters, and Google ad copy for your business. Tailored to your industry, your location, your promotions. You connect your accounts. We handle the rest.",
+      "description_fr": "BlastLocal génère un mois complet de publications sur les réseaux sociaux, de newsletters par courrier électronique et de textes publicitaires Google pour votre entreprise. Adapté à votre secteur d'activité, votre localisation, vos promotions. Vous connectez vos comptes. Nous nous occupons du reste.",
+      "category": "Marketing & Advertising",
+      "website": "https://blastlocal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T22:14:21.366201+00:00"
+    },
+    {
+      "name": "Clarion — Your Autonomous Data Analyst",
+      "slug": "polsia-clarion-7",
+      "description": "Clarion is building toward a world where every company, regardless of size, has access to the same caliber of data analysis that Fortune 500s pay millions for. Autonomous, rigorous, always on.",
+      "description_fr": "Clarion se dirige vers un monde dans lequel chaque entreprise, quelle que soit sa taille, a accès au même calibre d'analyse de données pour lequel les sociétés Fortune 500 paient des millions. Autonome, rigoureux, toujours en activité.",
+      "category": "Other",
+      "website": "https://clarion-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T22:14:22.066277+00:00"
+    },
+    {
+      "name": "Zenwell",
+      "slug": "polsia-zenwell",
+      "description": "Zenwell brings fitness, nutrition, and mental health into one AI-personalized platform. Because your body, mind, and diet don't operate in silos.",
+      "description_fr": "Zenwell rassemble la forme physique, la nutrition et la santé mentale sur une seule plateforme personnalisée par l'IA. Parce que votre corps, votre esprit et votre alimentation ne fonctionnent pas en silos.",
+      "category": "Health & Wellness",
+      "website": "https://zenwell.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T22:14:23.439891+00:00"
+    },
+    {
+      "name": "MacJam Records — Where Artists Own Their Sound",
+      "slug": "polsia-macjam-records",
+      "description": "Rooted in northern New Jersey, plugged into the NYC music scene. We scout talent from open mics to SoundCloud to basement shows across the tri-state.",
+      "description_fr": "Enraciné dans le nord du New Jersey, connecté à la scène musicale de New York. Nous recherchons des talents, des micros ouverts à SoundCloud en passant par les spectacles en sous-sol à travers les trois États.",
+      "category": "Entertainment & Media",
+      "website": "https://macjam-records.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T22:14:25.434083+00:00"
+    },
+    {
+      "name": "AskSharp",
+      "slug": "polsia-asksharp",
+      "description": "You upload the resume. In 30 seconds, you have 10 questions designed to surface exactly what this specific candidate is trying to hide or inflate. No script survives contact.",
+      "description_fr": "Vous téléchargez le CV. En 30 secondes, vous disposez de 10 questions conçues pour révéler exactement ce que ce candidat spécifique essaie de cacher ou de gonfler. Aucun script ne survit au contact.",
+      "category": "Marketing & Advertising",
+      "website": "https://asksharp.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T22:14:26.858395+00:00"
     }
   ]
 }
