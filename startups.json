@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T08:35:51.211899+00:00",
+  "last_updated": "2026-05-07T10:07:20.903883+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -112375,10 +112375,13 @@
     {
       "name": "UFirestOS",
       "slug": "polsia-ufirestos",
+      "description": "U-Firest puts clients first. UFirestOS puts your operations in order. Compliance tracking, scheduling, client management, and reporting in one place built for how fire safety actually works.",
+      "description_fr": "U-Firest donne la priorité aux clients. UFirestOS met de l'ordre dans vos opérations. Suivi de la conformité, planification, gestion des clients et reporting en un seul endroit, conçu pour le fonctionnement réel de la sécurité incendie.",
+      "category": "Productivity & Automation",
       "website": "https://ufirestos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T07:36:38.843750+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T10:07:20.663614+00:00"
     },
     {
       "name": "Traktion",
@@ -112467,6 +112470,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-07T07:36:48.936931+00:00"
+    },
+    {
+      "name": "LeadWellOS",
+      "slug": "polsia-leadwellos",
+      "website": "https://leadwellos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T10:07:07.599320+00:00"
+    },
+    {
+      "name": "Replai",
+      "slug": "polsia-replai-16",
+      "description": "The businesses winning in East Africa are the ones that never leave a customer waiting. Replai makes that possible without hiring a single person.",
+      "description_fr": "Les entreprises gagnantes en Afrique de l’Est sont celles qui ne laissent jamais attendre leurs clients. Replai rend cela possible sans embaucher une seule personne.",
+      "category": "AI & Machine Learning",
+      "website": "https://replai-16.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T10:07:08.938917+00:00"
+    },
+    {
+      "name": "Vyksta",
+      "slug": "polsia-vyksta",
+      "description": "Open the app and see what's happening right now. Or tonight. Or this weekend. No calendar scrolling, no date pickers. Just \"show me what's on.\"",
+      "description_fr": "Ouvrez l'application et voyez ce qui se passe en ce moment. Ou ce soir. Ou ce week-end. Pas de défilement de calendrier, pas de sélecteur de date. Juste \"montre-moi ce qui se passe\".",
+      "category": "Other",
+      "website": "https://vyksta.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T10:07:10.550780+00:00"
+    },
+    {
+      "name": "ProsperGlobeOS",
+      "slug": "polsia-prosperglobeos",
+      "website": "https://prosperglobeos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T10:07:10.770080+00:00"
+    },
+    {
+      "name": "Peter Testing",
+      "slug": "polsia-petertestos",
+      "description": "From silicon to software stack. We find the bugs that make it to production, the race conditions that only show up at -40C, and the edge cases your internal team missed.",
+      "description_fr": "Du silicium à la pile logicielle. Nous trouvons les bugs qui parviennent à la production, les conditions de course qui n'apparaissent qu'à -40 °C et les cas extrêmes manqués par votre équipe interne.",
+      "category": "Software & SaaS",
+      "website": "https://petertestos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T10:07:12.272570+00:00"
+    },
+    {
+      "name": "Forerun",
+      "slug": "polsia-forerun",
+      "description": "Forerun is the AI project manager that doesn't wait for your standup. It chases updates, catches drift, and surfaces blockers before they cost you a sprint.",
+      "description_fr": "Forerun est le chef de projet IA qui n'attend pas votre stand-up. Il recherche les mises à jour, détecte les dérives et bloque les surfaces avant qu'elles ne vous coûtent un sprint.",
+      "category": "AI & Machine Learning",
+      "website": "https://forerun.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T10:07:13.256386+00:00"
+    },
+    {
+      "name": "Coldcraft",
+      "slug": "polsia-coldcraft-ai-3",
+      "description": "Coldcraft is an AI sales agent that researches your ideal prospects, writes genuinely personalized outreach, follows up with precision, and books meetings on your calendar. No templates. No human SDR needed.",
+      "description_fr": "Coldcraft est un agent commercial IA qui recherche vos prospects idéaux, rédige des communications véritablement personnalisées, assure un suivi avec précision et réserve des réunions sur votre calendrier. Aucun modèle. Aucun SDR humain n’est nécessaire.",
+      "category": "Sales & CRM",
+      "website": "https://coldcraft-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T10:07:14.168736+00:00"
+    },
+    {
+      "name": "ChurnSense",
+      "slug": "polsia-churnsense",
+      "description": "ChurnSense is an AI employee that monitors accounts 24/7, decides interventions, and saves customers autonomously. No dashboards to check. No playbooks to run. It just works.",
+      "description_fr": "ChurnSense est un employé IA qui surveille les comptes 24h/24 et 7j/7, décide des interventions et sauve les clients de manière autonome. Aucun tableau de bord à vérifier. Aucun playbook à exécuter. Cela fonctionne.",
+      "category": "AI & Machine Learning",
+      "website": "https://churnsense.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T10:07:15.689994+00:00"
+    },
+    {
+      "name": "SpectrumScout",
+      "slug": "polsia-spectrumscout",
+      "description": "SpectrumScout exists because a parent relocating to a new duty station shouldn't spend weeks hunting for a new ABA provider. A family planning their first vacation shouldn't wonder if their child will be welcome. One search. Verified results. Peace of mind.",
+      "description_fr": "SpectrumScout existe parce qu'un parent déménageant dans un nouveau lieu d'affectation ne devrait pas passer des semaines à chercher un nouveau prestataire ABA. Une famille qui planifie ses premières vacances ne devrait pas se demander si son enfant sera le bienvenu. Une recherche. Résultats vérifiés. Tranquillité d'esprit.",
+      "category": "Real Estate",
+      "website": "https://spectrumscout.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T10:07:16.776149+00:00"
+    },
+    {
+      "name": "StackVolt",
+      "slug": "polsia-stackvolt",
+      "description": "Every freelancer hits the same wall: more demand than hours. StackVolt breaks that ceiling. Take every project. Deliver on time. Scale without payroll. The future of independent software development runs on AI agents, not headcount.",
+      "description_fr": "Tous les freelances se heurtent au même mur : plus de demandes que d’heures. StackVolt brise ce plafond. Prenez chaque projet. Livrer à temps. Évoluez sans paie. L’avenir du développement de logiciels indépendant repose sur les agents IA, et non sur les effectifs.",
+      "category": "AI & Machine Learning",
+      "website": "https://stackvolt.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T10:07:18.266277+00:00"
     }
   ]
 }
