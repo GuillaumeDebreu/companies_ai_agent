@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T16:29:57.177713+00:00",
+  "last_updated": "2026-05-07T18:11:12.784028+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -112801,26 +112801,35 @@
     {
       "name": "DailyGrindOS",
       "slug": "polsia-dailygrindos",
+      "description": "The command center for specialty coffee founders. Track sales, monitor competitors, predict reorders, and grow your brand while you focus on what matters: the perfect roast.",
+      "description_fr": "Le centre de commande pour les fondateurs de cafés de spécialité. Suivez les ventes, surveillez les concurrents, prévoyez les réapprovisionnements et développez votre marque tout en vous concentrant sur ce qui compte : la torréfaction parfaite.",
+      "category": "Marketing & Advertising",
       "website": "https://dailygrindos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T16:29:45.638698+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T18:11:09.614679+00:00"
     },
     {
       "name": "Ember Lounge",
       "slug": "polsia-ember-lounge",
+      "description": "Every element of Ember Lounge is designed for adults who know what they like. \n                No overpriced bottle service. No velvet-rope pretension. Just a warm room, your favorite bottle, \n                curated flavors in the hookah, food worth ordering, and a DJ who reads the room.",
+      "description_fr": "Chaque élément d'Ember Lounge est conçu pour les adultes qui savent ce qu'ils aiment. \n                Pas de service de bouteilles trop cher. Aucune prétention de corde de velours. Juste une pièce chaude, ta bouteille préférée, \n                des saveurs sélectionnées dans le narguilé, des plats à commander et un DJ qui lit la salle.",
+      "category": "Food & Beverage",
       "website": "https://ember-lounge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T16:29:46.005749+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T18:11:10.664697+00:00"
     },
     {
-      "name": "ToolRanked",
+      "name": "ToolRanked — AI Marketing Tools, Tested and Compared",
       "slug": "polsia-toolranked",
+      "description": "Deep, unbiased comparisons of AI marketing tools. We test the tools so you don't have to. Find the right AI stack for your marketing team.",
+      "description_fr": "Comparaisons approfondies et impartiales des outils marketing de l'IA. Nous testons les outils pour que vous n'ayez pas à le faire. Trouvez la bonne pile d'IA pour votre équipe marketing.",
+      "category": "AI & Machine Learning",
       "website": "https://toolranked.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T16:29:46.176213+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T18:11:11.649446+00:00"
     },
     {
       "name": "GuardDog",
@@ -112834,12 +112843,15 @@
       "scraped_at": "2026-05-07T16:29:47.298293+00:00"
     },
     {
-      "name": "Quarryline",
+      "name": "Quarryline — Your Pipeline, Mined While You Sleep",
       "slug": "polsia-quarryline",
+      "description": "Quarryline scans your target market, identifies decision-makers, and builds deep profiles. Company news, tech stack, hiring signals, recent funding. Every prospect gets researched before a single word is written.",
+      "description_fr": "Quarryline analyse votre marché cible, identifie les décideurs et crée des profils approfondis. Actualités de l'entreprise, pile technologique, signaux d'embauche, financement récent. Chaque prospect fait l’objet d’une recherche avant qu’un seul mot ne soit écrit.",
+      "category": "Sales & CRM",
       "website": "https://quarryline.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T16:29:47.545560+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T18:11:12.244538+00:00"
     },
     {
       "name": "CoproPilote — Votre copropriété mérite ses aides",
@@ -112895,6 +112907,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-07T16:29:53.533886+00:00"
+    },
+    {
+      "name": "SunuVoix",
+      "slug": "polsia-sunuvoix",
+      "website": "https://sunuvoix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T18:10:58.477168+00:00"
+    },
+    {
+      "name": "MerchFlow",
+      "slug": "polsia-merchflow-4",
+      "website": "https://merchflow-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T18:10:58.770334+00:00"
+    },
+    {
+      "name": "GraceExit",
+      "slug": "polsia-graceexit",
+      "website": "https://graceexit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T18:10:58.923878+00:00"
+    },
+    {
+      "name": "MikesVendOS",
+      "slug": "polsia-mikesvendos",
+      "description": "MikesVendOS replaces spreadsheets, gut instinct, and manual tracking with a single operations layer for your vending business. Know what's selling, what needs restocking, and where to grow next.",
+      "description_fr": "MikesVendOS remplace les feuilles de calcul, l'instinct et le suivi manuel par une seule couche d'opérations pour votre entreprise de distribution automatique. Sachez ce qui se vend, ce qui doit être réapprovisionné et où vous développer ensuite.",
+      "category": "Other",
+      "website": "https://mikesvendos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T18:10:59.723266+00:00"
+    },
+    {
+      "name": "ReelShelf — Done",
+      "slug": "polsia-reelshelf",
+      "description": "ReelShelf is a done-for-you TikTok Shop agency. We create the content, manage the creators, and drive the sales. You keep building your brand.",
+      "description_fr": "ReelShelf est une agence TikTok Shop faite pour vous. Nous créons le contenu, gérons les créateurs et gérons les ventes. Vous continuez à construire votre marque.",
+      "category": "E-Commerce & Retail",
+      "website": "https://reelshelf.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T18:11:00.829617+00:00"
+    },
+    {
+      "name": "Letsatsi Power — Solar Energy for Lesotho",
+      "slug": "polsia-letsatsi-power",
+      "description": "Letsatsi Power sells and installs solar panels, backup batteries, inverters, and solar water heaters for homes and businesses across Lesotho. Reliable electricity, no grid required.",
+      "description_fr": "Letsatsi Power vend et installe des panneaux solaires, des batteries de secours, des onduleurs et des chauffe-eau solaires pour les maisons et les entreprises du Lesotho. Électricité fiable, aucun réseau requis.",
+      "category": "Sustainability & Green",
+      "website": "https://letsatsi-power.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T18:11:01.775225+00:00"
+    },
+    {
+      "name": "ToolScout",
+      "slug": "polsia-toolscout-ai",
+      "description": "Every tool gets tested. Real usage, not just a homepage screenshot. ToolScout checks free tiers, API quality, actual output, and catches the tools that look good but don't deliver.",
+      "description_fr": "Chaque outil est testé. Utilisation réelle, pas seulement une capture d'écran de la page d'accueil. ToolScout vérifie les niveaux gratuits, la qualité de l'API, le résultat réel et détecte les outils qui semblent bons mais ne fonctionnent pas.",
+      "category": "Software & SaaS",
+      "website": "https://toolscout-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T18:11:03.312908+00:00"
+    },
+    {
+      "name": "FulfillEdge",
+      "slug": "polsia-fulfilledge",
+      "description": "FulfillEdge combines AI-driven pricing intelligence, vendor relationship management, and advertising optimization into one platform built for mid-market Amazon sellers.",
+      "description_fr": "FulfillEdge combine l'intelligence des prix basée sur l'IA, la gestion des relations avec les fournisseurs et l'optimisation de la publicité dans une seule plate-forme conçue pour les vendeurs Amazon de taille moyenne.",
+      "category": "Software & SaaS",
+      "website": "https://fulfilledge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T18:11:04.909316+00:00"
+    },
+    {
+      "name": "Coldcraft — Outreach that deserves a reply",
+      "slug": "polsia-coldcraft-53",
+      "description": "Researches each prospect's recent work, company news, and public signals. Writes one email worth reading. Follows up intelligently. Books meetings that actually happen.",
+      "description_fr": "Recherche les travaux récents de chaque prospect, les actualités de l'entreprise et les signaux publics. Écrit un e-mail qui mérite d'être lu. Effectue un suivi intelligent. Réservez des réunions qui ont réellement lieu.",
+      "category": "Sales & CRM",
+      "website": "https://coldcraft-53.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T18:11:05.883356+00:00"
+    },
+    {
+      "name": "PrivaLens — AI",
+      "slug": "polsia-privalens",
+      "description": "PrivaLens is an autonomous AI agent that monitors your data practices, identifies DPDP Act gaps, and runs compliance audits around the clock. Not a dashboard you have to check. An employee that works while you don't.",
+      "description_fr": "PrivaLens est un agent d'IA autonome qui surveille vos pratiques en matière de données, identifie les lacunes de la loi DPDP et effectue des audits de conformité 24 heures sur 24. Ce n'est pas un tableau de bord que vous devez vérifier. Un employé qui travaille pendant que vous ne le faites pas.",
+      "category": "AI & Machine Learning",
+      "website": "https://privalens.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T18:11:06.901061+00:00"
     }
   ]
 }
