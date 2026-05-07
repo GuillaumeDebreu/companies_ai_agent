@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T02:58:37.462015+00:00",
+  "last_updated": "2026-05-07T04:50:21.268300+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -112155,10 +112155,13 @@
     {
       "name": "Discerno",
       "slug": "polsia-discerno",
+      "description": "Every piece of content is analyzed for manipulation tactics, logical fallacies, framing bias, and reasoning gaps. No paste-and-analyze. No manual effort.",
+      "description_fr": "Chaque élément de contenu est analysé pour détecter les tactiques de manipulation, les erreurs logiques, les biais de cadrage et les lacunes de raisonnement. Pas de collage et d'analyse. Aucun effort manuel.",
+      "category": "Entertainment & Media",
       "website": "https://discerno.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T01:20:57.635033+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T04:50:21.171847+00:00"
     },
     {
       "name": "CreatorLaunch",
@@ -112247,6 +112250,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-07T01:21:07.648292+00:00"
+    },
+    {
+      "name": "Mr Poolman",
+      "slug": "polsia-mr-poolman",
+      "website": "https://mr-poolman.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T04:50:10.274947+00:00"
+    },
+    {
+      "name": "VanityOS",
+      "slug": "polsia-vanityos",
+      "description": "VanityOS combines outfit analysis, makeup suggestions, skincare tracking, and weather-aware styling into a single luxury interface. The operating system for getting ready.",
+      "description_fr": "VanityOS combine l'analyse des tenues, les suggestions de maquillage, le suivi des soins de la peau et le style en fonction de la météo dans une seule interface de luxe. Le système d'exploitation pour se préparer.",
+      "category": "Other",
+      "website": "https://vanityos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T04:50:11.092421+00:00"
+    },
+    {
+      "name": "Coldarc",
+      "slug": "polsia-coldarc",
+      "website": "https://coldarc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T04:50:11.211407+00:00"
+    },
+    {
+      "name": "MaxEffortOS",
+      "slug": "polsia-maxeffortos",
+      "description": "Max Effort Gear is the brand customers see. MaxEffortOS is the engine underneath. Built to scale a fitness accessories brand from a curated Shopify store to a global e-commerce operation, with one founder at the controls.",
+      "description_fr": "Max Effort Gear est la marque que les clients voient. MaxEffortOS est le moteur en dessous. Conçu pour faire évoluer une marque d'accessoires de fitness d'une boutique Shopify organisée à une opération mondiale de commerce électronique, avec un fondateur aux commandes.",
+      "category": "E-Commerce & Retail",
+      "website": "https://maxeffortos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T04:50:12.292336+00:00"
+    },
+    {
+      "name": "OathOS — The Operating System for O.ATH",
+      "slug": "polsia-oathos",
+      "description": "OathOS handles the operational weight so the Graeb family can focus on what they do best: making athletic gear that's actually good for the people wearing it. Hemp, organic cotton, clean supplements, real training. No shortcuts.",
+      "description_fr": "OathOS gère le poids opérationnel afin que la famille Graeb puisse se concentrer sur ce qu'elle fait de mieux : fabriquer des équipements de sport qui sont réellement bons pour ceux qui les portent. Chanvre, coton biologique, suppléments propres, véritable entraînement. Aucun raccourci.",
+      "category": "Education",
+      "website": "https://oathos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T04:50:13.568680+00:00"
+    },
+    {
+      "name": "LeaseVet",
+      "slug": "polsia-leasevet",
+      "description": "They're not reckless. Legal review costs $2,000-5,000 per lease and takes weeks. LeaseVet gives you the critical insights in minutes, not the ones that pad billable hours.",
+      "description_fr": "Ils ne sont pas imprudents. L'examen juridique coûte entre 2 000 et 5 000 $ par bail et prend des semaines. LeaseVet vous donne des informations essentielles en quelques minutes, pas celles qui comptabilisent les heures facturables.",
+      "category": "Marketing & Advertising",
+      "website": "https://leasevet.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T04:50:14.806924+00:00"
+    },
+    {
+      "name": "Clipeo",
+      "slug": "polsia-clipeo",
+      "description": "Tu barberia, gimnasio, restaurante o tienda genera Reels y TikToks listos para publicar en 30 segundos. Sin editar. Sin grabar. Sin agencia.",
+      "description_fr": "Votre salon de coiffure, gymnase, restaurant ou boutique genres Reels et TikToks listes à publier en 30 secondes. Sans éditeur. Sin grabar. Sans agence.",
+      "category": "Food & Beverage",
+      "website": "https://clipeo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T04:50:16.160443+00:00"
+    },
+    {
+      "name": "Easelworks",
+      "slug": "polsia-easelworks",
+      "description": "Easelworks is the AI employee that runs the business side of your art practice. Commissions, gallery outreach, collector relationships, marketing. All handled autonomously while you focus on creating.",
+      "description_fr": "Easelworks est l'employé de l'IA qui gère l'aspect commercial de votre pratique artistique. Commandes, sensibilisation des galeries, relations avec les collectionneurs, marketing. Tout est géré de manière autonome pendant que vous vous concentrez sur la création.",
+      "category": "AI & Machine Learning",
+      "website": "https://easelworks.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T04:50:16.703945+00:00"
+    },
+    {
+      "name": "HireWave",
+      "slug": "polsia-hirewave-5",
+      "description": "HireWave monitors freelance platforms 24/7, crafts personalized proposals, and wins clients for you. Not a tool you use. An employee that works while you deliver.",
+      "description_fr": "HireWave surveille les plateformes de freelance 24h/24 et 7j/7, élabore des propositions personnalisées et gagne des clients pour vous. Ce n'est pas un outil que vous utilisez. Un employé qui travaille pendant que vous livrez.",
+      "category": "Software & SaaS",
+      "website": "https://hirewave-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T04:50:18.087311+00:00"
+    },
+    {
+      "name": "Nullcraft — Minimal Digital Products",
+      "slug": "polsia-nullcraft",
+      "description": "Apps, templates, and books on AI, security, and technology. \n            Every product designed with restraint. Nothing decorative. Everything functional.",
+      "description_fr": "Applications, modèles et livres sur l'IA, la sécurité et la technologie. \n            Chaque produit conçu avec retenue. Rien de décoratif. Tout est fonctionnel.",
+      "category": "AI & Machine Learning",
+      "website": "https://nullcraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T04:50:19.573930+00:00"
     }
   ]
 }
