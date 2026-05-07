@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T19:44:52.131137+00:00",
+  "last_updated": "2026-05-07T19:55:29.300050+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -112909,12 +112909,15 @@
       "scraped_at": "2026-05-07T16:29:53.533886+00:00"
     },
     {
-      "name": "SunuVoix",
+      "name": "SunuVoix — La voix de la diaspora pour Diomaye",
       "slug": "polsia-sunuvoix",
+      "description": "En mars 2024, la diaspora sénégalaise a été le bras financier et la voix internationale qui a porté Bassirou Diomaye Faye à la présidence dès le premier tour. Mais cette énergie n'a pas de structure en Amérique du Nord.Le RGSC reste apolitique. Les sections Pastef de la diaspora se sont alignées ailleurs. Personne ne construit un espace dédié au soutien du Président Diomaye au Canada. Jusqu'à maintenant.",
+      "description_fr": "En mars 2024, la diaspora sénégalaise a été le bras financier et la voix internationale qui a porté Bassirou Diomaye Faye à la présidence dès le premier tour. Mais cette énergie n'a pas de structure en Amérique du Nord. Le RGSC reste apolitique. Les sections Pastef de la diaspora se sont alignées ailleurs. Personne n'a construit un espace dédié au soutien du Président Diomaye au Canada. Jusqu'à maintenant.",
+      "category": "AI & Machine Learning",
       "website": "https://sunuvoix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T18:10:58.477168+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T19:55:26.590199+00:00"
     },
     {
       "name": "MerchFlow",
@@ -112927,10 +112930,13 @@
     {
       "name": "GraceExit",
       "slug": "polsia-graceexit",
+      "description": "Most people navigate the biggest financial and emotional event of their adult lives with scattered documents, expensive billable hours, and zero emotional support infrastructure. The system wasn't built to help you. GraceExit was.",
+      "description_fr": "La plupart des gens traversent le plus grand événement financier et émotionnel de leur vie d’adulte avec des documents dispersés, des heures facturables coûteuses et aucune infrastructure de soutien émotionnel. Le système n'a pas été conçu pour vous aider. GraceExit était.",
+      "category": "Finance & Fintech",
       "website": "https://graceexit.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T18:10:58.923878+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T19:55:28.520112+00:00"
     },
     {
       "name": "MikesVendOS",
@@ -113008,6 +113014,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-07T18:11:06.901061+00:00"
+    },
+    {
+      "name": "BoostBase",
+      "slug": "polsia-boostbase",
+      "website": "https://boostbase.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T19:55:14.876368+00:00"
+    },
+    {
+      "name": "AverionOS",
+      "slug": "polsia-averionos",
+      "website": "https://averionos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T19:55:15.066662+00:00"
+    },
+    {
+      "name": "MultiPeps",
+      "slug": "polsia-multipeps",
+      "website": "https://multipeps.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T19:55:15.429952+00:00"
+    },
+    {
+      "name": "VibeLoom",
+      "slug": "polsia-vibeloom",
+      "website": "https://vibeloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T19:55:15.668119+00:00"
+    },
+    {
+      "name": "AIMultipleOS",
+      "slug": "polsia-aimultipleos",
+      "description": "AIMultiple was built through discipline, not funding. Every article, every data point, every citation earned. AIMultipleOS is the operational layer that lets the platform scale faster without losing what made it trusted in the first place.",
+      "description_fr": "AIMultiple a été construit grâce à la discipline et non au financement. Chaque article, chaque point de données, chaque citation gagnée. AIMultipleOS est la couche opérationnelle qui permet à la plate-forme d'évoluer plus rapidement sans perdre ce qui lui a valu la confiance en premier lieu.",
+      "category": "Software & SaaS",
+      "website": "https://aimultipleos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T19:55:16.663311+00:00"
+    },
+    {
+      "name": "ScrollSnap",
+      "slug": "polsia-scrollsnap",
+      "description": "ScrollSnap builds and runs complete content systems for businesses that want TikToks, Reels, and Shorts without the headache of learning algorithms, editing software, or performing on camera.",
+      "description_fr": "ScrollSnap crée et gère des systèmes de contenu complets pour les entreprises qui souhaitent des TikToks, des Reels et des Shorts sans avoir à se soucier de l'apprentissage d'algorithmes, de logiciels d'édition ou de performances devant une caméra.",
+      "category": "Software & SaaS",
+      "website": "https://scrollsnap.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T19:55:18.057547+00:00"
+    },
+    {
+      "name": "GlabaOS",
+      "slug": "polsia-glabaos",
+      "description": "Most consultants are inefficient at delivering efficiency. They use 8 different tools, spend 40% of their time on admin, and deliver insights through static presentations that get filed away and forgotten.GlabaOS exists because the people who fix businesses deserve a system that actually works.",
+      "description_fr": "La plupart des consultants ne parviennent pas à assurer l’efficacité. Ils utilisent 8 outils différents, consacrent 40 % de leur temps à l'administration et fournissent des informations via des présentations statiques qui sont classées et oubliées. GlabaOS existe parce que les personnes qui réparent les entreprises méritent un système qui fonctionne réellement.",
+      "category": "Real Estate",
+      "website": "https://glabaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T19:55:19.503157+00:00"
+    },
+    {
+      "name": "VerdiGrow",
+      "slug": "polsia-verdigrow",
+      "description": "The future of food isn't in distant warehouses or massive greenhouses. It's on the building where you live, the restaurant where you eat, the school where your children learn. VerdiGrow is building that future, one module at a time, starting from the south of France.",
+      "description_fr": "L’avenir de l’alimentation ne réside pas dans des entrepôts éloignés ou dans d’immenses serres. C'est sur l'immeuble où vous habitez, le restaurant où vous mangez, l'école où vos enfants apprennent. VerdiGrow construit cet avenir, un module à la fois, en commençant par le sud de la France.",
+      "category": "Food & Beverage",
+      "website": "https://verdigrow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T19:55:20.624979+00:00"
+    },
+    {
+      "name": "BeatStash",
+      "slug": "polsia-beatstash",
+      "description": "Build a list. When you drop new beats, your buyers know. No algorithm deciding who sees your work. Direct line to the artists who want your sound.",
+      "description_fr": "Construisez une liste. Lorsque vous lancez de nouveaux rythmes, vos acheteurs le savent. Aucun algorithme ne décide qui voit votre travail. Ligne directe vers les artistes qui veulent votre son.",
+      "category": "Other",
+      "website": "https://beatstash.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T19:55:22.170456+00:00"
+    },
+    {
+      "name": "Parlo — Your AI Front Office",
+      "slug": "polsia-parlo-40",
+      "description": "Parlo answers every call, books every appointment, and follows up with every customer. 24 hours a day, 7 days a week. Your business never misses another opportunity.",
+      "description_fr": "Parlo répond à chaque appel, prend chaque rendez-vous et assure le suivi de chaque client. 24 heures sur 24, 7 jours sur 7. Votre entreprise ne manque jamais une autre opportunité.",
+      "category": "AI & Machine Learning",
+      "website": "https://parlo-40.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T19:55:23.709709+00:00"
     }
   ]
 }
