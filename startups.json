@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T14:13:25.710429+00:00",
+  "last_updated": "2026-05-07T14:47:20.223854+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -112603,10 +112603,13 @@
     {
       "name": "DropScene",
       "slug": "polsia-dropscene",
+      "description": "DropScene bridges two worlds that have always been connected but never shared a shelf. Streetwear next to the records that inspired it. Film next to the fits it influenced. Every product tells a story. Every drop has a soundtrack.",
+      "description_fr": "DropScene relie deux mondes qui ont toujours été connectés mais qui n'ont jamais partagé une étagère. Du streetwear à côté des disques qui l'ont inspiré. Filmer à côté des crises qu'il a influencées. Chaque produit raconte une histoire. Chaque goutte a une bande sonore.",
+      "category": "Sustainability & Green",
       "website": "https://dropscene.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T12:04:46.528771+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T14:47:20.179845+00:00"
     },
     {
       "name": "BrentomeOS",
@@ -112684,6 +112687,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-07T12:04:57.782561+00:00"
+    },
+    {
+      "name": "StorePilot",
+      "slug": "polsia-storepilot-12",
+      "website": "https://storepilot-12.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T14:47:06.617294+00:00"
+    },
+    {
+      "name": "DukaWise",
+      "slug": "polsia-dukawise",
+      "description": "DukaWise exists because 7 million Kenyan business owners deserve the same quality advice that big companies pay consultants millions for. Your hustle is real. Now your tools should be too.",
+      "description_fr": "DukaWise existe parce que 7 millions de propriétaires d’entreprises kenyanes méritent les mêmes conseils de qualité pour lesquels les grandes entreprises paient des millions de consultants. Votre agitation est réelle. Maintenant, vos outils devraient l’être aussi.",
+      "category": "Other",
+      "website": "https://dukawise.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T14:47:08.234532+00:00"
+    },
+    {
+      "name": "ThreadPilot",
+      "slug": "polsia-threadpilot-21",
+      "description": "Every AI decision is tuned for local context: pricing for the SA market, logistics for SA infrastructure, curation that understands what Johannesburg, Cape Town, and Durban actually want to wear.",
+      "description_fr": "Chaque décision en matière d'IA est adaptée au contexte local : tarification pour le marché sud-africain, logistique pour l'infrastructure sud-africaine, organisation qui comprend ce que Johannesburg, Le Cap et Durban veulent réellement porter.",
+      "category": "AI & Machine Learning",
+      "website": "https://threadpilot-21.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T14:47:09.138024+00:00"
+    },
+    {
+      "name": "BriefDraft — AI Legal Document Automation for Small Firms",
+      "slug": "polsia-briefdraft",
+      "description": "BriefDraft is building the document automation layer that solo attorneys and small firms have been waiting for. No enterprise pricing, no bloated practice management suite. Just fast, accurate, jurisdiction-aware legal documents.",
+      "description_fr": "BriefDraft construit la couche d'automatisation des documents que les avocats indépendants et les petits cabinets attendaient. Pas de tarification d'entreprise, pas de suite de gestion de cabinet gonflée. Juste des documents juridiques rapides, précis et tenant compte de la juridiction.",
+      "category": "AI & Machine Learning",
+      "website": "https://briefdraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T14:47:10.358964+00:00"
+    },
+    {
+      "name": "StoneTrail",
+      "slug": "polsia-stonetrail",
+      "description": "StoneTrail started with petrified wood because nobody was doing it well online. But the real play is bigger: a marketplace where anyone can bring their interesting stuff and walk away with cash, no listing required.",
+      "description_fr": "StoneTrail a commencé avec du bois pétrifié parce que personne ne le faisait bien en ligne. Mais le véritable objectif est plus vaste : un marché où chacun peut apporter ses produits intéressants et repartir avec de l'argent, sans aucune inscription requise.",
+      "category": "E-Commerce & Retail",
+      "website": "https://stonetrail.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T14:47:11.591271+00:00"
+    },
+    {
+      "name": "NightOwl — Your Business Never Sleeps",
+      "slug": "polsia-nightowl-ai-23",
+      "description": "NightOwl is an autonomous AI agent that handles your emails, follow-ups, and scheduling around the clock. You wake up to a briefing of everything it handled overnight.",
+      "description_fr": "NightOwl est un agent IA autonome qui gère vos e-mails, vos suivis et votre planification 24 heures sur 24. Vous vous réveillez avec un briefing de tout ce qu'il a géré pendant la nuit.",
+      "category": "AI & Machine Learning",
+      "website": "https://nightowl-ai-23.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T14:47:12.941147+00:00"
+    },
+    {
+      "name": "NeonTerminal — AI",
+      "slug": "polsia-neonterminal",
+      "description": "Fuses RSI, MACD, Fibonacci, Smart Money Concepts, and Order Block analysis with news sentiment and institutional flow data. Outputs entry points, stop losses, take profits, and a confidence score you can actually trade on.",
+      "description_fr": "Fusionne l'analyse RSI, MACD, Fibonacci, Smart Money Concepts et Order Block avec le sentiment d'actualité et les données de flux institutionnels. Produit des points d'entrée, des stop loss, des take profits et un score de confiance sur lequel vous pouvez réellement négocier.",
+      "category": "AI & Machine Learning",
+      "website": "https://neonterminal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T14:47:14.512638+00:00"
+    },
+    {
+      "name": "Calltrac",
+      "slug": "polsia-calltrac",
+      "description": "Calltrac makes sure the next call you miss is the last lead you lose. Your phone rings, you're busy, and we handle everything from first text to booked estimate. The contractor who responds first wins the job. That contractor is about to be you.",
+      "description_fr": "Calltrac s'assure que le prochain appel que vous manquerez sera le dernier prospect que vous perdrez. Votre téléphone sonne, vous êtes occupé et nous nous occupons de tout, du premier SMS au devis réservé. L'entrepreneur qui répond en premier remporte le travail. Cet entrepreneur est sur le point d’être vous.",
+      "category": "Marketing & Advertising",
+      "website": "https://calltrac.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T14:47:15.634882+00:00"
+    },
+    {
+      "name": "LoreMind — AI Campaign Engine for Game Masters",
+      "slug": "polsia-loremind",
+      "description": "LoreMind is an AI campaign engine that autonomously builds worlds, breathes life into NPCs, balances encounters, and prepares your sessions. Not a replacement for the GM. A tireless partner.",
+      "description_fr": "LoreMind est un moteur de campagne d'IA qui construit de manière autonome des mondes, donne vie aux PNJ, équilibre les rencontres et prépare vos sessions. Ce n'est pas un remplacement pour le GM. Un partenaire infatigable.",
+      "category": "AI & Machine Learning",
+      "website": "https://loremind.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T14:47:16.764502+00:00"
+    },
+    {
+      "name": "SixThread",
+      "slug": "polsia-sixthread",
+      "description": "SixThread exists because we believe clothes should earn their place in your closet. Every piece we make is designed to be reached for again and again. Quality fabrics, considered cuts, no filler.",
+      "description_fr": "SixThread existe parce que nous pensons que les vêtements doivent gagner leur place dans votre garde-robe. Chaque pièce que nous fabriquons est conçue pour être utilisée encore et encore. Tissus de qualité, coupes réfléchies, sans bourrage.",
+      "category": "Marketing & Advertising",
+      "website": "https://sixthread.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T14:47:17.853445+00:00"
     }
   ]
 }
