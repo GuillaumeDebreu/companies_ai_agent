@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T10:07:20.903883+00:00",
+  "last_updated": "2026-05-07T12:05:01.100057+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -112474,10 +112474,13 @@
     {
       "name": "LeadWellOS",
       "slug": "polsia-leadwellos",
+      "description": "LeadWellOS is the operating system for advisory firms that don't deliver frameworks and leave. It's for the ones who stay until the rhythm holds.",
+      "description_fr": "LeadWellOS est le système d'exploitation destiné aux sociétés de conseil qui ne fournissent pas de frameworks et partent. C'est pour ceux qui restent jusqu'à ce que le rythme tienne.",
+      "category": "Sales & CRM",
       "website": "https://leadwellos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T10:07:07.599320+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-07T12:05:00.820435+00:00"
     },
     {
       "name": "Replai",
@@ -112574,6 +112577,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-07T10:07:18.266277+00:00"
+    },
+    {
+      "name": "RigWorks",
+      "slug": "polsia-rigworks",
+      "description": "Every build starts with a conversation about what you actually need. Gaming? Music production? Video editing? The hardware matches the workflow.",
+      "description_fr": "Chaque build commence par une conversation sur ce dont vous avez réellement besoin. Des jeux ? Production musicale ? Montage vidéo ? Le matériel correspond au flux de travail.",
+      "category": "Entertainment & Media",
+      "website": "https://rigworks.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T12:04:44.456749+00:00"
+    },
+    {
+      "name": "DeviPrintOS",
+      "slug": "polsia-deviprintos",
+      "description": "DeviPrintOS is the bridge. Your craft stays physical. Your operations go digital. The combination is unbeatable by anyone selling only one or the other.",
+      "description_fr": "DeviPrintOS est le pont. Votre métier reste physique. Vos opérations passent au numérique. La combinaison est imbattable par quiconque ne vend que l’un ou l’autre.",
+      "category": "Other",
+      "website": "https://deviprintos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T12:04:46.179253+00:00"
+    },
+    {
+      "name": "DropScene",
+      "slug": "polsia-dropscene",
+      "website": "https://dropscene.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-07T12:04:46.528771+00:00"
+    },
+    {
+      "name": "BrentomeOS",
+      "slug": "polsia-brentomeos",
+      "description": "The best consultants spend too much time managing their firm \n            and not enough time advising clients. BrentomeOS changes that equation. \n            Deep domain knowledge deserves infrastructure that matches.",
+      "description_fr": "Les meilleurs consultants passent trop de temps à gérer leur cabinet \n            et pas assez de temps pour conseiller les clients. BrentomeOS change cette équation. \n            Une connaissance approfondie du domaine mérite une infrastructure adaptée.",
+      "category": "Real Estate",
+      "website": "https://brentomeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T12:04:47.972787+00:00"
+    },
+    {
+      "name": "TableTurn",
+      "slug": "polsia-tableturn-2",
+      "description": "TableTurn gives independent restaurants the same marketing firepower as national chains, without the team, the budget, or the headache. One AI. Always on. Always growing your business.",
+      "description_fr": "TableTurn donne aux restaurants indépendants la même puissance de feu marketing que les chaînes nationales, sans l'équipe, le budget ou les maux de tête. Une IA. Toujours allumé. Développez toujours votre entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://tableturn-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T12:04:49.737235+00:00"
+    },
+    {
+      "name": "Asset Recovery Plus",
+      "slug": "polsia-recoveryplusos",
+      "description": "Every year, millions in surplus funds go unclaimed in Florida because property owners don't know the money exists. Asset Recovery Plus exists to change that.",
+      "description_fr": "Chaque année, des millions de fonds excédentaires ne sont pas réclamés en Floride parce que les propriétaires ne savent pas que cet argent existe. Asset Recovery Plus existe pour changer cela.",
+      "category": "Real Estate",
+      "website": "https://recoveryplusos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T12:04:51.429069+00:00"
+    },
+    {
+      "name": "BuildHive",
+      "slug": "polsia-buildhive-3",
+      "description": "BuildHive is an AI-native development agency. No developers, no sprints, no delays. Autonomous agents scope, build, test, and ship your software from a single project brief.",
+      "description_fr": "BuildHive est une agence de développement native de l'IA. Pas de développeurs, pas de sprints, pas de retards. Des agents autonomes définissent, construisent, testent et expédient votre logiciel à partir d'un seul brief de projet.",
+      "category": "AI & Machine Learning",
+      "website": "https://buildhive-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T12:04:53.300792+00:00"
+    },
+    {
+      "name": "LiftCortex",
+      "slug": "polsia-liftcortex",
+      "description": "LiftCortex is an AI that programs, coaches, and adapts your training every single day. Not a workout generator. A full-time training intelligence that knows your body, your goals, and your limits.",
+      "description_fr": "LiftCortex est une IA qui programme, coache et adapte votre entraînement chaque jour. Pas un générateur d'entraînement. Une intelligence d'entraînement à plein temps qui connaît votre corps, vos objectifs et vos limites.",
+      "category": "AI & Machine Learning",
+      "website": "https://liftcortex.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T12:04:54.629199+00:00"
+    },
+    {
+      "name": "SparkLocal",
+      "slug": "polsia-sparklocal",
+      "description": "AI handles the production. Strategy stays human. Your business gets the content it deserves, without the agency price tag, without the freelancer flakiness, without the \"I'll post tomorrow\" that never comes.",
+      "description_fr": "L'IA gère la production. La stratégie reste humaine. Votre entreprise obtient le contenu qu'elle mérite, sans le prix de l'agence, sans la fragilité du freelance, sans le « Je publierai demain » qui n'arrive jamais.",
+      "category": "AI & Machine Learning",
+      "website": "https://sparklocal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T12:04:56.368536+00:00"
+    },
+    {
+      "name": "PranaDesk",
+      "slug": "polsia-pranadesk-2",
+      "description": "PranaDesk is an AI agent that manages your entire yoga business autonomously. Bookings, student communication, personalized plans, payments, scheduling. You focus on the mat. It handles the desk.",
+      "description_fr": "PranaDesk est un agent IA qui gère l'ensemble de votre activité de yoga de manière autonome. Réservations, communication avec les étudiants, plans personnalisés, paiements, planification. Vous vous concentrez sur le tapis. Il gère le bureau.",
+      "category": "AI & Machine Learning",
+      "website": "https://pranadesk-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-07T12:04:57.782561+00:00"
     }
   ]
 }
