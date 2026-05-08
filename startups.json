@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T21:12:51.772612+00:00",
+  "last_updated": "2026-05-08T22:12:42.568194+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -114750,10 +114750,13 @@
     {
       "name": "Tropiq",
       "slug": "polsia-tropiq-2",
+      "description": "Tropiq handles tourist inquiries, builds personalized itineraries,\n            coordinates drivers and hotels, and manages bookings. Autonomously. 24/7.",
+      "description_fr": "Tropiq traite les demandes touristiques, construit des itinéraires personnalisés,\n            coordonne les chauffeurs et les hôtels et gère les réservations. De manière autonome. 24h/24 et 7j/7.",
+      "category": "Travel & Hospitality",
       "website": "https://tropiq-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-08T21:12:35.952213+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-08T22:12:42.566398+00:00"
     },
     {
       "name": "LineVault",
@@ -114853,6 +114856,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-08T21:12:47.983397+00:00"
+    },
+    {
+      "name": "StaySpread",
+      "slug": "polsia-stayspread",
+      "description": "We lease premium apartments in Johannesburg's highest-demand neighborhoods, furnish them to hotel standards, and list them on Airbnb and VRBO. The nightly rate exceeds the lease cost. We keep the difference.",
+      "description_fr": "Nous louons des appartements haut de gamme dans les quartiers les plus demandés de Johannesburg, les fournissons selon les normes hôtelières et les répertorions sur Airbnb et VRBO. Le tarif par nuit dépasse le coût de la location. On garde la différence.",
+      "category": "Travel & Hospitality",
+      "website": "https://stayspread.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T22:12:29.129779+00:00"
+    },
+    {
+      "name": "Tonpilot",
+      "slug": "polsia-tonpilot",
+      "description": "Tonpilot is an autonomous AI agent that pitches curators, contacts press, tracks placements, and grows your audience. It works while you make music.",
+      "description_fr": "Tonpilot est un agent d'IA autonome qui présente les conservateurs, contacte la presse, suit les placements et élargit votre audience. Cela fonctionne pendant que vous faites de la musique.",
+      "category": "AI & Machine Learning",
+      "website": "https://tonpilot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T22:12:30.064469+00:00"
+    },
+    {
+      "name": "BuildCraft Studio",
+      "slug": "polsia-buildcraft-studio",
+      "description": "BuildCraft Studio brings media creation, engineering drafting, and transportation under one roof. Built for construction firms and businesses who are tired of managing multiple vendors.",
+      "description_fr": "BuildCraft Studio rassemble la création multimédia, la rédaction technique et le transport sous un même toit. Conçu pour les entreprises de construction et les entreprises qui en ont assez de gérer plusieurs fournisseurs.",
+      "category": "Entertainment & Media",
+      "website": "https://buildcraft-studio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T22:12:31.083466+00:00"
+    },
+    {
+      "name": "Mean it Mentally",
+      "slug": "polsia-meanitos",
+      "description": "Mean it Mentally exists because the conversation around mental health deserves more than surface-level awareness. It deserves intention. It deserves honesty. It deserves people who show up when the cameras are off and the hashtags stop trending.",
+      "description_fr": "Signifie que Mentally existe parce que la conversation sur la santé mentale mérite plus qu’une simple prise de conscience superficielle. Cela mérite une intention. Cela mérite l’honnêteté. Cela mérite que les gens se présentent lorsque les caméras sont éteintes et que les hashtags cessent d'être tendance.",
+      "category": "Health & Wellness",
+      "website": "https://meanitos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T22:12:32.644585+00:00"
+    },
+    {
+      "name": "NeuralPass",
+      "slug": "polsia-neuralpass",
+      "description": "ChatGPT, Claude, Gemini, image generation, trading tools, and more. \n                Access them all for less than what one costs alone. Built for Africa, priced in Naira.",
+      "description_fr": "ChatGPT, Claude, Gemini, génération d'images, outils de trading, et plus encore. \n                Accédez-y à tous pour moins que ce qu’un seul coûte. Construit pour l'Afrique, au prix de Naira.",
+      "category": "AI & Machine Learning",
+      "website": "https://neuralpass.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T22:12:33.690894+00:00"
+    },
+    {
+      "name": "ContentSprint",
+      "slug": "polsia-contentsprint",
+      "description": "You built a business, not a content calendar. ContentSprint manages your entire social media presence so you can focus on the work that actually pays.",
+      "description_fr": "Vous avez construit une entreprise, pas un calendrier de contenu. ContentSprint gère l'intégralité de votre présence sur les réseaux sociaux afin que vous puissiez vous concentrer sur le travail qui rapporte réellement.",
+      "category": "Entertainment & Media",
+      "website": "https://contentsprint.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T22:12:34.946013+00:00"
+    },
+    {
+      "name": "AdPilot",
+      "slug": "polsia-adpilot-ai-3",
+      "description": "Tell AdPilot what matters: ROAS targets, CPA caps, spend limits. It figures out the how. Budget shifts, audience testing, creative rotation, bid optimization.",
+      "description_fr": "Dites à AdPilot ce qui compte : les objectifs de ROAS, les plafonds de CPA, les limites de dépenses. Il comprend le comment. Modifications budgétaires, tests d'audience, rotation des créations, optimisation des enchères.",
+      "category": "Other",
+      "website": "https://adpilot-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T22:12:36.115850+00:00"
+    },
+    {
+      "name": "ShiftForge",
+      "slug": "polsia-shiftforge-7",
+      "description": "ShiftForge is an AI agent that manages retail healthcare operations around the clock. Scheduling, inventory, compliance, performance. No spreadsheets, no guesswork, no 3 AM phone calls.",
+      "description_fr": "ShiftForge est un agent IA qui gère les opérations de soins de santé au détail 24 heures sur 24. Planification, inventaire, conformité, performance. Pas de feuilles de calcul, pas de devinettes, pas d'appels téléphoniques à 3 heures du matin.",
+      "category": "AI & Machine Learning",
+      "website": "https://shiftforge-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T22:12:37.215824+00:00"
+    },
+    {
+      "name": "HairyBallsCo",
+      "slug": "polsia-hairyballsco",
+      "description": "Novelty merch for people who say the quiet part loud. \n            Tees, hats, mugs, and whatever else we can slap the name on.",
+      "description_fr": "Produits de nouveauté pour les gens qui disent la partie silencieuse à voix haute. \n            T-shirts, chapeaux, tasses et tout ce sur quoi nous pouvons apposer le nom.",
+      "category": "Other",
+      "website": "https://hairyballsco.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T22:12:38.335463+00:00"
+    },
+    {
+      "name": "SpaceposiumOS",
+      "slug": "polsia-spaceposiumos",
+      "description": "SpaceposiumOS is the operating system behind Spaceposium, managing school partnerships, expo operations, content pipelines, and fundraising from a single mission control dashboard.",
+      "description_fr": "SpaceposiumOS est le système d'exploitation derrière Spaceposium, gérant les partenariats scolaires, les opérations d'exposition, les pipelines de contenu et la collecte de fonds à partir d'un seul tableau de bord de contrôle de mission.",
+      "category": "Software & SaaS",
+      "website": "https://spaceposiumos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T22:12:39.947453+00:00"
     }
   ]
 }
