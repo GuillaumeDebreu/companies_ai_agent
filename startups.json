@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T23:14:43.481521+00:00",
+  "last_updated": "2026-05-08T00:10:10.562756+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -113238,10 +113238,13 @@
     {
       "name": "YellOS",
       "slug": "polsia-yellos",
+      "description": "Yell STL was built by a South City kid who grew up surrounded by family, food, and the kind of small businesses that hold neighborhoods together. YellOS is the engine that keeps it running, so every hidden gem in the Gateway City gets the spotlight it deserves.",
+      "description_fr": "Yell STL a été construit par un enfant du sud de la ville qui a grandi entouré de famille, de nourriture et du genre de petites entreprises qui assurent la cohésion des quartiers. YellOS est le moteur qui le fait fonctionner, de sorte que chaque joyau caché de Gateway City reçoit l'attention qu'il mérite.",
+      "category": "Food & Beverage",
       "website": "https://yellos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-07T22:14:16.257307+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-08T00:10:09.166722+00:00"
     },
     {
       "name": "DRPHAUS",
@@ -113451,6 +113454,102 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-07T23:14:39.846040+00:00"
+    },
+    {
+      "name": "FenceLineOS",
+      "slug": "polsia-fencelineos",
+      "website": "https://fencelineos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-08T00:09:58.952271+00:00"
+    },
+    {
+      "name": "Sensaia — Wellness, Personally Yours",
+      "slug": "polsia-sensaia",
+      "description": "Sensaia learns what you need and matches you to products that actually fit your body, your preferences, your life. No overwhelm. No awkward browsing. Just the right things, delivered discreetly.",
+      "description_fr": "Sensaia apprend ce dont vous avez besoin et vous propose des produits qui correspondent réellement à votre corps, vos préférences, votre vie. Pas de débordement. Pas de navigation gênante. Juste ce qu'il faut, livré discrètement.",
+      "category": "Health & Wellness",
+      "website": "https://sensaia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T00:10:00.027142+00:00"
+    },
+    {
+      "name": "ReelScout",
+      "slug": "polsia-reelscout-2",
+      "description": "The agent drafts personalized emails to coaches, attaches your profile and highlight reel, and follows up when they don't respond. You wake up to conversations, not to-do lists.",
+      "description_fr": "L'agent rédige des e-mails personnalisés à l'intention des coachs, joint votre profil et votre bande-annonce, et assure un suivi lorsqu'ils ne répondent pas. Vous vous réveillez avec des conversations, pas avec des listes de choses à faire.",
+      "category": "Newsletter & Email",
+      "website": "https://reelscout-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T00:10:01.039449+00:00"
+    },
+    {
+      "name": "Souko",
+      "slug": "polsia-soukoai",
+      "description": "Chaque message non répondu est une vente perdue. Chaque commande mal suivie est un client qui ne revient pas. Souko transforme votre WhatsApp en machine de vente qui tourne sans vous.",
+      "description_fr": "Chaque message non répondu est une vente perdue. Chaque commande mal suivie est un client qui ne revient pas. Souko transforme votre WhatsApp en machine de vente qui tourne sans vous.",
+      "category": "Other",
+      "website": "https://soukoai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T00:10:02.120962+00:00"
+    },
+    {
+      "name": "ClaimLedger",
+      "slug": "polsia-claimledger",
+      "description": "ClaimLedger is a review aid. It does not verify truth, provide legal advice, or replace professional review. It makes hidden claims visible so humans can verify them before publication.",
+      "description_fr": "ClaimLedger est une aide à la révision. Il ne vérifie pas la vérité, ne fournit pas de conseils juridiques et ne remplace pas un examen professionnel. Il rend visibles les affirmations cachées afin que les humains puissent les vérifier avant leur publication.",
+      "category": "AI & Machine Learning",
+      "website": "https://claimledger.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T00:10:03.223463+00:00"
+    },
+    {
+      "name": "Forja",
+      "slug": "polsia-forja-24",
+      "description": "The nearshoring wave is creating billions in new cross-border business. Mexican manufacturers selling to US buyers. US companies sourcing from Mexico. Forja works the pipeline in both directions, in both languages, around the clock.",
+      "description_fr": "La vague de délocalisation génère des milliards de nouvelles activités transfrontalières. Les fabricants mexicains vendent aux acheteurs américains. Entreprises américaines s’approvisionnant au Mexique. Forja exploite le pipeline dans les deux sens, dans les deux langues, 24 heures sur 24.",
+      "category": "Sales & CRM",
+      "website": "https://forja-24.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T00:10:04.314907+00:00"
+    },
+    {
+      "name": "Fairbid",
+      "slug": "polsia-fairbid",
+      "description": "4,5 millions de Francais utilisent deja des marketplaces de services. Mais sans moderation IA, sans encheres transparentes, sans paiement securise. Fairbid comble ce vide, en commencant par la region PACA.",
+      "description_fr": "4,5 millions de Français utilisent déjà des places de marché de services. Mais sans modération IA, sans enchères transparentes, sans paiement sécurisé. Fairbid comble ce vide, en commençant par la région PACA.",
+      "category": "E-Commerce & Retail",
+      "website": "https://fairbid.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T00:10:05.024151+00:00"
+    },
+    {
+      "name": "RidePrime — Ride Longer. Live Stronger. Stay Free.",
+      "slug": "polsia-rideprime",
+      "description": "RidePrime exists at the intersection nobody's claimed: where motorcycle culture meets modern wellness. Not generic supplements with a skull logo slapped on. Real formulations, real gear, real experiences, built by riders, for riders.",
+      "description_fr": "RidePrime existe à l'intersection que personne n'a revendiqué : là où la culture de la moto rencontre le bien-être moderne. Il ne s'agit pas de suppléments génériques avec un logo en forme de tête de mort. De vraies formulations, de vrais équipements, de vraies expériences, construites par des riders, pour des riders.",
+      "category": "Health & Wellness",
+      "website": "https://rideprime.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T00:10:10.560989+00:00"
+    },
+    {
+      "name": "SecondChapter",
+      "slug": "polsia-secondchapter",
+      "description": "Most recovery brands pick one lane. We picked three, because recovery isn't one thing. It's the coaching conversation at midnight. It's the story someone reads and finally feels seen. It's the hoodie that says \"I made it\" without saying a word.",
+      "description_fr": "La plupart des marques de récupération choisissent une voie. Nous en avons choisi trois, car la guérison n’est pas une chose. C'est la conversation du coaching à minuit. C'est l'histoire que quelqu'un lit et se sent enfin vu. C'est le sweat à capuche qui dit \"Je l'ai fait\" sans dire un mot.",
+      "category": "Marketing & Advertising",
+      "website": "https://secondchapter.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T00:10:06.900438+00:00"
     }
   ]
 }
