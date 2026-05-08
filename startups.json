@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T13:51:56.127711+00:00",
+  "last_updated": "2026-05-08T14:11:03.652402+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -114093,26 +114093,35 @@
     {
       "name": "BSConsultOS",
       "slug": "polsia-bsconsultos-2",
+      "description": "San Antonio is one of the fastest-growing metros in the country. Over 100,000 small businesses, a massive military ecosystem, booming healthcare, and a consulting market that's less saturated than Austin or Dallas.",
+      "description_fr": "San Antonio est l'une des métropoles à la croissance la plus rapide du pays. Plus de 100 000 petites entreprises, un écosystème militaire massif, des soins de santé en plein essor et un marché du conseil moins saturé qu'Austin ou Dallas.",
+      "category": "Health & Wellness",
       "website": "https://bsconsultos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-08T12:00:58.011787+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-08T14:11:00.720240+00:00"
     },
     {
       "name": "KhetSync",
       "slug": "polsia-khetsync",
+      "description": "Vidarbha's farmers grow some of India's most important crops. They also face some of the country's harshest farming conditions. Unpredictable monsoons, volatile prices, and limited access to markets.",
+      "description_fr": "Les agriculteurs de Vidarbha cultivent certaines des cultures les plus importantes de l'Inde. Ils sont également confrontés à des conditions agricoles parmi les plus dures du pays. Moussons imprévisibles, prix volatils et accès limité aux marchés.",
+      "category": "Other",
       "website": "https://khetsync.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-08T12:00:58.321209+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-08T14:11:01.850763+00:00"
     },
     {
-      "name": "MapGlow",
+      "name": "MapGlow — AI",
       "slug": "polsia-mapglow",
+      "description": "Every review gets a thoughtful, on-brand response within minutes. Positive reviews get amplified. Negative reviews get addressed before they spread. Your AI learns your voice and responds like you would, just faster.",
+      "description_fr": "Chaque avis reçoit une réponse réfléchie et adaptée à la marque en quelques minutes. Les critiques positives sont amplifiées. Les avis négatifs sont traités avant qu’ils ne se propagent. Votre IA apprend votre voix et répond comme vous le feriez, mais plus rapidement.",
+      "category": "AI & Machine Learning",
       "website": "https://mapglow.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-08T12:00:58.642229+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-08T14:11:03.512991+00:00"
     },
     {
       "name": "NautilusOS — The Operating System for Your HVAC Business",
@@ -114190,6 +114199,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-08T12:01:09.067578+00:00"
+    },
+    {
+      "name": "ScribeCanvas",
+      "slug": "polsia-scribecanvas",
+      "description": "Write it once. Monetize it as a serialized story. Adapt it as a screenplay. Transform it into a comic. ScribeCanvas is where a single creative work becomes an entire portfolio.",
+      "description_fr": "Écrivez-le une fois. Monétisez-le sous forme d’histoire sérialisée. Adaptez-le comme scénario. Transformez-le en bande dessinée. ScribeCanvas est l'endroit où une seule œuvre créative devient un portfolio complet.",
+      "category": "Sustainability & Green",
+      "website": "https://scribecanvas.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T14:10:47.306082+00:00"
+    },
+    {
+      "name": "BuildPilot",
+      "slug": "polsia-buildpilot-10",
+      "website": "https://buildpilot-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-08T14:10:47.691336+00:00"
+    },
+    {
+      "name": "CalmFlowOS",
+      "slug": "polsia-calmflowos",
+      "description": "CalmFlowOS is the operating system for digital product creators who chose peace over hustle. Track revenue, manage products, and grow your audience while keeping the calm you built your business around.",
+      "description_fr": "CalmFlowOS est le système d'exploitation destiné aux créateurs de produits numériques qui ont choisi la paix plutôt que l'agitation. Suivez vos revenus, gérez vos produits et développez votre audience tout en gardant le calme autour duquel vous avez bâti votre entreprise.",
+      "category": "Other",
+      "website": "https://calmflowos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T14:10:48.300727+00:00"
+    },
+    {
+      "name": "Curexa",
+      "slug": "polsia-curexa",
+      "description": "Every patient interaction builds a living dataset. Drug interaction checks, treatment pattern analysis, and predictive alerts. Your hospital gets smarter every day.",
+      "description_fr": "Chaque interaction avec un patient crée un ensemble de données vivant. Vérifications des interactions médicamenteuses, analyse des schémas de traitement et alertes prédictives. Votre hôpital devient chaque jour plus intelligent.",
+      "category": "Health & Wellness",
+      "website": "https://curexa.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T14:10:49.994763+00:00"
+    },
+    {
+      "name": "Mosaiq — Autonomous Brand Strategy",
+      "slug": "polsia-mosaiq-12",
+      "description": "Meanwhile, AI can analyze brand positioning, synthesize competitive intelligence, and generate strategic recommendations in minutes. The gap between what AI can do and what agencies charge humans for has never been wider.",
+      "description_fr": "Parallèlement, l’IA peut analyser le positionnement de la marque, synthétiser la veille concurrentielle et générer des recommandations stratégiques en quelques minutes. L’écart entre ce que l’IA peut faire et ce que les agences facturent aux humains n’a jamais été aussi grand.",
+      "category": "AI & Machine Learning",
+      "website": "https://mosaiq-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T14:10:51.654598+00:00"
+    },
+    {
+      "name": "Cyphor",
+      "slug": "polsia-cyphor",
+      "description": "Like a credit score, but for your digital life. Cyphor analyzes your email exposure, compromised passwords, dark web presence, and account vulnerabilities into a single, clear number. Green means safe. Red means act now. No jargon, no confusion.",
+      "description_fr": "Comme une cote de crédit, mais pour votre vie numérique. Cyphor analyse votre exposition aux e-mails, vos mots de passe compromis, votre présence sur le dark web et les vulnérabilités de vos comptes en un seul numéro clair. Le vert signifie la sécurité. Le rouge signifie agir maintenant. Pas de jargon, pas de confusion.",
+      "category": "Newsletter & Email",
+      "website": "https://cyphor.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T14:10:53.303753+00:00"
+    },
+    {
+      "name": "InkDash — AI",
+      "slug": "polsia-inkdash",
+      "description": "Freelance platforms take a cut, control your visibility, and commoditize your work. InkDash gives you the tools to run your content business independently, with AI handling the grind and you owning the craft.",
+      "description_fr": "Les plateformes indépendantes prennent une part, contrôlent votre visibilité et banalisent votre travail. InkDash vous donne les outils nécessaires pour gérer votre activité de contenu de manière indépendante, avec l'IA qui gère le travail et vous êtes propriétaire du métier.",
+      "category": "AI & Machine Learning",
+      "website": "https://inkdash.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T14:10:54.423325+00:00"
+    },
+    {
+      "name": "BeatVow",
+      "slug": "polsia-beatvow",
+      "description": "Every wedding is different. Your DJ package should be too. Whether you want clean, professional music or a full production with lighting and live-streamed audio, we build it around your vision.",
+      "description_fr": "Chaque mariage est différent. Votre forfait DJ devrait l’être aussi. Que vous souhaitiez une musique claire et professionnelle ou une production complète avec éclairage et diffusion audio en direct, nous la construisons autour de votre vision.",
+      "category": "Real Estate",
+      "website": "https://beatvow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T14:10:55.957280+00:00"
+    },
+    {
+      "name": "ShiftSupply",
+      "slug": "polsia-shiftsupply",
+      "description": "Enterprise PPE vendors lock you into corporate contracts. Traditional vending sells chips and candy. Running to a store mid-shift costs you time, gas, and productivity. There's nothing in between.",
+      "description_fr": "Les fournisseurs d’EPI d’entreprise vous enferment dans des contrats d’entreprise. Les distributeurs automatiques traditionnels vendent des chips et des bonbons. Se rendre dans un magasin en milieu de travail vous coûte du temps, de l'essence et de la productivité. Il n'y a rien entre les deux.",
+      "category": "E-Commerce & Retail",
+      "website": "https://shiftsupply.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T14:10:57.503348+00:00"
+    },
+    {
+      "name": "HaulTrade",
+      "slug": "polsia-haultrade",
+      "description": "HaulTrade is building the infrastructure that FedEx Ground contractors deserve. Fair valuations, transparent deals, and the tools to close without giving up a cut of what you built.",
+      "description_fr": "HaulTrade construit l'infrastructure que méritent les entrepreneurs de FedEx Ground. Des évaluations justes, des transactions transparentes et les outils nécessaires pour conclure sans renoncer à une part de ce que vous avez construit.",
+      "category": "Real Estate",
+      "website": "https://haultrade.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T14:10:58.570283+00:00"
     }
   ]
 }
