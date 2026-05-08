@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T03:19:53.076611+00:00",
+  "last_updated": "2026-05-08T03:54:16.954925+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -113458,10 +113458,13 @@
     {
       "name": "FenceLineOS",
       "slug": "polsia-fencelineos",
+      "description": "FenceLineOS is the operations backbone for Anderson Fence Company. Quoting, scheduling, customer management, and crew coordination, all in one place built for how you actually work.",
+      "description_fr": "FenceLineOS est l'épine dorsale des opérations d'Anderson Fence Company. Devis, planification, gestion des clients et coordination des équipes, le tout dans un seul endroit conçu pour votre façon réelle de travailler.",
+      "category": "Productivity & Automation",
       "website": "https://fencelineos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-08T00:09:58.952271+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-08T03:54:16.631266+00:00"
     },
     {
       "name": "Sensaia — Wellness, Personally Yours",
@@ -113550,6 +113553,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-08T00:10:06.900438+00:00"
+    },
+    {
+      "name": "BizziOS",
+      "slug": "polsia-bizzios",
+      "website": "https://bizzios.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-08T03:54:02.916546+00:00"
+    },
+    {
+      "name": "ChronoHQ",
+      "slug": "polsia-chronohq",
+      "description": "ChronoHQ is the operating system behind Chrono Seconds. Inventory intelligence, \n            competitive pricing, authentication tracking, and buyer matching, all wired \n            to an AI that understands the pre-owned luxury watch market.",
+      "description_fr": "ChronoHQ est le système d'exploitation derrière Chrono Seconds. Intelligence d'inventaire, \n            prix compétitifs, suivi de l'authentification et correspondance des acheteurs, le tout câblé \n            à une IA qui comprend le marché des montres de luxe d’occasion.",
+      "category": "AI & Machine Learning",
+      "website": "https://chronohq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T03:54:04.651949+00:00"
+    },
+    {
+      "name": "Kyvos",
+      "slug": "polsia-kyvos",
+      "website": "https://kyvos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-08T03:54:04.982551+00:00"
+    },
+    {
+      "name": "SteadyPlate — Your AI Metabolic Health Coach",
+      "slug": "polsia-steadyplate",
+      "description": "AI-powered nutrition coaching for blood sugar management. Not another calorie tracker. A real health coach in your pocket.",
+      "description_fr": "Coaching nutritionnel basé sur l'IA pour la gestion de la glycémie. Pas un autre tracker de calories. Un véritable coach santé dans votre poche.",
+      "category": "AI & Machine Learning",
+      "website": "https://steadyplate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T03:54:05.982495+00:00"
+    },
+    {
+      "name": "LetterMint — Your AI Newsletter Employee",
+      "slug": "polsia-lettermint-ai",
+      "description": "Tell LetterMint what you care about. AI, finance, fitness, real estate, local news. It researches the market, maps the competition, and confirms the opportunity.",
+      "description_fr": "Dites à LetterMint ce qui vous tient à cœur. IA, finance, fitness, immobilier, actualités locales. Il étudie le marché, cartographie la concurrence et confirme l'opportunité.",
+      "category": "AI & Machine Learning",
+      "website": "https://lettermint-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T03:54:06.878974+00:00"
+    },
+    {
+      "name": "LiftLedger",
+      "slug": "polsia-liftledger",
+      "description": "You spend hours writing programs. Then you either sell them as flat PDFs on Gumroad (where they disappear into a folder) or pay $50+/month for coaching software that's overkill for what you need. Neither option is built for someone who just wants to sell great programming.",
+      "description_fr": "Vous passez des heures à écrire des programmes. Ensuite, soit vous les vendez sous forme de PDF plats sur Gumroad (où ils disparaissent dans un dossier), soit vous payez plus de 50 $/mois pour un logiciel de coaching qui est excessif pour ce dont vous avez besoin. Aucune des deux options n’est conçue pour quelqu’un qui souhaite simplement vendre des programmes de qualité.",
+      "category": "Software & SaaS",
+      "website": "https://liftledger.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T03:54:08.427641+00:00"
+    },
+    {
+      "name": "Vigil — Your Market Never Sleeps",
+      "slug": "polsia-vigil-ai-11",
+      "description": "Weekly intelligence reports land in your inbox. Real-time alerts fire when something big happens. No dashboards to check. Just answers.",
+      "description_fr": "Des rapports de renseignement hebdomadaires arrivent dans votre boîte de réception. Des alertes en temps réel se déclenchent lorsque quelque chose d'important se produit. Aucun tableau de bord à vérifier. Juste des réponses.",
+      "category": "Software & SaaS",
+      "website": "https://vigil-ai-11.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T03:54:10.030812+00:00"
+    },
+    {
+      "name": "PixelAnvil — Websites for Trades That Work",
+      "slug": "polsia-pixelanvil",
+      "description": "They talk about \"brand identity\" and \"digital transformation.\" You need a phone number that works on mobile, a services list customers can find, and a site that doesn't look like it was built in 2008. That's what we do. No jargon. No fluff. Just a site that works as hard as you do.",
+      "description_fr": "Ils parlent d’« identité de marque » et de « transformation numérique ». Vous avez besoin d'un numéro de téléphone qui fonctionne sur mobile, d'une liste de services que les clients peuvent trouver et d'un site qui ne semble pas avoir été créé en 2008. C'est ce que nous faisons. Pas de jargon. Pas de peluches. Juste un site qui travaille aussi dur que vous.",
+      "category": "Marketing & Advertising",
+      "website": "https://pixelanvil.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T03:54:11.667943+00:00"
+    },
+    {
+      "name": "Trovant",
+      "slug": "polsia-trovant",
+      "description": "Trovant is an AI sales agent that researches your prospects, writes personalized outreach, and books meetings. Like hiring an SDR for a fraction of the cost.",
+      "description_fr": "Trovant est un agent commercial IA qui recherche vos prospects, rédige des communications personnalisées et organise des réunions. C’est comme louer un SDR pour une fraction du prix.",
+      "category": "Sales & CRM",
+      "website": "https://trovant.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T03:54:13.273300+00:00"
+    },
+    {
+      "name": "ProtoForge",
+      "slug": "polsia-protoforge-4",
+      "description": "ProtoForge is an autonomous AI agent that takes your product idea and delivers a working prototype. No engineering team. No agency retainer. No weeks of back-and-forth. Just describe what you want to build.",
+      "description_fr": "ProtoForge est un agent d'IA autonome qui prend votre idée de produit et fournit un prototype fonctionnel. Aucune équipe d'ingénierie. Aucun mandat d'agence. Pas de semaines d'allers-retours. Décrivez simplement ce que vous souhaitez construire.",
+      "category": "AI & Machine Learning",
+      "website": "https://protoforge-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T03:54:14.657371+00:00"
     }
   ]
 }
