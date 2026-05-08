@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T14:11:03.652402+00:00",
+  "last_updated": "2026-05-08T15:52:19.453559+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -114214,10 +114214,13 @@
     {
       "name": "BuildPilot",
       "slug": "polsia-buildpilot-10",
+      "description": "BuildPilot is an autonomous AI agent for home improvement contractors. It estimates costs, schedules crews, orders materials, and keeps homeowners updated. You build. It handles the rest.",
+      "description_fr": "BuildPilot est un agent d'IA autonome pour les entrepreneurs en rénovation domiciliaire. Il estime les coûts, planifie les équipes, commande les matériaux et tient les propriétaires informés. Vous construisez. Il gère le reste.",
+      "category": "AI & Machine Learning",
       "website": "https://buildpilot-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-08T14:10:47.691336+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-08T15:52:19.117479+00:00"
     },
     {
       "name": "CalmFlowOS",
@@ -114306,6 +114309,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-08T14:10:58.570283+00:00"
+    },
+    {
+      "name": "FortifyOps",
+      "slug": "polsia-fortifyops",
+      "website": "https://fortifyops.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-08T15:52:04.958556+00:00"
+    },
+    {
+      "name": "SolveCrate",
+      "slug": "polsia-solvecrate",
+      "website": "https://solvecrate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-08T15:52:05.220006+00:00"
+    },
+    {
+      "name": "GrowthMesh",
+      "slug": "polsia-growthmesh",
+      "website": "https://growthmesh.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-08T15:52:05.517563+00:00"
+    },
+    {
+      "name": "RentHaven",
+      "slug": "polsia-renthaven",
+      "description": "We sign long-term leases on properties with short-term rental potential, then list them on Airbnb, VRBO, and Booking.com. We handle everything: furnishing, listing optimization, guest communication, cleaning coordination, and maintenance. The landlord gets reliable monthly rent. We capture the spread.",
+      "description_fr": "Nous signons des baux à long terme sur des propriétés offrant un potentiel de location à court terme, puis les répertorions sur Airbnb, VRBO et Booking.com. Nous nous occupons de tout : l'ameublement, l'optimisation du logement, la communication avec les clients, la coordination du nettoyage et la maintenance. Le propriétaire reçoit un loyer mensuel fiable. Nous capturons la propagation.",
+      "category": "Travel & Hospitality",
+      "website": "https://renthaven.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T15:52:07.182285+00:00"
+    },
+    {
+      "name": "AdPilot",
+      "slug": "polsia-adpilot-ai-2",
+      "description": "Every ad platform gives you more buttons, more dashboards, more rules to configure. AdPilot gives you none. It thinks in campaigns, not clicks. It runs your ads the way a senior media buyer would, except it never sleeps and never misses a trend.",
+      "description_fr": "Chaque plateforme publicitaire vous offre plus de boutons, plus de tableaux de bord, plus de règles à configurer. AdPilot ne vous en donne aucun. Il pense en campagnes, pas en clics. Il diffuse vos publicités comme le ferait un acheteur média senior, sauf qu'il ne dort jamais et ne manque jamais une tendance.",
+      "category": "Marketing & Advertising",
+      "website": "https://adpilot-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T15:52:08.753954+00:00"
+    },
+    {
+      "name": "Condukt",
+      "slug": "polsia-condukt-4",
+      "description": "Tell Condukt what your team does. It observes, designs the optimal workflow, and runs it. No drag-and-drop builders. No automation recipes. Just work that gets done.",
+      "description_fr": "Dites à Condukt ce que fait votre équipe. Il observe, conçoit le flux de travail optimal et l'exécute. Pas de générateurs par glisser-déposer. Aucune recette d'automatisation. Juste un travail qui est fait.",
+      "category": "Productivity & Automation",
+      "website": "https://condukt-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T15:52:09.906424+00:00"
+    },
+    {
+      "name": "ConstructIQ",
+      "slug": "polsia-constructiq",
+      "description": "Upload blueprints. Get an accurate cost breakdown in minutes, not weeks. Machine learning trained on thousands of Indian construction projects, accounting for regional material prices and labor rates.",
+      "description_fr": "Téléchargez des plans. Obtenez une répartition précise des coûts en quelques minutes, et non en quelques semaines. L'apprentissage automatique a été formé sur des milliers de projets de construction indiens, en tenant compte des prix des matériaux et des taux de main-d'œuvre régionaux.",
+      "category": "AI & Machine Learning",
+      "website": "https://constructiq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T15:52:12.327657+00:00"
+    },
+    {
+      "name": "Lokalee",
+      "slug": "polsia-lokalee",
+      "description": "Your favorite salon books by phone. Your dentist confirms appointments over text. Your gym tracks members on a spreadsheet. Enterprise tools cost too much and do too little for small operators. Lokalee changes that by giving every local business an AI-powered front desk that works the way they already communicate: over WhatsApp, phone, and chat.",
+      "description_fr": "Vos livres de salon préférés par téléphone. Votre dentiste confirme les rendez-vous par SMS. Votre salle de sport suit les membres sur une feuille de calcul. Les outils d'entreprise coûtent trop cher et font trop peu pour les petits opérateurs. Lokalee change cela en offrant à chaque entreprise locale une réception alimentée par l'IA qui fonctionne de la même manière qu'elle communique déjà : par WhatsApp, par téléphone et par chat.",
+      "category": "AI & Machine Learning",
+      "website": "https://lokalee.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T15:52:13.819825+00:00"
+    },
+    {
+      "name": "XpressTripzOS — The Operating System for Your Travel Business",
+      "slug": "polsia-xpresstripzos",
+      "description": "Bookings, visa tracking, customer follow-ups, revenue analytics. Everything your travel agency needs to scale from personal service to a digital-first operation, without losing the trust your clients already have.",
+      "description_fr": "Réservations, suivi des visas, suivis clients, analyses des revenus. Tout ce dont votre agence de voyages a besoin pour passer d'un service personnalisé à une opération axée sur le numérique, sans perdre la confiance que vos clients ont déjà.",
+      "category": "Travel & Hospitality",
+      "website": "https://xpresstripzos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T15:52:15.394907+00:00"
+    },
+    {
+      "name": "StayPilot",
+      "slug": "polsia-stay-pilot-2",
+      "description": "StayPilot is an AI agent that manages your short-term rentals 24/7. Guest messages, pricing, cleaning, maintenance. All handled while you sleep.",
+      "description_fr": "StayPilot est un agent IA qui gère vos locations courte durée 24h/24 et 7j/7. Messages clients, tarifs, nettoyage, maintenance. Tout est géré pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://stay-pilot-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T15:52:16.191429+00:00"
     }
   ]
 }
