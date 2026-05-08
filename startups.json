@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T07:47:45.704670+00:00",
+  "last_updated": "2026-05-08T09:01:16.002568+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -113766,10 +113766,13 @@
     {
       "name": "CreatureLab",
       "slug": "polsia-creaturelab",
+      "description": "CoComelon became a $3 billion company not because of animation quality, \n                    but because kids fell in love with JJ. The character is the asset. \n                    Everything else is distribution. CreatureLab builds characters that stick.",
+      "description_fr": "CoComelon est devenue une entreprise à 3 milliards de dollars non pas à cause de la qualité de l'animation, \n                    mais parce que les enfants sont tombés amoureux de JJ. Le personnage est l'atout. \n                    Tout le reste est distribution. CreatureLab crée des personnages qui collent.",
+      "category": "Other",
       "website": "https://creaturelab.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-08T07:47:31.856079+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-08T09:01:14.106439+00:00"
     },
     {
       "name": "BazaarboxOS",
@@ -113780,12 +113783,15 @@
       "scraped_at": "2026-05-08T07:47:32.187260+00:00"
     },
     {
-      "name": "ReachForge",
+      "name": "ReachForge — Your AI Sales Agent",
       "slug": "polsia-reachforge-14",
+      "description": "ReachForge handles the top of your funnel so you can focus on what actually closes revenue: building relationships and delivering results. Your AI sales agent is always working, always learning, always filling your calendar.",
+      "description_fr": "ReachForge gère le haut de votre entonnoir afin que vous puissiez vous concentrer sur ce qui génère réellement des revenus : établir des relations et obtenir des résultats. Votre agent commercial IA travaille toujours, apprend toujours et remplit toujours votre calendrier.",
+      "category": "AI & Machine Learning",
       "website": "https://reachforge-14.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-08T07:47:32.509911+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-08T09:01:14.927528+00:00"
     },
     {
       "name": "ModForge AI",
@@ -113863,6 +113869,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-08T07:47:44.145832+00:00"
+    },
+    {
+      "name": "AmruthaOS",
+      "slug": "polsia-amruthaos-2",
+      "website": "https://amruthaos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-08T09:01:03.657241+00:00"
+    },
+    {
+      "name": "Bookwright",
+      "slug": "polsia-bookwright",
+      "website": "https://bookwright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-08T09:01:03.953344+00:00"
+    },
+    {
+      "name": "Loomi — Your Market Stall, Online",
+      "slug": "polsia-loomi-2",
+      "description": "Loomi is your AI-powered employee that turns your market stall inventory into an online store. Photograph your products, and Loomi lists them everywhere, handles customer messages, and tracks what sells. You focus on sourcing. It handles the rest.",
+      "description_fr": "Loomi est votre employé alimenté par l'IA qui transforme votre inventaire de marché en boutique en ligne. Photographiez vos produits et Loomi les répertorie partout, gère les messages des clients et suit ce qui se vend. Vous vous concentrez sur le sourcing. Il gère le reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://loomi-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T09:01:05.374726+00:00"
+    },
+    {
+      "name": "Oblivio — Your Data, Gone",
+      "slug": "polsia-oblivio",
+      "description": "People-search sites like Spokeo, WhitePages, and BeenVerified list your personal details for anyone to find. Data brokers aggregate and resell this information thousands of times.",
+      "description_fr": "Les sites de recherche de personnes comme Spokeo, WhitePages et BeenVerified répertorient vos informations personnelles pour que quiconque puisse les trouver. Les courtiers en données regroupent et revendent ces informations des milliers de fois.",
+      "category": "Other",
+      "website": "https://oblivio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T09:01:05.909829+00:00"
+    },
+    {
+      "name": "StoryReel — Script to Screen in Minutes",
+      "slug": "polsia-storyreel",
+      "description": "StoryReel turns a single text prompt into a complete short video. Script, visuals, voiceover, subtitles, music. Ready for Shorts, Reels, and TikTok.",
+      "description_fr": "StoryReel transforme une seule invite de texte en une courte vidéo complète. Scénario, visuels, voix off, sous-titres, musique. Prêt pour les courts métrages, les bobines et TikTok.",
+      "category": "Entertainment & Media",
+      "website": "https://storyreel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T09:01:06.928176+00:00"
+    },
+    {
+      "name": "Huis Clos — Lieux introuvables, événements inoubliables",
+      "slug": "polsia-huis-clos",
+      "description": "Les plus beaux espaces de Paris ne figurent sur aucun catalogue. Ils se transmettent par le bouche-à-oreille, entre connaisseurs. Huis Clos crée le premier accès structuré à ces lieux introuvables, en préservant leur caractère confidentiel.",
+      "description_fr": "Les plus beaux espaces de Paris ne figurent sur aucun catalogue. Ils se transmettent par le bouche-à-oreille, entre connaisseurs. Huis Clos crée le premier accès structuré à ces lieux introuvables, en préservant leur caractère confidentiel.",
+      "category": "Real Estate",
+      "website": "https://huis-clos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T09:01:07.652250+00:00"
+    },
+    {
+      "name": "TerangaData",
+      "slug": "polsia-terangadata",
+      "description": "Every major data annotation company in Africa operates from anglophone countries. TerangaData is headquartered in Dakar, the economic heart of francophone West Africa, with direct access to a talent pool and cultural context that competitors simply cannot reach remotely.",
+      "description_fr": "Toutes les grandes sociétés d’annotation de données en Afrique opèrent depuis des pays anglophones. TerangaData a son siège à Dakar, le cœur économique de l'Afrique de l'Ouest francophone, avec un accès direct à un vivier de talents et à un contexte culturel que les concurrents ne peuvent tout simplement pas atteindre à distance.",
+      "category": "Sustainability & Green",
+      "website": "https://terangadata.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T09:01:09.295193+00:00"
+    },
+    {
+      "name": "MyVoice Pal",
+      "slug": "polsia-myvoicepal",
+      "description": "MyVoice Pal is a stuffed animal that plays voice messages from the people your child loves most. Real voices. Updated remotely. Held close every night.",
+      "description_fr": "MyVoice Pal est un animal en peluche qui diffuse les messages vocaux des personnes que votre enfant aime le plus. De vraies voix. Mis à jour à distance. Tenu à proximité tous les soirs.",
+      "category": "Other",
+      "website": "https://myvoicepal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T09:01:16.000561+00:00"
+    },
+    {
+      "name": "PitchForge — Your AI Freelance Agent",
+      "slug": "polsia-pitchforge-20",
+      "description": "PitchForge scans job boards, writes personalized proposals, submits bids, and follows up with prospects. You focus on delivering great work. It handles everything else.",
+      "description_fr": "PitchForge analyse les sites d'emploi, rédige des propositions personnalisées, soumet des offres et assure le suivi auprès des prospects. Vous vous concentrez sur la réalisation d’un excellent travail. Il gère tout le reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://pitchforge-20.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T09:01:10.058091+00:00"
+    },
+    {
+      "name": "GottaGuyOS",
+      "slug": "polsia-gottaguyos",
+      "description": "Every job from first call to final invoice. No more sticky notes, no more \"I thought you called them back.\" See every active job, who's on it, and what's left to do. One screen.",
+      "description_fr": "Chaque travail, du premier appel à la facture finale. Plus de notes autocollantes, plus de « Je pensais que tu les avais rappelés ». Consultez chaque tâche active, qui y participe et ce qu'il reste à faire. Un écran.",
+      "category": "Finance & Fintech",
+      "website": "https://gottaguyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T09:01:11.364505+00:00"
     }
   ]
 }
