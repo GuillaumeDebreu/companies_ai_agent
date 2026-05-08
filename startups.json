@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T10:46:38.087559+00:00",
+  "last_updated": "2026-05-08T12:01:14.194018+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -113983,26 +113983,35 @@
     {
       "name": "Tessera",
       "slug": "polsia-tessera-13",
+      "description": "Crypto markets run 24/7 across dozens of exchanges and chains. But treasury teams still rely on manual spreadsheets, batched reconciliation, and morning-after reports. By the time you see the problem, the liquidity has already moved.",
+      "description_fr": "Les marchés de crypto fonctionnent 24h/24 et 7j/7 sur des dizaines d'échanges et de chaînes. Mais les équipes de trésorerie s'appuient toujours sur des feuilles de calcul manuelles, des rapprochements par lots et des rapports du lendemain. Au moment où vous voyez le problème, la liquidité a déjà bougé.",
+      "category": "Finance & Fintech",
       "website": "https://tessera-13.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-08T10:46:24.213526+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-08T12:01:11.613920+00:00"
     },
     {
-      "name": "PulseCoach",
+      "name": "PokeVault — Rare TCG Cards & Sealed Product",
       "slug": "polsia-pulsecoach-3",
+      "description": "Premium Pokémon TCG — Elite Trainer Boxes, booster packs, and exclusive bundles. Scarlet & Violet, Prismatic Evolutions, and more.",
+      "description_fr": "JCC Pokémon Premium – Boîtes de Dresseur d'Élite, boosters et packs exclusifs. Scarlet & Violet, Prismatic Evolutions et plus encore.",
+      "category": "Other",
       "website": "https://pulsecoach-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-08T10:46:24.540203+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-08T12:01:12.963008+00:00"
     },
     {
       "name": "LuxePixel",
       "slug": "polsia-luxepixel",
+      "description": "Every competitor builds tools for individual creators. LuxePixel treats AI characters as managed talent. Each one has an identity, a fanbase, and revenue streams across multiple platforms.",
+      "description_fr": "Chaque concurrent crée des outils pour les créateurs individuels. LuxePixel traite les personnages IA comme des talents gérés. Chacun a une identité, une base de fans et des sources de revenus sur plusieurs plateformes.",
+      "category": "AI & Machine Learning",
       "website": "https://luxepixel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-08T10:46:24.791152+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-08T12:01:13.661139+00:00"
     },
     {
       "name": "BenchBoss",
@@ -114080,6 +114089,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-08T10:46:34.364967+00:00"
+    },
+    {
+      "name": "BSConsultOS",
+      "slug": "polsia-bsconsultos-2",
+      "website": "https://bsconsultos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-08T12:00:58.011787+00:00"
+    },
+    {
+      "name": "KhetSync",
+      "slug": "polsia-khetsync",
+      "website": "https://khetsync.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-08T12:00:58.321209+00:00"
+    },
+    {
+      "name": "MapGlow",
+      "slug": "polsia-mapglow",
+      "website": "https://mapglow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-08T12:00:58.642229+00:00"
+    },
+    {
+      "name": "NautilusOS — The Operating System for Your HVAC Business",
+      "slug": "polsia-nautilusos-2",
+      "description": "A back-office operating system built for HVAC businesses. Track every lead, job, and dollar without the spreadsheet chaos. Built by AI that understands service businesses.",
+      "description_fr": "Un système d'exploitation de back-office conçu pour les entreprises de CVC. Suivez chaque prospect, chaque tâche et chaque dollar sans le chaos des feuilles de calcul. Construit par une IA qui comprend les entreprises de services.",
+      "category": "AI & Machine Learning",
+      "website": "https://nautilusos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T12:01:00.346269+00:00"
+    },
+    {
+      "name": "HaulPilot — AI Dispatch for Small Carriers",
+      "slug": "polsia-haulpilot-18",
+      "description": "AI dispatch agent that runs logistics operations for small carriers. Load matching, route optimization, customer comms, compliance tracking. On autopilot.",
+      "description_fr": "Agent de répartition IA qui gère les opérations logistiques pour les petits transporteurs. Correspondance de charge, optimisation des itinéraires, communication client, suivi de la conformité. En pilote automatique.",
+      "category": "AI & Machine Learning",
+      "website": "https://haulpilot-18.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T12:01:01.811304+00:00"
+    },
+    {
+      "name": "Gestium — The ERP That Runs Itself",
+      "slug": "polsia-gestium",
+      "description": "Generates invoices from delivery confirmations, tracks payments, chases overdue accounts, reconciles with your bank. Handles SRI compliance for Ecuador out of the box.",
+      "description_fr": "Génère des factures à partir des confirmations de livraison, suit les paiements, recherche les comptes en souffrance, se réconcilie avec votre banque. Gère la conformité ISR pour l'Équateur de manière originale.",
+      "category": "Finance & Fintech",
+      "website": "https://gestium.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T12:01:02.792087+00:00"
+    },
+    {
+      "name": "SlapText",
+      "slug": "polsia-slaptext",
+      "description": "AI that writes with actual attitude. Generate sharp, funny, slightly dangerous wordplay and put it on premium tees, hats, and stickers. No clip art. No cringe.",
+      "description_fr": "Une IA qui écrit avec une attitude réelle. Générez des jeux de mots pointus, amusants et légèrement dangereux et placez-les sur des t-shirts, des chapeaux et des autocollants haut de gamme. Pas de clipart. Pas de grimace.",
+      "category": "AI & Machine Learning",
+      "website": "https://slaptext.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T12:01:04.402118+00:00"
+    },
+    {
+      "name": "RedClay Pictures",
+      "slug": "polsia-redclay-pictures",
+      "description": "From the longleaf pine forests of the Sandhills to the Blue Ridge peaks, NC offers locations most filmmakers never think to look. Add a $31M annual film fund, established crew infrastructure, and costs well below either coast, and you have the best kept secret in American indie film.",
+      "description_fr": "Des forêts de pins à longues feuilles des Sandhills aux sommets de Blue Ridge, la Caroline du Nord offre des endroits que la plupart des cinéastes n'auraient jamais pensé regarder. Ajoutez à cela un fonds cinématographique annuel de 31 millions de dollars, une infrastructure d'équipe établie et des coûts bien inférieurs aux deux côtes, et vous obtenez le secret le mieux gardé du cinéma indépendant américain.",
+      "category": "Other",
+      "website": "https://redclay-pictures.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T12:01:06.913744+00:00"
+    },
+    {
+      "name": "RunDesk — Your AI Operations Agent",
+      "slug": "polsia-rundesk-15",
+      "description": "RunDesk handles the work you hate so you can focus on the work you love. Every email answered. Every follow-up sent. Every morning, a briefing of what happened while you slept.",
+      "description_fr": "RunDesk gère le travail que vous détestez afin que vous puissiez vous concentrer sur le travail que vous aimez. Chaque e-mail a répondu. Chaque suivi envoyé. Chaque matin, un briefing sur ce qui s'est passé pendant votre sommeil.",
+      "category": "AI & Machine Learning",
+      "website": "https://rundesk-15.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T12:01:07.902301+00:00"
+    },
+    {
+      "name": "Autovolt",
+      "slug": "polsia-autovolt",
+      "description": "Automated lead capture, AI qualification scoring, personalized outreach sequences, CRM updates, and follow-up scheduling. Your pipeline fills itself while your sales team focuses on closing.",
+      "description_fr": "Capture automatisée des leads, notation des qualifications par l'IA, séquences de sensibilisation personnalisées, mises à jour CRM et planification du suivi. Votre pipeline se remplit pendant que votre équipe commerciale se concentre sur la clôture.",
+      "category": "Sales & CRM",
+      "website": "https://autovolt.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-08T12:01:09.067578+00:00"
     }
   ]
 }
