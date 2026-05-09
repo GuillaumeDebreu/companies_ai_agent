@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T08:15:39.954869+00:00",
+  "last_updated": "2026-05-09T09:46:58.526309+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -115405,28 +115405,37 @@
       "scraped_at": "2026-05-09T06:23:43.641410+00:00"
     },
     {
-      "name": "AislePilot",
+      "name": "AislePilot — Your AI Wedding Coordinator",
       "slug": "polsia-aislepilot-4",
+      "description": "AislePilot is an AI wedding coordinator that handles vendor outreach, timeline management, budget tracking, and guest communications around the clock. Not a chatbot. Not a checklist. A coordinator that does the work.",
+      "description_fr": "AislePilot est un coordinateur de mariage IA qui gère la sensibilisation des fournisseurs, la gestion des délais, le suivi du budget et les communications avec les invités 24 heures sur 24. Pas un chatbot. Pas une liste de contrôle. Un coordinateur qui fait le travail.",
+      "category": "AI & Machine Learning",
       "website": "https://aislepilot-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-09T08:15:28.320268+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-09T09:46:56.265449+00:00"
     },
     {
       "name": "LocalWay",
       "slug": "polsia-localway",
+      "description": "LocalWay is the platform built for that reality. Not a Silicon Valley template forced onto African cities. A system designed from the ground up for how people here actually travel, pay, and communicate.",
+      "description_fr": "LocalWay est la plateforme conçue pour cette réalité. Il ne s’agit pas d’un modèle de la Silicon Valley imposé aux villes africaines. Un système conçu dès le départ pour refléter la manière dont les gens d'ici voyagent, paient et communiquent.",
+      "category": "Software & SaaS",
       "website": "https://localway.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-09T08:15:28.499429+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-09T09:46:57.233837+00:00"
     },
     {
       "name": "Jofan",
       "slug": "polsia-jofan",
+      "description": "Jofan automates the repetitive work that eats your day. Chatbots that answer clients at 2am. Emails that write themselves. Appointments that book without a receptionist. Built for businesses in East Africa.",
+      "description_fr": "Jofan automatise le travail répétitif qui ronge votre journée. Des chatbots qui répondent aux clients à 2h du matin. Des emails qui s'écrivent tout seuls. Des rendez-vous qui se prennent sans réceptionniste. Conçu pour les entreprises d’Afrique de l’Est.",
+      "category": "AI & Machine Learning",
       "website": "https://jofan.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-09T08:15:28.680303+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-09T09:46:58.048981+00:00"
     },
     {
       "name": "PrepKaro — AI Tutor for Every Indian Student",
@@ -115504,6 +115513,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-09T08:15:36.834509+00:00"
+    },
+    {
+      "name": "MaxCoverOS",
+      "slug": "polsia-maxcoveros",
+      "website": "https://maxcoveros.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-09T09:46:45.949329+00:00"
+    },
+    {
+      "name": "TenderForge",
+      "slug": "polsia-tenderforge-2",
+      "website": "https://tenderforge-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-09T09:46:46.285386+00:00"
+    },
+    {
+      "name": "OctaReach — Full",
+      "slug": "polsia-octareach",
+      "description": "Every major agency is in Lagos. But Abuja is the capital. Home to government, NGOs, embassies, and international organizations. They all need digital marketing. Most settle for agencies 600km away. OctaReach is here.",
+      "description_fr": "Toutes les grandes agences sont à Lagos. Mais Abuja est la capitale. Siège du gouvernement, des ONG, des ambassades et des organisations internationales. Ils ont tous besoin du marketing numérique. La plupart s'installent dans des agences situées à 600 km. OctaReach est là.",
+      "category": "Software & SaaS",
+      "website": "https://octareach.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T09:46:47.935339+00:00"
+    },
+    {
+      "name": "AutomateEdge",
+      "slug": "polsia-automateedge",
+      "website": "https://automateedge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-09T09:46:48.086461+00:00"
+    },
+    {
+      "name": "DropDay",
+      "slug": "polsia-dropday-4",
+      "website": "https://dropday-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-09T09:46:48.398854+00:00"
+    },
+    {
+      "name": "ClaimVance",
+      "slug": "polsia-claimvance",
+      "description": "Every medical practice runs the same losing math: services rendered today, reimbursement deposited in two months. In the gap, you're covering payroll, supplies, rent, and equipment from cash you don't have yet.",
+      "description_fr": "Chaque cabinet médical suit le même calcul perdant : services rendus aujourd'hui, remboursement déposé dans deux mois. Dans l’intervalle, vous couvrez la paie, les fournitures, le loyer et l’équipement avec l’argent que vous n’avez pas encore.",
+      "category": "Health & Wellness",
+      "website": "https://claimvance.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T09:46:49.550138+00:00"
+    },
+    {
+      "name": "SweetLipsHQ",
+      "slug": "polsia-sweetlipshq",
+      "description": "Most indie artists scatter their energy across a dozen platforms and pray something sticks. SweetLipsHQ consolidates every promotion channel and revenue stream into one focused operation. The music is ready. The machine is being built.",
+      "description_fr": "La plupart des artistes indépendants dispersent leur énergie sur une douzaine de plateformes et prient pour que quelque chose colle. SweetLipsHQ consolide chaque canal de promotion et chaque source de revenus en une seule opération ciblée. La musique est prête. La machine est en cours de construction.",
+      "category": "Software & SaaS",
+      "website": "https://sweetlipshq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T09:46:50.694778+00:00"
+    },
+    {
+      "name": "Amplora",
+      "slug": "polsia-amplora-4",
+      "description": "Influencer marketing platforms gave brandsa dashboard.Brands still need a team to run it.Amplora gives brandsan employee. \n                One that works 24/7, manages every creator relationship, and never forgets to follow up.",
+      "description_fr": "Les plateformes de marketing d'influence ont donné aux marques un tableau de bord. Les marques ont toujours besoin d'une équipe pour le gérer. Amplora donne aux marques un employé. \n                Celui qui fonctionne 24h/24 et 7j/7, gère chaque relation avec les créateurs et n'oublie jamais d'effectuer un suivi.",
+      "category": "Marketing & Advertising",
+      "website": "https://amplora-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T09:46:51.792795+00:00"
+    },
+    {
+      "name": "Praxim — AI",
+      "slug": "polsia-praxim",
+      "description": "Praxim generates business training scenarios on the fly, adapts to every decision your team makes, and coaches them through it. No consultants. No static slides. Just an AI that trains like a human would, at a fraction of the cost.",
+      "description_fr": "Praxim génère des scénarios de formation commerciale à la volée, s'adapte à chaque décision prise par votre équipe et les accompagne dans cette démarche. Pas de consultants. Pas de diapositives statiques. Juste une IA qui s’entraîne comme le ferait un humain, à une fraction du coût.",
+      "category": "AI & Machine Learning",
+      "website": "https://praxim.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T09:46:52.966700+00:00"
+    },
+    {
+      "name": "GVSOS",
+      "slug": "polsia-gvsos",
+      "description": "GVS has been the backbone of Cyprus furniture hardware for three decades.GVSOS makes that operation run itself, so you can focus on what's next: new markets, new products, and staying ahead of the digital shift.",
+      "description_fr": "GVS est l'épine dorsale de la quincaillerie d'ameublement chypriote depuis trois décennies. GVSOS gère cette opération elle-même, afin que vous puissiez vous concentrer sur l'avenir : de nouveaux marchés, de nouveaux produits et garder une longueur d'avance sur le passage au numérique.",
+      "category": "Marketing & Advertising",
+      "website": "https://gvsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T09:46:53.976958+00:00"
     }
   ]
 }
