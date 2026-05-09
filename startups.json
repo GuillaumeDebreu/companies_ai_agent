@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T21:57:22.230906+00:00",
+  "last_updated": "2026-05-09T22:56:05.374725+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -116818,10 +116818,13 @@
     {
       "name": "Attesta",
       "slug": "polsia-attestahq",
+      "description": "Attesta exists because precision in translation isn't a luxury. When an assessment question means something different in Portuguese than in Korean, real decisions about real people get made on flawed data. We're building the AI that makes sure that doesn't happen.",
+      "description_fr": "Attesta existe parce que la précision dans la traduction n'est pas un luxe. Lorsqu’une question d’évaluation a un sens différent en portugais qu’en coréen, les décisions réelles concernant de vraies personnes sont prises sur la base de données erronées. Nous construisons l’IA qui garantit que cela n’arrive pas.",
+      "category": "AI & Machine Learning",
       "website": "https://attestahq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-09T21:57:04.899905+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-09T22:56:05.135112+00:00"
     },
     {
       "name": "PaneCast",
@@ -116910,6 +116913,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-09T21:57:13.733892+00:00"
+    },
+    {
+      "name": "Trovelo",
+      "slug": "polsia-trovelo",
+      "website": "https://trovelo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-09T22:55:47.184863+00:00"
+    },
+    {
+      "name": "GhostClout",
+      "slug": "polsia-ghostclout",
+      "description": "AI-powered ghost content creation for coaches, creators, and local businesses. We make you famous. You stay invisible.",
+      "description_fr": "Création de contenu fantôme basée sur l'IA pour les coachs, les créateurs et les entreprises locales. Nous vous rendons célèbre. Vous restez invisible.",
+      "category": "AI & Machine Learning",
+      "website": "https://ghostclout.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T22:55:48.843568+00:00"
+    },
+    {
+      "name": "ElizabethOS",
+      "slug": "polsia-elizabethos-2",
+      "description": "You built your practice one client at a time, in a region where most people still don't have access to mental health support. ElizabethOS exists to make sure your next sixteen years reach further, run smoother, and grow stronger.",
+      "description_fr": "Vous avez bâti votre cabinet un client à la fois, dans une région où la plupart des gens n'ont toujours pas accès à un soutien en santé mentale. ElizabethOS existe pour garantir que vos seize prochaines années iront plus loin, se dérouleront plus facilement et deviendront plus fortes.",
+      "category": "Health & Wellness",
+      "website": "https://elizabethos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T22:55:50.180023+00:00"
+    },
+    {
+      "name": "NegDoom",
+      "slug": "polsia-negdoom",
+      "description": "Probabilities cannot be negative. That is the point. It says: not only is doom unlikely, but the question itself is wrong. AI makes the future bigger, not smaller.",
+      "description_fr": "Les probabilités ne peuvent pas être négatives. C'est là le point. Il dit : non seulement une catastrophe est improbable, mais la question elle-même est fausse. L’IA rend l’avenir plus grand, et non plus petit.",
+      "category": "AI & Machine Learning",
+      "website": "https://negdoom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T22:55:51.381063+00:00"
+    },
+    {
+      "name": "Cabo Grog",
+      "slug": "polsia-cabo-grog",
+      "description": "For centuries, grogue has been the heartbeat of Cape Verdean gatherings. Distilled from fresh sugarcane juice in traditional copper pot stills, it carries the volcanic terroir of the islands, the warmth of the Atlantic, and the soul of a people who turned scarcity into culture.",
+      "description_fr": "Depuis des siècles, le grogue est le cœur des rassemblements cap-verdiens. Distillé à partir de jus de canne à sucre frais dans des alambics traditionnels en cuivre, il porte le terroir volcanique des îles, la chaleur de l'Atlantique et l'âme d'un peuple qui a transformé la rareté en culture.",
+      "category": "Other",
+      "website": "https://cabo-grog.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T22:55:53.509266+00:00"
+    },
+    {
+      "name": "Cargora",
+      "slug": "polsia-cargora-6",
+      "description": "Traditional export management costs $40,000-80,000 per year in human salaries. Cargora replaces that with an AI agent that works every hour of every day, across every time zone your buyers operate in.",
+      "description_fr": "La gestion traditionnelle des exportations coûte entre 40 000 et 80 000 dollars par an en salaires humains. Cargora remplace cela par un agent IA qui travaille à chaque heure de la journée, dans tous les fuseaux horaires dans lesquels vos acheteurs opèrent.",
+      "category": "AI & Machine Learning",
+      "website": "https://cargora-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T22:55:54.618070+00:00"
+    },
+    {
+      "name": "PenForge — Write Less, Deliver More",
+      "slug": "polsia-penforge-ng",
+      "description": "Every AI writing tool was built for businesses trying to replace writers. PenForge was built for writers trying to scale themselves. Your voice, your clients, your craft. Ten times the throughput.",
+      "description_fr": "Chaque outil d'écriture d'IA a été conçu pour les entreprises qui tentent de remplacer les écrivains. PenForge a été conçu pour les écrivains qui tentent de se développer. Votre voix, vos clients, votre métier. Dix fois le débit.",
+      "category": "AI & Machine Learning",
+      "website": "https://penforge-ng.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T22:55:56.056066+00:00"
+    },
+    {
+      "name": "Vitalara — Clean Peptide Therapy for Reproductive Health",
+      "slug": "polsia-vitalara",
+      "description": "The reproductive health industry has a transparency problem. Too many synthetic compounds, too little clarity about what goes into your body.Vitalara exists to change that, with clean peptide protocols designed around your biology, not pharmaceutical margins.",
+      "description_fr": "Le secteur de la santé reproductive a un problème de transparence. Trop de composés synthétiques, trop peu de clarté sur ce qui entre dans votre corps. Vitalara existe pour changer cela, avec des protocoles peptidiques propres conçus en fonction de votre biologie, et non des marges pharmaceutiques.",
+      "category": "Health & Wellness",
+      "website": "https://vitalara.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T22:55:58.255446+00:00"
+    },
+    {
+      "name": "VoltWorks — Electrical Installation & Maintenance in Sierra Leone",
+      "slug": "polsia-voltworks",
+      "description": "VoltWorks delivers professional electrical installation and maintenance for homes, businesses, and industrial sites across Sierra Leone. Reliable power starts with reliable work.",
+      "description_fr": "VoltWorks fournit des installations et une maintenance électriques professionnelles pour les maisons, les entreprises et les sites industriels à travers la Sierra Leone. Une alimentation fiable commence par un travail fiable.",
+      "category": "Other",
+      "website": "https://voltworks.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T22:55:59.506279+00:00"
+    },
+    {
+      "name": "WhiteBoardOS",
+      "slug": "polsia-whiteboardos",
+      "description": "Most tutoring businesses run on spreadsheets and memory. WhiteBoardOS runs on real-time data, automated workflows, and AI that learns from every interaction.",
+      "description_fr": "La plupart des entreprises de tutorat fonctionnent avec des feuilles de calcul et de la mémoire. WhiteBoardOS fonctionne sur des données en temps réel, des flux de travail automatisés et une IA qui apprend de chaque interaction.",
+      "category": "AI & Machine Learning",
+      "website": "https://whiteboardos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T22:56:00.651161+00:00"
     }
   ]
 }
