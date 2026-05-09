@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T07:59:08.443917+00:00",
+  "last_updated": "2026-05-09T08:15:39.954869+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -115297,18 +115297,24 @@
     {
       "name": "SpiceFlowOS",
       "slug": "polsia-spiceflowos",
+      "description": "Every order through an aggregator costs you 20-30% in commission. SpiceFlowOS gives your restaurant its own online presence, so customers order from you directly.",
+      "description_fr": "Chaque commande via un agrégateur vous coûte 20 à 30 % de commission. SpiceFlowOS donne à votre restaurant sa propre présence en ligne, afin que les clients commandent directement chez vous.",
+      "category": "Food & Beverage",
       "website": "https://spiceflowos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-09T06:23:30.962201+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-09T08:15:38.338837+00:00"
     },
     {
-      "name": "Prospera",
+      "name": "Prospera — Your AI Sales Agent",
       "slug": "polsia-prospera-47",
+      "description": "Not just enterprises with six-figure budgets. Prospera exists because the best sales technology shouldn't be locked behind a $60K price tag. If you have something worth selling, you deserve an agent that sells it.",
+      "description_fr": "Pas seulement les entreprises aux budgets à six chiffres. Prospera existe parce que la meilleure technologie de vente ne devrait pas être enfermée derrière un prix de 60 000 $. Si vous avez quelque chose qui vaut la peine d'être vendu, vous méritez un agent qui le vend.",
+      "category": "AI & Machine Learning",
       "website": "https://prospera-47.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-09T06:23:31.418670+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-09T08:15:39.817519+00:00"
     },
     {
       "name": "ZrutamOS — The Operating System for Enterprise L&D",
@@ -115397,6 +115403,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-09T06:23:43.641410+00:00"
+    },
+    {
+      "name": "AislePilot",
+      "slug": "polsia-aislepilot-4",
+      "website": "https://aislepilot-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-09T08:15:28.320268+00:00"
+    },
+    {
+      "name": "LocalWay",
+      "slug": "polsia-localway",
+      "website": "https://localway.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-09T08:15:28.499429+00:00"
+    },
+    {
+      "name": "Jofan",
+      "slug": "polsia-jofan",
+      "website": "https://jofan.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-09T08:15:28.680303+00:00"
+    },
+    {
+      "name": "PrepKaro — AI Tutor for Every Indian Student",
+      "slug": "polsia-prepkaro",
+      "description": "PrepKaro is the AI tutor built for Indian students. JEE doubts at 2am. Spoken English practice before your interview. Government exam prep in your language. One platform, no juggling.",
+      "description_fr": "PrepKaro est le tuteur d'IA conçu pour les étudiants indiens. JEE doute à 2h du matin. Pratique de l'anglais parlé avant votre entretien. Préparation aux examens gouvernementaux dans votre langue. Une seule plateforme, pas de jonglerie.",
+      "category": "AI & Machine Learning",
+      "website": "https://prepkaro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T08:15:29.853771+00:00"
+    },
+    {
+      "name": "Pounce — AI Sales Agent That Never Sleeps",
+      "slug": "polsia-pounce-42",
+      "description": "Pounce is the sales agent that never calls in sick, never forgets to follow up, and never stops looking for your next customer. Built for the founders and small teams who know that the best deals come from perfect timing, not brute force.",
+      "description_fr": "Pounce est l'agent commercial qui n'appelle jamais malade, n'oublie jamais de faire un suivi et ne cesse jamais de rechercher votre prochain client. Conçu pour les fondateurs et les petites équipes qui savent que les meilleures offres proviennent d'un timing parfait et non de la force brute.",
+      "category": "AI & Machine Learning",
+      "website": "https://pounce-42.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T08:15:31.174092+00:00"
+    },
+    {
+      "name": "CropAxis — From Farm to Export",
+      "slug": "polsia-cropaxis",
+      "description": "CropAxis is building the agro-industrial backbone Africa needs to stop \n                exporting raw materials and start exporting finished goods. Commodity \n                intelligence. Supply-chain financing. AI-driven trade systems. The goal \n                isn't market share. It's a new market reality where Africa processes \n                what Africa grows.",
+      "description_fr": "CropAxis construit l’épine dorsale agro-industrielle dont l’Afrique a besoin pour arrêter \n                exporter des matières premières et commencer à exporter des produits finis. Marchandise \n                renseignement. Financement de la chaîne d’approvisionnement. Systèmes commerciaux basés sur l’IA. Le but \n                ce n'est pas une part de marché. C'est une nouvelle réalité de marché dans laquelle l'Afrique traite \n                ce que l'Afrique cultive.",
+      "category": "AI & Machine Learning",
+      "website": "https://cropaxis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T08:15:32.186997+00:00"
+    },
+    {
+      "name": "PreciousOS",
+      "slug": "polsia-preciousos-2",
+      "description": "A personal AI companion for presence and wholeness. Share voice memos, reflections, whatever is alive in you. Avocado listens deeply and reflects your own values back, helping you stay connected to yourself and the people you love.",
+      "description_fr": "Un compagnon IA personnel pour la présence et la plénitude. Partagez des mémos vocaux, des réflexions, tout ce qui est vivant en vous. Avocado écoute profondément et reflète vos propres valeurs, vous aidant ainsi à rester connecté à vous-même et aux personnes que vous aimez.",
+      "category": "AI & Machine Learning",
+      "website": "https://preciousos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T08:15:32.961919+00:00"
+    },
+    {
+      "name": "Balanse — AI Financial Manager for West African Businesses",
+      "slug": "polsia-balanse-2",
+      "description": "Small businesses in West Africa move money through MTN MoMo, Orange Money, cash, and bank transfers. Every transaction lives in a different place. End of day, you're guessing. Dual currency rates shift while you sleep. Customers owe you money and nobody's tracking it.",
+      "description_fr": "Les petites entreprises d'Afrique de l'Ouest transfèrent de l'argent via MTN MoMo, Orange Money, des espèces et des virements bancaires. Chaque transaction vit dans un endroit différent. Fin de journée, vous devinez. Les taux de change changent pendant que vous dormez. Les clients vous doivent de l'argent et personne ne le suit.",
+      "category": "AI & Machine Learning",
+      "website": "https://balanse-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T08:15:34.020527+00:00"
+    },
+    {
+      "name": "Iron Rite — Bodybuilding as Philosophy",
+      "slug": "polsia-iron-rite",
+      "description": "The fitness industry sold you a transaction. Swipe your card, follow the program, get the body. Consume and comply. It stripped the iron of its weight and handed you a product where there should have been apractice.",
+      "description_fr": "L'industrie du fitness vous a vendu une transaction. Glissez votre carte, suivez le programme, récupérez le corps. Consommez et respectez-vous. Il a dépouillé le fer de son poids et vous a remis un produit là où il aurait dû y avoir une pratique.",
+      "category": "Health & Wellness",
+      "website": "https://iron-rite.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T08:15:35.425617+00:00"
+    },
+    {
+      "name": "Splintr — One Input, Infinite Reach",
+      "slug": "polsia-splintrai",
+      "description": "Feed Splintr a blog post, podcast, or video. It generates social posts, newsletters, threads, carousels, and video scripts. Then distributes everything. Autonomously.",
+      "description_fr": "Nourrissez Splintr d’un article de blog, d’un podcast ou d’une vidéo. Il génère des publications sociales, des newsletters, des fils de discussion, des carrousels et des scripts vidéo. Puis distribue tout. De manière autonome.",
+      "category": "Entertainment & Media",
+      "website": "https://splintrai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T08:15:36.834509+00:00"
     }
   ]
 }
