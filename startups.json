@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T13:21:04.588735+00:00",
+  "last_updated": "2026-05-09T14:06:55.332264+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -115823,10 +115823,13 @@
     {
       "name": "EatBuzzOS",
       "slug": "polsia-eatbuzzos",
+      "description": "EatBuzzOS is the command center for school meal delivery. Orders, prep sheets, school pipelines, revenue tracking. Everything Pallavi needs to go from 5 schools to 50.",
+      "description_fr": "EatBuzzOS est le centre de commande pour la livraison de repas scolaires. Commandes, fiches de préparation, pipelines scolaires, suivi des revenus. Tout ce dont Pallavi a besoin doit passer de 5 écoles à 50.",
+      "category": "Sales & CRM",
       "website": "https://eatbuzzos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-09T12:40:13.177015+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-09T14:06:55.037275+00:00"
     },
     {
       "name": "Appliqo",
@@ -115926,6 +115929,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-09T12:40:22.241479+00:00"
+    },
+    {
+      "name": "ShipKazi",
+      "slug": "polsia-shipkazi",
+      "website": "https://shipkazi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-09T14:06:41.542132+00:00"
+    },
+    {
+      "name": "BillKaro",
+      "slug": "polsia-billkaro",
+      "website": "https://billkaro.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-09T14:06:41.937686+00:00"
+    },
+    {
+      "name": "BallisticOS",
+      "slug": "polsia-ballisticos",
+      "description": "Ballistic Business Builder exists because the people who build things with their hands deserve a real shot at building something of their own. Not a side hustle. A business. With freedom, control, and a legacy worth passing down.",
+      "description_fr": "Ballistic Business Builder existe parce que les personnes qui construisent des choses de leurs propres mains méritent une véritable chance de construire quelque chose qui leur est propre. Pas une activité secondaire. Une entreprise. Avec la liberté, le contrôle et un héritage qui mérite d'être transmis.",
+      "category": "Other",
+      "website": "https://ballisticos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T14:06:43.283528+00:00"
+    },
+    {
+      "name": "Dinner and Company",
+      "slug": "polsia-dinner-and-company",
+      "description": "Columbia, South Carolina has a growing food scene and a deep hunger for meaningful connection. Dinner and Company was born here because this city deserves curated experiences that match its warmth. From the Vista to Five Points to your own backyard, we bring the table to you.",
+      "description_fr": "Columbia, en Caroline du Sud, a une scène culinaire en pleine croissance et une profonde soif de connexions significatives. Dinner and Company est né ici parce que cette ville mérite des expériences organisées à la hauteur de sa chaleur. Du Vista au Five Points en passant par votre propre jardin, nous vous apportons la table.",
+      "category": "Food & Beverage",
+      "website": "https://dinner-and-company.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T14:06:44.359955+00:00"
+    },
+    {
+      "name": "VoyageDesk",
+      "slug": "polsia-voyagedesk-3",
+      "description": "VoyageDesk doesn't replace the human touch that makes a great travel advisor. It removes everything else: the manual research, the forgotten follow-ups, the deals that slip by. What's left is you, doing what you do best, at a scale that used to require a team.",
+      "description_fr": "VoyageDesk ne remplace pas la touche humaine qui fait un excellent conseiller en voyages. Il supprime tout le reste : les recherches manuelles, les suivis oubliés, les deals qui passent. Ce qui vous reste, c'est vous qui faites ce que vous faites le mieux, à une échelle qui nécessitait autrefois une équipe.",
+      "category": "Travel & Hospitality",
+      "website": "https://voyagedesk-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T14:06:45.026900+00:00"
+    },
+    {
+      "name": "ParcleOS",
+      "slug": "polsia-parcleos",
+      "description": "Parcle connects the data real estate agents already have to the AI that needs it. No new apps. No CRM migration. Just intelligence, delivered through the messaging tools your agents already live in.",
+      "description_fr": "Parcle connecte les données dont disposent déjà les agents immobiliers à l’IA qui en a besoin. Aucune nouvelle application. Pas de migration CRM. Juste des renseignements, fournis via les outils de messagerie dans lesquels vos agents vivent déjà.",
+      "category": "AI & Machine Learning",
+      "website": "https://parcleos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T14:06:46.176852+00:00"
+    },
+    {
+      "name": "CargoMesh",
+      "slug": "polsia-cargomesh",
+      "description": "Every logistics company shouldn't have to build route optimization, fleet management, financing, warehousing, and tracking from zero. They should plug into one platform that handles all of it. That platform is CargoMesh.",
+      "description_fr": "Chaque entreprise de logistique ne devrait pas avoir à partir de zéro pour optimiser les itinéraires, gérer la flotte, financer, entreposage et suivre. Ils devraient se connecter à une seule plate-forme qui gère tout cela. Cette plateforme est CargoMesh.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://cargomesh.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T14:06:47.184940+00:00"
+    },
+    {
+      "name": "Pearl Rain Tours",
+      "slug": "polsia-pearlrainos",
+      "description": "Walk through 2,500 years of history. From the sacred city of Anuradhapura to the rock fortress of Sigiriya, from Kandy's Temple of the Tooth to the colonial streets of Galle Fort. Every site with context, not just a photo stop.",
+      "description_fr": "Parcourez 2 500 ans d'histoire. De la ville sacrée d'Anuradhapura à la forteresse rocheuse de Sigiriya, du temple de la Dent de Kandy aux rues coloniales du fort de Galle. Chaque site avec un contexte, pas seulement un arrêt photo.",
+      "category": "Other",
+      "website": "https://pearlrainos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T14:06:48.124390+00:00"
+    },
+    {
+      "name": "Gauge",
+      "slug": "polsia-gauge-2",
+      "website": "https://gauge-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-09T14:06:48.416129+00:00"
+    },
+    {
+      "name": "Niagafy — Your AI Store Manager for Southeast Asia",
+      "slug": "polsia-niagafy",
+      "description": "Every hour you spend answering \"is this in stock?\" is an hour you didn't spend growing. Niagafy handles the operations so you can focus on what actually moves the needle.",
+      "description_fr": "Chaque heure que vous passez à répondre « est-ce en stock ? » c'est une heure que vous n'avez pas passée à grandir. Niagafy gère les opérations afin que vous puissiez vous concentrer sur ce qui fait réellement bouger l'aiguille.",
+      "category": "AI & Machine Learning",
+      "website": "https://niagafy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T14:06:50.217255+00:00"
     }
   ]
 }
