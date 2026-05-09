@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T19:21:37.564559+00:00",
+  "last_updated": "2026-05-09T20:07:02.742142+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -116480,10 +116480,13 @@
     {
       "name": "SolDraft",
       "slug": "polsia-soldraft",
+      "description": "SolDraft exists so every installer, from a two-person crew to a regional player, can deliver professional-grade designs without the overhead of an in-house engineering team. Better plans, faster installs, happier customers.",
+      "description_fr": "SolDraft existe pour que chaque installateur, d'une équipe de deux personnes à un acteur régional, puisse fournir des conceptions de qualité professionnelle sans les frais généraux d'une équipe d'ingénierie interne. De meilleurs forfaits, des installations plus rapides, des clients plus satisfaits.",
+      "category": "Marketing & Advertising",
       "website": "https://soldraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-09T19:21:23.479055+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-09T20:07:00.642353+00:00"
     },
     {
       "name": "VenueOS — The Operating System for Luxury Venue Curation",
@@ -116583,6 +116586,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-09T19:21:35.290510+00:00"
+    },
+    {
+      "name": "StudyLime",
+      "slug": "polsia-studylime",
+      "website": "https://studylime.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-09T20:06:47.077922+00:00"
+    },
+    {
+      "name": "ReelGate",
+      "slug": "polsia-reelgate",
+      "description": "Telugu cinema is having its biggest decade ever. Streaming platforms are spending billions on original content. Indie films account for 40% of all digital consumption. But filmmakers still coordinate across dozens of vendors, platforms, and contacts to get a single project from concept to release. ReelGate closes that gap.",
+      "description_fr": "Le cinéma Telugu connaît sa plus grande décennie de tous les temps. Les plateformes de streaming dépensent des milliards en contenu original. Les films indépendants représentent 40 % de toute la consommation numérique. Mais les cinéastes continuent de se coordonner avec des dizaines de fournisseurs, de plateformes et de contacts pour mener à bien un seul projet, du concept à la sortie. ReelGate comble cet écart.",
+      "category": "Entertainment & Media",
+      "website": "https://reelgate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T20:07:02.740077+00:00"
+    },
+    {
+      "name": "NeonHustle",
+      "slug": "polsia-neonhustle",
+      "description": "NeonHustle is a faceless content brand that turns AI-generated short-form videos into a multi-stream revenue machine. TikTok, YouTube Shorts, Instagram Reels. All automated. All profitable.",
+      "description_fr": "NeonHustle est une marque de contenu sans visage qui transforme les vidéos courtes générées par l'IA en une machine à revenus multi-flux. TikTok, courts métrages YouTube, bobines Instagram. Tout est automatisé. Tout cela est rentable.",
+      "category": "Entertainment & Media",
+      "website": "https://neonhustle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T20:06:48.785116+00:00"
+    },
+    {
+      "name": "Motrada — AI Agents for Cross",
+      "slug": "polsia-motrada",
+      "description": "AI agents that source, evaluate, and procure vehicles across Dubai, Japan, UK, and US markets for European dealers and importers.",
+      "description_fr": "Des agents IA qui recherchent, évaluent et achètent des véhicules sur les marchés de Dubaï, du Japon, du Royaume-Uni et des États-Unis pour les concessionnaires et importateurs européens.",
+      "category": "AI & Machine Learning",
+      "website": "https://motrada.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T20:06:49.565405+00:00"
+    },
+    {
+      "name": "Dwella",
+      "slug": "polsia-dwella-4",
+      "description": "Dwella is building the future of property management. Not another tool to learn. Not another dashboard to check. An autonomous AI that runs your rentals the way you would, if you had 24 hours in a day and infinite patience.",
+      "description_fr": "Dwella construit l'avenir de la gestion immobilière. Pas un autre outil pour apprendre. Pas un autre tableau de bord à vérifier. Une IA autonome qui gère vos locations comme vous le feriez si vous aviez 24 heures dans une journée et une patience infinie.",
+      "category": "AI & Machine Learning",
+      "website": "https://dwella-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T20:06:50.369404+00:00"
+    },
+    {
+      "name": "LevAxis — Magnetic Bearing Systems",
+      "slug": "polsia-levaxis",
+      "description": "Every spinning shaft in the world touches something. Magnetic bearings change that fundamental constraint. LevAxis is building the systems that make frictionless rotation accessible to every industry that depends on it.",
+      "description_fr": "Chaque arbre en rotation dans le monde touche quelque chose. Les roulements magnétiques modifient cette contrainte fondamentale. LevAxis construit les systèmes qui rendent la rotation sans friction accessible à toutes les industries qui en dépendent.",
+      "category": "Other",
+      "website": "https://levaxis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T20:06:51.554493+00:00"
+    },
+    {
+      "name": "LovelyHomeOS",
+      "slug": "polsia-lovelyhomeos",
+      "description": "Eighteen years of craftsmanship meets autonomous operations. Every decision backed by data, every customer followed up, every competitor tracked. This is what running a furniture business looks like when nothing falls through the cracks.",
+      "description_fr": "Dix-huit ans de savoir-faire rencontrent des opérations autonomes. Chaque décision étayée par des données, chaque client suivi, chaque concurrent suivi. Voilà à quoi ressemble la gestion d’une entreprise de meubles lorsque rien ne passe entre les mailles du filet.",
+      "category": "Other",
+      "website": "https://lovelyhomeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T20:06:52.494931+00:00"
+    },
+    {
+      "name": "VerdaOS — Operating System for Digital Carbon Verification",
+      "slug": "polsia-verdaos",
+      "description": "The voluntary carbon market will be worth over $50 billion by the end of this decade. The only question is whether that value will be backed by real, verified impact, or by the same opaque promises that eroded trust in the first place. Verdana is building the infrastructure that makes the answer obvious.",
+      "description_fr": "Le marché volontaire du carbone représentera plus de 50 milliards de dollars d’ici la fin de cette décennie. La seule question est de savoir si cette valeur sera soutenue par un impact réel et vérifié, ou par les mêmes promesses opaques qui ont érodé la confiance en premier lieu. Verdana construit l'infrastructure qui rend la réponse évidente.",
+      "category": "Sustainability & Green",
+      "website": "https://verdaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T20:06:53.732532+00:00"
+    },
+    {
+      "name": "MaremaOS",
+      "slug": "polsia-maremaos",
+      "description": "Every braid tells a story of patience, precision, and cultural pride. But the best braiding salon in Brownsville shouldn't rely on foot traffic alone to fill chairs. MaremaOS bridges the gap between your artistry and the clients searching for it right now.",
+      "description_fr": "Chaque tresse raconte une histoire de patience, de précision et de fierté culturelle. Mais le meilleur salon de tressage de Brownsville ne devrait pas compter uniquement sur la circulation piétonnière pour remplir les chaises. MaremaOS comble le fossé entre votre talent artistique et les clients qui le recherchent actuellement.",
+      "category": "Other",
+      "website": "https://maremaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T20:06:54.718517+00:00"
+    },
+    {
+      "name": "PullRadar — Your AI Card Market Analyst",
+      "slug": "polsia-pullradar-2",
+      "description": "PullRadar is an AI agent that monitors card prices across every major marketplace, 24/7. It tracks your collection, spots deals before they vanish, and alerts you when the market moves.",
+      "description_fr": "PullRadar est un agent IA qui surveille les prix des cartes sur tous les principaux marchés, 24h/24 et 7j/7. Il suit votre collection, repère les offres avant qu'elles ne disparaissent et vous alerte lorsque le marché évolue.",
+      "category": "AI & Machine Learning",
+      "website": "https://pullradar-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-09T20:06:55.819318+00:00"
     }
   ]
 }
