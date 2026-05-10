@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T19:06:55.954094+00:00",
+  "last_updated": "2026-05-10T19:33:44.201745+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -118330,20 +118330,26 @@
       "scraped_at": "2026-05-10T17:15:01.684901+00:00"
     },
     {
-      "name": "LoanPilot",
+      "name": "LoanPilot — Your AI Loan Officer That Never Sleeps",
       "slug": "polsia-loanpilot-17",
+      "description": "The best loan officers don't lose deals because of skill. They lose them because there aren't enough hours in the day. LoanPilot handles the volume so the human touch goes where it matters most: building trust, solving problems, and getting people into homes.",
+      "description_fr": "Les meilleurs agents de crédit ne perdent pas de transactions à cause de leurs compétences. Ils les perdent parce qu'il n'y a pas assez d'heures dans la journée. LoanPilot gère le volume afin que la touche humaine aille là où elle compte le plus : établir la confiance, résoudre les problèmes et accueillir les gens dans les foyers.",
+      "category": "AI & Machine Learning",
       "website": "https://loanpilot-17.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T18:09:06.474539+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T19:33:42.216691+00:00"
     },
     {
-      "name": "NordAlpha",
+      "name": "NordAlpha — Oberoende nordisk aktieanalys",
       "slug": "polsia-nordalpha",
+      "description": "NordAlpha existerar för att ge svenska privatinvesterare tillgång till den typ av analys som tidigare bara fanns bakom institutionella paywalls. Oberoende, djup, och med genuin övertygelse.",
+      "description_fr": "NordAlpha existe pour les investisseurs privés suédois jusqu'à ce que le type d'analyse soit propre aux fans de paywalls institutionnels. Oberoende, djup, et med authentique övertygelse.",
+      "category": "Other",
       "website": "https://nordalpha.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T18:09:06.702771+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T19:33:43.925196+00:00"
     },
     {
       "name": "StageFeed",
@@ -118432,6 +118438,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-10T18:09:17.771719+00:00"
+    },
+    {
+      "name": "Adtract",
+      "slug": "polsia-adtract",
+      "website": "https://adtract.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T19:33:24.868835+00:00"
+    },
+    {
+      "name": "CerebroNovus",
+      "slug": "polsia-cerebronovusos",
+      "description": "South Africa is home to Africa's first neuroscience institute and a growing community of researchers pushing the boundaries of brain science. CerebroNovus brings that research out of the lab and into your daily routine.",
+      "description_fr": "L'Afrique du Sud abrite le premier institut de neurosciences d'Afrique et une communauté croissante de chercheurs repoussant les limites de la science du cerveau. CerebroNovus fait sortir cette recherche du laboratoire et l'intègre dans votre routine quotidienne.",
+      "category": "Social & Community",
+      "website": "https://cerebronovusos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T19:33:25.990254+00:00"
+    },
+    {
+      "name": "SoilEdge — Better Performance From the Inputs You're Already Using",
+      "slug": "polsia-soiledge",
+      "description": "Naturally-sourced mineral that locks nutrients in the root zone instead of letting them leach. Improves cation exchange capacity, retains water, and reduces fertilizer waste permanently. Unlike chemical amendments, zeolite doesn't break down. Apply once, benefit for years.",
+      "description_fr": "Minéral d'origine naturelle qui emprisonne les nutriments dans la zone racinaire au lieu de les laisser lessiver. Améliore la capacité d’échange cationique, retient l’eau et réduit de façon permanente les déchets d’engrais. Contrairement aux amendements chimiques, la zéolite ne se décompose pas. Appliquez-le une fois, profitez-en pendant des années.",
+      "category": "Marketing & Advertising",
+      "website": "https://soiledge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T19:33:27.692911+00:00"
+    },
+    {
+      "name": "Savage Warrior Fitness",
+      "slug": "polsia-savage-warrior-fitness",
+      "description": "Savage Warrior Fitness is more than a brand. It's a return to what you were built for. Through Tar-ok's story, ancient training methods, real equipment, and ancestral nutrition, we're building a tribe of humans who refuse to be domesticated by modern comfort.",
+      "description_fr": "Savage Warrior Fitness est plus qu'une marque. C'est un retour à ce pour quoi vous avez été construit. Grâce à l'histoire de Tar-ok, à d'anciennes méthodes d'entraînement, à de véritables équipements et à une alimentation ancestrale, nous construisons une tribu d'humains qui refusent de se laisser domestiquer par le confort moderne.",
+      "category": "Health & Wellness",
+      "website": "https://savage-warrior-fitness.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T19:33:29.159154+00:00"
+    },
+    {
+      "name": "Outpace — The AI SDR That Actually Delivers",
+      "slug": "polsia-outpace-ai-10",
+      "description": "\"Every AI SDR claims personalization. Most just insert {company_name} into a template. Outpace reads 15+ signals per prospect and writes from scratch. No templates. No mail merge. Just research turned into relevance.\"",
+      "description_fr": "\"Chaque AI SDR revendique la personnalisation. La plupart du temps, il suffit d'insérer {company_name} dans un modèle. Outpace lit plus de 15 signaux par prospect et écrit à partir de zéro. Pas de modèle. Pas de publipostage. Juste une recherche transformée en pertinence.\"",
+      "category": "AI & Machine Learning",
+      "website": "https://outpace-ai-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T19:33:30.264752+00:00"
+    },
+    {
+      "name": "PragmistOS",
+      "slug": "polsia-pragmistos",
+      "description": "Traditional agencies take 20-25% of a hire's annual salary. For a company with 30 employees, that means spending tens of thousands on a single placement, with no visibility into the process until a CV lands in the inbox.",
+      "description_fr": "Les agences traditionnelles prennent 20 à 25 % du salaire annuel d'un employé. Pour une entreprise de 30 employés, cela signifie dépenser des dizaines de milliers d'euros pour un seul stage, sans aucune visibilité sur le processus jusqu'à ce qu'un CV arrive dans la boîte de réception.",
+      "category": "Newsletter & Email",
+      "website": "https://pragmistos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T19:33:31.761137+00:00"
+    },
+    {
+      "name": "HealtheChartsOS",
+      "slug": "polsia-healthechartsos",
+      "description": "Epic and Oracle serve health systems with 500+ beds. HealtheCharts serves everyone else. The clinics, the specialists, the community health centers that need interoperability the most but can afford it the least.",
+      "description_fr": "Epic et Oracle desservent des systèmes de santé comptant plus de 500 lits. HealtheCharts sert tout le monde. Les cliniques, les spécialistes, les centres de santé communautaires qui ont le plus besoin d’interopérabilité mais qui en ont le moins les moyens.",
+      "category": "Health & Wellness",
+      "website": "https://healthechartsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T19:33:32.663057+00:00"
+    },
+    {
+      "name": "Aideasthatshock — AI Ideas That Rewrite the Rules",
+      "slug": "polsia-aideasos",
+      "description": "We cut through all of it. Aideasthatshock surfaces only the ideas that genuinely change how you think about what's possible. Not what's trending. What's transformative. The concepts that make engineers pause, founders pivot, and skeptics reconsider.",
+      "description_fr": "Nous avons tout coupé. Aideasthatshock ne fait apparaître que les idées qui changent véritablement votre façon de penser ce qui est possible. Ce n’est pas la tendance. Ce qui est transformateur. Les concepts qui font réfléchir les ingénieurs, les fondateurs pivotent et les sceptiques reconsidèrent.",
+      "category": "AI & Machine Learning",
+      "website": "https://aideasos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T19:33:33.607318+00:00"
+    },
+    {
+      "name": "ArgamanOS",
+      "slug": "polsia-argamanos",
+      "description": "ArgamanOS exists because running a coverings business should feel as intentional as the surfaces you install. Every tile placed with precision. Every lead managed the same way.",
+      "description_fr": "ArgamanOS existe parce que gérer une entreprise de revêtements doit être aussi intentionnel que les surfaces que vous installez. Chaque tuile placée avec précision. Chaque prospect a été géré de la même manière.",
+      "category": "Marketing & Advertising",
+      "website": "https://argamanos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T19:33:35.071773+00:00"
+    },
+    {
+      "name": "NationhoodOS",
+      "slug": "polsia-nationhoodos",
+      "description": "NationhoodOS powers the infrastructure behind Irish-American cultural preservation, so the work of remembering never depends on a single voice or a single platform.",
+      "description_fr": "NationhoodOS alimente l'infrastructure derrière la préservation de la culture irlando-américaine, de sorte que le travail de mémoire ne dépend jamais d'une seule voix ou d'une seule plateforme.",
+      "category": "Software & SaaS",
+      "website": "https://nationhoodos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T19:33:36.552577+00:00"
     }
   ]
 }
