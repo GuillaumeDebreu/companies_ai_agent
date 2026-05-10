@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T20:25:29.592354+00:00",
+  "last_updated": "2026-05-10T21:13:20.453225+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -118552,10 +118552,13 @@
     {
       "name": "PagePitch",
       "slug": "polsia-pagepitch",
+      "description": "PagePitch scans Google Maps for local businesses missing a web presence, then sends a personalized cold email offering to build their site. Discovery, outreach, and delivery. One pipeline.",
+      "description_fr": "PagePitch analyse Google Maps à la recherche d'entreprises locales manquant de présence sur le Web, puis envoie une offre personnalisée par e-mail à froid pour créer leur site. Découverte, sensibilisation et livraison. Un pipeline.",
+      "category": "Sales & CRM",
       "website": "https://pagepitch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T20:25:14.284144+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T21:13:18.076014+00:00"
     },
     {
       "name": "DuBoisOS — Operating System for DuBois & Co.",
@@ -118571,10 +118574,13 @@
     {
       "name": "SerrurebOS",
       "slug": "polsia-serrurebos",
+      "description": "Un assistant intelligent qui repond aux appels et messages quand vous etes en intervention. Il collecte les details du client, estime le devis, et vous envoie un resume quand vous etes disponible. Plus d'appels perdus.",
+      "description_fr": "Un assistant intelligent qui répond aux appels et messages lorsque vous êtes en intervention. Il collecte les détails du client, estime le devis, et vous envoie un CV lorsque vous êtes disponible. Plus d'appels perdus.",
+      "category": "Other",
       "website": "https://serrurebos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T20:25:15.104859+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T21:13:19.411433+00:00"
     },
     {
       "name": "PorchLight",
@@ -118652,6 +118658,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-10T20:25:23.427924+00:00"
+    },
+    {
+      "name": "TrainForgeOS",
+      "slug": "polsia-trainforgeos",
+      "website": "https://trainforgeos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T21:13:04.821549+00:00"
+    },
+    {
+      "name": "KicksOS",
+      "slug": "polsia-kicksos",
+      "website": "https://kicksos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T21:13:05.057426+00:00"
+    },
+    {
+      "name": "SpotinOS",
+      "slug": "polsia-spotinos",
+      "website": "https://spotinos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T21:13:05.481719+00:00"
+    },
+    {
+      "name": "VendFlex",
+      "slug": "polsia-vendflex",
+      "description": "A calendar that works like you do. Set your available days, announce your locations, and let customers find you. Change next week's schedule in 30 seconds. No employee management overhead, just your business, your way.",
+      "description_fr": "Un calendrier qui fonctionne comme vous. Définissez vos jours disponibles, annoncez vos emplacements et laissez les clients vous trouver. Modifiez le programme de la semaine prochaine en 30 secondes. Pas de frais généraux de gestion des employés, juste votre entreprise, à votre façon.",
+      "category": "Sustainability & Green",
+      "website": "https://vendflex.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T21:13:06.324239+00:00"
+    },
+    {
+      "name": "PawStitch",
+      "slug": "polsia-pawstitch",
+      "website": "https://pawstitch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T21:13:07.080913+00:00"
+    },
+    {
+      "name": "HypeForge — Your AI Marketing Manager",
+      "slug": "polsia-hypeforge-2",
+      "description": "HypeForge is an autonomous AI marketing manager built for independent artists and creators. It runs your promotion, social media, and release campaigns 24/7 while you focus on making the work.",
+      "description_fr": "HypeForge est un gestionnaire marketing IA autonome conçu pour les artistes et créateurs indépendants. Il gère vos campagnes de promotion, de médias sociaux et de publication 24h/24 et 7j/7 pendant que vous vous concentrez sur la réalisation du travail.",
+      "category": "Marketing & Advertising",
+      "website": "https://hypeforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T21:13:08.701918+00:00"
+    },
+    {
+      "name": "Admiq",
+      "slug": "polsia-admiq",
+      "website": "https://admiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T21:13:09.049615+00:00"
+    },
+    {
+      "name": "TractionDesk",
+      "slug": "polsia-tractiondesk",
+      "website": "https://tractiondesk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T21:13:09.219943+00:00"
+    },
+    {
+      "name": "FlowDesk — AI Customer Operations for E",
+      "slug": "polsia-flowdesk-30",
+      "description": "FlowDesk is an AI agent that handles customer inquiries, returns, order tracking, and complaint resolution for e-commerce sellers across Southeast Asia. No hiring. No training. No sleep required.",
+      "description_fr": "FlowDesk est un agent IA qui gère les demandes des clients, les retours, le suivi des commandes et la résolution des réclamations pour les vendeurs de commerce électronique d'Asie du Sud-Est. Pas d'embauche. Aucune formation. Aucun sommeil requis.",
+      "category": "AI & Machine Learning",
+      "website": "https://flowdesk-30.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T21:13:10.964496+00:00"
+    },
+    {
+      "name": "DeSouzaOS",
+      "slug": "polsia-desouzaos",
+      "description": "South Africa invests more in education per capita than most nations. But spending doesn't equal learning. The DeSouza Education Foundation works at the community level, where the real gaps live: teacher support, after-school programs, digital access, and early childhood development. Not from a distance. From within.",
+      "description_fr": "L’Afrique du Sud investit davantage dans l’éducation par habitant que la plupart des pays. Mais dépenser n’est pas synonyme d’apprentissage. La DeSouza Education Foundation travaille au niveau communautaire, là où se situent les véritables lacunes : soutien des enseignants, programmes parascolaires, accès numérique et développement de la petite enfance. Pas à distance. De l’intérieur.",
+      "category": "Education",
+      "website": "https://desouzaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T21:13:12.751125+00:00"
     }
   ]
 }
