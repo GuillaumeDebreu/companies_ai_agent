@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T19:33:44.201745+00:00",
+  "last_updated": "2026-05-10T20:25:29.592354+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -118440,12 +118440,15 @@
       "scraped_at": "2026-05-10T18:09:17.771719+00:00"
     },
     {
-      "name": "Adtract",
+      "name": "Adtract — Fill Your Appointment Book",
       "slug": "polsia-adtract",
+      "description": "Adtract runs paid social campaigns for dentists, gyms, clinics, real estate agents, and coaches. More leads. More appointments. More revenue. Every month.",
+      "description_fr": "Adtract organise des campagnes sociales payantes pour les dentistes, les gymnases, les cliniques, les agents immobiliers et les coachs. Plus de pistes. Plus de rendez-vous. Plus de revenus. Chaque mois.",
+      "category": "Marketing & Advertising",
       "website": "https://adtract.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T19:33:24.868835+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T20:25:28.478231+00:00"
     },
     {
       "name": "CerebroNovus",
@@ -118545,6 +118548,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-10T19:33:36.552577+00:00"
+    },
+    {
+      "name": "PagePitch",
+      "slug": "polsia-pagepitch",
+      "website": "https://pagepitch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T20:25:14.284144+00:00"
+    },
+    {
+      "name": "DuBoisOS — Operating System for DuBois & Co.",
+      "slug": "polsia-duboisos",
+      "description": "Automated daily scans of competing fitness stores. Pricing changes, new products, marketing moves. Know what they're doing before their customers do.",
+      "description_fr": "Analyses quotidiennes automatisées des magasins de fitness concurrents. Changements de prix, nouveaux produits, mouvements marketing. Sachez ce qu'ils font avant leurs clients.",
+      "category": "E-Commerce & Retail",
+      "website": "https://duboisos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T20:25:29.499814+00:00"
+    },
+    {
+      "name": "SerrurebOS",
+      "slug": "polsia-serrurebos",
+      "website": "https://serrurebos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T20:25:15.104859+00:00"
+    },
+    {
+      "name": "PorchLight",
+      "slug": "polsia-porchlight-36",
+      "description": "PorchLight is an AI front desk agent that answers calls, books appointments, follows up with customers, and collects reviews. 24 hours a day. While you do the work that actually matters.",
+      "description_fr": "PorchLight est un agent de réception IA qui répond aux appels, prend des rendez-vous, assure le suivi des clients et recueille les avis. 24 heures sur 24. Pendant que vous faites le travail qui compte vraiment.",
+      "category": "AI & Machine Learning",
+      "website": "https://porchlight-36.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T20:25:16.139433+00:00"
+    },
+    {
+      "name": "GhostInk",
+      "slug": "polsia-ghostink-3",
+      "description": "Client outreach, proposals, project scoping, content drafts, revision management, invoicing. The AI handles the full lifecycle autonomously.",
+      "description_fr": "Sensibilisation des clients, propositions, cadrage du projet, rédactions de contenu, gestion des révisions, facturation. L’IA gère le cycle de vie complet de manière autonome.",
+      "category": "AI & Machine Learning",
+      "website": "https://ghostink-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T20:25:17.108133+00:00"
+    },
+    {
+      "name": "Berth — AI Freight Brokerage for Southern Africa",
+      "slug": "polsia-berth-ai",
+      "description": "Berth replaces phone calls, spreadsheets, and guesswork with AI that matches shippers to carriers, files customs documents, and tracks every shipment across Southern Africa.",
+      "description_fr": "Berth remplace les appels téléphoniques, les feuilles de calcul et les conjectures par une IA qui associe les expéditeurs aux transporteurs, classe les documents douaniers et suit chaque expédition à travers l'Afrique australe.",
+      "category": "AI & Machine Learning",
+      "website": "https://berth-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T20:25:18.721064+00:00"
+    },
+    {
+      "name": "BeamUp — Visibility that builds businesses",
+      "slug": "polsia-beamup",
+      "description": "BeamUp is the visibility platform for freelancers and agency owners. One profile that turns your expertise into inbound clients, partnerships, course sales, and agency growth.",
+      "description_fr": "BeamUp est la plateforme de visibilité pour les indépendants et les propriétaires d'agences. Un profil qui transforme votre expertise en clients entrants, en partenariats, en ventes de cours et en croissance d'agence.",
+      "category": "Consulting & Services",
+      "website": "https://beamup.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T20:25:19.580980+00:00"
+    },
+    {
+      "name": "Backline — AI Studio Operations for Music Producers",
+      "slug": "polsia-backline-7",
+      "description": "You're juggling dozens of concurrent projects. Every one has its own timeline, revision cycle, stem delivery chain, and label contact. The tools that exist are either AI mastering services (replacing your creative work) or generic project management (forcing your workflow into a task board). Neither solves the actual problem.",
+      "description_fr": "Vous jonglez avec des dizaines de projets simultanés. Chacun a son propre calendrier, son cycle de révision, sa chaîne de livraison et son propre contact pour l'étiquette. Les outils qui existent sont soit des services de maîtrise de l'IA (remplaçant votre travail créatif), soit une gestion de projet générique (forçant votre flux de travail dans un tableau de tâches). Ni l’un ni l’autre ne résout le problème réel.",
+      "category": "AI & Machine Learning",
+      "website": "https://backline-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T20:25:21.370151+00:00"
+    },
+    {
+      "name": "PeachPump",
+      "slug": "polsia-peachpump",
+      "description": "The glute workout space is a mess. One site has decent programs but sells you protein powder that wasn't designed for lower body training. Another sells booty bands with zero guidance on how to actually use them. And the \"expert\" content? Written by generalists who treat glutes like an afterthought.",
+      "description_fr": "L’espace d’entraînement des fessiers est en désordre. Un site propose des programmes décents mais vous vend de la poudre de protéines qui n'a pas été conçue pour l'entraînement du bas du corps. Un autre vend des bandes de butin sans aucune indication sur la façon de les utiliser réellement. Et le contenu « expert » ? Écrit par des généralistes qui traitent les fessiers après coup.",
+      "category": "Education",
+      "website": "https://peachpump.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T20:25:22.506929+00:00"
+    },
+    {
+      "name": "GigPath",
+      "slug": "polsia-gigpath",
+      "description": "Your step-by-step roadmap from zero to R50,000/month through freelancing, reselling, and online income in South Africa.",
+      "description_fr": "Votre feuille de route étape par étape de zéro à 50 000 R/mois grâce au travail indépendant, à la revente et aux revenus en ligne en Afrique du Sud.",
+      "category": "Other",
+      "website": "https://gigpath.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T20:25:23.427924+00:00"
     }
   ]
 }
