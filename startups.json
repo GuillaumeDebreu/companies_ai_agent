@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T05:53:13.075741+00:00",
+  "last_updated": "2026-05-10T08:04:07.932822+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -117247,10 +117247,13 @@
     {
       "name": "Clerq",
       "slug": "polsia-clerq-ai-15",
+      "description": "A part-time admin costs $1,500/month minimum. They work 20 hours a week, take vacations, and call in sick. Clerq works every hour of every day for a fraction of the cost. For a small business, that's the difference between staying afloat and actually growing.",
+      "description_fr": "Un administrateur à temps partiel coûte minimum 1 500 $/mois. They work 20 hours a week, take vacations, and call in sick. Clerq works every hour of every day for a fraction of the cost. For a small business, that's the difference between staying afloat and actually growing.",
+      "category": "Other",
       "website": "https://clerq-ai-15.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T05:52:56.248254+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T08:04:07.731965+00:00"
     },
     {
       "name": "SkillLens",
@@ -117350,6 +117353,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-10T05:53:09.397079+00:00"
+    },
+    {
+      "name": "HeatForge",
+      "slug": "polsia-heatforge",
+      "description": "Millions of South African families heat their homes with paraffin. It's cheap and available at the corner shop, but it kills. Spills ignite shacks in seconds. Children get burned. Families lose everything. The fuel is the problem. The stove is the solution.",
+      "description_fr": "Des millions de familles sud-africaines chauffent leur maison au pétrole. C'est bon marché et disponible au magasin du coin, mais ça tue. Les déversements enflamment les cabanes en quelques secondes. Les enfants sont brûlés. Les familles perdent tout. Le carburant est le problème. Le poêle est la solution.",
+      "category": "E-Commerce & Retail",
+      "website": "https://heatforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T08:03:58.189508+00:00"
+    },
+    {
+      "name": "TastebookOS",
+      "slug": "polsia-tastebookos",
+      "website": "https://tastebookos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T08:03:58.325523+00:00"
+    },
+    {
+      "name": "Syncly",
+      "slug": "polsia-syncly",
+      "website": "https://syncly.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T08:03:58.475560+00:00"
+    },
+    {
+      "name": "InvoiceBolt",
+      "slug": "polsia-invoicebolt",
+      "website": "https://invoicebolt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T08:03:58.628070+00:00"
+    },
+    {
+      "name": "StandupPilot",
+      "slug": "polsia-standuppilot",
+      "website": "https://standuppilot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T08:03:58.861881+00:00"
+    },
+    {
+      "name": "InvoiceKit — Invoicing for Freelancers",
+      "slug": "polsia-invoicekit",
+      "description": "Create professional invoices in under 60 seconds. Track who owes you. Get paid on time — without the accounting degree.",
+      "description_fr": "Créez des factures professionnelles en moins de 60 secondes. Suivez qui vous doit. Soyez payé à temps, sans diplôme en comptabilité.",
+      "category": "Finance & Fintech",
+      "website": "https://invoicekit.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T08:04:00.127778+00:00"
+    },
+    {
+      "name": "CueForge — Your A&R Agent That Never Sleeps",
+      "slug": "polsia-cueforge-2",
+      "description": "CueForge monitors every sync opportunity across film, TV, gaming, and advertising. It matches your artists to the right briefs, pitches automatically, and closes placements while you focus on relationships.",
+      "description_fr": "CueForge surveille chaque opportunité de synchronisation dans les domaines du cinéma, de la télévision, des jeux et de la publicité. Il associe vos artistes aux bons briefs, les propose automatiquement et clôture les placements pendant que vous vous concentrez sur les relations.",
+      "category": "Marketing & Advertising",
+      "website": "https://cueforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T08:04:01.139805+00:00"
+    },
+    {
+      "name": "iTechGenOS",
+      "slug": "polsia-itechgenos",
+      "description": "iTechGenOS centralizes pipeline, projects, team utilization, and financials into one command center. Built for a 35-person agency shipping AI-native mobile apps across six verticals.",
+      "description_fr": "iTechGenOS centralise le pipeline, les projets, l'utilisation des équipes et les finances dans un seul centre de commande. Conçu pour une agence de 35 personnes proposant des applications mobiles natives d'IA dans six secteurs verticaux.",
+      "category": "AI & Machine Learning",
+      "website": "https://itechgenos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T08:04:02.538779+00:00"
+    },
+    {
+      "name": "BangBuckOS",
+      "slug": "polsia-bangbuckos",
+      "description": "The discount market is full of noise. Temu competes on chaos. Wish competes on volume. More Bang 4ur Buck competes on curation, trust, and speed. BangBuckOS is the system that makes it all run.",
+      "description_fr": "Le marché discount est plein de bruit. Temu rivalise sur le chaos. Wish est en concurrence sur le volume. More Bang 4ur Buck est en compétition sur la curation, la confiance et la rapidité. BangBuckOS est le système qui fait tout fonctionner.",
+      "category": "Other",
+      "website": "https://bangbuckos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T08:04:03.695548+00:00"
+    },
+    {
+      "name": "Rallyseed — AI That Runs Grassroots Movements",
+      "slug": "polsia-rallyseed",
+      "description": "Define your cause, set your goals, and tell Rallyseed who you're trying to reach. It builds the campaign plan, messaging strategy, and outreach timeline automatically.",
+      "description_fr": "Définissez votre cause, fixez vos objectifs et dites à Rallyseed qui vous essayez d'atteindre. Il crée automatiquement le plan de campagne, la stratégie de messagerie et le calendrier de sensibilisation.",
+      "category": "AI & Machine Learning",
+      "website": "https://rallyseed.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T08:04:05.133456+00:00"
     }
   ]
 }
