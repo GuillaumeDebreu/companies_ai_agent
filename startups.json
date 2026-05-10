@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T16:12:12.423123+00:00",
+  "last_updated": "2026-05-10T17:15:10.527778+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -118115,26 +118115,35 @@
     {
       "name": "Buzzhook",
       "slug": "polsia-buzzhook",
+      "description": "We install AI systems that answer every call, text back instantly, book appointments automatically, and follow up until the deal closes. You focus on the work. We capture every lead.",
+      "description_fr": "Nous installons des systèmes d'IA qui répondent à chaque appel, répondent instantanément, prennent automatiquement des rendez-vous et assurent le suivi jusqu'à la conclusion de la transaction. Vous vous concentrez sur le travail. Nous capturons chaque piste.",
+      "category": "AI & Machine Learning",
       "website": "https://buzzhook.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T16:11:58.567261+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T17:15:07.925786+00:00"
     },
     {
       "name": "Hauteur",
       "slug": "polsia-hauteur",
+      "description": "Proximity creates blind spots. Success creates comfort. Growth creates chaos. Hauteur exists because the best leaders aren't the ones who work the hardest. They're the ones who see the clearest.",
+      "description_fr": "La proximité crée des angles morts. Le succès crée du confort. La croissance crée le chaos. Hauteur existe parce que les meilleurs leaders ne sont pas ceux qui travaillent le plus dur. Ce sont eux qui voient le plus clair.",
+      "category": "Sales & CRM",
       "website": "https://hauteur.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T16:11:58.907376+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T17:15:09.091474+00:00"
     },
     {
       "name": "Khurd",
       "slug": "polsia-khurd",
+      "description": "10 million Mongolian speakers. Zero AI tools built for them. Every major platform treats Mongolian as an afterthought. Khurd treats it as the priority.",
+      "description_fr": "10 millions de locuteurs de mongol. Des outils zéro IA conçus pour eux. Chaque grande plate-forme traite le mongol après coup. Khurd le considère comme la priorité.",
+      "category": "AI & Machine Learning",
       "website": "https://khurd.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T16:11:59.052384+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T17:15:10.270842+00:00"
     },
     {
       "name": "Hollow Gold",
@@ -118212,6 +118221,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-10T16:12:06.174131+00:00"
+    },
+    {
+      "name": "GhostProtocol",
+      "slug": "polsia-ghostprotocol",
+      "website": "https://ghostprotocol.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T17:14:50.493298+00:00"
+    },
+    {
+      "name": "InstafreshOS",
+      "slug": "polsia-instafreshos-3",
+      "description": "While national players fight over the mainstream grocery aisle, Instafresh is building something they can't copy: deep community trust, curated selection, and same-day delivery for the products that matter most to Houston's South Asian families.",
+      "description_fr": "Alors que les acteurs nationaux se disputent le rayon des épiceries grand public, Instafresh construit quelque chose qu'ils ne peuvent pas copier : une confiance communautaire profonde, une sélection soignée et une livraison le jour même pour les produits qui comptent le plus pour les familles sud-asiatiques de Houston.",
+      "category": "AI & Machine Learning",
+      "website": "https://instafreshos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T17:14:51.589057+00:00"
+    },
+    {
+      "name": "BluefireOS",
+      "slug": "polsia-bluefireos",
+      "description": "From quote request to shipped product. Every order tracked through design approval, production, quality check, and delivery. No more spreadsheets. No more sticky notes. Know exactly where every coin is in the pipeline.",
+      "description_fr": "De la demande de devis au produit expédié. Chaque commande est suivie jusqu'à l'approbation de la conception, la production, le contrôle de qualité et la livraison. Fini les feuilles de calcul. Fini les notes autocollantes. Sachez exactement où se trouve chaque pièce dans le pipeline.",
+      "category": "Sales & CRM",
+      "website": "https://bluefireos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T17:14:53.093961+00:00"
+    },
+    {
+      "name": "Maison Sève — Premium Wellness Grocery, Paris",
+      "slug": "polsia-maison-seve",
+      "description": "Maison Sève is building the wellness grocery destination Paris has been waiting for. A place where every product tells a story, every visit feels intentional, and nourishment is treated as the art form it truly is.",
+      "description_fr": "La Maison Sève construit la destination épicerie bien-être que Paris attendait. Un lieu où chaque produit raconte une histoire, où chaque visite semble intentionnelle et où la nourriture est traitée comme la forme d'art qu'elle est véritablement.",
+      "category": "Health & Wellness",
+      "website": "https://maison-seve.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T17:14:54.048718+00:00"
+    },
+    {
+      "name": "CarbonAxis",
+      "slug": "polsia-carbonaxis",
+      "description": "Existing exchanges are siloed. Voluntary credit traders use one platform. Compliance buyers use another. Article 6 mechanisms are launching with no unified marketplace. Brokers juggle three systems. Price discovery is fragmented. Settlement is slow.",
+      "description_fr": "Les échanges existants sont cloisonnés. Les négociants en crédit volontaire utilisent une seule plateforme. Les acheteurs de conformité en utilisent un autre. Les mécanismes de l’article 6 sont lancés sans marché unifié. Les courtiers jonglent avec trois systèmes. La découverte des prix est fragmentée. Le règlement est lent.",
+      "category": "Software & SaaS",
+      "website": "https://carbonaxis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T17:14:55.282899+00:00"
+    },
+    {
+      "name": "DukaBooks",
+      "slug": "polsia-dukabooks",
+      "description": "M-Pesa, Tigo Pesa, and Airtel Money move billions daily. But the business owners behind those transactions still reconcile by hand, chase payments through phone calls, and lose track of who owes what. The financial infrastructure is modern. The operations layer is still paper and memory.",
+      "description_fr": "M-Pesa, Tigo Pesa et Airtel Money déplacent des milliards chaque jour. Mais les propriétaires d’entreprise à l’origine de ces transactions continuent de se réconcilier à la main, de rechercher les paiements par téléphone et de perdre la trace de qui doit quoi. L'infrastructure financière est moderne. La couche opérationnelle est toujours le papier et la mémoire.",
+      "category": "Finance & Fintech",
+      "website": "https://dukabooks.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T17:14:56.348745+00:00"
+    },
+    {
+      "name": "PageForward — Give Your Book the Stage It Deserves",
+      "slug": "polsia-pageforward",
+      "description": "Your book is on Amazon. Maybe Goodreads. A mention on social media that disappears in hours. But where does someone go to truly discover it? To feel its world, read its reviews, understand why it matters? PageForward is that place.",
+      "description_fr": "Votre livre est sur Amazon. Peut-être Goodreads. Une mention sur les réseaux sociaux qui disparaît en quelques heures. Mais où va-t-on pour vraiment le découvrir ? Pour ressentir son monde, lire ses critiques, comprendre pourquoi c'est important ? PageForward est cet endroit.",
+      "category": "Marketing & Advertising",
+      "website": "https://pageforward.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T17:14:57.748950+00:00"
+    },
+    {
+      "name": "WestinOS",
+      "slug": "polsia-westinos",
+      "description": "When your inventory lives in two warehouses 2,500 miles apart, and your dealers span every time zone, the questions multiply. Which warehouse ships this order? Is that dealer overdue for a reorder? Where's the margin leaking?",
+      "description_fr": "Lorsque votre inventaire se trouve dans deux entrepôts distants de 2 500 milles et que vos concessionnaires couvrent tous les fuseaux horaires, les questions se multiplient. Quel entrepôt expédie cette commande ? Ce revendeur est-il en retard pour une nouvelle commande ? Où est la fuite de marge ?",
+      "category": "Logistics & Supply Chain",
+      "website": "https://westinos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T17:14:58.997266+00:00"
+    },
+    {
+      "name": "TopFrag",
+      "slug": "polsia-topfrag",
+      "description": "TopFrag is the premium progression service for Call of Duty. Ranked boosting, win streaks, duo carries, weapon unlocks. All manual gameplay, all pro players, all confidential.",
+      "description_fr": "TopFrag est le service de progression premium pour Call of Duty. Boosting classé, séquences de victoires, portages en duo, déverrouillage d'armes. Tout un gameplay manuel, tous des joueurs professionnels, tous confidentiels.",
+      "category": "Other",
+      "website": "https://topfrag.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T17:15:00.083274+00:00"
+    },
+    {
+      "name": "DubbskiiOS",
+      "slug": "polsia-dubbskiios",
+      "description": "Every game in one view. Dev milestones, playtesting status, launch readiness. Know exactly where each title stands without digging through folders.",
+      "description_fr": "Chaque jeu en une seule vue. Jalons de développement, statut des tests de jeu, préparation au lancement. Sachez exactement où se situe chaque titre sans fouiller dans les dossiers.",
+      "category": "Other",
+      "website": "https://dubbskiios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T17:15:01.684901+00:00"
     }
   ]
 }
