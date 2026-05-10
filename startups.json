@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T15:13:56.235457+00:00",
+  "last_updated": "2026-05-10T16:12:12.423123+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -118005,10 +118005,13 @@
     {
       "name": "BrightBook",
       "slug": "polsia-brightbook",
+      "description": "Every hour you spend answering calls, managing schedules, and chasing payments is an hour you are not growing your business. BrightBook handles the office work so you can scale from 5 clients to 50 without hiring an assistant.",
+      "description_fr": "Chaque heure que vous passez à répondre à des appels, à gérer des plannings et à rechercher des paiements est une heure pendant laquelle vous ne développez pas votre entreprise. BrightBook gère le travail de bureau afin que vous puissiez passer de 5 clients à 50 sans embaucher d'assistant.",
+      "category": "Finance & Fintech",
       "website": "https://brightbook.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T15:13:42.722046+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T16:12:11.092404+00:00"
     },
     {
       "name": "Kunateh Impact OS — Certainty for Business Owners",
@@ -118022,12 +118025,15 @@
       "scraped_at": "2026-05-10T15:13:44.153383+00:00"
     },
     {
-      "name": "Kassaro",
+      "name": "Kassaro — Your AI Collections Agent",
       "slug": "polsia-kassaro",
+      "description": "Traditional invoicing software sends one template email and hopes for the best. Kassaro operates like a dedicated collections agent on your team. It understands context, adapts its approach per client, and escalates intelligently.",
+      "description_fr": "Les logiciels de facturation traditionnels envoient un modèle d’e-mail et espèrent le meilleur. Kassaro fonctionne comme un agent de recouvrement dédié au sein de votre équipe. Il comprend le contexte, adapte son approche par client et escalade intelligemment.",
+      "category": "AI & Machine Learning",
       "website": "https://kassaro.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T15:13:44.265398+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T16:12:11.900281+00:00"
     },
     {
       "name": "PropertyProwl",
@@ -118105,6 +118111,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-10T15:13:54.556813+00:00"
+    },
+    {
+      "name": "Buzzhook",
+      "slug": "polsia-buzzhook",
+      "website": "https://buzzhook.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T16:11:58.567261+00:00"
+    },
+    {
+      "name": "Hauteur",
+      "slug": "polsia-hauteur",
+      "website": "https://hauteur.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T16:11:58.907376+00:00"
+    },
+    {
+      "name": "Khurd",
+      "slug": "polsia-khurd",
+      "website": "https://khurd.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T16:11:59.052384+00:00"
+    },
+    {
+      "name": "Hollow Gold",
+      "slug": "polsia-hollow-gold",
+      "description": "Hollow Gold is streetwear for the unspoken. Built on emotional truth, released in limited drops, gone when they're gone. We don't make clothes. We make what silence looks like when it finally speaks.",
+      "description_fr": "Hollow Gold est un streetwear pour les non-dits. Construit sur une vérité émotionnelle, publié en gouttes limitées, disparu quand ils sont partis. Nous ne confectionnons pas de vêtements. Nous créons à quoi ressemble le silence lorsqu'il parle enfin.",
+      "category": "Other",
+      "website": "https://hollow-gold.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T16:12:00.391217+00:00"
+    },
+    {
+      "name": "StitchCraft",
+      "slug": "polsia-stitchcraft",
+      "description": "StitchCraft turns Bangladesh's world-class garment infrastructure into your private label advantage. We source premium blanks from the factories next door, brand them as yours, and sell direct.",
+      "description_fr": "StitchCraft transforme l'infrastructure vestimentaire de classe mondiale du Bangladesh en votre avantage en matière de marque privée. Nous nous approvisionnons en flans de qualité supérieure auprès des usines voisines, les marquons comme les vôtres et les vendons directement.",
+      "category": "Marketing & Advertising",
+      "website": "https://stitchcraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T16:12:00.807668+00:00"
+    },
+    {
+      "name": "Mentoro",
+      "slug": "polsia-mentoro",
+      "description": "Every entrepreneur deserves access to strategic thinking, regardless of geography or budget. Mentoro exists to make that real, not through charity, but through technology that makes world-class advisory economically viable at any scale.",
+      "description_fr": "Chaque entrepreneur mérite d’avoir accès à une réflexion stratégique, quels que soient sa situation géographique ou son budget. Mentoro existe pour concrétiser cela, non pas grâce à la charité, mais grâce à une technologie qui rend le conseil de classe mondiale économiquement viable à n'importe quelle échelle.",
+      "category": "Education",
+      "website": "https://mentoro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T16:12:01.415656+00:00"
+    },
+    {
+      "name": "Hireself",
+      "slug": "polsia-hireself",
+      "description": "Hireself is an AI agent that handles the operational side of freelancing. It finds clients, writes proposals, sends invoices, and chases payments. Autonomously.",
+      "description_fr": "Hireself est un agent d'IA qui gère l'aspect opérationnel du travail indépendant. Il trouve des clients, rédige des propositions, envoie des factures et poursuit les paiements. De manière autonome.",
+      "category": "AI & Machine Learning",
+      "website": "https://hireself.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T16:12:02.629583+00:00"
+    },
+    {
+      "name": "ForgeClip",
+      "slug": "polsia-forgeclip",
+      "description": "Connects to your full YouTube channel or social accounts. Detects new uploads automatically. Finds the moments that will go viral before you do. Creates platform-ready Shorts, Reels, and TikToks with captions, hooks, transitions, and Forge Styles.",
+      "description_fr": "Se connecte à votre chaîne YouTube complète ou à vos comptes sociaux. Détecte automatiquement les nouveaux téléchargements. Trouve les moments qui deviendront viraux avant vous. Crée des courts métrages, des bobines et des TikToks prêts pour la plateforme avec des légendes, des crochets, des transitions et des styles Forge.",
+      "category": "Software & SaaS",
+      "website": "https://forgeclip.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T16:12:03.795945+00:00"
+    },
+    {
+      "name": "Revizia",
+      "slug": "polsia-revizia",
+      "description": "Revizia is an AI agent that continuously audits your interface, identifies friction, and delivers actionable design fixes. No consultants. No stale PDFs. Just constant improvement.",
+      "description_fr": "Revizia est un agent d'IA qui audite en permanence votre interface, identifie les frictions et fournit des correctifs de conception exploitables. Pas de consultants. Pas de PDF obsolètes. Juste une amélioration constante.",
+      "category": "AI & Machine Learning",
+      "website": "https://revizia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T16:12:05.349696+00:00"
+    },
+    {
+      "name": "Halisi Foods",
+      "slug": "polsia-halisi-foods",
+      "description": "Smallholder farmers grow exceptional tropical fruit but lack access to processing and markets. During peak season, mangoes sell for less than 5 shillings each, or rot on the ground entirely. We turn that surplus into premium dried products and put money back in farmers' hands.",
+      "description_fr": "Les petits exploitants agricoles cultivent des fruits tropicaux exceptionnels mais n’ont pas accès à la transformation et aux marchés. Pendant la haute saison, les mangues se vendent moins de 5 shillings pièce ou pourrissent entièrement sur le sol. Nous transformons cet excédent en produits séchés de qualité supérieure et remettons l'argent entre les mains des agriculteurs.",
+      "category": "Food & Beverage",
+      "website": "https://halisi-foods.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T16:12:06.174131+00:00"
     }
   ]
 }
