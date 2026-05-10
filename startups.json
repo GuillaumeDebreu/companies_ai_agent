@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T08:09:25.743442+00:00",
+  "last_updated": "2026-05-10T09:47:07.576528+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -117366,20 +117366,26 @@
       "scraped_at": "2026-05-10T08:03:58.189508+00:00"
     },
     {
-      "name": "TastebookOS",
+      "name": "TastebookOS — The Operating System for Tastebook",
       "slug": "polsia-tastebookos",
+      "description": "Most recipe managers were built for web clipping. But people discover recipes on TikTok and Instagram now. Tastebook was built for that shift. The challenge isn't the product. It's growing it in a market with entrenched players and zero margin for slow decisions.",
+      "description_fr": "La plupart des gestionnaires de recettes ont été conçus pour les coupures Web. Mais les gens découvrent désormais des recettes sur TikTok et Instagram. Tastebook a été conçu pour ce changement. Le défi n'est pas le produit. Il s'agit de le développer sur un marché avec des acteurs bien établis et une marge nulle pour les décisions lentes.",
+      "category": "Food & Beverage",
       "website": "https://tastebookos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T08:03:58.325523+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T09:47:04.527613+00:00"
     },
     {
-      "name": "Syncly",
+      "name": "Syncly — Autonomous Standup Replacement",
       "slug": "polsia-syncly",
+      "description": "Syncly connects to GitHub, Linear, and your dev tools — then delivers a synthesized team status update every morning. Nobody types anything. The meeting is gone.",
+      "description_fr": "Syncly connects to GitHub, Linear, and your dev tools — then delivers a synthesized team status update every morning. Personne ne tape rien. La réunion est terminée.",
+      "category": "Other",
       "website": "https://syncly.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T08:03:58.475560+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T09:47:05.934261+00:00"
     },
     {
       "name": "InvoiceBolt",
@@ -117451,6 +117457,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-10T08:04:05.133456+00:00"
+    },
+    {
+      "name": "FivetteOS — Votre parcours PMA, structuré et accompagné",
+      "slug": "polsia-fivetteos",
+      "description": "FivetteOS naît d'une conviction simple : l'expérience vécue, structurée et partagée, peut transformer un parcours solitaire en chemin accompagné. Pour toutes celles qui traversent la PMA transfrontalière.",
+      "description_fr": "FivetteOS naît d'une conviction simple : l'expérience vécue, structurée et partagée, peut transformer un parcours solitaire en chemin accompagné. Pour toutes celles qui traversent la PMA transfrontalière.",
+      "category": "Other",
+      "website": "https://fivetteos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T09:46:53.265198+00:00"
+    },
+    {
+      "name": "Ubundu Holdings",
+      "slug": "polsia-ubundu-holdings",
+      "description": "Ubundu Holdings exists because the continent's most promising sectors are connected. Basketball brings culture and attention. Fintech brings infrastructure and trust. Together, they build the foundation for everything else.",
+      "description_fr": "Ubundu Holdings existe parce que les secteurs les plus prometteurs du continent sont connectés. Le basket-ball apporte culture et attention. La Fintech apporte infrastructure et confiance. Ensemble, ils jettent les bases de tout le reste.",
+      "category": "Finance & Fintech",
+      "website": "https://ubundu-holdings.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T09:46:54.817929+00:00"
+    },
+    {
+      "name": "Chatisha",
+      "slug": "polsia-chatisha",
+      "description": "Websites didn't work here. Apps didn't stick. But WhatsApp? Everyone's already there. Chatisha meets your customers where they live, speaks their language, and turns every conversation into revenue. This is what commerce looks like when AI meets the market.",
+      "description_fr": "Les sites Web ne fonctionnaient pas ici. Les applications ne collent pas. Mais WhatsApp ? Tout le monde est déjà là. Chatisha rencontre vos clients là où ils vivent, parle leur langue et transforme chaque conversation en revenus. Voilà à quoi ressemble le commerce lorsque l’IA rencontre le marché.",
+      "category": "AI & Machine Learning",
+      "website": "https://chatisha.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T09:47:07.522147+00:00"
+    },
+    {
+      "name": "Crown & Quill",
+      "slug": "polsia-crown-quill",
+      "description": "Crown & Quill exists because medieval history is not a dusty relic in a museum case. It is alive in every border on a map, every legal tradition, every story we tell about power and loyalty and what it means to rule. We are building the place where that history finds its people.",
+      "description_fr": "Crown & Quill existe parce que l’histoire médiévale n’est pas une relique poussiéreuse dans une vitrine de musée. Il est vivant dans chaque frontière sur une carte, dans chaque tradition juridique, dans chaque histoire que nous racontons sur le pouvoir et la loyauté et sur ce que signifie gouverner. Nous construisons le lieu où cette histoire trouve ses habitants.",
+      "category": "Other",
+      "website": "https://crown-quill.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T09:46:56.242102+00:00"
+    },
+    {
+      "name": "Snagr",
+      "slug": "polsia-snagr",
+      "description": "Every freelancer, consultant, and agency deserves a world-class sales team. Snagr is the first one that costs less than your morning coffee and works harder than any human SDR ever could.",
+      "description_fr": "Chaque freelance, consultant et agence mérite une équipe commerciale de classe mondiale. Snagr est le premier qui coûte moins cher que votre café du matin et travaille plus dur que n'importe quel SDR humain.",
+      "category": "Consulting & Services",
+      "website": "https://snagr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T09:46:57.082246+00:00"
+    },
+    {
+      "name": "BookDirect Digital",
+      "slug": "polsia-bookdirect-digital",
+      "description": "While other agencies trade hours for rands, BookDirect Digital builds, contracts, and collects payment automatically. Every website becomes a revenue stream. Every contract protects your work. Every payment lands in your account without a single follow-up email.",
+      "description_fr": "Alors que d'autres agences échangent des heures contre des rands, BookDirect Digital crée, contracte et collecte automatiquement les paiements. Chaque site Web devient une source de revenus. Chaque contrat protège votre travail. Chaque paiement arrive sur votre compte sans un seul e-mail de suivi.",
+      "category": "Finance & Fintech",
+      "website": "https://bookdirect-digital.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T09:46:58.061071+00:00"
+    },
+    {
+      "name": "AutomateFlow",
+      "slug": "polsia-automateflow",
+      "description": "Every business owner hears about ChatGPT, automation, AI agents. But between running your practice and serving clients, who has time to figure out which tool does what?",
+      "description_fr": "Chaque propriétaire d'entreprise entend parler de ChatGPT, de l'automatisation et des agents IA. Mais entre gérer votre cabinet et servir les clients, qui a le temps de déterminer quel outil fait quoi ?",
+      "category": "AI & Machine Learning",
+      "website": "https://automateflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T09:46:59.160811+00:00"
+    },
+    {
+      "name": "NährKraft",
+      "slug": "polsia-naehrkraft",
+      "description": "Die meisten Ernährungskurse behandeln Essen wie eine mathematische Gleichung. Kalorien rein, Kalorien raus. Aber wer einen Körper wirklich versteht, weiß: Ernährung ist ein System, das mit Bewegung, Erholung und Lebensstil zusammenspielt.",
+      "description_fr": "Les meilleures études de formation se déroulent à Essen avec une étude mathématique. Kalorien rêne, Kalorien raus. Mais il y a un Körper wirklich versteht, weiß: Ernährung ist ein System, das mit Bewegung, Erholung et Lebensstil zusammenspielt.",
+      "category": "Other",
+      "website": "https://naehrkraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T09:47:00.395211+00:00"
+    },
+    {
+      "name": "LcModaOS",
+      "slug": "polsia-lcmodaos",
+      "description": "That means we don't just fill orders. We understand your brand's aspiration, your customer's expectation, and the quality threshold that separates luxury from everything else. Then we deliver it, on time, with daily quality control on the ground.",
+      "description_fr": "Cela signifie que nous ne nous contentons pas de remplir les commandes. Nous comprenons les aspirations de votre marque, les attentes de vos clients et le seuil de qualité qui sépare le luxe de tout le reste. Ensuite, nous le livrons, dans les délais, avec un contrôle qualité quotidien sur le terrain.",
+      "category": "Marketing & Advertising",
+      "website": "https://lcmodaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T09:47:01.883682+00:00"
+    },
+    {
+      "name": "Test Company 5",
+      "slug": "polsia-test-co-5-1778405709218-9c2ce58f",
+      "website": "https://test-co-5-1778405709218-9c2ce58f.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T09:47:01.984911+00:00"
     }
   ]
 }
