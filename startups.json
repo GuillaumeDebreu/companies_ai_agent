@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T10:49:47.484312+00:00",
+  "last_updated": "2026-05-10T11:39:00.150079+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -117590,10 +117590,13 @@
     {
       "name": "TaxMate",
       "slug": "polsia-taxmate",
+      "description": "Xero and MYOB are tools that still need someone to operate them. TaxMate works autonomously. It learns your business, remembers your structure, and handles compliance the way a dedicated bookkeeper would.",
+      "description_fr": "Xero et MYOB sont des outils qui nécessitent encore quelqu'un pour les faire fonctionner. TaxMate fonctionne de manière autonome. Il apprend votre entreprise, mémorise votre structure et gère la conformité comme le ferait un comptable dédié.",
+      "category": "Other",
       "website": "https://taxmate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T10:49:36.020637+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T11:38:59.861021+00:00"
     },
     {
       "name": "OutboundLab",
@@ -117671,6 +117674,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-10T10:49:43.830868+00:00"
+    },
+    {
+      "name": "HelpFindMe",
+      "slug": "polsia-helpfindme",
+      "website": "https://helpfindme.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T11:38:41.063492+00:00"
+    },
+    {
+      "name": "KineticCare",
+      "slug": "polsia-kineticcare",
+      "description": "Orthopedic practices lose patients between appointments. Not because the care isn't excellent, but because follow-up is manual, inconsistent, and unsustainable at scale. KineticCare changes that equation permanently.",
+      "description_fr": "Les cabinets orthopédiques perdent des patients entre les rendez-vous. Non pas parce que les soins ne sont pas excellents, mais parce que le suivi est manuel, incohérent et non durable à grande échelle. KineticCare change cette équation de façon permanente.",
+      "category": "Health & Wellness",
+      "website": "https://kineticcare.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T11:38:42.470941+00:00"
+    },
+    {
+      "name": "NeuralShield",
+      "slug": "polsia-neuralshield",
+      "description": "Baseline employee behavior patterns. Detect anomalous access, unusual data transfers, and privilege escalation attempts without invasive monitoring.",
+      "description_fr": "Modèles de comportement de base des employés. Détectez les accès anormaux, les transferts de données inhabituels et les tentatives d’élévation de privilèges sans surveillance invasive.",
+      "category": "AI & Machine Learning",
+      "website": "https://neuralshield.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T11:38:43.603702+00:00"
+    },
+    {
+      "name": "BacklogPilot",
+      "slug": "polsia-backlogpilot",
+      "description": "BacklogPilot is an AI agent that writes user stories, prioritizes your backlog, and generates sprint reports. Not a tool for Product Owners. The Product Owner itself.",
+      "description_fr": "BacklogPilot est un agent d'IA qui rédige des user stories, priorise votre backlog et génère des rapports de sprint. Ce n'est pas un outil pour les Product Owners. Le Product Owner lui-même.",
+      "category": "AI & Machine Learning",
+      "website": "https://backlogpilot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T11:38:44.973635+00:00"
+    },
+    {
+      "name": "BuildMartOS",
+      "slug": "polsia-buildmartos",
+      "description": "BuildMart already owns the physical experience. Nobody in Bengaluru comes close to 25,000 square feet of live displays. But physical excellence without digital operations means revenue walks out the door every day. BuildMartOS closes that gap. Every customer interaction captured. Every opportunity followed up. Every decision backed by data.",
+      "description_fr": "BuildMart possède déjà l'expérience physique. Personne à Bangalore ne s’approche de 25 000 pieds carrés d’expositions en direct. Mais l’excellence physique sans opérations numériques signifie que les revenus disparaissent chaque jour. BuildMartOS comble cette lacune. Chaque interaction client capturée. Chaque opportunité a été suivie. Chaque décision est étayée par des données.",
+      "category": "Other",
+      "website": "https://buildmartos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T11:38:46.521556+00:00"
+    },
+    {
+      "name": "Outgen",
+      "slug": "polsia-outgen",
+      "description": "Outgen is an AI sales agent that researches your ideal prospects, writes emails they actually want to read, follows up with precision, and puts meetings on your calendar. No templates. No manual work. Just booked calls.",
+      "description_fr": "Outgen est un agent commercial IA qui recherche vos prospects idéaux, rédige les e-mails qu'ils souhaitent réellement lire, assure le suivi avec précision et inscrit les réunions sur votre calendrier. Aucun modèle. Aucun travail manuel. Je viens de réserver des appels.",
+      "category": "AI & Machine Learning",
+      "website": "https://outgen.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T11:38:47.972034+00:00"
+    },
+    {
+      "name": "ToolTide",
+      "slug": "polsia-tooltide",
+      "description": "Honest reviews, real comparisons, and workflow breakdowns for every AI tool that matters. No sponsored rankings. No affiliate-first opinions. Just what works.",
+      "description_fr": "Des critiques honnêtes, des comparaisons réelles et des ventilations de flux de travail pour chaque outil d'IA important. Aucun classement sponsorisé. Aucun avis d'affiliation. Juste ce qui fonctionne.",
+      "category": "AI & Machine Learning",
+      "website": "https://tooltide.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T11:38:49.526805+00:00"
+    },
+    {
+      "name": "BuddySense",
+      "slug": "polsia-buddyops",
+      "description": "Traditional buddy programs pair people and forget them. BuddySense continuously monitors the health of peer relationships, surfacing early signals of disconnection so you can act before someone silently disengages.",
+      "description_fr": "Les programmes de jumelage traditionnels associent les gens et les oublient. BuddySense surveille en permanence la santé des relations avec vos pairs, détectant les premiers signaux de déconnexion afin que vous puissiez agir avant que quelqu'un ne se désengage silencieusement.",
+      "category": "Health & Wellness",
+      "website": "https://buddyops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T11:38:51.228690+00:00"
+    },
+    {
+      "name": "Revenox",
+      "slug": "polsia-revenox",
+      "description": "Revenox is an autonomous AI agent that finds prospects, writes personalized outreach, follows up relentlessly, and books meetings on your calendar. It works while you sleep.",
+      "description_fr": "Revenox est un agent IA autonome qui trouve des prospects, rédige des communications personnalisées, assure un suivi sans relâche et réserve des réunions sur votre calendrier. Cela fonctionne pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://revenox.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T11:38:52.797314+00:00"
+    },
+    {
+      "name": "Qiver",
+      "slug": "polsia-qiver",
+      "description": "Qiver isn't a rental app. It's the infrastructure layer that makes surfboard ownership optional. Travel lighter. Access more. Connect with the global surf community through the boards themselves. One city at a time, until every coastline is covered.",
+      "description_fr": "Qiver n'est pas une application de location. C'est la couche d'infrastructure qui rend facultative la possession d'une planche de surf. Voyagez plus léger. Accédez à plus. Connectez-vous avec la communauté mondiale du surf via les planches elles-mêmes. Une ville à la fois, jusqu'à ce que chaque littoral soit couvert.",
+      "category": "Travel & Hospitality",
+      "website": "https://qiver.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T11:38:54.351038+00:00"
     }
   ]
 }
