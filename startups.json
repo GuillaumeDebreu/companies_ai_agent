@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T13:22:06.750539+00:00",
+  "last_updated": "2026-05-10T14:09:27.107555+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -117788,18 +117788,24 @@
     {
       "name": "Clonova",
       "slug": "polsia-clonova",
+      "description": "Clonova creates a digital clone of yourself that doesn't just chat. It answers messages, attends meetings, creates content, negotiates deals, and runs operations. Autonomously.",
+      "description_fr": "Clonova crée un clone numérique de vous-même qui ne se contente pas de discuter. Il répond aux messages, assiste aux réunions, crée du contenu, négocie des accords et gère les opérations. De manière autonome.",
+      "category": "Entertainment & Media",
       "website": "https://clonova.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T12:41:17.761986+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T14:09:26.023963+00:00"
     },
     {
       "name": "AquaNerve",
       "slug": "polsia-aquanerve",
+      "description": "Not another generic IoT dashboard. AquaNerve is built from the ground up for the specific physics, chemistry, and biology of controlled-environment agriculture. Every ontology, every rule, every recommendation is grounded in the science of living systems.",
+      "description_fr": "Pas un autre tableau de bord IoT générique. AquaNerve est conçu dès le départ pour les domaines spécifiques de la physique, de la chimie et de la biologie de l'agriculture en environnement contrôlé. Chaque ontologie, chaque règle, chaque recommandation est fondée sur la science des systèmes vivants.",
+      "category": "Sustainability & Green",
       "website": "https://aquanerve.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T12:41:18.127166+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T14:09:27.062837+00:00"
     },
     {
       "name": "ResumeUpOS",
@@ -117888,6 +117894,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-10T12:41:29.376932+00:00"
+    },
+    {
+      "name": "Metr",
+      "slug": "polsia-metr",
+      "website": "https://metr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T14:09:13.243747+00:00"
+    },
+    {
+      "name": "DineLoop",
+      "slug": "polsia-dineloop",
+      "description": "AI agents continuously discover, verify, and onboard restaurants across Belgium. Live menus, real opening hours, zero commission. The platform grows itself while you focus on what matters.",
+      "description_fr": "Les agents IA découvrent, vérifient et intègrent en permanence les restaurants à travers la Belgique. Menus en direct, heures d'ouverture réelles, zéro commission. La plateforme se développe d'elle-même pendant que vous vous concentrez sur ce qui compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://dineloop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T14:09:13.914376+00:00"
+    },
+    {
+      "name": "PageStack",
+      "slug": "polsia-pagestack",
+      "description": "Most agencies build your site and vanish. You're left with a static page that collects dust. We stay, we optimize, we grow your numbers. Every month, the stack works harder for you.",
+      "description_fr": "La plupart des agences créent votre site et disparaissent. Vous vous retrouvez avec une page statique qui ramasse la poussière. Nous restons, nous optimisons, nous augmentons vos effectifs. Chaque mois, la pile travaille plus dur pour vous.",
+      "category": "Other",
+      "website": "https://pagestack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T14:09:15.018309+00:00"
+    },
+    {
+      "name": "UrbanFurOS",
+      "slug": "polsia-urbanfuros",
+      "description": "UrbanFurOS is the command center for Urban Fur Co. Inventory, customers, competitors, campaigns. Everything that used to live in your head, now lives here.",
+      "description_fr": "UrbanFurOS est le centre de commande d'Urban Fur Co. Inventaire, clients, concurrents, campagnes. Tout ce qui vivait dans votre tête vit désormais ici.",
+      "category": "Marketing & Advertising",
+      "website": "https://urbanfuros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T14:09:16.301509+00:00"
+    },
+    {
+      "name": "AutomontageAI",
+      "slug": "polsia-automontageos",
+      "description": "AI analyzes your music track and places every cut, transition, and zoom on the beat. Your montage feels like it was edited by a professional with perfect rhythm.",
+      "description_fr": "L'IA analyse votre morceau de musique et place chaque coupe, transition et zoom sur le rythme. Votre montage donne l'impression d'avoir été monté par un professionnel avec un rythme parfait.",
+      "category": "AI & Machine Learning",
+      "website": "https://automontageos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T14:09:17.747456+00:00"
+    },
+    {
+      "name": "Figyr",
+      "slug": "polsia-figyr",
+      "description": "Figyr is an AI analyst that watches your metrics around the clock. It spots trends, flags anomalies, and delivers insights while you focus on building.",
+      "description_fr": "Figyr est un analyste IA qui surveille vos mesures 24 heures sur 24. Il détecte les tendances, signale les anomalies et fournit des informations pendant que vous vous concentrez sur la construction.",
+      "category": "AI & Machine Learning",
+      "website": "https://figyr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T14:09:18.745780+00:00"
+    },
+    {
+      "name": "Nimblepath — AI Implementation for Local Businesses",
+      "slug": "polsia-nimblepath",
+      "description": "We walk into your office and set up AI that actually works. No jargon, no six-month projects, no developers needed. Just tools that save your team hours every week.",
+      "description_fr": "Nous entrons dans votre bureau et mettons en place une IA qui fonctionne réellement. Pas de jargon, pas de projets de six mois, pas besoin de développeurs. Juste des outils qui font gagner des heures à votre équipe chaque semaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://nimblepath.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T14:09:19.675962+00:00"
+    },
+    {
+      "name": "SubTailor",
+      "slug": "polsia-subtailor",
+      "description": "The survivors? The ones that feel personally curated. 52% of consumers prefer specialized boxes aligned with their specific needs. They pay more. They stay longer. They tell friends.",
+      "description_fr": "Les survivants ? Ceux qui se sentent personnellement sélectionnés. 52% des consommateurs préfèrent les box spécialisées et adaptées à leurs besoins spécifiques. Ils paient plus. Ils restent plus longtemps. Ils le disent à des amis.",
+      "category": "Other",
+      "website": "https://subtailor.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T14:09:20.922400+00:00"
+    },
+    {
+      "name": "NamasteOS",
+      "slug": "polsia-namasteos-2",
+      "description": "Every decision, from what to prep tomorrow to which neighborhood to expand into, gets sharper when you can see the full picture. NamasteOS turns scattered data into clear direction.",
+      "description_fr": "Chaque décision, depuis ce qu'il faut préparer demain jusqu'au quartier dans lequel s'étendre, devient plus précise lorsque vous pouvez avoir une vue d'ensemble. NamasteOS transforme les données dispersées en une direction claire.",
+      "category": "Other",
+      "website": "https://namasteos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T14:09:22.359022+00:00"
+    },
+    {
+      "name": "I Know A Guy",
+      "slug": "polsia-i-know-a-guy",
+      "description": "Every Philadelphia homeowner deserves someone they trust to call. Not a corporation. Not a stranger from an app. A guy who shows up, does the work right, and earns the referral. That's us.",
+      "description_fr": "Chaque propriétaire de Philadelphie mérite d'appeler quelqu'un en qui il a confiance. Pas une société. Pas un étranger à une application. Un gars qui se présente, fait le bon travail et mérite la recommandation. C'est nous.",
+      "category": "Other",
+      "website": "https://i-know-a-guy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T14:09:23.885663+00:00"
     }
   ]
 }
