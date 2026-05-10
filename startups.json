@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T11:39:00.150079+00:00",
+  "last_updated": "2026-05-10T12:41:35.066063+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -117678,10 +117678,13 @@
     {
       "name": "HelpFindMe",
       "slug": "polsia-helpfindme",
+      "description": "Government Amber Alerts have strict criteria most cases don't meet. In South Africa, the Meta-powered alert system has gone silent. Social media posts get lost in feeds. By the time the public knows someone is missing, the critical window has already closed.",
+      "description_fr": "Les alertes Amber du gouvernement comportent des critères stricts que la plupart des cas ne respectent pas. En Afrique du Sud, le système d’alerte alimenté par Meta est devenu silencieux. Les publications sur les réseaux sociaux se perdent dans les flux. Au moment où le public apprend la disparition d’une personne, la fenêtre critique est déjà fermée.",
+      "category": "Marketing & Advertising",
       "website": "https://helpfindme.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-10T11:38:41.063492+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-10T12:41:34.662047+00:00"
     },
     {
       "name": "KineticCare",
@@ -117781,6 +117784,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-10T11:38:54.351038+00:00"
+    },
+    {
+      "name": "Clonova",
+      "slug": "polsia-clonova",
+      "website": "https://clonova.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T12:41:17.761986+00:00"
+    },
+    {
+      "name": "AquaNerve",
+      "slug": "polsia-aquanerve",
+      "website": "https://aquanerve.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-10T12:41:18.127166+00:00"
+    },
+    {
+      "name": "ResumeUpOS",
+      "slug": "polsia-resumeupos",
+      "description": "ResumeUpOS tracks every lead, scores every resume, nurtures every follow-up, and surfaces the numbers that matter. One dashboard to run the whole operation.",
+      "description_fr": "ResumeUpOS suit chaque piste, note chaque CV, entretient chaque suivi et fait apparaître les chiffres qui comptent. Un tableau de bord pour exécuter toute l’opération.",
+      "category": "Software & SaaS",
+      "website": "https://resumeupos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T12:41:19.187305+00:00"
+    },
+    {
+      "name": "GrindMode",
+      "slug": "polsia-grindmode",
+      "description": "Built by a gamer who got tired of watching students waste their potential on scroll addiction. GrindMode turns the same dopamine loops that keep you gaming at 3am into fuel for building your actual future.",
+      "description_fr": "Construit par un joueur qui en avait assez de voir les étudiants gaspiller leur potentiel en étant dépendants du scroll. GrindMode transforme les mêmes boucles de dopamine qui vous permettent de jouer à 3 heures du matin en carburant pour construire votre avenir réel.",
+      "category": "Education",
+      "website": "https://grindmode.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T12:41:20.538849+00:00"
+    },
+    {
+      "name": "PixelPunch — Thumbnails That Demand Clicks",
+      "slug": "polsia-pixelpunch",
+      "description": "Every scroll is a split-second decision. The difference between a viewer clicking your video or scrolling past? One thumbnail. We make that thumbnail impossible to ignore.",
+      "description_fr": "Chaque parchemin est une décision prise en une fraction de seconde. La différence entre un spectateur qui clique sur votre vidéo ou qui la fait défiler ? Une vignette. Nous rendons cette vignette impossible à ignorer.",
+      "category": "Entertainment & Media",
+      "website": "https://pixelpunch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T12:41:22.172369+00:00"
+    },
+    {
+      "name": "TinyNest",
+      "slug": "polsia-tinynest",
+      "description": "TinyNest is different. We sit between the expensive international brands and the cheap, questionable items flooding marketplaces. Every product is hand-picked, tested, and backed by real parent feedback.",
+      "description_fr": "TinyNest est différent. Nous nous situons entre les marques internationales coûteuses et les articles bon marché et douteux qui inondent les marchés. Chaque produit est sélectionné, testé et soutenu par de véritables commentaires des parents.",
+      "category": "E-Commerce & Retail",
+      "website": "https://tinynest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T12:41:23.521391+00:00"
+    },
+    {
+      "name": "ClearScape",
+      "slug": "polsia-clearscape",
+      "description": "ClearScape creates defensible space around Arizona homes. We remove hazardous trees, clear brush, and build the buffer zones that keep your property safe and your insurance intact.",
+      "description_fr": "ClearScape crée un espace défendable autour des maisons de l'Arizona. Nous enlevons les arbres dangereux, dégageons les broussailles et construisons des zones tampons qui assurent la sécurité de votre propriété et l'intégrité de votre assurance.",
+      "category": "Real Estate",
+      "website": "https://clearscape.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T12:41:24.599102+00:00"
+    },
+    {
+      "name": "GiltFold",
+      "slug": "polsia-giltfold",
+      "description": "We work with 100lb+ cotton and bamboo papers, hand-torn deckled edges, and finishes that catch light like jewelry. Gold foil. Rose gold. Holographic. Every envelope is a promise of what's inside.",
+      "description_fr": "Nous travaillons avec des papiers de coton et de bambou de plus de 100 lb, des bords déchirés à la main et des finitions qui captent la lumière comme des bijoux. Feuille d'or. Or rose. Holographique. Chaque enveloppe est une promesse de ce qu'elle contient.",
+      "category": "Other",
+      "website": "https://giltfold.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T12:41:26.230079+00:00"
+    },
+    {
+      "name": "ShopBreeze",
+      "slug": "polsia-shopbreeze",
+      "description": "ShopBreeze is an AI employee that sells, supports, and follows up with every customer on WhatsApp and Instagram. 24/7. No scripts. No setup.",
+      "description_fr": "ShopBreeze est un employé d'IA qui vend, prend en charge et assure le suivi de chaque client sur WhatsApp et Instagram. 24h/24 et 7j/7. Aucun script. Aucune configuration.",
+      "category": "AI & Machine Learning",
+      "website": "https://shopbreeze.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T12:41:27.672172+00:00"
+    },
+    {
+      "name": "Chattera",
+      "slug": "polsia-chattera",
+      "description": "We're building the future where every small business in India has an AI employee that handles their entire customer communication layer, so they can focus on what they do best.",
+      "description_fr": "Nous construisons un avenir où chaque petite entreprise en Inde dispose d'un employé IA qui gère l'ensemble de sa couche de communication client, afin qu'elle puisse se concentrer sur ce qu'elle fait le mieux.",
+      "category": "AI & Machine Learning",
+      "website": "https://chattera.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-10T12:41:29.376932+00:00"
     }
   ]
 }
