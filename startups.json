@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T16:43:29.224640+00:00",
+  "last_updated": "2026-05-11T18:27:56.698374+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -119508,36 +119508,48 @@
       "scraped_at": "2026-05-11T14:05:02.919112+00:00"
     },
     {
-      "name": "GeauxUptownOS",
+      "name": "GeauxUptownOS — Your Healthcare Operations Command Center",
       "slug": "polsia-geauxuptownos",
+      "description": "19 years running operations at McKesson, Parkland Health, and Walgreens — compressed into AI-powered systems built for MedSpas, specialty pharmacies, multi-location clinics, and health-tech startups that can't justify Fortune 4 overhead.",
+      "description_fr": "19 ans d'expérience à diriger des opérations chez McKesson, Parkland Health et Walgreens - compressés dans des systèmes alimentés par l'IA conçus pour les MedSpas, les pharmacies spécialisées, les cliniques multi-sites et les startups de technologies de la santé qui ne peuvent pas justifier les frais généraux de Fortune 4.",
+      "category": "Health & Wellness",
       "website": "https://geauxuptownos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T16:43:12.934278+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T18:27:49.888516+00:00"
     },
     {
-      "name": "AuthorityHouseOS",
+      "name": "Authority House",
       "slug": "polsia-authorityhouseos",
+      "description": "Authority House exists because scattered advice doesn't scale. Repeatable systems do. Every product is designed to give you clarity, a framework, and the confidence to build something that lasts.",
+      "description_fr": "Authority House existe parce que les conseils dispersés ne sont pas évolutifs. Les systèmes reproductibles le font. Chaque produit est conçu pour vous offrir la clarté, un cadre et la confiance nécessaires pour construire quelque chose qui dure.",
+      "category": "Other",
       "website": "https://authorityhouseos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T16:43:13.150347+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T18:27:50.915716+00:00"
     },
     {
       "name": "Lacune",
       "slug": "polsia-lacune",
+      "description": "Lacune isn't a dashboard you configure. It's an agent that works continuously on your data quality, the way a dedicated team member would, except it never sleeps and never makes the same mistake twice.",
+      "description_fr": "Lacune n'est pas un tableau de bord que vous configurez. C'est un agent qui travaille en permanence sur la qualité de vos données, comme le ferait un membre dédié de votre équipe, sauf qu'il ne dort jamais et ne commet jamais deux fois la même erreur.",
+      "category": "Software & SaaS",
       "website": "https://lacune.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T16:43:13.575423+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T18:27:52.684921+00:00"
     },
     {
-      "name": "Immersa",
+      "name": "Immersa — Hotels That Remember You",
       "slug": "polsia-immersa",
+      "description": "AI-powered luxury hotels where rooms transform into personalized emotional experiences based on your memories, music, and personality.",
+      "description_fr": "Des hôtels de luxe alimentés par l'IA où les chambres se transforment en expériences émotionnelles personnalisées basées sur vos souvenirs, votre musique et votre personnalité.",
+      "category": "AI & Machine Learning",
       "website": "https://immersa.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T16:43:13.926777+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T18:27:54.061224+00:00"
     },
     {
       "name": "OffloadOps",
@@ -119562,12 +119574,15 @@
       "scraped_at": "2026-05-11T16:43:15.128864+00:00"
     },
     {
-      "name": "CommitIQ",
+      "name": "CommitIQ — Your AI Recruiting Agent for College Baseball",
       "slug": "polsia-commitiq",
+      "description": "The average D1 coach gets 200+ recruiting emails per week. Generic templates get deleted. Standing out requires personalized outreach with the right stats, at the right time, to the right programs. Most families can't sustain that cadence.",
+      "description_fr": "Le coach D1 moyen reçoit plus de 200 emails de recrutement par semaine. Les modèles génériques sont supprimés. Se démarquer nécessite une sensibilisation personnalisée avec les bonnes statistiques, au bon moment, et dans les bons programmes. La plupart des familles ne peuvent pas maintenir cette cadence.",
+      "category": "AI & Machine Learning",
       "website": "https://commitiq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T16:43:15.491166+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T18:27:55.535090+00:00"
     },
     {
       "name": "SnapReels",
@@ -119601,6 +119616,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-11T16:43:19.644417+00:00"
+    },
+    {
+      "name": "CodeClimb",
+      "slug": "polsia-codeclimb",
+      "website": "https://codeclimb.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T18:27:33.787087+00:00"
+    },
+    {
+      "name": "MirrorTrade",
+      "slug": "polsia-mirrortrade",
+      "website": "https://mirrortrade.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T18:27:34.179612+00:00"
+    },
+    {
+      "name": "Rayonix",
+      "slug": "polsia-rayonix-2",
+      "website": "https://rayonix-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T18:27:34.632906+00:00"
+    },
+    {
+      "name": "Policywise",
+      "slug": "polsia-policywise",
+      "website": "https://policywise.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T18:27:34.964049+00:00"
+    },
+    {
+      "name": "Cloth & Measure — Mobile Custom Suiting",
+      "slug": "polsia-cloth-and-measure",
+      "description": "Our partnership with Davion in Portugal gives you access to the same caliber of European production used by top luxury menswear brands. Select from hundreds of fabrics sourced from the finest mills in Italy and England. Each garment is individually crafted by 330+ skilled artisans with over six decades of tailoring expertise.",
+      "description_fr": "Notre partenariat avec Davion au Portugal vous donne accès au même calibre de production européenne que celui utilisé par les plus grandes marques de vêtements de luxe pour hommes. Choisissez parmi des centaines de tissus provenant des meilleures usines d'Italie et d'Angleterre. Chaque vêtement est confectionné individuellement par plus de 330 artisans qualifiés possédant plus de six décennies d'expertise en couture.",
+      "category": "Marketing & Advertising",
+      "website": "https://cloth-and-measure.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T18:27:36.783043+00:00"
+    },
+    {
+      "name": "CleanRig",
+      "slug": "polsia-cleanrig",
+      "description": "Most detailers treat trucks like big cars. We don't. Trucks in Colorado take real punishment. Mud, salt, gravel, construction dust. That requires a different approach.",
+      "description_fr": "La plupart des dessinateurs traitent les camions comme de grosses voitures. Nous ne le faisons pas. Les camions du Colorado subissent de véritables punitions. Boue, sel, gravier, poussière de construction. Cela nécessite une approche différente.",
+      "category": "Real Estate",
+      "website": "https://cleanrig.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T18:27:37.719563+00:00"
+    },
+    {
+      "name": "Station 21 — Built on Faith and Real Struggle",
+      "slug": "polsia-station21os",
+      "description": "Station 21 isn't fashion for the sake of fashion. It's your scars, your wins, and your story pressed into fabric. Every design is personal because every customer is personal.",
+      "description_fr": "Station 21 n'est pas de la mode pour la mode. Ce sont vos cicatrices, vos victoires et votre histoire gravées dans le tissu. Chaque création est personnelle car chaque client est personnel.",
+      "category": "Other",
+      "website": "https://station21os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T18:27:39.165204+00:00"
+    },
+    {
+      "name": "LuminaFlow",
+      "slug": "polsia-luminaflow",
+      "description": "LuminaFlow builds custom AI automations that replace manual workflows, cut operational costs, and give small businesses the infrastructure of companies ten times their size.",
+      "description_fr": "LuminaFlow crée des automatisations d'IA personnalisées qui remplacent les flux de travail manuels, réduisent les coûts opérationnels et offrent aux petites entreprises l'infrastructure d'entreprises dix fois leur taille.",
+      "category": "AI & Machine Learning",
+      "website": "https://luminaflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T18:27:40.798268+00:00"
+    },
+    {
+      "name": "HyperFlow",
+      "slug": "polsia-hyperflow",
+      "description": "HyperFlow builds AI-powered automation systems that respond to leads instantly, book appointments automatically, and convert customers while your team sleeps.",
+      "description_fr": "HyperFlow crée des systèmes d'automatisation basés sur l'IA qui répondent instantanément aux prospects, prennent automatiquement des rendez-vous et convertissent les clients pendant que votre équipe dort.",
+      "category": "AI & Machine Learning",
+      "website": "https://hyperflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T18:27:42.551229+00:00"
+    },
+    {
+      "name": "BSharpOS",
+      "slug": "polsia-bsharpos-2",
+      "description": "Dudley's B Sharp Academy has spent three decades proving that personalized music education changes communities. BSharpOS exists to make sure the next thirty years reach even more of DC.",
+      "description_fr": "La B Sharp Academy de Dudley a passé trois décennies à prouver que l'éducation musicale personnalisée change les communautés. BSharpOS existe pour garantir que les trente prochaines années touchent encore plus DC.",
+      "category": "Education",
+      "website": "https://bsharpos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T18:27:43.546619+00:00"
     }
   ]
 }
