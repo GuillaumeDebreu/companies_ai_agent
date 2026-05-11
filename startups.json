@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T11:33:40.078775+00:00",
+  "last_updated": "2026-05-11T14:05:11.507399+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -119291,36 +119291,48 @@
       "scraped_at": "2026-05-11T08:03:50.729696+00:00"
     },
     {
-      "name": "MetricDrop",
+      "name": "MetricDrop — Agency reporting on autopilot",
       "slug": "polsia-metricdrop",
+      "description": "MetricDrop pulls data from GA4, LinkedIn Ads, and your CRM, then generates branded PDF reports with human-like insights. Set up in 5 minutes. Never touch a spreadsheet on Friday again.",
+      "description_fr": "MetricDrop extrait les données de GA4, de LinkedIn Ads et de votre CRM, puis génère des rapports PDF de marque avec des informations de type humain. Mise en place en 5 minutes. Ne touchez plus jamais à une feuille de calcul vendredi.",
+      "category": "Marketing & Advertising",
       "website": "https://metricdrop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T11:33:27.136910+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T14:05:05.928647+00:00"
     },
     {
       "name": "BlastAds",
       "slug": "polsia-blastads",
+      "description": "Agencies charge thousands. DIY tools leave you guessing. BlastAds gives every small business access to the same AI-powered advertising that the big brands use, at a price that makes sense.",
+      "description_fr": "Les agences facturent des milliers. Les outils de bricolage vous laissent deviner. BlastAds donne à chaque petite entreprise l'accès à la même publicité basée sur l'IA que celle utilisée par les grandes marques, à un prix logique.",
+      "category": "Marketing & Advertising",
       "website": "https://blastads.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T11:33:27.528565+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T14:05:07.280923+00:00"
     },
     {
-      "name": "LoreForge",
+      "name": "LoreForge — AI",
       "slug": "polsia-loreforge-6",
+      "description": "LoreForge is an AI that runs the entire indie tabletop game publishing pipeline. Scouting designers, developing games, translating rulebooks, launching crowdfunding campaigns, and marketing to players. You focus on the games. The machine handles the business.",
+      "description_fr": "LoreForge est une IA qui gère l’ensemble du pipeline de publication de jeux de table indépendants. Recherche de concepteurs, développement de jeux, traduction de livres de règles, lancement de campagnes de financement participatif et marketing auprès des joueurs. Vous vous concentrez sur les jeux. La machine gère les affaires.",
+      "category": "AI & Machine Learning",
       "website": "https://loreforge-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T11:33:27.885952+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T14:05:08.562831+00:00"
     },
     {
       "name": "GlowDesk",
       "slug": "polsia-glowdesk-38",
+      "description": "An AI employee that books your clients, fills your calendar, follows up after every appointment, and grows your beauty business while you focus on your craft.",
+      "description_fr": "Un employé IA qui réserve vos clients, remplit votre calendrier, assure le suivi après chaque rendez-vous et développe votre activité de beauté pendant que vous vous concentrez sur votre métier.",
+      "category": "AI & Machine Learning",
       "website": "https://glowdesk-38.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T11:33:28.192661+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T14:05:09.833915+00:00"
     },
     {
       "name": "Synthra — Your AI Research Associate",
@@ -119334,12 +119346,15 @@
       "scraped_at": "2026-05-11T11:33:29.099709+00:00"
     },
     {
-      "name": "HoldFort",
+      "name": "HoldFort — Your AI Back Office That Never Clocks Out",
       "slug": "polsia-hold-fort",
+      "description": "Every time your phone rings and nobody picks up, that caller dials the next plumber on Google. You're not ignoring them. You're elbow-deep in a water heater. You're on a roof. You're driving. But to the customer, silence means \"try someone else.\" An office manager would fix this, but at $35K/year, most crews can't justify the hire.",
+      "description_fr": "Chaque fois que votre téléphone sonne et que personne ne décroche, cet appelant appelle le prochain plombier sur Google. Vous ne les ignorez pas. Vous êtes jusqu'aux coudes dans un chauffe-eau. Vous êtes sur un toit. Vous conduisez. Mais pour le client, le silence signifie « essayer quelqu'un d'autre ». Un chef de bureau résoudrait ce problème, mais à 35 000 $/an, la plupart des équipes ne peuvent pas justifier l'embauche.",
+      "category": "AI & Machine Learning",
       "website": "https://hold-fort.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T11:33:29.435381+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T14:05:11.246560+00:00"
     },
     {
       "name": "Big Dude Fishing Co — Gear Built for Bigger Anglers",
@@ -119384,6 +119399,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-11T11:33:34.134528+00:00"
+    },
+    {
+      "name": "FlavorPopOS",
+      "slug": "polsia-flavorpopos",
+      "website": "https://flavorpopos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T14:04:54.999112+00:00"
+    },
+    {
+      "name": "Overture",
+      "slug": "polsia-overture-63",
+      "website": "https://overture-63.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T14:04:55.165138+00:00"
+    },
+    {
+      "name": "Restora",
+      "slug": "polsia-restora-ops",
+      "website": "https://restora-ops.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T14:04:55.365336+00:00"
+    },
+    {
+      "name": "PressOwl — Your Newsletter Never Sleeps Again",
+      "slug": "polsia-pressowl",
+      "description": "AI agent that researches, writes, and publishes your newsletter on schedule. Your voice, amplified.",
+      "description_fr": "Agent IA qui recherche, rédige et publie votre newsletter dans les délais. Votre voix, amplifiée.",
+      "category": "AI & Machine Learning",
+      "website": "https://pressowl.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T14:04:56.426838+00:00"
+    },
+    {
+      "name": "Prevault — Your AI Financial Guardian",
+      "slug": "polsia-prevault",
+      "description": "Prevault connects to your bank via open banking APIs and monitors every transaction, every balance shift, every pending debit. It builds a real-time financial model of your cash flow.",
+      "description_fr": "Prevault se connecte à votre banque via des API bancaires ouvertes et surveille chaque transaction, chaque changement de solde, chaque débit en attente. Il construit un modèle financier en temps réel de votre trésorerie.",
+      "category": "AI & Machine Learning",
+      "website": "https://prevault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T14:04:56.956996+00:00"
+    },
+    {
+      "name": "NarratePro — Professional Audiobook Editing",
+      "slug": "polsia-narratepro",
+      "description": "Mouth clicks, breaths, long pauses, stumbles. We remove distractions so the narration flows naturally. Chapter markers, room tone matching, and seamless splicing included.",
+      "description_fr": "La bouche clique, respire, fait de longues pauses, trébuche. Nous supprimons les distractions pour que la narration se déroule naturellement. Marqueurs de chapitre, correspondance des tons de la pièce et épissure transparente inclus.",
+      "category": "Other",
+      "website": "https://narratepro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T14:04:58.107261+00:00"
+    },
+    {
+      "name": "NarrativeLab — AI",
+      "slug": "polsia-narrativelab",
+      "description": "AI-crafted, human-polished blog posts, social reels, newsletters, and ads. Built for local service businesses who need to show up online but don't have the time or budget for a full marketing team.",
+      "description_fr": "Articles de blog, réseaux sociaux, newsletters et publicités créés par l'IA et peaufinés par l'homme. Conçu pour les entreprises de services locales qui ont besoin d'apparaître en ligne mais qui n'ont pas le temps ni le budget nécessaires pour une équipe marketing complète.",
+      "category": "AI & Machine Learning",
+      "website": "https://narrativelab.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T14:04:59.148690+00:00"
+    },
+    {
+      "name": "Settla",
+      "slug": "polsia-settla-6",
+      "description": "Settla is the AI employee that never sleeps, never forgets an invoice, and never converts at a bad rate. Built from Lagos for every African business going global.",
+      "description_fr": "Settla est l'employé de l'IA qui ne dort jamais, n'oublie jamais une facture et ne convertit jamais à un mauvais taux. Construit à Lagos pour toutes les entreprises africaines qui se mondialisent.",
+      "category": "AI & Machine Learning",
+      "website": "https://settla-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T14:05:00.328773+00:00"
+    },
+    {
+      "name": "AdultsXtreme",
+      "slug": "polsia-adultsxtreme",
+      "description": "Massive catalogs with terrible UX. Clinical branding that sucks the fun out of everything. Or boutique stores priced for the few. AdultsXtreme sits in the gap: bold brand, premium products, accessible prices, modern experience.",
+      "description_fr": "Catalogues massifs avec une UX terrible. Une image de marque clinique qui enlève le plaisir de tout. Ou des boutiques à des prix réservés à quelques-uns. AdultsXtreme se situe dans la brèche : marque audacieuse, produits haut de gamme, prix accessibles, expérience moderne.",
+      "category": "E-Commerce & Retail",
+      "website": "https://adultsxtreme.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T14:05:01.761624+00:00"
+    },
+    {
+      "name": "SideGate",
+      "slug": "polsia-sidegate",
+      "description": "SideGate matches you to the unconventional income path that fits your skills, risk tolerance, and ambition. Trades. Freelancing. Micro-SaaS. Paid communities. Pick your gate.",
+      "description_fr": "SideGate vous propose une voie de revenu non conventionnelle qui correspond à vos compétences, votre tolérance au risque et votre ambition. Les métiers. Freelance. Micro-SaaS. Communautés payantes. Choisissez votre portail.",
+      "category": "Software & SaaS",
+      "website": "https://sidegate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T14:05:02.919112+00:00"
     }
   ]
 }
