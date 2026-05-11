@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T19:50:02.076346+00:00",
+  "last_updated": "2026-05-11T20:19:57.119336+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -119620,10 +119620,13 @@
     {
       "name": "CodeClimb",
       "slug": "polsia-codeclimb",
+      "description": "Edtech spent a decade selling content. Millions of courses. Single-digit completion rates. The internet already has free tutorials for everything. What it doesn't have is someone who watches you code, corrects your mistakes in real time, builds your portfolio with you, drills you on interview questions, and doesn't stop until you're employed. That's CodeClimb.",
+      "description_fr": "Edtech a passé une décennie à vendre du contenu. Des millions de cours. Taux d’achèvement à un chiffre. Internet propose déjà des tutoriels gratuits pour tout. Ce qu'il manque, c'est quelqu'un qui vous surveille coder, corrige vos erreurs en temps réel, construit votre portfolio avec vous, vous explique les questions d'entretien et ne s'arrête que lorsque vous êtes employé. C'est CodeClimb.",
+      "category": "Education",
       "website": "https://codeclimb.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T18:27:33.787087+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T20:19:54.406854+00:00"
     },
     {
       "name": "MirrorTrade",
@@ -119634,20 +119637,26 @@
       "scraped_at": "2026-05-11T18:27:34.179612+00:00"
     },
     {
-      "name": "Rayonix",
+      "name": "Rayonix — Autonomous Retail Execution for FMCG",
       "slug": "polsia-rayonix-2",
+      "description": "FMCG brands spend 15-25% of gross revenue on trade promotions. Field teams run manual audits on quarterly cycles. By the time non-compliance is detected, the promotion window has closed and the money is gone. The tools that exist today solve one piece: either image recognition, or trade promotion management, or sales force automation. None of them close the loop.",
+      "description_fr": "Les marques FMCG dépensent 15 à 25 % de leurs revenus bruts en promotions commerciales. Les équipes de terrain effectuent des audits manuels selon des cycles trimestriels. Au moment où une non-conformité est détectée, la fenêtre de promotion est fermée et l’argent a disparu. Les outils qui existent aujourd'hui ne résolvent qu'un seul problème : soit la reconnaissance d'images, soit la gestion des promotions commerciales, soit l'automatisation de la force de vente. Aucun d’entre eux ne boucle la boucle.",
+      "category": "E-Commerce & Retail",
       "website": "https://rayonix-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T18:27:34.632906+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T20:19:55.647068+00:00"
     },
     {
-      "name": "Policywise",
+      "name": "Policywise — AI",
       "slug": "polsia-policywise",
+      "description": "Policywise is built for this one. Every claim processed fairly, every risk assessed accurately, every policyholder served instantly. The future of insurance runs itself.",
+      "description_fr": "Policywise est conçu pour celui-ci. Chaque réclamation est traitée équitablement, chaque risque évalué avec précision, chaque assuré servi instantanément. L’avenir de l’assurance se joue de lui-même.",
+      "category": "AI & Machine Learning",
       "website": "https://policywise.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T18:27:34.964049+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T20:19:56.759837+00:00"
     },
     {
       "name": "Cloth & Measure — Mobile Custom Suiting",
@@ -119714,6 +119723,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-11T18:27:43.546619+00:00"
+    },
+    {
+      "name": "Sérena",
+      "slug": "polsia-serena",
+      "website": "https://serena.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T20:19:39.302070+00:00"
+    },
+    {
+      "name": "InkWhimsy",
+      "slug": "polsia-inkwhimsy",
+      "description": "Every product starts with a quote that hits different, wrapped in designs that feel like a hug from your funniest friend. Built in San Antonio, shipped everywhere.",
+      "description_fr": "Chaque produit commence par une citation différente, enveloppée dans des motifs qui ressemblent à un câlin de la part de votre ami le plus drôle. Construit à San Antonio, expédié partout.",
+      "category": "Real Estate",
+      "website": "https://inkwhimsy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T20:19:40.472904+00:00"
+    },
+    {
+      "name": "Numbrly",
+      "slug": "polsia-numbrly",
+      "description": "Every small business deserves the financial clarity that only big companies could afford. Numbrly makes that a reality, not by giving you another tool to learn, but by giving you a tireless financial partner that works while you sleep.",
+      "description_fr": "Chaque petite entreprise mérite la clarté financière que seules les grandes entreprises peuvent se permettre. Numbrly en fait une réalité, non pas en vous donnant un autre outil pour apprendre, mais en vous offrant un partenaire financier infatigable qui travaille pendant que vous dormez.",
+      "category": "Finance & Fintech",
+      "website": "https://numbrly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T20:19:41.998598+00:00"
+    },
+    {
+      "name": "DownToEarthOS",
+      "slug": "polsia-downtoearthos",
+      "description": "DownToEarthOS is the operating system for businesses that grow through doing great work, not through having the best admin processes. Every feature exists to give you back time, visibility, and momentum.",
+      "description_fr": "DownToEarthOS est le système d'exploitation destiné aux entreprises qui se développent grâce à un excellent travail et non grâce aux meilleurs processus d'administration. Chaque fonctionnalité existe pour vous redonner du temps, de la visibilité et de l'élan.",
+      "category": "Other",
+      "website": "https://downtoearthos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T20:19:42.697035+00:00"
+    },
+    {
+      "name": "NeatHaus",
+      "slug": "polsia-neathaus",
+      "description": "NeatHaus is building the online store we wished existed. Quality products, fair prices, fast delivery, and service that treats you like a person. Coming soon to households across the UK.",
+      "description_fr": "NeatHaus construit la boutique en ligne dont nous souhaitions exister. Des produits de qualité, des prix équitables, une livraison rapide et un service qui vous traite comme une personne. Bientôt disponible dans les foyers du Royaume-Uni.",
+      "category": "E-Commerce & Retail",
+      "website": "https://neathaus.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T20:19:44.129448+00:00"
+    },
+    {
+      "name": "SunoriOS",
+      "slug": "polsia-sunorios",
+      "description": "The accessories market is growing by $26 billion this decade. The Sunori Shop's bold, eclectic aesthetic is perfectly positioned for the maximalist wave. SunoriOS makes sure nothing gets left on the table.",
+      "description_fr": "Le marché des accessoires a augmenté de 26 milliards de dollars cette décennie. L'esthétique audacieuse et éclectique de Sunori Shop est parfaitement positionnée pour la vague maximaliste. SunoriOS s'assure que rien ne soit laissé sur la table.",
+      "category": "E-Commerce & Retail",
+      "website": "https://sunorios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T20:19:44.631994+00:00"
+    },
+    {
+      "name": "Afrinity",
+      "slug": "polsia-afrinity",
+      "description": "Afrinity is different. Built from the ground up for African singles and the diaspora.Bilingual from day one.Verification and safety as standard, not premium features. An experience that respects how you actually date.",
+      "description_fr": "L'affinité est différente. Construit à partir de zéro pour les célibataires africains et la diaspora. Bilingue dès le premier jour. Vérification et sécurité en standard, pas de fonctionnalités premium. Une expérience qui respecte la façon dont vous sortez réellement.",
+      "category": "Real Estate",
+      "website": "https://afrinity.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T20:19:45.938252+00:00"
+    },
+    {
+      "name": "FitFunnel",
+      "slug": "polsia-fitfunnel",
+      "description": "The best coaches aren't the ones with the fanciest software. They're the ones who make it effortless for new clients to say yes. FitFunnel removes every barrier between someone wanting to lose weight and becoming your client.",
+      "description_fr": "Les meilleurs coachs ne sont pas ceux qui disposent du logiciel le plus sophistiqué. Ce sont eux qui permettent aux nouveaux clients de dire oui sans effort. FitFunnel supprime toutes les barrières entre quelqu'un souhaitant perdre du poids et devenir votre client.",
+      "category": "Software & SaaS",
+      "website": "https://fitfunnel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T20:19:47.460993+00:00"
+    },
+    {
+      "name": "Bolide",
+      "slug": "polsia-bolide",
+      "description": "Pas une agence de location. Une experience. La Wallonie a enfin son service de supercars, concu pour ceux qui veulent conduire, pas juste se deplacer.",
+      "description_fr": "Pas une agence de location. Une expérience. La Wallonie a enfin son service de supercars, concu pour ceux qui veulent conduire, pas juste se déplacer.",
+      "category": "Other",
+      "website": "https://bolide.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T20:19:49.538347+00:00"
+    },
+    {
+      "name": "YardPass",
+      "slug": "polsia-yardpass",
+      "website": "https://yardpass.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T20:19:49.804439+00:00"
     }
   ]
 }
