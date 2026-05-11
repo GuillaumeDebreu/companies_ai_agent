@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T20:19:57.119336+00:00",
+  "last_updated": "2026-05-11T21:46:38.909964+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -119725,12 +119725,15 @@
       "scraped_at": "2026-05-11T18:27:43.546619+00:00"
     },
     {
-      "name": "Sérena",
+      "name": "Sérena — Services à la personne, simplifiés",
       "slug": "polsia-serena",
+      "description": "Sérena construit l’avenir des services à domicile en France. Une expérience digne de ce nom pour les familles. Des conditions dignes de ce nom pour les intervenants.",
+      "description_fr": "Sérena a construit l’avenir des services à domicile en France. Une expérience digne de ce nom pour les familles. Des conditions dignes de ce nom pour les intervenants.",
+      "category": "Other",
       "website": "https://serena.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T20:19:39.302070+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T21:46:37.289227+00:00"
     },
     {
       "name": "InkWhimsy",
@@ -119823,10 +119826,114 @@
     {
       "name": "YardPass",
       "slug": "polsia-yardpass",
+      "description": "As of 2026, California is using ALPR cameras and roadside emissions devices to automatically flag non-compliant trucks. Registration holds are being placed. Out-of-state fleets from Texas, Arizona, Nevada, and Oregon are subject to the same rules.",
+      "description_fr": "Depuis 2026, la Californie utilise des caméras RAPI et des dispositifs d'émission en bordure de route pour signaler automatiquement les camions non conformes. Des retenues d’inscription sont en cours. Les flottes hors État du Texas, de l'Arizona, du Nevada et de l'Oregon sont soumises aux mêmes règles.",
+      "category": "Logistics & Supply Chain",
       "website": "https://yardpass.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T21:46:38.769886+00:00"
+    },
+    {
+      "name": "PresenceMade",
+      "slug": "polsia-presencemade",
+      "website": "https://presencemade.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-05-11T20:19:49.804439+00:00"
+      "scraped_at": "2026-05-11T21:46:25.787861+00:00"
+    },
+    {
+      "name": "GoneToday",
+      "slug": "polsia-gonetoday",
+      "website": "https://gonetoday.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T21:46:25.951699+00:00"
+    },
+    {
+      "name": "LeapOS",
+      "slug": "polsia-leap-os",
+      "description": "You built Disco to find what humans miss in datasets. LeapOS does the same thing for your company. It surfaces the signals buried in your operations: which research teams convert, which pricing tiers retain, which outreach actually lands.",
+      "description_fr": "Vous avez créé Disco pour trouver ce qui manque aux humains dans les ensembles de données. LeapOS fait la même chose pour votre entreprise. Il fait apparaître les signaux enfouis dans vos opérations : quelles équipes de recherche convertissent, quels niveaux de tarification conservent, quelle portée atteint réellement.",
+      "category": "Sales & CRM",
+      "website": "https://leap-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T21:46:27.487729+00:00"
+    },
+    {
+      "name": "FloodLeads",
+      "slug": "polsia-floodleads",
+      "website": "https://floodleads.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T21:46:27.685183+00:00"
+    },
+    {
+      "name": "DrapeLoft",
+      "slug": "polsia-drapeloft",
+      "description": "Fast fashion trained us to buy more and feel less. SHEIN ships 6,000 new styles daily. Fashion Nova drops every week. And somehow, you still have nothing to wear. DrapeLoft exists because the answer to \"what should I wear\" shouldn't require scrolling through 10,000 options.",
+      "description_fr": "La fast fashion nous a appris à acheter plus et à nous sentir moins. SHEIN expédie quotidiennement 6 000 nouveaux styles. Fashion Nova sort chaque semaine. Et d’une manière ou d’une autre, vous n’avez toujours rien à porter. DrapeLoft existe parce que la réponse à la question « que dois-je porter » ne devrait pas nécessiter de faire défiler 10 000 options.",
+      "category": "Other",
+      "website": "https://drapeloft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T21:46:29.115001+00:00"
+    },
+    {
+      "name": "Shorelock",
+      "slug": "polsia-shorelock",
+      "description": "Shorelock is built from the ground up for this market. Waterfront intelligence, investment metrics, and neighborhood-level data that only makes sense when you know the canals, the seawalls, the flood zones, and the routes to the Gulf.",
+      "description_fr": "Shorelock est construit à partir de zéro pour ce marché. Des informations sur le front de mer, des mesures d'investissement et des données au niveau des quartiers qui n'ont de sens que lorsque vous connaissez les canaux, les digues, les zones inondables et les routes vers le Golfe.",
+      "category": "Finance & Fintech",
+      "website": "https://shorelock.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T21:46:30.688726+00:00"
+    },
+    {
+      "name": "PromptFluent",
+      "slug": "polsia-promptfluent",
+      "description": "Custom prompt templates built for your industry. Retail, food service, professional services, marketing. Your team gets a toolkit they can use immediately, not a generic cheat sheet.",
+      "description_fr": "Modèles d'invites personnalisés conçus pour votre secteur. Commerce de détail, restauration, services professionnels, marketing. Votre équipe dispose d’une boîte à outils qu’elle peut utiliser immédiatement, et non d’un aide-mémoire générique.",
+      "category": "E-Commerce & Retail",
+      "website": "https://promptfluent.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T21:46:31.500111+00:00"
+    },
+    {
+      "name": "Klickora",
+      "slug": "polsia-klickora",
+      "description": "Most brands run Jasper for copy, Nosto for personalization, Competera for pricing, and Klaviyo for email. Klickora replaces all of them with one platform that actually shares data between every growth lever.",
+      "description_fr": "La plupart des marques utilisent Jasper pour la copie, Nosto pour la personnalisation, Competera pour la tarification et Klaviyo pour le courrier électronique. Klickora les remplace tous par une plate-forme unique qui partage réellement des données entre chaque levier de croissance.",
+      "category": "Software & SaaS",
+      "website": "https://klickora.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T21:46:32.660542+00:00"
+    },
+    {
+      "name": "CutCrew",
+      "slug": "polsia-cutcrew",
+      "description": "You're posting on TikTok, YouTube, Twitch, Instagram. Every long-form video needs short-form cuts. You need someone who gets your style, hits your deadlines, and doesn't ghost after two projects. That's harder to find than it sounds.",
+      "description_fr": "Vous publiez sur TikTok, YouTube, Twitch, Instagram. Chaque vidéo longue durée nécessite des coupes courtes. Vous avez besoin de quelqu'un qui comprend votre style, respecte vos délais et ne fantôme pas après deux projets. C'est plus difficile à trouver qu'il n'y paraît.",
+      "category": "Entertainment & Media",
+      "website": "https://cutcrew.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T21:46:33.846498+00:00"
+    },
+    {
+      "name": "GhostShip",
+      "slug": "polsia-ghostship",
+      "description": "GhostShip builds automated dropshipping stores that fulfill orders from supplier sites. No inventory. No warehouse. No manual work. Orders come in, suppliers ship out, you collect the margin.",
+      "description_fr": "GhostShip crée des magasins de dropshipping automatisés qui exécutent les commandes provenant des sites de fournisseurs. Pas d'inventaire. Pas d'entrepôt. Aucun travail manuel. Les commandes arrivent, les fournisseurs expédient, vous collectez la marge.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://ghostship.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T21:46:35.081422+00:00"
     }
   ]
 }
