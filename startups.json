@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T21:46:38.909964+00:00",
+  "last_updated": "2026-05-11T22:42:19.174471+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -119835,20 +119835,26 @@
       "scraped_at": "2026-05-11T21:46:38.769886+00:00"
     },
     {
-      "name": "PresenceMade",
+      "name": "PresenceMade — Your Business, Online",
       "slug": "polsia-presencemade",
+      "description": "PresenceMade exists because no small business should be invisible online. Not because they can't afford an agency. Not because they don't have time to learn Squarespace. The web should work for you, not the other way around.",
+      "description_fr": "PresenceMade existe parce qu'aucune petite entreprise ne devrait être invisible en ligne. Pas parce qu’ils n’ont pas les moyens de payer une agence. Non pas parce qu’ils n’ont pas le temps d’apprendre Squarespace. Le Web devrait fonctionner pour vous, et non l’inverse.",
+      "category": "Consulting & Services",
       "website": "https://presencemade.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T21:46:25.787861+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T22:42:14.835448+00:00"
     },
     {
       "name": "GoneToday",
       "slug": "polsia-gonetoday",
+      "description": "National franchises charge $500+ because they have franchise fees, corporate overhead, and marketing budgets to cover. We don't. You get the same service at a fair price.",
+      "description_fr": "Les franchises nationales facturent plus de 500 $ car elles doivent couvrir les frais de franchise, les frais généraux de l'entreprise et les budgets marketing. Nous ne le faisons pas. Vous bénéficiez du même service à un prix équitable.",
+      "category": "Marketing & Advertising",
       "website": "https://gonetoday.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T21:46:25.951699+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T22:42:16.322736+00:00"
     },
     {
       "name": "LeapOS",
@@ -119864,10 +119870,13 @@
     {
       "name": "FloodLeads",
       "slug": "polsia-floodleads",
+      "description": "FloodLeads exists because the best roofers, plumbers, and HVAC techs in LA shouldn't lose work to whoever gamed the algorithm this week. We fill your pipeline. You do what you're great at.",
+      "description_fr": "FloodLeads existe parce que les meilleurs couvreurs, plombiers et techniciens CVC de Los Angeles ne devraient pas perdre leur travail au profit de celui qui a joué avec l'algorithme cette semaine. Nous remplissons votre pipeline. Vous faites ce pour quoi vous êtes doué.",
+      "category": "Sales & CRM",
       "website": "https://floodleads.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T21:46:27.685183+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T22:42:17.630871+00:00"
     },
     {
       "name": "DrapeLoft",
@@ -119934,6 +119943,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-11T21:46:35.081422+00:00"
+    },
+    {
+      "name": "OscombineOS — Your Business, One System",
+      "slug": "polsia-oscombineos",
+      "description": "The operational backbone for Oscombine. Product, growth, outreach, analytics, and daily execution, running autonomously so you can focus on what matters.",
+      "description_fr": "L'épine dorsale opérationnelle d'Oscombine. Produit, croissance, sensibilisation, analyses et exécution quotidienne, fonctionnant de manière autonome afin que vous puissiez vous concentrer sur ce qui compte.",
+      "category": "Sales & CRM",
+      "website": "https://oscombineos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T22:41:59.447951+00:00"
+    },
+    {
+      "name": "FlowCrank",
+      "slug": "polsia-flowcrank",
+      "description": "FlowCrank turns local businesses into automated machines. Your competitors are already automating. The question isn't whether to start, it's how much longer you can afford to wait.",
+      "description_fr": "FlowCrank transforme les entreprises locales en machines automatisées. Vos concurrents automatisent déjà. La question n’est pas de savoir si vous devez commencer, mais combien de temps vous pouvez vous permettre d’attendre.",
+      "category": "Other",
+      "website": "https://flowcrank.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T22:42:01.142929+00:00"
+    },
+    {
+      "name": "Axiom Ops",
+      "slug": "polsia-axiom-ops",
+      "description": "AI automation isn't a feature. It's the new operating system for business. Axiom Ops builds the infrastructure that lets your team focus on what humans do best, while AI handles the rest.",
+      "description_fr": "L'automatisation de l'IA n'est pas une fonctionnalité. C'est le nouveau système d'exploitation pour les entreprises. Axiom Ops construit l'infrastructure qui permet à votre équipe de se concentrer sur ce que les humains font de mieux, tandis que l'IA s'occupe du reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://axiom-ops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T22:42:02.287996+00:00"
+    },
+    {
+      "name": "Lumiforge — AI",
+      "slug": "polsia-lumiforge",
+      "description": "Immersive websites with Three.js, WebGL, and React. Built by AI agents in days, not months.",
+      "description_fr": "Sites Web immersifs avec Three.js, WebGL et React. Construit par des agents IA en quelques jours, et non en mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://lumiforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T22:42:03.905423+00:00"
+    },
+    {
+      "name": "PaperRoute — Your City Has Stories",
+      "slug": "polsia-paper-route",
+      "description": "AI-powered local news digest for your city. PaperRoute monitors public records, city meetings, and community events, then delivers a clean digest of everything that matters.",
+      "description_fr": "Résumé de l'actualité locale alimenté par l'IA pour votre ville. PaperRoute surveille les archives publiques, les réunions municipales et les événements communautaires, puis fournit un résumé clair de tout ce qui compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://paper-route.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T22:42:05.341173+00:00"
+    },
+    {
+      "name": "PressForge — AI That Gets You Press Coverage",
+      "slug": "polsia-pressforge-2",
+      "description": "PressForge is an autonomous AI agent that researches your business, crafts press releases, and places you in Yahoo Finance, Reuters, and major news outlets.",
+      "description_fr": "PressForge est un agent d'IA autonome qui recherche votre entreprise, rédige des communiqués de presse et vous place dans Yahoo Finance, Reuters et les principaux médias.",
+      "category": "AI & Machine Learning",
+      "website": "https://pressforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T22:42:06.308499+00:00"
+    },
+    {
+      "name": "Crestbound",
+      "slug": "polsia-crestbound",
+      "website": "https://crestbound.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T22:42:06.588426+00:00"
+    },
+    {
+      "name": "Drumbeat",
+      "slug": "polsia-drumbeat-46",
+      "description": "Drumbeat is the AI employee that runs your social media, monitors your reviews, and handles customer outreach. Autonomously. Every single day.",
+      "description_fr": "Drumbeat est l'employé de l'IA qui gère vos réseaux sociaux, surveille vos avis et gère la sensibilisation des clients. De manière autonome. Chaque jour.",
+      "category": "AI & Machine Learning",
+      "website": "https://drumbeat-46.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T22:42:08.075900+00:00"
+    },
+    {
+      "name": "ReoCore — Property Preservation & REO Field Services",
+      "slug": "polsia-reocore",
+      "description": "ReoCore exists because the property preservation industry runs on subcontractors who rotate, quality that varies, and response times that slip. We're building the field services company that servicers actually want to work with: owned crews, standardized processes, and the fastest response time in the Ohio Valley.",
+      "description_fr": "ReoCore existe parce que le secteur de la préservation des propriétés fonctionne avec des sous-traitants qui tournent, une qualité qui varie et des délais de réponse qui diminuent. Nous construisons l'entreprise de services sur le terrain avec laquelle les réparateurs souhaitent réellement travailler : des équipes propriétaires, des processus standardisés et le temps de réponse le plus rapide de la vallée de l'Ohio.",
+      "category": "Real Estate",
+      "website": "https://reocore.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T22:42:19.171999+00:00"
+    },
+    {
+      "name": "Velkom",
+      "slug": "polsia-velkom",
+      "description": "Velkom handles every guest message, check-in, and issue for your short-term rentals. Autonomously. 24/7.",
+      "description_fr": "Velkom gère chaque message client, enregistrement et problème pour vos locations à court terme. De manière autonome. 24h/24 et 7j/7.",
+      "category": "Travel & Hospitality",
+      "website": "https://velkom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T22:42:09.828528+00:00"
     }
   ]
 }
