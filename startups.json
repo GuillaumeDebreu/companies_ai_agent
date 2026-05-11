@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T04:35:21.938198+00:00",
+  "last_updated": "2026-05-11T08:03:59.252668+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -119076,26 +119076,35 @@
     {
       "name": "GripLeads",
       "slug": "polsia-gripleads",
+      "description": "GripLeads uses AI to catch every missed call, qualify every lead, and book every appointment, so local businesses stop losing revenue to voicemail.",
+      "description_fr": "GripLeads utilise l'IA pour détecter chaque appel manqué, qualifier chaque prospect et prendre chaque rendez-vous, afin que les entreprises locales ne perdent plus de revenus à cause de la messagerie vocale.",
+      "category": "AI & Machine Learning",
       "website": "https://gripleads.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T04:34:59.054565+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T08:03:57.284099+00:00"
     },
     {
       "name": "ChambersOS",
       "slug": "polsia-chambersos",
+      "description": "ChambersOS is the operating system for Chambers Enterprises Group. Manage clients, track revenue, coordinate across business lines, and grow your enterprise from a single command center.",
+      "description_fr": "ChambersOS est le système d'exploitation de Chambers Enterprises Group. Gérez vos clients, suivez vos revenus, coordonnez vos activités entre les différents secteurs d'activité et développez votre entreprise à partir d'un centre de commande unique.",
+      "category": "Social & Community",
       "website": "https://chambersos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T04:34:59.464991+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T08:03:57.980760+00:00"
     },
     {
       "name": "InkPipe",
       "slug": "polsia-inkpipe",
+      "description": "A 60-minute deep dive into how you think, speak, and argue. We audit your past content and build a style guide that captures your actual voice, not a polished corporate version of it.",
+      "description_fr": "Une plongée approfondie de 60 minutes dans votre façon de penser, de parler et d'argumenter. Nous auditons votre contenu passé et construisons un guide de style qui capture votre voix réelle, et non une version professionnelle raffinée de celle-ci.",
+      "category": "Entertainment & Media",
       "website": "https://inkpipe.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-11T04:34:59.800070+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-11T08:03:58.937107+00:00"
     },
     {
       "name": "AikyaOS",
@@ -119173,6 +119182,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-11T04:35:08.830035+00:00"
+    },
+    {
+      "name": "Nakshana",
+      "slug": "polsia-nakshanaos",
+      "description": "While every other brand screen-prints or heat-presses, we embroider. Each design is stitched into the fabric with premium thread. It does not crack. It does not fade. It becomes part of the garment.",
+      "description_fr": "Alors que toutes les autres marques sérigraphient ou pressent à chaud, nous brodons. Chaque motif est cousu dans le tissu avec du fil de qualité supérieure. Ça ne craque pas. Cela ne se décolore pas. Cela devient une partie du vêtement.",
+      "category": "Marketing & Advertising",
+      "website": "https://nakshanaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T08:03:40.819121+00:00"
+    },
+    {
+      "name": "LearnLens",
+      "slug": "polsia-learnlens",
+      "website": "https://learnlens.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-11T08:03:41.021388+00:00"
+    },
+    {
+      "name": "StockPing — Never Miss a Drop Again",
+      "slug": "polsia-zgdx",
+      "description": "StockPing is the inventory tracker that pings you before it's too late. Drop alerts, stock sync across platforms, and reorder reminders, all from your phone.",
+      "description_fr": "StockPing est le outil de suivi des stocks qui vous envoie un ping avant qu'il ne soit trop tard. Déposez des alertes, synchronisez les stocks sur toutes les plateformes et réorganisez les rappels, le tout depuis votre téléphone.",
+      "category": "Software & SaaS",
+      "website": "https://zgdx.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T08:03:42.012811+00:00"
+    },
+    {
+      "name": "Spectrade — Your Invisible Trading Analyst",
+      "slug": "polsia-spectrade",
+      "description": "Spectrade doesn't just scan for generic patterns. It studies your trades, your timing, your preferred setups. Over time, it surfaces opportunities that match how YOU trade, not how a textbook says to.",
+      "description_fr": "Spectrade ne recherche pas seulement des modèles génériques. Il étudie vos trades, votre timing, vos configurations préférées. Au fil du temps, cela fait apparaître des opportunités qui correspondent à la façon dont VOUS négociez, et non à ce qu'un manuel vous dit.",
+      "category": "Finance & Fintech",
+      "website": "https://spectrade.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T08:03:42.871182+00:00"
+    },
+    {
+      "name": "TrailPace",
+      "slug": "polsia-trailpace",
+      "description": "TrailPace exists because the best trail running tools are built for elites. But most of us aren't elites. We're amateurs who love the mountains, squeeze in runs before work, and want to finish our next race without blowing up at kilometer 30. That's who we build for.",
+      "description_fr": "TrailPace existe parce que les meilleurs outils de trail sont conçus pour les élites. Mais la plupart d’entre nous ne sommes pas des élites. Nous sommes des amateurs qui aiment la montagne, qui font des courses avant le travail et qui veulent terminer notre prochaine course sans exploser au kilomètre 30. C'est pour cela que nous construisons.",
+      "category": "Other",
+      "website": "https://trailpace.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T08:03:44.682160+00:00"
+    },
+    {
+      "name": "FlyDogOS",
+      "slug": "polsia-flydogos",
+      "description": "FlyDogOS is the command center for pet content creators who are done guessing. Track what ranks, find content gaps your competitors miss, and turn every article into revenue. One dashboard, zero spreadsheets.",
+      "description_fr": "FlyDogOS est le centre de commande pour les créateurs de contenu pour animaux de compagnie qui ont fini de deviner. Suivez les classements, trouvez les lacunes de contenu manquées par vos concurrents et transformez chaque article en revenus. Un tableau de bord, zéro feuille de calcul.",
+      "category": "Software & SaaS",
+      "website": "https://flydogos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T08:03:45.878588+00:00"
+    },
+    {
+      "name": "Zaptive",
+      "slug": "polsia-zaptive",
+      "description": "Automate client intake, document follow-ups, appointment scheduling, and case status updates. Your paralegals handle cases, not admin.",
+      "description_fr": "Automatisez l’accueil des clients, le suivi des documents, la planification des rendez-vous et les mises à jour de l’état des dossiers. Vos parajuristes s'occupent des dossiers, pas de l'administration.",
+      "category": "Productivity & Automation",
+      "website": "https://zaptive.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T08:03:46.855458+00:00"
+    },
+    {
+      "name": "IronHound",
+      "slug": "polsia-ironhound",
+      "description": "Unlike general junk haulers who charge you to dump, your metal has real value. We factor scrap value into our pricing so you pay less, or nothing at all for high-value loads.",
+      "description_fr": "Contrairement aux transporteurs de ferraille qui vous facturent le déversement, votre métal a une valeur réelle. Nous prenons en compte la valeur de la ferraille dans nos tarifs afin que vous payiez moins, voire rien du tout, pour les chargements de grande valeur.",
+      "category": "Other",
+      "website": "https://ironhound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T08:03:48.221025+00:00"
+    },
+    {
+      "name": "BahiKhata",
+      "slug": "polsia-bahikhata",
+      "description": "BahiKhata is an AI operations agent that handles invoicing, GST compliance, payment follow-ups, and daily business reporting through WhatsApp for Indian SMEs.",
+      "description_fr": "BahiKhata est un agent opérationnel d'IA qui gère la facturation, la conformité à la TPS, le suivi des paiements et les rapports commerciaux quotidiens via WhatsApp pour les PME indiennes.",
+      "category": "AI & Machine Learning",
+      "website": "https://bahikhata.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T08:03:50.049582+00:00"
+    },
+    {
+      "name": "SuperZenOS — Operating System for Super",
+      "slug": "polsia-superzenos",
+      "description": "Super-zen was born from a simple belief: everyone deserves patient, human help with technology. From caring for a grandfather to building Neveo for 20,000 families to opening a boutique in Brussels, the mission has only deepened.",
+      "description_fr": "Super-zen est né d’une conviction simple : tout le monde mérite une aide patiente et humaine en matière de technologie. De s'occuper d'un grand-père à la construction de Neveo pour 20 000 familles en passant par l'ouverture d'une boutique à Bruxelles, la mission n'a fait que s'approfondir.",
+      "category": "Health & Wellness",
+      "website": "https://superzenos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-11T08:03:50.729696+00:00"
     }
   ]
 }
