@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T15:23:27.480048+00:00",
+  "last_updated": "2026-05-12T17:31:24.626701+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -120722,10 +120722,13 @@
     {
       "name": "SidestreetOS",
       "slug": "polsia-sidestreetos",
+      "description": "Most agencies pick one lane. Sidestreet built across three: marketing, production, and managed tech. SidestreetOS connects them into a single operating system, so the business side runs itself and you focus on the work that got you here.",
+      "description_fr": "La plupart des agences choisissent une seule voie. Sidestreet s'articule autour de trois : marketing, production et technologie gérée. SidestreetOS les connecte en un seul système d'exploitation, de sorte que le côté commercial fonctionne tout seul et que vous vous concentriez sur le travail qui vous a amené ici.",
+      "category": "Marketing & Advertising",
       "website": "https://sidestreetos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T15:23:18.320853+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T17:31:22.454802+00:00"
     },
     {
       "name": "WellpathOS",
@@ -120738,10 +120741,13 @@
     {
       "name": "Vendora",
       "slug": "polsia-vendora-ai-18",
+      "description": "Every company in your market is about to adopt AI for outbound. The ones who win won't be the ones sending the most emails. They'll be the ones who show up at exactly the right moment, with exactly the right message. That's Vendora.",
+      "description_fr": "Toutes les entreprises de votre marché sont sur le point d’adopter l’IA pour leurs transactions sortantes. Ceux qui gagneront ne seront pas ceux qui enverront le plus d’emails. Ce seront eux qui arriveront exactement au bon moment, avec exactement le bon message. C'est Vendora.",
+      "category": "AI & Machine Learning",
       "website": "https://vendora-ai-18.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T15:23:18.661129+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T17:31:24.226987+00:00"
     },
     {
       "name": "SplashKasi",
@@ -120808,6 +120814,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-12T15:23:25.870765+00:00"
+    },
+    {
+      "name": "GlamHive",
+      "slug": "polsia-glamhive",
+      "website": "https://glamhive.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T17:31:05.328080+00:00"
+    },
+    {
+      "name": "Tendly — Your Facility Services, on Autopilot",
+      "slug": "polsia-tendly-8",
+      "description": "Tendly is building the autonomous operations layer for every property services business. From a single crew to a national fleet, your operations run themselves.",
+      "description_fr": "Tendly construit la couche d'opérations autonomes pour chaque entreprise de services immobiliers. D'un seul équipage à une flotte nationale, vos opérations sont autonomes.",
+      "category": "Real Estate",
+      "website": "https://tendly-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T17:31:07.047418+00:00"
+    },
+    {
+      "name": "AuraSpecOS",
+      "slug": "polsia-auraspecos",
+      "description": "Probe ChatGPT, Claude, Perplexity, and Gemini simultaneously. Get a 0-100 visibility score across every model that matters. Know exactly where you're cited, misquoted, or missing entirely.",
+      "description_fr": "Probe ChatGPT, Claude, Perplexity, and Gemini simultaneously. Obtenez un score de visibilité de 0 à 100 sur chaque modèle important. Sachez exactement où vous êtes cité, mal cité ou complètement absent.",
+      "category": "AI & Machine Learning",
+      "website": "https://auraspecos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T17:31:08.787150+00:00"
+    },
+    {
+      "name": "VantaFleet",
+      "slug": "polsia-vantafleet",
+      "description": "Specialized medical and semiconductor courier logistics across Arizona's growth corridors. Phoenix to Tucson to Flagstaff.",
+      "description_fr": "",
+      "category": "Logistics & Supply Chain",
+      "website": "https://vantafleet.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T17:31:09.225822+00:00"
+    },
+    {
+      "name": "SignalDesk — Your AI Competitive Intelligence Analyst",
+      "slug": "polsia-signaldesk-74",
+      "description": "Every day, your competitors make moves. They change prices. They launch features. They hire. They pivot. Most businesses find out weeks later, or never. SignalDesk exists because knowing first isn't a luxury reserved for enterprises with six-figure tool budgets. It's a right every growing business deserves.",
+      "description_fr": "Every day, your competitors make moves. Ils changent les prix. Ils lancent des fonctionnalités. Ils embauchent. Ils pivotent. La plupart des entreprises le découvrent des semaines plus tard, voire jamais. SignalDesk existe parce que savoir d'abord n'est pas un luxe réservé aux entreprises disposant de budgets outils à six chiffres. C'est un droit que mérite toute entreprise en croissance.",
+      "category": "AI & Machine Learning",
+      "website": "https://signaldesk-74.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T17:31:11.071080+00:00"
+    },
+    {
+      "name": "StayPilot — Your AI Property Manager",
+      "slug": "polsia-stay-pilot-12",
+      "description": "StayPilot is building toward a world where owning a vacation rental is truly passive income. No late-night messages. No pricing spreadsheets. No chasing cleaners. Just revenue, managed by an AI that never sleeps, never forgets, and never takes a cut of your earnings.",
+      "description_fr": "StayPilot construit un monde où posséder une location de vacances constitue un véritable revenu passif. Pas de messages de fin de soirée. Aucune feuille de calcul de tarification. Pas de poursuite des nettoyeurs. Juste des revenus, gérés par une IA qui ne dort jamais, n'oublie jamais et ne prend jamais une part de vos revenus.",
+      "category": "AI & Machine Learning",
+      "website": "https://stay-pilot-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T17:31:12.317732+00:00"
+    },
+    {
+      "name": "RentPilot",
+      "slug": "polsia-rentpilot-52",
+      "website": "https://rentpilot-52.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T17:31:12.653756+00:00"
+    },
+    {
+      "name": "StitchRiotOS",
+      "slug": "polsia-yume-athleisure",
+      "description": "StitchRiotOS runs while you design. Product research, customer outreach, competitive analysis, growth strategy. An AI that actually builds your business, not just talks about it.",
+      "description_fr": "StitchRiotOS s'exécute pendant que vous concevez. Recherche de produits, sensibilisation des clients, analyse concurrentielle, stratégie de croissance. Une IA qui construit réellement votre entreprise, et ne se contente pas d'en parler.",
+      "category": "AI & Machine Learning",
+      "website": "https://yume-athleisure.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T17:31:14.736643+00:00"
+    },
+    {
+      "name": "TerraShilpa",
+      "slug": "polsia-terrashilpa",
+      "description": "For thousands of years, Indian architects built structures that stayed cool without electricity, managed water without pumps, and lasted centuries without steel.That knowledge didn't become obsolete. It became undervalued.TerraShilpa quantifies what our ancestors intuited, proving through thermal simulation and modern engineering that jaalies outperform HVAC, that courtyards beat mechanical ventilation, and that mud walls regulate humidity better than gypsum board.",
+      "description_fr": "Pendant des milliers d'années, les architectes indiens ont construit des structures qui restaient froides sans électricité, géraient l'eau sans pompes et duraient des siècles sans acier. Ce savoir n'est pas devenu obsolète. Il est devenu sous-évalué. TerraShilpa quantifie ce que nos ancêtres avaient eu l'intuition, prouvant grâce à la simulation thermique et à l'ingénierie moderne que les systèmes de chauffage et de ventilation surpassent les systèmes de CVC, que les cours battent la ventilation mécanique et que les murs en terre cuite régulent mieux l'humidité que les plaques de plâtre.",
+      "category": "Sustainability & Green",
+      "website": "https://terrashilpa.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T17:31:16.328785+00:00"
+    },
+    {
+      "name": "RankPilot — Your SEO Team, Not Your SEO Tool",
+      "slug": "polsia-rankpilot-37",
+      "description": "The future of digital marketing is autonomous. Not another dashboard. Not another consultant. An agent that works while you sleep, improves while you're busy, and reports what matters when you wake up.",
+      "description_fr": "L’avenir du marketing numérique est autonome. Pas un autre tableau de bord. Pas un autre consultant. Un agent qui travaille pendant que vous dormez, s'améliore lorsque vous êtes occupé et signale ce qui compte lorsque vous vous réveillez.",
+      "category": "Marketing & Advertising",
+      "website": "https://rankpilot-37.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T17:31:17.926393+00:00"
     }
   ]
 }
