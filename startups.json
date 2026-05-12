@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T03:27:18.647282+00:00",
+  "last_updated": "2026-05-12T05:03:35.878044+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -120164,42 +120164,57 @@
     {
       "name": "VeriVox",
       "slug": "polsia-verivox",
+      "description": "Enterprise lie detectors charge $50-200 per test. Prank apps charge nothing and deliver nothing. VeriVox brings real voice analysis to everyone.",
+      "description_fr": "Les détecteurs de mensonge d'entreprise facturent entre 50 et 200 $ par test. Les applications de farce ne facturent rien et ne livrent rien. VeriVox apporte une véritable analyse vocale à tout le monde.",
+      "category": "Other",
       "website": "https://verivox.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T01:25:00.572656+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:29.524318+00:00"
     },
     {
-      "name": "ForgeLabs",
+      "name": "ForgeLabs — Stop Planning. Start Acquiring.",
       "slug": "polsia-forgelabs",
+      "description": "ForgeLabs takes your budget, skills, and goals, then builds a complete customer acquisition system. Not a PDF. Not a business plan. An actual engine with scripts, funnels, automations, and revenue timelines.",
+      "description_fr": "ForgeLabs prend en compte votre budget, vos compétences et vos objectifs, puis construit un système complet d'acquisition de clients. Pas un PDF. Pas un plan d'affaires. Un véritable moteur avec des scripts, des entonnoirs, des automatisations et des calendriers de revenus.",
+      "category": "Productivity & Automation",
       "website": "https://forgelabs.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T01:25:00.794551+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:30.812972+00:00"
     },
     {
       "name": "SiteRevive",
       "slug": "polsia-siterevive",
+      "description": "Our tools scan the web for businesses running websites that are visually outdated, non-mobile-friendly, slow-loading, or insecure. We identify the ones losing the most customers.",
+      "description_fr": "Nos outils analysent le Web à la recherche d'entreprises exploitant des sites Web visuellement obsolètes, non adaptés aux appareils mobiles, à chargement lent ou non sécurisés. Nous identifions ceux qui perdent le plus de clients.",
+      "category": "Other",
       "website": "https://siterevive.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T01:25:00.999162+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:32.163411+00:00"
     },
     {
       "name": "FlipRig",
       "slug": "polsia-fliprig",
+      "description": "We buy used PCs, strip them down, upgrade the guts, clean up the cables, and sell you a gaming machine that actually performs. No blurry Marketplace photos. No mystery specs. Just clean builds with real service behind them.",
+      "description_fr": "Nous achetons des PC d'occasion, les démontons, mettons à niveau les tripes, nettoyons les câbles et vous vendons une machine de jeu réellement performante. Pas de photos floues du Marketplace. Aucune spécification mystérieuse. Juste des versions propres avec un vrai service derrière elles.",
+      "category": "E-Commerce & Retail",
       "website": "https://fliprig.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T01:25:01.278466+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:33.720226+00:00"
     },
     {
       "name": "InvestAIOS",
       "slug": "polsia-investaios",
+      "description": "Every day, AI-driven algorithms execute the majority of global equity trades. The question isn't whether AI will transform retail investing. It's whether you'll have access to it. InvestAI Pro exists to close that gap.",
+      "description_fr": "Chaque jour, des algorithmes basés sur l’IA exécutent la majorité des transactions sur actions mondiales. La question n’est pas de savoir si l’IA va transformer l’investissement de détail. Il s'agit de savoir si vous y aurez accès. InvestAI Pro existe pour combler cet écart.",
+      "category": "AI & Machine Learning",
       "website": "https://investaios.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T01:25:01.466557+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:35.540314+00:00"
     },
     {
       "name": "AgencyKit — Launch and scale your service business",
@@ -120255,6 +120270,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-12T01:25:08.489033+00:00"
+    },
+    {
+      "name": "ClearDrop",
+      "slug": "polsia-cleardrop",
+      "website": "https://cleardrop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T05:03:12.313237+00:00"
+    },
+    {
+      "name": "TorqueGuide",
+      "slug": "polsia-torqueguide",
+      "website": "https://torqueguide.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T05:03:12.539803+00:00"
+    },
+    {
+      "name": "Roux — The AI Ops Manager for Restaurants",
+      "slug": "polsia-roux-ai",
+      "description": "In Cajun and Creole cooking, the roux is where everything begins. Flour and fat, slow and steady, building the base that holds everything together. That's what this agent does for your restaurant. It's not another dashboard. It's not another app. It's the operational foundation that lets you do what you actually love.",
+      "description_fr": "Dans la cuisine cajun et créole, le roux est le point de départ de tout. Farine et graisse, lentement et régulièrement, construisant la base qui maintient le tout ensemble. C'est ce que fait cet agent pour votre restaurant. Ce n'est pas un autre tableau de bord. Ce n'est pas une autre application. C'est la base opérationnelle qui vous permet de faire ce que vous aimez réellement.",
+      "category": "AI & Machine Learning",
+      "website": "https://roux-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:14.097889+00:00"
+    },
+    {
+      "name": "Barkyard",
+      "slug": "polsia-barkyard",
+      "description": "67% of US households have a pet. Dog content is the most engaged category on Instagram and TikTok. But dog owners still don't have a platform that's actually built for them.",
+      "description_fr": "67 % des ménages américains possèdent un animal de compagnie. Le contenu canin est la catégorie la plus engagée sur Instagram et TikTok. Mais les propriétaires de chiens ne disposent toujours pas d’une plate-forme réellement conçue pour eux.",
+      "category": "Software & SaaS",
+      "website": "https://barkyard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:15.712125+00:00"
+    },
+    {
+      "name": "DealForge",
+      "slug": "polsia-dealforge-ai-9",
+      "description": "DealForge gives you the research power of a 10-person team, the outreach volume of an enterprise SDR org, and the personalization of your best closer. All while keeping you in control of every message that leaves your domain.",
+      "description_fr": "DealForge vous offre la puissance de recherche d'une équipe de 10 personnes, le volume de sensibilisation d'une organisation SDR d'entreprise et la personnalisation de vos meilleurs contacts. Tout en vous gardant le contrôle de chaque message qui quitte votre domaine.",
+      "category": "Sales & CRM",
+      "website": "https://dealforge-ai-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:17.339317+00:00"
+    },
+    {
+      "name": "Wrenchhawk",
+      "slug": "polsia-wrenchhawk",
+      "description": "Your AI employee that answers every call, books every job, and follows up with every customer. Built for plumbers, HVAC techs, electricians, and every trade in between.",
+      "description_fr": "Votre employé IA qui répond à chaque appel, réserve chaque travail et assure le suivi de chaque client. Conçu pour les plombiers, les techniciens CVC, les électriciens et tous les métiers intermédiaires.",
+      "category": "AI & Machine Learning",
+      "website": "https://wrenchhawk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:18.818866+00:00"
+    },
+    {
+      "name": "FieldPulseOS",
+      "slug": "polsia-fieldpulseos",
+      "description": "Real-time visibility into every soil test, demo, and farmer meeting across all territories. Filter by region, crop, product, or team member. No more waiting for weekly reports compiled by hand.",
+      "description_fr": "Visibilité en temps réel sur chaque analyse de sol, démonstration et réunion d'agriculteurs sur tous les territoires. Filtrez par région, culture, produit ou membre de l'équipe. Plus besoin d'attendre les rapports hebdomadaires compilés à la main.",
+      "category": "Marketing & Advertising",
+      "website": "https://fieldpulseos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:20.214704+00:00"
+    },
+    {
+      "name": "SignalDrum — AI That Does the Prospecting",
+      "slug": "polsia-signaldrum",
+      "description": "Your AI sales agent researches every prospect, writes personalized outreach, and fills your pipeline while you sleep.",
+      "description_fr": "Votre agent commercial IA recherche chaque prospect, rédige des informations personnalisées et remplit votre pipeline pendant que vous dormez.",
+      "category": "Sales & CRM",
+      "website": "https://signaldrum.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:21.912510+00:00"
+    },
+    {
+      "name": "MirrorAlpha",
+      "slug": "polsia-mirroralpha",
+      "description": "MirrorAlpha is a crypto copy trading hedge firm. Pooled capital, mirrored alpha, full transparency.",
+      "description_fr": "MirrorAlpha est une société de couverture de trading de copie cryptographique. Capital mutualisé, alpha miroir, transparence totale.",
+      "category": "Finance & Fintech",
+      "website": "https://mirroralpha.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:23.478923+00:00"
+    },
+    {
+      "name": "Joe's Powerwashing — Eau Claire & Chippewa Valley",
+      "slug": "polsia-sprayhawk",
+      "description": "Professional powerwashing for homes and businesses across the Chippewa Valley. Get a free quote online.",
+      "description_fr": "Lavage professionnel sous pression pour les maisons et les entreprises de la vallée de Chippewa. Obtenez un devis gratuit en ligne.",
+      "category": "Other",
+      "website": "https://sprayhawk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T05:03:25.007109+00:00"
     }
   ]
 }
