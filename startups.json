@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T14:29:01.322048+00:00",
+  "last_updated": "2026-05-12T15:23:27.480048+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -120710,6 +120710,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-12T12:26:43.374272+00:00"
+    },
+    {
+      "name": "BrandCrate",
+      "slug": "polsia-brandcrate",
+      "website": "https://brandcrate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T15:23:18.165978+00:00"
+    },
+    {
+      "name": "SidestreetOS",
+      "slug": "polsia-sidestreetos",
+      "website": "https://sidestreetos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T15:23:18.320853+00:00"
+    },
+    {
+      "name": "WellpathOS",
+      "slug": "polsia-yourwellpathos",
+      "website": "https://yourwellpathos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T15:23:18.520969+00:00"
+    },
+    {
+      "name": "Vendora",
+      "slug": "polsia-vendora-ai-18",
+      "website": "https://vendora-ai-18.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T15:23:18.661129+00:00"
+    },
+    {
+      "name": "SplashKasi",
+      "slug": "polsia-splashkasi",
+      "description": "The best car washes in South Africa aren't just about clean cars. They're about community. Music pumping, meat on the braai, conversations flowing while your ride gets the treatment it deserves.",
+      "description_fr": "Les meilleurs lave-autos d’Afrique du Sud ne concernent pas seulement les voitures propres. Ils parlent de communauté. Musique entraînante, viande sur le braai, conversations fluides pendant que votre trajet reçoit le traitement qu'il mérite.",
+      "category": "Entertainment & Media",
+      "website": "https://splashkasi.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T15:23:19.912088+00:00"
+    },
+    {
+      "name": "KnowPack — Package What You Know",
+      "slug": "polsia-knowpack",
+      "description": "Every niche has an audience willing to pay for expertise. The fitness coach who built a six-figure course business. The developer who sells coding templates on autopilot. The language tutor with 2,000 paying members. They all started with the same thing you have:knowledge someone else needs.",
+      "description_fr": "Chaque niche a un public prêt à payer pour son expertise. Le préparateur physique qui a bâti une entreprise de cours à six chiffres. Le développeur qui vend des modèles de codage sur pilote automatique. Le professeur de langues avec 2 000 membres payants. Ils ont tous commencé avec la même chose que vous : des connaissances dont quelqu’un d’autre a besoin.",
+      "category": "Education",
+      "website": "https://knowpack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T15:23:21.154337+00:00"
+    },
+    {
+      "name": "Offloadr",
+      "slug": "polsia-offloadr",
+      "description": "AI reads, sorts, drafts replies, and follows up. You review what matters, the rest handles itself. Customer inquiries, appointment confirmations, lead responses.",
+      "description_fr": "L'IA lit, trie, rédige les réponses et assure le suivi. Vous révisez ce qui compte, le reste se gère tout seul. Demandes des clients, confirmations de rendez-vous, réponses des prospects.",
+      "category": "AI & Machine Learning",
+      "website": "https://offloadr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T15:23:22.613576+00:00"
+    },
+    {
+      "name": "Fleetpulse — AI That Runs Your Rental Branch",
+      "slug": "polsia-fleetpulse-ai",
+      "description": "Fleetpulse is the autonomous operations layer for car rental businesses. Pricing, fleet allocation, damage detection, customer service, maintenance scheduling. All running 24/7 without human intervention.",
+      "description_fr": "Fleetpulse est la couche d'opérations autonomes pour les entreprises de location de voitures. Tarification, allocation de flotte, détection des dommages, service client, planification de la maintenance. Le tout fonctionnant 24h/24 et 7j/7 sans intervention humaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://fleetpulse-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T15:23:23.464736+00:00"
+    },
+    {
+      "name": "SealRunner",
+      "slug": "polsia-sealrunner",
+      "description": "SealRunner brings fast, professional notarization anywhere in the Bronx. Your home, your office, your schedule. No more hunting for a notary during business hours.",
+      "description_fr": "SealRunner apporte une légalisation rapide et professionnelle partout dans le Bronx. Votre maison, votre bureau, votre emploi du temps. Plus besoin de chercher un notaire pendant les heures ouvrables.",
+      "category": "Other",
+      "website": "https://sealrunner.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T15:23:24.702118+00:00"
+    },
+    {
+      "name": "VeinValet",
+      "slug": "polsia-veinvalet",
+      "description": "Skip the drive, the parking, the clipboard, the wait. Book an appointment online and a licensed phlebotomist arrives at your door with everything needed to collect your specimen. Results go straight to your provider.",
+      "description_fr": "Évitez le trajet en voiture, le stationnement, le presse-papiers, l'attente. Prenez rendez-vous en ligne et un phlébotomiste agréé arrive à votre porte avec tout le nécessaire pour prélever votre échantillon. Les résultats vont directement à votre fournisseur.",
+      "category": "Other",
+      "website": "https://veinvalet.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T15:23:25.870765+00:00"
     }
   ]
 }
