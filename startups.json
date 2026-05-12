@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T17:31:24.626701+00:00",
+  "last_updated": "2026-05-12T19:20:27.495385+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -120818,10 +120818,13 @@
     {
       "name": "GlamHive",
       "slug": "polsia-glamhive",
+      "description": "Every bag tells a story. Every outfit makes a statement. Every beauty pick is worth it. This is what shopping looks like when someone actually cares about what makes the cut.",
+      "description_fr": "Chaque sac raconte une histoire. Chaque tenue fait une déclaration. Chaque choix beauté en vaut la peine. Voilà à quoi ressemble le shopping quand quelqu'un se soucie réellement de ce qui fait la différence.",
+      "category": "E-Commerce & Retail",
       "website": "https://glamhive.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T17:31:05.328080+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T19:20:26.321877+00:00"
     },
     {
       "name": "Tendly — Your Facility Services, on Autopilot",
@@ -120918,6 +120921,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-12T17:31:17.926393+00:00"
+    },
+    {
+      "name": "PolsiaOS",
+      "slug": "polsia-polsiaos-18",
+      "website": "https://polsiaos-18.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T19:20:09.757465+00:00"
+    },
+    {
+      "name": "VukaOS",
+      "slug": "polsia-vukaos",
+      "website": "https://vukaos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T19:20:10.174449+00:00"
+    },
+    {
+      "name": "VoltBook",
+      "slug": "polsia-voltbook",
+      "website": "https://voltbook.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T19:20:10.451024+00:00"
+    },
+    {
+      "name": "NomadBooks",
+      "slug": "polsia-nomadbooks",
+      "description": "Multi-currency income tracking, AI cash flow insights, tax estimates, and invoicing for freelancers and gig workers.",
+      "description_fr": "Suivi des revenus multidevises, informations sur les flux de trésorerie de l'IA, estimations fiscales et facturation pour les indépendants et les travailleurs à la demande.",
+      "category": "AI & Machine Learning",
+      "website": "https://nomadbooks.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T19:20:12.033229+00:00"
+    },
+    {
+      "name": "7BOS",
+      "slug": "polsia-7bos",
+      "description": "Most AI agencies are run by tech people who've never held a hammer. 7B is different. Five years in the trades. Industrial design degree. Kitchen-tested under pressure. We speak contractor because we've been one.",
+      "description_fr": "La plupart des agences d’IA sont dirigées par des techniciens qui n’ont jamais tenu un marteau. 7B est différent. Cinq ans dans les métiers. Diplôme en design industriel. Testé en cuisine sous pression. Nous parlons d'entrepreneur parce que nous en avons été un.",
+      "category": "AI & Machine Learning",
+      "website": "https://7bos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T19:20:13.564511+00:00"
+    },
+    {
+      "name": "Barbarian Garage",
+      "slug": "polsia-barbarian-garage",
+      "description": "It doesn't have to be. Barbarian Garage turns wasted square footage into organized, functional space that works as hard as you do. Myrtle Beach and the Grand Strand, Monday through Friday, 8 AM to 4 PM.",
+      "description_fr": "Ce n’est pas obligatoire. Barbarian Garage transforme la superficie gaspillée en un espace organisé et fonctionnel qui travaille aussi dur que vous. Myrtle Beach et Grand Strand, du lundi au vendredi, de 8h00 à 16h00.",
+      "category": "Other",
+      "website": "https://barbarian-garage.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T19:20:15.304499+00:00"
+    },
+    {
+      "name": "EnDawl — Governance",
+      "slug": "polsia-endawl",
+      "description": "Teams are shipping AI-generated campaigns without approval workflows, audit trails, or compliance checks. Every ungoverned campaign is a brand risk, a regulatory exposure, and a liability waiting to surface. The tools got autonomous. The controls didn't.",
+      "description_fr": "Les équipes diffusent des campagnes générées par l'IA sans workflows d'approbation, pistes d'audit ou contrôles de conformité. Chaque campagne non gouvernée représente un risque pour la marque, une exposition réglementaire et un passif qui attend de faire surface. Les outils sont devenus autonomes. Les contrôles ne l'ont pas fait.",
+      "category": "Marketing & Advertising",
+      "website": "https://endawl.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T19:20:16.692277+00:00"
+    },
+    {
+      "name": "CourtPilot",
+      "slug": "polsia-courtpilot-8",
+      "description": "CourtPilot is building the future where every padel club, from a single-location venue to a 50-club franchise, runs at peak performance with AI doing the operational heavy lifting. Built by people who know the court.",
+      "description_fr": "CourtPilot construit un avenir où chaque club de padel, depuis un site unique jusqu'à une franchise de 50 clubs, fonctionne au maximum de ses performances, l'IA faisant le gros du travail opérationnel. Construit par des gens qui connaissent le tribunal.",
+      "category": "AI & Machine Learning",
+      "website": "https://courtpilot-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T19:20:18.188343+00:00"
+    },
+    {
+      "name": "KortexyaOS",
+      "slug": "polsia-kortexyaos",
+      "description": "The operating system for Kortexya. Pipeline, deployments, competitive intel, and compliance tracking unified in a single command center.",
+      "description_fr": "Le système d'exploitation pour Kortexya. Pipeline, déploiements, informations concurrentielles et suivi de la conformité unifiés dans un centre de commande unique.",
+      "category": "Sales & CRM",
+      "website": "https://kortexyaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T19:20:20.146481+00:00"
+    },
+    {
+      "name": "TradeVantage",
+      "slug": "polsia-tradevantage",
+      "description": "ICT and Smart Money Concepts aren't magic. They're a structured way to read what institutions are doing. We teach the framework from fundamentals to advanced execution, with real examples from the daily brief.",
+      "description_fr": "Les concepts des TIC et du Smart Money ne sont pas magiques. Ils constituent une manière structurée de lire ce que font les institutions. Nous enseignons le cadre depuis les fondamentaux jusqu'à l'exécution avancée, avec des exemples réels tirés du briefing quotidien.",
+      "category": "Marketing & Advertising",
+      "website": "https://tradevantage.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T19:20:21.278841+00:00"
     }
   ]
 }
