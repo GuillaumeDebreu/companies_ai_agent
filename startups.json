@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T22:14:50.963686+00:00",
+  "last_updated": "2026-05-12T23:31:41.644661+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -121142,18 +121142,24 @@
     {
       "name": "OptiLifeWellness",
       "slug": "polsia-optilifewellness",
+      "description": "Our blog breaks down the science into digestible guides. What are peptides? How do they work? What does the research actually say? No hype, no bro-science. Just well-sourced information you can trust.",
+      "description_fr": "Notre blog décompose la science en guides compréhensibles. Que sont les peptides ? Comment fonctionnent-ils ? Que dit réellement la recherche ? Pas de battage médiatique, pas de bro-science. Juste des informations fiables et fiables.",
+      "category": "Health & Wellness",
       "website": "https://optilifewellness.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T22:14:34.768940+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T23:31:39.646298+00:00"
     },
     {
-      "name": "Draftwork",
+      "name": "Draftwork — Your AI Design Studio",
       "slug": "polsia-draftwork-3",
+      "description": "Draftwork is an autonomous AI design studio. No templates. No drag-and-drop. No design skills required. Just describe your business, and get a production-ready website delivered.",
+      "description_fr": "Draftwork est un studio de conception d'IA autonome. Aucun modèle. Pas de glisser-déposer. Aucune compétence en conception requise. Décrivez simplement votre entreprise et recevez un site Web prêt pour la production.",
+      "category": "AI & Machine Learning",
       "website": "https://draftwork-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T22:14:35.121417+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T23:31:41.149259+00:00"
     },
     {
       "name": "OpenEar",
@@ -121242,6 +121248,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-12T22:14:47.107632+00:00"
+    },
+    {
+      "name": "HavenRooms",
+      "slug": "polsia-havenrooms",
+      "website": "https://havenrooms.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T23:31:25.014651+00:00"
+    },
+    {
+      "name": "DoorKeep",
+      "slug": "polsia-doorkeep-15",
+      "website": "https://doorkeep-15.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T23:31:25.272283+00:00"
+    },
+    {
+      "name": "NestKey — AI Property Management",
+      "slug": "polsia-nestkey-3",
+      "description": "NestKey exists because property managers deserve to spend their time growing their portfolio, not chasing rent checks and scheduling tours. AI handles the operations. You handle the empire.",
+      "description_fr": "NestKey existe parce que les gestionnaires immobiliers méritent de consacrer leur temps à développer leur portefeuille, sans courir après les chèques de loyer et planifier les visites. L'IA gère les opérations. Vous gérez l'empire.",
+      "category": "AI & Machine Learning",
+      "website": "https://nestkey-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T23:31:27.059182+00:00"
+    },
+    {
+      "name": "Lokora — AI Agents for Rental Management",
+      "slug": "polsia-lokora-ai",
+      "description": "Collects documents, verifies income, checks references, scores solvability. French regulatory compliance built in (loi ALUR, anti-discrimination). Delivers a decision in minutes, not days.",
+      "description_fr": "Recueille les documents, vérifie les revenus, vérifie les références, note la solvabilité. Conformité réglementaire française intégrée (loi ALUR, anti-discrimination). Prend une décision en quelques minutes, pas en jours.",
+      "category": "AI & Machine Learning",
+      "website": "https://lokora-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T23:31:28.517672+00:00"
+    },
+    {
+      "name": "Tallied",
+      "slug": "polsia-tallied-74",
+      "description": "Tallied is an AI bookkeeper that works around the clock. It categorizes every transaction, reconciles your accounts, chases late invoices, and delivers financial reports, all without being asked.",
+      "description_fr": "Tallied est un comptable IA qui travaille 24 heures sur 24. Il catégorise chaque transaction, rapproche vos comptes, recherche les factures en retard et fournit des rapports financiers, le tout sans qu'on vous le demande.",
+      "category": "AI & Machine Learning",
+      "website": "https://tallied-74.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T23:31:29.330800+00:00"
+    },
+    {
+      "name": "SignalForge — Your AI Trading Analyst",
+      "slug": "polsia-signalforge-28",
+      "description": "SignalForge is the analyst you always wanted to hire but couldn't afford. Institutional-grade analysis, delivered autonomously, around the clock. The chart-scanning grind is over.",
+      "description_fr": "SignalForge est l'analyste que vous avez toujours voulu embaucher mais que vous ne pouviez pas vous permettre. Analyse de niveau institutionnel, fournie de manière autonome, 24 heures sur 24. La tâche de numérisation des graphiques est terminée.",
+      "category": "AI & Machine Learning",
+      "website": "https://signalforge-28.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T23:31:31.171552+00:00"
+    },
+    {
+      "name": "Coldfront — Your AI Sales Agent",
+      "slug": "polsia-coldfront-30",
+      "description": "Coldfront is an AI sales agent that researches your prospects, writes personalized emails, follows up on autopilot, and books meetings on your calendar.",
+      "description_fr": "Coldfront est un agent commercial IA qui recherche vos prospects, rédige des e-mails personnalisés, assure le suivi sur pilote automatique et planifie des réunions sur votre calendrier.",
+      "category": "AI & Machine Learning",
+      "website": "https://coldfront-30.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T23:31:32.825461+00:00"
+    },
+    {
+      "name": "PitchFlow — Your AI Sales Rep That Never Sleeps",
+      "slug": "polsia-conceptmerab",
+      "description": "PitchFlow exists because outbound shouldn't require a six-figure hire and an enterprise tech stack. If you have a product worth selling, you should be able to sell it. We handle the pipeline. You close the deals.",
+      "description_fr": "PitchFlow existe parce que le trafic sortant ne devrait pas nécessiter un recrutement à six chiffres ni une pile technologique d'entreprise. Si vous avez un produit qui vaut la peine d’être vendu, vous devriez pouvoir le vendre. Nous nous occupons du pipeline. Vous concluez les affaires.",
+      "category": "AI & Machine Learning",
+      "website": "https://conceptmerab.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T23:31:34.177136+00:00"
+    },
+    {
+      "name": "SoftFocus",
+      "slug": "polsia-softfocus",
+      "description": "SoftFocus exists because your planning tools should match the life you're building: intentional, beautiful, and entirely yours. Every template, every layout, every color choice is made with one belief: when your tools feel right, you show up differently.",
+      "description_fr": "SoftFocus existe parce que vos outils de planification doivent correspondre à la vie que vous construisez : intentionnelle, belle et entièrement la vôtre. Chaque modèle, chaque mise en page, chaque choix de couleur est fait avec une seule conviction : lorsque vos outils vous conviennent, vous vous présentez différemment.",
+      "category": "Real Estate",
+      "website": "https://softfocus.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T23:31:35.052766+00:00"
+    },
+    {
+      "name": "AutoClips",
+      "slug": "polsia-autoclips",
+      "description": "Most creators bet on one niche and hope it works. AutoClips runs a portfolio. When horror CPMs dip, kids volume keeps revenue flowing. Health brings premium advertisers. Diversification is the strategy. Automation is the execution.",
+      "description_fr": "La plupart des créateurs parient sur une niche et espèrent que cela fonctionnera. AutoClips gère un portefeuille. Lorsque les CPM d'horreur diminuent, le volume des enfants continue de générer des revenus. La santé attire des annonceurs premium. La stratégie est la diversification. L'automatisation est l'exécution.",
+      "category": "Health & Wellness",
+      "website": "https://autoclips.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T23:31:35.768674+00:00"
     }
   ]
 }
