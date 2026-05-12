@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T19:55:21.114061+00:00",
+  "last_updated": "2026-05-12T20:55:53.387598+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -120925,26 +120925,35 @@
     {
       "name": "PolsiaOS",
       "slug": "polsia-polsiaos-18",
+      "description": "Automated tracking of Twin, TryCook, Lovable, and every new entrant. Feature gaps, pricing shifts, positioning moves. Always current.",
+      "description_fr": "Suivi automatisé de Twin, TryCook, Lovable et de chaque nouveau participant. Lacunes en matière de fonctionnalités, changements de prix, mouvements de positionnement. Toujours actuel.",
+      "category": "Real Estate",
       "website": "https://polsiaos-18.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T19:20:09.757465+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T20:55:49.429345+00:00"
     },
     {
-      "name": "VukaOS",
+      "name": "VukaOS — Command Center for Vuka Digital",
       "slug": "polsia-vukaos",
+      "description": "While other agencies drown in spreadsheets and status meetings, Vuka Digital runs on a system that works around the clock. Research happens overnight. Outreach runs at dawn. Reports compile before your first coffee.",
+      "description_fr": "Alors que d’autres agences se noient sous les feuilles de calcul et les réunions de statut, Vuka Digital fonctionne sur un système qui fonctionne 24 heures sur 24. La recherche se fait du jour au lendemain. La sensibilisation se déroule à l'aube. Les rapports sont compilés avant votre premier café.",
+      "category": "Sales & CRM",
       "website": "https://vukaos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T19:20:10.174449+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T20:55:50.621350+00:00"
     },
     {
-      "name": "VoltBook",
+      "name": "VoltBook — Booking & Business Management for Electricians",
       "slug": "polsia-voltbook",
+      "description": "VoltBook exists because the founder got tired of losing jobs to voicemail while he was on a ladder. Every feature is built from real job-site experience, not a product manager's imagination. This is software that speaks your language: panels, circuits, permits, and getting paid on time.",
+      "description_fr": "VoltBook existe parce que le fondateur en avait assez de perdre son emploi à cause de la messagerie vocale alors qu'il était sur une échelle. Chaque fonctionnalité est construite à partir d'une expérience réelle sur le chantier, et non de l'imagination d'un chef de produit. C'est un logiciel qui parle votre langue : panneaux, circuits, permis et paiement à temps.",
+      "category": "Software & SaaS",
       "website": "https://voltbook.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T19:20:10.451024+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-12T20:55:52.361932+00:00"
     },
     {
       "name": "NomadBooks",
@@ -121022,6 +121031,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-12T19:20:21.278841+00:00"
+    },
+    {
+      "name": "AutoSlot",
+      "slug": "polsia-autoslot",
+      "website": "https://autoslot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-12T20:55:34.819992+00:00"
+    },
+    {
+      "name": "GrailDrop",
+      "slug": "polsia-graildrop",
+      "description": "GrailDrop is where reselling meets content meets culture. Every flip funds the next chapter. Every video builds the audience. Every day gets closer to the drop that's entirely ours.",
+      "description_fr": "GrailDrop est l'endroit où la revente rencontre le contenu et la culture. Chaque tour finance le chapitre suivant. Chaque vidéo construit l'audience. Chaque jour se rapproche de la goutte qui nous appartient entièrement.",
+      "category": "Entertainment & Media",
+      "website": "https://graildrop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T20:55:53.385495+00:00"
+    },
+    {
+      "name": "FixFinderAI",
+      "slug": "polsia-fixfinderos",
+      "description": "You search your problem and get 47 conflicting answers from 2009. Half the links are dead. The solution that worked for someone else doesn't match your situation.",
+      "description_fr": "Vous recherchez votre problème et obtenez 47 réponses contradictoires datant de 2009. La moitié des liens sont morts. La solution qui a fonctionné pour quelqu'un d'autre ne correspond pas à votre situation.",
+      "category": "AI & Machine Learning",
+      "website": "https://fixfinderos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T20:55:36.272187+00:00"
+    },
+    {
+      "name": "TestForge",
+      "slug": "polsia-testforge-ai",
+      "description": "TestForge is an autonomous AI agent that writes tests, catches regressions, and maintains your test suites. Not a tool you operate. An employee that works.",
+      "description_fr": "TestForge est un agent d'IA autonome qui écrit des tests, détecte les régressions et gère vos suites de tests. Ce n'est pas un outil que vous utilisez. Un employé qui travaille.",
+      "category": "AI & Machine Learning",
+      "website": "https://testforge-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T20:55:37.307061+00:00"
+    },
+    {
+      "name": "Tervah",
+      "slug": "polsia-tervah",
+      "description": "South Africa's 2% THC threshold is the highest in the world. The Commercialisation Policy lands in 2026. The Cannabis Bill follows in 2027. Early operators who move with intelligence, not guesswork, will own this market.",
+      "description_fr": "Le seuil de 2 % de THC en Afrique du Sud est le plus élevé au monde. La politique de commercialisation entrera en vigueur en 2026. Le projet de loi sur le cannabis suivra en 2027. Les premiers opérateurs qui agissent de manière intelligente et sans conjecture seront propriétaires de ce marché.",
+      "category": "Other",
+      "website": "https://tervah.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T20:55:38.679736+00:00"
+    },
+    {
+      "name": "ReplyGrid",
+      "slug": "polsia-replygrid",
+      "description": "The businesses that built your neighborhood shouldn't lose to competitors with bigger budgets or fancier software. ReplyGrid levels the field. We give every dentist, plumber, lawyer, and roofer the same AI systems that enterprise companies take for granted.",
+      "description_fr": "Les entreprises qui ont construit votre quartier ne devraient pas perdre face à des concurrents dotés de budgets plus importants ou de logiciels plus sophistiqués. ReplyGrid nivelle le champ. Nous donnons à chaque dentiste, plombier, avocat et couvreur les mêmes systèmes d’IA que les entreprises tiennent pour acquis.",
+      "category": "AI & Machine Learning",
+      "website": "https://replygrid.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T20:55:39.410575+00:00"
+    },
+    {
+      "name": "RiseLegacy",
+      "slug": "polsia-riselegacy",
+      "description": "A non-profit that employs people leaving incarceration and builds their financial legacy through IUL insurance, living trusts, and LLC structuring.",
+      "description_fr": "Une organisation à but non lucratif qui emploie des personnes sortant d'incarcération et construit leur héritage financier grâce à l'assurance IUL, aux fiducies vivantes et à la structuration de LLC.",
+      "category": "Finance & Fintech",
+      "website": "https://riselegacy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T20:55:41.308989+00:00"
+    },
+    {
+      "name": "Kaamify",
+      "slug": "polsia-kaamify",
+      "description": "Kaamify exists because the best freelancers in Pakistan shouldn't have to choose between doing great work and running a great business. The agent handles one, so you can master the other.",
+      "description_fr": "Kaamify existe parce que les meilleurs pigistes du Pakistan ne devraient pas avoir à choisir entre faire du bon travail et diriger une grande entreprise. L’agent gère l’un, vous pouvez donc maîtriser l’autre.",
+      "category": "Consulting & Services",
+      "website": "https://kaamify.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T20:55:42.373105+00:00"
+    },
+    {
+      "name": "Vendora",
+      "slug": "polsia-vendora-ai-19",
+      "description": "Vendora is an autonomous AI sales agent that handles customer conversations, processes orders, and sells 24/7 on WhatsApp for African SMEs.",
+      "description_fr": "Vendora est un agent commercial autonome doté d'IA qui gère les conversations avec les clients, traite les commandes et vend 24h/24 et 7j/7 sur WhatsApp pour les PME africaines.",
+      "category": "AI & Machine Learning",
+      "website": "https://vendora-ai-19.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T20:55:43.264583+00:00"
+    },
+    {
+      "name": "Quillfox — Your AI Sales Agent That Never Sleeps",
+      "slug": "polsia-quillfox",
+      "description": "You need outbound sales. You know it. But a human SDR costs $140K/year fully loaded, takes 3 months to ramp, and quits in 14 months on average. AI email tools? They blast generic templates that land in spam.",
+      "description_fr": "Vous avez besoin de ventes sortantes. Vous le savez. Mais un SDR humain coûte 140 000 $/an à pleine charge, prend 3 mois à monter en puissance et s'arrête en 14 mois en moyenne. Des outils de messagerie IA ? Ils détruisent les modèles génériques qui atterrissent dans le spam.",
+      "category": "AI & Machine Learning",
+      "website": "https://quillfox.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-12T20:55:44.810081+00:00"
     }
   ]
 }
