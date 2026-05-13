@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T23:31:41.644661+00:00",
+  "last_updated": "2026-05-13T01:25:21.957270+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -121258,12 +121258,15 @@
       "scraped_at": "2026-05-12T23:31:25.014651+00:00"
     },
     {
-      "name": "DoorKeep",
+      "name": "DoorKeep — Your AI Property Manager",
       "slug": "polsia-doorkeep-15",
+      "description": "The best landlords aren't the ones who respond fastest to maintenance requests at 2am. They're the ones who built systems that handle it for them. DoorKeep is that system, built from scratch to run your properties autonomously so you can focus on growing your portfolio.",
+      "description_fr": "Les meilleurs propriétaires ne sont pas ceux qui répondent le plus rapidement aux demandes de maintenance à 2 heures du matin. Ce sont eux qui ont construit des systèmes qui gèrent cela à leur place. DoorKeep est ce système, conçu à partir de zéro pour gérer vos propriétés de manière autonome afin que vous puissiez vous concentrer sur la croissance de votre portefeuille.",
+      "category": "AI & Machine Learning",
       "website": "https://doorkeep-15.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-12T23:31:25.272283+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-13T01:25:21.461723+00:00"
     },
     {
       "name": "NestKey — AI Property Management",
@@ -121352,6 +121355,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-12T23:31:35.768674+00:00"
+    },
+    {
+      "name": "TideWell",
+      "slug": "polsia-tidewell",
+      "website": "https://tidewell.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T01:25:07.261804+00:00"
+    },
+    {
+      "name": "DropPilot",
+      "slug": "polsia-droppilot-13",
+      "website": "https://droppilot-13.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T01:25:07.516826+00:00"
+    },
+    {
+      "name": "LuxeVoix",
+      "slug": "polsia-luxevoix",
+      "website": "https://luxevoix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T01:25:07.885552+00:00"
+    },
+    {
+      "name": "StoryShield — Safety Adventures for Little Ones",
+      "slug": "polsia-storyshield",
+      "description": "Jenny is curious, brave, and always asking questions. Aunty Dell is the wisest, warmest guide a kid could have. Together, they navigate everyday adventures, from crossing the street to knowing who to trust, turning real-world safety lessons into stories children ask to hear again.",
+      "description_fr": "Jenny est curieuse, courageuse et pose toujours des questions. Tante Dell est le guide le plus sage et le plus chaleureux qu'un enfant puisse avoir. Ensemble, ils naviguent dans les aventures quotidiennes, qu'il s'agisse de traverser la rue ou de savoir à qui faire confiance, transformant des leçons de sécurité concrètes en histoires que les enfants demandent à réentendre.",
+      "category": "Other",
+      "website": "https://storyshield.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T01:25:09.404520+00:00"
+    },
+    {
+      "name": "InkRoute",
+      "slug": "polsia-inkroute-4",
+      "description": "InkRoute is the automated print storefront that connects your customers to wholesale trade printers. No manual quoting. No vendor portals. No spreadsheets. Just orders flowing to the right place, every time.",
+      "description_fr": "InkRoute est la vitrine d'impression automatisée qui connecte vos clients aux imprimeurs du commerce de gros. Pas de devis manuel. Aucun portail de fournisseurs. Pas de feuilles de calcul. Juste des commandes qui arrivent au bon endroit, à chaque fois.",
+      "category": "E-Commerce & Retail",
+      "website": "https://inkroute-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T01:25:11.113515+00:00"
+    },
+    {
+      "name": "WildReach — AI Marketing for Outdoor Brands",
+      "slug": "polsia-wildreach",
+      "description": "AI-powered marketing agency built for outdoor and lifestyle brands. Agency-quality work at freelancer prices.",
+      "description_fr": "Agence de marketing basée sur l'IA, conçue pour les marques de plein air et de style de vie. Un travail de qualité d'agence à des prix indépendants.",
+      "category": "AI & Machine Learning",
+      "website": "https://wildreach.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T01:25:12.688270+00:00"
+    },
+    {
+      "name": "SquireOS",
+      "slug": "polsia-squireos",
+      "description": "You're excellent at engineering. But running a practice means you also need to be a salesperson, accountant, project manager, and marketer. Half your week goes to finding work instead of doing it.",
+      "description_fr": "Vous êtes excellent en ingénierie. Mais diriger un cabinet signifie que vous devez également être vendeur, comptable, chef de projet et spécialiste du marketing. La moitié de votre semaine est consacrée à trouver du travail au lieu de le faire.",
+      "category": "Marketing & Advertising",
+      "website": "https://squireos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T01:25:14.141846+00:00"
+    },
+    {
+      "name": "TiffinHive — Your AI",
+      "slug": "polsia-tiffinhive",
+      "description": "An autonomous AI agent that runs a homemade food delivery network. Onboards home chefs, manages orders, grows customers. No ops team needed.",
+      "description_fr": "Un agent IA autonome qui gère un réseau de livraison de nourriture maison. Embauche les chefs à domicile, gère les commandes, augmente la clientèle. Aucune équipe opérationnelle n’est nécessaire.",
+      "category": "AI & Machine Learning",
+      "website": "https://tiffinhive.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T01:25:15.151894+00:00"
+    },
+    {
+      "name": "PointPulse",
+      "slug": "polsia-pointpulse",
+      "description": "PointPulse is building the POS system that business owners actually wanted all along: one where the monitoring isn't an afterthought, the pricing isn't a puzzle, and growth doesn't require a phone call to sales.",
+      "description_fr": "PointPulse construit le système de point de vente que les propriétaires d'entreprise souhaitaient depuis toujours : un système dans lequel la surveillance n'est pas une réflexion après coup, la tarification n'est pas un casse-tête et la croissance ne nécessite pas d'appel téléphonique aux ventes.",
+      "category": "Sales & CRM",
+      "website": "https://pointpulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T01:25:16.599372+00:00"
+    },
+    {
+      "name": "PlateRoom",
+      "slug": "polsia-plateroom",
+      "description": "Instagram wasn't built for restaurants. It was built for everyone, and restaurants had to fit in.PlateRoom is built for the kitchen, the plate, and the people who care about both.",
+      "description_fr": "Instagram n'a pas été conçu pour les restaurants. Il a été construit pour tout le monde et les restaurants devaient s'y intégrer. PlateRoom est construit pour la cuisine, l'assiette et les personnes qui se soucient des deux.",
+      "category": "Food & Beverage",
+      "website": "https://plateroom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T01:25:18.141562+00:00"
     }
   ]
 }
