@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T14:37:40.552621+00:00",
+  "last_updated": "2026-05-13T15:48:38.343631+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -121796,10 +121796,13 @@
     {
       "name": "SignBridge",
       "slug": "polsia-signbridge",
+      "description": "SignBridge bridges the communication gap between healthcare providers and patients with mental disabilities who use Israeli Sign Language.",
+      "description_fr": "SignBridge comble le fossé de communication entre les prestataires de soins de santé et les patients handicapés mentaux qui utilisent la langue des signes israélienne.",
+      "category": "Health & Wellness",
       "website": "https://signbridge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-13T13:04:05.285692+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:31.081766+00:00"
     },
     {
       "name": "GlobalPartnersOS",
@@ -121815,10 +121818,13 @@
     {
       "name": "Surfaced",
       "slug": "polsia-getsurfaced",
+      "description": "Based on what it finds, Surfaced writes and publishes content calibrated for AI retrieval: structured data, authoritative citations, schema markup, and the specific content patterns that LLMs pull from when answering brand queries.",
+      "description_fr": "Sur la base de ce qu'il trouve, Surfaced écrit et publie du contenu calibré pour la récupération par l'IA : données structurées, citations faisant autorité, balisage de schéma et modèles de contenu spécifiques dont les LLM s'inspirent pour répondre aux requêtes de la marque.",
+      "category": "AI & Machine Learning",
       "website": "https://getsurfaced.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-13T13:04:05.934516+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:32.599457+00:00"
     },
     {
       "name": "VelunaraOS",
@@ -121834,18 +121840,24 @@
     {
       "name": "DeckHaul",
       "slug": "polsia-deckhaul",
+      "description": "Every owner-operator deserves a back office that works as hard as they do. DeckHaul is the dispatcher, bookkeeper, and compliance officer you couldn't afford to hire, running 24/7 so the only thing on your plate is the road ahead.",
+      "description_fr": "Chaque propriétaire-exploitant mérite un back-office qui travaille aussi dur qu’eux. DeckHaul est le répartiteur, le comptable et le responsable de la conformité que vous ne pourriez pas vous permettre d'embaucher, fonctionnant 24 heures sur 24, 7 jours sur 7, de sorte que la seule chose dans votre assiette est le chemin à parcourir.",
+      "category": "Marketing & Advertising",
       "website": "https://deckhaul.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-13T13:04:07.687830+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:33.926844+00:00"
     },
     {
       "name": "Siggi",
       "slug": "polsia-siggi-2",
+      "description": "Every market in Dakar, every boutique in Abidjan, every tailor in Bamako sells through WhatsApp. Siggi turns those conversations into a scalable business, without losing the personal touch that makes West African commerce special.",
+      "description_fr": "Chaque marché de Dakar, chaque boutique d'Abidjan, chaque tailleur de Bamako vend via WhatsApp. Siggi transforme ces conversations en une activité évolutive, sans perdre la touche personnelle qui rend le commerce ouest-africain si spécial.",
+      "category": "Other",
       "website": "https://siggi-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-13T13:04:07.855301+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:35.094029+00:00"
     },
     {
       "name": "Bridge Talents — Les meilleurs talents tech d'Afrique du Nord pour vos projets",
@@ -121861,10 +121873,13 @@
     {
       "name": "Caprock",
       "slug": "polsia-caprock-2",
+      "description": "An autonomous AI office manager for home service contractors. Answers calls, books jobs, dispatches crews, sends invoices. Works 24/7 so your team can focus on what they do best.",
+      "description_fr": "Un gestionnaire de bureau IA autonome pour les entrepreneurs en services à domicile. Répond aux appels, réserve les travaux, répartit les équipes, envoie les factures. Fonctionne 24h/24 et 7j/7 pour que votre équipe puisse se concentrer sur ce qu'elle fait le mieux.",
+      "category": "AI & Machine Learning",
       "website": "https://caprock-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-13T13:04:09.637344+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:36.734379+00:00"
     },
     {
       "name": "PlaybookHQ",
@@ -121878,12 +121893,116 @@
       "scraped_at": "2026-05-13T13:04:10.937261+00:00"
     },
     {
-      "name": "Jobeing",
+      "name": "Clerq — Your AI Business Clerk",
       "slug": "polsia-jobeing",
+      "description": "The average small business owner spends4+ hours every monthon invoicing and payment follow-ups. That's time you could spend winning new clients, improving your service, or just going home on time.",
+      "description_fr": "Le propriétaire moyen d’une petite entreprise consacre plus de 4 heures chaque mois au suivi de la facturation et des paiements. C'est du temps que vous pourriez consacrer à gagner de nouveaux clients, à améliorer votre service ou simplement à rentrer chez vous à l'heure.",
+      "category": "AI & Machine Learning",
       "website": "https://jobeing.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:37.879060+00:00"
+    },
+    {
+      "name": "VelvetIron",
+      "slug": "polsia-velvetiron",
+      "website": "https://velvetiron.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-05-13T13:04:11.280971+00:00"
+      "scraped_at": "2026-05-13T15:48:16.772364+00:00"
+    },
+    {
+      "name": "Testatesti",
+      "slug": "polsia-testatestios",
+      "description": "Testatesti exists because small teams deserve the same testing confidence as companies with 50-person QA departments. We're building the tool we wished existed when we were shipping fast and praying nothing broke.",
+      "description_fr": "Testesti existe parce que les petites équipes méritent la même confiance en matière de tests que les entreprises disposant de services d'assurance qualité de 50 personnes. Nous construisons l'outil dont nous souhaitions qu'il existe lorsque nous expédiions rapidement et priions pour que rien ne se casse.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://testatestios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:18.414231+00:00"
+    },
+    {
+      "name": "VendLaunch",
+      "slug": "polsia-vendlaunch",
+      "description": "5 PDF guides covering everything you need to start, run, and scale a profitable vending machine business. No fluff. No fake testimonials. Just the playbook.",
+      "description_fr": "5 guides PDF couvrant tout ce dont vous avez besoin pour démarrer, gérer et développer une entreprise rentable de distributeurs automatiques. Pas de peluches. Pas de faux témoignages. Juste le manuel de jeu.",
+      "category": "Other",
+      "website": "https://vendlaunch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:19.851032+00:00"
+    },
+    {
+      "name": "GhostPen",
+      "slug": "polsia-ghost-pen",
+      "website": "https://ghost-pen.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T15:48:20.160551+00:00"
+    },
+    {
+      "name": "DeedPack",
+      "slug": "polsia-deedpack",
+      "description": "DeedPack assembles curated multi-property portfolios inside pre-created LLCs and sells them as complete, cash-flowing operations packages. One transaction. One entity. Full business from day one.",
+      "description_fr": "DeedPack rassemble des portefeuilles multi-propriétés sélectionnés au sein de LLC pré-créées et les vend sous forme de packages d'opérations complets et rentables. Une transaction. Une entité. Pleine activité dès le premier jour.",
+      "category": "Real Estate",
+      "website": "https://deedpack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:21.613448+00:00"
+    },
+    {
+      "name": "Benchless",
+      "slug": "polsia-benchless-4",
+      "website": "https://benchless-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T15:48:21.965787+00:00"
+    },
+    {
+      "name": "BookdUp",
+      "slug": "polsia-bookdup",
+      "description": "BookdUp installs AI systems that answer every call, book every appointment, and follow up on every lead for roofing, HVAC, and trades businesses.",
+      "description_fr": "BookdUp installe des systèmes d'IA qui répondent à chaque appel, prennent chaque rendez-vous et suivent chaque piste pour les entreprises de toiture, de CVC et de métiers.",
+      "category": "AI & Machine Learning",
+      "website": "https://bookdup.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:23.511846+00:00"
+    },
+    {
+      "name": "OsorioOS",
+      "slug": "polsia-osorioos",
+      "description": "OsorioOS is the backbone of a multiservices center built on real expertise, serving real people, in one of the most diverse neighborhoods in America. Jamaica, Queens deserves infrastructure as strong as its people.",
+      "description_fr": "OsorioOS est l'épine dorsale d'un centre multiservices construit sur une réelle expertise, au service de vraies personnes, dans l'un des quartiers les plus diversifiés d'Amérique. Jamaïque, le Queens mérite une infrastructure aussi solide que sa population.",
+      "category": "Other",
+      "website": "https://osorioos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:25.041416+00:00"
+    },
+    {
+      "name": "Gravitas Luxury",
+      "slug": "polsia-gravitas-luxury",
+      "description": "Gravitas Luxury puts you behind the wheel of the world's finest vehicles. Self-drive or chauffeured. Airport delivery. No quote requests, no waiting.",
+      "description_fr": "Gravitas Luxury vous met au volant des meilleurs véhicules du monde. En liberté ou avec chauffeur. Livraison à l'aéroport. Pas de demande de devis, pas d'attente.",
+      "category": "AI & Machine Learning",
+      "website": "https://gravitas-luxury.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:26.612322+00:00"
+    },
+    {
+      "name": "GoLiteOS",
+      "slug": "polsia-goliteos",
+      "description": "The AAC blocks market in India is valued at USD 4 billion and growing at nearly 10% annually. Government green building mandates, rapid Tier 2 urbanization, and rising material standards are pulling demand higher every quarter.",
+      "description_fr": "Le marché des blocs AAC en Inde est évalué à 4 milliards de dollars et connaît une croissance annuelle de près de 10 %. Les mandats gouvernementaux en matière de construction écologique, l’urbanisation rapide de niveau 2 et l’augmentation des normes en matière de matériaux font augmenter la demande chaque trimestre.",
+      "category": "Software & SaaS",
+      "website": "https://goliteos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T15:48:28.396606+00:00"
     }
   ]
 }
