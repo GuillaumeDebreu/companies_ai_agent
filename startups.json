@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T08:46:09.212167+00:00",
+  "last_updated": "2026-05-13T10:44:35.881277+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -121579,10 +121579,13 @@
     {
       "name": "Servora",
       "slug": "polsia-servora-ai",
+      "description": "AI agents that autonomously run field service operations. Scheduling, dispatch, customer management, invoicing. 24/7.",
+      "description_fr": "Agents IA qui exécutent de manière autonome les opérations de service sur le terrain. Planification, expédition, gestion client, facturation. 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://servora-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-13T08:12:07.807677+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-13T10:44:35.583544+00:00"
     },
     {
       "name": "Threatfin — Your AI Security Analyst",
@@ -121682,6 +121685,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-13T08:12:19.571144+00:00"
+    },
+    {
+      "name": "PaddleRiva",
+      "slug": "polsia-paddleriva",
+      "website": "https://paddleriva.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T10:44:20.239873+00:00"
+    },
+    {
+      "name": "NestKeep",
+      "slug": "polsia-nestkeep-2",
+      "website": "https://nestkeep-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T10:44:20.477225+00:00"
+    },
+    {
+      "name": "PulseFlow",
+      "slug": "polsia-pulseflow",
+      "description": "We automate the workflows your team does by hand. Customer support, lead follow-up, CRM updates, WhatsApp, booking, and more.",
+      "description_fr": "Nous automatisons les flux de travail que votre équipe effectue manuellement. Support client, suivi des leads, mises à jour CRM, WhatsApp, réservation, etc.",
+      "category": "Sales & CRM",
+      "website": "https://pulseflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T10:44:21.971494+00:00"
+    },
+    {
+      "name": "ThreadMine — AI Intent Intelligence for Reddit",
+      "slug": "polsia-threadmine",
+      "description": "ThreadMine mines Reddit conversations to detect buying signals and business opportunities in real-time. Turn online chatter into actionable intelligence.",
+      "description_fr": "ThreadMine exploite les conversations Reddit pour détecter les signaux d'achat et les opportunités commerciales en temps réel. Transformez les discussions en ligne en informations exploitables.",
+      "category": "AI & Machine Learning",
+      "website": "https://threadmine.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T10:44:24.350918+00:00"
+    },
+    {
+      "name": "Take The Journey",
+      "slug": "polsia-journeyos-2",
+      "description": "Every product carries a thread back to its origin. When you shop with us, you're not just buying something, you're joining a movement that connects diaspora to homeland, consumer to creator, story to shelf.",
+      "description_fr": "Chaque produit ramène un fil conducteur à son origine. Lorsque vous magasinez chez nous, vous n'achetez pas seulement quelque chose, vous rejoignez un mouvement qui relie la diaspora à la patrie, le consommateur au créateur, l'histoire au rayon.",
+      "category": "E-Commerce & Retail",
+      "website": "https://journeyos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T10:44:25.889774+00:00"
+    },
+    {
+      "name": "Vigil",
+      "slug": "polsia-vigil-ops-2",
+      "description": "AI ops engineer that reads your logs, diagnoses root cause, and resolves incidents autonomously. Stop getting paged. Start sleeping.",
+      "description_fr": "Ingénieur opérationnel IA qui lit vos journaux, diagnostique la cause première et résout les incidents de manière autonome. Arrêtez d'être bipé. Commencez à dormir.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigil-ops-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T10:44:27.343454+00:00"
+    },
+    {
+      "name": "RecruLeads",
+      "slug": "polsia-recruleads",
+      "description": "Every day, hundreds of companies in your market start hiring. By the time you find them manually, another agency already made the call. RecruLeads monitors job boards, LinkedIn, and company pages with AI, then delivers the leads that matter to you, enriched and ready to contact.",
+      "description_fr": "Chaque jour, des centaines d’entreprises sur votre marché commencent à embaucher. Au moment où vous les trouvez manuellement, une autre agence a déjà passé l'appel. RecruLeads surveille les sites d'emploi, LinkedIn et les pages d'entreprise avec l'IA, puis vous propose les leads qui vous intéressent, enrichis et prêts à être contactés.",
+      "category": "AI & Machine Learning",
+      "website": "https://recruleads.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T10:44:28.815192+00:00"
+    },
+    {
+      "name": "BriefCatchOS",
+      "slug": "polsia-briefcatchos",
+      "description": "The writing software runs itself. The business around it deserves the same precision. BriefCatchOS is the operating layer that turns market dominance into compounding growth.",
+      "description_fr": "Le logiciel d'écriture s'exécute tout seul. Les affaires qui l’entourent méritent la même précision. BriefCatchOS est la couche opérationnelle qui transforme la domination du marché en croissance composée.",
+      "category": "Software & SaaS",
+      "website": "https://briefcatchos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T10:44:30.275481+00:00"
+    },
+    {
+      "name": "IronCart",
+      "slug": "polsia-ironcart",
+      "description": "Kenya's curated tools marketplace. Garden tools, welding equipment, mechanical supplies. Sourced from trusted suppliers, delivered to your door in Nairobi.",
+      "description_fr": "Le marché des outils sélectionnés au Kenya. Outils de jardin, matériel de soudage, fournitures mécaniques. Provenant de fournisseurs de confiance, livrés à votre porte à Nairobi.",
+      "category": "E-Commerce & Retail",
+      "website": "https://ironcart.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T10:44:31.789578+00:00"
+    },
+    {
+      "name": "CipherDeck",
+      "slug": "polsia-cipherdeck",
+      "description": "Professional portfolio websites built for cybersecurity engineers. Showcase pen tests, CTF wins, certifications, and security research.",
+      "description_fr": "Sites Web de portfolio professionnels conçus pour les ingénieurs en cybersécurité. Présentez les tests d'intrusion, les victoires du CTF, les certifications et les recherches en matière de sécurité.",
+      "category": "Other",
+      "website": "https://cipherdeck.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T10:44:32.919888+00:00"
     }
   ]
 }
