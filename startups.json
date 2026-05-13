@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T19:57:25.117038+00:00",
+  "last_updated": "2026-05-13T21:13:03.734594+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -122121,12 +122121,15 @@
       "scraped_at": "2026-05-13T17:52:25.236702+00:00"
     },
     {
-      "name": "Lakeway Luxury Detailing",
+      "name": "Lakeway Luxury Detailing — Premium Mobile Detailing, Lakeway TX",
       "slug": "polsia-lakeway-luxury-detailing",
+      "description": "Ceramic coatings. Paint correction. Boat detailing on Lake Travis. From a weekly wash to full restoration, this is mobile detailing done right.",
+      "description_fr": "Revêtements céramiques. Correction de peinture. Détails de bateau sur le lac Travis. Du lavage hebdomadaire à la restauration complète, ce sont des détails mobiles bien faits.",
+      "category": "Other",
       "website": "https://lakeway-luxury-detailing.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-13T19:45:22.473286+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-13T21:12:58.600998+00:00"
     },
     {
       "name": "FCUTZ",
@@ -122159,12 +122162,15 @@
       "scraped_at": "2026-05-13T19:45:25.362089+00:00"
     },
     {
-      "name": "DriftCalm",
+      "name": "DriftCalm — Your Nightly Recovery Ritual",
       "slug": "polsia-driftcalm",
+      "description": "DriftCalm exists because your body already knows how to heal. It just needs the right conditions. We build those conditions into three products you use every night.",
+      "description_fr": "DriftCalm existe parce que votre corps sait déjà comment guérir. Il lui faut juste les bonnes conditions. Nous intégrons ces conditions dans trois produits que vous utilisez chaque nuit.",
+      "category": "Sustainability & Green",
       "website": "https://driftcalm.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-13T19:45:25.537637+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-13T21:13:00.322705+00:00"
     },
     {
       "name": "Ghosthavn — Live Battles, Real",
@@ -122178,12 +122184,15 @@
       "scraped_at": "2026-05-13T19:45:27.004932+00:00"
     },
     {
-      "name": "Clearline",
+      "name": "Clearline — Your AI Receptionist That Never Misses a Call",
       "slug": "polsia-getclearline",
+      "description": "Clearline costs less than a part-time hire, works more hours than your entire team, and never transfers a caller to voicemail. Built for HVAC shops, dental offices, law firms, salons, and every small business that can't afford to miss the next call.",
+      "description_fr": "Clearline coûte moins cher qu'une embauche à temps partiel, travaille plus d'heures que l'ensemble de votre équipe et ne transfère jamais un appelant vers la messagerie vocale. Conçu pour les ateliers de CVC, les cabinets dentaires, les cabinets d'avocats, les salons et toutes les petites entreprises qui ne peuvent pas se permettre de manquer le prochain appel.",
+      "category": "AI & Machine Learning",
       "website": "https://getclearline.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-13T19:45:27.273018+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-13T21:13:02.021799+00:00"
     },
     {
       "name": "MainStreetLab",
@@ -122217,6 +122226,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-13T19:45:30.113560+00:00"
+    },
+    {
+      "name": "SunShelf",
+      "slug": "polsia-sunshelf",
+      "website": "https://sunshelf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T21:12:46.828725+00:00"
+    },
+    {
+      "name": "BoxwoodOS",
+      "slug": "polsia-boxwoodos",
+      "website": "https://boxwoodos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T21:12:47.165951+00:00"
+    },
+    {
+      "name": "MatOps",
+      "slug": "polsia-matops",
+      "website": "https://matops.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T21:12:47.502362+00:00"
+    },
+    {
+      "name": "OpenGatesOS",
+      "slug": "polsia-opengatesos",
+      "description": "Emergency shelters handle the crisis. Long-term housing is the goal. But the middle phase, transitional living, is where most people fall through the cracks. Spreadsheets lose track. Donors go unthanked. Outcomes go unmeasured. Grant applications lack the data they need.",
+      "description_fr": "Les refuges d’urgence gèrent la crise. Le logement à long terme est l’objectif. Mais la phase intermédiaire, la vie de transition, est celle où la plupart des gens passent entre les mailles du filet. Les feuilles de calcul perdent le fil. Les donateurs ne sont pas remerciés. Les résultats ne sont pas mesurés. Les demandes de subvention ne disposent pas des données dont elles ont besoin.",
+      "category": "Real Estate",
+      "website": "https://opengatesos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T21:12:48.684830+00:00"
+    },
+    {
+      "name": "GritLocal",
+      "slug": "polsia-gritlocal",
+      "description": "AI-powered social media, ads, websites, and lead generation for local service businesses. One monthly fee. Zero marketing degree required.",
+      "description_fr": "Médias sociaux, publicités, sites Web et génération de leads basés sur l'IA pour les entreprises de services locales. Un forfait mensuel. Aucun diplôme en marketing requis.",
+      "category": "Marketing & Advertising",
+      "website": "https://gritlocal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T21:12:49.719958+00:00"
+    },
+    {
+      "name": "BotHive — AI Automation for Small Business",
+      "slug": "polsia-bothive",
+      "description": "BotHive exists because most small businesses in Europe know they need AI but have no idea where to start. We start for you. Deploy in a day. Pay monthly. Scale when ready.",
+      "description_fr": "BotHive existe parce que la plupart des petites entreprises en Europe savent qu’elles ont besoin de l’IA mais ne savent pas par où commencer. Nous commençons pour vous. Déployez en une journée. Payez mensuellement. Échelle lorsque vous êtes prêt.",
+      "category": "AI & Machine Learning",
+      "website": "https://bothive.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T21:13:03.732557+00:00"
+    },
+    {
+      "name": "ClipHive",
+      "slug": "polsia-cliphive-2",
+      "description": "Every hour you spend in a timeline is an hour you're not streaming, not engaging your community, not playing the game you love. ClipHive gives you back that time by running an entire content team as a swarm of AI agents, working together, learning what performs, optimizing every clip.",
+      "description_fr": "Chaque heure que vous passez dans une timeline est une heure que vous ne diffusez pas, n'engagez pas votre communauté, ne jouez pas au jeu que vous aimez. ClipHive vous redonne ce temps en dirigeant toute une équipe de contenu comme un essaim d'agents IA, travaillant ensemble, apprenant ce qui fonctionne et optimisant chaque clip.",
+      "category": "AI & Machine Learning",
+      "website": "https://cliphive-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T21:12:51.571101+00:00"
+    },
+    {
+      "name": "AuthorityMint — Turn Niche Expertise Into Revenue",
+      "slug": "polsia-authoritymint",
+      "description": "Every expert has a niche worth minting. The question isn't whether people will pay for what you know. It's whether you'll build the system to let them.",
+      "description_fr": "Chaque expert a une niche qui mérite d’être exploitée. La question n’est pas de savoir si les gens paieront pour ce que vous savez. Il s'agit de savoir si vous allez construire le système pour les laisser faire.",
+      "category": "Other",
+      "website": "https://authoritymint.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T21:12:53.019913+00:00"
+    },
+    {
+      "name": "OrtizOS",
+      "slug": "polsia-ortizos",
+      "description": "Ortiz Media Solutions has always been about results, not promises. OrtizOS is the infrastructure that turns that philosophy into a system. Every campaign tracked, every lead captured, every client served at the standard they deserve.",
+      "description_fr": "Ortiz Media Solutions a toujours été axé sur les résultats et non sur les promesses. OrtizOS est l'infrastructure qui transforme cette philosophie en système. Chaque campagne suivie, chaque prospect capturé, chaque client servi selon les normes qu'il mérite.",
+      "category": "Marketing & Advertising",
+      "website": "https://ortizos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T21:12:54.089997+00:00"
+    },
+    {
+      "name": "SiteForge — AI Operations for Construction Crews",
+      "slug": "polsia-siteforge-56",
+      "description": "The tools that exist? Built for enterprise. Procore wants $375/month and a dedicated admin. Buildertrend assumes you have an office manager. You have a truck, a phone, and 12-hour days.",
+      "description_fr": "Les outils qui existent ? Conçu pour les entreprises. Procore veut 375 $/mois et un administrateur dédié. Buildertrend suppose que vous avez un chef de bureau. Vous avez un camion, un téléphone et des journées de 12 heures.",
+      "category": "AI & Machine Learning",
+      "website": "https://siteforge-56.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T21:12:55.583639+00:00"
     }
   ]
 }
