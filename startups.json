@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T22:39:49.252582+00:00",
+  "last_updated": "2026-05-13T23:42:31.522022+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -122340,10 +122340,13 @@
     {
       "name": "Vendara",
       "slug": "polsia-vendara-66",
+      "description": "Vendara finds prospects, researches their business, writes personalized outreach, and books meetings. Every day. $29/mo, not $5,000.",
+      "description_fr": "Vendara trouve des prospects, fait des recherches sur leur entreprise, rédige des documents de sensibilisation personnalisés et organise des réunions. Tous les jours. 29 $/mois, pas 5 000 $.",
+      "category": "Sales & CRM",
       "website": "https://vendara-66.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-13T22:39:31.230450+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-13T23:42:29.186893+00:00"
     },
     {
       "name": "GritShift",
@@ -122357,12 +122360,15 @@
       "scraped_at": "2026-05-13T22:39:49.125061+00:00"
     },
     {
-      "name": "Peakline",
+      "name": "Peakline — The AI Back Office for Adventure Companies",
       "slug": "polsia-peakline-3",
+      "description": "Peakline is an AI operations agent that autonomously runs bookings, guest communication, guide scheduling, and weather ops for outdoor adventure businesses.",
+      "description_fr": "Peakline est un agent opérationnel IA qui gère de manière autonome les réservations, la communication avec les clients, la planification des guides et les opérations météorologiques pour les entreprises d'aventure en plein air.",
+      "category": "AI & Machine Learning",
       "website": "https://peakline-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-13T22:39:31.608411+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-13T23:42:30.823363+00:00"
     },
     {
       "name": "FluxLink",
@@ -122440,6 +122446,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-13T22:39:41.235183+00:00"
+    },
+    {
+      "name": "CropPilot",
+      "slug": "polsia-croppilot-5",
+      "website": "https://croppilot-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T23:42:15.104632+00:00"
+    },
+    {
+      "name": "ClipVolt",
+      "slug": "polsia-clipvolt",
+      "website": "https://clipvolt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T23:42:15.324250+00:00"
+    },
+    {
+      "name": "SiteScout AI — Find Local Businesses With Broken Websites",
+      "slug": "polsia-sitescout-ai",
+      "description": "AI-powered local business website audit and lead generation for freelancers, agencies, and consultants. Search by ZIP code, audit websites, generate outreach, close deals.",
+      "description_fr": "Audit de sites Web d'entreprises locales basé sur l'IA et génération de leads pour les indépendants, les agences et les consultants. Recherchez par code postal, auditez des sites Web, générez de la sensibilisation, concluez des transactions.",
+      "category": "AI & Machine Learning",
+      "website": "https://sitescout-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T23:42:16.832621+00:00"
+    },
+    {
+      "name": "Vocava",
+      "slug": "polsia-vocava-2",
+      "website": "https://vocava-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-13T23:42:17.125177+00:00"
+    },
+    {
+      "name": "ProofMode — AI education that starts with the truth",
+      "slug": "polsia-proofmode",
+      "description": "Stop believing myths about AI. Start using it. ProofMode teaches professionals 45+ how to go from ChatGPT to Codex and Claude Code.",
+      "description_fr": "Arrêtez de croire aux mythes sur l’IA. Commencez à l'utiliser. ProofMode enseigne aux professionnels de 45 ans et plus comment passer de ChatGPT au Codex et Claude Code.",
+      "category": "AI & Machine Learning",
+      "website": "https://proofmode.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T23:42:18.969189+00:00"
+    },
+    {
+      "name": "Gutter Brother Pros",
+      "slug": "polsia-gutterbros-os",
+      "description": "That same discipline now goes into every gutter job. When someone who spent 16 years as a lead fire investigator inspects your gutters, they see things other crews do not. Structural issues. Drainage problems. Damage that would have gone unnoticed until it became expensive.",
+      "description_fr": "Cette même discipline s’applique désormais à tous les travaux de gouttières. Lorsqu’une personne qui a passé 16 ans comme enquêteur principal en matière d’incendie inspecte vos gouttières, elle voit des choses que les autres équipes ne voient pas. Problèmes structurels. Problèmes de drainage. Des dégâts qui seraient passés inaperçus jusqu’à devenir coûteux.",
+      "category": "Marketing & Advertising",
+      "website": "https://gutterbros-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T23:42:20.754557+00:00"
+    },
+    {
+      "name": "DonorPilot — Your Fundraising Team That Never Sleeps",
+      "slug": "polsia-donorpilot-2",
+      "description": "Community college foundations manage millions in assets with skeleton crews. Every hour spent on data entry, follow-up emails, and deadline tracking is an hour not spent building donor relationships or growing the endowment.",
+      "description_fr": "Les fondations des collèges communautaires gèrent des millions d’actifs avec des équipes réduites. Chaque heure consacrée à la saisie des données, aux e-mails de suivi et au suivi des délais est une heure non consacrée à l'établissement de relations avec les donateurs ou à l'augmentation de la dotation.",
+      "category": "Newsletter & Email",
+      "website": "https://donorpilot-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T23:42:22.395738+00:00"
+    },
+    {
+      "name": "CyberHeroesHQ",
+      "slug": "polsia-cyberheroes-hq",
+      "description": "Gamified cybersecurity education that teaches kids digital safety through interactive missions, anime-inspired stories, and AI-powered learning.",
+      "description_fr": "Une éducation gamifiée à la cybersécurité qui enseigne aux enfants la sécurité numérique à travers des missions interactives, des histoires inspirées des dessins animés et un apprentissage basé sur l'IA.",
+      "category": "Education",
+      "website": "https://cyberheroes-hq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T23:42:23.769497+00:00"
+    },
+    {
+      "name": "ReelCraft Co",
+      "slug": "polsia-reelcraft-co",
+      "description": "Short-form video agency creating TikToks, Instagram Reels, and Facebook videos for local businesses in Omaha and beyond.",
+      "description_fr": "Agence vidéo courte créant des vidéos TikTok, Instagram Reels et Facebook pour les entreprises locales d'Omaha et au-delà.",
+      "category": "Consulting & Services",
+      "website": "https://reelcraft-co.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T23:42:24.783413+00:00"
+    },
+    {
+      "name": "ClaimPilot — AI That Works Your Denied Claims",
+      "slug": "polsia-claim-pilot-3",
+      "description": "An AI agent that autonomously manages healthcare claim denials, identifies underpayments, and recovers lost revenue 24/7.",
+      "description_fr": "Un agent IA qui gère de manière autonome les refus de réclamations de soins de santé, identifie les sous-paiements et récupère les revenus perdus 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://claim-pilot-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-13T23:42:25.925284+00:00"
     }
   ]
 }
