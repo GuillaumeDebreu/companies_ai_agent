@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T03:34:37.954850+00:00",
+  "last_updated": "2026-05-14T05:31:16.674566+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -122154,12 +122154,15 @@
       "scraped_at": "2026-05-13T19:45:25.100333+00:00"
     },
     {
-      "name": "CrewPilot",
+      "name": "CrewPilot — AI That Runs Your Workforce",
       "slug": "polsia-crew-pilot-14",
+      "description": "CrewPilot is the AI operations manager that schedules shifts, monitors compliance, onboards workers, and handles team comms. Autonomously. While you sleep.",
+      "description_fr": "CrewPilot est le gestionnaire des opérations d'IA qui planifie les quarts de travail, surveille la conformité, intègre les travailleurs et gère les communications de l'équipe. De manière autonome. Pendant que tu dors.",
+      "category": "AI & Machine Learning",
       "website": "https://crew-pilot-14.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-13T19:45:25.362089+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T05:31:13.353335+00:00"
     },
     {
       "name": "DriftCalm — Your Nightly Recovery Ritual",
@@ -122565,10 +122568,13 @@
     {
       "name": "AxionTrade",
       "slug": "polsia-axiontrade",
+      "description": "Mean reversion. Statistical arbitrage. Momentum breakouts. Multi-factor models. The strategies hedge funds use, packaged into algorithms that execute automatically across forex, gold, and crypto.",
+      "description_fr": "Réversion moyenne. Arbitrage statistique. Éruptions d’élan. Modèles multifactoriels. Les stratégies utilisées par les hedge funds, regroupées dans des algorithmes qui s'exécutent automatiquement sur le forex, l'or et la crypto.",
+      "category": "Finance & Fintech",
       "website": "https://axiontrade.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T01:33:56.330280+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T05:31:15.619235+00:00"
     },
     {
       "name": "AutoPilotaOS",
@@ -122654,6 +122660,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-14T01:34:04.118310+00:00"
+    },
+    {
+      "name": "AwardLens",
+      "slug": "polsia-awardlens",
+      "website": "https://awardlens.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T05:30:55.681484+00:00"
+    },
+    {
+      "name": "Wolf Pack Goals — Increase Your Goal Success Rate to 65%",
+      "slug": "polsia-dwellar",
+      "description": "New Year resolutions only have an 11% success rate. Wolf Pack Goals increase success rate by 3x to 33% with financial stakes, takes it to 46% with written intentions, and finally to 65% with accountability partners.",
+      "description_fr": "Les résolutions du Nouvel An n’ont qu’un taux de réussite de 11 %. Les objectifs Wolf Pack augmentent le taux de réussite de 3x à 33 % avec les enjeux financiers, le portent à 46 % avec les intentions écrites et enfin à 65 % avec les partenaires responsables.",
+      "category": "Finance & Fintech",
+      "website": "https://dwellar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T05:30:57.614564+00:00"
+    },
+    {
+      "name": "Les Voyagistes",
+      "slug": "polsia-voyagistesos",
+      "description": "Travel planning reimagined. AI-driven itineraries on an interactive map, built for the way you actually explore.",
+      "description_fr": "La planification des voyages réinventée. Itinéraires pilotés par l'IA sur une carte interactive, conçus pour la façon dont vous explorez réellement.",
+      "category": "AI & Machine Learning",
+      "website": "https://voyagistesos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T05:30:59.121377+00:00"
+    },
+    {
+      "name": "NestRun — Your AI Property Manager",
+      "slug": "polsia-nestrun-35",
+      "description": "Spain welcomed 171 million short-term rental guest nights last year. Behind every one of those stays is a host answering messages, adjusting prices, and coordinating logistics. NestRun exists so they don't have to.",
+      "description_fr": "L’Espagne a accueilli l’année dernière 171 millions de nuitées en location à court terme. Derrière chacun de ces séjours se cache un hôte qui répond aux messages, ajuste les prix et coordonne la logistique. NestRun existe pour qu'ils n'aient pas à le faire.",
+      "category": "Travel & Hospitality",
+      "website": "https://nestrun-35.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T05:31:00.711640+00:00"
+    },
+    {
+      "name": "ROIpm",
+      "slug": "polsia-roipm",
+      "description": "Model decisions before you make them. \"What if I raise rent 5%? Refinance at current rates? Sell Property B and reinvest?\" DealCheck does this pre-purchase. ROIpm does it for properties you already own.",
+      "description_fr": "Modélisez les décisions avant de les prendre. \"Et si j'augmente le loyer de 5 % ? Refinancer aux taux actuels ? Vendre la propriété B et réinvestir ?\" DealCheck effectue ce pré-achat. ROIpm le fait pour les propriétés que vous possédez déjà.",
+      "category": "Real Estate",
+      "website": "https://roipm.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T05:31:02.394831+00:00"
+    },
+    {
+      "name": "ChatCrafter — AI Support Bots for Small Business",
+      "slug": "polsia-chatcrafter",
+      "description": "The gap between a ₹29/month SaaS and a ₹5 lakh enterprise integration just closed. ChatCrafter is building the support layer for India's 63 million SMBs, starting with the ones that need it most.",
+      "description_fr": "L'écart entre un SaaS à 29 ₹/mois et une intégration d'entreprise à 5 lakh ₹ vient de se combler. ChatCrafter construit la couche de support pour les 63 millions de PME indiennes, en commençant par celles qui en ont le plus besoin.",
+      "category": "AI & Machine Learning",
+      "website": "https://chatcrafter.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T05:31:03.866154+00:00"
+    },
+    {
+      "name": "Flint — Your AI Sales Rep",
+      "slug": "polsia-flint-outbound-4",
+      "description": "The best SDRs research deeply, write personally, follow up relentlessly, and never drop the ball. Flint does all of that, around the clock, for every prospect in your pipeline. The future of sales isn't more headcount. It's better agents.",
+      "description_fr": "Les meilleurs SDR effectuent des recherches approfondies, écrivent personnellement, effectuent un suivi sans relâche et ne lâchent jamais la balle. Flint fait tout cela, 24 heures sur 24, pour chaque prospect de votre pipeline. L’avenir des ventes ne réside pas dans l’augmentation des effectifs. Ce sont de meilleurs agents.",
+      "category": "Sales & CRM",
+      "website": "https://flint-outbound-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T05:31:05.472204+00:00"
+    },
+    {
+      "name": "DeskPilot — Your Back Office on Autopilot",
+      "slug": "polsia-deskpilot-ai-11",
+      "description": "DeskPilot is an AI employee that handles invoicing, payment follow-ups, scheduling, expense tracking, and weekly reports. Autonomously. 24/7. While you focus on growing your business.",
+      "description_fr": "DeskPilot est un employé IA qui gère la facturation, le suivi des paiements, la planification, le suivi des dépenses et les rapports hebdomadaires. De manière autonome. 24h/24 et 7j/7. Pendant que vous vous concentrez sur la croissance de votre entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://deskpilot-ai-11.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T05:31:07.152766+00:00"
+    },
+    {
+      "name": "PoolForge",
+      "slug": "polsia-poolforge",
+      "description": "Half the pool service industry still runs on analog tools. Routes planned by memory. Chemical readings scribbled on clipboards. Customers texting \"did you come today?\" because there's no visibility. Your competitors are scaling with software. You're losing an hour a day to admin work you shouldn't be doing.",
+      "description_fr": "La moitié du secteur des services de piscine fonctionne encore avec des outils analogiques. Itinéraires planifiés de mémoire. Lectures chimiques griffonnées sur des presse-papiers. Les clients envoient des SMS « êtes-vous venu aujourd'hui ? » parce qu'il n'y a pas de visibilité. Vos concurrents évoluent avec des logiciels. Vous perdez une heure par jour en travail administratif que vous ne devriez pas faire.",
+      "category": "Software & SaaS",
+      "website": "https://poolforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T05:31:08.728247+00:00"
+    },
+    {
+      "name": "FullyCrew",
+      "slug": "polsia-fullycrew",
+      "description": "Creator agency helping small TikTok streamers grow, battle, monetize, and look professional. Affordable packages starting at $25.",
+      "description_fr": "Agence de création qui aide les petits streamers TikTok à se développer, à se battre, à monétiser et à paraître professionnels. Forfaits abordables à partir de 25$.",
+      "category": "Consulting & Services",
+      "website": "https://fullycrew.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T05:31:10.337956+00:00"
     }
   ]
 }
