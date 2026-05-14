@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T20:25:33.467091+00:00",
+  "last_updated": "2026-05-14T21:45:11.132133+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -123434,28 +123434,37 @@
       "scraped_at": "2026-05-14T20:25:22.839305+00:00"
     },
     {
-      "name": "Kwota",
+      "name": "Kwota — Your AI Sales Rep",
       "slug": "polsia-kwota-2",
+      "description": "Kwota finds your ideal prospects, researches them, writes personalized outreach, follows up, and books meetings on your calendar. No templates. No sequences. No babysitting.",
+      "description_fr": "Kwota trouve vos prospects idéaux, les recherche, rédige des communications personnalisées, assure le suivi et réserve des réunions sur votre calendrier. Aucun modèle. Aucune séquence. Pas de baby-sitting.",
+      "category": "Sales & CRM",
       "website": "https://kwota-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T20:25:23.078946+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T21:45:08.679577+00:00"
     },
     {
       "name": "PipeOps",
       "slug": "polsia-pipeops-ai",
+      "description": "Most field service software gives you a prettier spreadsheet and calls it innovation. PipeOps is an autonomous agent. It doesn't wait for you to click buttons. It reads the incoming job request, checks crew availability, assigns the right truck, notifies the team, and updates the customer. You review what it did, not what it suggests.",
+      "description_fr": "La plupart des logiciels de service sur le terrain vous proposent une feuille de calcul plus jolie et appellent cela de l'innovation. PipeOps est un agent autonome. Il n'attend pas que vous cliquiez sur les boutons. Il lit la demande de travail entrante, vérifie la disponibilité de l'équipe, attribue le bon camion, informe l'équipe et informe le client. Vous examinez ce qu'il a fait, pas ce qu'il suggère.",
+      "category": "Software & SaaS",
       "website": "https://pipeops-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T20:25:23.492456+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T21:45:09.913727+00:00"
     },
     {
-      "name": "Clerq",
+      "name": "Clerq — Your AI Operations Agent",
       "slug": "polsia-clerq-ai-37",
+      "description": "You started your business because you're exceptional at what you do. Not because you love juggling DMs, chasing payments, and tracking appointments in a notebook. Clerq handles the operations so you can focus on the work that got you here.",
+      "description_fr": "Vous avez démarré votre entreprise parce que vous êtes exceptionnel dans ce que vous faites. Pas parce que vous aimez jongler avec les DM, courir après les paiements et suivre les rendez-vous dans un carnet. Clerq gère les opérations afin que vous puissiez vous concentrer sur le travail qui vous a mené jusqu'ici.",
+      "category": "AI & Machine Learning",
       "website": "https://clerq-ai-37.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T20:25:23.764566+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T21:45:10.870780+00:00"
     },
     {
       "name": "HearthTable",
@@ -123522,6 +123531,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-14T20:25:28.998964+00:00"
+    },
+    {
+      "name": "Nightshift",
+      "slug": "polsia-nightshift-88",
+      "website": "https://nightshift-88.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T21:44:54.728985+00:00"
+    },
+    {
+      "name": "NestMind",
+      "slug": "polsia-nestmind-23",
+      "description": "Every inbound lead gets a conversational interview within seconds. NestMind qualifies buyer readiness, timeline, budget, and preferences before you even see the notification.",
+      "description_fr": "Chaque prospect entrant obtient un entretien conversationnel en quelques secondes. NestMind évalue l'état de préparation de l'acheteur, le calendrier, le budget et les préférences avant même que vous ne voyiez la notification.",
+      "category": "Marketing & Advertising",
+      "website": "https://nestmind-23.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T21:44:55.870742+00:00"
+    },
+    {
+      "name": "CrewPilot — The AI Office Manager for Home Service Businesses",
+      "slug": "polsia-crewpilot-100",
+      "description": "CrewPilot answers every call, books every job, chases every quote, and reactivates past customers. 24/7. The office manager your service business can't afford to skip.",
+      "description_fr": "CrewPilot répond à chaque appel, réserve chaque travail, suit chaque devis et réactive les anciens clients. 24h/24 et 7j/7. Le chef de bureau que votre entreprise de services ne peut pas se permettre de laisser de côté.",
+      "category": "AI & Machine Learning",
+      "website": "https://crewpilot-100.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T21:44:56.675869+00:00"
+    },
+    {
+      "name": "DreamFinderOS",
+      "slug": "polsia-dreamfinderos",
+      "description": "Banking taught you how money actually works. Real estate taught you how people actually decide. DreamFinderOS gives you the operational backbone to leverage both, so every client interaction is informed, every follow-up is timed, and every deal moves with precision.",
+      "description_fr": "La banque vous a appris comment fonctionne réellement l’argent. L’immobilier vous a appris comment les gens décident réellement. DreamFinderOS vous donne l'épine dorsale opérationnelle pour tirer parti des deux, de sorte que chaque interaction client soit informée, chaque suivi soit chronométré et chaque transaction se déroule avec précision.",
+      "category": "Finance & Fintech",
+      "website": "https://dreamfinderos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T21:44:58.969533+00:00"
+    },
+    {
+      "name": "Closia",
+      "slug": "polsia-closia",
+      "description": "Closia est le premier employé IA conçu pour les agents commerciaux en immobilier. Pas un chatbot. Pas un CRM de plus. Un collègue autonome qui fait le travail que vous n'avez pas le temps de faire.",
+      "description_fr": "Closia est le premier employé IA conçu pour les agents commerciaux en immobilier. Pas un chatbot. Pas un CRM de plus. Un collègue autonome qui fait le travail que vous n'avez pas le temps de faire.",
+      "category": "AI & Machine Learning",
+      "website": "https://closia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T21:45:00.111924+00:00"
+    },
+    {
+      "name": "YummBitesOS",
+      "slug": "polsia-yummbites-os",
+      "description": "You already make incredible food. YummBitesOS handles the business side so you can focus on what you do best: creating treats people can't stop talking about.",
+      "description_fr": "Vous faites déjà de la nourriture incroyable. YummBitesOS gère le côté commercial afin que vous puissiez vous concentrer sur ce que vous faites le mieux : créer des friandises dont les gens ne peuvent s'empêcher de parler.",
+      "category": "Food & Beverage",
+      "website": "https://yummbites-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T21:45:01.233635+00:00"
+    },
+    {
+      "name": "DealForge",
+      "slug": "polsia-deal-forge-11",
+      "description": "Multi-touch sequences that adapt based on engagement signals. Different angles, different value props, timed perfectly. Never annoying, always relevant.",
+      "description_fr": "Séquences multi-touch qui s'adaptent en fonction des signaux d'engagement. Différents angles, accessoires de valeur différente, parfaitement chronométrés. Jamais ennuyeux, toujours pertinent.",
+      "category": "Real Estate",
+      "website": "https://deal-forge-11.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T21:45:02.259979+00:00"
+    },
+    {
+      "name": "Lastform",
+      "slug": "polsia-lastform",
+      "description": "Lastform works 24/7 as your autonomous business partner. It builds your brand identity, writes campaign copy, finds your audience, manages pricing for limited drops, coordinates production timelines, and grows your customer base while you focus on the next design.",
+      "description_fr": "Lastform travaille 24h/24 et 7j/7 en tant que partenaire commercial autonome. Il construit votre identité de marque, rédige des textes de campagne, trouve votre public, gère les prix pour des baisses limitées, coordonne les délais de production et développe votre clientèle pendant que vous vous concentrez sur la conception suivante.",
+      "category": "Marketing & Advertising",
+      "website": "https://lastform.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T21:45:04.091323+00:00"
+    },
+    {
+      "name": "ClipHive",
+      "slug": "polsia-cliphive-3",
+      "description": "The creators who grow fastest in 2026 aren't the best editors. They're the ones who post every single day. ClipHive makes daily posting automatic, so you can focus on what actually matters: the stream.",
+      "description_fr": "Les créateurs qui connaissent la croissance la plus rapide en 2026 ne sont pas les meilleurs éditeurs. Ce sont eux qui publient chaque jour. ClipHive rend la publication quotidienne automatique, afin que vous puissiez vous concentrer sur ce qui compte vraiment : le flux.",
+      "category": "Other",
+      "website": "https://cliphive-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T21:45:05.058794+00:00"
+    },
+    {
+      "name": "GridReel",
+      "slug": "polsia-gridreel",
+      "description": "GridReel builds highlight tapes, recruiting graphics, and manages social media for high school football players. Monthly packages that get you seen.",
+      "description_fr": "GridReel crée des bandes vidéo de surbrillance, recrute des graphiques et gère les médias sociaux pour les joueurs de football du secondaire. Des forfaits mensuels qui vous font voir.",
+      "category": "Marketing & Advertising",
+      "website": "https://gridreel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T21:45:05.914610+00:00"
     }
   ]
 }
