@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T19:47:42.950963+00:00",
+  "last_updated": "2026-05-14T20:25:33.467091+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -123329,10 +123329,13 @@
     {
       "name": "ThreadLoft",
       "slug": "polsia-threadloft",
+      "description": "Most brands sell everything to everyone. ThreadLoft focuses on what matters: three categories of casual wear, designed for comfort in Karachi's heat, made with fabrics that hold up wash after wash. No logos. No trends. Just clothes that work.",
+      "description_fr": "La plupart des marques vendent de tout à tout le monde. ThreadLoft se concentre sur ce qui compte : trois catégories de vêtements décontractés, conçus pour le confort dans la chaleur de Karachi, fabriqués avec des tissus qui résistent lavage après lavage. Pas de logo. Aucune tendance. Juste des vêtements qui fonctionnent.",
+      "category": "Marketing & Advertising",
       "website": "https://threadloft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T18:52:36.864635+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T20:25:32.104870+00:00"
     },
     {
       "name": "FlowDesk",
@@ -123421,6 +123424,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-14T18:52:45.295668+00:00"
+    },
+    {
+      "name": "WedInk",
+      "slug": "polsia-wedink",
+      "website": "https://wedink.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T20:25:22.839305+00:00"
+    },
+    {
+      "name": "Kwota",
+      "slug": "polsia-kwota-2",
+      "website": "https://kwota-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T20:25:23.078946+00:00"
+    },
+    {
+      "name": "PipeOps",
+      "slug": "polsia-pipeops-ai",
+      "website": "https://pipeops-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T20:25:23.492456+00:00"
+    },
+    {
+      "name": "Clerq",
+      "slug": "polsia-clerq-ai-37",
+      "website": "https://clerq-ai-37.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T20:25:23.764566+00:00"
+    },
+    {
+      "name": "HearthTable",
+      "slug": "polsia-hearthtable",
+      "description": "The best meals don't happen in dining rooms with strangers. They happen around your table, with the people you chose, eating food made just for you. HearthTable exists because that experience shouldn't require you to be the one cooking.",
+      "description_fr": "Les meilleurs repas ne se déroulent pas dans des salles à manger avec des inconnus. Ils se déroulent autour de votre table, avec les personnes que vous avez choisies, en train de manger des plats préparés spécialement pour vous. HearthTable existe parce que cette expérience ne devrait pas exiger que vous soyez celui qui cuisine.",
+      "category": "Food & Beverage",
+      "website": "https://hearthtable.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T20:25:33.464958+00:00"
+    },
+    {
+      "name": "PillarWorks",
+      "slug": "polsia-pillarworks",
+      "description": "Construction, electrical, plumbing, pool construction, CCTV installation and labour hire in Solwezi, Zambia.",
+      "description_fr": "Construction, électricité, plomberie, construction de piscines, installation de vidéosurveillance et embauche de main d'œuvre à Solwezi, Zambie.",
+      "category": "Other",
+      "website": "https://pillarworks.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T20:25:24.661212+00:00"
+    },
+    {
+      "name": "CarpayOS",
+      "slug": "polsia-carpayos",
+      "description": "Delinquencies at historic highs. Federal Reserve scrutiny intensifying. Tricolor's collapse reshaping the landscape. Dealers need modern payment infrastructure more than ever.",
+      "description_fr": "Les impayés atteignent des sommets historiques. La surveillance de la Réserve fédérale s’intensifie. L'effondrement du Tricolor remodèle le paysage. Les concessionnaires ont plus que jamais besoin d’une infrastructure de paiement moderne.",
+      "category": "Software & SaaS",
+      "website": "https://carpayos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T20:25:26.277092+00:00"
+    },
+    {
+      "name": "ThreadForge — The AI That Runs Your Streetwear Brand",
+      "slug": "polsia-threadforge-14",
+      "description": "ThreadForge is the AI agent that handles drops, social content, customer engagement, and e-commerce optimization for streetwear brands. Autonomously. 24/7.",
+      "description_fr": "ThreadForge est l'agent IA qui gère les drops, le contenu social, l'engagement client et l'optimisation du commerce électronique pour les marques de streetwear. De manière autonome. 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://threadforge-14.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T20:25:27.142229+00:00"
+    },
+    {
+      "name": "Archora — AI Architecture Intelligence for Financial Institutions",
+      "slug": "polsia-archora",
+      "description": "Financial institutions managing billions in assets deserve architecture oversight that never sleeps, never takes a holiday, and catches what human reviews miss. Archora is building that future.",
+      "description_fr": "Les institutions financières qui gèrent des milliards d’actifs méritent une surveillance architecturale qui ne dort jamais, ne prend jamais de vacances et détecte ce qui échappe aux évaluations humaines. Archora construit cet avenir.",
+      "category": "AI & Machine Learning",
+      "website": "https://archora.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T20:25:28.062790+00:00"
+    },
+    {
+      "name": "RootedApp — Know what you stand for",
+      "slug": "polsia-rootedapp",
+      "description": "Traditional values exercises hand you 50 words and say \"pick five.\" That's a personality quiz, not self-discovery. RootedApp takes a different path: share a meaningful moment from your life, and AI surfaces the values already living inside it. Grounded in narrative therapy and Self-Determination Theory.",
+      "description_fr": "Les exercices sur les valeurs traditionnelles vous donnent 50 mots et disent « choisissez-en cinq ». C'est un quiz de personnalité, pas de découverte de soi. RootedApp emprunte un chemin différent : partagez un moment significatif de votre vie, et l'IA fait apparaître les valeurs qui y vivent déjà. Fondé sur la thérapie narrative et la théorie de l'autodétermination.",
+      "category": "AI & Machine Learning",
+      "website": "https://rootedapp.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T20:25:28.998964+00:00"
     }
   ]
 }
