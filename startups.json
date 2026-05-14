@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T14:17:10.019072+00:00",
+  "last_updated": "2026-05-14T14:47:22.007218+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -122992,20 +122992,26 @@
       "scraped_at": "2026-05-14T10:36:03.746302+00:00"
     },
     {
-      "name": "DadForge",
+      "name": "DadForge — Break the Cycle. Build the Man.",
       "slug": "polsia-dadforge",
+      "description": "A platform for men who grew up without fathers to become the dads and husbands they never had.",
+      "description_fr": "Une plateforme permettant aux hommes qui ont grandi sans père de devenir les pères et les maris qu'ils n'ont jamais eu.",
+      "category": "Software & SaaS",
       "website": "https://dadforge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T12:15:57.267425+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T14:47:18.699240+00:00"
     },
     {
-      "name": "HustleDiariesOS",
+      "name": "DigitalHustleDiaries — Real numbers. Real attempts. No fluff.",
       "slug": "polsia-hustlediariesos",
+      "description": "This is different. This is the diary. The unfiltered, sometimes embarrassing, always honest record of actually doing the thing. Not teaching it. Not selling a course about it. Doing it.",
+      "description_fr": "C'est différent. C'est le journal. Le compte rendu non filtré, parfois embarrassant, toujours honnête de la réalité de l'action. Je ne l’enseigne pas. Je ne vends pas de cours à ce sujet. Le faire.",
+      "category": "Education",
       "website": "https://hustlediariesos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T12:15:57.632212+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T14:47:20.273229+00:00"
     },
     {
       "name": "Arcova — The AI Architect",
@@ -123021,10 +123027,13 @@
     {
       "name": "Glyphcast",
       "slug": "polsia-glyphcast",
+      "description": "Glyphcast is an AI agent that picks your topics, writes your editions, publishes on schedule, and grows your subscribers. You own a newsletter business. It does the work.",
+      "description_fr": "Glyphcast est un agent IA qui sélectionne vos sujets, rédige vos éditions, publie dans les délais et augmente le nombre de vos abonnés. Vous possédez une entreprise de newsletter. Cela fait le travail.",
+      "category": "AI & Machine Learning",
       "website": "https://glyphcast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T12:15:58.693226+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T14:47:21.801322+00:00"
     },
     {
       "name": "Leveragen",
@@ -123091,6 +123100,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-14T12:16:04.277209+00:00"
+    },
+    {
+      "name": "Censo",
+      "slug": "polsia-censo",
+      "website": "https://censo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T14:47:03.793643+00:00"
+    },
+    {
+      "name": "Outpitch",
+      "slug": "polsia-outpitch-13",
+      "website": "https://outpitch-13.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T14:47:04.033725+00:00"
+    },
+    {
+      "name": "xiiiMindz — A Mindset for Everything",
+      "slug": "polsia-xiiimindz",
+      "description": "xiiiMindz™ isn't another self-help program. It's a mindset for everything. Faith. Money. Family. Purpose. Humanity. Thirteen dimensions of who you could become, taught with the consistency and depth that real transformation demands.",
+      "description_fr": "xiiiMindz™ n'est pas un autre programme d'auto-assistance. C'est un état d'esprit pour tout. Foi. Argent. Famille. But. Humanité. Treize dimensions de qui vous pourriez devenir, enseignées avec la cohérence et la profondeur qu’exige une véritable transformation.",
+      "category": "Sustainability & Green",
+      "website": "https://xiiimindz.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T14:47:05.645821+00:00"
+    },
+    {
+      "name": "ForgeSight — AI Quality Inspector for Manufacturing",
+      "slug": "polsia-forgesight",
+      "description": "ForgeSight is an AI quality inspector that watches every part, every weld, every surface. 24 hours a day, 99% accuracy, zero fatigue. Built for the manufacturers powering Morocco's industrial rise.",
+      "description_fr": "ForgeSight est un inspecteur qualité IA qui surveille chaque pièce, chaque soudure, chaque surface. 24 heures sur 24, précision de 99 %, zéro fatigue. Conçu pour les fabricants qui alimentent l’essor industriel du Maroc.",
+      "category": "AI & Machine Learning",
+      "website": "https://forgesight.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T14:47:06.647845+00:00"
+    },
+    {
+      "name": "RavenAI",
+      "slug": "polsia-ravenai",
+      "description": "Every day, AI-powered attacks grow more sophisticated. Every day, the gap between the protected and the exposed widens. RavenAI exists to close that gap, putting enterprise-grade threat intelligence in the hands of everyone, not just companies with six-figure security budgets.",
+      "description_fr": "Chaque jour, les attaques basées sur l’IA deviennent de plus en plus sophistiquées. Chaque jour, le fossé entre les protégés et les exposés se creuse. RavenAI existe pour combler cet écart, en mettant les renseignements sur les menaces de niveau entreprise entre les mains de tous, et pas seulement des entreprises disposant de budgets de sécurité à six chiffres.",
+      "category": "AI & Machine Learning",
+      "website": "https://ravenai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T14:47:07.571550+00:00"
+    },
+    {
+      "name": "AztecOS — Where Clean Meets Command",
+      "slug": "polsia-aztecos-3",
+      "description": "For 25 years, Aztec Facility Services has set the standard in the Twin Cities. From corporate headquarters to medical clinics, from post-construction sites to community churches, every space gets the same uncompromising care. AztecOS is the system that scales that standard without diluting it.",
+      "description_fr": "Depuis 25 ans, Aztec Facility Services a établi la norme dans les villes jumelles. Du siège social de l’entreprise aux cliniques médicales, des chantiers post-construction aux églises communautaires, chaque espace bénéficie des mêmes soins sans compromis. AztecOS est le système qui fait évoluer cette norme sans la diluer.",
+      "category": "Health & Wellness",
+      "website": "https://aztecos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T14:47:09.228601+00:00"
+    },
+    {
+      "name": "ViralMind",
+      "slug": "polsia-viralmind",
+      "description": "AI that analyzes viral patterns, learns your brand voice, and generates original social media content across all platforms.",
+      "description_fr": "Une IA qui analyse les modèles viraux, apprend la voix de votre marque et génère du contenu original sur les réseaux sociaux sur toutes les plateformes.",
+      "category": "AI & Machine Learning",
+      "website": "https://viralmind.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T14:47:10.132462+00:00"
+    },
+    {
+      "name": "BOOST",
+      "slug": "polsia-boost-rescue",
+      "description": "Every year, millions of drivers in France are stranded by dead batteries. They call a number, wait on hold, and hope someone shows up within the hour. BOOST replaces that entire experience with something that works like the rest of your life already does: instant, tracked, transparent.",
+      "description_fr": "Chaque année, des millions de conducteurs en France se retrouvent bloqués à cause de batteries à plat. Ils appellent un numéro, attendent en attente et espèrent que quelqu'un se présentera dans l'heure. BOOST remplace toute cette expérience par quelque chose qui fonctionne comme le reste de votre vie : instantané, suivi, transparent.",
+      "category": "Marketing & Advertising",
+      "website": "https://boost-rescue.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T14:47:11.245881+00:00"
+    },
+    {
+      "name": "Aurix Visions — See What Others Miss",
+      "slug": "polsia-aurixos",
+      "description": "Most creative studios deliver assets. We deliver understanding. Before a single frame is shot or a pixel is placed, we study the DNA of what makes your brand move people. The visuals come after. The vision comes first.",
+      "description_fr": "La plupart des studios de création proposent des ressources. Nous apportons de la compréhension. Avant qu’une seule image ne soit prise ou qu’un pixel ne soit placé, nous étudions l’ADN de ce qui fait que votre marque touche les gens. Les visuels viennent après. La vision vient en premier.",
+      "category": "Marketing & Advertising",
+      "website": "https://aurixos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T14:47:12.658754+00:00"
+    },
+    {
+      "name": "SynthServe — AI Services That Actually Work",
+      "slug": "polsia-synthserve",
+      "description": "SynthServe sets up intelligent chatbots, automates your content, and runs your marketing with AI. You focus on growing. We handle the machines.",
+      "description_fr": "SynthServe met en place des chatbots intelligents, automatise votre contenu et gère votre marketing avec l'IA. Vous vous concentrez sur la croissance. Nous gérons les machines.",
+      "category": "AI & Machine Learning",
+      "website": "https://synthserve.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T14:47:13.985143+00:00"
     }
   ]
 }
