@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T05:31:16.674566+00:00",
+  "last_updated": "2026-05-14T08:13:15.212266+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -122664,10 +122664,13 @@
     {
       "name": "AwardLens",
       "slug": "polsia-awardlens",
+      "description": "We don't interpret awards from PDFs or build our own rules engine. We pull directly from the Fair Work Commission's Modern Awards Pay Database, the same data the regulator uses.",
+      "description_fr": "Nous n'interprétons pas les récompenses à partir de fichiers PDF et ne construisons pas notre propre moteur de règles. Nous extrayons directement de la base de données Modern Awards Pay de la Fair Work Commission, les mêmes données que celles utilisées par le régulateur.",
+      "category": "Other",
       "website": "https://awardlens.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T05:30:55.681484+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T08:13:12.005891+00:00"
     },
     {
       "name": "Wolf Pack Goals — Increase Your Goal Success Rate to 65%",
@@ -122767,6 +122770,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-14T05:31:10.337956+00:00"
+    },
+    {
+      "name": "FlipLeads",
+      "slug": "polsia-flipleads",
+      "description": "The demand is there. Salvage yards, scrap processors, car flippers, and independent dealers all need a steady pipeline of sellers. But the lead gen industry keeps recycling the same contacts across dozens of buyers.",
+      "description_fr": "La demande est là. Les chantiers de récupération, les transformateurs de ferraille, les flippers de voitures et les concessionnaires indépendants ont tous besoin d'un pipeline constant de vendeurs. Mais l’industrie de la génération de leads continue de recycler les mêmes contacts auprès de dizaines d’acheteurs.",
+      "category": "Sales & CRM",
+      "website": "https://flipleads.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T08:13:13.367789+00:00"
+    },
+    {
+      "name": "GloMamaOS",
+      "slug": "polsia-glomamaos",
+      "description": "The pregnancy skincare shelf is full of promises. Toxin-free. Natural. Gentle. But who made it? A marketing team reading trend reports, or a gynecologist who's delivered 800 babies and knows what ingredients actually matter at each trimester?",
+      "description_fr": "L’étagère des soins de grossesse est pleine de promesses. Sans toxines. Naturel. Doux. Mais qui l'a fait ? Une équipe marketing qui lit des rapports de tendances, ou un gynécologue qui a accouché de 800 bébés et sait quels ingrédients sont réellement importants à chaque trimestre ?",
+      "category": "Marketing & Advertising",
+      "website": "https://glomamaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T08:12:58.636666+00:00"
+    },
+    {
+      "name": "RideDrop — Rides and Deliveries, One Platform",
+      "slug": "polsia-ridedrop",
+      "description": "Our routing engine sequences rides and deliveries together. A driver dropping someone off near a restaurant grabs a food order. A delivery driver passing through Fremont picks up a rider headed downtown. Every mile earns.",
+      "description_fr": "Notre moteur de routage séquence les trajets et les livraisons ensemble. Un chauffeur qui dépose quelqu'un près d'un restaurant récupère une commande de nourriture. Un chauffeur-livreur de passage à Fremont récupère un passager en direction du centre-ville. Chaque kilomètre rapporte.",
+      "category": "Food & Beverage",
+      "website": "https://ridedrop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T08:13:15.210220+00:00"
+    },
+    {
+      "name": "Operantis",
+      "slug": "polsia-operantis",
+      "description": "Every hour your team spends on repetitive tasks is an hour your competitors are automating. Operantis exists because local businesses deserve the same AI advantage that Fortune 500 companies have had for years.",
+      "description_fr": "Chaque heure que votre équipe consacre à des tâches répétitives est une heure que vos concurrents automatisent. Operantis existe parce que les entreprises locales méritent le même avantage en matière d’IA que les entreprises Fortune 500 dont bénéficient depuis des années.",
+      "category": "AI & Machine Learning",
+      "website": "https://operantis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T08:12:59.947274+00:00"
+    },
+    {
+      "name": "CayNest",
+      "slug": "polsia-caynest",
+      "description": "CayNest is an AI employee that manages your vacation rentals 24/7. Guest messages answered, prices optimized, cleaners dispatched, listings updated. You just own.",
+      "description_fr": "CayNest est un employé IA qui gère vos locations de vacances 24h/24 et 7j/7. Réponses aux messages des clients, prix optimisés, nettoyeurs envoyés, annonces mises à jour. Vous possédez simplement.",
+      "category": "AI & Machine Learning",
+      "website": "https://caynest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T08:13:02.467204+00:00"
+    },
+    {
+      "name": "PixelScale — AI",
+      "slug": "polsia-pixelscale",
+      "description": "TikTok ads. Instagram Reels. UGC-style product videos. We generate scroll-stopping video creatives using AI, then refine them with human strategy. Faster than freelancers, sharper than templates.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
+      "website": "https://pixelscale.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T08:13:03.808759+00:00"
+    },
+    {
+      "name": "CashPilot — Your AI CFO",
+      "slug": "polsia-cashpilot-37",
+      "description": "Every Monday morning, a CFO-quality report lands in your inbox. What changed, what was saved, what needs your attention. Two minutes to understand your entire financial picture.",
+      "description_fr": "Chaque lundi matin, un rapport de qualité CFO arrive dans votre boîte de réception. Qu’est-ce qui a changé, qu’est-ce qui a été sauvegardé, qu’est-ce qui nécessite votre attention. Deux minutes pour comprendre l’ensemble de votre situation financière.",
+      "category": "AI & Machine Learning",
+      "website": "https://cashpilot-37.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T08:13:04.974702+00:00"
+    },
+    {
+      "name": "RawMotion",
+      "slug": "polsia-rawmotion",
+      "description": "AI image-to-video generation with zero restrictions. No content filters, no prompt refusals, no limits.",
+      "description_fr": "Génération d'image en vidéo IA sans aucune restriction. Pas de filtres de contenu, pas de refus rapides, pas de limites.",
+      "category": "AI & Machine Learning",
+      "website": "https://rawmotion.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T08:13:06.400111+00:00"
+    },
+    {
+      "name": "ClickConvert",
+      "slug": "polsia-clickconvert",
+      "description": "We analyzed the full product catalog and found something most store owners miss: the highest-margin, fastest-selling items aren't the Prada loafers or Calvin Klein bags. They're the $7-15 digital guides on skincare, parenting, kitchen design, and personal finance.",
+      "description_fr": "Nous avons analysé le catalogue complet de produits et découvert quelque chose qui échappe à la plupart des propriétaires de magasins : les articles les plus rentables et les plus vendus ne sont pas les mocassins Prada ou les sacs Calvin Klein. Ce sont des guides numériques de 7 à 15 $ sur les soins de la peau, la parentalité, la conception de cuisine et les finances personnelles.",
+      "category": "E-Commerce & Retail",
+      "website": "https://clickconvert.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T08:13:07.919692+00:00"
+    },
+    {
+      "name": "UnravelOS",
+      "slug": "polsia-unravelos",
+      "description": "Unravel Viti is the bridge. Founded by the Wara family from Ra Province, this i-taukei-led operation takes travelers through Viti Levu's interior, from Nasivikoso to Naiyaca, through highlands most tourists will never know exist.",
+      "description_fr": "Démêler Viti est le pont. Fondée par la famille Wara de la province de Ra, cette opération dirigée par des i-taukei emmène les voyageurs à travers l'intérieur de Viti Levu, de Nasivikoso à Naiyaca, à travers des hauts plateaux dont la plupart des touristes ignorent l'existence.",
+      "category": "Travel & Hospitality",
+      "website": "https://unravelos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T08:13:09.332853+00:00"
     }
   ]
 }
