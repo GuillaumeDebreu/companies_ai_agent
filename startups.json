@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T16:53:26.308669+00:00",
+  "last_updated": "2026-05-14T18:52:52.448431+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -123214,18 +123214,24 @@
     {
       "name": "HeartstoneOS",
       "slug": "polsia-heartstoneos-2",
+      "description": "Named for gems that endure across generations, Heartstone Press creates stories children carry with them forever. Not just diverse for the sake of a checkbox, but authentically, emotionally, genuinely representative of the world kids actually live in.",
+      "description_fr": "Nommé d'après des pierres précieuses qui perdurent à travers les générations, Heartstone Press crée des histoires que les enfants portent avec eux pour toujours. Pas seulement diversifié pour le plaisir d’une case à cocher, mais authentiquement, émotionnellement et véritablement représentatif du monde dans lequel les enfants vivent réellement.",
+      "category": "Other",
       "website": "https://heartstoneos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T16:53:13.196735+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T18:52:47.510360+00:00"
     },
     {
       "name": "CurrentOpsOS",
       "slug": "polsia-currentopsos",
+      "description": "See every installation from lead to PTO across CA, FL, and TX in one view. Filter by state, crew, status, or timeline. No more tab-switching between spreadsheets.",
+      "description_fr": "Visualisez chaque installation, du fil à la prise de force, en Californie, en Floride et au Texas, dans une seule vue. Filtrez par état, équipage, statut ou chronologie. Plus besoin de basculer entre les feuilles de calcul.",
+      "category": "Marketing & Advertising",
       "website": "https://currentopsos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T16:53:13.544880+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T18:52:48.654186+00:00"
     },
     {
       "name": "FlashCortex",
@@ -123238,10 +123244,13 @@
     {
       "name": "TackLabOS",
       "slug": "polsia-tacklabos",
+      "description": "TackLabOS is built by a product leader with a decade of experience at Adobe, Contentsquare, and Batch, connecting marketing data to business outcomes. Now doing the same for the AI search era.",
+      "description_fr": "TackLabOS est conçu par un chef de produit possédant une décennie d'expérience chez Adobe, Contentsquare et Batch, reliant les données marketing aux résultats commerciaux. Nous faisons maintenant la même chose pour l’ère de la recherche par l’IA.",
+      "category": "AI & Machine Learning",
       "website": "https://tacklabos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T16:53:14.386629+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T18:52:50.871324+00:00"
     },
     {
       "name": "GritGone — Mobile Car Detailing, Denver",
@@ -123308,6 +123317,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-14T16:53:21.744463+00:00"
+    },
+    {
+      "name": "VoxClip",
+      "slug": "polsia-voxclip",
+      "website": "https://voxclip.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T18:52:36.526848+00:00"
+    },
+    {
+      "name": "ThreadLoft",
+      "slug": "polsia-threadloft",
+      "website": "https://threadloft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T18:52:36.864635+00:00"
+    },
+    {
+      "name": "FlowDesk",
+      "slug": "polsia-flowdesk-33",
+      "description": "Traditional automation tools require you to set up rules, connect apps, and maintain workflows. FlowDesk thinks for itself. It observes your business patterns, makes decisions, takes action, and reports outcomes. You review results, not configure triggers.",
+      "description_fr": "Les outils d'automatisation traditionnels vous obligent à définir des règles, à connecter des applications et à maintenir des flux de travail. FlowDesk pense par lui-même. Il observe vos modèles commerciaux, prend des décisions, prend des mesures et rend compte des résultats. Vous examinez les résultats, vous ne configurez pas les déclencheurs.",
+      "category": "Productivity & Automation",
+      "website": "https://flowdesk-33.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T18:52:52.446505+00:00"
+    },
+    {
+      "name": "LedgerMint — Bookkeeping for founders who'd rather be building",
+      "slug": "polsia-ledgermint",
+      "description": "LedgerMint exists because founders shouldn't have to choose between affordable and reliable. We bring practitioner-level accounting expertise to businesses that are still too early for a CFO but too serious for a spreadsheet.",
+      "description_fr": "LedgerMint existe parce que les fondateurs ne devraient pas avoir à choisir entre abordable et fiable. Nous apportons une expertise comptable de niveau praticien aux entreprises qui sont encore trop tôt pour un directeur financier mais trop sérieuses pour un tableur.",
+      "category": "Finance & Fintech",
+      "website": "https://ledgermint.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T18:52:37.919517+00:00"
+    },
+    {
+      "name": "PostFoundry — AI Content System for Local Businesses",
+      "slug": "polsia-postfoundry",
+      "description": "But the dentist doing root canals all day isn't learning CapCut. The estate agent showing 6 properties a week isn't scripting Reels between viewings. The gym owner running classes from 6am isn't editing TikToks at midnight.",
+      "description_fr": "Mais le dentiste qui fait des traitements de canal toute la journée n'apprend pas CapCut. L'agent immobilier qui présente 6 propriétés par semaine n'écrit pas de scripts entre les visites. Le propriétaire du gymnase qui donne des cours à partir de 6 heures du matin ne modifie pas les TikToks à minuit.",
+      "category": "AI & Machine Learning",
+      "website": "https://postfoundry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T18:52:39.193110+00:00"
+    },
+    {
+      "name": "Attune — Your AI Spiritual Coach",
+      "slug": "polsia-getattuned",
+      "description": "Growth isn't only light. Attune guides you through the uncomfortable parts with structured shadow work, emotional processing, and self-inquiry exercises drawn from Jungian and contemplative traditions.",
+      "description_fr": "La croissance n’est pas seulement légère. Attune vous guide à travers les moments inconfortables avec un travail d'ombre structuré, un traitement émotionnel et des exercices d'introspection tirés des traditions jungiennes et contemplatives.",
+      "category": "AI & Machine Learning",
+      "website": "https://getattuned.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T18:52:40.595101+00:00"
+    },
+    {
+      "name": "GhostReel",
+      "slug": "polsia-ghostreel-ai",
+      "description": "Every faceless YouTube creator is doing the same thing: stitching together 7 tools, spending hours on each video, burning out before they hit monetization. GhostReel makes that obsolete. One autonomous agent. Infinite scale. Your channels run whether you're awake or not.",
+      "description_fr": "Chaque créateur YouTube sans visage fait la même chose : assembler 7 outils, passer des heures sur chaque vidéo, s'épuiser avant d'atteindre la monétisation. GhostReel rend cela obsolète. Un agent autonome. Échelle infinie. Vos chaînes fonctionnent que vous soyez réveillé ou non.",
+      "category": "AI & Machine Learning",
+      "website": "https://ghostreel-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T18:52:41.729362+00:00"
+    },
+    {
+      "name": "DemandConvertOS",
+      "slug": "polsia-demandconvertos",
+      "description": "Every plumber, electrician, and HVAC tech in your market deserves to be found by the homeowners who need them. DemandConvertOS gives you the system to make that happen, at scale, for every client you serve.",
+      "description_fr": "Chaque plombier, électricien et technicien CVC de votre marché mérite d’être trouvé par les propriétaires qui en ont besoin. DemandConvertOS vous offre le système nécessaire pour y parvenir, à grande échelle, pour chaque client que vous servez.",
+      "category": "Other",
+      "website": "https://demandconvertos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T18:52:42.928659+00:00"
+    },
+    {
+      "name": "Hermosa Luxury Cleaning",
+      "slug": "polsia-hermosa-luxury-cleaning",
+      "description": "Hermosa exists because luxury homes in Las Vegas deserve a cleaning service that matches their standard. Not a discount operation. Not a franchise. A dedicated team that treats your home the way you would.",
+      "description_fr": "Hermosa existe parce que les maisons de luxe à Las Vegas méritent un service de nettoyage à la hauteur de leurs standards. Il ne s'agit pas d'une opération de réduction. Pas une franchise. Une équipe dévouée qui traite votre maison comme vous le feriez.",
+      "category": "Other",
+      "website": "https://hermosa-luxury-cleaning.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T18:52:44.236803+00:00"
+    },
+    {
+      "name": "CoverCraft",
+      "slug": "polsia-covercraft",
+      "description": "Most insurance agents are running websites built from templates that look like every other agent in town. Prospects land on your page, see the same stock photos and generic copy, and bounce to someone who looks more established.",
+      "description_fr": "La plupart des agents d'assurance gèrent des sites Web construits à partir de modèles qui ressemblent à ceux de tous les autres agents de la ville. Les prospects atterrissent sur votre page, voient les mêmes photos d'archives et la même copie générique, et rebondissent vers quelqu'un qui semble plus établi.",
+      "category": "Sales & CRM",
+      "website": "https://covercraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T18:52:45.295668+00:00"
     }
   ]
 }
