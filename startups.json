@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T10:36:06.715629+00:00",
+  "last_updated": "2026-05-14T12:16:12.345907+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -122884,26 +122884,35 @@
     {
       "name": "BugHound",
       "slug": "polsia-bughound-5",
+      "description": "Every push to production is a gamble without testing. BugHound turns that gamble into confidence. It runs while you sleep, catches what you miss, and reports what matters.",
+      "description_fr": "Chaque passage en production est un pari sans tests. BugHound transforme ce pari en confiance. Il fonctionne pendant que vous dormez, détecte ce que vous manquez et signale ce qui compte.",
+      "category": "Other",
       "website": "https://bughound-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T10:35:54.192166+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T12:16:09.158702+00:00"
     },
     {
       "name": "Botika",
       "slug": "polsia-botika",
+      "description": "Your customers get instant replies, 24/7. The bot answers FAQs, shares your menu or price list, and routes complex questions to you. No more missed messages at midnight.",
+      "description_fr": "Vos clients reçoivent des réponses instantanées, 24h/24 et 7j/7. Le robot répond aux FAQ, partage votre menu ou votre liste de prix et vous adresse des questions complexes. Fini les messages manqués à minuit.",
+      "category": "Other",
       "website": "https://botika.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T10:35:54.459723+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T12:16:10.765651+00:00"
     },
     {
-      "name": "Rithm",
+      "name": "Rithm — Your AI Marketing Director",
       "slug": "polsia-rithm",
+      "description": "Rithm is an autonomous AI marketing operator that runs social media, email campaigns, review management, and growth for local businesses. 24/7. No humans required.",
+      "description_fr": "Rithm est un opérateur marketing d'IA autonome qui gère les réseaux sociaux, les campagnes par e-mail, la gestion des avis et la croissance des entreprises locales. 24h/24 et 7j/7. Aucun humain requis.",
+      "category": "Marketing & Advertising",
       "website": "https://rithm.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T10:35:54.733559+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T12:16:11.874462+00:00"
     },
     {
       "name": "HypeHaul",
@@ -122981,6 +122990,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-14T10:36:03.746302+00:00"
+    },
+    {
+      "name": "DadForge",
+      "slug": "polsia-dadforge",
+      "website": "https://dadforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T12:15:57.267425+00:00"
+    },
+    {
+      "name": "HustleDiariesOS",
+      "slug": "polsia-hustlediariesos",
+      "website": "https://hustlediariesos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T12:15:57.632212+00:00"
+    },
+    {
+      "name": "Arcova — The AI Architect",
+      "slug": "polsia-arcova",
+      "description": "Describe the project. Arcova generates multiple design directions with spatial layouts, material palettes, and massing studies. Not random outputs. Constraint-aware concepts shaped by zoning, climate, and budget.",
+      "description_fr": "Décrivez le projet. Arcova génère plusieurs directions de conception avec des dispositions spatiales, des palettes de matériaux et des études de volumes. Pas de sorties aléatoires. Des concepts sensibles aux contraintes façonnés par le zonage, le climat et le budget.",
+      "category": "AI & Machine Learning",
+      "website": "https://arcova.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T12:15:58.375869+00:00"
+    },
+    {
+      "name": "Glyphcast",
+      "slug": "polsia-glyphcast",
+      "website": "https://glyphcast.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T12:15:58.693226+00:00"
+    },
+    {
+      "name": "Leveragen",
+      "slug": "polsia-leveragen",
+      "description": "82% of small businesses have already started investing in AI tools. The gap between early adopters and everyone else is widening every month. Leveragen exists to put you on the right side of that gap.",
+      "description_fr": "82 % des petites entreprises ont déjà commencé à investir dans des outils d'IA. L’écart entre les premiers utilisateurs et tous les autres se creuse chaque mois. Leveragen existe pour vous mettre du bon côté de cet écart.",
+      "category": "AI & Machine Learning",
+      "website": "https://leveragen.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T12:15:59.442296+00:00"
+    },
+    {
+      "name": "FreshPuck — Your food's nose",
+      "slug": "polsia-freshpuck",
+      "description": "40% of food in the US goes to waste. Most of it still perfectly edible when it hits the trash. Expiration dates are manufacturer estimates, not measurements. And by the time you can smell something off, the food has been degrading for days. There's a gap between \"probably fine\" and \"definitely bad\" where billions of dollars of food gets thrown away.",
+      "description_fr": "Aux États-Unis, 40 % de la nourriture est gaspillée. La plupart sont encore parfaitement comestibles une fois jetées à la poubelle. Les dates d'expiration sont des estimations du fabricant et non des mesures. Et au moment où vous sentez quelque chose, la nourriture se dégrade depuis des jours. Il existe un écart entre « probablement bien » et « absolument mauvais », où des milliards de dollars de nourriture sont jetés.",
+      "category": "Food & Beverage",
+      "website": "https://freshpuck.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T12:16:00.378978+00:00"
+    },
+    {
+      "name": "Stanza — Your AI Vacation Rental Concierge",
+      "slug": "polsia-stanza-3",
+      "description": "AI that manages your vacation rental properties. Guest messaging, local recommendations, and operations in any language, 24/7.",
+      "description_fr": "Une IA qui gère vos propriétés de location de vacances. Messagerie invité, recommandations locales et opérations dans n'importe quelle langue, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://stanza-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T12:16:01.180697+00:00"
+    },
+    {
+      "name": "GhostLoot",
+      "slug": "polsia-ghostloot",
+      "description": "Add patch notes, flash sales across 50+ stores, esports results, and trending titles. Nobody can keep up. You check Reddit, then IsThereAnyDeal, then Twitter, then YouTube. By the time you find the deal, it's gone.",
+      "description_fr": "Ajoutez des notes de mise à jour, des ventes flash dans plus de 50 magasins, des résultats esports et des titres tendance. Personne ne peut suivre. Vous consultez Reddit, puis IsThereAnyDeal, puis Twitter, puis YouTube. Le temps que vous trouviez l'affaire, elle a disparu.",
+      "category": "E-Commerce & Retail",
+      "website": "https://ghostloot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T12:16:01.850165+00:00"
+    },
+    {
+      "name": "Growthvalve — AI",
+      "slug": "polsia-growthvalve",
+      "description": "Growthvalve exists because local businesses deserve the same AI-powered growth tools that Fortune 500 companies use, without the Fortune 500 budget. More leads. More booked calls. More sales. That's it.",
+      "description_fr": "Growthvalve existe parce que les entreprises locales méritent les mêmes outils de croissance basés sur l'IA que ceux utilisés par les entreprises Fortune 500, sans le budget Fortune 500. Plus de pistes. Plus d'appels réservés. Plus de ventes. C'est ça.",
+      "category": "AI & Machine Learning",
+      "website": "https://growthvalve.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T12:16:03.491522+00:00"
+    },
+    {
+      "name": "VidEmpire",
+      "slug": "polsia-vidempire",
+      "description": "The next generation of YouTube creators won't record a single video. They'll build channels like portfolios, scale content like software, and treat passive income like a system, not a side hustle. VidEmpire is that system.",
+      "description_fr": "La prochaine génération de créateurs YouTube n’enregistrera pas une seule vidéo. Ils créeront des canaux tels que des portefeuilles, feront évoluer le contenu comme des logiciels et traiteront les revenus passifs comme un système, et non comme une activité secondaire. VidEmpire est ce système.",
+      "category": "Entertainment & Media",
+      "website": "https://vidempire.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T12:16:04.277209+00:00"
     }
   ]
 }
