@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T22:44:39.537028+00:00",
+  "last_updated": "2026-05-14T23:41:22.091266+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -123645,18 +123645,24 @@
     {
       "name": "TrainedBy",
       "slug": "polsia-trainedby",
+      "description": "Every client gets personalized workouts, meal adjustments, and check-in responses that sound like you. Programs adapt in real-time based on progress, recovery, and feedback.",
+      "description_fr": "Chaque client bénéficie d'entraînements personnalisés, d'ajustements de repas et de réponses d'enregistrement qui vous ressemblent. Les programmes s'adaptent en temps réel en fonction des progrès, de la récupération et des commentaires.",
+      "category": "Food & Beverage",
       "website": "https://trainedby.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T22:44:25.778159+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T23:41:20.868545+00:00"
     },
     {
       "name": "MaidKeptOS",
       "slug": "polsia-maidkeptos",
+      "description": "Maid Kept was built on personal care, eco-conscious products, and relentless quality. MaidKeptOS makes sure none of that gets lost as the business grows.",
+      "description_fr": "Maid Kept a été construit sur des soins personnels, des produits respectueux de l'environnement et une qualité implacable. MaidKeptOS veille à ce que rien de tout cela ne soit perdu à mesure que l'entreprise se développe.",
+      "category": "Sustainability & Green",
       "website": "https://maidkeptos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T22:44:25.963784+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T23:41:21.345846+00:00"
     },
     {
       "name": "BuzzShield",
@@ -123742,6 +123748,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-14T22:44:35.786131+00:00"
+    },
+    {
+      "name": "Cartway",
+      "slug": "polsia-cartway",
+      "website": "https://cartway.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T23:41:09.274473+00:00"
+    },
+    {
+      "name": "Voltrmark",
+      "slug": "polsia-voltrmark",
+      "website": "https://voltrmark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T23:41:09.625855+00:00"
+    },
+    {
+      "name": "Cloudwright",
+      "slug": "polsia-cloudwright-ai",
+      "website": "https://cloudwright-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T23:41:10.069357+00:00"
+    },
+    {
+      "name": "AECLogixOS",
+      "slug": "polsia-aeclogixos-2",
+      "website": "https://aeclogixos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T23:41:10.401299+00:00"
+    },
+    {
+      "name": "HomePost — Veteran Independent Living",
+      "slug": "polsia-homepost",
+      "description": "Search independent living communities, assisted living facilities, and veteran-specific housing programs by location, budget, and services. Filter by VA benefit eligibility. Atlanta first, then nationwide.",
+      "description_fr": "Recherchez des communautés de vie indépendante, des résidences-services et des programmes de logement spécifiques aux anciens combattants par emplacement, budget et services. Filtrer par éligibilité aux prestations VA. Atlanta d’abord, puis à l’échelle nationale.",
+      "category": "Real Estate",
+      "website": "https://homepost.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T23:41:12.150956+00:00"
+    },
+    {
+      "name": "PaymentShield",
+      "slug": "polsia-paymentshield",
+      "description": "PaymentShield exists because the mortgage industry makes it too hard to fix a payment that no longer fits your life. Rates change. Incomes shift. Life happens. Your lender has options to help, but they won't volunteer them. We make sure they do.",
+      "description_fr": "PaymentShield existe parce que le secteur hypothécaire rend trop difficile le règlement d’un paiement qui ne correspond plus à votre vie. Les tarifs changent. Les revenus changent. La vie arrive. Votre prêteur a des options pour vous aider, mais il ne les proposera pas. Nous veillons à ce qu’ils le fassent.",
+      "category": "Finance & Fintech",
+      "website": "https://paymentshield.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T23:41:13.124904+00:00"
+    },
+    {
+      "name": "SystemSmith — AI",
+      "slug": "polsia-systemsmith",
+      "description": "We build and run AI automation systems that bring local businesses more customers, zero missed calls, and fully booked calendars.",
+      "description_fr": "Nous construisons et exécutons des systèmes d'automatisation d'IA qui apportent aux entreprises locales plus de clients, zéro appel manqué et des calendriers entièrement réservés.",
+      "category": "AI & Machine Learning",
+      "website": "https://systemsmith.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T23:41:13.965045+00:00"
+    },
+    {
+      "name": "TaskPilotHQ — The AI Business Operating System",
+      "slug": "polsia-taskpilothq",
+      "description": "TaskPilotHQ is the operating system for founders who run multiple businesses with AI. Monitor agents, manage workflows, track operations, and switch between companies from a single command center.",
+      "description_fr": "TaskPilotHQ est le système d'exploitation destiné aux fondateurs qui dirigent plusieurs entreprises avec l'IA. Surveillez les agents, gérez les flux de travail, suivez les opérations et passez d'une entreprise à l'autre à partir d'un centre de commande unique.",
+      "category": "AI & Machine Learning",
+      "website": "https://taskpilothq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T23:41:14.877547+00:00"
+    },
+    {
+      "name": "ConduitEngine — The Integration Layer Your Stack Deserves",
+      "slug": "polsia-conduitengine",
+      "description": "ConduitEngine is the integration layer that replaces your $50K middleware with an AI engine that maps schemas, routes data, and heals broken pipelines on its own.",
+      "description_fr": "ConduitEngine est la couche d'intégration qui remplace votre middleware de 50 000 $ par un moteur d'IA qui mappe les schémas, achemine les données et répare lui-même les pipelines cassés.",
+      "category": "AI & Machine Learning",
+      "website": "https://conduitengine.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T23:41:16.604994+00:00"
+    },
+    {
+      "name": "BuzzReward",
+      "slug": "polsia-buzzreward",
+      "description": "Turn your happiest customers into your best marketing channel. Dead-simple referral rewards for restaurants, salons, and local shops.",
+      "description_fr": "Transformez vos clients les plus satisfaits en votre meilleur canal marketing. Des récompenses de parrainage extrêmement simples pour les restaurants, les salons et les magasins locaux.",
+      "category": "E-Commerce & Retail",
+      "website": "https://buzzreward.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T23:41:17.813707+00:00"
     }
   ]
 }
