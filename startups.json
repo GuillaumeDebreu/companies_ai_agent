@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T14:47:22.007218+00:00",
+  "last_updated": "2026-05-14T16:53:26.308669+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -123102,20 +123102,26 @@
       "scraped_at": "2026-05-14T12:16:04.277209+00:00"
     },
     {
-      "name": "Censo",
+      "name": "Censo — Spend Intelligence for AI Agent Fleets",
       "slug": "polsia-censo",
+      "description": "Software is becoming the customer of the internet. Trillions of micro-transactions, initiated by machines, flowing through payment rails built for this moment. The missing piece isn't the ability to spend. It's the intelligence to spend wisely.",
+      "description_fr": "Les logiciels deviennent les clients d'Internet. Des milliards de microtransactions, initiées par des machines, transitent par des rails de paiement construits pour ce moment. La pièce manquante n’est pas la capacité de dépenser. C'est l'intelligence de dépenser judicieusement.",
+      "category": "AI & Machine Learning",
       "website": "https://censo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T14:47:03.793643+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T16:53:24.594676+00:00"
     },
     {
       "name": "Outpitch",
       "slug": "polsia-outpitch-13",
+      "description": "AI-powered outbound sales agent that finds prospects, writes personalized outreach, and books meetings. Built for teams of 1-20.",
+      "description_fr": "Agent de vente sortant alimenté par l'IA qui trouve des prospects, rédige des communications personnalisées et organise des réunions. Conçu pour des équipes de 1 à 20 personnes.",
+      "category": "Sales & CRM",
       "website": "https://outpitch-13.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T14:47:04.033725+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T16:53:25.840930+00:00"
     },
     {
       "name": "xiiiMindz — A Mindset for Everything",
@@ -123204,6 +123210,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-14T14:47:13.985143+00:00"
+    },
+    {
+      "name": "HeartstoneOS",
+      "slug": "polsia-heartstoneos-2",
+      "website": "https://heartstoneos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T16:53:13.196735+00:00"
+    },
+    {
+      "name": "CurrentOpsOS",
+      "slug": "polsia-currentopsos",
+      "website": "https://currentopsos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T16:53:13.544880+00:00"
+    },
+    {
+      "name": "FlashCortex",
+      "slug": "polsia-flashcortex",
+      "website": "https://flashcortex.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T16:53:13.956322+00:00"
+    },
+    {
+      "name": "TackLabOS",
+      "slug": "polsia-tacklabos",
+      "website": "https://tacklabos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T16:53:14.386629+00:00"
+    },
+    {
+      "name": "GritGone — Mobile Car Detailing, Denver",
+      "slug": "polsia-gritgone",
+      "description": "Denver has 300 days of sunshine and 65 days of road grit trying to eat your paint. GritGone exists so you never have to think about it. We show up, we make it perfect, we leave. Your car stays protected. Your weekends stay free.",
+      "description_fr": "Denver a 300 jours de soleil et 65 jours de gravats qui tentent de manger votre peinture. GritGone existe pour que vous n'ayez jamais à y penser. On se présente, on le rend parfait, on part. Votre voiture reste protégée. Vos week-ends restent gratuits.",
+      "category": "Marketing & Advertising",
+      "website": "https://gritgone.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T16:53:16.190823+00:00"
+    },
+    {
+      "name": "PrepCart",
+      "slug": "polsia-prepcart",
+      "description": "Pick your meals for the week. Your shopping list builds itself in real time. Remove a recipe and the ingredients disappear. Add one and they appear. It's one connected workflow, not two separate chores.",
+      "description_fr": "Choisissez vos repas pour la semaine. Votre liste de courses se construit en temps réel. Supprimez une recette et les ingrédients disparaissent. Ajoutez-en un et ils apparaissent. Il s'agit d'un flux de travail connecté, et non de deux tâches distinctes.",
+      "category": "E-Commerce & Retail",
+      "website": "https://prepcart.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T16:53:17.471185+00:00"
+    },
+    {
+      "name": "GlitchRealm",
+      "slug": "polsia-glitchrealm",
+      "description": "VRChat horror worlds hit different when you're actually inside them. We capture the screams, the jumpscares, the nervous laughter. Pure chaos.",
+      "description_fr": "Les mondes d'horreur VRChat sont différents lorsque vous y êtes réellement. Nous capturons les cris, les frayeurs, les rires nerveux. Un pur chaos.",
+      "category": "Real Estate",
+      "website": "https://glitchrealm.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T16:53:18.528169+00:00"
+    },
+    {
+      "name": "BoltBarn",
+      "slug": "polsia-boltbarn",
+      "description": "BoltBarn exists because buying a metal building kit shouldn't require three sales calls and a week of waiting for a quote. We're building the most straightforward way to buy prefab steel structures in America.",
+      "description_fr": "BoltBarn existe parce que l'achat d'un kit de construction métallique ne devrait pas nécessiter trois appels commerciaux et une semaine d'attente pour un devis. Nous construisons le moyen le plus simple d'acheter des structures en acier préfabriquées en Amérique.",
+      "category": "Sales & CRM",
+      "website": "https://boltbarn.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T16:53:19.640030+00:00"
+    },
+    {
+      "name": "Sweet Dreams Storytime",
+      "slug": "polsia-storytimeos-2",
+      "description": "Sweet Dreams Storytime is created by a Licensed Mental Health Counselor with a Master's in Counseling Psychology from Northeastern University. Trained in CBT, DBT, and EMDR. Specializing in trauma, anxiety, depression, and family dynamics. Working with children, families, and individuals every single week.",
+      "description_fr": "Sweet Dreams Storytime est créé par un conseiller en santé mentale agréé titulaire d'une maîtrise en psychologie du conseil de la Northeastern University. Formé en TCC, DBT et EMDR. Spécialisé dans les traumatismes, l'anxiété, la dépression et la dynamique familiale. Travailler avec des enfants, des familles et des individus chaque semaine.",
+      "category": "Health & Wellness",
+      "website": "https://storytimeos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T16:53:20.864651+00:00"
+    },
+    {
+      "name": "CleverThisOS — Operating System for Deterministic AI",
+      "slug": "polsia-cleverthis",
+      "description": "Financial services. Healthcare. Defense. Manufacturing. Energy. Legal.When the stakes are too high for guesswork, the architecture has to be different.",
+      "description_fr": "Services financiers. Soins de santé. Défense. Fabrication. Énergie. Juridique. Lorsque les enjeux sont trop importants pour être conjecturés, l’architecture doit être différente.",
+      "category": "AI & Machine Learning",
+      "website": "https://cleverthis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T16:53:21.744463+00:00"
     }
   ]
 }
