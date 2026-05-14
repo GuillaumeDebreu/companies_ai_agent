@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T21:45:11.132133+00:00",
+  "last_updated": "2026-05-14T22:44:39.537028+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -123533,12 +123533,15 @@
       "scraped_at": "2026-05-14T20:25:28.998964+00:00"
     },
     {
-      "name": "Nightshift",
+      "name": "Nightshift — Your AI Sales Rep That Never Clocks Out",
       "slug": "polsia-nightshift-88",
+      "description": "Nightshift is an autonomous AI sales rep that finds your ideal prospects, writes personalized outreach, handles follow-ups, and books qualified meetings. Every night. Every day. No breaks.",
+      "description_fr": "Nightshift est un représentant commercial autonome doté d'IA qui trouve vos prospects idéaux, rédige des communications personnalisées, gère les suivis et organise des réunions qualifiées. Chaque nuit. Tous les jours. Pas de pause.",
+      "category": "Sales & CRM",
       "website": "https://nightshift-88.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T21:44:54.728985+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-14T22:44:39.278628+00:00"
     },
     {
       "name": "NestMind",
@@ -123638,6 +123641,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-14T21:45:05.914610+00:00"
+    },
+    {
+      "name": "TrainedBy",
+      "slug": "polsia-trainedby",
+      "website": "https://trainedby.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T22:44:25.778159+00:00"
+    },
+    {
+      "name": "MaidKeptOS",
+      "slug": "polsia-maidkeptos",
+      "website": "https://maidkeptos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T22:44:25.963784+00:00"
+    },
+    {
+      "name": "BuzzShield",
+      "slug": "polsia-buzzshield",
+      "website": "https://buzzshield.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-14T22:44:26.147895+00:00"
+    },
+    {
+      "name": "BootReady",
+      "slug": "polsia-bootready",
+      "description": "BootReady exists because most military prep content is made for people who are already fit. We're here for the 18-year-old in their bedroom wondering if they can actually do this.",
+      "description_fr": "BootReady existe parce que la plupart du contenu de préparation militaire est conçu pour des personnes déjà en forme. Nous sommes ici pour les jeunes de 18 ans dans leur chambre qui se demandent s'ils peuvent réellement faire ça.",
+      "category": "Entertainment & Media",
+      "website": "https://bootready.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T22:44:27.826594+00:00"
+    },
+    {
+      "name": "EduSpark — AI Teaching Tools for African Educators",
+      "slug": "polsia-eduspark",
+      "description": "AI-powered lesson planning, assessments, and content generation built for Nigerian curriculum standards. Purpose-built for African classrooms.",
+      "description_fr": "Planification de cours, évaluations et génération de contenu basés sur l'IA, conçus pour répondre aux normes du programme nigérian. Spécialement conçu pour les salles de classe africaines.",
+      "category": "AI & Machine Learning",
+      "website": "https://eduspark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T22:44:29.250233+00:00"
+    },
+    {
+      "name": "PraetorAI",
+      "slug": "polsia-praetorai",
+      "description": "PraetorAI delivers AI-native cybersecurity built specifically for C-suite executives and their families. Predictive threat intelligence, not reactive monitoring.",
+      "description_fr": "PraetorAI offre une cybersécurité native de l'IA conçue spécifiquement pour les cadres supérieurs et leurs familles. Intelligence prédictive sur les menaces, pas surveillance réactive.",
+      "category": "AI & Machine Learning",
+      "website": "https://praetorai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T22:44:30.013275+00:00"
+    },
+    {
+      "name": "CompliBase — AI Compliance for UK SMEs",
+      "slug": "polsia-complibase",
+      "description": "CompliBase automates GDPR, AI governance, and cybersecurity compliance for UK small businesses. Policies, risk assessments, staff training, audit-ready documentation. All generated, all monitored, all in one place.",
+      "description_fr": "CompliBase automatise la conformité au RGPD, à la gouvernance de l'IA et à la cybersécurité pour les petites entreprises britanniques. Politiques, évaluations des risques, formation du personnel, documentation prête pour l'audit. Tout est généré, tout surveillé, le tout au même endroit.",
+      "category": "AI & Machine Learning",
+      "website": "https://complibase.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T22:44:31.358637+00:00"
+    },
+    {
+      "name": "JasmineTrail",
+      "slug": "polsia-jasminetrail",
+      "description": "Our jasmine grows in Montgomery's zone 8a climate. No heated greenhouses, no artificial light cycles. Real Southern sun, real Alabama soil. The plants arrive hardier because they were raised harder.",
+      "description_fr": "Notre jasmin pousse dans la zone climatique 8a de Montgomery. Pas de serres chauffées, pas de cycles de lumière artificielle. Véritable soleil du Sud, vrai sol de l’Alabama. Les plantes arrivent plus résistantes parce qu’elles ont été cultivées plus durement.",
+      "category": "Sustainability & Green",
+      "website": "https://jasminetrail.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T22:44:33.290078+00:00"
+    },
+    {
+      "name": "RevEmbed — Embedded RevOps for Mid",
+      "slug": "polsia-revembed",
+      "description": "RevEmbed exists because mid-market SaaS companies deserve the same revenue operations firepower as companies ten times their size. One embedded team. Every revenue function. No bloated payroll.",
+      "description_fr": "RevEmbed existe parce que les entreprises SaaS de taille moyenne méritent la même puissance de feu en matière de revenus que les entreprises dix fois plus grandes. Une équipe intégrée. Chaque fonction de revenus. Pas de masse salariale gonflée.",
+      "category": "Software & SaaS",
+      "website": "https://revembed.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T22:44:34.722330+00:00"
+    },
+    {
+      "name": "MostRareOS",
+      "slug": "polsia-mostraros",
+      "description": "Your clients expect to be remembered. Their preferences, their taste profile, what they passed on and what made them call back. MostRareOS captures every signal so every interaction feels bespoke. Because when you deal in rare items, generic tools are not an option.",
+      "description_fr": "Vos clients s’attendent à ce qu’on se souvienne d’eux. Leurs préférences, leur profil gustatif, ce qu’ils ont transmis et ce qui les a fait revenir. MostRareOS capture chaque signal pour que chaque interaction soit sur mesure. Car lorsqu’il s’agit d’objets rares, les outils génériques ne sont pas une option.",
+      "category": "Other",
+      "website": "https://mostraros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-14T22:44:35.786131+00:00"
     }
   ]
 }
