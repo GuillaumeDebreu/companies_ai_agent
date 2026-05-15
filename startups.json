@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T23:41:22.091266+00:00",
+  "last_updated": "2026-05-15T01:31:50.363081+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -123752,10 +123752,13 @@
     {
       "name": "Cartway",
       "slug": "polsia-cartway",
+      "description": "Cartway is an AI agent that handles route planning, demand forecasting, procurement, and cold chain monitoring for regional produce distributors. One system. Zero guesswork.",
+      "description_fr": "Cartway est un agent d'IA qui gère la planification des itinéraires, la prévision de la demande, l'approvisionnement et la surveillance de la chaîne du froid pour les distributeurs de produits régionaux. Un système. Zéro conjecture.",
+      "category": "AI & Machine Learning",
       "website": "https://cartway.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T23:41:09.274473+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T01:31:45.468444+00:00"
     },
     {
       "name": "Voltrmark",
@@ -123766,20 +123769,26 @@
       "scraped_at": "2026-05-14T23:41:09.625855+00:00"
     },
     {
-      "name": "Cloudwright",
+      "name": "Cloudwright — Your AI Solutions Architect",
       "slug": "polsia-cloudwright-ai",
+      "description": "We are building toward a world where every cloud environment has an architect watching over it, where misconfigurations are caught in minutes instead of months, and where infrastructure excellence is not a luxury reserved for companies that can afford a dedicated SA team.",
+      "description_fr": "Nous nous dirigeons vers un monde dans lequel chaque environnement cloud est surveillé par un architecte, où les erreurs de configuration sont détectées en quelques minutes au lieu de quelques mois, et où l'excellence de l'infrastructure n'est pas un luxe réservé aux entreprises qui peuvent se permettre une équipe SA dédiée.",
+      "category": "AI & Machine Learning",
       "website": "https://cloudwright-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T23:41:10.069357+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T01:31:47.122092+00:00"
     },
     {
-      "name": "AECLogixOS",
+      "name": "AECLogix",
       "slug": "polsia-aeclogixos-2",
+      "description": "Every hour spent chasing a certificate is an hour not spent building. AECLogix exists because the firms that build our cities, hospitals, and schools should not be buried in compliance paperwork. The work that matters is out there. The work that doesn't should run itself.",
+      "description_fr": "Chaque heure passée à rechercher un certificat est une heure non consacrée à la construction. AECLogix existe parce que les entreprises qui construisent nos villes, nos hôpitaux et nos écoles ne devraient pas être ensevelies sous des formalités administratives de conformité. Le travail qui compte est là. Le travail qui ne fonctionne pas devrait s'exécuter tout seul.",
+      "category": "Other",
       "website": "https://aeclogixos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-14T23:41:10.401299+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T01:31:48.268703+00:00"
     },
     {
       "name": "HomePost — Veteran Independent Living",
@@ -123846,6 +123855,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-14T23:41:17.813707+00:00"
+    },
+    {
+      "name": "Swoopline",
+      "slug": "polsia-swoopline",
+      "website": "https://swoopline.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T01:31:35.451851+00:00"
+    },
+    {
+      "name": "Triggrly",
+      "slug": "polsia-triggrly",
+      "description": "Triggrly exists because businesses deserve to run on intelligence, not busywork. The tools are here. The AI is ready. The only question is whether you automate now or keep losing time.",
+      "description_fr": "Triggrly existe parce que les entreprises méritent de fonctionner grâce à l'intelligence et non au travail fastidieux. Les outils sont ici. L'IA est prête. La seule question est de savoir si vous automatisez maintenant ou si vous continuez à perdre du temps.",
+      "category": "AI & Machine Learning",
+      "website": "https://triggrly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T01:31:49.574552+00:00"
+    },
+    {
+      "name": "PolarFix",
+      "slug": "polsia-polarfix",
+      "website": "https://polarfix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T01:31:35.779430+00:00"
+    },
+    {
+      "name": "EventTrail",
+      "slug": "polsia-eventtrail",
+      "description": "EventTrail is the community-powered calendar for small towns. Locals post events. Neighbors find them. No algorithms, no noise, just what's happening this week.",
+      "description_fr": "EventTrail est le calendrier communautaire pour les petites villes. Les sections locales publient des événements. Les voisins les trouvent. Pas d'algorithmes, pas de bruit, juste ce qui se passe cette semaine.",
+      "category": "Social & Community",
+      "website": "https://eventtrail.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T01:31:37.176765+00:00"
+    },
+    {
+      "name": "FocusCave",
+      "slug": "polsia-focuscave",
+      "website": "https://focuscave.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T01:31:37.593474+00:00"
+    },
+    {
+      "name": "MarieDanOS",
+      "slug": "polsia-mariedanos",
+      "website": "https://mariedanos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T01:31:37.851233+00:00"
+    },
+    {
+      "name": "RemoteClawOS",
+      "slug": "polsia-remoteclawos",
+      "website": "https://remoteclawos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T01:31:38.047626+00:00"
+    },
+    {
+      "name": "ReelHustle — Short",
+      "slug": "polsia-reelhustle",
+      "description": "ReelHustle exists because every local business deserves content that actually works. Not stock photos. Not Canva posts. Real short-form video that brings real people through real doors.",
+      "description_fr": "ReelHustle existe parce que chaque entreprise locale mérite un contenu qui fonctionne réellement. Pas de photos d’archives. Pas les publications Canva. Véritable vidéo courte qui amène de vraies personnes à travers de vraies portes.",
+      "category": "Entertainment & Media",
+      "website": "https://reelhustle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T01:31:39.338614+00:00"
+    },
+    {
+      "name": "MarketLocal",
+      "slug": "polsia-marketlocal",
+      "website": "https://marketlocal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T01:31:39.707360+00:00"
+    },
+    {
+      "name": "GotSite",
+      "slug": "polsia-gotsite",
+      "description": "GotSite finds local businesses without websites and builds one for them. No setup, no hassle, no coding.",
+      "description_fr": "GotSite trouve des entreprises locales sans site Web et en crée un pour elles. Pas de configuration, pas de tracas, pas de codage.",
+      "category": "Other",
+      "website": "https://gotsite.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T01:31:41.393095+00:00"
     }
   ]
 }
