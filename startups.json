@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T21:31:17.720125+00:00",
+  "last_updated": "2026-05-15T22:33:04.711527+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -124819,10 +124819,13 @@
     {
       "name": "ClipGrind",
       "slug": "polsia-clipgrind",
+      "description": "Every clip you edit makes you faster. Every client you land builds your portfolio. Every flip you document grows your audience. ClipGrind is not one business. It is a content engine that turns everything you already do into money.",
+      "description_fr": "Chaque clip que vous modifiez vous rend plus rapide. Chaque client que vous attirez construit votre portefeuille. Chaque flip que vous documentez augmente votre audience. ClipGrind n’est pas une seule entreprise. C'est un moteur de contenu qui transforme tout ce que vous faites déjà en argent.",
+      "category": "Entertainment & Media",
       "website": "https://clipgrind.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T21:31:03.585919+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T22:33:00.367994+00:00"
     },
     {
       "name": "WinReel",
@@ -124833,28 +124836,37 @@
       "scraped_at": "2026-05-15T21:31:03.984390+00:00"
     },
     {
-      "name": "CreatorTax",
+      "name": "CreatorTax — Know What You Owe Before April",
       "slug": "polsia-creatortax",
+      "description": "CreatorTax is the quarterly tax estimator for YouTubers, TikTokers, streamers, and every creator juggling 1099s from five platforms at once.",
+      "description_fr": "CreatorTax est l'estimateur d'impôts trimestriel pour les YouTubers, les TikTokers, les streamers et tous les créateurs jonglant avec les 1099 de cinq plateformes à la fois.",
+      "category": "Software & SaaS",
       "website": "https://creatortax.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T21:31:04.177767+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T22:33:01.671724+00:00"
     },
     {
-      "name": "ZapNest",
+      "name": "ZapNest — AI Automation for Small Business",
       "slug": "polsia-zapnest",
+      "description": "Done-for-you AI automation for small businesses and Shopify stores. Chatbots, email workflows, customer replies, content scheduling.",
+      "description_fr": "Automatisation de l'IA faite pour vous pour les petites entreprises et les magasins Shopify. Chatbots, workflows de courrier électronique, réponses des clients, planification de contenu.",
+      "category": "AI & Machine Learning",
       "website": "https://zapnest.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T21:31:04.538167+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T22:33:02.009511+00:00"
     },
     {
       "name": "Onramp AI",
       "slug": "polsia-onramp-ai",
+      "description": "We build and deploy AI agents that answer calls, book appointments, follow up on leads, and manage your operations. Built for law firms, med spas, dental clinics, HVAC, roofing, and real estate.",
+      "description_fr": "Nous construisons et déployons des agents IA qui répondent aux appels, prennent des rendez-vous, assurent le suivi des pistes et gèrent vos opérations. Conçu pour les cabinets d'avocats, les spas médicaux, les cliniques dentaires, le CVC, la toiture et l'immobilier.",
+      "category": "AI & Machine Learning",
       "website": "https://onramp-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T21:31:04.896022+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T22:33:03.063944+00:00"
     },
     {
       "name": "Kairn",
@@ -124881,10 +124893,13 @@
     {
       "name": "BookedSolid",
       "slug": "polsia-booked-solid-20",
+      "description": "The AI agent that captures every lead, qualifies every job, and books every appointment for home service businesses. 24 hours a day. 7 days a week. While you're on the job site.",
+      "description_fr": "L'agent IA qui capture chaque prospect, qualifie chaque travail et prend chaque rendez-vous pour les entreprises de services à domicile. 24 heures sur 24. 7 jours sur 7. Pendant que vous êtes sur le chantier.",
+      "category": "AI & Machine Learning",
       "website": "https://booked-solid-20.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T21:31:07.661465+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T22:33:04.502293+00:00"
     },
     {
       "name": "Volute — AI",
@@ -124907,6 +124922,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-15T21:31:10.282152+00:00"
+    },
+    {
+      "name": "Rollstack",
+      "slug": "polsia-rollstack-ai",
+      "website": "https://rollstack-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T22:32:47.707880+00:00"
+    },
+    {
+      "name": "PagePilot — Your Website Runs Itself",
+      "slug": "polsia-pagepilot-28",
+      "description": "Most websites launch and decay. PagePilot monitors visitor behavior, A/B tests headlines, refreshes stale content, and adapts to algorithm changes. Your site gets better every week, not worse.",
+      "description_fr": "La plupart des sites Web se lancent et se désintègrent. PagePilot surveille le comportement des visiteurs, teste A/B les titres, actualise le contenu obsolète et s'adapte aux changements d'algorithme. Votre site s'améliore chaque semaine, pas pire.",
+      "category": "Entertainment & Media",
+      "website": "https://pagepilot-28.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T22:32:48.508073+00:00"
+    },
+    {
+      "name": "ColdSpark",
+      "slug": "polsia-coldspark-48",
+      "website": "https://coldspark-48.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T22:32:48.644438+00:00"
+    },
+    {
+      "name": "DetailRig",
+      "slug": "polsia-detailrig",
+      "description": "Premium mobile car detailing in Fort Worth, Texas. We come to you. Trucks, SUVs, and everything in between.",
+      "description_fr": "Détails de voiture mobile haut de gamme à Fort Worth, Texas. Nous venons à vous. Camions, SUV et tout le reste.",
+      "category": "Other",
+      "website": "https://detailrig.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T22:32:49.971925+00:00"
+    },
+    {
+      "name": "BlitzReel",
+      "slug": "polsia-blitzreel",
+      "description": "The difference between getting recruited and getting overlooked isn't always talent. Sometimes it's who has the better film, the sharper brand, the content that makes a coach stop scrolling. BlitzReel makes sure your athletes don't get passed over because of bad content.",
+      "description_fr": "La différence entre être recruté et être négligé ne réside pas toujours dans le talent. Parfois, c'est celui qui a le meilleur film, la marque la plus pointue, le contenu qui fait qu'un coach arrête de défiler. BlitzReel veille à ce que vos athlètes ne soient pas ignorés à cause d'un mauvais contenu.",
+      "category": "Marketing & Advertising",
+      "website": "https://blitzreel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T22:32:51.178183+00:00"
+    },
+    {
+      "name": "GearDrip — Automotive Content That Pays While You Sleep",
+      "slug": "polsia-geardrip",
+      "description": "SEO blog, short-form video, affiliate marketing, and digital products for car enthusiasts and DIY mechanics. Systems-first automotive content business.",
+      "description_fr": "Blog SEO, vidéo courte, marketing d'affiliation et produits numériques pour les passionnés de voitures et les mécaniciens bricoleurs. Entreprise de contenu automobile axée sur les systèmes.",
+      "category": "Marketing & Advertising",
+      "website": "https://geardrip.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T22:32:52.040231+00:00"
+    },
+    {
+      "name": "DialedUp",
+      "slug": "polsia-dialedup",
+      "description": "DialedUp exists to make sure that's you. Professional marketing, handled completely, so your phone rings and your calendar fills. That's it. That's the whole pitch.",
+      "description_fr": "DialedUp existe pour s'assurer que c'est bien vous. Un marketing professionnel, entièrement géré, pour que votre téléphone sonne et que votre calendrier se remplisse. C'est ça. C'est tout le terrain.",
+      "category": "Marketing & Advertising",
+      "website": "https://dialedup.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T22:32:53.315458+00:00"
+    },
+    {
+      "name": "FrontPorch",
+      "slug": "polsia-frontporch-5",
+      "description": "FrontPorch is the AI employee that answers your phone, books your jobs, and follows up with every lead. Built for plumbers, electricians, HVAC techs, and every trades business losing money to voicemail.",
+      "description_fr": "FrontPorch est l'employé IA qui répond à votre téléphone, réserve vos emplois et assure le suivi de chaque piste. Conçu pour les plombiers, les électriciens, les techniciens CVC et toutes les entreprises qui perdent de l'argent à cause de la messagerie vocale.",
+      "category": "AI & Machine Learning",
+      "website": "https://frontporch-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T22:32:54.281593+00:00"
+    },
+    {
+      "name": "Pipesmith — Your AI Sales Rep That Never Sleeps",
+      "slug": "polsia-pipesmith-ai-46",
+      "description": "An autonomous AI sales development rep that researches prospects, writes personalized outreach, and books meetings while you sleep.",
+      "description_fr": "Un représentant autonome du développement des ventes par l'IA qui recherche des prospects, rédige des informations personnalisées et planifie des réunions pendant que vous dormez.",
+      "category": "Sales & CRM",
+      "website": "https://pipesmith-ai-46.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T22:32:55.732450+00:00"
+    },
+    {
+      "name": "GlowOpsOS",
+      "slug": "polsia-glowopsos",
+      "description": "Beyond SKN Deep started with a story of strength. GlowOpsOS is how that story reaches every boutique shelf, every bathroom counter, every person who needs to believe that beauty comes from within.",
+      "description_fr": "Beyond SKN Deep a commencé avec une histoire de force. GlowOpsOS est la façon dont cette histoire atteint chaque étagère de boutique, chaque comptoir de salle de bain, chaque personne qui a besoin de croire que la beauté vient de l'intérieur.",
+      "category": "Other",
+      "website": "https://glowopsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T22:32:57.388229+00:00"
     }
   ]
 }
