@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T17:10:41.492705+00:00",
+  "last_updated": "2026-05-15T18:54:55.139749+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -124502,36 +124502,48 @@
       "scraped_at": "2026-05-15T15:26:28.813372+00:00"
     },
     {
-      "name": "GridLocal",
+      "name": "GridLocal — AI",
       "slug": "polsia-gridlocal",
+      "description": "GridLocal is building the future of local business marketing: AI-powered, human-delivered, Nashville-rooted. Every local business deserves a content engine that runs without them having to touch it.",
+      "description_fr": "GridLocal construit l'avenir du marketing des entreprises locales : alimenté par l'IA, fourni par l'humain et ancré à Nashville. Chaque entreprise locale mérite un moteur de contenu qui fonctionne sans qu'elle ait à y toucher.",
+      "category": "AI & Machine Learning",
       "website": "https://gridlocal.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T17:10:27.801556+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T18:54:50.299729+00:00"
     },
     {
-      "name": "FloorBoss",
+      "name": "FloorBoss — Your AI Operations Manager",
       "slug": "polsia-floorboss-7",
+      "description": "FloorBoss is the AI employee that handles customer inquiries, schedules appointments, sends follow-ups, and runs daily ops for your service business. 24 hours. 7 days. Zero missed calls.",
+      "description_fr": "FloorBoss est l'employé IA qui gère les demandes des clients, planifie les rendez-vous, envoie des suivis et gère les opérations quotidiennes pour votre entreprise de services. 24 heures. 7 jours. Zéro appel manqué.",
+      "category": "AI & Machine Learning",
       "website": "https://floorboss-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T17:10:28.158891+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T18:54:51.903257+00:00"
     },
     {
-      "name": "Grosflow",
+      "name": "Grosflow — AI Wholesale Procurement for Quebec",
       "slug": "polsia-grosflow",
+      "description": "Continuously scans and indexes wholesale suppliers across Quebec and Canada. Filters by region, product category, certifications, and delivery terms. Finds options you never knew existed.",
+      "description_fr": "Analyse et indexe en permanence les fournisseurs en gros à travers le Québec et le Canada. Filtres par région, catégorie de produits, certifications et conditions de livraison. Trouve des options dont vous ignoriez l'existence.",
+      "category": "AI & Machine Learning",
       "website": "https://grosflow.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T17:10:28.538909+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T18:54:53.031637+00:00"
     },
     {
       "name": "GetSizeOS",
       "slug": "polsia-getsizeos",
+      "description": "GetSize sits on a growing dataset of cross-brand fit intelligence. Official size charts mapped to every model. Crowdsourced fit data from real users. The more people use it, the more accurate it gets, and the harder it becomes to replicate.",
+      "description_fr": "GetSize s'appuie sur un ensemble de données croissant d'informations sur l'ajustement entre marques. Tableaux de tailles officiels adaptés à chaque modèle. Données d'ajustement collaboratives provenant d'utilisateurs réels. Plus les gens l’utilisent, plus il devient précis et plus il devient difficile à reproduire.",
+      "category": "Marketing & Advertising",
       "website": "https://getsizeos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T17:10:28.738018+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T18:54:54.126233+00:00"
     },
     {
       "name": "SolSieve — Intelligence Layer for Solana Memecoin Trading",
@@ -124595,6 +124607,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-15T17:10:33.953559+00:00"
+    },
+    {
+      "name": "JacksonsPerfOS",
+      "slug": "polsia-jacksonsperfos",
+      "website": "https://jacksonsperfos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T18:54:40.468315+00:00"
+    },
+    {
+      "name": "Synthetiq",
+      "slug": "polsia-synthetiq",
+      "website": "https://synthetiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T18:54:40.893788+00:00"
+    },
+    {
+      "name": "KaziPilot",
+      "slug": "polsia-kazipilot-3",
+      "website": "https://kazipilot-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T18:54:41.201038+00:00"
+    },
+    {
+      "name": "LeverOps",
+      "slug": "polsia-leverops",
+      "website": "https://leverops.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T18:54:41.544786+00:00"
+    },
+    {
+      "name": "iCreativeOS",
+      "slug": "polsia-icreativeos",
+      "description": "iCreativeOS is the command center for iCreativeCanvas. Every project, every client, every deadline in one place, so the work that matters doesn't get buried under the work of managing work.",
+      "description_fr": "iCreativeOS est le centre de commande d'iCreativeCanvas. Chaque projet, chaque client, chaque date limite au même endroit, afin que le travail important ne soit pas enfoui sous le travail de gestion du travail.",
+      "category": "Other",
+      "website": "https://icreativeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T18:54:43.095140+00:00"
+    },
+    {
+      "name": "GrowthVolt",
+      "slug": "polsia-growthvolt",
+      "website": "https://growthvolt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T18:54:43.403865+00:00"
+    },
+    {
+      "name": "PotEntertainment",
+      "slug": "polsia-potentertainment",
+      "website": "https://potentertainment.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T18:54:43.717226+00:00"
+    },
+    {
+      "name": "LienFlip",
+      "slug": "polsia-lienflip",
+      "description": "One tool for data. Another for contracts. Another for finding buyers. Another for tracking commissions. LienFlip is the end of that fragmentation. One platform that takes a distressed property from public record to closed deal.",
+      "description_fr": "Un outil pour les données. Un autre pour les contrats. Un autre pour trouver des acheteurs. Un autre pour suivre les commissions. LienFlip est la fin de cette fragmentation. Une plateforme qui fait passer une propriété en difficulté du dossier public à une transaction conclue.",
+      "category": "Software & SaaS",
+      "website": "https://lienflip.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T18:54:44.870953+00:00"
+    },
+    {
+      "name": "CritterStock",
+      "slug": "polsia-critterstock",
+      "description": "Our colonies are raised in climate-controlled Houston facilities with filtered water, premium feed, and regular health monitoring. Every feeder meets our quality standard before it ships.",
+      "description_fr": "Nos colonies sont élevées dans des installations de Houston à température contrôlée avec de l'eau filtrée, des aliments de qualité supérieure et un suivi sanitaire régulier. Chaque mangeoire répond à nos normes de qualité avant son expédition.",
+      "category": "Health & Wellness",
+      "website": "https://critterstock.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T18:54:45.476454+00:00"
+    },
+    {
+      "name": "EveryPerk",
+      "slug": "polsia-everyperk",
+      "website": "https://everyperk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T18:54:45.798600+00:00"
     }
   ]
 }
