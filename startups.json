@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T08:51:00.349483+00:00",
+  "last_updated": "2026-05-15T11:01:21.715343+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -124095,10 +124095,13 @@
     {
       "name": "ShelfMind",
       "slug": "polsia-shelfmind-39",
+      "description": "Every hour you spend copying listings between platforms is an hour you're not sourcing the next product that doubles your revenue. ShelfMind gives you that hour back, every single day.",
+      "description_fr": "Chaque heure que vous passez à copier des annonces entre plates-formes représente une heure pendant laquelle vous ne recherchez pas le prochain produit qui doublera vos revenus. ShelfMind vous rend cette heure, chaque jour.",
+      "category": "Software & SaaS",
       "website": "https://shelfmind-39.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T08:28:57.831815+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T11:01:20.876978+00:00"
     },
     {
       "name": "LeadSmith — Your AI Sales Rep That Never Sleeps",
@@ -124176,6 +124179,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-15T08:29:06.062823+00:00"
+    },
+    {
+      "name": "VivaScan",
+      "slug": "polsia-vivascan",
+      "website": "https://vivascan.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T11:01:11.051594+00:00"
+    },
+    {
+      "name": "SanarCircle",
+      "slug": "polsia-sanarcircle",
+      "website": "https://sanarcircle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T11:01:11.287479+00:00"
+    },
+    {
+      "name": "Sightline",
+      "slug": "polsia-sightline-hq",
+      "website": "https://sightline-hq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T11:01:11.516331+00:00"
+    },
+    {
+      "name": "O' Seedy Lawncare",
+      "slug": "polsia-o-seedy-lawncare",
+      "description": "Because every lawn care company in Berrien County is named\"[Someone]'s Lawn Care.\"Forgettable. Interchangeable. We wanted a name you'd actually remember, tell your neighbor about, and put on a t-shirt.",
+      "description_fr": "Parce que chaque entreprise d'entretien des pelouses du comté de Berrien s'appelle \"[Quelqu'un]'s Lawn Care\". Interchangeable. Nous voulions un nom dont vous vous souviendrez réellement, dont vous parleriez à votre voisin et que vous mettriez sur un t-shirt.",
+      "category": "Other",
+      "website": "https://o-seedy-lawncare.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T11:01:12.355716+00:00"
+    },
+    {
+      "name": "Cliqflow — AI Automation for Businesses That Move Fast",
+      "slug": "polsia-cliqflow",
+      "description": "It's about your team spending every hour on work that actually moves the needle. The qualification calls, the ticket triage, the data entry, the follow-up emails, all of it can run on autopilot. Cliqflow builds that autopilot for you.",
+      "description_fr": "Il s'agit pour votre équipe de consacrer chaque heure à un travail qui fait réellement bouger les choses. Les appels de qualification, le tri des tickets, la saisie des données, les e-mails de suivi, tout cela peut se dérouler en pilote automatique. Cliqflow construit ce pilote automatique pour vous.",
+      "category": "AI & Machine Learning",
+      "website": "https://cliqflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T11:01:13.541146+00:00"
+    },
+    {
+      "name": "Flashmark",
+      "slug": "polsia-flashmark",
+      "description": "Ad creatives, festival posts, real estate posters, video reels. Delivered to your inbox, not another tool to learn. Powered by AI, finished by humans.",
+      "description_fr": "Créations publicitaires, publications de festivals, affiches immobilières, bobines vidéo. Livré dans votre boîte de réception, pas un autre outil à apprendre. Propulsé par l'IA, fini par les humains.",
+      "category": "AI & Machine Learning",
+      "website": "https://flashmark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T11:01:14.238853+00:00"
+    },
+    {
+      "name": "CropPilot — Your Farm's Back Office, On Autopilot",
+      "slug": "polsia-croppilot-6",
+      "description": "CropPilot tracks every deadline for your RMA filings, FSA acreage reports, and chemical application records. It prepares the paperwork, flags what needs your signature, and makes sure nothing slips.",
+      "description_fr": "CropPilot suit chaque date limite pour vos dépôts RMA, vos rapports de superficie FSA et vos enregistrements d'application de produits chimiques. Il prépare les documents, signale ce qui nécessite votre signature et s'assure que rien ne glisse.",
+      "category": "Sustainability & Green",
+      "website": "https://croppilot-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T11:01:15.445618+00:00"
+    },
+    {
+      "name": "Noctis",
+      "slug": "polsia-noctis-ops-2",
+      "description": "Enterprise monitoring tools cost a fortune and take weeks to configure. Noctis sets up in 5 minutes, costs less than a single pager alert, and actually fixes problems instead of just telling you about them.",
+      "description_fr": "Les outils de surveillance d'entreprise coûtent une fortune et prennent des semaines à configurer. Noctis s'installe en 5 minutes, coûte moins cher qu'une seule alerte de téléavertisseur et résout les problèmes au lieu de simplement vous en parler.",
+      "category": "Marketing & Advertising",
+      "website": "https://noctis-ops-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T11:01:21.713452+00:00"
+    },
+    {
+      "name": "Replyflo — AI That Answers When You Can't",
+      "slug": "polsia-replyflo",
+      "description": "Replyflo builds AI systems that book appointments, follow up on leads, and handle customer support 24/7. Built for law firms, dental offices, HVAC companies, and every local business that loses money to missed calls.",
+      "description_fr": "Replyflo construit des systèmes d'IA qui prennent des rendez-vous, suivent les prospects et gèrent le support client 24h/24 et 7j/7. Conçu pour les cabinets d'avocats, les cabinets dentaires, les entreprises de CVC et toutes les entreprises locales qui perdent de l'argent à cause d'appels manqués.",
+      "category": "AI & Machine Learning",
+      "website": "https://replyflo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T11:01:16.471379+00:00"
+    },
+    {
+      "name": "HustleSprout",
+      "slug": "polsia-hustlesprout",
+      "description": "HustleSprout helps teens and solo operators launch, manage, and grow local service businesses. From your first lawn to your first crew.",
+      "description_fr": "HustleSprout aide les adolescents et les opérateurs solo à lancer, gérer et développer des entreprises de services locales. De votre première pelouse à votre première équipe.",
+      "category": "Other",
+      "website": "https://hustlesprout.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T11:01:18.131596+00:00"
     }
   ]
 }
