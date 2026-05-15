@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T22:33:04.711527+00:00",
+  "last_updated": "2026-05-15T23:32:27.872853+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -124924,12 +124924,15 @@
       "scraped_at": "2026-05-15T21:31:10.282152+00:00"
     },
     {
-      "name": "Rollstack",
+      "name": "Rollstack — Your AI Production Crew",
       "slug": "polsia-rollstack-ai",
+      "description": "Rollstack is an autonomous AI that runs your YouTube channel. It researches topics, writes scripts, optimizes SEO, plans your calendar, and tracks performance. Not another tool in your stack. The whole stack, working on its own.",
+      "description_fr": "Rollstack est une IA autonome qui gère votre chaîne YouTube. Il recherche des sujets, écrit des scripts, optimise le référencement, planifie votre calendrier et suit les performances. Pas un autre outil dans votre pile. L'ensemble de la pile, fonctionnant seul.",
+      "category": "AI & Machine Learning",
       "website": "https://rollstack-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T22:32:47.707880+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T23:32:26.188696+00:00"
     },
     {
       "name": "PagePilot — Your Website Runs Itself",
@@ -124943,12 +124946,15 @@
       "scraped_at": "2026-05-15T22:32:48.508073+00:00"
     },
     {
-      "name": "ColdSpark",
+      "name": "ColdSpark — Your AI Sales Agent",
       "slug": "polsia-coldspark-48",
+      "description": "ColdSpark is an autonomous AI agent that researches prospects, writes hyper-personalized cold emails, follows up relentlessly, and books meetings on your calendar. No templates. No manual work. Just pipeline.",
+      "description_fr": "ColdSpark est un agent IA autonome qui recherche des prospects, rédige des e-mails froids hyper-personnalisés, assure un suivi sans relâche et planifie des réunions sur votre calendrier. Aucun modèle. Aucun travail manuel. Juste un pipeline.",
+      "category": "Sales & CRM",
       "website": "https://coldspark-48.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T22:32:48.644438+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T23:32:27.535881+00:00"
     },
     {
       "name": "DetailRig",
@@ -125026,6 +125032,96 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-15T22:32:57.388229+00:00"
+    },
+    {
+      "name": "PackLineOS",
+      "slug": "polsia-packlineos",
+      "website": "https://packlineos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T23:32:12.259762+00:00"
+    },
+    {
+      "name": "EverReel",
+      "slug": "polsia-everreel",
+      "website": "https://everreel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T23:32:12.501604+00:00"
+    },
+    {
+      "name": "GrindState",
+      "slug": "polsia-grindstate",
+      "website": "https://grindstate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T23:32:12.858433+00:00"
+    },
+    {
+      "name": "MadMovie",
+      "slug": "polsia-madmovie",
+      "description": "MadMovie brings intention back. You choose a movie. You rent it. You watch it. You talk about it. You play games about it. Every film becomes an event, not background noise.",
+      "description_fr": "MadMovie ramène l'intention. Vous choisissez un film. Vous le louez. Vous le regardez. Vous en parlez. Vous jouez à des jeux à ce sujet. Chaque film devient un événement et non un bruit de fond.",
+      "category": "Real Estate",
+      "website": "https://madmovie.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T23:32:14.444346+00:00"
+    },
+    {
+      "name": "TidyBase",
+      "slug": "polsia-tidybase",
+      "description": "You started with a simple Google Sheet. Now you have 47 tabs, three people editing the same file, formulas that break monthly, and no idea which numbers are right. Sound familiar?",
+      "description_fr": "Vous avez commencé avec une simple feuille Google. Vous avez maintenant 47 onglets, trois personnes éditant le même fichier, des formules qui se cassent mensuellement et aucune idée des chiffres qui sont corrects. Cela vous semble familier ?",
+      "category": "Other",
+      "website": "https://tidybase.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T23:32:15.689568+00:00"
+    },
+    {
+      "name": "Pipesmith — Your AI Sales Rep That Never Sleeps",
+      "slug": "polsia-pipesmith-ai-47",
+      "description": "Pipesmith is an autonomous AI sales agent that finds your ideal prospects, writes personalized outreach, manages follow-ups, and books meetings on your calendar. It works around the clock so you can focus on closing.",
+      "description_fr": "Pipesmith est un agent commercial autonome doté d'IA qui trouve vos prospects idéaux, rédige des communications personnalisées, gère les suivis et réserve des réunions sur votre calendrier. Il fonctionne 24 heures sur 24 afin que vous puissiez vous concentrer sur la clôture.",
+      "category": "Sales & CRM",
+      "website": "https://pipesmith-ai-47.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T23:32:17.433569+00:00"
+    },
+    {
+      "name": "FriteCrue",
+      "slug": "polsia-fritecrue",
+      "description": "Livraison quotidienne de frites fraîches crues sous vide aux restaurants et snacks du département 51. Du champ champenois à votre friteuse.",
+      "description_fr": "Livraison quotidienne de frites fraîches crues sous vide aux restaurants et snacks du département 51. Du champ champenois à votre friteuse.",
+      "category": "Food & Beverage",
+      "website": "https://fritecrue.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T23:32:18.385069+00:00"
+    },
+    {
+      "name": "ProfitBlitz — Five Blueprints to $100k/Month",
+      "slug": "polsia-profitblitz",
+      "description": "Blueprints with real math. Step-by-step execution plans. Revenue calculators that don't lie. Built for people who want to build, not people who want to dream.",
+      "description_fr": "Des plans avec de vraies mathématiques. Plans d'exécution étape par étape. Des calculateurs de revenus qui ne mentent pas. Construit pour les gens qui veulent construire, pas pour ceux qui veulent rêver.",
+      "category": "Other",
+      "website": "https://profitblitz.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T23:32:19.373830+00:00"
+    },
+    {
+      "name": "Offerbound — Your career, handled.",
+      "slug": "polsia-offerbound",
+      "description": "Full-service career launch: AI resume rewrites, LinkedIn optimization, job applications, and interview prep. Done for you.",
+      "description_fr": "Lancement de carrière à service complet : réécriture de CV par IA, optimisation de LinkedIn, candidatures à un emploi et préparation aux entretiens. Fait pour vous.",
+      "category": "AI & Machine Learning",
+      "website": "https://offerbound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T23:32:20.480997+00:00"
     }
   ]
 }
