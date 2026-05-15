@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T15:26:37.671675+00:00",
+  "last_updated": "2026-05-15T17:10:41.492705+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -124406,12 +124406,15 @@
       "scraped_at": "2026-05-15T15:26:35.613951+00:00"
     },
     {
-      "name": "Implematik",
+      "name": "Implematik — Autonomous Salesforce Implementation",
       "slug": "polsia-implematik",
+      "description": "Every Salesforce project follows patterns. Discovery, configuration, migration, testing, deployment. The same playbook, every time. Implematik learned the playbook. Now it runs it autonomously.",
+      "description_fr": "Chaque projet Salesforce suit des modèles. Découverte, configuration, migration, tests, déploiement. Le même manuel de jeu, à chaque fois. Implematik a appris le playbook. Désormais, il le gère de manière autonome.",
+      "category": "Sales & CRM",
       "website": "https://implematik.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T15:26:21.373712+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T17:10:38.782250+00:00"
     },
     {
       "name": "PearlGG",
@@ -124427,10 +124430,13 @@
     {
       "name": "PipeForge",
       "slug": "polsia-pipeforge-ai-28",
+      "description": "PipeForge is the sales hire you've been putting off. It finds your prospects, writes personalized outreach, follows up relentlessly, and books meetings on your calendar. You close. It does everything else.",
+      "description_fr": "PipeForge est l'embauche commerciale que vous avez reportée. Il trouve vos prospects, rédige des informations personnalisées, assure un suivi sans relâche et réserve des réunions sur votre calendrier. Vous fermez. Il fait tout le reste.",
+      "category": "Sales & CRM",
       "website": "https://pipeforge-ai-28.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T15:26:21.935946+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-15T17:10:39.593066+00:00"
     },
     {
       "name": "Dendrite",
@@ -124494,6 +124500,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-15T15:26:28.813372+00:00"
+    },
+    {
+      "name": "GridLocal",
+      "slug": "polsia-gridlocal",
+      "website": "https://gridlocal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T17:10:27.801556+00:00"
+    },
+    {
+      "name": "FloorBoss",
+      "slug": "polsia-floorboss-7",
+      "website": "https://floorboss-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T17:10:28.158891+00:00"
+    },
+    {
+      "name": "Grosflow",
+      "slug": "polsia-grosflow",
+      "website": "https://grosflow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T17:10:28.538909+00:00"
+    },
+    {
+      "name": "GetSizeOS",
+      "slug": "polsia-getsizeos",
+      "website": "https://getsizeos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T17:10:28.738018+00:00"
+    },
+    {
+      "name": "SolSieve — Intelligence Layer for Solana Memecoin Trading",
+      "slug": "polsia-solsieve",
+      "description": "AI-powered token scoring and automated trading for Solana memecoins. Scores every token 0-100 before risking a single dollar.",
+      "description_fr": "Notation de jetons basée sur l'IA et échange automatisé pour les memecoins Solana. Marque chaque jeton de 0 à 100 avant de risquer un seul dollar.",
+      "category": "AI & Machine Learning",
+      "website": "https://solsieve.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T17:10:29.763480+00:00"
+    },
+    {
+      "name": "FragPilot",
+      "slug": "polsia-frag-pilot",
+      "description": "AI trained on millions of gaming clips identifies your most viral-worthy moments. Kills, clutches, funny fails, rage quits, close calls. It catches what you'd miss scrubbing through VODs.",
+      "description_fr": "L'IA formée sur des millions de clips de jeu identifie vos moments les plus viraux. Tues, griffes, échecs amusants, abandons de rage, appels rapprochés. Il capture ce qui vous manquerait en parcourant les VOD.",
+      "category": "AI & Machine Learning",
+      "website": "https://frag-pilot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T17:10:41.246144+00:00"
+    },
+    {
+      "name": "Forgepoint AI",
+      "slug": "polsia-forgepoint-ai",
+      "website": "https://forgepoint-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-15T17:10:30.244442+00:00"
+    },
+    {
+      "name": "ShelfTrack",
+      "slug": "polsia-shelftrack",
+      "description": "The corner store. The family restaurant. The boutique that knows every customer by name. These businesses don't need another enterprise platform. They need a tool as straightforward as they are. ShelfTrack is that tool.",
+      "description_fr": "Le magasin du coin. Le restaurant familial. La boutique qui connaît chaque client par son nom. Ces entreprises n'ont pas besoin d'une autre plateforme d'entreprise. Ils ont besoin d’un outil aussi simple qu’eux. ShelfTrack est cet outil.",
+      "category": "Software & SaaS",
+      "website": "https://shelftrack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T17:10:31.944122+00:00"
+    },
+    {
+      "name": "ShelfPilot",
+      "slug": "polsia-shelfpilot-69",
+      "description": "ShelfPilot doesn't replace brand managers. It multiplies them. One person with ShelfPilot can oversee what used to take an entire team. The future of Amazon selling isn't more dashboards. It's less work.",
+      "description_fr": "ShelfPilot ne remplace pas les chefs de marque. Cela les multiplie. Une seule personne avec ShelfPilot peut superviser ce qui nécessitait auparavant une équipe entière. L'avenir de la vente sur Amazon ne réside pas dans davantage de tableaux de bord. C'est moins de travail.",
+      "category": "Software & SaaS",
+      "website": "https://shelfpilot-69.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T17:10:33.026069+00:00"
+    },
+    {
+      "name": "Cartoniq",
+      "slug": "polsia-cartoniq",
+      "description": "Scans thousands of suppliers in real-time. Surfaces products based on margin potential, shipping reliability, and demand signals. Not random picks, calculated bets.",
+      "description_fr": "Scanne des milliers de fournisseurs en temps réel. Présente les produits en fonction du potentiel de marge, de la fiabilité de l'expédition et des signaux de demande. Pas de choix aléatoires, des paris calculés.",
+      "category": "E-Commerce & Retail",
+      "website": "https://cartoniq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-15T17:10:33.953559+00:00"
     }
   ]
 }
