@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T16:14:16.001360+00:00",
+  "last_updated": "2026-05-16T17:17:55.734328+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -126101,18 +126101,24 @@
     {
       "name": "Foxbridge",
       "slug": "polsia-foxbridge",
+      "description": "4,000+ new venture funds launch every year in the US alone. Most run deal flow in spreadsheets, write LP updates manually, and do due diligence by reading pitch decks at midnight. The tools exist. The bridge doesn't.",
+      "description_fr": "Plus de 4 000 nouveaux fonds de capital-risque sont lancés chaque année rien qu’aux États-Unis. La plupart exécutent le flux des transactions dans des feuilles de calcul, rédigent manuellement les mises à jour LP et font preuve de diligence raisonnable en lisant les pitch decks à minuit. Les outils existent. Ce n’est pas le cas du pont.",
+      "category": "Other",
       "website": "https://foxbridge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T16:13:54.722036+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T17:17:50.085153+00:00"
     },
     {
       "name": "Brandcurve",
       "slug": "polsia-brandcurve",
+      "description": "Your agent studies each brand's voice, audience, and competitors. It writes Instagram captions differently from LinkedIn posts. Not templates. Original, brand-aligned content that sounds human because it understands context.",
+      "description_fr": "Votre agent étudie la voix, l'audience et les concurrents de chaque marque. Il écrit les légendes Instagram différemment des publications LinkedIn. Pas des modèles. Un contenu original, aligné sur la marque, qui semble humain car il comprend le contexte.",
+      "category": "Marketing & Advertising",
       "website": "https://brandcurve.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T16:13:55.013978+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T17:17:51.525806+00:00"
     },
     {
       "name": "Cliptory",
@@ -126128,18 +126134,24 @@
     {
       "name": "Selvago",
       "slug": "polsia-selvago",
+      "description": "Portugal welcomed 32.5 million guests in 2025. The operators who win aren't the ones answering more WhatsApp messages. They're the ones whose AI handles the operations while they create unforgettable experiences.",
+      "description_fr": "Le Portugal a accueilli 32,5 millions de visiteurs en 2025. Les opérateurs qui gagnent ne sont pas ceux qui répondent le plus aux messages WhatsApp. Ce sont eux dont l'IA gère les opérations tout en créant des expériences inoubliables.",
+      "category": "AI & Machine Learning",
       "website": "https://selvago.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T16:13:56.416634+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T17:17:52.835963+00:00"
     },
     {
-      "name": "Scoutbolt",
+      "name": "Scoutbolt — Competitive Intelligence on Autopilot",
       "slug": "polsia-scoutbolt",
+      "description": "Every morning, a concise intelligence briefing lands in your inbox. What changed, what it means, and what you should consider doing about it. No dashboards to check. No data to interpret.",
+      "description_fr": "Chaque matin, un briefing concis du renseignement arrive dans votre boîte de réception. Qu’est-ce qui a changé, ce que cela signifie et ce que vous devriez envisager de faire pour y remédier. Aucun tableau de bord à vérifier. Aucune donnée à interpréter.",
+      "category": "Software & SaaS",
       "website": "https://scoutbolt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T16:13:56.695279+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T17:17:54.143230+00:00"
     },
     {
       "name": "TrendStack — Find the AI tools that actually matter",
@@ -126195,6 +126207,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-16T16:14:04.762655+00:00"
+    },
+    {
+      "name": "Newsrift",
+      "slug": "polsia-newsrift",
+      "website": "https://newsrift.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T17:17:35.811437+00:00"
+    },
+    {
+      "name": "ServiceKit",
+      "slug": "polsia-servicekit",
+      "website": "https://servicekit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T17:17:36.192537+00:00"
+    },
+    {
+      "name": "DustOff",
+      "slug": "polsia-dustoff",
+      "description": "Tucson's dust, UV rays, and monsoon grime eat paint alive. Our process is built specifically for Sonoran Desert conditions. Ceramic coating, paint correction, and UV protection aren't upsells here. They're the standard.",
+      "description_fr": "La poussière de Tucson, les rayons UV et la crasse de la mousson dévorent la peinture vivante. Notre processus est spécialement conçu pour les conditions du désert de Sonora. Le revêtement céramique, la correction de la peinture et la protection UV ne sont pas des ventes incitatives ici. C'est la norme.",
+      "category": "Other",
+      "website": "https://dustoff.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T17:17:55.120286+00:00"
+    },
+    {
+      "name": "Yellr",
+      "slug": "polsia-yellr",
+      "website": "https://yellr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T17:17:36.762566+00:00"
+    },
+    {
+      "name": "PostEdge",
+      "slug": "polsia-postedge-2",
+      "description": "Based on your film analysis, PostEdge generates personalized drills targeting your weakest areas. If your cross collection was 60% this week, next week's plan hammers high balls. Every plan adapts to your actual game data.",
+      "description_fr": "Sur la base de l'analyse de votre film, PostEdge génère des exercices personnalisés ciblant vos zones les plus faibles. Si votre collection de cross était de 60 % cette semaine, le plan de la semaine prochaine martelera des balles hautes. Chaque plan s'adapte à vos données de jeu réelles.",
+      "category": "Other",
+      "website": "https://postedge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T17:17:38.464471+00:00"
+    },
+    {
+      "name": "Staqd",
+      "slug": "polsia-staqd",
+      "website": "https://staqd.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T17:17:38.709486+00:00"
+    },
+    {
+      "name": "RBF CLUB",
+      "slug": "polsia-rbf-club",
+      "description": "RBF CLUB is for women who don't smile on command. Who walk into a room and own it without trying. Who turned \"resting bitch face\" from an insult into an identity.",
+      "description_fr": "RBF CLUB s'adresse aux femmes qui ne sourient pas sur commande. Qui entre dans une pièce et en est propriétaire sans essayer. Qui a transformé le \"visage de garce au repos\" d'une insulte en une identité.",
+      "category": "Other",
+      "website": "https://rbf-club.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T17:17:40.287190+00:00"
+    },
+    {
+      "name": "SunPetal",
+      "slug": "polsia-sunpetal",
+      "website": "https://sunpetal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T17:17:40.746630+00:00"
+    },
+    {
+      "name": "Reachmonk",
+      "slug": "polsia-reachmonk",
+      "website": "https://reachmonk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T17:17:41.076644+00:00"
+    },
+    {
+      "name": "SaintVinceOS",
+      "slug": "polsia-saintvinceos",
+      "description": "The gap between knowing you should invest and actually doing it is education. Not the textbook kind. The kind that comes from someone two steps ahead of you, showing you the path they're walking right now.",
+      "description_fr": "L’écart entre savoir que vous devriez investir et le faire réellement est l’éducation. Pas du genre manuel. Le genre qui vient de quelqu'un qui a deux pas d'avance sur vous, vous montrant le chemin qu'il suit en ce moment.",
+      "category": "Marketing & Advertising",
+      "website": "https://saintvinceos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T17:17:42.527073+00:00"
     }
   ]
 }
