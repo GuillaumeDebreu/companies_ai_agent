@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T03:21:55.622908+00:00",
+  "last_updated": "2026-05-16T04:45:51.715632+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -125133,12 +125133,15 @@
       "scraped_at": "2026-05-15T23:32:20.480997+00:00"
     },
     {
-      "name": "GritMedia",
+      "name": "GritMedia — AI",
       "slug": "polsia-gritmedia",
+      "description": "We use AI to research your market, generate content ideas, write copy, design graphics, build chatbots, and automate your lead follow-up. You get the output of a 10-person agency at a fraction of the cost.",
+      "description_fr": "Nous utilisons l'IA pour étudier votre marché, générer des idées de contenu, rédiger des textes, concevoir des graphiques, créer des chatbots et automatiser le suivi de vos prospects. Vous obtenez le rendement d’une agence de 10 personnes à une fraction du coût.",
+      "category": "AI & Machine Learning",
       "website": "https://gritmedia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T01:20:37.781305+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T04:45:48.080938+00:00"
     },
     {
       "name": "ShipPage",
@@ -125151,18 +125154,24 @@
     {
       "name": "ClipLaunch",
       "slug": "polsia-cliplaunch",
+      "description": "Done-for-you TikTok, Reels, and Shorts content plus AI automation for barbers, restaurants, gyms, and dealerships. Tampa-based, results-driven.",
+      "description_fr": "Contenu TikTok, Reels et Shorts faits pour vous, ainsi que l'automatisation de l'IA pour les barbiers, les restaurants, les salles de sport et les concessionnaires. Basé à Tampa, axé sur les résultats.",
+      "category": "AI & Machine Learning",
       "website": "https://cliplaunch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T01:20:38.195386+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T04:45:49.805939+00:00"
     },
     {
-      "name": "Driftway",
+      "name": "Driftway — Your Next Trip Finds You",
       "slug": "polsia-driftway-2",
+      "description": "Driftway exists because the best trips are the ones you almost didn't take. The last-minute weekend away. The deal that was too good to ignore. The place you never would have searched for but can't stop thinking about.",
+      "description_fr": "Driftway existe parce que les meilleurs voyages sont ceux que vous n'avez presque pas fait. Le week-end de dernière minute. L’accord était trop beau pour être ignoré. L'endroit que vous n'auriez jamais cherché mais auquel vous ne pouvez pas arrêter de penser.",
+      "category": "Other",
       "website": "https://driftway-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T01:20:38.487878+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T04:45:51.191326+00:00"
     },
     {
       "name": "GildedThread",
@@ -125229,6 +125238,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-16T01:20:45.750579+00:00"
+    },
+    {
+      "name": "DeskPilot",
+      "slug": "polsia-desk-pilot-17",
+      "website": "https://desk-pilot-17.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T04:45:35.567818+00:00"
+    },
+    {
+      "name": "Pipesmith — Your AI Sales Rep That Never Sleeps",
+      "slug": "polsia-pipesmith-ai-49",
+      "description": "Every B2B company has the same bottleneck: not enough meetings. Pipesmith removes it permanently. An AI agent that works your pipeline around the clock, never takes PTO, and gets better with every conversation.",
+      "description_fr": "Chaque entreprise B2B est confrontée au même goulot d'étranglement : pas assez de réunions. Pipesmith le supprime définitivement. Un agent IA qui gère votre pipeline 24 heures sur 24, ne prend jamais de prise de force et s'améliore à chaque conversation.",
+      "category": "Sales & CRM",
+      "website": "https://pipesmith-ai-49.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T04:45:37.221842+00:00"
+    },
+    {
+      "name": "LanceMint",
+      "slug": "polsia-lancemint",
+      "website": "https://lancemint.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T04:45:37.513567+00:00"
+    },
+    {
+      "name": "AsklyOS",
+      "slug": "polsia-asklyos",
+      "website": "https://asklyos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T04:45:37.734940+00:00"
+    },
+    {
+      "name": "ShoreKeep",
+      "slug": "polsia-shorekeep-28",
+      "website": "https://shorekeep-28.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T04:45:37.986053+00:00"
+    },
+    {
+      "name": "Opslynk",
+      "slug": "polsia-opslynk",
+      "website": "https://opslynk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T04:45:38.359066+00:00"
+    },
+    {
+      "name": "NorthernOS — Run Your Painting Business, Not Just Your Brushes",
+      "slug": "polsia-northernos",
+      "description": "NorthernOS exists because the trades deserve better tools than recycled SaaS dashboards. This is software that thinks like a contractor: fast, practical, no fluff. Your business runs on trust, speed, and craftsmanship. Your operating system should too.",
+      "description_fr": "NorthernOS existe parce que les métiers méritent de meilleurs outils que les tableaux de bord SaaS recyclés. C'est un logiciel qui pense comme un entrepreneur : rapide, pratique, sans fioritures. Votre entreprise repose sur la confiance, la rapidité et le savoir-faire. Votre système d’exploitation devrait également le faire.",
+      "category": "Software & SaaS",
+      "website": "https://northernos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T04:45:39.894084+00:00"
+    },
+    {
+      "name": "FrontPorch — Your Business Runs Itself",
+      "slug": "polsia-frontporch-6",
+      "description": "FrontPorch gives you back the 15-20 hours a week you spend on operations, so you can spend them on the work that actually matters. The craft. The customers. The growth.",
+      "description_fr": "FrontPorch vous restitue les 15 à 20 heures par semaine que vous consacrez aux opérations, afin que vous puissiez les consacrer au travail qui compte réellement. Le métier. Les clients. La croissance.",
+      "category": "Other",
+      "website": "https://frontporch-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T04:45:40.820276+00:00"
+    },
+    {
+      "name": "Velosite",
+      "slug": "polsia-velosite",
+      "description": "Describe what you want in plain language. Velosite's AI understands context, audience, and design principles to generate exactly what you need.",
+      "description_fr": "Décrivez ce que vous voulez dans un langage simple. L'IA de Velosite comprend le contexte, l'audience et les principes de conception pour générer exactement ce dont vous avez besoin.",
+      "category": "AI & Machine Learning",
+      "website": "https://velosite.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T04:45:41.958127+00:00"
+    },
+    {
+      "name": "Merchat",
+      "slug": "polsia-merchat",
+      "description": "Thai social sellers handle 50-200 chat conversations a day. Across LINE, Facebook, Instagram. Manually copying addresses. Calculating totals by hand. Sharing bank details in DMs.",
+      "description_fr": "Les vendeurs sociaux thaïlandais gèrent entre 50 et 200 conversations par chat par jour. Sur LINE, Facebook, Instagram. Copie manuelle des adresses. Calculer les totaux à la main. Partage des coordonnées bancaires dans les DM.",
+      "category": "AI & Machine Learning",
+      "website": "https://merchat.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T04:45:43.109806+00:00"
     }
   ]
 }
