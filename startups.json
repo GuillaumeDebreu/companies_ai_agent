@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T14:11:03.699777+00:00",
+  "last_updated": "2026-05-16T15:17:03.072292+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -125895,34 +125895,46 @@
     {
       "name": "SoberRoot",
       "slug": "polsia-soberroot",
+      "description": "40-60% of people in recovery experience relapse. Not because they lack willpower, but because they lack daily structure, honest connection, and someone who understands what 90 days actually feels like.",
+      "description_fr": "40 à 60 % des personnes en convalescence connaissent une rechute. Non pas parce qu’ils manquent de volonté, mais parce qu’ils manquent de structure quotidienne, de relations honnêtes et de quelqu’un qui comprend réellement à quoi ressemblent 90 jours.",
+      "category": "Sustainability & Green",
       "website": "https://soberroot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T14:10:42.098329+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T15:16:57.179713+00:00"
     },
     {
-      "name": "TradeScribesOS",
+      "name": "TradeScribes — AI Operating System for Trade Businesses",
       "slug": "polsia-tradescribesos",
+      "description": "TradeScribes is the AI operating system built for plumbers, electricians, and HVAC techs. Scheduling, dispatching, quoting, invoicing. All handled. So you can do the work that matters.",
+      "description_fr": "TradeScribes est le système d'exploitation d'IA conçu pour les plombiers, les électriciens et les techniciens CVC. Planification, expédition, devis, facturation. Tout a été géré. Vous pouvez ainsi faire le travail qui compte.",
+      "category": "AI & Machine Learning",
       "website": "https://tradescribesos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T14:10:42.433517+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T15:16:58.897171+00:00"
     },
     {
-      "name": "Toolbelt AI",
+      "name": "Toolbelt AI — AI Automation for Service Businesses",
       "slug": "polsia-toolbelt-ai",
+      "description": "Toolbelt AI captures every lead, books every job, and follows up automatically. Built for mechanics, HVAC, landscaping, pest control, and every service trade.",
+      "description_fr": "Toolbelt AI capture chaque prospect, réserve chaque tâche et assure le suivi automatiquement. Conçu pour la mécanique, la CVC, l'aménagement paysager, la lutte antiparasitaire et tous les métiers de services.",
+      "category": "AI & Machine Learning",
       "website": "https://toolbelt-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T14:10:42.738991+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T15:17:00.394849+00:00"
     },
     {
-      "name": "OpsWrap",
+      "name": "OpsWrap — Compliance Workflows, Guaranteed",
       "slug": "polsia-opswrap",
+      "description": "Software for regulated workflows + a human who guarantees it works. $1,500-4,000/month. Your compliance, handled.",
+      "description_fr": "Logiciel pour flux de travail régulés + un humain qui garantit son fonctionnement. 1 500 à 4 000 $/mois. Votre conformité, gérée.",
+      "category": "Software & SaaS",
       "website": "https://opswrap.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T14:10:43.005976+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T15:17:02.049298+00:00"
     },
     {
       "name": "FullPlate — The AI That Runs Your Food Business",
@@ -125978,6 +125990,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-16T14:10:48.885947+00:00"
+    },
+    {
+      "name": "FrontDeskAI",
+      "slug": "polsia-frontdeskai",
+      "website": "https://frontdeskai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T15:16:41.062768+00:00"
+    },
+    {
+      "name": "FundPlug",
+      "slug": "polsia-fundplug",
+      "website": "https://fundplug.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T15:16:41.268534+00:00"
+    },
+    {
+      "name": "SyncTune",
+      "slug": "polsia-synctune",
+      "description": "We believe you should be able to switch platforms as easily as changing a playlist. No lock-in. No lost songs. No starting from scratch. SyncTune is building a world where your music follows you, everywhere.",
+      "description_fr": "Nous pensons que vous devriez pouvoir changer de plateforme aussi facilement que changer de playlist. Pas de verrouillage. Aucune chanson perdue. Pas de départ de zéro. SyncTune construit un monde où votre musique vous suit, partout.",
+      "category": "Software & SaaS",
+      "website": "https://synctune.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T15:16:42.265085+00:00"
+    },
+    {
+      "name": "Qaldera",
+      "slug": "polsia-qaldera",
+      "website": "https://qaldera.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T15:16:42.670091+00:00"
+    },
+    {
+      "name": "FounderCodex",
+      "slug": "polsia-foundercodex",
+      "website": "https://foundercodex.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T15:16:42.963163+00:00"
+    },
+    {
+      "name": "LuxeVisibility — AI",
+      "slug": "polsia-luxevisibility",
+      "description": "You don't need to become an influencer. You need to become the easy button for businesses that hate making content but know they need it. That's LuxeVisibility. We solve the problem. You collect the clients.",
+      "description_fr": "Vous n'avez pas besoin de devenir un influenceur. Vous devez devenir le bouton facile pour les entreprises qui détestent créer du contenu mais savent qu’elles en ont besoin. C'est LuxeVisibilité. Nous résolvons le problème. Vous récupérez les clients.",
+      "category": "AI & Machine Learning",
+      "website": "https://luxevisibility.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T15:16:44.464354+00:00"
+    },
+    {
+      "name": "HydroHustle",
+      "slug": "polsia-hydrohustle",
+      "description": "HydroHustle is a Buffalo Grove pressure washing company built on the belief that every property deserves to look its best, and every homeowner deserves a service provider who shows up on time, does the work right, and charges fairly. We're here to prove that the best businesses are the simplest ones, done exceptionally well.",
+      "description_fr": "HydroHustle est une entreprise de lavage sous pression de Buffalo Grove fondée sur la conviction que chaque propriété mérite d'être à son meilleur et que chaque propriétaire mérite un fournisseur de services qui arrive à l'heure, fait le travail correctement et facture équitablement. Nous sommes ici pour prouver que les meilleures entreprises sont les plus simples, celles qui sont exceptionnellement bien réalisées.",
+      "category": "Real Estate",
+      "website": "https://hydrohustle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T15:16:45.604679+00:00"
+    },
+    {
+      "name": "ScaleLogic",
+      "slug": "polsia-scalelogic",
+      "description": "ScaleLogic exists because AI changed the math. What used to require a $15K/month agency and a 6-person team now runs on intelligent automation for a fraction of the cost. The businesses that adopt this first win. The ones that wait, compete against those who didn't.",
+      "description_fr": "ScaleLogic existe parce que l'IA a changé les calculs. Ce qui nécessitait autrefois une agence de 15 000 $/mois et une équipe de 6 personnes fonctionne désormais grâce à une automatisation intelligente pour une fraction du coût. Les entreprises qui adoptent cette première victoire. Ceux qui attendent rivalisent avec ceux qui ne l’ont pas fait.",
+      "category": "AI & Machine Learning",
+      "website": "https://scalelogic.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T15:16:46.643057+00:00"
+    },
+    {
+      "name": "Cuvée Noire — Ultra",
+      "slug": "polsia-cuvee-noire",
+      "description": "Cuvée Noire curates ultra-private wine experiences in Paris for discerning international travelers. Each session is architected by sommeliers who have held France's highest honors, in venues that are never listed and bottles that are never sold retail.",
+      "description_fr": "Cuvée Noire organise des expériences œnologiques ultra-privées à Paris pour les voyageurs internationaux exigeants. Chaque séance est architecturée par des sommeliers ayant détenu les plus hautes distinctions de France, dans des lieux jamais répertoriés et des bouteilles jamais vendues au détail.",
+      "category": "E-Commerce & Retail",
+      "website": "https://cuvee-noire.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T15:16:48.195596+00:00"
+    },
+    {
+      "name": "Buzzbolt",
+      "slug": "polsia-buzzbolt",
+      "description": "AI automation agency for local businesses. Missed-call text backs, appointment booking, lead follow-up, review requests, invoicing, and customer support chatbots.",
+      "description_fr": "Agence d'automatisation de l'IA pour les entreprises locales. Renvois de SMS d'appels manqués, prise de rendez-vous, suivi des leads, demandes d'avis, facturation et chatbots de support client.",
+      "category": "AI & Machine Learning",
+      "website": "https://buzzbolt.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T15:16:49.893865+00:00"
     }
   ]
 }
