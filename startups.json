@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T09:00:23.271150+00:00",
+  "last_updated": "2026-05-16T10:23:44.286659+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -125457,20 +125457,26 @@
       "scraped_at": "2026-05-16T07:07:32.484588+00:00"
     },
     {
-      "name": "SharpLensOS",
+      "name": "SharpLensOS — Command Center for Visual Documentation",
       "slug": "polsia-sharplensos",
+      "description": "17 years of military service taught one thing above all else: the mission comes first. SharpLens brings that same discipline to every shoot, every deadline, every deliverable. In a city that never stops building, neither do we.",
+      "description_fr": "17 années de service militaire ont appris avant tout une chose : la mission passe avant tout. SharpLens applique la même discipline à chaque tournage, à chaque date limite, à chaque livrable. Dans une ville qui ne cesse de construire, nous non plus.",
+      "category": "Other",
       "website": "https://sharplensos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T09:00:05.667603+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T10:23:41.247133+00:00"
     },
     {
-      "name": "Aivora",
+      "name": "Aivora — One AI platform for your entire business",
       "slug": "polsia-aivora",
+      "description": "Most AI tools are islands. Aivora connects them. Your chatbot learns from your content. Your email campaigns reference your analytics. Your presentations pull from your data. Everything feeds everything else.",
+      "description_fr": "La plupart des outils d’IA sont des îles. Aivora les relie. Votre chatbot apprend de votre contenu. Vos campagnes par e-mail font référence à vos analyses. Vos présentations sont extraites de vos données. Tout nourrit tout le reste.",
+      "category": "AI & Machine Learning",
       "website": "https://aivora.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T09:00:06.007738+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T10:23:42.385788+00:00"
     },
     {
       "name": "NexTask",
@@ -125484,12 +125490,15 @@
       "scraped_at": "2026-05-16T09:00:07.145864+00:00"
     },
     {
-      "name": "Pipelaunch",
+      "name": "Pipelaunch — Your AI Sales Team That Never Sleeps",
       "slug": "polsia-pipelaunch-paris",
+      "description": "Pipelaunch is an autonomous AI agent that finds your ideal prospects, researches them, writes cold emails they actually read, follows up at the right time, and books meetings on your calendar. No templates. No sequences. No babysitting.",
+      "description_fr": "Pipelaunch est un agent d'IA autonome qui trouve vos prospects idéaux, les recherche, rédige des e-mails froids qu'ils lisent réellement, assure le suivi au bon moment et réserve des réunions sur votre calendrier. Aucun modèle. Aucune séquence. Pas de baby-sitting.",
+      "category": "Sales & CRM",
       "website": "https://pipelaunch-paris.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T09:00:07.473294+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T10:23:43.917710+00:00"
     },
     {
       "name": "Celmata — Your AI Animation Production Crew",
@@ -125556,6 +125565,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-16T09:00:15.414437+00:00"
+    },
+    {
+      "name": "SiteCrate",
+      "slug": "polsia-sitecrate",
+      "website": "https://sitecrate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T10:23:22.320033+00:00"
+    },
+    {
+      "name": "Virale",
+      "slug": "polsia-virale",
+      "website": "https://virale.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T10:23:22.688331+00:00"
+    },
+    {
+      "name": "VelvetTress",
+      "slug": "polsia-velvettress",
+      "description": "Curated premium hair products delivered directly to you. No salon markup, no guesswork. Just quality hair care.",
+      "description_fr": "Produits capillaires haut de gamme sélectionnés et livrés directement chez vous. Pas de balisage de salon, pas de conjectures. Juste des soins capillaires de qualité.",
+      "category": "Other",
+      "website": "https://velvettress.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T10:23:24.312937+00:00"
+    },
+    {
+      "name": "MapSnap — Scrape. Build. Close.",
+      "slug": "polsia-mapsnap",
+      "description": "MapSnap scrapes Google Maps for local businesses with no web presence, generates a custom demo site for each one, and sends personalized cold emails with the link. Full pipeline. Zero manual work.",
+      "description_fr": "MapSnap récupère Google Maps pour les entreprises locales sans présence sur le Web, génère un site de démonstration personnalisé pour chacune d'elles et envoie des e-mails froids personnalisés avec le lien. Pipeline complet. Zéro travail manuel.",
+      "category": "Sales & CRM",
+      "website": "https://mapsnap.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T10:23:25.905866+00:00"
+    },
+    {
+      "name": "SkipQ",
+      "slug": "polsia-skipq",
+      "description": "SkipQ is being built in Nairobi, for Nairobi, and soon for every city where waiting in line is the norm and not the exception. The M-Pesa generation deserves queue management that lives on their phone.",
+      "description_fr": "SkipQ est en cours de construction à Nairobi, pour Nairobi et bientôt dans toutes les villes où faire la queue est la norme et non l'exception. La génération M-Pesa mérite une gestion des files d’attente qui réside sur son téléphone.",
+      "category": "Other",
+      "website": "https://skipq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T10:23:27.650044+00:00"
+    },
+    {
+      "name": "PackReach",
+      "slug": "polsia-packreach",
+      "description": "Packaging companies invest in equipment, warehouses, and logistics. Almost none invest in their digital presence. Their buyers are scrolling LinkedIn and Facebook right now, choosing suppliers based on who looks credible online. Most packaging wholesalers don't even show up.",
+      "description_fr": "Les entreprises d’emballage investissent dans l’équipement, les entrepôts et la logistique. Presque aucun n’investit dans sa présence numérique. Leurs acheteurs parcourent actuellement LinkedIn et Facebook, choisissant des fournisseurs en fonction de ceux qui semblent crédibles en ligne. La plupart des grossistes en emballages ne se présentent même pas.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://packreach.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T10:23:29.895325+00:00"
+    },
+    {
+      "name": "Snapclient",
+      "slug": "polsia-snapclient",
+      "description": "These industries share three things: high client value, weak tech adoption, and leads that expire fast. One recovered appointment can pay for a month of automation.",
+      "description_fr": "Ces secteurs partagent trois choses : une valeur client élevée, une faible adoption de la technologie et des prospects qui expirent rapidement. Un rendez-vous récupéré peut payer un mois d’automatisation.",
+      "category": "Sales & CRM",
+      "website": "https://snapclient.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T10:23:31.432160+00:00"
+    },
+    {
+      "name": "CloseLocal — AI That Never Misses a Lead",
+      "slug": "polsia-closelocal",
+      "description": "CloseLocal gives dentists, gyms, restaurants, and tradespeople an AI receptionist that answers calls, books appointments, and follows up automatically. 24/7. No leads lost.",
+      "description_fr": "CloseLocal offre aux dentistes, aux gymnases, aux restaurants et aux commerçants une réceptionniste IA qui répond aux appels, prend rendez-vous et assure le suivi automatiquement. 24h/24 et 7j/7. Aucune piste perdue.",
+      "category": "AI & Machine Learning",
+      "website": "https://closelocal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T10:23:33.128650+00:00"
+    },
+    {
+      "name": "RipVolt",
+      "slug": "polsia-ripvolt",
+      "description": "Custom modded electric rideables, repairs, and underground design. Built and sold from Chicago.",
+      "description_fr": "Véhicules électriques modifiés sur mesure, réparations et conception souterraine. Construit et vendu depuis Chicago.",
+      "category": "Other",
+      "website": "https://ripvolt.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T10:23:33.896925+00:00"
+    },
+    {
+      "name": "VibeNativo",
+      "slug": "polsia-vibenativo",
+      "description": "Vibecoding tools like Cursor, Replit, and Claude let anyone build software by describing what they want. But every course, every tutorial, every bootcamp assumes you think in English. Millions of talented builders are locked out, not by ability, but by language.",
+      "description_fr": "Les outils Vibecoding comme Cursor, Replit et Claude permettent à quiconque de créer des logiciels en décrivant ce qu'il veut. Mais chaque cours, chaque tutoriel, chaque bootcamp suppose que vous réfléchissez en anglais. Des millions de constructeurs talentueux sont exclus, non pas à cause de leurs capacités, mais à cause de leur langue.",
+      "category": "Education",
+      "website": "https://vibenativo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T10:23:35.657253+00:00"
     }
   ]
 }
