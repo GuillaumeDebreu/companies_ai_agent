@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T11:31:04.904138+00:00",
+  "last_updated": "2026-05-16T12:41:38.507031+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -125679,10 +125679,13 @@
     {
       "name": "NarraTube",
       "slug": "polsia-narratube",
+      "description": "AI-powered faceless YouTube channels. Scripts, voices, edits, thumbnails, and SEO, all automated. You never show your face.",
+      "description_fr": "Chaînes YouTube sans visage alimentées par l'IA. Scripts, voix, modifications, vignettes et référencement, le tout automatisé. Vous ne montrez jamais votre visage.",
+      "category": "AI & Machine Learning",
       "website": "https://narratube.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T11:30:47.581420+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T12:41:35.436575+00:00"
     },
     {
       "name": "BrandDrift",
@@ -125728,10 +125731,13 @@
     {
       "name": "KeyTurn",
       "slug": "polsia-keyturn-11",
+      "description": "You staff model homes with 3-4 salespeople. They work weekends. They take vacations. They forget to follow up. The buyer who visited on Tuesday? Gone by Thursday. The lead who emailed at 11pm? Crickets until Monday morning.",
+      "description_fr": "Vous employez 3 à 4 vendeurs dans des maisons modèles. Ils travaillent le week-end. Ils prennent des vacances. Ils oublient de faire un suivi. L'acheteur qui est venu mardi ? Parti jeudi. Le responsable qui a envoyé un e-mail à 23 heures ? Grillons jusqu'à lundi matin.",
+      "category": "Sales & CRM",
       "website": "https://keyturn-11.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T11:30:52.608344+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T12:41:37.272584+00:00"
     },
     {
       "name": "Coldcraft",
@@ -125770,6 +125776,95 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-05-16T11:30:56.931587+00:00"
+    },
+    {
+      "name": "Flipmode",
+      "slug": "polsia-flipmode",
+      "website": "https://flipmode.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T12:41:23.512678+00:00"
+    },
+    {
+      "name": "Auxmind",
+      "slug": "polsia-auxmind",
+      "website": "https://auxmind.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T12:41:23.981036+00:00"
+    },
+    {
+      "name": "ComeTogetherOS",
+      "slug": "polsia-cometogetheros",
+      "website": "https://cometogetheros.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T12:41:24.392007+00:00"
+    },
+    {
+      "name": "ReelLocal",
+      "slug": "polsia-reel-local",
+      "website": "https://reel-local.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T12:41:24.737270+00:00"
+    },
+    {
+      "name": "Bricco",
+      "slug": "polsia-bricco",
+      "website": "https://bricco.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T12:41:25.056654+00:00"
+    },
+    {
+      "name": "Boolë — Le marketplace B2B du Sénégal",
+      "slug": "polsia-boole",
+      "description": "Boolë connecte les entreprises sénégalaises à leurs clients. Listez vos produits, trouvez des acheteurs, concluez des affaires.",
+      "description_fr": "Boolë connecte les entreprises sénégalaises à leurs clients. Listez vos produits, trouvez des acheteurs, concluez des affaires.",
+      "category": "E-Commerce & Retail",
+      "website": "https://boole.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T12:41:26.186053+00:00"
+    },
+    {
+      "name": "Basewright",
+      "slug": "polsia-basewright",
+      "website": "https://basewright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T12:41:26.304871+00:00"
+    },
+    {
+      "name": "Jackson's Store",
+      "slug": "polsia-jacksons-store",
+      "website": "https://jacksons-store.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T12:41:26.650039+00:00"
+    },
+    {
+      "name": "LendiQ — AI",
+      "slug": "polsia-lendiq-3",
+      "description": "AI agents analyze bank statements, transaction patterns, and business metrics in real-time. No credit bureau dependency. Alternative data turns invisible borrowers into qualified applicants.",
+      "description_fr": "Les agents IA analysent les relevés bancaires, les modèles de transactions et les indicateurs commerciaux en temps réel. Aucune dépendance envers un bureau de crédit. Les données alternatives transforment les emprunteurs invisibles en candidats qualifiés.",
+      "category": "AI & Machine Learning",
+      "website": "https://lendiq-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T12:41:27.503842+00:00"
+    },
+    {
+      "name": "NestWatch",
+      "slug": "polsia-nestwatch-ai",
+      "description": "Kissimmee, Orlando, and the greater Central Florida corridor have over 14,000 active vacation rentals. NestWatch was born here, trained on this market, and built to give every host the operational intelligence that only the biggest management companies could afford.",
+      "description_fr": "Kissimmee, Orlando et la grande région centrale de la Floride comptent plus de 14 000 locations de vacances actives. NestWatch est né ici, formé sur ce marché et construit pour donner à chaque hôte l'intelligence opérationnelle que seules les plus grandes sociétés de gestion peuvent se permettre.",
+      "category": "Travel & Hospitality",
+      "website": "https://nestwatch-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T12:41:28.569599+00:00"
     }
   ]
 }
