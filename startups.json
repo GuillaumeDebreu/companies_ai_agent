@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T19:34:12.789185+00:00",
+  "last_updated": "2026-05-16T20:24:43.124917+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -126429,12 +126429,15 @@
       "scraped_at": "2026-05-16T18:10:26.033890+00:00"
     },
     {
-      "name": "Capital Shine",
+      "name": "Capital Shine — Mobile Detailing & Fleet Cleaning",
       "slug": "polsia-capital-shine",
+      "description": "Capital Shine is building the detailing service the capital deserves. Premium quality, mobile convenience, fleet-scale operations. From a single sedan to a hundred rideshare cars, we bring the shine to you.",
+      "description_fr": "Capital Shine construit le service d'esthétique que la capitale mérite. Qualité supérieure, commodité mobile, opérations à l’échelle de la flotte. D'une simple berline à une centaine de voitures de covoiturage, nous vous apportons l'éclat.",
+      "category": "Software & SaaS",
       "website": "https://capital-shine.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T19:33:51.652181+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T20:24:38.663842+00:00"
     },
     {
       "name": "BlockRadius",
@@ -126458,18 +126461,24 @@
     {
       "name": "RankMill",
       "slug": "polsia-rankmill",
+      "description": "Every minute, millions of queries go unanswered by thin, generic content. RankMill turns that gap into sites that rank, pages that earn, and revenue that compounds. The machine runs while you sleep.",
+      "description_fr": "Chaque minute, des millions de requêtes restent sans réponse à cause d'un contenu mince et générique. RankMill transforme cet écart en sites classés, en pages qui rapportent et en revenus qui s'accumulent. La machine fonctionne pendant que vous dormez.",
+      "category": "Entertainment & Media",
       "website": "https://rankmill.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T19:33:53.900498+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T20:24:40.040085+00:00"
     },
     {
-      "name": "ColdForge",
+      "name": "ColdForge — Cold Prospects. Warm Meetings.",
       "slug": "polsia-coldforge-21",
+      "description": "The best companies don't outspend their competitors on sales. They out-research, out-personalize, and out-hustle them. ColdForge gives every growing business access to the same AI-powered outbound machine that used to require a six-figure hire and an enterprise tech stack.",
+      "description_fr": "Les meilleures entreprises ne dépensent pas plus que leurs concurrents en ventes. Ils font plus de recherches, les personnalisent et les bousculent. ColdForge donne à chaque entreprise en croissance un accès à la même machine sortante alimentée par l'IA qui nécessitait auparavant un embauche à six chiffres et une pile technologique d'entreprise.",
+      "category": "Sales & CRM",
       "website": "https://coldforge-21.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T19:33:54.226854+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T20:24:41.515186+00:00"
     },
     {
       "name": "PantryOps",
@@ -126485,10 +126494,13 @@
     {
       "name": "Bumpr",
       "slug": "polsia-bumpr-ai",
+      "description": "CCC and Mitchell built software for insurance companies. Bumpr is built for the shop. The one with 6 bays, 4 techs, and a front desk that can't keep up. That shop deserves an AI employee that handles the chaos so the humans can focus on craft.",
+      "description_fr": "CCC et Mitchell ont créé des logiciels pour les compagnies d'assurance. Bumpr est conçu pour le magasin. Celui avec 6 baies, 4 techniciens et une réception qui n'arrive pas à suivre. Ce magasin mérite un employé IA qui gère le chaos afin que les humains puissent se concentrer sur l'artisanat.",
+      "category": "AI & Machine Learning",
       "website": "https://bumpr-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T19:33:55.578238+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T20:24:42.833577+00:00"
     },
     {
       "name": "Golem — Sculpted Footwear",
@@ -126522,6 +126534,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-16T19:33:58.647966+00:00"
+    },
+    {
+      "name": "Remnant",
+      "slug": "polsia-remnant",
+      "website": "https://remnant.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T20:24:29.498260+00:00"
+    },
+    {
+      "name": "VetTwin",
+      "slug": "polsia-vettwin",
+      "website": "https://vettwin.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T20:24:29.676158+00:00"
+    },
+    {
+      "name": "HelixOps",
+      "slug": "polsia-helixops-3",
+      "website": "https://helixops-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T20:24:29.866908+00:00"
+    },
+    {
+      "name": "StreetLeads",
+      "slug": "polsia-streetleads",
+      "website": "https://streetleads.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T20:24:30.063625+00:00"
+    },
+    {
+      "name": "ZenovaOS",
+      "slug": "polsia-zenovaos-3",
+      "website": "https://zenovaos-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T20:24:30.210301+00:00"
+    },
+    {
+      "name": "PetitMasque",
+      "slug": "polsia-petitmasque",
+      "description": "PetitMasque handpicks the best children's costumes from across Europe. No junk, no overwhelm, no waiting weeks for shipping. Just the costumes kids actually want to wear.",
+      "description_fr": "PetitMasque sélectionne les meilleurs costumes pour enfants de toute l'Europe. Pas de déchets, pas de surcharge, pas de semaines d'attente pour l'expédition. Juste les costumes que les enfants veulent réellement porter.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://petitmasque.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T20:24:30.934604+00:00"
+    },
+    {
+      "name": "VaultClip",
+      "slug": "polsia-vaultclip",
+      "website": "https://vaultclip.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T20:24:31.012079+00:00"
+    },
+    {
+      "name": "RevReply — Stop Losing Jobs to Missed Calls",
+      "slug": "polsia-revreply",
+      "description": "RevReply gives you the 6 automations that actually move the needle. No bloated dashboards. No 200-feature menu you'll never touch. Just the things that put money back in your pocket.",
+      "description_fr": "RevReply vous donne les 6 automatisations qui font réellement bouger l'aiguille. Pas de tableaux de bord gonflés. Pas de menu de 200 fonctionnalités auquel vous ne toucherez jamais. Juste les choses qui vous remettent de l’argent dans vos poches.",
+      "category": "Software & SaaS",
+      "website": "https://revreply.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T20:24:32.431703+00:00"
+    },
+    {
+      "name": "FloorOS",
+      "slug": "polsia-flooros",
+      "description": "FloorOS was born from years of walking production lines, optimizing layouts, implementing 5S, and building inventory systems by hand at companies like Murata Machinery and Honda. Every feature exists because a real systems engineer needed it and didn't have it.",
+      "description_fr": "FloorOS est né d'années passées à parcourir des lignes de production, à optimiser les agencements, à mettre en œuvre les 5S et à créer manuellement des systèmes d'inventaire dans des entreprises comme Murata Machinery et Honda. Chaque fonctionnalité existe parce qu'un véritable ingénieur système en avait besoin et ne l'avait pas.",
+      "category": "Other",
+      "website": "https://flooros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T20:24:33.984319+00:00"
+    },
+    {
+      "name": "InkTribe",
+      "slug": "polsia-inktribe",
+      "description": "InkTribe exists because the best designs come from knowing exactly who you're making them for. We go narrow so we can go deep. One tribe at a time, one product at a time, until every community has something that feels like it was made just for them.",
+      "description_fr": "InkTribe existe parce que les meilleurs designs viennent du fait de savoir exactement pour qui vous les créez. Nous allons étroit pour pouvoir aller en profondeur. Une tribu à la fois, un produit à la fois, jusqu'à ce que chaque communauté ait quelque chose qui semble avoir été fait juste pour elle.",
+      "category": "Social & Community",
+      "website": "https://inktribe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T20:24:35.360952+00:00"
     }
   ]
 }
