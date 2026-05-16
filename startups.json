@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T04:45:51.715632+00:00",
+  "last_updated": "2026-05-16T07:07:41.699917+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -125242,10 +125242,13 @@
     {
       "name": "DeskPilot",
       "slug": "polsia-desk-pilot-17",
+      "description": "You're elbow-deep in a water heater replacement when the phone rings. Again. You can't answer. That's a homeowner who needed you today. By the time you call back, they've already booked someone else.",
+      "description_fr": "Vous êtes plongé dans le remplacement d'un chauffe-eau lorsque le téléphone sonne. Encore. Vous ne pouvez pas répondre. C'est un propriétaire qui avait besoin de vous aujourd'hui. Au moment où vous rappelez, ils ont déjà réservé quelqu'un d'autre.",
+      "category": "Other",
       "website": "https://desk-pilot-17.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T04:45:35.567818+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T07:07:36.633386+00:00"
     },
     {
       "name": "Pipesmith — Your AI Sales Rep That Never Sleeps",
@@ -125259,36 +125262,48 @@
       "scraped_at": "2026-05-16T04:45:37.221842+00:00"
     },
     {
-      "name": "LanceMint",
+      "name": "LanceMint — Your AI Freelance Operator",
       "slug": "polsia-lancemint",
+      "description": "Every hour you spend hunting for projects is an hour you're not doing the work that earns you money. LanceMint changes the equation. Your AI operator handles the business so you can focus on the craft.",
+      "description_fr": "Chaque heure que vous passez à chercher des projets est une heure où vous ne faites pas le travail qui vous rapporte de l'argent. LanceMint change l'équation. Votre opérateur IA gère les affaires afin que vous puissiez vous concentrer sur le métier.",
+      "category": "AI & Machine Learning",
       "website": "https://lancemint.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T04:45:37.513567+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T07:07:37.831301+00:00"
     },
     {
-      "name": "AsklyOS",
+      "name": "Askly",
       "slug": "polsia-asklyos",
+      "description": "Most apps give you one lens. Askly gives you the whole picture. Your Life Hub connects mood, money, focus, fitness, and planning into a single view, so you stop living in fragments.",
+      "description_fr": "La plupart des applications vous offrent un seul objectif. Askly vous donne une vue d’ensemble. Votre Life Hub relie l'humeur, l'argent, la concentration, la forme physique et la planification en une seule vue, afin que vous arrêtiez de vivre en fragments.",
+      "category": "Health & Wellness",
       "website": "https://asklyos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T04:45:37.734940+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T07:07:38.871419+00:00"
     },
     {
       "name": "ShoreKeep",
       "slug": "polsia-shorekeep-28",
+      "description": "Every morning, ShoreKeep sends you a summary of what happened overnight: messages handled, pricing changes made, bookings confirmed, issues resolved. You review at your pace. Intervene only when you want to.",
+      "description_fr": "Chaque matin, ShoreKeep vous envoie un résumé de ce qui s'est passé pendant la nuit : messages traités, modifications tarifaires effectuées, réservations confirmées, problèmes résolus. Vous révisez à votre rythme. N'intervenez que lorsque vous le souhaitez.",
+      "category": "Travel & Hospitality",
       "website": "https://shorekeep-28.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T04:45:37.986053+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T07:07:40.303694+00:00"
     },
     {
-      "name": "Opslynk",
+      "name": "Opslynk — AI Automation for Local Businesses",
       "slug": "polsia-opslynk",
+      "description": "Every missed call, slow follow-up, and manual process is revenue walking out your door. Opslynk exists to close that gap, permanently. AI that works while you sleep, responds faster than any employee, and never forgets a lead.",
+      "description_fr": "Chaque appel manqué, chaque suivi lent et chaque processus manuel génèrent des revenus qui sortent de votre porte. Opslynk existe pour combler cet écart, de façon permanente. Une IA qui fonctionne pendant que vous dormez, répond plus rapidement que n'importe quel employé et n'oublie jamais une piste.",
+      "category": "AI & Machine Learning",
       "website": "https://opslynk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T04:45:38.359066+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T07:07:41.274224+00:00"
     },
     {
       "name": "NorthernOS — Run Your Painting Business, Not Just Your Brushes",
@@ -125333,6 +125348,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-16T04:45:43.109806+00:00"
+    },
+    {
+      "name": "LeadStack",
+      "slug": "polsia-leadstack",
+      "website": "https://leadstack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T07:07:23.182346+00:00"
+    },
+    {
+      "name": "Sellara",
+      "slug": "polsia-sellara-11",
+      "website": "https://sellara-11.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T07:07:23.524609+00:00"
+    },
+    {
+      "name": "ElectroHiveOS",
+      "slug": "polsia-electrohiveos",
+      "description": "Every decision you make without data is a coin flip. Every hour you spend manually checking competitors is an hour you didn't spend growing. ElectroHiveOS replaces guesswork with intelligence, so you can focus on what actually moves the needle.",
+      "description_fr": "Chaque décision que vous prenez sans données est un tirage au sort. Chaque heure que vous passez à vérifier manuellement vos concurrents est une heure que vous n'avez pas passée à grandir. ElectroHiveOS remplace les conjectures par l'intelligence, afin que vous puissiez vous concentrer sur ce qui fait réellement bouger l'aiguille.",
+      "category": "Other",
+      "website": "https://electrohiveos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T07:07:24.500967+00:00"
+    },
+    {
+      "name": "TideShiftOS",
+      "slug": "polsia-tideshiftos",
+      "website": "https://tideshiftos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T07:07:24.772565+00:00"
+    },
+    {
+      "name": "LotusSecOS",
+      "slug": "polsia-lotussecos",
+      "description": "LotusSecOS is the operating system behind Lotus CyberSecurity. Client engagements, threat tracking, vulnerability pipelines, team operations. One command center.",
+      "description_fr": "LotusSecOS est le système d'exploitation derrière Lotus CyberSecurity. Engagements clients, suivi des menaces, pipelines de vulnérabilités, opérations d'équipe. Un centre de commandement.",
+      "category": "Sales & CRM",
+      "website": "https://lotussecos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T07:07:26.327960+00:00"
+    },
+    {
+      "name": "99HumanOS",
+      "slug": "polsia-99humanos",
+      "description": "Monitor every agent in your catalog. Response quality, conversion rates, session throughput. Know which agents earn their keep and which need retraining.",
+      "description_fr": "Surveillez chaque agent de votre catalogue. Qualité des réponses, taux de conversion, débit de session. Sachez quels agents gagnent leur vie et lesquels ont besoin d’être recyclés.",
+      "category": "Education",
+      "website": "https://99humanos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T07:07:27.881014+00:00"
+    },
+    {
+      "name": "Wrapture",
+      "slug": "polsia-wrapture",
+      "description": "No endless scroll of random products. Wrapture selects from premium, vetted brands and presents one confident recommendation. Like having a personal shopper who actually knows you.",
+      "description_fr": "Pas de défilement sans fin de produits aléatoires. Wrapture sélectionne parmi des marques haut de gamme et approuvées et présente une recommandation confiante. C’est comme avoir un personal shopper qui vous connaît réellement.",
+      "category": "E-Commerce & Retail",
+      "website": "https://wrapture.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T07:07:29.221517+00:00"
+    },
+    {
+      "name": "PipeBoss",
+      "slug": "polsia-pipeboss",
+      "description": "PipeBoss handles the marketing so you can focus on what you're good at: the work. Roofers, plumbers, HVAC techs, landscapers. If you fix, build, or install things for homeowners, your pipeline should never be empty.",
+      "description_fr": "PipeBoss s'occupe du marketing afin que vous puissiez vous concentrer sur ce pour quoi vous excellez : le travail. Couvreurs, plombiers, techniciens CVC, paysagistes. Si vous réparez, construisez ou installez des objets pour les propriétaires, votre pipeline ne doit jamais être vide.",
+      "category": "Marketing & Advertising",
+      "website": "https://pipeboss.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T07:07:30.232716+00:00"
+    },
+    {
+      "name": "DirtVault — The Marketplace That Doesn't Sell You",
+      "slug": "polsia-dirtvault",
+      "description": "Built in Central Oregon. Backed by riders who were tired of the same broken platforms. DirtVault exists because the powersports community deserves a marketplace as purpose-built as the machines we ride.",
+      "description_fr": "Construit dans le centre de l'Oregon. Soutenu par des coureurs fatigués des mêmes plates-formes cassées. DirtVault existe parce que la communauté des sports motorisés mérite un marché aussi spécialement conçu que les machines que nous conduisons.",
+      "category": "Software & SaaS",
+      "website": "https://dirtvault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T07:07:31.713921+00:00"
+    },
+    {
+      "name": "Tuma",
+      "slug": "polsia-tuma-app",
+      "description": "Tuma is an AI agent that runs your business operations. Orders, payments, customer follow-ups, financial summaries. It works while you sleep.",
+      "description_fr": "Tuma est un agent IA qui gère vos opérations commerciales. Commandes, paiements, suivis clients, synthèses financières. Cela fonctionne pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://tuma-app.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T07:07:32.484588+00:00"
     }
   ]
 }
