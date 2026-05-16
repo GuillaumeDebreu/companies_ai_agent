@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T15:17:03.072292+00:00",
+  "last_updated": "2026-05-16T16:14:16.001360+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -126002,10 +126002,13 @@
     {
       "name": "FundPlug",
       "slug": "polsia-fundplug",
+      "description": "Half of all small business loan applications get denied. Not because the businesses are bad. Because no one taught the founders how to play the credit game.",
+      "description_fr": "La moitié de toutes les demandes de prêt aux petites entreprises sont refusées. Pas parce que les entreprises vont mal. Parce que personne n’a appris aux fondateurs comment jouer au jeu du crédit.",
+      "category": "Other",
       "website": "https://fundplug.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T15:16:41.268534+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T16:14:12.434402+00:00"
     },
     {
       "name": "SyncTune",
@@ -126019,20 +126022,26 @@
       "scraped_at": "2026-05-16T15:16:42.265085+00:00"
     },
     {
-      "name": "Qaldera",
+      "name": "Qaldera — Your AI Sales Team",
       "slug": "polsia-qaldera",
+      "description": "Qaldera is an autonomous AI sales agent that finds your ideal customers, researches their companies, writes personalized outreach, and books meetings on your calendar. Running 24/7 for a fraction of what you'd pay a human.",
+      "description_fr": "Qaldera est un agent commercial autonome doté d'IA qui trouve vos clients idéaux, recherche leurs entreprises, rédige des communications personnalisées et réserve des réunions sur votre calendrier. Fonctionner 24h/24 et 7j/7 pour une fraction de ce que vous paieriez à un humain.",
+      "category": "AI & Machine Learning",
       "website": "https://qaldera.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T15:16:42.670091+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T16:14:14.139988+00:00"
     },
     {
-      "name": "FounderCodex",
+      "name": "FounderCodex — 12 Frameworks from Story to Scale",
       "slug": "polsia-foundercodex",
+      "description": "Thousands of blog posts, podcasts, and AI-generated listicles tell founders what to do. None of them organize the knowledge into a system you can navigate. FounderCodex distills the startup lifecycle into 12 interconnected frameworks, each covering a strategic discipline that compounds over time.",
+      "description_fr": "Des milliers d'articles de blog, de podcasts et de listes générées par l'IA indiquent aux fondateurs quoi faire. Aucun d’entre eux n’organise les connaissances dans un système dans lequel vous pouvez naviguer. FounderCodex distille le cycle de vie d'une startup en 12 cadres interconnectés, chacun couvrant une discipline stratégique qui s'aggrave au fil du temps.",
+      "category": "AI & Machine Learning",
       "website": "https://foundercodex.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T15:16:42.963163+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T16:14:15.464351+00:00"
     },
     {
       "name": "LuxeVisibility — AI",
@@ -126088,6 +126097,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-16T15:16:49.893865+00:00"
+    },
+    {
+      "name": "Foxbridge",
+      "slug": "polsia-foxbridge",
+      "website": "https://foxbridge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T16:13:54.722036+00:00"
+    },
+    {
+      "name": "Brandcurve",
+      "slug": "polsia-brandcurve",
+      "website": "https://brandcurve.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T16:13:55.013978+00:00"
+    },
+    {
+      "name": "Cliptory",
+      "slug": "polsia-cliptory",
+      "description": "Every business that grows on social media has one thing in common: they never stop posting. Cliptory makes that possible for businesses of any size, in any market, at any stage.",
+      "description_fr": "Toutes les entreprises qui se développent sur les réseaux sociaux ont une chose en commun : elles ne cessent jamais de publier. Cliptory rend cela possible pour les entreprises de toute taille, sur n'importe quel marché et à tout moment.",
+      "category": "Marketing & Advertising",
+      "website": "https://cliptory.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T16:13:56.105156+00:00"
+    },
+    {
+      "name": "Selvago",
+      "slug": "polsia-selvago",
+      "website": "https://selvago.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T16:13:56.416634+00:00"
+    },
+    {
+      "name": "Scoutbolt",
+      "slug": "polsia-scoutbolt",
+      "website": "https://scoutbolt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T16:13:56.695279+00:00"
+    },
+    {
+      "name": "TrendStack — Find the AI tools that actually matter",
+      "slug": "polsia-trendstack",
+      "description": "26,000 AI tools exist. You need maybe five. TrendStack cuts through the noise with curated picks for students, creators, and builders who don't have time to scroll through endless catalogs.",
+      "description_fr": "Il existe 26 000 outils d’IA. Il vous en faut peut-être cinq. TrendStack coupe le bruit avec des choix sélectionnés pour les étudiants, les créateurs et les constructeurs qui n'ont pas le temps de parcourir des catalogues interminables.",
+      "category": "AI & Machine Learning",
+      "website": "https://trendstack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T16:13:58.395084+00:00"
+    },
+    {
+      "name": "LobbyBoss",
+      "slug": "polsia-lobbyboss",
+      "description": "Matches you with players based on skill, playstyle, schedule, communication style, and game preferences. Not just rank. Real compatibility.",
+      "description_fr": "Vous met en contact avec des joueurs en fonction de leurs compétences, de leur style de jeu, de leur emploi du temps, de leur style de communication et de leurs préférences de jeu. Pas seulement le classement. Une vraie compatibilité.",
+      "category": "Other",
+      "website": "https://lobbyboss.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T16:14:00.168363+00:00"
+    },
+    {
+      "name": "ClosePing",
+      "slug": "polsia-closeping",
+      "description": "AI-powered missed call recovery and automated follow-up for local businesses. Dentists, HVAC, roofers, law firms.",
+      "description_fr": "Récupération des appels manqués grâce à l'IA et suivi automatisé pour les entreprises locales. Dentistes, CVC, couvreurs, cabinets d’avocats.",
+      "category": "AI & Machine Learning",
+      "website": "https://closeping.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T16:14:01.732928+00:00"
+    },
+    {
+      "name": "Rakeen — Your AI Operations Agent for Saudi Business",
+      "slug": "polsia-rakeen",
+      "description": "Not US software with an Arabic translation. Not another dashboard you'll forget to check. An AI agent that understands ZATCA, speaks Arabic, and runs your operations while you focus on growth.",
+      "description_fr": "Pas un logiciel américain avec une traduction arabe. Ce n'est pas un autre tableau de bord que vous oublierez de vérifier. Un agent IA qui comprend ZATCA, parle arabe et gère vos opérations pendant que vous vous concentrez sur la croissance.",
+      "category": "Software & SaaS",
+      "website": "https://rakeen.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T16:14:03.269178+00:00"
+    },
+    {
+      "name": "ShapeUp — Your AI Front Desk, Marketing Team, and Manager",
+      "slug": "polsia-shapeup",
+      "description": "ShapeUp is an AI employee that fills your chairs, grows your client list, runs your social media, and handles rebookings. You just cut hair.",
+      "description_fr": "ShapeUp est un employé IA qui remplit vos chaises, élargit votre liste de clients, gère vos réseaux sociaux et gère les nouvelles réservations. Tu viens de couper les cheveux.",
+      "category": "AI & Machine Learning",
+      "website": "https://shapeup.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T16:14:04.762655+00:00"
     }
   ]
 }
