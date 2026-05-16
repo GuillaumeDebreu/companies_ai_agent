@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T23:32:27.872853+00:00",
+  "last_updated": "2026-05-16T01:20:54.038159+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -125036,26 +125036,35 @@
     {
       "name": "PackLineOS",
       "slug": "polsia-packlineos",
+      "description": "PackLineOS gives flexible packaging operations real-time visibility into production, capacity, and client pipelines. From blown film to finished pouch, every metric in one place.",
+      "description_fr": "PackLineOS offre aux opérations d'emballage flexibles une visibilité en temps réel sur la production, la capacité et les pipelines clients. Du film soufflé à la pochette finie, chaque métrique au même endroit.",
+      "category": "Sales & CRM",
       "website": "https://packlineos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T23:32:12.259762+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T01:20:51.685913+00:00"
     },
     {
-      "name": "EverReel",
+      "name": "EverReel — Memories Deserve More Than a Folder",
       "slug": "polsia-everreel",
+      "description": "EverReel exists because memories shouldn't live in forgotten folders or fade with time. They should move, speak, and make people cry in the best way. Born in New Orleans, where every family has a story and every story has a second line.",
+      "description_fr": "EverReel existe parce que les souvenirs ne doivent pas vivre dans des dossiers oubliés ou disparaître avec le temps. Ils doivent bouger, parler et faire pleurer les gens de la meilleure façon possible. Né à la Nouvelle-Orléans, où chaque famille a une histoire et chaque histoire a une deuxième ligne.",
+      "category": "Sustainability & Green",
       "website": "https://everreel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T23:32:12.501604+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T01:20:52.243432+00:00"
     },
     {
       "name": "GrindState",
       "slug": "polsia-grindstate",
+      "description": "Streetwear brand built on fitness, motivation, sports, and NJ culture. We grow the audience first, then drop the heat.",
+      "description_fr": "Marque de streetwear basée sur le fitness, la motivation, le sport et la culture du New Jersey. Nous augmentons d’abord l’audience, puis baissons la pression.",
+      "category": "Marketing & Advertising",
       "website": "https://grindstate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-15T23:32:12.858433+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T01:20:53.469549+00:00"
     },
     {
       "name": "MadMovie",
@@ -125122,6 +125131,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-15T23:32:20.480997+00:00"
+    },
+    {
+      "name": "GritMedia",
+      "slug": "polsia-gritmedia",
+      "website": "https://gritmedia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T01:20:37.781305+00:00"
+    },
+    {
+      "name": "ShipPage",
+      "slug": "polsia-shippage",
+      "website": "https://shippage.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T01:20:37.974234+00:00"
+    },
+    {
+      "name": "ClipLaunch",
+      "slug": "polsia-cliplaunch",
+      "website": "https://cliplaunch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T01:20:38.195386+00:00"
+    },
+    {
+      "name": "Driftway",
+      "slug": "polsia-driftway-2",
+      "website": "https://driftway-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T01:20:38.487878+00:00"
+    },
+    {
+      "name": "GildedThread",
+      "slug": "polsia-gildedthread",
+      "description": "GildedThread is building a new kind of jewelry brand. One where craft matters more than hype, where every piece is designed to be part of your life, not just your outfit.",
+      "description_fr": "GildedThread construit un nouveau type de marque de bijoux. Une maison où l'artisanat compte plus que le battage médiatique, où chaque pièce est conçue pour faire partie de votre vie, pas seulement de votre tenue.",
+      "category": "Marketing & Advertising",
+      "website": "https://gildedthread.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T01:20:39.442295+00:00"
+    },
+    {
+      "name": "PlugOps",
+      "slug": "polsia-plugops",
+      "description": "PlugOps exists because local businesses deserve the same automation that Fortune 500 companies have been using for years. The tools are ready. The pricing is accessible. The only question is how long you keep doing it manually.",
+      "description_fr": "PlugOps existe parce que les entreprises locales méritent la même automatisation que celle que les entreprises Fortune 500 utilisent depuis des années. Les outils sont prêts. La tarification est accessible. La seule question est de savoir combien de temps vous continuez à le faire manuellement.",
+      "category": "Productivity & Automation",
+      "website": "https://plugops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T01:20:40.966947+00:00"
+    },
+    {
+      "name": "LedgrBot — Your Books, Closed Every Night",
+      "slug": "polsia-ledgrbot",
+      "description": "QuickBooks and Xero give you tools. But someone still has to log in, categorize every transaction, reconcile every account, and generate every report. That someone costs $500 to $2,000 a month.",
+      "description_fr": "QuickBooks et Xero vous offrent des outils. Mais quelqu'un doit encore se connecter, catégoriser chaque transaction, rapprocher chaque compte et générer chaque rapport. Ce quelqu'un coûte entre 500 et 2 000 dollars par mois.",
+      "category": "Sustainability & Green",
+      "website": "https://ledgrbot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T01:20:42.512427+00:00"
+    },
+    {
+      "name": "Tender Static",
+      "slug": "polsia-tender-static",
+      "description": "Tender Static is an audio world built for the late-night internet. For the ones scrolling at 2am with too many feelings and nowhere soft to put them. For bedroom producers who hear entire universes in a reverb tail. For the diaspora kids building identity from fragments of Tumblr archives and Adult Swim bumps.",
+      "description_fr": "Tender Static est un monde audio conçu pour Internet de fin de soirée. Pour ceux qui défilent à 2 heures du matin avec trop de sentiments et nulle part de douceur pour les mettre. Pour les producteurs de chambre qui entendent des univers entiers dans une queue de réverbération. Pour les enfants de la diaspora qui construisent leur identité à partir de fragments d'archives Tumblr et de bosses d'Adult Swim.",
+      "category": "Other",
+      "website": "https://tender-static.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T01:20:43.542319+00:00"
+    },
+    {
+      "name": "Patchrun — Your AI Back Office",
+      "slug": "polsia-patchrun",
+      "description": "Patchrun is an AI employee that handles scheduling, invoicing, customer follow-ups, and review management for local service businesses. It works 24/7. It never calls in sick.",
+      "description_fr": "Patchrun est un employé IA qui gère la planification, la facturation, le suivi des clients et la gestion des avis pour les entreprises de services locales. Cela fonctionne 24h/24 et 7j/7. Il n'appelle jamais malade.",
+      "category": "AI & Machine Learning",
+      "website": "https://patchrun.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T01:20:44.734656+00:00"
+    },
+    {
+      "name": "CutVelocity — Short",
+      "slug": "polsia-cutvelocity",
+      "description": "Every hour you spend on CapCut is an hour you didn't spend creating, engaging, or landing brand deals. CutVelocity exists so creators can do what they're actually good at.",
+      "description_fr": "Chaque heure que vous passez sur CapCut est une heure que vous n'avez pas passée à créer, engager ou conclure des accords de marque. CutVelocity existe pour que les créateurs puissent faire ce pour quoi ils sont réellement bons.",
+      "category": "Marketing & Advertising",
+      "website": "https://cutvelocity.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T01:20:45.750579+00:00"
     }
   ]
 }
