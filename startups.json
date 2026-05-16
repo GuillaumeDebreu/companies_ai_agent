@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T08:06:24.367890+00:00",
+  "last_updated": "2026-05-16T09:00:23.271150+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -125360,10 +125360,13 @@
     {
       "name": "Sellara",
       "slug": "polsia-sellara-11",
+      "description": "Sellara doesn't sit in your toolbar waiting for instructions. It works autonomously, reporting results daily. Think of it as your first sales hire that costs a fraction of a salary and never takes a day off.",
+      "description_fr": "Sellara ne reste pas assis dans votre barre d'outils en attendant des instructions. Il fonctionne de manière autonome et rapporte quotidiennement les résultats. Considérez-le comme votre première embauche commerciale qui coûte une fraction d'un salaire et ne prend jamais un jour de congé.",
+      "category": "Sales & CRM",
       "website": "https://sellara-11.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T07:07:23.524609+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T09:00:21.509620+00:00"
     },
     {
       "name": "ElectroHiveOS",
@@ -125379,10 +125382,13 @@
     {
       "name": "TideShiftOS",
       "slug": "polsia-tideshiftos",
+      "description": "Operating from Hermanus, at the geographic junction of two of the world's great ocean currents. A deliberate metaphor. A deliberate location. Capital moves like water: patient, persistent, and shaped by forces most never see.",
+      "description_fr": "Opérant depuis Hermanus, à la jonction géographique de deux des plus grands courants océaniques du monde. Une métaphore délibérée. Un emplacement délibéré. Le capital bouge comme l’eau : patient, persistant et façonné par des forces que l’on ne voit généralement pas.",
+      "category": "Software & SaaS",
       "website": "https://tideshiftos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T07:07:24.772565+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T09:00:22.800108+00:00"
     },
     {
       "name": "LotusSecOS",
@@ -125449,6 +125455,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-16T07:07:32.484588+00:00"
+    },
+    {
+      "name": "SharpLensOS",
+      "slug": "polsia-sharplensos",
+      "website": "https://sharplensos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T09:00:05.667603+00:00"
+    },
+    {
+      "name": "Aivora",
+      "slug": "polsia-aivora",
+      "website": "https://aivora.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T09:00:06.007738+00:00"
+    },
+    {
+      "name": "NexTask",
+      "slug": "polsia-nextask",
+      "description": "82% of small businesses are already investing in AI. The ones that move first will outpace competitors still answering phones manually and chasing leads by hand. NexTask puts your business on autopilot, so you can focus on growth, not grunt work.",
+      "description_fr": "82 % des petites entreprises investissent déjà dans l’IA. Ceux qui agiront en premier devanceront leurs concurrents, qui répondront toujours au téléphone manuellement et poursuivront les prospects à la main. NexTask met votre entreprise en pilote automatique, afin que vous puissiez vous concentrer sur la croissance et non sur le travail fastidieux.",
+      "category": "AI & Machine Learning",
+      "website": "https://nextask.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T09:00:07.145864+00:00"
+    },
+    {
+      "name": "Pipelaunch",
+      "slug": "polsia-pipelaunch-paris",
+      "website": "https://pipelaunch-paris.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T09:00:07.473294+00:00"
+    },
+    {
+      "name": "Celmata — Your AI Animation Production Crew",
+      "slug": "polsia-celmata",
+      "description": "Celmata automates in-betweening, cleanup, coloring, and rigging so animators can focus on what matters: the story.",
+      "description_fr": "Celmata automatise les opérations intermédiaires, le nettoyage, la coloration et le montage afin que les animateurs puissent se concentrer sur ce qui compte : l'histoire.",
+      "category": "AI & Machine Learning",
+      "website": "https://celmata.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T09:00:07.998113+00:00"
+    },
+    {
+      "name": "ClicktuitiveOS",
+      "slug": "polsia-clicktuitiveos",
+      "description": "Marketing agencies shouldn't spend half their time on operations. ClicktuitiveOS handles the back office so you can focus on what you do best: turning clicks into clients who change lives.",
+      "description_fr": "Les agences de marketing ne devraient pas consacrer la moitié de leur temps aux opérations. ClicktuitiveOS gère le back-office afin que vous puissiez vous concentrer sur ce que vous faites le mieux : transformer les clics en clients qui changent la vie.",
+      "category": "Marketing & Advertising",
+      "website": "https://clicktuitiveos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T09:00:09.408965+00:00"
+    },
+    {
+      "name": "ShortFactory — Faceless Content at Scale",
+      "slug": "polsia-shortfactory",
+      "description": "ShortFactory turns a topic into a ready-to-upload TikTok or YouTube Short. Script, voiceover, edit, publish. The entire pipeline, automated.",
+      "description_fr": "ShortFactory transforme un sujet en un court TikTok ou YouTube prêt à être téléchargé. Scénario, voix off, montage, publication. L'ensemble du pipeline, automatisé.",
+      "category": "Marketing & Advertising",
+      "website": "https://shortfactory.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T09:00:11.023042+00:00"
+    },
+    {
+      "name": "PawTalk",
+      "slug": "polsia-pawtalk",
+      "description": "What happens next is never scripted, never planned, and never boring. Strangers open up to a giant fluffy character in ways they never would to a regular person with a camera.",
+      "description_fr": "Ce qui se passe ensuite n’est jamais scénarisé, jamais planifié et jamais ennuyeux. Les étrangers s'ouvrent à un personnage géant et pelucheux d'une manière qu'ils ne le feraient jamais à une personne ordinaire possédant un appareil photo.",
+      "category": "Other",
+      "website": "https://pawtalk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T09:00:13.062217+00:00"
+    },
+    {
+      "name": "Storm Nation Solar — Roofing & Solar for Oklahoma",
+      "slug": "polsia-storm-nation-solar",
+      "description": "Every hail season creates thousands of roofs that need replacing. We're here to make sure every one of those roofs comes back stronger, smarter, and generating power. Storm Nation Solar is building the roofing company Oklahoma deserves.",
+      "description_fr": "Chaque saison de grêle crée des milliers de toits qui doivent être remplacés. Nous sommes là pour veiller à ce que chacun de ces toits revienne plus fort, plus intelligent et produise de l'énergie. Storm Nation Solar construit l'entreprise de toiture que l'Oklahoma mérite.",
+      "category": "Sustainability & Green",
+      "website": "https://storm-nation-solar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T09:00:14.028938+00:00"
+    },
+    {
+      "name": "GlintAI — AI Services for Local Businesses",
+      "slug": "polsia-glintai",
+      "description": "Traditional agencies charge $5,000/month and assign you a junior account manager. GlintAI uses AI to handle the heavy lifting, so you get senior-level output at a fraction of the cost. Every chatbot, every post, every design goes through a human who understands your business.",
+      "description_fr": "Les agences traditionnelles facturent 5 000 $/mois et vous assignent un gestionnaire de compte junior. GlintAI utilise l'IA pour gérer le gros du travail, afin que vous obteniez un résultat de niveau supérieur à une fraction du coût. Chaque chatbot, chaque publication, chaque conception passe par un humain qui comprend votre entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://glintai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T09:00:15.414437+00:00"
     }
   ]
 }
