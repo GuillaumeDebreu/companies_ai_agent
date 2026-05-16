@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T10:23:44.286659+00:00",
+  "last_updated": "2026-05-16T11:31:04.904138+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -125567,20 +125567,26 @@
       "scraped_at": "2026-05-16T09:00:15.414437+00:00"
     },
     {
-      "name": "SiteCrate",
+      "name": "SiteCrate — Finished websites, ready to launch",
       "slug": "polsia-sitecrate",
+      "description": "SiteCrate is where finished meets affordable. Every site in the catalog was designed with care, built with clean code, and priced for real businesses. No middlemen. No markup. Just great websites, ready when you are.",
+      "description_fr": "SiteCrate est l'endroit où le fini rencontre l'abordable. Chaque site du catalogue a été conçu avec soin, construit avec un code propre et tarifé pour de vraies entreprises. Pas d'intermédiaires. Aucun balisage. Juste de superbes sites Web, prêts quand vous l'êtes.",
+      "category": "Other",
       "website": "https://sitecrate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T10:23:22.320033+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T11:31:02.706056+00:00"
     },
     {
-      "name": "Virale",
+      "name": "Virale — AI",
       "slug": "polsia-virale",
+      "description": "Custom AI models trained on your brand voice. Not ChatGPT with a prompt. Bespoke content engines that understand your audience, your tone, and what performs on each platform in the French market.",
+      "description_fr": "Modèles d'IA personnalisés formés sur la voix de votre marque. Pas ChatGPT avec une invite. Des moteurs de contenu sur mesure qui comprennent votre audience, votre ton et ce qui se passe sur chaque plateforme du marché français.",
+      "category": "AI & Machine Learning",
       "website": "https://virale.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-16T10:23:22.688331+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-16T11:31:04.337530+00:00"
     },
     {
       "name": "VelvetTress",
@@ -125669,6 +125675,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-16T10:23:35.657253+00:00"
+    },
+    {
+      "name": "NarraTube",
+      "slug": "polsia-narratube",
+      "website": "https://narratube.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T11:30:47.581420+00:00"
+    },
+    {
+      "name": "BrandDrift",
+      "slug": "polsia-branddrift",
+      "description": "AI-powered content-first dropshipping. Stop running ads to strangers. Build a niche audience, then sell them products they already want.",
+      "description_fr": "Dropshipping de contenu basé sur l'IA. Arrêtez de diffuser des publicités auprès d'étrangers. Construisez un public de niche, puis vendez-leur les produits qu’ils souhaitent déjà.",
+      "category": "Marketing & Advertising",
+      "website": "https://branddrift.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T11:30:49.059926+00:00"
+    },
+    {
+      "name": "BoltWorks",
+      "slug": "polsia-boltworks",
+      "description": "BoltWorks builds AI systems that answer calls, book appointments, follow up with leads, and handle customer support for local businesses. Setup in one week. Not one quarter.",
+      "description_fr": "BoltWorks construit des systèmes d'IA qui répondent aux appels, prennent des rendez-vous, assurent le suivi des prospects et gèrent le support client pour les entreprises locales. Mise en place en une semaine. Pas un quart.",
+      "category": "AI & Machine Learning",
+      "website": "https://boltworks.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T11:30:50.548626+00:00"
+    },
+    {
+      "name": "Sightline",
+      "slug": "polsia-sightline-32",
+      "website": "https://sightline-32.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T11:30:50.919228+00:00"
+    },
+    {
+      "name": "StayPilot",
+      "slug": "polsia-stay-pilot-34",
+      "description": "Responds to every inquiry, booking question, and check-in message with context-aware, human-quality replies. Handles special requests, complaints, and local recommendations automatically.",
+      "description_fr": "Répond à chaque demande de renseignements, question de réservation et message d'enregistrement avec des réponses contextuelles et de qualité humaine. Gère automatiquement les demandes spéciales, les plaintes et les recommandations locales.",
+      "category": "Travel & Hospitality",
+      "website": "https://stay-pilot-34.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T11:30:52.215109+00:00"
+    },
+    {
+      "name": "KeyTurn",
+      "slug": "polsia-keyturn-11",
+      "website": "https://keyturn-11.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T11:30:52.608344+00:00"
+    },
+    {
+      "name": "Coldcraft",
+      "slug": "polsia-coldcraft-66",
+      "website": "https://coldcraft-66.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T11:30:52.920479+00:00"
+    },
+    {
+      "name": "CaliberCo — Premium Blue Collar Services & Streetwear",
+      "slug": "polsia-caliberco",
+      "description": "Premium detailing, custom builds, and streetwear for the blue collar Bay Area. Services that look as good as the work behind them.",
+      "description_fr": "Détails haut de gamme, constructions personnalisées et streetwear pour la région de la Baie des cols bleus. Des services aussi beaux que le travail qui les sous-tend.",
+      "category": "Other",
+      "website": "https://caliberco.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T11:30:54.308702+00:00"
+    },
+    {
+      "name": "SignalDesk",
+      "slug": "polsia-signaldesk-75",
+      "description": "SignalDesk delivers daily crypto and macro market intelligence briefings. An autonomous AI analyst that works while you sleep.",
+      "description_fr": "SignalDesk propose des briefings quotidiens sur les informations sur les marchés crypto et macro. Un analyste IA autonome qui travaille pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://signaldesk-75.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-16T11:30:56.598858+00:00"
+    },
+    {
+      "name": "Velvet Luxe Healthcare Ops",
+      "slug": "polsia-velvet-luxe",
+      "website": "https://velvet-luxe.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-16T11:30:56.931587+00:00"
     }
   ]
 }
