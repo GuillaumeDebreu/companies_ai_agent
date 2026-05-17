@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T04:20:16.566250+00:00",
+  "last_updated": "2026-05-17T07:19:49.056052+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -127068,18 +127068,24 @@
     {
       "name": "AssessIQ",
       "slug": "polsia-assessiq",
+      "description": "Every exam generates intelligence. AssessIQ surfaces what matters: where students struggle, which topics need better teaching, where cheating clusters, and who is at risk of failing before it happens.",
+      "description_fr": "Chaque examen génère de l'intelligence. AssessIQ révèle ce qui compte : où les étudiants rencontrent des difficultés, quels sujets nécessitent un meilleur enseignement, où se concentrent les tricheries et qui risque d'échouer avant que cela ne se produise.",
+      "category": "Education",
       "website": "https://assessiq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T04:20:01.004715+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T07:19:45.154130+00:00"
     },
     {
-      "name": "ProReel",
+      "name": "ProReel — Sports Media for Every Athlete",
       "slug": "polsia-proreel",
+      "description": "The gap between talent and visibility has never been wider. Social media is how recruits get found, how sponsors pick partners, and how fans discover the next big thing. ProReel closes that gap with professional content, strategy, and hustle. Based in Sioux Falls. Built for athletes everywhere.",
+      "description_fr": "L’écart entre talent et visibilité n’a jamais été aussi large. Les réseaux sociaux sont le moyen par lequel les recrues sont trouvées, les sponsors choisissent leurs partenaires et les fans découvrent la prochaine grande nouveauté. ProReel comble cet écart avec du contenu professionnel, de la stratégie et de l'agitation. Basé à Sioux Falls. Conçu pour les athlètes du monde entier.",
+      "category": "Entertainment & Media",
       "website": "https://proreel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T04:20:01.169984+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T07:19:46.892116+00:00"
     },
     {
       "name": "FormNest",
@@ -127095,10 +127101,13 @@
     {
       "name": "Pipefuse",
       "slug": "polsia-pipefuse",
+      "description": "Automation isn't a luxury. It's the difference between a business that scales and one that stays stuck doing the same tasks every day. Pipefuse brings workflow automation to the businesses that need it most, at a price they can actually afford.",
+      "description_fr": "L'automatisation n'est pas un luxe. C'est la différence entre une entreprise qui évolue et une entreprise qui reste obligée d'accomplir les mêmes tâches chaque jour. Pipefuse apporte l'automatisation des flux de travail aux entreprises qui en ont le plus besoin, à un prix qu'elles peuvent réellement se permettre.",
+      "category": "Productivity & Automation",
       "website": "https://pipefuse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T04:20:02.843258+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T07:19:47.512305+00:00"
     },
     {
       "name": "KeitotoOS",
@@ -127145,12 +127154,15 @@
       "scraped_at": "2026-05-17T04:20:08.713860+00:00"
     },
     {
-      "name": "Buzzcatch",
+      "name": "Never Lose a Lead Again — Buzzcatch",
       "slug": "polsia-buzzcatch",
+      "description": "Buzzcatch deploys AI-powered missed-call texting, appointment booking, review automation, and lead follow-up for local businesses.",
+      "description_fr": "Buzzcatch déploie l'envoi de SMS pour les appels manqués, la prise de rendez-vous, l'automatisation des avis et le suivi des prospects grâce à l'IA pour les entreprises locales.",
+      "category": "AI & Machine Learning",
       "website": "https://buzzcatch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T04:20:08.775392+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T07:19:48.601000+00:00"
     },
     {
       "name": "ShhotsOS — The Operating System for Shhots.ai",
@@ -127162,6 +127174,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-17T04:20:10.246859+00:00"
+    },
+    {
+      "name": "MainMotor",
+      "slug": "polsia-mainmotor",
+      "website": "https://mainmotor.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T07:19:28.220125+00:00"
+    },
+    {
+      "name": "DreamClash",
+      "slug": "polsia-dreamclash",
+      "website": "https://dreamclash.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T07:19:28.552818+00:00"
+    },
+    {
+      "name": "Dashwright — AI",
+      "slug": "polsia-dashwright",
+      "description": "Dashwright is an AI that architects production-ready dashboard interfaces from your data schema. Not drag-and-drop. Not low-fidelity wireframes. Designer-grade layouts with proper visual hierarchy, data architecture, and aesthetic polish.",
+      "description_fr": "Dashwright est une IA qui conçoit des interfaces de tableau de bord prêtes pour la production à partir de votre schéma de données. Pas de glisser-déposer. Pas de wireframes basse fidélité. Mises en page de qualité designer avec une hiérarchie visuelle, une architecture de données et un raffinement esthétique appropriés.",
+      "category": "AI & Machine Learning",
+      "website": "https://dashwright.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T07:19:30.258468+00:00"
+    },
+    {
+      "name": "Caliu",
+      "slug": "polsia-caliu",
+      "website": "https://caliu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T07:19:30.477892+00:00"
+    },
+    {
+      "name": "FlipClip",
+      "slug": "polsia-flipclip",
+      "description": "Short-form content editing for local businesses and creators. We turn your raw footage into TikToks, Reels, and Shorts that get views.",
+      "description_fr": "Édition de contenu court pour les entreprises et les créateurs locaux. Nous transformons vos images brutes en TikToks, Reels et Shorts qui obtiennent des vues.",
+      "category": "Entertainment & Media",
+      "website": "https://flipclip.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T07:19:32.328848+00:00"
+    },
+    {
+      "name": "Exposia",
+      "slug": "polsia-exposia",
+      "description": "The top agencies charge six figures and take over a year. Small and mid-size institutions are left choosing between mediocre DIY exhibitions or no new exhibitions at all. Cultural heritage shouldn't be gated by budget.",
+      "description_fr": "Les meilleures agences facturent six chiffres et prennent plus d'un an. Les institutions de petite et moyenne taille doivent choisir entre des expositions de bricolage médiocres ou aucune nouvelle exposition du tout. Le patrimoine culturel ne devrait pas être limité par le budget.",
+      "category": "Other",
+      "website": "https://exposia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T07:19:33.534229+00:00"
+    },
+    {
+      "name": "BookedSolid",
+      "slug": "polsia-booked-solid-22",
+      "description": "Service businesses built America. They deserve technology that works as hard as they do. BookedSolid exists so that no plumber, electrician, or contractor ever loses a job because they were too busy doing one.",
+      "description_fr": "Les entreprises de services ont construit l’Amérique. Ils méritent une technologie qui fonctionne aussi dur qu’eux. BookedSolid existe pour qu'aucun plombier, électricien ou entrepreneur ne perde son emploi parce qu'il était trop occupé à en faire un.",
+      "category": "Other",
+      "website": "https://booked-solid-22.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T07:19:34.810330+00:00"
+    },
+    {
+      "name": "CompliCare — CQC Compliance on Autopilot",
+      "slug": "polsia-complicare",
+      "description": "One dashboard. Five key questions. Safe, Effective, Caring, Responsive, Well-led. CompliCare monitors your compliance posture in real time and tells you exactly where you stand before an inspector does.",
+      "description_fr": "Un tableau de bord. Cinq questions clés. Sûr, efficace, attentionné, réactif, bien dirigé. CompliCare surveille votre état de conformité en temps réel et vous indique exactement où vous en êtes avant qu'un inspecteur ne le fasse.",
+      "category": "Software & SaaS",
+      "website": "https://complicare.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T07:19:36.116671+00:00"
+    },
+    {
+      "name": "Quotient Shield — AI That Sells Insurance While You Sleep",
+      "slug": "polsia-quotient-shield",
+      "description": "Quotient Shield is an autonomous AI agent that prospects, qualifies leads, matches policies, and books appointments for insurance agents. 24 hours a day. Zero coffee breaks.",
+      "description_fr": "Quotient Shield est un agent d'IA autonome qui prospecte, qualifie les prospects, fait correspondre les politiques et prend rendez-vous pour les agents d'assurance. 24 heures sur 24. Zéro pause café.",
+      "category": "AI & Machine Learning",
+      "website": "https://quotient-shield.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T07:19:37.416445+00:00"
+    },
+    {
+      "name": "StayFlow — Your AI Property Manager",
+      "slug": "polsia-stayflow-4",
+      "description": "StayFlow is building toward a world where owning rental property is truly passive income. Not \"passive except for the 20 hours a week you spend managing it.\" Actually passive. Your AI handles operations. You collect revenue.",
+      "description_fr": "StayFlow se dirige vers un monde où posséder un bien locatif constitue un véritable revenu passif. Pas \"passif sauf pour les 20 heures par semaine que vous passez à le gérer\". En fait passif. Votre IA gère les opérations. Vous percevez des revenus.",
+      "category": "AI & Machine Learning",
+      "website": "https://stayflow-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T07:19:39.013020+00:00"
     }
   ]
 }
