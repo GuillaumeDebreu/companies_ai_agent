@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T17:37:58.028464+00:00",
+  "last_updated": "2026-05-17T18:43:32.181510+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -128043,18 +128043,24 @@
     {
       "name": "KC's Crates",
       "slug": "polsia-kcs-crates",
+      "description": "Eco-friendly reusable moving crate rental in Wichita, KS. Red 18-gallon containers delivered to your door. No cardboard. No waste.",
+      "description_fr": "Location de caisses de déménagement réutilisables et écologiques à Wichita, KS. Conteneurs rouges de 18 gallons livrés à votre porte. Pas de carton. Pas de gaspillage.",
+      "category": "Travel & Hospitality",
       "website": "https://kcs-crates.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T17:37:39.047548+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T18:43:30.818867+00:00"
     },
     {
       "name": "DeployOS",
       "slug": "polsia-deployos-2",
+      "description": "Not a US platform with an African price page. Not a global CDN with a Cape Town PoP. A real deployment platform, built in East Africa, priced in local currencies, supported in your timezone. DeployOS is how that platform gets run.",
+      "description_fr": "Il ne s’agit pas d’une plateforme américaine avec une page de prix africaine. Il ne s'agit pas d'un CDN mondial avec un PoP du Cap. Une véritable plateforme de déploiement, construite en Afrique de l'Est, tarifée en devises locales, prise en charge dans votre fuseau horaire. DeployOS est la façon dont cette plate-forme est exécutée.",
+      "category": "Software & SaaS",
       "website": "https://deployos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T17:37:39.442377+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T18:43:31.870733+00:00"
     },
     {
       "name": "TB Cutsz",
@@ -128140,6 +128146,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-17T17:37:49.651889+00:00"
+    },
+    {
+      "name": "PipeForge",
+      "slug": "polsia-pipeforge-ai-35",
+      "website": "https://pipeforge-ai-35.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T18:43:19.817524+00:00"
+    },
+    {
+      "name": "GigLaunch",
+      "slug": "polsia-giglaunch",
+      "website": "https://giglaunch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T18:43:19.995441+00:00"
+    },
+    {
+      "name": "RunDesk",
+      "slug": "polsia-rundesk-21",
+      "website": "https://rundesk-21.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T18:43:20.184887+00:00"
+    },
+    {
+      "name": "TrainArc — Your Coaching, Your Arc",
+      "slug": "polsia-trainarc",
+      "description": "TrainArc is building the coaching platform that meets people where they are and helps them get where they want to go. No shortcuts, no gimmicks, just consistent progress with someone in your corner.",
+      "description_fr": "TrainArc construit la plateforme de coaching qui rencontre les gens là où ils se trouvent et les aide à arriver là où ils veulent aller. Pas de raccourcis, pas de gadgets, juste des progrès constants avec quelqu'un à vos côtés.",
+      "category": "Software & SaaS",
+      "website": "https://trainarc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T18:43:21.330693+00:00"
+    },
+    {
+      "name": "StayPilot — Your AI Property Manager",
+      "slug": "polsia-stay-pilot-44",
+      "description": "Responds to inquiries, sends check-in instructions, handles complaints, and troubleshoots issues. Fluent in English and Spanish. Sounds human because the AI understands context, not templates.",
+      "description_fr": "Répond aux demandes de renseignements, envoie les instructions d'enregistrement, traite les plaintes et résout les problèmes. Anglais et espagnol courants. Cela semble humain car l'IA comprend le contexte, pas les modèles.",
+      "category": "AI & Machine Learning",
+      "website": "https://stay-pilot-44.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T18:43:22.461901+00:00"
+    },
+    {
+      "name": "Clerq",
+      "slug": "polsia-clerq-ai-50",
+      "website": "https://clerq-ai-50.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T18:43:22.603177+00:00"
+    },
+    {
+      "name": "PadhoPilot — Study Smarter, Not Harder",
+      "slug": "polsia-padhopilot",
+      "description": "Because good education shouldn't cost lakhs. BYJU'S charges ₹40,000. Unacademy charges ₹30,000. Your coaching sir charges ₹1,50,000. We charge nothing to start.",
+      "description_fr": "Parce qu’une bonne éducation ne devrait pas coûter des milliers de dollars. BYJU facture 40 000 ₹. L'Unacademy facture 30 000 ₹. Votre monsieur de coaching facture 1 50 000 ₹. Nous ne facturons rien pour commencer.",
+      "category": "Education",
+      "website": "https://padhopilot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T18:43:23.477050+00:00"
+    },
+    {
+      "name": "BrightHaven Care",
+      "slug": "polsia-brighthaven-care",
+      "description": "Most autism services in Arkansas are outpatient therapy clinics or broad behavioral health facilities. BrightHaven is neither. We are a dedicated care environment where every room, routine, and staff member is oriented around what autistic individuals actually need to thrive.",
+      "description_fr": "La plupart des services d'autisme en Arkansas sont des cliniques de thérapie ambulatoire ou de vastes établissements de santé comportementale. BrightHaven n’est ni l’un ni l’autre. Nous sommes un environnement de soins dédié où chaque salle, routine et membre du personnel est orienté vers ce dont les personnes autistes ont réellement besoin pour s'épanouir.",
+      "category": "Health & Wellness",
+      "website": "https://brighthaven-care.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T18:43:24.945132+00:00"
+    },
+    {
+      "name": "Noctvrn — Youth Culture Creative Agency / Cape Town",
+      "slug": "polsia-noctvrn",
+      "description": "Event promo, streetwear drops, content production, and underground experiences. Cape Town's nocturnal creative collective.",
+      "description_fr": "Promotion d'événements, drops streetwear, production de contenu et expériences underground. Le collectif créatif nocturne du Cap.",
+      "category": "Consulting & Services",
+      "website": "https://noctvrn.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T18:43:25.845192+00:00"
+    },
+    {
+      "name": "ServiceSnap — Every missed call is someone else's customer",
+      "slug": "polsia-servicesnap",
+      "description": "ServiceSnap responds to missed calls in seconds, qualifies the lead, books the appointment, chases the invoice, and gets the review. One workflow that runs your entire service business on autopilot.",
+      "description_fr": "ServiceSnap répond aux appels manqués en quelques secondes, qualifie le prospect, prend rendez-vous, recherche la facture et obtient l'avis. Un flux de travail qui gère l’ensemble de votre activité de services en pilote automatique.",
+      "category": "Finance & Fintech",
+      "website": "https://servicesnap.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T18:43:27.086731+00:00"
     }
   ]
 }
