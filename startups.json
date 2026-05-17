@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T19:12:25.955262+00:00",
+  "last_updated": "2026-05-17T19:54:31.825472+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -128148,28 +128148,37 @@
       "scraped_at": "2026-05-17T17:37:49.651889+00:00"
     },
     {
-      "name": "PipeForge",
+      "name": "PipeForge — Your AI Sales Agent",
       "slug": "polsia-pipeforge-ai-35",
+      "description": "PipeForge is building the sales agent that never sleeps, never forgets to follow up, and never sends a generic \"Hope this finds you well.\" Every interaction is researched, personalized, and timed to perfection.",
+      "description_fr": "PipeForge construit l'agent commercial qui ne dort jamais, n'oublie jamais de faire un suivi et n'envoie jamais de message générique « J'espère que ça vous va bien ». Chaque interaction est recherchée, personnalisée et chronométrée à la perfection.",
+      "category": "AI & Machine Learning",
       "website": "https://pipeforge-ai-35.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T18:43:19.817524+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T19:54:27.925540+00:00"
     },
     {
       "name": "GigLaunch",
       "slug": "polsia-giglaunch",
+      "description": "Stop scrolling Fiverr hoping for gigs. GigLaunch gives you the starter kits, client acquisition tools, and AI-powered delivery systems to launch a profitable service business fast.",
+      "description_fr": "Arrêtez de faire défiler Fiverr en espérant des concerts. GigLaunch vous offre les kits de démarrage, les outils d'acquisition de clients et les systèmes de livraison basés sur l'IA pour lancer rapidement une entreprise de services rentable.",
+      "category": "AI & Machine Learning",
       "website": "https://giglaunch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T18:43:19.995441+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T19:54:29.596380+00:00"
     },
     {
       "name": "RunDesk",
       "slug": "polsia-rundesk-21",
+      "description": "RunDesk replaces the virtual assistant, the scheduling app, the invoicing platform, and the CRM follow-up reminders. One agent that actually runs your back office while you run your business.",
+      "description_fr": "RunDesk remplace l'assistant virtuel, l'application de planification, la plateforme de facturation et les rappels de suivi CRM. Un agent qui gère réellement votre back-office pendant que vous dirigez votre entreprise.",
+      "category": "Software & SaaS",
       "website": "https://rundesk-21.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T18:43:20.184887+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T19:54:30.732383+00:00"
     },
     {
       "name": "TrainArc — Your Coaching, Your Arc",
@@ -128244,6 +128253,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-17T18:43:27.086731+00:00"
+    },
+    {
+      "name": "Buzzloop",
+      "slug": "polsia-buzzloop",
+      "website": "https://buzzloop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T19:54:16.560881+00:00"
+    },
+    {
+      "name": "NiteScope",
+      "slug": "polsia-nitescope",
+      "website": "https://nitescope.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T19:54:16.860867+00:00"
+    },
+    {
+      "name": "CallHammer",
+      "slug": "polsia-callhammer",
+      "website": "https://callhammer.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T19:54:17.246524+00:00"
+    },
+    {
+      "name": "Offloaded",
+      "slug": "polsia-offloaded",
+      "website": "https://offloaded.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T19:54:17.383867+00:00"
+    },
+    {
+      "name": "PostHustle",
+      "slug": "polsia-posthustle",
+      "website": "https://posthustle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T19:54:17.706117+00:00"
+    },
+    {
+      "name": "TableTurns",
+      "slug": "polsia-tableturns",
+      "website": "https://tableturns.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T19:54:18.079227+00:00"
+    },
+    {
+      "name": "PulseClips",
+      "slug": "polsia-pulseclips",
+      "website": "https://pulseclips.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T19:54:18.347815+00:00"
+    },
+    {
+      "name": "FreshCraft",
+      "slug": "polsia-freshcraft",
+      "description": "FreshCraft is building the most reliable property service operation in Central Florida. One job at a time. One satisfied neighbor telling the next.",
+      "description_fr": "FreshCraft construit l'opération de services immobiliers la plus fiable du centre de la Floride. Un travail à la fois. Un voisin satisfait raconte le suivant.",
+      "category": "Real Estate",
+      "website": "https://freshcraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T19:54:19.432574+00:00"
+    },
+    {
+      "name": "HypeGhost",
+      "slug": "polsia-hypeghost",
+      "website": "https://hypeghost.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T19:54:19.674039+00:00"
+    },
+    {
+      "name": "CrossFile",
+      "slug": "polsia-crossfile",
+      "description": "Every hour a shipment sits waiting for paperwork costs money. Every misclassification risks a penalty. CrossFile eliminates both, giving small and mid-size brokers the same automation that enterprise players have gatekept for years.",
+      "description_fr": "Chaque heure, un envoi attend des formalités administratives et coûte de l'argent. Toute erreur de classement risque une pénalité. CrossFile élimine les deux, offrant aux courtiers de petite et moyenne taille la même automatisation que les entreprises ont gardée pendant des années.",
+      "category": "Productivity & Automation",
+      "website": "https://crossfile.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T19:54:20.972326+00:00"
     }
   ]
 }
