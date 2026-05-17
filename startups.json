@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T15:32:04.416630+00:00",
+  "last_updated": "2026-05-17T16:33:49.058938+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -127832,10 +127832,13 @@
     {
       "name": "BizWire",
       "slug": "polsia-bizwire",
+      "description": "You're running a business. Between clients, staff, and putting out fires, learning Zapier or building a chatbot isn't happening. Meanwhile, your competitors are automating their lead follow-up and you're still checking voicemail.",
+      "description_fr": "Vous dirigez une entreprise. Entre les clients, le personnel et l’extinction des incendies, il n’est pas possible d’apprendre Zapier ou de créer un chatbot. Pendant ce temps, vos concurrents automatisent le suivi de leurs leads et vous continuez à consulter vos messages vocaux.",
+      "category": "Software & SaaS",
       "website": "https://bizwire.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T15:31:47.676564+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T16:33:43.003953+00:00"
     },
     {
       "name": "LunaPress",
@@ -127846,12 +127849,15 @@
       "scraped_at": "2026-05-17T15:31:47.970061+00:00"
     },
     {
-      "name": "NicheRamp",
+      "name": "NicheRamp — Performance Marketing for Local Service Businesses",
       "slug": "polsia-nicheramp",
+      "description": "NicheRamp exists because local service businesses deserve marketing that proves itself. No six-month contracts with nothing to show. No vanity metrics. Just leads, calls, and booked appointments.",
+      "description_fr": "NicheRamp existe parce que les entreprises de services locales méritent un marketing qui fait ses preuves. Pas de contrats de six mois sans rien à montrer. Aucune mesure de vanité. Juste des pistes, des appels et des rendez-vous pris.",
+      "category": "Marketing & Advertising",
       "website": "https://nicheramp.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T15:31:48.137559+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T16:33:44.261702+00:00"
     },
     {
       "name": "TradeClips",
@@ -127864,18 +127870,24 @@
     {
       "name": "StudioPilot",
       "slug": "polsia-studiopilot-ai",
+      "description": "The best photographers, designers, and artists are the ones who get to actually do their craft. StudioPilot exists so that running a business never gets in the way of making great work.",
+      "description_fr": "Les meilleurs photographes, designers et artistes sont ceux qui exercent réellement leur métier. StudioPilot existe pour que la gestion d'une entreprise ne gêne jamais la réalisation d'un excellent travail.",
+      "category": "Other",
       "website": "https://studiopilot-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T15:31:48.536304+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T16:33:45.891809+00:00"
     },
     {
       "name": "Outpace",
       "slug": "polsia-outpace-dfw",
+      "description": "Every hour without a sales engine is revenue walking out the door. Outpace works while you sleep, while you're on the job, while you're with your family. It never stops finding your next customer.",
+      "description_fr": "Chaque heure sans moteur de vente génère des revenus. Outpace fonctionne pendant que vous dormez, pendant que vous êtes au travail, lorsque vous êtes avec votre famille. Il ne cesse de trouver votre prochain client.",
+      "category": "Sales & CRM",
       "website": "https://outpace-dfw.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T15:31:48.864915+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T16:33:47.472963+00:00"
     },
     {
       "name": "Frameworthy — Turn Your Photos Into Art",
@@ -127920,6 +127932,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-17T15:31:55.515330+00:00"
+    },
+    {
+      "name": "ClipSauce",
+      "slug": "polsia-clipsauce",
+      "website": "https://clipsauce.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T16:33:29.226109+00:00"
+    },
+    {
+      "name": "Clipmark",
+      "slug": "polsia-clipmark",
+      "website": "https://clipmark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T16:33:29.565127+00:00"
+    },
+    {
+      "name": "CurbRenew",
+      "slug": "polsia-curbrenew",
+      "description": "New England weather does a number on every exterior surface. Rain, snow, humidity, pollen. It builds up so slowly you stop noticing. Then someone pressure washes half your driveway and the contrast hits you.",
+      "description_fr": "La météo en Nouvelle-Angleterre a un impact sur chaque surface extérieure. Pluie, neige, humidité, pollen. Cela s’accumule si lentement que vous ne le remarquez plus. Puis quelqu’un lave sous pression la moitié de votre allée et le contraste vous frappe.",
+      "category": "Other",
+      "website": "https://curbrenew.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T16:33:49.055961+00:00"
+    },
+    {
+      "name": "DriftLoop",
+      "slug": "polsia-driftloop",
+      "description": "Sleep content is the ultimate passive asset. One 10-hour brown noise video generates ad revenue for years. Short-form clips from the same source drive discovery across YouTube Shorts, TikTok, and Reels. The content never goes stale because the need never stops: people sleep every single night.",
+      "description_fr": "Le contenu du sommeil est l’atout passif ultime. Une vidéo de 10 heures sur le bruit brun génère des revenus publicitaires pendant des années. Des clips courts provenant de la même source stimulent la découverte sur YouTube Shorts, TikTok et Reels. Le contenu ne devient jamais obsolète car le besoin ne s'arrête jamais : les gens dorment chaque nuit.",
+      "category": "Entertainment & Media",
+      "website": "https://driftloop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T16:33:30.581412+00:00"
+    },
+    {
+      "name": "Gridpop",
+      "slug": "polsia-gridpop",
+      "description": "Most just don't have the time, the gear, or the know-how to tell it on TikTok and Instagram. That's where Gridpop comes in. We're building the content engine that makes Austin's best-kept secrets impossible to scroll past.",
+      "description_fr": "La plupart n’ont tout simplement pas le temps, l’équipement ou le savoir-faire pour le raconter sur TikTok et Instagram. C'est là que Gridpop entre en jeu. Nous construisons le moteur de contenu qui rend les secrets les mieux gardés d'Austin impossibles à parcourir.",
+      "category": "Entertainment & Media",
+      "website": "https://gridpop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T16:33:31.506996+00:00"
+    },
+    {
+      "name": "Sigint — Autonomous Music Intelligence",
+      "slug": "polsia-sigint",
+      "description": "The gap between a dashboard and an intelligence operation is the difference between knowing your artist gained 50K listeners and knowingwhy, whether it's organic, and what to do next. Sigint closes that gap autonomously.",
+      "description_fr": "L'écart entre un tableau de bord et une opération de renseignement est la différence entre savoir que votre artiste a gagné 50 000 auditeurs et savoir pourquoi, si c'est organique et que faire ensuite. Sigint comble cet écart de manière autonome.",
+      "category": "Software & SaaS",
+      "website": "https://sigint.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T16:33:32.631594+00:00"
+    },
+    {
+      "name": "Built On Tradition — Heritage Restoration & Adaptive Reuse",
+      "slug": "polsia-built-on-tradition",
+      "description": "Reclaimed wood. Hand-selected materials. Custom craftsmanship rooted in Americana tradition. We document every structure before we touch it, create cinematic concept designs so you can see the vision, and then bring it to life with care that volume contractors can't match.",
+      "description_fr": "Bois récupéré. Matériaux sélectionnés à la main. Un savoir-faire personnalisé ancré dans la tradition américaine. Nous documentons chaque structure avant de la toucher, créons des conceptions cinématographiques afin que vous puissiez voir la vision, puis lui donnons vie avec un soin que les entrepreneurs en volume ne peuvent égaler.",
+      "category": "Other",
+      "website": "https://built-on-tradition.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T16:33:33.517206+00:00"
+    },
+    {
+      "name": "StudyBloom — Aesthetic Digital Planners & Templates",
+      "slug": "polsia-studybloom",
+      "description": "StudyBloom designs digital tools that look like something you'd actually want on your desk. No cluttered spreadsheets. No ugly trackers. Just clean, minimal, aesthetically considered templates that make planning feel like self-care.",
+      "description_fr": "StudyBloom conçoit des outils numériques qui ressemblent à quelque chose que vous souhaiteriez réellement avoir sur votre bureau. Pas de feuilles de calcul encombrées. Pas de vilains trackers. Juste des modèles épurés, minimaux et esthétiquement réfléchis qui donnent l’impression que la planification ressemble à un soin personnel.",
+      "category": "Other",
+      "website": "https://studybloom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T16:33:34.456538+00:00"
+    },
+    {
+      "name": "Harpoon — Your AI Sales Agent",
+      "slug": "polsia-harpoon-sales",
+      "description": "The best founders aren't better at cold email. They just have better systems. Harpoon is the system that finds your customers, writes the first message, and puts meetings on your calendar while you focus on building.",
+      "description_fr": "Les meilleurs fondateurs ne sont pas meilleurs en e-mail froid. Ils ont simplement de meilleurs systèmes. Harpoon est le système qui trouve vos clients, rédige le premier message et inscrit les réunions sur votre calendrier pendant que vous vous concentrez sur la construction.",
+      "category": "AI & Machine Learning",
+      "website": "https://harpoon-sales.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T16:33:35.359503+00:00"
+    },
+    {
+      "name": "Textli",
+      "slug": "polsia-primereachai",
+      "description": "Every business that answers phones has this problem. The ones that win are the ones that respond fastest, even when they can't pick up. Textli makes sure no caller walks away empty-handed.",
+      "description_fr": "Toutes les entreprises qui répondent au téléphone ont ce problème. Ceux qui gagnent sont ceux qui réagissent le plus rapidement, même s'ils ne peuvent pas répondre. Textli veille à ce qu'aucun appelant ne reparte les mains vides.",
+      "category": "Other",
+      "website": "https://primereachai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T16:33:36.052987+00:00"
     }
   ]
 }
