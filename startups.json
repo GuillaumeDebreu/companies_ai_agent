@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T21:47:32.210860+00:00",
+  "last_updated": "2026-05-17T22:39:09.750039+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -128474,10 +128474,13 @@
     {
       "name": "BrickSnap",
       "slug": "polsia-bricksnap",
+      "description": "Upload any image and watch AI transform it into a complete LEGO set with every piece identified, step-by-step assembly instructions, and an interactive 3D model you can rotate and explore.",
+      "description_fr": "Téléchargez n'importe quelle image et regardez l'IA la transformer en un ensemble LEGO complet avec chaque pièce identifiée, des instructions d'assemblage étape par étape et un modèle 3D interactif que vous pouvez faire pivoter et explorer.",
+      "category": "AI & Machine Learning",
       "website": "https://bricksnap.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T21:47:18.451104+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T22:39:05.832876+00:00"
     },
     {
       "name": "Paluma",
@@ -128498,18 +128501,24 @@
     {
       "name": "Barrist",
       "slug": "polsia-barrist",
+      "description": "We're building the legal intelligence layer that MENA deserves. Not a Western tool with Arabic bolted on. A platform born from the realities of practicing law across Beirut, Dubai, and beyond.",
+      "description_fr": "Nous construisons le niveau de renseignement juridique que la région MENA mérite. Ce n’est pas un outil occidental avec de l’arabe intégré. Une plateforme née des réalités de la pratique du droit à Beyrouth, Dubaï et au-delà.",
+      "category": "Software & SaaS",
       "website": "https://barrist.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T21:47:19.159786+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T22:39:06.959972+00:00"
     },
     {
       "name": "Revcurrent",
       "slug": "polsia-revcurrent",
+      "description": "Every B2B company needs pipeline. Most can't afford dedicated SDRs. The ones who can still lose them after a year. Revcurrent is the always-on revenue engine that compounds month over month, never burns out, and turns cold leads into booked meetings while you sleep.",
+      "description_fr": "Chaque entreprise B2B a besoin d’un pipeline. La plupart ne peuvent pas se permettre des DTS dédiés. Ceux qui peuvent encore les perdre au bout d’un an. Revcurrent est le moteur de revenus toujours actif qui s'accumule mois après mois, ne s'épuise jamais et transforme les leads froids en réunions réservées pendant que vous dormez.",
+      "category": "Sales & CRM",
       "website": "https://revcurrent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T21:47:19.466194+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T22:39:08.547906+00:00"
     },
     {
       "name": "StatusShop",
@@ -128565,6 +128574,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-17T21:47:32.208124+00:00"
+    },
+    {
+      "name": "AdminGone",
+      "slug": "polsia-admingone",
+      "description": "Every hour you spend on paperwork is an hour your competitor spends winning customers. AdminGone exists because local businesses deserve enterprise-level automation at a price that makes sense. More bookings. Faster replies. Zero busywork.",
+      "description_fr": "Chaque heure que vous consacrez à la paperasse est une heure que votre concurrent consacre à gagner des clients. AdminGone existe parce que les entreprises locales méritent une automatisation au niveau de l'entreprise à un prix logique. Plus de réservations. Des réponses plus rapides. Zéro travail fastidieux.",
+      "category": "Travel & Hospitality",
+      "website": "https://admingone.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T22:39:09.746847+00:00"
+    },
+    {
+      "name": "IronFeed",
+      "slug": "polsia-ironfeed",
+      "description": "You post a perfect weld bead and get buried under dance videos. You share a clean panel install and nobody in your feed understands why it matters. The platforms you use weren't built for you.",
+      "description_fr": "Vous postez un cordon de soudure parfait et vous vous laissez enterrer sous des vidéos de danse. Vous partagez une installation de panneau propre et personne dans votre flux ne comprend pourquoi c'est important. Les plateformes que vous utilisez n'ont pas été conçues pour vous.",
+      "category": "Software & SaaS",
+      "website": "https://ironfeed.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T22:38:48.984878+00:00"
+    },
+    {
+      "name": "Sliceline",
+      "slug": "polsia-sliceline",
+      "description": "Every hour of video you film contains dozens of moments worth sharing. Right now, most of them die on a hard drive. Sliceline exists so none of them have to.",
+      "description_fr": "Chaque heure de vidéo que vous filmez contient des dizaines de moments qui méritent d’être partagés. À l’heure actuelle, la plupart d’entre eux meurent sur un disque dur. Sliceline existe donc aucun d’entre eux n’est obligé de le faire.",
+      "category": "Entertainment & Media",
+      "website": "https://sliceline.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T22:38:50.165029+00:00"
+    },
+    {
+      "name": "HypeRadar",
+      "slug": "polsia-hyperadar",
+      "description": "Every viral moment has a window. Miss it by two hours and you're just another voice in the crowd. HypeRadar makes sure you're never late to the conversation again.",
+      "description_fr": "Chaque moment viral a une fenêtre. Manquez-le de deux heures et vous n'êtes qu'une autre voix dans la foule. HypeRadar s'assure que vous n'êtes plus jamais en retard dans la conversation.",
+      "category": "Other",
+      "website": "https://hyperadar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T22:38:51.260584+00:00"
+    },
+    {
+      "name": "Figments",
+      "slug": "polsia-figments",
+      "description": "Every Discord server, VR world, and gaming community deserves characters that feel alive. Not scripted responses. Not generic chatbots. Real personalities with voice, memory, and soul.",
+      "description_fr": "Chaque serveur Discord, monde VR et communauté de jeu mérite des personnages qui se sentent vivants. Pas de réponses scriptées. Pas de chatbots génériques. De vraies personnalités avec une voix, une mémoire et une âme.",
+      "category": "AI & Machine Learning",
+      "website": "https://figments.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T22:38:52.802083+00:00"
+    },
+    {
+      "name": "IncomeSignal",
+      "slug": "polsia-incomesignal",
+      "description": "A video posted today brings followers next month, subscribers the month after, and affiliate commissions for years. Unlike agencies and client work, this compounds. You are building an asset.",
+      "description_fr": "Une vidéo publiée aujourd'hui rapporte des abonnés le mois prochain, des abonnés le mois suivant et des commissions d'affiliation pendant des années. Contrairement au travail des agences et des clients, cela s’aggrave. Vous construisez un atout.",
+      "category": "Newsletter & Email",
+      "website": "https://incomesignal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T22:38:54.430431+00:00"
+    },
+    {
+      "name": "ReelPump",
+      "slug": "polsia-reelpump",
+      "description": "Every day your business doesn't post, your competitors get the views, the followers, and the customers that could have been yours. ReelPump exists to make sure that stops happening.",
+      "description_fr": "Chaque jour où votre entreprise ne publie pas, vos concurrents obtiennent les vues, les abonnés et les clients qui auraient pu être les vôtres. ReelPump existe pour s'assurer que cela cesse de se produire.",
+      "category": "Other",
+      "website": "https://reelpump.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T22:38:55.511887+00:00"
+    },
+    {
+      "name": "KozmetyxOS",
+      "slug": "polsia-kozmetyxos",
+      "description": "The market doubles by 2030. Clean beauty is no longer optional. Consumers demand transparency, efficacy, and brands that understand their skin. KozmetyxOS gives you the infrastructure to scale while your competitors are still updating spreadsheets.",
+      "description_fr": "Le marché double d’ici 2030. La beauté propre n’est plus une option. Les consommateurs exigent de la transparence, de l’efficacité et des marques qui comprennent leur peau. KozmetyxOS vous offre l'infrastructure nécessaire pour évoluer pendant que vos concurrents mettent encore à jour leurs feuilles de calcul.",
+      "category": "Marketing & Advertising",
+      "website": "https://kozmetyxos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T22:38:56.461474+00:00"
+    },
+    {
+      "name": "ContentLever",
+      "slug": "polsia-contentlever",
+      "description": "More content means more trust. More trust means more leads. More leads means more revenue. That's what ContentLever delivers, month after month, while you focus on running your business.",
+      "description_fr": "Plus de contenu signifie plus de confiance. Plus de confiance signifie plus de prospects. Plus de prospects signifie plus de revenus. C'est ce que ContentLever vous propose, mois après mois, pendant que vous vous concentrez sur la gestion de votre entreprise.",
+      "category": "Sales & CRM",
+      "website": "https://contentlever.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T22:38:57.543175+00:00"
+    },
+    {
+      "name": "Newflipgamemedia",
+      "slug": "polsia-flipgameos",
+      "description": "Most gaming media brands figure out distribution after the fact. Newflipgamemedia was built distribution-first. Every piece of content is engineered to travel across platforms from day one.",
+      "description_fr": "La plupart des marques de médias de jeux déterminent la distribution après coup. Newflipgamemedia a été conçu avant tout pour la distribution. Chaque élément de contenu est conçu pour voyager sur toutes les plateformes dès le premier jour.",
+      "category": "Entertainment & Media",
+      "website": "https://flipgameos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T22:38:59.213436+00:00"
     }
   ]
 }
