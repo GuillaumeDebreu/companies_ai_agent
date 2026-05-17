@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T08:23:21.170782+00:00",
+  "last_updated": "2026-05-17T09:16:51.405515+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -127176,20 +127176,26 @@
       "scraped_at": "2026-05-17T04:20:10.246859+00:00"
     },
     {
-      "name": "MainMotor",
+      "name": "MainMotor — AI Automations for Local Businesses",
       "slug": "polsia-mainmotor",
+      "description": "The big chains have automation teams. They have AI budgets. They have entire departments optimizing every customer touchpoint. MainMotor levels the playing field. Same technology, built for Main Street.",
+      "description_fr": "Les grandes chaînes disposent d’équipes d’automatisation. Ils ont des budgets IA. Ils ont des départements entiers qui optimisent chaque point de contact client. MainMotor uniformise les règles du jeu. Même technologie, conçue pour Main Street.",
+      "category": "AI & Machine Learning",
       "website": "https://mainmotor.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T07:19:28.220125+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T09:16:48.859382+00:00"
     },
     {
       "name": "DreamClash",
       "slug": "polsia-dreamclash",
+      "description": "For years, fans have argued in forums, comment sections, and group chats about who would win. DreamClash gives those arguments a home, a structure, and an AI-powered analysis engine that takes them seriously.",
+      "description_fr": "Pendant des années, les fans se sont disputés dans les forums, les sections de commentaires et les discussions de groupe pour savoir qui gagnerait. DreamClash donne à ces arguments un foyer, une structure et un moteur d'analyse alimenté par l'IA qui les prend au sérieux.",
+      "category": "Social & Community",
       "website": "https://dreamclash.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T07:19:28.552818+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T09:16:49.970767+00:00"
     },
     {
       "name": "Dashwright — AI",
@@ -127203,12 +127209,15 @@
       "scraped_at": "2026-05-17T07:19:30.258468+00:00"
     },
     {
-      "name": "Caliu",
+      "name": "Caliu — Your Rental Properties, Managed Autonomously",
       "slug": "polsia-caliu",
+      "description": "Local festivals, weather patterns, competitor rates, booking velocity. Caliu adjusts your prices based on real signals, not static rules. Your Sant Joan week revenue shouldn't match a random Tuesday in November.",
+      "description_fr": "Festivals locaux, conditions météorologiques, tarifs des concurrents, rapidité des réservations. Caliu ajuste vos prix en fonction de signaux réels et non de règles statiques. Vos revenus hebdomadaires de Sant Joan ne devraient pas correspondre à un mardi aléatoire de novembre.",
+      "category": "Travel & Hospitality",
       "website": "https://caliu.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T07:19:30.477892+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T09:16:51.045930+00:00"
     },
     {
       "name": "FlipClip",
@@ -127275,6 +127284,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-17T07:19:39.013020+00:00"
+    },
+    {
+      "name": "DigiKit",
+      "slug": "polsia-digikit",
+      "website": "https://digikit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T09:16:32.083111+00:00"
+    },
+    {
+      "name": "Batiq",
+      "slug": "polsia-batiq-2",
+      "website": "https://batiq-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T09:16:32.478208+00:00"
+    },
+    {
+      "name": "SpareHound — Find Any Part, Fast",
+      "slug": "polsia-sparehound",
+      "description": "Every online auto parts store gives you a search bar and hopes you know exactly what you need. SpareHound gives you a human who's been in the game, knows what fits, knows who has it, and won't waste your time.",
+      "description_fr": "Chaque magasin de pièces automobiles en ligne vous propose une barre de recherche et espère que vous savez exactement ce dont vous avez besoin. SpareHound vous offre un humain qui a participé au jeu, qui sait ce qui lui convient, qui sait qui l'a et qui ne vous fera pas perdre de temps.",
+      "category": "E-Commerce & Retail",
+      "website": "https://sparehound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T09:16:33.388669+00:00"
+    },
+    {
+      "name": "VividHQ",
+      "slug": "polsia-vividhq",
+      "description": "Multilingual creative agency offering copywriting, graphic design, social media management, and web development across Arabic, English, and French.",
+      "description_fr": "Agence de création multilingue proposant la rédaction, la conception graphique, la gestion des médias sociaux et le développement Web en arabe, anglais et français.",
+      "category": "Marketing & Advertising",
+      "website": "https://vividhq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T09:16:34.138786+00:00"
+    },
+    {
+      "name": "PropPath",
+      "slug": "polsia-proppath",
+      "description": "One setup. One system. Consistent funded accounts. PropPath teaches the strategy, risk management, and psychology that separates the 10% who pass from the 90% who don't.",
+      "description_fr": "Une configuration. Un système. Comptes financés de manière cohérente. PropPath enseigne la stratégie, la gestion des risques et la psychologie qui séparent les 10 % qui réussissent des 90 % qui ne réussissent pas.",
+      "category": "Other",
+      "website": "https://proppath.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T09:16:35.481402+00:00"
+    },
+    {
+      "name": "Maison Maya Sin",
+      "slug": "polsia-maison-maya-sin",
+      "description": "Nous ne fabriquons pas des montres pour tout le monde. Nous créons des objets pour ceux qui comprennent que le vrai luxe réside dans la rareté, la précision et l'authenticité du geste.",
+      "description_fr": "Nous ne fabriquons pas des montres pour tout le monde. Nous créons des objets pour ceux qui comprennent que le vrai luxe réside dans la rareté, la précision et l'authenticité du geste.",
+      "category": "AI & Machine Learning",
+      "website": "https://maison-maya-sin.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T09:16:36.829785+00:00"
+    },
+    {
+      "name": "Helio",
+      "slug": "polsia-heliosales",
+      "website": "https://heliosales.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T09:16:37.174527+00:00"
+    },
+    {
+      "name": "MedicalBillFighter.ai — Stop Overpaying. Fight Back.",
+      "slug": "polsia-billfighteros",
+      "description": "The healthcare billing system was built to be opaque. Chargemaster pricing, CPT code bundling, facility fees buried in line items. It counts on patients being too overwhelmed to look closely. That era is ending. AI levels the playing field, one bill at a time.",
+      "description_fr": "Le système de facturation des soins de santé a été conçu pour être opaque. Tarification Chargemaster, regroupement de codes CPT, frais d'installation enfouis dans les éléments de campagne. Il faut compter sur des patients trop débordés pour y regarder de près. Cette époque touche à sa fin. L’IA uniformise les règles du jeu, une facture à la fois.",
+      "category": "Health & Wellness",
+      "website": "https://billfighteros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T09:16:38.839391+00:00"
+    },
+    {
+      "name": "Waketower — Your AI On",
+      "slug": "polsia-waketower",
+      "description": "Waketower monitors production, diagnoses incidents, and resolves them autonomously. Humans get paged last, not first.",
+      "description_fr": "Waketower surveille la production, diagnostique les incidents et les résout de manière autonome. Les humains sont bipés en dernier, pas en premier.",
+      "category": "AI & Machine Learning",
+      "website": "https://waketower.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T09:16:40.565494+00:00"
+    },
+    {
+      "name": "TradeYard — Barter Goods, Services & Skills With Your Neighbors",
+      "slug": "polsia-tradeyard",
+      "description": "Post what you have, find what you need, trade locally. Try free for 2 days — no card required. Join the neighborhood barter feed.",
+      "description_fr": "Publiez ce que vous avez, trouvez ce dont vous avez besoin, échangez localement. Essayez gratuitement pendant 2 jours – aucune carte requise. Rejoignez le flux de troc du quartier.",
+      "category": "Other",
+      "website": "https://tradeyard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T09:16:42.114242+00:00"
     }
   ]
 }
