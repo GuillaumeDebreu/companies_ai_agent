@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T14:15:33.552591+00:00",
+  "last_updated": "2026-05-17T15:32:04.416630+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -127731,12 +127731,15 @@
       "scraped_at": "2026-05-17T14:15:13.289628+00:00"
     },
     {
-      "name": "AzinoOS",
+      "name": "AzinoOS — The Operating System for AI Automation Agencies",
       "slug": "polsia-azinoos",
+      "description": "AzinoOS is the command center for Azino AI Systems. Pipeline tracking, deployment monitoring, client analytics, and revenue intelligence in one place.",
+      "description_fr": "AzinoOS est le centre de commande d'Azino AI Systems. Suivi du pipeline, surveillance du déploiement, analyse des clients et intelligence des revenus en un seul endroit.",
+      "category": "AI & Machine Learning",
       "website": "https://azinoos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T14:15:13.662272+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T15:32:03.129483+00:00"
     },
     {
       "name": "Fast Research Peptides",
@@ -127825,6 +127828,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-17T14:15:24.414239+00:00"
+    },
+    {
+      "name": "BizWire",
+      "slug": "polsia-bizwire",
+      "website": "https://bizwire.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T15:31:47.676564+00:00"
+    },
+    {
+      "name": "LunaPress",
+      "slug": "polsia-lunapress",
+      "website": "https://lunapress.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T15:31:47.970061+00:00"
+    },
+    {
+      "name": "NicheRamp",
+      "slug": "polsia-nicheramp",
+      "website": "https://nicheramp.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T15:31:48.137559+00:00"
+    },
+    {
+      "name": "TradeClips",
+      "slug": "polsia-tradeclips",
+      "website": "https://tradeclips.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T15:31:48.372693+00:00"
+    },
+    {
+      "name": "StudioPilot",
+      "slug": "polsia-studiopilot-ai",
+      "website": "https://studiopilot-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T15:31:48.536304+00:00"
+    },
+    {
+      "name": "Outpace",
+      "slug": "polsia-outpace-dfw",
+      "website": "https://outpace-dfw.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T15:31:48.864915+00:00"
+    },
+    {
+      "name": "Frameworthy — Turn Your Photos Into Art",
+      "slug": "polsia-frameworthy",
+      "description": "Upload a photo of someone you love, a pet, your home, anything that matters. Choose an art style. We turn it into a framed masterpiece and ship it to your door.",
+      "description_fr": "Téléchargez une photo de quelqu'un que vous aimez, d'un animal de compagnie, de votre maison, de tout ce qui compte. Choisissez un style artistique. Nous le transformons en un chef-d’œuvre encadré et l’expédions à votre porte.",
+      "category": "Marketing & Advertising",
+      "website": "https://frameworthy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T15:31:50.509162+00:00"
+    },
+    {
+      "name": "JobSprout",
+      "slug": "polsia-jobsprout",
+      "description": "Home service pros are the backbone of every neighborhood. You shouldn't need a $15,000/year software platform or a full-time receptionist to keep your phone from going to voicemail. JobSprout exists because the best plumber in town should also be the busiest.",
+      "description_fr": "Les professionnels des services à domicile sont l’épine dorsale de chaque quartier. Vous ne devriez pas avoir besoin d'une plate-forme logicielle à 15 000 $/an ou d'un réceptionniste à temps plein pour empêcher votre téléphone d'accéder à la messagerie vocale. JobSprout existe parce que le meilleur plombier de la ville devrait aussi être le plus occupé.",
+      "category": "Software & SaaS",
+      "website": "https://jobsprout.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T15:31:52.262316+00:00"
+    },
+    {
+      "name": "ShopCrate — Turnkey Digital Product Stores",
+      "slug": "polsia-shopcrate",
+      "description": "ShopCrate exists because the gap between wanting a digital product business and having one shouldn't require months of learning, thousands in courses, or tech skills you don't have. We build the store. You sell the dream.",
+      "description_fr": "ShopCrate existe parce que l'écart entre vouloir une entreprise de produits numériques et en avoir une ne devrait pas nécessiter des mois d'apprentissage, des milliers de cours ou des compétences techniques que vous n'avez pas. Nous construisons le magasin. Vous vendez du rêve.",
+      "category": "E-Commerce & Retail",
+      "website": "https://shopcrate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T15:31:53.762859+00:00"
+    },
+    {
+      "name": "LotBot",
+      "slug": "polsia-lotbot",
+      "description": "While your competition routes calls to voicemail and lets Facebook messages sit for hours, LotBot is booking appointments. Every lead, every channel, every hour of every day. The lot that never sleeps is the lot that sells more cars.",
+      "description_fr": "Pendant que vos concurrents acheminent les appels vers la messagerie vocale et laissent les messages Facebook reposer pendant des heures, LotBot prend des rendez-vous. Chaque piste, chaque canal, chaque heure de chaque journée. Celui qui ne dort jamais est celui qui vend le plus de voitures.",
+      "category": "Sales & CRM",
+      "website": "https://lotbot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T15:31:55.515330+00:00"
     }
   ]
 }
