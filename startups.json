@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T16:33:49.058938+00:00",
+  "last_updated": "2026-05-17T17:37:58.028464+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -127936,10 +127936,13 @@
     {
       "name": "ClipSauce",
       "slug": "polsia-clipsauce",
+      "description": "Upload raw gameplay. Pick a style. Get back a TikTok-ready montage with beat-synced transitions, effects, and captions. No editing skills needed.",
+      "description_fr": "Téléchargez un gameplay brut. Choisissez un style. Récupérez un montage prêt pour TikTok avec des transitions, des effets et des légendes synchronisés avec le rythme. Aucune compétence d'édition requise.",
+      "category": "Marketing & Advertising",
       "website": "https://clipsauce.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T16:33:29.226109+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-17T17:37:57.132785+00:00"
     },
     {
       "name": "Clipmark",
@@ -128036,6 +128039,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-17T16:33:36.052987+00:00"
+    },
+    {
+      "name": "KC's Crates",
+      "slug": "polsia-kcs-crates",
+      "website": "https://kcs-crates.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T17:37:39.047548+00:00"
+    },
+    {
+      "name": "DeployOS",
+      "slug": "polsia-deployos-2",
+      "website": "https://deployos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T17:37:39.442377+00:00"
+    },
+    {
+      "name": "TB Cutsz",
+      "slug": "polsia-tb-cutsz",
+      "website": "https://tb-cutsz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-17T17:37:39.800034+00:00"
+    },
+    {
+      "name": "Splyce Studio",
+      "slug": "polsia-splyce-studio",
+      "description": "We don't study TikTok trends from a marketing textbook. We grew up on these platforms. We know what hits because we live in the feed.",
+      "description_fr": "Nous n'étudions pas les tendances TikTok à partir d'un manuel de marketing. Nous avons grandi sur ces plateformes. Nous savons ce qui frappe parce que nous vivons dans le flux.",
+      "category": "Software & SaaS",
+      "website": "https://splyce-studio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T17:37:41.528337+00:00"
+    },
+    {
+      "name": "StreetClip — Short",
+      "slug": "polsia-streetclip",
+      "description": "The best shops, the best food, the best services in Nashville shouldn't lose customers to businesses with bigger marketing budgets. They should win because their work is great. StreetClip makes sure people actually see it.",
+      "description_fr": "Les meilleurs magasins, la meilleure nourriture, les meilleurs services de Nashville ne devraient pas perdre de clients au profit d'entreprises disposant de budgets marketing plus importants. Ils devraient gagner parce que leur travail est formidable. StreetClip s'assure que les gens le voient réellement.",
+      "category": "E-Commerce & Retail",
+      "website": "https://streetclip.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T17:37:43.074426+00:00"
+    },
+    {
+      "name": "ExtropyOS — The Operating System for Verified Entropy Reduction",
+      "slug": "polsia-extropyos",
+      "description": "Three albums of systems theory disguised as sound. A book that is a field manual for surviving a glitched culture. Academic papers that formalize the framework. Music, writing, and software as recursive expressions of the same idea:entropy is the default, extropy is the choice.",
+      "description_fr": "Trois albums de théorie des systèmes déguisés en son. Un livre qui est un manuel de terrain pour survivre à une culture défectueuse. Articles académiques qui formalisent le cadre. La musique, l'écriture et les logiciels sont des expressions récursives de la même idée : l'entropie est la valeur par défaut, l'extropie est le choix.",
+      "category": "Software & SaaS",
+      "website": "https://extropyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T17:37:44.450135+00:00"
+    },
+    {
+      "name": "Chophouse Media",
+      "slug": "polsia-chophouse-media",
+      "description": "We edit TikToks, Reels, and Shorts for local businesses who need consistent content but don't have time to make it.",
+      "description_fr": "Nous éditons des TikToks, des Reels et des Shorts pour les entreprises locales qui ont besoin d'un contenu cohérent mais qui n'ont pas le temps de le créer.",
+      "category": "Entertainment & Media",
+      "website": "https://chophouse-media.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T17:37:45.978991+00:00"
+    },
+    {
+      "name": "North Point Air",
+      "slug": "polsia-north-point-air",
+      "description": "Standard aerial photography and FPV interior flythroughs for homes, real estate, and businesses in the Minneapolis-St. Paul metro area.",
+      "description_fr": "Photographie aérienne standard et survols intérieurs FPV pour les maisons, l'immobilier et les entreprises de Minneapolis-St. Région métropolitaine de Paul.",
+      "category": "AI & Machine Learning",
+      "website": "https://north-point-air.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T17:37:47.740069+00:00"
+    },
+    {
+      "name": "TurfCommand",
+      "slug": "polsia-turfcommand",
+      "description": "TurfCommand is founded by a detective and National Guard veteran who brings the same precision, accountability, and professionalism to your property that he brought to serving his country and community.",
+      "description_fr": "TurfCommand est fondée par un détective et vétéran de la Garde nationale qui apporte à votre propriété la même précision, la même responsabilité et le même professionnalisme qu'il a mis au service de son pays et de sa communauté.",
+      "category": "Real Estate",
+      "website": "https://turfcommand.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T17:37:48.321443+00:00"
+    },
+    {
+      "name": "FrameGame",
+      "slug": "polsia-framegame",
+      "description": "FrameGame is youth sports media, built in Jacksonville, FL. We show up to your games, capture the moments that matter, and turn them into content that opens doors.",
+      "description_fr": "FrameGame est un média sportif pour les jeunes, créé à Jacksonville, en Floride. Nous assistons à vos jeux, capturons les moments qui comptent et les transformons en contenu qui ouvre des portes.",
+      "category": "Entertainment & Media",
+      "website": "https://framegame.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-17T17:37:49.651889+00:00"
     }
   ]
 }
