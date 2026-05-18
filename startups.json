@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T17:09:30.245535+00:00",
+  "last_updated": "2026-05-18T19:03:18.636292+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -129229,10 +129229,13 @@
     {
       "name": "NichePipe",
       "slug": "polsia-nichepipe",
+      "description": "AI changed what one operator can deliver. NichePipe packages that power into outcomes local businesses actually care about: more calls, more bookings, more revenue. No locked contracts. No templated garbage. Just a pipeline that works.",
+      "description_fr": "L’IA a changé ce qu’un opérateur peut offrir. Les packages NichePipe qui génèrent des résultats qui intéressent réellement les entreprises locales : plus d'appels, plus de réservations, plus de revenus. Pas de contrats verrouillés. Pas de déchets modélisés. Juste un pipeline qui fonctionne.",
+      "category": "AI & Machine Learning",
       "website": "https://nichepipe.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-18T17:09:13.427760+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-18T19:03:16.135145+00:00"
     },
     {
       "name": "TimedorusOS",
@@ -129329,6 +129332,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-18T17:09:21.975780+00:00"
+    },
+    {
+      "name": "Practiq",
+      "slug": "polsia-practiq-5",
+      "website": "https://practiq-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T19:02:59.236821+00:00"
+    },
+    {
+      "name": "Voxlit",
+      "slug": "polsia-voxlit",
+      "website": "https://voxlit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T19:02:59.602162+00:00"
+    },
+    {
+      "name": "ProfitPilot — Your AI Collections Agent",
+      "slug": "polsia-profitpilot-5",
+      "description": "ProfitPilot sends invoices, writes personalized follow-ups, escalates overdue accounts, and reports on your cash flow. Like hiring a collections employee that works 24/7 and never forgets.",
+      "description_fr": "ProfitPilot envoie des factures, rédige des suivis personnalisés, escalade les comptes en souffrance et crée des rapports sur votre flux de trésorerie. C’est comme embaucher un employé de recouvrement qui travaille 24 heures sur 24 et 7 jours sur 7 et qui n’oublie jamais.",
+      "category": "AI & Machine Learning",
+      "website": "https://profitpilot-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T19:03:18.633612+00:00"
+    },
+    {
+      "name": "SwiftLeads",
+      "slug": "polsia-swiftleads",
+      "description": "Local lead generation for service businesses. Landing page, Google Ads, and 10+ verified warm leads delivered in 72 hours. $1,000 flat fee.",
+      "description_fr": "Génération de leads locaux pour les entreprises de services. Page de destination, Google Ads et plus de 10 leads chaleureux vérifiés livrés en 72 heures. Frais forfaitaires de 1 000 $.",
+      "category": "Marketing & Advertising",
+      "website": "https://swiftleads.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T19:03:01.527771+00:00"
+    },
+    {
+      "name": "ChatHook — Never Lose a Lead After Hours Again",
+      "slug": "polsia-chathook",
+      "description": "South Africa has 27 million WhatsApp users. Your next customer is already typing a message. The only question is whether your business answers first, or your competitor does.",
+      "description_fr": "L'Afrique du Sud compte 27 millions d'utilisateurs de WhatsApp. Votre prochain client est déjà en train de taper un message. La seule question est de savoir si votre entreprise répond en premier ou si votre concurrent le fait.",
+      "category": "Marketing & Advertising",
+      "website": "https://chathook.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T19:03:02.661593+00:00"
+    },
+    {
+      "name": "TillSnap",
+      "slug": "polsia-tillsnap",
+      "description": "South Africa's spaza shops and convenience stores are the backbone of their communities. They employ 200,000 people and move billions in goods every year. But most owners still track inventory in notebooks, count cash by hand, and guess what to restock.",
+      "description_fr": "Les magasins spaza et les supérettes d'Afrique du Sud constituent l'épine dorsale de leurs communautés. Ils emploient 200 000 personnes et transportent des milliards de marchandises chaque année. Mais la plupart des propriétaires continuent de suivre les stocks dans des cahiers, de compter les espèces à la main et de deviner quoi réapprovisionner.",
+      "category": "E-Commerce & Retail",
+      "website": "https://tillsnap.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T19:03:03.283743+00:00"
+    },
+    {
+      "name": "Vendora — Your AI Back Office, Always On",
+      "slug": "polsia-vendora-ai-55",
+      "description": "Vendora is an autonomous AI agent that handles inventory, invoicing, payment follow-ups, and customer support for small businesses across Lagos and beyond.",
+      "description_fr": "Vendora est un agent d'IA autonome qui gère l'inventaire, la facturation, le suivi des paiements et le support client pour les petites entreprises de Lagos et au-delà.",
+      "category": "AI & Machine Learning",
+      "website": "https://vendora-ai-55.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T19:03:04.615706+00:00"
+    },
+    {
+      "name": "Craftlet — AI Micro",
+      "slug": "polsia-craftlet",
+      "description": "Property inspectors spend 2-4 hours writing each report manually. Upload photos, add notes, get a professional report in minutes. Not a template filler. An AI that understands building codes, defect categories, and client expectations.",
+      "description_fr": "Les inspecteurs immobiliers passent 2 à 4 heures à rédiger manuellement chaque rapport. Téléchargez des photos, ajoutez des notes, obtenez un rapport professionnel en quelques minutes. Pas un remplisseur de modèles. Une IA qui comprend les codes du bâtiment, les catégories de défauts et les attentes des clients.",
+      "category": "AI & Machine Learning",
+      "website": "https://craftlet.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T19:03:05.834627+00:00"
+    },
+    {
+      "name": "Voituro — Your AI Dispatch Agent",
+      "slug": "polsia-voituro",
+      "description": "The big platforms have armies of engineers optimizing dispatch. You have yourself and a phone. Voituro levels the playing field. Zero commissions. Full control. AI that works for you, not the platform.",
+      "description_fr": "Les grandes plates-formes disposent d’armées d’ingénieurs qui optimisent la répartition. Vous avez vous-même et un téléphone. Voituro uniformise les règles du jeu. Zéro commission. Contrôle total. Une IA qui fonctionne pour vous, pas pour la plateforme.",
+      "category": "AI & Machine Learning",
+      "website": "https://voituro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T19:03:07.586933+00:00"
+    },
+    {
+      "name": "TrueWall — Drywall & Painting, Nashville TN",
+      "slug": "polsia-truewall",
+      "description": "Nashville needs contractors who can keep pace with the growth, not just chase jobs on Thumbtack. TrueWall is built to serve the builders, property managers, and homeowners driving this city forward.",
+      "description_fr": "Nashville a besoin d'entrepreneurs capables de suivre le rythme de la croissance, et pas seulement de rechercher des emplois sur Thumbtack. TrueWall est conçu pour servir les constructeurs, les gestionnaires immobiliers et les propriétaires qui font avancer cette ville.",
+      "category": "Travel & Hospitality",
+      "website": "https://truewall.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T19:03:09.294477+00:00"
     }
   ]
 }
