@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T10:23:45.002324+00:00",
+  "last_updated": "2026-05-18T14:05:22.475580+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -129015,10 +129015,13 @@
     {
       "name": "AuditArmor",
       "slug": "polsia-auditarmor",
+      "description": "AuditArmor intercepts LLM-generated content in real time, catches hallucinations and regulatory violations, and builds tamper-proof audit trails your legal team will actually trust.",
+      "description_fr": "AuditArmor intercepte le contenu généré par LLM en temps réel, détecte les hallucinations et les violations de la réglementation et crée des pistes d'audit infalsifiables auxquelles votre équipe juridique fera réellement confiance.",
+      "category": "AI & Machine Learning",
       "website": "https://auditarmor.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-18T10:23:22.378627+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-18T14:05:22.099844+00:00"
     },
     {
       "name": "ShopGram",
@@ -129118,6 +129121,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-18T10:23:35.280728+00:00"
+    },
+    {
+      "name": "Kinetiqa",
+      "slug": "polsia-kinetiqa",
+      "website": "https://kinetiqa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T14:05:13.063825+00:00"
+    },
+    {
+      "name": "MeritMind",
+      "slug": "polsia-meritmind-6",
+      "website": "https://meritmind-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T14:05:13.261941+00:00"
+    },
+    {
+      "name": "CreativeFuel",
+      "slug": "polsia-creativefuel",
+      "website": "https://creativefuel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T14:05:13.461284+00:00"
+    },
+    {
+      "name": "SnappOS",
+      "slug": "polsia-snappos",
+      "website": "https://snappos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T14:05:13.541814+00:00"
+    },
+    {
+      "name": "Cresceo",
+      "slug": "polsia-cresceo",
+      "website": "https://cresceo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T14:05:13.671379+00:00"
+    },
+    {
+      "name": "Outpost",
+      "slug": "polsia-outpost-ai-25",
+      "website": "https://outpost-ai-25.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T14:05:13.742253+00:00"
+    },
+    {
+      "name": "KlientAI",
+      "slug": "polsia-klientai",
+      "description": "While you're busy running your business, potential customers are messaging and moving on. KlientAI makes sure no lead falls through the cracks. AI works while you sleep, so your business never stops growing.",
+      "description_fr": "Pendant que vous êtes occupé à gérer votre entreprise, des clients potentiels envoient des messages et passent à autre chose. KlientAI s'assure qu'aucun plomb ne passe entre les mailles du filet. L'IA fonctionne pendant que vous dormez, afin que votre entreprise ne cesse de croître.",
+      "category": "AI & Machine Learning",
+      "website": "https://klientai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T14:05:14.904733+00:00"
+    },
+    {
+      "name": "Moodrift — Virtual Interior Styling for Gen Z",
+      "slug": "polsia-moodrift",
+      "description": "Moodrift crafts personalized room designs for people who care about aesthetics but not about blowing their budget. Moodboards, styling plans, and AI-powered visualizations, all delivered digitally.",
+      "description_fr": "Moodrift crée des conceptions de chambres personnalisées pour les personnes qui se soucient de l'esthétique mais qui ne veulent pas exploser leur budget. Des moodboards, des plans de style et des visualisations basées sur l'IA, tous livrés sous forme numérique.",
+      "category": "AI & Machine Learning",
+      "website": "https://moodrift.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T14:05:16.113433+00:00"
+    },
+    {
+      "name": "WattGuard",
+      "slug": "polsia-wattguard",
+      "description": "Most providers label their energy as \"Okostrom\" by purchasing cheap Herkunftsnachweise (origin certificates). They never fund a single wind turbine or solar panel. The Robin Wood report confirms: the majority of green tariffs in Germany are cosmetic.",
+      "description_fr": "La plupart des fournisseurs qualifient leur énergie de « Okostrom » en achetant des Herkunftsnachweise (certificats d'origine) bon marché. Ils ne financent jamais une seule éolienne ou un seul panneau solaire. Le rapport Robin Wood le confirme : la majorité des tarifs verts en Allemagne sont cosmétiques.",
+      "category": "Sustainability & Green",
+      "website": "https://wattguard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T14:05:17.227177+00:00"
+    },
+    {
+      "name": "Cofre — Banking for Autonomous Businesses",
+      "slug": "polsia-cofre",
+      "description": "Cofre is built from first principles for companies where AI handles operations. Financial controls that are programmatic. Approvals that are logic-based. Reporting that generates itself.",
+      "description_fr": "Cofre est construit à partir des premiers principes pour les entreprises où l'IA gère les opérations. Contrôles financiers programmatiques. Des approbations basées sur la logique. Un reporting qui se génère tout seul.",
+      "category": "AI & Machine Learning",
+      "website": "https://cofre.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T14:05:18.563807+00:00"
     }
   ]
 }
