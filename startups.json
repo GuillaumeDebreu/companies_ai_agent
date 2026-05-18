@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T23:41:21.788462+00:00",
+  "last_updated": "2026-05-18T01:50:39.057550+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -128686,20 +128686,26 @@
       "scraped_at": "2026-05-17T22:38:59.213436+00:00"
     },
     {
-      "name": "ScaleWorks",
+      "name": "ScaleWorks — AI Automation for Local Businesses",
       "slug": "polsia-scaleworks",
+      "description": "Most can't implement them. They bought the software, watched the webinar, and the tools sit unused. Not because the tools are bad. Because running a business and learning automation are two full-time jobs.",
+      "description_fr": "La plupart ne peuvent pas les mettre en œuvre. Ils ont acheté le logiciel, regardé le webinaire et les outils restent inutilisés. Pas parce que les outils sont mauvais. Parce que gérer une entreprise et automatiser l’apprentissage sont deux emplois à temps plein.",
+      "category": "AI & Machine Learning",
       "website": "https://scaleworks.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T23:41:07.294205+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:33.585706+00:00"
     },
     {
       "name": "LuxeRun",
       "slug": "polsia-luxerun",
+      "description": "LuxeRun eliminates all of it. Not with a gig worker who shows up late. With a dedicated concierge who knows your preferences, anticipates your needs, and handles everything with the precision you expect from the rest of your life.",
+      "description_fr": "LuxeRun élimine tout cela. Pas avec un travailleur de concert qui arrive en retard. Avec un concierge dédié qui connaît vos préférences, anticipe vos besoins et gère tout avec la précision que vous attendez du reste de votre vie.",
+      "category": "Other",
       "website": "https://luxerun.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T23:41:07.511737+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:35.409713+00:00"
     },
     {
       "name": "LockedIn",
@@ -128720,10 +128726,13 @@
     {
       "name": "Keepstead",
       "slug": "polsia-keepstead",
+      "description": "Built for Florida. Keepstead monitors tropical weather, activates your hurricane checklist when a system forms, coordinates shutter installation, and tracks your insurance documentation. When the season comes, you're already prepared.",
+      "description_fr": "Construit pour la Floride. Keepstead surveille le temps tropical, active votre liste de contrôle en cas d'ouragan lorsqu'un système se forme, coordonne l'installation des volets et suit vos documents d'assurance. Lorsque la saison arrive, vous êtes déjà prêt.",
+      "category": "Marketing & Advertising",
       "website": "https://keepstead.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-17T23:41:08.461218+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:37.578884+00:00"
     },
     {
       "name": "Coldspark",
@@ -128776,6 +128785,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-17T23:41:21.785563+00:00"
+    },
+    {
+      "name": "Opra — Your AI Back Office",
+      "slug": "polsia-opra-ai",
+      "description": "Scheduling. Invoicing. Chasing payments. Responding to inquiries. Posting on social media. Managing reviews. You didn't start your business to sit at a desk. You started it to do the work you love.",
+      "description_fr": "Planification. Facturation. À la poursuite des paiements. Répondre aux demandes de renseignements. Publication sur les réseaux sociaux. Gestion des avis. Vous n'avez pas démarré votre entreprise pour vous asseoir à un bureau. Vous l'avez commencé pour faire le travail que vous aimez.",
+      "category": "AI & Machine Learning",
+      "website": "https://opra-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:39.054471+00:00"
+    },
+    {
+      "name": "Altruio — Autonomous Fundraising for Nonprofits",
+      "slug": "polsia-altruio",
+      "description": "Weekly summaries of what it did, what worked, and what it plans next. You review outcomes, not manage process. Like having a Director of Development who sends you updates.",
+      "description_fr": "Résumés hebdomadaires de ce qu'il a fait, de ce qui a fonctionné et de ce qu'il prévoit ensuite. Vous examinez les résultats, vous ne gérez pas le processus. C’est comme avoir un directeur du développement qui vous envoie des mises à jour.",
+      "category": "Other",
+      "website": "https://altruio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:15.738259+00:00"
+    },
+    {
+      "name": "InstaLead",
+      "slug": "polsia-instalead",
+      "description": "InstaLead installs AI systems that answer every call, text back every missed lead, and book appointments automatically. Your calendar stays full. You stop losing money.",
+      "description_fr": "InstaLead installe des systèmes d'IA qui répondent à chaque appel, répondent par SMS à chaque prospect manqué et prennent automatiquement des rendez-vous. Votre calendrier reste plein. Vous arrêtez de perdre de l'argent.",
+      "category": "AI & Machine Learning",
+      "website": "https://instalead.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:17.312547+00:00"
+    },
+    {
+      "name": "LeadTier",
+      "slug": "polsia-leadtier",
+      "description": "The lead generation industry sells volume. We sell signal. Every lead that moves through LeadTier carries a score, a tier, and a price that reflects its actual conversion potential. No more paying $150 for a renter who's \"just looking.\"",
+      "description_fr": "L’industrie de la génération de leads vend du volume. Nous vendons du signal. Chaque prospect qui passe par LeadTier comporte un score, un niveau et un prix qui reflètent son potentiel de conversion réel. Plus besoin de payer 150 $ pour un locataire qui « cherche juste ».",
+      "category": "Marketing & Advertising",
+      "website": "https://leadtier.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:18.950421+00:00"
+    },
+    {
+      "name": "FleetFlex",
+      "slug": "polsia-fleetflex",
+      "description": "FleetFlex is building a world where getting behind the wheel doesn't mean getting locked into a 6-year loan, where your car adapts to your life instead of the other way around, and where reliable transportation isn't a privilege reserved for people who live in the right zip code.",
+      "description_fr": "FleetFlex construit un monde où prendre le volant ne signifie pas être obligé d'emprunter sur 6 ans, où votre voiture s'adapte à votre vie plutôt que l'inverse, et où un transport fiable n'est pas un privilège réservé aux personnes qui vivent dans le bon code postal.",
+      "category": "Marketing & Advertising",
+      "website": "https://fleetflex.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:19.503956+00:00"
+    },
+    {
+      "name": "Porchlight — Your AI Path to Homeownership",
+      "slug": "polsia-porchlight-45",
+      "description": "Porchlight uses AI to guide renters to homeownership. Find down payment assistance, optimize your credit, and get matched with the right programs.",
+      "description_fr": "Porchlight utilise l'IA pour guider les locataires vers l'accession à la propriété. Trouvez une aide au versement initial, optimisez votre crédit et soyez jumelé aux bons programmes.",
+      "category": "AI & Machine Learning",
+      "website": "https://porchlight-45.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:20.469559+00:00"
+    },
+    {
+      "name": "PorchLight",
+      "slug": "polsia-theporchlight",
+      "description": "Your block isn't \"Providence.\" It's the coffee shop that just changed owners, the road that's been torn up for weeks, the farmer's market that moved to Thursdays. That's the news that matters. And nobody's covering it.",
+      "description_fr": "Votre blocage n'est pas \"Providence\". C'est le café qui vient de changer de propriétaire, la route qui a été détruite pendant des semaines, le marché fermier qui a déménagé le jeudi. C'est l'actualité qui compte. Et personne ne le couvre.",
+      "category": "E-Commerce & Retail",
+      "website": "https://theporchlight.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:21.849022+00:00"
+    },
+    {
+      "name": "Postworks — AI Content Systems That Run Themselves",
+      "slug": "polsia-postworks",
+      "description": "Postworks turns AI into your always-on content department. We build the pipeline, operate the system, and deliver daily posts — so you can focus on growing your business instead of feeding the algorithm.",
+      "description_fr": "Postworks transforme l'IA en votre service de contenu permanent. Nous construisons le pipeline, exploitons le système et publions des publications quotidiennes afin que vous puissiez vous concentrer sur la croissance de votre entreprise au lieu d'alimenter l'algorithme.",
+      "category": "AI & Machine Learning",
+      "website": "https://postworks.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:23.475570+00:00"
+    },
+    {
+      "name": "PixelGoods",
+      "slug": "polsia-pixelgoods",
+      "description": "The market is drowning in \"minimalist planners\" and \"basic budget trackers.\" We build hyper-specific digital products that solve real problems for real people. Less competition, higher prices, loyal buyers.",
+      "description_fr": "Le marché croule sous les « planificateurs minimalistes » et les « outils de suivi budgétaire de base ». Nous construisons des produits numériques hyper-spécifiques qui résolvent de vrais problèmes pour de vraies personnes. Moins de concurrence, des prix plus élevés, des acheteurs fidèles.",
+      "category": "Other",
+      "website": "https://pixelgoods.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:25.087904+00:00"
+    },
+    {
+      "name": "Torchflow",
+      "slug": "polsia-torchflow",
+      "description": "Torchflow exists because small businesses shouldn't lose customers to slow response times. AI handles the speed. You handle the craft. Together, nothing falls through the cracks.",
+      "description_fr": "Torchflow existe parce que les petites entreprises ne devraient pas perdre de clients en raison de temps de réponse lents. L'IA gère la vitesse. Vous manipulez le métier. Ensemble, rien ne passe entre les mailles du filet.",
+      "category": "AI & Machine Learning",
+      "website": "https://torchflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T01:50:26.035464+00:00"
     }
   ]
 }
