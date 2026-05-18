@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T20:42:52.125360+00:00",
+  "last_updated": "2026-05-18T21:52:50.871787+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -129457,26 +129457,35 @@
     {
       "name": "Waymark Logistics",
       "slug": "polsia-waymark-logistics",
+      "description": "Residential junk removal, apartment cleanouts, and furniture hauling in Mount Vernon, Yonkers, the Bronx, Harlem, and Lower Westchester.",
+      "description_fr": "Enlèvement des déchets résidentiels, nettoyage des appartements et transport de meubles à Mount Vernon, Yonkers, le Bronx, Harlem et Lower Westchester.",
+      "category": "Real Estate",
       "website": "https://waymark-logistics.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-18T20:42:35.909408+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-18T21:52:47.802333+00:00"
     },
     {
       "name": "CrewPilot",
       "slug": "polsia-crew-pilot-33",
+      "description": "CrewPilot is building toward a world where a two-person HVAC company operates with the efficiency of a 50-person operation. Where every call gets answered, every job gets scheduled, and every invoice gets paid. Autonomously.",
+      "description_fr": "CrewPilot se dirige vers un monde dans lequel une entreprise de CVC composée de deux personnes opère avec l'efficacité d'une entreprise de 50 personnes. Où chaque appel reçoit une réponse, chaque travail est planifié et chaque facture est payée. De manière autonome.",
+      "category": "Finance & Fintech",
       "website": "https://crew-pilot-33.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-18T20:42:36.078977+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-18T21:52:48.931474+00:00"
     },
     {
-      "name": "AerialForge",
+      "name": "AerialForge — Build Rocket League Bots Without the Grind",
       "slug": "polsia-aerialforge",
+      "description": "AI-powered offline Rocket League bot creator studio. Pick a playstyle, choose mechanics, generate your RLBot project. Built on RLBot, RLGym, and RocketSim.",
+      "description_fr": "Studio de création de bots Rocket League hors ligne alimenté par l'IA. Choisissez un style de jeu, choisissez des mécanismes, générez votre projet RLBot. Construit sur RLBot, RLGym et RocketSim.",
+      "category": "AI & Machine Learning",
       "website": "https://aerialforge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-18T20:42:36.144673+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-18T21:52:50.369609+00:00"
     },
     {
       "name": "CrewPilot",
@@ -129543,6 +129552,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-18T20:42:43.522990+00:00"
+    },
+    {
+      "name": "Wicked Rodeo Company",
+      "slug": "polsia-wicked-rodeo",
+      "website": "https://wicked-rodeo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T21:52:35.766397+00:00"
+    },
+    {
+      "name": "Forge Fatherhood",
+      "slug": "polsia-forge-fatherhood",
+      "website": "https://forge-fatherhood.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T21:52:36.322007+00:00"
+    },
+    {
+      "name": "SalonForge",
+      "slug": "polsia-salonforge",
+      "website": "https://salonforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T21:52:36.536258+00:00"
+    },
+    {
+      "name": "FilmLocal",
+      "slug": "polsia-filmlocal",
+      "website": "https://filmlocal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T21:52:36.911639+00:00"
+    },
+    {
+      "name": "SellCopy — AI Listings That Actually Sell",
+      "slug": "polsia-sellcopy",
+      "description": "SellCopy exists because marketplace sellers shouldn't need to be copywriters to compete. Better descriptions, better rankings, better sales. That's it.",
+      "description_fr": "SellCopy existe parce que les vendeurs du marché ne devraient pas avoir besoin d'être rédacteurs pour être compétitifs. De meilleures descriptions, de meilleurs classements, de meilleures ventes. C'est ça.",
+      "category": "AI & Machine Learning",
+      "website": "https://sellcopy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T21:52:37.643684+00:00"
+    },
+    {
+      "name": "GustoMap",
+      "slug": "polsia-gustomap",
+      "website": "https://gustomap.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-18T21:52:37.933492+00:00"
+    },
+    {
+      "name": "Kenzly — Curated Commerce for the Modern Market",
+      "slug": "polsia-kenzly",
+      "description": "The MENA market is flooded with generic marketplaces selling everything to everyone. Kenzly takes the opposite approach: fewer products, better margins, stronger brand. Every item is selected for its niche appeal, repeat purchase potential, and 60%+ gross margin.",
+      "description_fr": "Le marché MENA est inondé de marchés génériques vendant de tout à tout le monde. Kenzly adopte l'approche inverse : moins de produits, de meilleures marges, une marque plus forte. Chaque article est sélectionné pour son attrait de niche, son potentiel d'achat répété et sa marge brute de plus de 60 %.",
+      "category": "E-Commerce & Retail",
+      "website": "https://kenzly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T21:52:38.563080+00:00"
+    },
+    {
+      "name": "GridSentinel — AI That Guards Your Infrastructure",
+      "slug": "polsia-gridsentinel",
+      "description": "GridSentinel is an AI operations agent for banks and financial institutions. It monitors your networks, diagnoses failures, and fixes problems autonomously, so your team doesn't get the 2AM call.",
+      "description_fr": "GridSentinel est un agent d'opérations d'IA pour les banques et les institutions financières. Il surveille vos réseaux, diagnostique les pannes et résout les problèmes de manière autonome, afin que votre équipe ne reçoive pas l'appel à 2 heures du matin.",
+      "category": "AI & Machine Learning",
+      "website": "https://gridsentinel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T21:52:39.194000+00:00"
+    },
+    {
+      "name": "KitArena",
+      "slug": "polsia-kitarena",
+      "description": "Tenues de football et basketball pour tous les âges. Qualité professionnelle, prix accessibles. Ouagadougou, Burkina Faso.",
+      "description_fr": "Tenues de football et basket pour tous les âges. Qualité professionnelle, prix accessible. Ouagadougou, Burkina Faso.",
+      "category": "Other",
+      "website": "https://kitarena.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T21:52:40.867156+00:00"
+    },
+    {
+      "name": "Cashira — Your AI Payment Agent",
+      "slug": "polsia-getcashira",
+      "description": "Every hour you spend chasing payments is an hour stolen from growing your business. Cashira gives that time back. An AI agent that works 24/7, never forgets a follow-up, and never feels awkward asking for what you're owed.",
+      "description_fr": "Chaque heure que vous passez à rechercher des paiements est une heure volée au développement de votre entreprise. Cashira rend ce temps. Un agent IA qui travaille 24h/24 et 7j/7, n'oublie jamais un suivi et ne se sent jamais gêné de demander ce qui vous est dû.",
+      "category": "AI & Machine Learning",
+      "website": "https://getcashira.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-18T21:52:42.141786+00:00"
     }
   ]
 }
