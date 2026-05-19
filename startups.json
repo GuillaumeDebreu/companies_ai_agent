@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T19:53:36.398396+00:00",
+  "last_updated": "2026-05-19T20:57:33.549820+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -130416,12 +130416,15 @@
       "scraped_at": "2026-05-19T17:17:36.510820+00:00"
     },
     {
-      "name": "Salon Stockroom",
+      "name": "Salon Stockroom — The Career Box for Beauty Pros",
       "slug": "polsia-salon-stockroom",
+      "description": "Every box includes digital resources you can use immediately. Client consultation forms ready to print. Social media captions ready to post. Business templates ready to customize. Mini courses ready to watch.",
+      "description_fr": "Chaque coffret comprend des ressources numériques que vous pouvez utiliser immédiatement. Formulaires de consultation client prêts à imprimer. Légendes des réseaux sociaux prêtes à être publiées. Modèles professionnels prêts à être personnalisés. Mini cours prêts à regarder.",
+      "category": "Marketing & Advertising",
       "website": "https://salon-stockroom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T19:21:15.288522+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T20:57:31.600662+00:00"
     },
     {
       "name": "SlotStorm",
@@ -130432,12 +130435,15 @@
       "scraped_at": "2026-05-19T19:21:15.512418+00:00"
     },
     {
-      "name": "LifeRaft",
+      "name": "LifeRaft — Your financial survival system",
       "slug": "polsia-liferaft",
+      "description": "LifeRaft is the operating system for people living on the edge. Benefits, cash flow, bills, jobs, aid programs, all in one place. Because surviving shouldn't require 14 different apps and a PhD in bureaucracy.",
+      "description_fr": "LifeRaft est le système d'exploitation destiné aux personnes vivant en marge. Avantages sociaux, flux de trésorerie, factures, emplois, programmes d'aide, le tout au même endroit. Parce que survivre ne devrait pas nécessiter 14 applications différentes et un doctorat en bureaucratie.",
+      "category": "AI & Machine Learning",
       "website": "https://liferaft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T19:21:15.953140+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T20:57:32.614156+00:00"
     },
     {
       "name": "Prism Wear — Luxury Wearable Intimacy",
@@ -130512,6 +130518,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-19T19:21:22.960343+00:00"
+    },
+    {
+      "name": "Mawrid",
+      "slug": "polsia-mawrid",
+      "website": "https://mawrid.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T20:57:19.499611+00:00"
+    },
+    {
+      "name": "Automake",
+      "slug": "polsia-automake",
+      "website": "https://automake.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T20:57:19.889891+00:00"
+    },
+    {
+      "name": "AirPro Services",
+      "slug": "polsia-airpro-services",
+      "website": "https://airpro-services.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T20:57:20.118762+00:00"
+    },
+    {
+      "name": "GripCut",
+      "slug": "polsia-gripcut",
+      "website": "https://gripcut.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T20:57:20.482431+00:00"
+    },
+    {
+      "name": "RentHawk",
+      "slug": "polsia-renthawk-6",
+      "website": "https://renthawk-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T20:57:20.728119+00:00"
+    },
+    {
+      "name": "Wiresmith",
+      "slug": "polsia-wiresmith",
+      "website": "https://wiresmith.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T20:57:20.896247+00:00"
+    },
+    {
+      "name": "SiteForger — AI",
+      "slug": "polsia-siteforger",
+      "description": "Every site is shaped by what real customers say. If reviewers love the patio, it's front and center. If the brunch menu is famous, it leads the page. Data, not guesswork.",
+      "description_fr": "Chaque site est façonné par ce que disent les vrais clients. Si les critiques aiment le patio, il est au premier plan. Si la carte du brunch est réputée, elle tient la page. Des données, pas des suppositions.",
+      "category": "AI & Machine Learning",
+      "website": "https://siteforger.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T20:57:22.674276+00:00"
+    },
+    {
+      "name": "PawSentry",
+      "slug": "polsia-pawsentry",
+      "description": "PawSentry is a premium smart collar that monitors activity, sleep, and behavior changes in real time. No subscription. No guesswork. Just clarity about the one who can't tell you what's wrong.",
+      "description_fr": "PawSentry est un collier intelligent haut de gamme qui surveille l'activité, le sommeil et les changements de comportement en temps réel. Pas d'abonnement. Aucune conjecture. Juste de la clarté sur celui qui ne peut pas vous dire ce qui ne va pas.",
+      "category": "Other",
+      "website": "https://pawsentry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T20:57:23.916337+00:00"
+    },
+    {
+      "name": "GritShield — Premium Mobile Detailing, Missoula MT",
+      "slug": "polsia-gritshield",
+      "description": "Professional-grade ceramic bonded to your paint at a molecular level. 2-3 years of hydrophobic protection, UV resistance, and a showroom finish. The single best thing you can do for a Montana vehicle.",
+      "description_fr": "Céramique de qualité professionnelle liée à votre peinture au niveau moléculaire. 2-3 ans de protection hydrophobe, de résistance aux UV et une finition showroom. La meilleure chose que vous puissiez faire pour un véhicule Montana.",
+      "category": "Other",
+      "website": "https://gritshield.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T20:57:24.803402+00:00"
+    },
+    {
+      "name": "Runbot — AI Automation for Small Businesses",
+      "slug": "polsia-runbot",
+      "description": "Small businesses shouldn't need a tech team to compete in 2026. Runbot gives you the same AI-powered operations that enterprise companies use, set up and managed for you.",
+      "description_fr": "Les petites entreprises ne devraient pas avoir besoin d'une équipe technique pour être compétitives en 2026. Runbot vous offre les mêmes opérations basées sur l'IA que celles que les entreprises utilisent, configurent et gèrent pour vous.",
+      "category": "AI & Machine Learning",
+      "website": "https://runbot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T20:57:27.189261+00:00"
     }
   ]
 }
