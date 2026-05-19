@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T17:17:45.106059+00:00",
+  "last_updated": "2026-05-19T19:21:30.551377+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -130308,18 +130308,24 @@
     {
       "name": "ParkGuay",
       "slug": "polsia-parkguay",
+      "description": "Restaurantes, hoteles, comercios, centros deportivos y empresas de reparto pueden regalar puntos ParkGuay a sus clientes. Más facilidad para llegar, más clientes que vuelven.",
+      "description_fr": "Les restaurants, hôtels, commerces, centres de sport et entreprises de reparto peuvent offrir des points ParkGuay à leurs clients. Más facilidad para llegar, más clientes que vuelven.",
+      "category": "Marketing & Advertising",
       "website": "https://parkguay.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T17:17:28.205254+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T19:21:27.611479+00:00"
     },
     {
-      "name": "Velvet Throne",
+      "name": "Velvet Throne — Luxury Styling, Houston",
       "slug": "polsia-velvet-throne",
+      "description": "At Velvet Throne, styling starts with care. Every service begins with a hair health assessment because the most stunning looks are built on a strong foundation. We don't just make you look good for the day. We make sure your hair thrives long after you leave the chair.",
+      "description_fr": "Chez Velvet Throne, le style commence par le soin. Chaque service commence par une évaluation de la santé des cheveux, car les looks les plus époustouflants reposent sur une base solide. Nous ne nous contentons pas de vous donner une belle apparence pour la journée. Nous veillons à ce que vos cheveux prospèrent longtemps après que vous ayez quitté le fauteuil.",
+      "category": "Health & Wellness",
       "website": "https://velvet-throne.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T17:17:28.371850+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T19:21:28.340336+00:00"
     },
     {
       "name": "JamnadassOS",
@@ -130335,10 +130341,13 @@
     {
       "name": "LuxeGhostOS",
       "slug": "polsia-luxeghostos",
+      "description": "LuxeGhostOS exists because running a solo cybersecurity practice shouldn't feel like running three businesses at once. The audits are the craft. Everything else, the scheduling, the follow-ups, the invoicing, the content, is operations. And operations should run itself.",
+      "description_fr": "LuxeGhostOS existe parce que gérer une pratique de cybersécurité en solo ne devrait pas donner l'impression de diriger trois entreprises à la fois. Les audits sont le métier. Tout le reste, la planification, les suivis, la facturation, le contenu, ce sont des opérations. Et les opérations devraient se dérouler d’elles-mêmes.",
+      "category": "Productivity & Automation",
       "website": "https://luxeghostos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T17:17:29.705657+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T19:21:29.961727+00:00"
     },
     {
       "name": "Loadsmith — The Freight Broker That Never Sleeps",
@@ -130405,6 +130414,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-19T17:17:36.510820+00:00"
+    },
+    {
+      "name": "Salon Stockroom",
+      "slug": "polsia-salon-stockroom",
+      "website": "https://salon-stockroom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T19:21:15.288522+00:00"
+    },
+    {
+      "name": "SlotStorm",
+      "slug": "polsia-slotstorm",
+      "website": "https://slotstorm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T19:21:15.512418+00:00"
+    },
+    {
+      "name": "LifeRaft",
+      "slug": "polsia-liferaft",
+      "website": "https://liferaft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T19:21:15.953140+00:00"
+    },
+    {
+      "name": "Prism Wear — Luxury Wearable Intimacy",
+      "slug": "polsia-prism-wear",
+      "description": "Existing products force a trade-off: clinical prosthetics that work but feel utilitarian, or luxury intimacy devices that look beautiful but ignore real-world needs. Prism Wear exists because you deserve both, in one product, designed for the full spectrum of your day.",
+      "description_fr": "Existing products force a trade-off: clinical prosthetics that work but feel utilitarian, or luxury intimacy devices that look beautiful but ignore real-world needs. Prism Wear existe parce que vous méritez les deux, dans un seul produit, conçu pour tout le spectre de votre journée.",
+      "category": "Health & Wellness",
+      "website": "https://prism-wear.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T19:21:17.292494+00:00"
+    },
+    {
+      "name": "VertForge",
+      "slug": "polsia-vertforge",
+      "website": "https://vertforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T19:21:17.458426+00:00"
+    },
+    {
+      "name": "Genius Builders",
+      "slug": "polsia-geniuslabos",
+      "description": "They will come from labs like this one. From Dakar. From the continent that learned to build with constraints as fuel. Genius Builders is not preparing students for the future. It is building the people who will define it.",
+      "description_fr": "Ils proviendront de laboratoires comme celui-ci. De Dakar. From the continent that learned to build with constraints as fuel. Genius Builders is not preparing students for the future. Il s’agit de former les personnes qui le définiront.",
+      "category": "Education",
+      "website": "https://geniuslabos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T19:21:18.470264+00:00"
+    },
+    {
+      "name": "RangiloOS — Command Center for Mountain Commerce",
+      "slug": "polsia-rangiloos",
+      "description": "RangiloOS gives the Nagarkoti brothers the same operational intelligence that powers billion-dollar quick commerce platforms, built for the reality of mountain logistics. Every hill town in India deserves this.",
+      "description_fr": "RangiloOS gives the Nagarkoti brothers the same operational intelligence that powers billion-dollar quick commerce platforms, built for the reality of mountain logistics. Chaque ville perchée en Inde mérite cela.",
+      "category": "Software & SaaS",
+      "website": "https://rangiloos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T19:21:19.934281+00:00"
+    },
+    {
+      "name": "Taji",
+      "slug": "polsia-taji-2",
+      "description": "Taji is building toward a world where every small business in Africa has the operational power of a company ten times its size. One AI employee at a time.",
+      "description_fr": "Taji construit un monde dans lequel chaque petite entreprise en Afrique dispose de la puissance opérationnelle d’une entreprise dix fois plus grande. Un employé d'IA à la fois.",
+      "category": "AI & Machine Learning",
+      "website": "https://taji-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T19:21:20.937411+00:00"
+    },
+    {
+      "name": "VoltReel — Short",
+      "slug": "polsia-voltreel",
+      "description": "The barbershop with the best fades in town shouldn't lose to the one with the better TikTok. The gym with the hardest workouts shouldn't be invisible because they don't know how to edit a Reel. The restaurant with the best food shouldn't be empty because nobody's seen their menu.",
+      "description_fr": "",
+      "category": "Food & Beverage",
+      "website": "https://voltreel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T19:21:21.313786+00:00"
+    },
+    {
+      "name": "Sidekick Ops",
+      "slug": "polsia-sidekick-ops",
+      "description": "Every hour you spend on admin is an hour you're not spending on clients, growth, or the work that actually matters. Sidekick Ops exists to give you that time back.",
+      "description_fr": "Every hour you spend on admin is an hour you're not spending on clients, growth, or the work that actually matters. Sidekick Ops existe pour vous redonner ce temps.",
+      "category": "Other",
+      "website": "https://sidekick-ops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T19:21:22.960343+00:00"
     }
   ]
 }
