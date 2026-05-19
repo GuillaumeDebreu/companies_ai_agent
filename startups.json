@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T20:57:33.549820+00:00",
+  "last_updated": "2026-05-19T22:21:05.141019+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -130528,12 +130528,15 @@
       "scraped_at": "2026-05-19T20:57:19.499611+00:00"
     },
     {
-      "name": "Automake",
+      "name": "Automake — AI Automation for Small Business",
       "slug": "polsia-automake",
+      "description": "We build custom AI systems that handle your customer support, qualify your leads, book your appointments, and automate your workflows. You focus on growth. We build the machine.",
+      "description_fr": "Nous construisons des systèmes d'IA personnalisés qui gèrent votre support client, qualifient vos prospects, prennent vos rendez-vous et automatisent vos flux de travail. Vous vous concentrez sur la croissance. Nous construisons la machine.",
+      "category": "AI & Machine Learning",
       "website": "https://automake.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T20:57:19.889891+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T22:21:02.996654+00:00"
     },
     {
       "name": "AirPro Services",
@@ -130544,20 +130547,26 @@
       "scraped_at": "2026-05-19T20:57:20.118762+00:00"
     },
     {
-      "name": "GripCut",
+      "name": "GripCut — AI Content Agency for Fitness",
       "slug": "polsia-gripcut",
+      "description": "The fitness industry runs on content. But content shouldn't run your life. GripCut exists so the best coaches in the world can focus on what they do best, while their audience grows every single day.",
+      "description_fr": "L'industrie du fitness fonctionne grâce au contenu. Mais le contenu ne devrait pas diriger votre vie. GripCut existe pour que les meilleurs entraîneurs du monde puissent se concentrer sur ce qu'ils font de mieux, tandis que leur audience augmente chaque jour.",
+      "category": "AI & Machine Learning",
       "website": "https://gripcut.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T20:57:20.482431+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T22:21:04.399731+00:00"
     },
     {
       "name": "RentHawk",
       "slug": "polsia-renthawk-6",
+      "description": "RentHawk is building the future where landlords own properties, not inboxes. Where AI handles the work and humans enjoy the returns. Built for independent landlords who refuse to pay enterprise prices for the privilege of doing everything themselves.",
+      "description_fr": "RentHawk construit un avenir où les propriétaires possèdent des propriétés, et non des boîtes de réception. Où l’IA gère le travail et les humains profitent des retours. Construit pour les propriétaires indépendants qui refusent de payer les prix des entreprises pour avoir le privilège de tout faire eux-mêmes.",
+      "category": "AI & Machine Learning",
       "website": "https://renthawk-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T20:57:20.728119+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T22:21:04.871087+00:00"
     },
     {
       "name": "Wiresmith",
@@ -130610,6 +130619,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-19T20:57:27.189261+00:00"
+    },
+    {
+      "name": "Dripwood",
+      "slug": "polsia-dripwood",
+      "website": "https://dripwood.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T22:20:52.777212+00:00"
+    },
+    {
+      "name": "FormShore",
+      "slug": "polsia-formshore",
+      "website": "https://formshore.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T22:20:52.947258+00:00"
+    },
+    {
+      "name": "TrekPaws",
+      "slug": "polsia-trekpaws",
+      "website": "https://trekpaws.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T22:20:53.202832+00:00"
+    },
+    {
+      "name": "1031ProsOS",
+      "slug": "polsia-1031prosos",
+      "website": "https://1031prosos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T22:20:53.359331+00:00"
+    },
+    {
+      "name": "BelegFlow — E",
+      "slug": "polsia-belegflow",
+      "description": "KI-gestützte E-Rechnungs-Compliance für deutsche KMU. ZUGFeRD und XRechnung validieren, konvertieren und archivieren.",
+      "description_fr": "KI-gestützte E-Rechnungs-Compliance für deutsche KMU. ZUGFeRD et XRechnung valident, convertissent et archivent.",
+      "category": "Other",
+      "website": "https://belegflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T22:20:54.091659+00:00"
+    },
+    {
+      "name": "HaulRite — Construction Cleanup & Junk Removal, NYC",
+      "slug": "polsia-haulrite",
+      "description": "Every renovation leaves a mess. Every new build generates tons of waste. The old way was phone calls, no-shows, and mystery pricing. HaulRite is building the cleanup service NYC contractors actually deserve.",
+      "description_fr": "Chaque rénovation laisse un désastre. Chaque nouvelle construction génère des tonnes de déchets. L’ancienne méthode était celle des appels téléphoniques, des non-présentations et des prix mystères. HaulRite crée le service de nettoyage que les entrepreneurs de New York méritent réellement.",
+      "category": "Other",
+      "website": "https://haulrite.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T22:20:55.485953+00:00"
+    },
+    {
+      "name": "PathForge — AI That Trains Developers and Places Them in Jobs",
+      "slug": "polsia-pathforge-13",
+      "description": "Human instructors teach 30 students at once. They can't give you 1-on-1 attention at 2am when you're stuck on recursion. They can't review every commit. They can't run 50 mock interviews in a week.",
+      "description_fr": "Des instructeurs humains enseignent à 30 étudiants à la fois. Ils ne peuvent pas vous accorder une attention individuelle à 2 heures du matin lorsque vous êtes coincé en récursivité. Ils ne peuvent pas examiner chaque commit. Ils ne peuvent pas organiser 50 simulations d’entretiens en une semaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://pathforge-13.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T22:20:56.869043+00:00"
+    },
+    {
+      "name": "Film Lab Pro",
+      "slug": "polsia-filmlabos-2",
+      "description": "Film Lab Pro exists because the way we see matters. Every film stock tells a different story. Every grain pattern carries emotion. We built this so you never have to choose between the convenience of digital and the soul of analog.",
+      "description_fr": "Film Lab Pro existe parce que notre façon de voir compte. Chaque pellicule raconte une histoire différente. Chaque motif de grain est porteur d'émotion. Nous l'avons construit pour que vous n'ayez jamais à choisir entre la commodité du numérique et l'âme de l'analogique.",
+      "category": "Real Estate",
+      "website": "https://filmlabos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T22:20:58.322771+00:00"
+    },
+    {
+      "name": "OpenShore — Trauma",
+      "slug": "polsia-openshore",
+      "description": "Most social media agencies don't understand the weight of this work. A poorly worded post can retraumatize. A careless campaign can silence. The organizations doing the hardest, most important work in the world shouldn't have to worry about whether their social media is safe.",
+      "description_fr": "La plupart des agences de médias sociaux ne comprennent pas le poids de ce travail. Un message mal rédigé peut être à nouveau traumatisant. Une campagne imprudente peut faire taire. Les organisations qui effectuent le travail le plus dur et le plus important au monde ne devraient pas avoir à se soucier de la sécurité de leurs réseaux sociaux.",
+      "category": "Marketing & Advertising",
+      "website": "https://openshore.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T22:20:59.257166+00:00"
+    },
+    {
+      "name": "GameRep",
+      "slug": "polsia-gamerep-2",
+      "description": "GameRep exists because talent shouldn't go unrepresented just because you're not a 5-star recruit. The $2.75 billion NIL economy is here. Your AI agent makes sure you get your share.",
+      "description_fr": "GameRep existe parce que les talents ne devraient pas rester sous-représentés simplement parce que vous n'êtes pas une recrue 5 étoiles. L’économie nulle de 2,75 milliards de dollars est là. Votre agent IA s'assure que vous obtenez votre part.",
+      "category": "AI & Machine Learning",
+      "website": "https://gamerep-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T22:21:00.431939+00:00"
     }
   ]
 }
