@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T15:27:13.238368+00:00",
+  "last_updated": "2026-05-19T17:17:45.106059+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -130196,28 +130196,37 @@
       "scraped_at": "2026-05-19T11:30:49.559545+00:00"
     },
     {
-      "name": "Staystream",
+      "name": "Staystream — Your AI Property Manager",
       "slug": "polsia-staystream",
+      "description": "Responds to inquiries, handles check-in instructions, answers questions about the property, and resolves issues. 24 hours a day, 7 days a week. In the guest's language.",
+      "description_fr": "Répond aux demandes de renseignements, gère les instructions d'enregistrement, répond aux questions sur la propriété et résout les problèmes. 24 heures sur 24, 7 jours sur 7. Dans la langue du client.",
+      "category": "AI & Machine Learning",
       "website": "https://staystream.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T14:13:07.886750+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T17:17:40.144041+00:00"
     },
     {
-      "name": "Ledgr",
+      "name": "Ledgr — Your Books, Closed Autonomously",
       "slug": "polsia-getledgr",
+      "description": "Enterprise gets Sage and NetSuite. Startups get Pilot and Puzzle. Mid-market companies with 100 to 2,000 employees? They get a team of accountants doing the same manual work every month.",
+      "description_fr": "L'entreprise obtient Sage et NetSuite. Les startups obtiennent Pilot et Puzzle. Des entreprises de taille intermédiaire de 100 à 2 000 salariés ? Ils recrutent une équipe de comptables qui effectuent le même travail manuel chaque mois.",
+      "category": "Other",
       "website": "https://getledgr.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T14:13:08.279992+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T17:17:41.344514+00:00"
     },
     {
       "name": "Quillpilot",
       "slug": "polsia-quillpilot",
+      "description": "Every business knows they need to publish more. Most cannot keep up. Quillpilot removes the constraint entirely. An AI employee that never misses a deadline, never runs out of ideas, and gets better the more it learns about your brand.",
+      "description_fr": "Chaque entreprise sait qu'elle doit publier davantage. La plupart ne peuvent pas suivre. Quillpilot supprime entièrement la contrainte. Un employé IA qui ne manque jamais une date limite, ne manque jamais d’idées et s’améliore à mesure qu’il en apprend davantage sur votre marque.",
+      "category": "AI & Machine Learning",
       "website": "https://quillpilot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T14:13:08.609806+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T17:17:42.914717+00:00"
     },
     {
       "name": "ThreadFlow",
@@ -130231,12 +130240,15 @@
       "scraped_at": "2026-05-19T14:13:10.025077+00:00"
     },
     {
-      "name": "ColdSpark",
+      "name": "ColdSpark — Signal",
       "slug": "polsia-coldspark-58",
+      "description": "An autonomous AI SDR that monitors buying signals, researches prospects deeply, and reaches out at the exact right moment. Not spray-and-pray. Precision outbound.",
+      "description_fr": "Un SDR IA autonome qui surveille les signaux d’achat, recherche en profondeur les prospects et atteint exactement le bon moment. Pas de pulvérisation et de prière. Sortie de précision.",
+      "category": "AI & Machine Learning",
       "website": "https://coldspark-58.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T14:13:10.334386+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T17:17:44.025593+00:00"
     },
     {
       "name": "KasiCraft — Your Hustle, Professionally Packaged",
@@ -130292,6 +130304,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-19T14:13:15.722333+00:00"
+    },
+    {
+      "name": "ParkGuay",
+      "slug": "polsia-parkguay",
+      "website": "https://parkguay.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T17:17:28.205254+00:00"
+    },
+    {
+      "name": "Velvet Throne",
+      "slug": "polsia-velvet-throne",
+      "website": "https://velvet-throne.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T17:17:28.371850+00:00"
+    },
+    {
+      "name": "JamnadassOS",
+      "slug": "polsia-jamnadassos",
+      "description": "Jamnadass Cloth Merchant has built its reputation on premium brand partnerships: Cadini Italy, Birla Century, Arvind Mills, and imported catalogue suitings. In a market of 180+ fabric dealers in Bareilly, trust and selection win. JamnadassOS preserves that edge while eliminating the chaos of manual tracking.",
+      "description_fr": "Jamnadass Cloth Merchant a bâti sa réputation sur des partenariats de marques haut de gamme : Cadini Italy, Birla Century, Arvind Mills et des costumes de catalogue importés. Sur un marché de plus de 180 revendeurs de tissus à Bareilly, la confiance et la sélection gagnent. JamnadassOS préserve cet avantage tout en éliminant le chaos du suivi manuel.",
+      "category": "Marketing & Advertising",
+      "website": "https://jamnadassos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T17:17:29.635938+00:00"
+    },
+    {
+      "name": "LuxeGhostOS",
+      "slug": "polsia-luxeghostos",
+      "website": "https://luxeghostos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T17:17:29.705657+00:00"
+    },
+    {
+      "name": "Loadsmith — The Freight Broker That Never Sleeps",
+      "slug": "polsia-loadsmith-5",
+      "description": "The agent ingests your load requirements and cross-references thousands of carriers by lane history, reliability score, equipment type, and real-time availability. No human in the loop.",
+      "description_fr": "L'agent ingère vos besoins en matière de chargement et croise des milliers de transporteurs par historique de voie, score de fiabilité, type d'équipement et disponibilité en temps réel. Aucun humain dans la boucle.",
+      "category": "Marketing & Advertising",
+      "website": "https://loadsmith-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T17:17:45.103775+00:00"
+    },
+    {
+      "name": "CrateHype — Trending Products. Social",
+      "slug": "polsia-cratehype",
+      "description": "Everyone's importing. Nobody's building a brand. CrateHype is the branded layer on top of the import game, turning commodity imports into curated drops that sell out through social media.",
+      "description_fr": "Tout le monde importe. Personne ne construit une marque. CrateHype est la couche de marque au sommet du jeu d'importation, transformant les importations de matières premières en produits sélectionnés qui se vendent via les médias sociaux.",
+      "category": "Marketing & Advertising",
+      "website": "https://cratehype.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T17:17:31.443882+00:00"
+    },
+    {
+      "name": "ClockworkAI",
+      "slug": "polsia-clockworkai",
+      "description": "AI automation agency that builds chatbots, automated emails, CRM workflows, customer support, and lead generation systems for growing businesses.",
+      "description_fr": "Agence d'automatisation de l'IA qui crée des chatbots, des e-mails automatisés, des flux de travail CRM, un support client et des systèmes de génération de leads pour les entreprises en croissance.",
+      "category": "AI & Machine Learning",
+      "website": "https://clockworkai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T17:17:32.728987+00:00"
+    },
+    {
+      "name": "GigRamp",
+      "slug": "polsia-gigramp",
+      "description": "Most freelancers know they should scale. They just don't know how. GigRamp isn't motivation. It's mechanics: pricing calculators, client onboarding templates, hiring playbooks, and product launch frameworks.",
+      "description_fr": "La plupart des pigistes savent qu’ils doivent évoluer. Ils ne savent tout simplement pas comment. GigRamp n'est pas une motivation. Ce sont des mécanismes : calculateurs de prix, modèles d'intégration des clients, manuels de recrutement et cadres de lancement de produits.",
+      "category": "Consulting & Services",
+      "website": "https://gigramp.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T17:17:34.148050+00:00"
+    },
+    {
+      "name": "LashHausOS — Your Lash Empire, Automated",
+      "slug": "polsia-lashhausos",
+      "description": "Lash Without Limits created a course that turns students into business owners. LashHausOS is the operating layer that makes the whole system scale. From Atlanta to everywhere.",
+      "description_fr": "Lash Without Limits a créé un cours qui transforme les étudiants en propriétaires d'entreprise. LashHausOS est la couche opérationnelle qui fait évoluer l’ensemble du système. D'Atlanta à partout.",
+      "category": "Education",
+      "website": "https://lashhausos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T17:17:35.222384+00:00"
+    },
+    {
+      "name": "CampusSwap",
+      "slug": "polsia-campusswap",
+      "description": "The student marketplace for South Africa. Buy and sell textbooks, trade study notes, and find tutors. All in one place.",
+      "description_fr": "Le marché étudiant pour l'Afrique du Sud. Achetez et vendez des manuels, échangez des notes d'étude et trouvez des tuteurs. Le tout en un seul endroit.",
+      "category": "Education",
+      "website": "https://campusswap.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T17:17:36.510820+00:00"
     }
   ]
 }
