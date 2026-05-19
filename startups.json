@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T03:41:19.878992+00:00",
+  "last_updated": "2026-05-19T04:35:35.615407+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -129768,44 +129768,59 @@
       "scraped_at": "2026-05-18T22:56:13.472534+00:00"
     },
     {
-      "name": "PhantomSocial",
+      "name": "PhantomSocial — Anonymous Party Companions for the Elite",
       "slug": "polsia-phantomsocial",
+      "description": "You have the table. The bottle service. The invites. What you don't have is a trusted, fun, discreet person to share it with, someone who won't leak your name, post your location, or make it weird.",
+      "description_fr": "Vous avez la table. Le service des bouteilles. Les invitations. Ce que vous n'avez pas, c'est une personne de confiance, amusante et discrète avec qui le partager, quelqu'un qui ne divulguera pas votre nom, ne publiera pas votre position ou ne rendra pas les choses bizarres.",
+      "category": "Social & Community",
       "website": "https://phantomsocial.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T00:12:36.585312+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:30.014367+00:00"
     },
     {
-      "name": "MindTrap",
+      "name": "MindTrap — The Psychology Behind the Crime",
       "slug": "polsia-mindtrap",
+      "description": "Short-form content exploring criminal psychology, interrogation tactics, and the science behind why people do what they do.",
+      "description_fr": "Contenu abrégé explorant la psychologie criminelle, les tactiques d'interrogatoire et la science qui explique pourquoi les gens font ce qu'ils font.",
+      "category": "Entertainment & Media",
       "website": "https://mindtrap.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T00:12:36.781692+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:31.174407+00:00"
     },
     {
-      "name": "Velvet Dates",
+      "name": "Velvet Dates — Luxury Picnic & Proposal Setups",
       "slug": "polsia-velvet-dates",
+      "description": "Luxury picnic and proposal setups along the Hudson. Hoboken, Jersey City, Edgewater. Curated romantic experiences for couples who want more.",
+      "description_fr": "Installations de pique-nique et de propositions de luxe le long de l'Hudson. Hoboken, Jersey City, Edgewater. Des expériences romantiques organisées pour les couples qui en veulent plus.",
+      "category": "Other",
       "website": "https://velvet-dates.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T00:12:37.138753+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:32.592919+00:00"
     },
     {
       "name": "LendProof",
       "slug": "polsia-lendproof",
+      "description": "Small and mid-size lenders are the most vulnerable, yet the least equipped. Enterprise forensic tools are built for banks with 10,000 employees. You need something that works for your team of 10.",
+      "description_fr": "Les prêteurs de petite et moyenne taille sont les plus vulnérables, mais les moins équipés. Les outils d'investigation d'entreprise sont conçus pour les banques de 10 000 employés. Vous avez besoin de quelque chose qui fonctionne pour votre équipe de 10 personnes.",
+      "category": "Other",
       "website": "https://lendproof.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T00:12:37.516086+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:34.029233+00:00"
     },
     {
       "name": "SeatClaim",
       "slug": "polsia-seatclaim",
+      "description": "Every call answered. Every visitor engaged. Every lead followed up. SeatClaim is building the AI layer that sits between local businesses and their next customer, making sure no opportunity slips through the cracks.",
+      "description_fr": "Chaque appel a répondu. Chaque visiteur s'est engagé. Chaque piste a été suivie. SeatClaim is building the AI layer that sits between local businesses and their next customer, making sure no opportunity slips through the cracks.",
+      "category": "AI & Machine Learning",
       "website": "https://seatclaim.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T00:12:37.876343+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:35.182284+00:00"
     },
     {
       "name": "RentVaultOS",
@@ -129858,6 +129873,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-19T00:12:44.955839+00:00"
+    },
+    {
+      "name": "InsightGridOS",
+      "slug": "polsia-insightgridos",
+      "website": "https://insightgridos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T04:35:17.971081+00:00"
+    },
+    {
+      "name": "AutoKraft",
+      "slug": "polsia-autokraft",
+      "website": "https://autokraft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T04:35:18.135581+00:00"
+    },
+    {
+      "name": "Glyphic — Your Autonomous Creative Department",
+      "slug": "polsia-glyphic-studio",
+      "description": "Input your brand kit once. Glyphic generates a full week of platform-specific content: Instagram carousels, story templates, LinkedIn graphics, Twitter headers. On brand. On schedule.",
+      "description_fr": "Saisissez votre kit de marque une fois. Glyphic génère une semaine complète de contenu spécifique à la plateforme : carrousels Instagram, modèles d'histoires, graphiques LinkedIn, en-têtes Twitter. Sur la marque. Dans les délais.",
+      "category": "Software & SaaS",
+      "website": "https://glyphic-studio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:18.983914+00:00"
+    },
+    {
+      "name": "CraftPath — Build Once, Sell Forever",
+      "slug": "polsia-craftpath",
+      "description": "CraftPath is the platform for creators who sell premium courses, productivity templates, and membership communities. 85-90% margins. Zero inventory. Pure digital leverage.",
+      "description_fr": "CraftPath est la plate-forme destinée aux créateurs qui vendent des cours premium, des modèles de productivité et des communautés de membres. Marges de 85 à 90 %. Zéro inventaire. Un levier numérique pur.",
+      "category": "Software & SaaS",
+      "website": "https://craftpath.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:20.204857+00:00"
+    },
+    {
+      "name": "Backline — Your AI Music Manager",
+      "slug": "polsia-backline-music",
+      "description": "You started making music because you love creating. But 80% of your time gets eaten by the business side: emailing venues, posting on socials, tracking who owes you money, finding collaborators. Managers won't touch you until you're already making money. So you're stuck doing everything yourself.",
+      "description_fr": "Vous avez commencé à faire de la musique parce que vous aimez créer. Mais 80 % de votre temps est consacré au côté professionnel : envoyer des e-mails à des sites, publier sur les réseaux sociaux, suivre qui vous doit de l'argent, trouver des collaborateurs. Les managers ne vous toucheront pas tant que vous n'aurez pas déjà gagné de l'argent. Vous êtes donc obligé de tout faire vous-même.",
+      "category": "AI & Machine Learning",
+      "website": "https://backline-music.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:21.062656+00:00"
+    },
+    {
+      "name": "FilledSlot",
+      "slug": "polsia-filledslot",
+      "description": "We use AI outreach, automated SMS, and smart follow-up to book 10 to 20 qualified appointments every month for local businesses. You focus on the work. We fill the calendar.",
+      "description_fr": "Nous utilisons la sensibilisation par l'IA, les SMS automatisés et le suivi intelligent pour réserver 10 à 20 rendez-vous qualifiés chaque mois pour les entreprises locales. Vous vous concentrez sur le travail. Nous remplissons le calendrier.",
+      "category": "AI & Machine Learning",
+      "website": "https://filledslot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:22.069911+00:00"
+    },
+    {
+      "name": "NirmAI — AI Construction OS for India",
+      "slug": "polsia-nirmai",
+      "description": "16% of the workforce. Trillions in annual spend. Smart city mandates. RERA compliance. And yet, most contractors still manage ₹50 crore projects with WhatsApp groups and paper registers.",
+      "description_fr": "16% de l'effectif. Des milliards de dépenses annuelles. Mandats de ville intelligente. Conformité RERA. Et pourtant, la plupart des entrepreneurs gèrent encore des projets de 50 crores ₹ avec des groupes WhatsApp et des registres papier.",
+      "category": "AI & Machine Learning",
+      "website": "https://nirmai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:23.383365+00:00"
+    },
+    {
+      "name": "FlipSurge",
+      "slug": "polsia-flipsurge",
+      "description": "FlipSurge is building in the home wellness and comfort space, where emotional buying meets real demand. Weighted comfort items, ergonomic tools, personal care devices. Products people actually need, with margins that actually scale.",
+      "description_fr": "FlipSurge s'inscrit dans l'espace de bien-être et de confort à domicile, où l'achat émotionnel répond à la demande réelle. Articles de confort lestés, outils ergonomiques, appareils de soins personnels. Des produits dont les gens ont réellement besoin, avec des marges réellement évolutives.",
+      "category": "Health & Wellness",
+      "website": "https://flipsurge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:24.774180+00:00"
+    },
+    {
+      "name": "NightOwl",
+      "slug": "polsia-nightowl-ai-35",
+      "description": "NightOwl replaces the operations hire you can't afford yet with an AI agent that's better, faster, and always available. Your business deserves to run like a machine, even when you're not watching.",
+      "description_fr": "NightOwl remplace la location d'opérations que vous ne pouvez pas encore vous permettre par un agent IA meilleur, plus rapide et toujours disponible. Votre entreprise mérite de fonctionner comme une machine, même lorsque vous ne la regardez pas.",
+      "category": "AI & Machine Learning",
+      "website": "https://nightowl-ai-35.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:26.154136+00:00"
+    },
+    {
+      "name": "GigFlip — Flip freelance talent into local profit",
+      "slug": "polsia-gigflip",
+      "description": "Source world-class creative work at global prices. Deliver it to local clients at local rates. GigFlip is the storefront that makes your hustle look professional.",
+      "description_fr": "Trouvez un travail créatif de classe mondiale à des prix mondiaux. Livrez-le aux clients locaux aux tarifs locaux. GigFlip est la vitrine qui donne à votre activité un aspect professionnel.",
+      "category": "E-Commerce & Retail",
+      "website": "https://gigflip.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T04:35:27.536581+00:00"
     }
   ]
 }
