@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:35:35.615407+00:00",
+  "last_updated": "2026-05-19T08:04:51.917186+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -129877,18 +129877,24 @@
     {
       "name": "InsightGridOS",
       "slug": "polsia-insightgridos",
+      "description": "Pull from Salesforce, HubSpot, Google Analytics, PostgreSQL, and every tool your team actually uses. No middleware. No engineers required.",
+      "description_fr": "Tirez parti de Salesforce, HubSpot, Google Analytics, PostgreSQL et de tous les outils que votre équipe utilise réellement. Pas de middleware. Aucun ingénieur requis.",
+      "category": "Sales & CRM",
       "website": "https://insightgridos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T04:35:17.971081+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T08:04:49.647840+00:00"
     },
     {
-      "name": "AutoKraft",
+      "name": "AutoKraft — AI Automation That Ships",
       "slug": "polsia-autokraft",
+      "description": "AutoKraft builds AI-powered automation systems that handle your emails, support tickets, chatbots, and workflows. We ship production-ready systems in weeks, not months.",
+      "description_fr": "AutoKraft crée des systèmes d'automatisation basés sur l'IA qui gèrent vos e-mails, vos tickets d'assistance, vos chatbots et vos flux de travail. Nous expédions des systèmes prêts à la production en quelques semaines, et non en quelques mois.",
+      "category": "AI & Machine Learning",
       "website": "https://autokraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T04:35:18.135581+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T08:04:51.333948+00:00"
     },
     {
       "name": "Glyphic — Your Autonomous Creative Department",
@@ -129977,6 +129983,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-19T04:35:27.536581+00:00"
+    },
+    {
+      "name": "ForgeStation",
+      "slug": "polsia-forgestation",
+      "website": "https://forgestation.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T08:04:31.405654+00:00"
+    },
+    {
+      "name": "Flowburo",
+      "slug": "polsia-flowburo",
+      "website": "https://flowburo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T08:04:31.755191+00:00"
+    },
+    {
+      "name": "GlowDesk — AI Business Manager for Makeup Artists",
+      "slug": "polsia-glowdesk-48",
+      "description": "GlowDesk exists because the best makeup artists in India shouldn't have to choose between perfecting their craft and growing their business. The AI handles the business. You handle the beauty.",
+      "description_fr": "GlowDesk existe parce que les meilleurs maquilleurs indiens ne devraient pas avoir à choisir entre perfectionner leur métier et développer leur entreprise. L’IA gère les affaires. Vous gérez la beauté.",
+      "category": "AI & Machine Learning",
+      "website": "https://glowdesk-48.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T08:04:33.298118+00:00"
+    },
+    {
+      "name": "Chattable",
+      "slug": "polsia-chattable",
+      "description": "Done-for-you AI chatbot deployment for WhatsApp, websites, customer support, and bookings. Based in Nairobi.",
+      "description_fr": "Déploiement de chatbot IA fait pour vous pour WhatsApp, les sites Web, le support client et les réservations. Basé à Nairobi.",
+      "category": "AI & Machine Learning",
+      "website": "https://chattable.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T08:04:34.946531+00:00"
+    },
+    {
+      "name": "Porchlight — Your AI Front Office",
+      "slug": "polsia-porchlight-52",
+      "description": "If you run a 1-to-10 person crew and your phone is your lifeline, Porchlight was built for you. Not another dashboard to learn. Not another app to check. Just a teammate that handles the office while you handle the work.",
+      "description_fr": "Si vous dirigez une équipe de 1 à 10 personnes et que votre téléphone est votre bouée de sauvetage, Porchlight a été conçu pour vous. Pas un autre tableau de bord à apprendre. Pas une autre application à vérifier. Juste un coéquipier qui gère le bureau pendant que vous gérez le travail.",
+      "category": "AI & Machine Learning",
+      "website": "https://porchlight-52.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T08:04:36.598630+00:00"
+    },
+    {
+      "name": "ChhapacOS",
+      "slug": "polsia-chhapacos",
+      "description": "The command center for a creative studio that turns startup visions into investor-ready narratives. Pipeline, projects, competitive intel, and growth ops, all running autonomously.",
+      "description_fr": "Le centre de commande d'un studio de création qui transforme les visions des startups en récits prêts pour les investisseurs. Pipeline, projets, informations concurrentielles et opérations de croissance, tous fonctionnant de manière autonome.",
+      "category": "Sales & CRM",
+      "website": "https://chhapacos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T08:04:37.488036+00:00"
+    },
+    {
+      "name": "ThumbSpark",
+      "slug": "polsia-thumbspark",
+      "description": "AI-powered thumbnail text, titles, scene concepts, and prompts for YouTubers. The creative strategy layer that boosts your CTR.",
+      "description_fr": "Texte miniature, titres, concepts de scène et invites alimentés par l'IA pour les YouTubers. La couche de stratégie créative qui augmente votre CTR.",
+      "category": "AI & Machine Learning",
+      "website": "https://thumbspark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T08:04:38.724153+00:00"
+    },
+    {
+      "name": "BureauZero — L'admin en moins. Le travail en plus.",
+      "slug": "polsia-bureauzero",
+      "description": "Sept 2026 : la facturation électronique devient obligatoire. Les freelances qui automatisent maintenant prennent de l'avance. BureauZero transforme les heures perdues en heures facturées.",
+      "description_fr": "Septembre 2026 : la facturation électronique devient obligatoire. Les freelances qui automatisent prennent désormais de l'avance. BureauZero transforme les heures perdues en heures facturées.",
+      "category": "Real Estate",
+      "website": "https://bureauzero.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T08:04:40.645235+00:00"
+    },
+    {
+      "name": "SaaSFoundry — The Micro",
+      "slug": "polsia-saasfoundry",
+      "description": "SaaSFoundry systematically identifies niches, builds AI-powered micro-SaaS products, and scales them autonomously. Not one product. A factory.",
+      "description_fr": "SaaSFoundry identifie systématiquement les niches, crée des produits micro-SaaS basés sur l'IA et les fait évoluer de manière autonome. Pas un seul produit. Une usine.",
+      "category": "Software & SaaS",
+      "website": "https://saasfoundry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T08:04:41.447051+00:00"
+    },
+    {
+      "name": "Voxjob — Voice",
+      "slug": "polsia-voxjob",
+      "description": "Voxjob is the AI second brain built for tradespeople. Quotes, compliance codes, supplier orders, invoices, job history. All by voice. Zero typing.",
+      "description_fr": "Voxjob est le deuxième cerveau d'IA conçu pour les artisans. Devis, codes de conformité, commandes fournisseurs, factures, historique des travaux. Tout cela par la voix. Zéro saisie.",
+      "category": "AI & Machine Learning",
+      "website": "https://voxjob.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T08:04:42.919962+00:00"
     }
   ]
 }
