@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T09:47:44.754556+00:00",
+  "last_updated": "2026-05-19T11:30:58.038533+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -129985,20 +129985,26 @@
       "scraped_at": "2026-05-19T04:35:27.536581+00:00"
     },
     {
-      "name": "ForgeStation",
+      "name": "ForgeStation — Hand",
       "slug": "polsia-forgestation",
+      "description": "ForgeStation exists because gamers and creators in Middle Tennessee deserve better than mass-produced hardware with a markup. Every build that leaves our bench carries the same standard: if we wouldn't game on it ourselves, it doesn't ship.",
+      "description_fr": "ForgeStation existe parce que les joueurs et les créateurs du Middle Tennessee méritent mieux que du matériel produit en série avec un balisage. Chaque version qui quitte notre banc porte le même standard : si nous ne jouions pas dessus nous-mêmes, elle ne sera pas livrée.",
+      "category": "Other",
       "website": "https://forgestation.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T08:04:31.405654+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T11:30:56.286343+00:00"
     },
     {
-      "name": "Flowburo",
+      "name": "Flowburo — AI Automation for Local Businesses",
       "slug": "polsia-flowburo",
+      "description": "Flowburo builds AI automation systems for local businesses. Chatbots, smart booking, review collection, and lead follow-up — all on autopilot.",
+      "description_fr": "Flowburo crée des systèmes d'automatisation d'IA pour les entreprises locales. Chatbots, réservation intelligente, collecte d'avis et suivi des prospects, le tout en pilote automatique.",
+      "category": "AI & Machine Learning",
       "website": "https://flowburo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-19T08:04:31.755191+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-19T11:30:57.041938+00:00"
     },
     {
       "name": "GlowDesk — AI Business Manager for Makeup Artists",
@@ -130087,6 +130093,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-19T08:04:42.919962+00:00"
+    },
+    {
+      "name": "GrantPilot",
+      "slug": "polsia-grantpilot-15",
+      "website": "https://grantpilot-15.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T11:30:44.043348+00:00"
+    },
+    {
+      "name": "Nooriya",
+      "slug": "polsia-nooriya",
+      "website": "https://nooriya.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T11:30:44.341561+00:00"
+    },
+    {
+      "name": "PitchCall",
+      "slug": "polsia-pitchcall",
+      "website": "https://pitchcall.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T11:30:44.661470+00:00"
+    },
+    {
+      "name": "Autopraxis",
+      "slug": "polsia-autopraxis",
+      "website": "https://autopraxis.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T11:30:44.877237+00:00"
+    },
+    {
+      "name": "InkSlate — Booking & Client Management for Tattoo Studios",
+      "slug": "polsia-inkslate",
+      "description": "InkSlate exists because tattoo artists deserve software built for how they actually work. Not repurposed salon software. Not a generic calendar with a coat of paint. A tool that understands variable sessions, walk-ins, deposits, and the creative relationship between artist and client.",
+      "description_fr": "InkSlate existe parce que les tatoueurs méritent un logiciel conçu pour leur façon de travailler réellement. Logiciel de salon non réutilisé. Il ne s’agit pas d’un calendrier générique avec une couche de peinture. Un outil qui comprend les sessions variables, les visites sans rendez-vous, les dépôts et la relation créative entre l'artiste et le client.",
+      "category": "Software & SaaS",
+      "website": "https://inkslate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T11:30:46.311727+00:00"
+    },
+    {
+      "name": "Leadjack",
+      "slug": "polsia-leadjack",
+      "website": "https://leadjack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T11:30:46.678939+00:00"
+    },
+    {
+      "name": "Anthemiq",
+      "slug": "polsia-anthemiq",
+      "website": "https://anthemiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T11:30:46.887376+00:00"
+    },
+    {
+      "name": "Offistry",
+      "slug": "polsia-offistry",
+      "website": "https://offistry.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-19T11:30:47.132307+00:00"
+    },
+    {
+      "name": "RotorSense — AI Motor Intelligence",
+      "slug": "polsia-rotorsense",
+      "description": "Ingests vibration, temperature, current, and acoustic data from your entire motor fleet. No manual configuration. No dashboards to stare at. RotorSense surfaces only what matters.",
+      "description_fr": "Intègre les données de vibration, de température, de courant et acoustiques de l’ensemble de votre flotte automobile. Aucune configuration manuelle. Aucun tableau de bord à regarder. RotorSense ne fait apparaître que ce qui compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://rotorsense.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T11:30:48.029670+00:00"
+    },
+    {
+      "name": "HypeDrops — Monthly Music Promotion for Afrobeat Artists",
+      "slug": "polsia-hypedrops",
+      "description": "Cover art, promo videos, TikTok campaigns, and playlist pitching delivered every month. Affordable subscription promotion for African artists.",
+      "description_fr": "Couvertures, vidéos promotionnelles, campagnes TikTok et présentations de playlists livrées chaque mois. Promotion d'abonnement abordable pour les artistes africains.",
+      "category": "Entertainment & Media",
+      "website": "https://hypedrops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-19T11:30:49.559545+00:00"
     }
   ]
 }
