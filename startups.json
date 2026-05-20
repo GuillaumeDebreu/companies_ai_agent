@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T05:50:25.647618+00:00",
+  "last_updated": "2026-05-20T08:50:19.382521+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -130950,10 +130950,13 @@
     {
       "name": "BillionTechOS",
       "slug": "polsia-billiontechos",
+      "description": "GST e-invoicing mandates, UPI adoption, and the Account Aggregator framework are creating massive tailwinds. Most mid-size corporates still process invoices manually. BillionTech's embedded finance angle, powered by the BillionLoans NBFC, is a moat competitors can't easily replicate.",
+      "description_fr": "Les mandats de facturation électronique de la TPS, l’adoption de l’UPI et le cadre Account Aggregator créent d’énormes vents favorables. La plupart des entreprises de taille moyenne traitent encore les factures manuellement. L'aspect financier intégré de BillionTech, alimenté par BillionLoans NBFC, est un fossé que les concurrents ne peuvent pas facilement reproduire.",
+      "category": "Finance & Fintech",
       "website": "https://billiontechos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-20T05:50:03.265779+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-20T08:50:19.212036+00:00"
     },
     {
       "name": "LushDrop — Aesthetic Digital Products That Sell Themselves",
@@ -131053,6 +131056,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-20T05:50:16.539120+00:00"
+    },
+    {
+      "name": "WashDrop",
+      "slug": "polsia-washdrop",
+      "website": "https://washdrop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-20T08:50:05.007035+00:00"
+    },
+    {
+      "name": "LedgerLeap — Marketing for Accounting Startups",
+      "slug": "polsia-ledgerleap",
+      "description": "LedgerLeap was started out of Antler, one of the world's top startup accelerators. We know what early-stage looks like because we've been there. Investor decks, pivot anxiety, the \"nobody knows we exist\" phase. We build your marketing engine while you build your product.",
+      "description_fr": "LedgerLeap a été lancé à Antler, l'un des meilleurs accélérateurs de startups au monde. Nous savons à quoi ressemble un stade précoce parce que nous y sommes allés. Decks d’investisseurs, anxiété du pivot, phase « personne ne sait que nous existons ». Nous construisons votre moteur marketing pendant que vous construisez votre produit.",
+      "category": "Finance & Fintech",
+      "website": "https://ledgerleap.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T08:50:06.176248+00:00"
+    },
+    {
+      "name": "BillStrike — Fight Your Medical Bills With Real Data",
+      "slug": "polsia-billstrike",
+      "description": "BillStrike scans your bills for errors, finds the exact person to contact, and gives you everything you need to dispute it. Real data. Real contacts. Real results.",
+      "description_fr": "BillStrike analyse vos factures à la recherche d'erreurs, trouve la personne exacte à contacter et vous donne tout ce dont vous avez besoin pour la contester. Des données réelles. De vrais contacts. De vrais résultats.",
+      "category": "Health & Wellness",
+      "website": "https://billstrike.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T08:50:07.534329+00:00"
+    },
+    {
+      "name": "MirrorGains — Verified Copy Trading, Zero Upfront Cost",
+      "slug": "polsia-mirrorgains",
+      "description": "MirrorGains exists because the copy trading space is full of noise, fake screenshots, and expensive courses that teach you nothing. This is the opposite: verified results, zero barriers, full transparency. Take the time to observe. Copy only if it makes sense for you.",
+      "description_fr": "MirrorGains existe parce que l'espace d'échange de copies est plein de bruit, de fausses captures d'écran et de cours coûteux qui ne vous apprennent rien. C’est le contraire : des résultats vérifiés, zéro barrière, une transparence totale. Prenez le temps d'observer. Copiez uniquement si cela a du sens pour vous.",
+      "category": "Finance & Fintech",
+      "website": "https://mirrorgains.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T08:50:08.503634+00:00"
+    },
+    {
+      "name": "SignalDesk — The AI Analyst That Never Clocks Out",
+      "slug": "polsia-signaldesk-80",
+      "description": "SignalDesk is the AI analyst that monitors your business data 24/7, detects anomalies, explains root causes, and delivers daily briefings. No dashboards. No queries. Just answers, before you think to ask.",
+      "description_fr": "SignalDesk est l'analyste IA qui surveille les données de votre entreprise 24h/24 et 7j/7, détecte les anomalies, explique les causes profondes et propose des briefings quotidiens. Pas de tableaux de bord. Aucune requête. Juste des réponses, avant de penser à demander.",
+      "category": "AI & Machine Learning",
+      "website": "https://signaldesk-80.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T08:50:09.524693+00:00"
+    },
+    {
+      "name": "Marqo — Your AI Brand Designer",
+      "slug": "polsia-marqo-brand",
+      "description": "Marqo is an AI agent that creates complete brand identities. Not just a logo. The full system: strategy, visual identity, guidelines, and marketing assets. In minutes, not months.",
+      "description_fr": "Marqo est un agent IA qui crée des identités de marque complètes. Pas seulement un logo. Le système complet : stratégie, identité visuelle, directives et atouts marketing. En quelques minutes, pas en mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://marqo-brand.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T08:50:10.595853+00:00"
+    },
+    {
+      "name": "Vitalark",
+      "slug": "polsia-vitalark",
+      "description": "The people who win the next decade aren't optimizing their portfolios. They're optimizing their biology. Vitalark exists to make that simple, personal, and consistent.",
+      "description_fr": "Les gagnants de la prochaine décennie n’optimisent pas leurs portefeuilles. Ils optimisent leur biologie. Vitalark existe pour rendre cela simple, personnel et cohérent.",
+      "category": "Other",
+      "website": "https://vitalark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T08:50:11.725742+00:00"
+    },
+    {
+      "name": "BotRoute",
+      "slug": "polsia-botroute",
+      "description": "Custom AI systems trained on your business, your tone, your rules. Not some generic chatbot. This knows your menu, your hours, your policies.",
+      "description_fr": "Des systèmes d'IA personnalisés formés sur votre entreprise, votre ton, vos règles. Pas un chatbot générique. Celui-ci connaît votre menu, vos horaires, vos politiques.",
+      "category": "AI & Machine Learning",
+      "website": "https://botroute.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T08:50:12.783052+00:00"
+    },
+    {
+      "name": "SeniorAI — KI",
+      "slug": "polsia-seniorai",
+      "description": "SeniorAI verbindet KI-Sprachassistenz, Gesundheitsmonitoring und Familien-Dashboard zu einem Pflegebegleiter für Senioren zuhause.",
+      "description_fr": "SeniorAI fournit des services d'assistance KI, de surveillance du bien-être et de tableau de bord familial pour un programme de planification pour les personnes âgées.",
+      "category": "Software & SaaS",
+      "website": "https://seniorai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T08:50:13.660229+00:00"
+    },
+    {
+      "name": "OpenAgora",
+      "slug": "polsia-openagora",
+      "description": "OpenAgora is social media rebuilt from the ground up. Privacy by default. Transparent algorithms you can see, adjust, and trust. Community governance that gives you real power. Creator economics that are actually fair.",
+      "description_fr": "OpenAgora est un média social entièrement reconstruit. Confidentialité par défaut. Des algorithmes transparents que vous pouvez voir, ajuster et auxquels vous pouvez faire confiance. Une gouvernance communautaire qui vous donne un réel pouvoir. Une économie des créateurs qui est réellement juste.",
+      "category": "Social & Community",
+      "website": "https://openagora.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T08:50:15.197899+00:00"
     }
   ]
 }
