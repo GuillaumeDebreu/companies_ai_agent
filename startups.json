@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T11:41:20.569770+00:00",
+  "last_updated": "2026-05-20T14:18:43.230251+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -131168,28 +131168,37 @@
       "scraped_at": "2026-05-20T08:50:15.197899+00:00"
     },
     {
-      "name": "Resolva",
+      "name": "Resolva — AI That Resolves, Not Just Responds",
       "slug": "polsia-resolva-4",
+      "description": "Resolva is an autonomous AI agent that resolves banking customer queries in seconds, not days. Built for African banks and fintechs who are tired of drowning in tickets.",
+      "description_fr": "Resolva est un agent d'IA autonome qui résout les requêtes des clients bancaires en quelques secondes, et non en quelques jours. Conçu pour les banques et fintechs africaines qui en ont assez de se noyer sous les tickets.",
+      "category": "AI & Machine Learning",
       "website": "https://resolva-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-20T11:41:08.675011+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-20T14:18:40.660540+00:00"
     },
     {
-      "name": "HuskCraft",
+      "name": "HuskCraft — Industrial Fiber & Tannin from Arecanut Waste",
       "slug": "polsia-huskcraft",
+      "description": "Lignocellulosic fiber extracted from arecanut husk. Rich in cellulose, hemicellulose, and lignin. Used as sustainable reinforcement in biocomposites, non-woven textiles, insulation materials, hardboard, paper pulp, and biodegradable packaging.",
+      "description_fr": "Fibre lignocellulosique extraite de la coque de noix d'arec. Riche en cellulose, hémicellulose et lignine. Utilisé comme renfort durable dans les biocomposites, les textiles non tissés, les matériaux isolants, les panneaux durs, la pâte à papier et les emballages biodégradables.",
+      "category": "Other",
       "website": "https://huskcraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-20T11:41:08.867078+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-20T14:18:42.048945+00:00"
     },
     {
-      "name": "Outpace",
+      "name": "Outpace — Your AI Sales Agent",
       "slug": "polsia-outpace-ai-51",
+      "description": "Every company deserves a relentless, intelligent sales engine that works while the team focuses on closing deals and building relationships. Outpace is the hire that scales without the overhead.",
+      "description_fr": "Chaque entreprise mérite un moteur de vente implacable et intelligent qui fonctionne pendant que l'équipe se concentre sur la conclusion de contrats et l'établissement de relations. Outpace est une location qui évolue sans frais généraux.",
+      "category": "AI & Machine Learning",
       "website": "https://outpace-ai-51.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-20T11:41:09.013811+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-20T14:18:42.701555+00:00"
     },
     {
       "name": "FundVine — AI That Runs Your Lending Operation",
@@ -131267,6 +131276,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-20T11:41:18.290200+00:00"
+    },
+    {
+      "name": "Webpilote",
+      "slug": "polsia-webpilote",
+      "website": "https://webpilote.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-20T14:18:30.129773+00:00"
+    },
+    {
+      "name": "Rispondo",
+      "slug": "polsia-rispondo",
+      "website": "https://rispondo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-20T14:18:30.327560+00:00"
+    },
+    {
+      "name": "ServeBoard",
+      "slug": "polsia-serveboard",
+      "description": "Clean, structured listings that make your work look professional. Add your skills, areas served, pricing, and portfolio. No templates from 2003.",
+      "description_fr": "Des listes claires et structurées qui donnent à votre travail un aspect professionnel. Ajoutez vos compétences, zones desservies, tarifs et portefeuille. Aucun modèle de 2003.",
+      "category": "Other",
+      "website": "https://serveboard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T14:18:31.381158+00:00"
+    },
+    {
+      "name": "Auraday",
+      "slug": "polsia-auraday",
+      "description": "Every Sunday, Auraday generates a personal report that connects the dots across your entire week. Sleep quality, study output, mood trends, habit consistency, screen time impact. All woven together into insights no single app could give you.",
+      "description_fr": "Chaque dimanche, Auraday génère un rapport personnel qui relie les points tout au long de votre semaine. Qualité du sommeil, résultats des études, tendances de l'humeur, cohérence des habitudes, impact du temps passé devant un écran. Le tout réuni dans des informations qu’aucune application ne pourrait vous fournir à elle seule.",
+      "category": "Other",
+      "website": "https://auraday.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T14:18:31.999640+00:00"
+    },
+    {
+      "name": "Overture",
+      "slug": "polsia-overture-67",
+      "description": "Multi-touch sequences that adapt based on prospect behavior. Opened but didn't reply? New angle. Clicked a link? Double down. Gone quiet? Graceful re-engagement. All without you lifting a finger.",
+      "description_fr": "Séquences multi-touch qui s'adaptent en fonction du comportement des prospects. Vous avez ouvert mais vous n'avez pas répondu ? Nouvel angle. Vous avez cliqué sur un lien ? Doublez la mise. Tu es devenu silencieux ? Réengagement gracieux. Tout cela sans que vous leviez le petit doigt.",
+      "category": "Sales & CRM",
+      "website": "https://overture-67.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T14:18:33.401827+00:00"
+    },
+    {
+      "name": "EventLift",
+      "slug": "polsia-eventlift",
+      "description": "We believe the best events aren't always the biggest. They're the ones that reach the right people. EventLift is building the infrastructure to make that happen for every business, everywhere.",
+      "description_fr": "Nous pensons que les meilleurs événements ne sont pas toujours les plus importants. Ce sont eux qui touchent les bonnes personnes. EventLift construit l'infrastructure nécessaire pour que cela se produise pour chaque entreprise, partout.",
+      "category": "Other",
+      "website": "https://eventlift.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T14:18:34.063787+00:00"
+    },
+    {
+      "name": "ClipRunner — Short",
+      "slug": "polsia-cliprunner",
+      "description": "We create TikToks, Reels, and Shorts that make local businesses blow up. Monthly packages starting at $300.",
+      "description_fr": "Nous créons des TikToks, des Reels et des Shorts qui font exploser les entreprises locales. Forfaits mensuels à partir de 300$.",
+      "category": "Other",
+      "website": "https://cliprunner.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T14:18:34.961947+00:00"
+    },
+    {
+      "name": "FlashLoop — AI Study Tool That Actually Works",
+      "slug": "polsia-flashloop",
+      "description": "FlashLoop exists because students shouldn't have to choose between powerful tools and affordable ones. AI handles the busywork. Science handles the retention. You handle the exams.",
+      "description_fr": "FlashLoop existe parce que les étudiants ne devraient pas avoir à choisir entre des outils puissants et des outils abordables. L'IA gère le travail chargé. La science gère la rétention. Vous gérez les examens.",
+      "category": "AI & Machine Learning",
+      "website": "https://flashloop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T14:18:35.985329+00:00"
+    },
+    {
+      "name": "Leapflow",
+      "slug": "polsia-leapflow",
+      "description": "Leapflow builds and manages AI automation for your customer service, appointment booking, lead generation, and email marketing. You focus on growing. We handle the machines.",
+      "description_fr": "Leapflow crée et gère l'automatisation de l'IA pour votre service client, la prise de rendez-vous, la génération de leads et le marketing par e-mail. Vous vous concentrez sur la croissance. Nous gérons les machines.",
+      "category": "AI & Machine Learning",
+      "website": "https://leapflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T14:18:36.978807+00:00"
+    },
+    {
+      "name": "Nimbusr — Your Cloud Never Sleeps",
+      "slug": "polsia-nimbusr",
+      "description": "Continuously compares your live infrastructure against IaC definitions. When drift is detected, Nimbusr fixes it automatically or alerts you with a one-click remediation plan.",
+      "description_fr": "Compare en permanence votre infrastructure en direct aux définitions IaC. Lorsqu'une dérive est détectée, Nimbusr la corrige automatiquement ou vous alerte avec un plan de remédiation en un clic.",
+      "category": "Entertainment & Media",
+      "website": "https://nimbusr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T14:18:38.412043+00:00"
     }
   ]
 }
