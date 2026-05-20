@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T09:36:59.626247+00:00",
+  "last_updated": "2026-05-20T11:41:20.569770+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -131060,10 +131060,13 @@
     {
       "name": "WashDrop",
       "slug": "polsia-washdrop",
+      "description": "Professional mobile car wash and detailing service in Gqeberha. We come to you. Book online, from R120.",
+      "description_fr": "Service professionnel de lavage de voiture mobile et d'esthétique à Gqeberha. Nous venons à vous. Réservez en ligne, à partir de 120 R.",
+      "category": "Other",
       "website": "https://washdrop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-20T08:50:05.007035+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-20T11:41:20.443342+00:00"
     },
     {
       "name": "LedgerLeap — Marketing for Accounting Startups",
@@ -131163,6 +131166,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-20T08:50:15.197899+00:00"
+    },
+    {
+      "name": "Resolva",
+      "slug": "polsia-resolva-4",
+      "website": "https://resolva-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-20T11:41:08.675011+00:00"
+    },
+    {
+      "name": "HuskCraft",
+      "slug": "polsia-huskcraft",
+      "website": "https://huskcraft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-20T11:41:08.867078+00:00"
+    },
+    {
+      "name": "Outpace",
+      "slug": "polsia-outpace-ai-51",
+      "website": "https://outpace-ai-51.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-20T11:41:09.013811+00:00"
+    },
+    {
+      "name": "FundVine — AI That Runs Your Lending Operation",
+      "slug": "polsia-fundvine",
+      "description": "Lending is still a people-heavy, paper-heavy business. Every deal touches a dozen hands before it funds. Brokers email bank statements. Underwriters eyeball spreadsheets. Deals die in the pipeline because someone forgot to follow up.",
+      "description_fr": "Le prêt est toujours une activité qui nécessite beaucoup de ressources humaines et de papier. Chaque transaction touche une douzaine de mains avant d'être financée. Les courtiers envoient des relevés bancaires par courrier électronique. Feuilles de calcul du globe oculaire des souscripteurs. Les transactions meurent en cours parce que quelqu’un a oublié de faire un suivi.",
+      "category": "AI & Machine Learning",
+      "website": "https://fundvine.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T11:41:10.427139+00:00"
+    },
+    {
+      "name": "Finalé — The last thing you should have to worry about",
+      "slug": "polsia-finale",
+      "description": "AI that helps families close out a loved one's digital life after death. Subscriptions, accounts, photos, obituaries. One fee, handled.",
+      "description_fr": "Une IA qui aide les familles à mettre un terme à la vie numérique d'un proche après son décès. Abonnements, comptes, photos, nécrologies. Un seul frais, géré.",
+      "category": "AI & Machine Learning",
+      "website": "https://finale.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T11:41:11.822312+00:00"
+    },
+    {
+      "name": "SprintIA — Services IA en 48h",
+      "slug": "polsia-sprintia",
+      "description": "SprintIA livre des services IA aux PME et agences francophones en 48h. Chatbots, automatisation, contenu, audits. Prix fixes, resultats rapides.",
+      "description_fr": "SprintIA livre des services IA aux PME et agences francophones en 48h. Chatbots, automatisation, contenu, audits. Prix ​​fixes, résultats rapides.",
+      "category": "Software & SaaS",
+      "website": "https://sprintia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T11:41:13.355229+00:00"
+    },
+    {
+      "name": "CompoundCast",
+      "slug": "polsia-compoundcast",
+      "description": "Most finance content is built on personality. Ours is built on data. Every video is AI-produced, every analysis is rigorous, every insight compounds over time. We document a real investment journey, anonymously, with the precision of an engineer and the patience of a long-term investor.",
+      "description_fr": "La plupart des contenus financiers reposent sur la personnalité. La nôtre est construite sur des données. Chaque vidéo est produite par l’IA, chaque analyse est rigoureuse, chaque aperçu s’accumule au fil du temps. Nous documentons un véritable parcours d'investissement, de manière anonyme, avec la précision d'un ingénieur et la patience d'un investisseur de long terme.",
+      "category": "Entertainment & Media",
+      "website": "https://compoundcast.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T11:41:14.601750+00:00"
+    },
+    {
+      "name": "Somnix",
+      "slug": "polsia-somnix",
+      "description": "63 million small businesses in India alone. Most owners work 14-hour days doing things AI can already do. Somnix changes that equation entirely. You bring the vision. We bring the tireless execution.",
+      "description_fr": "63 millions de petites entreprises rien qu’en Inde. La plupart des propriétaires travaillent 14 heures par jour pour faire des choses que l’IA peut déjà faire. Somnix change complètement cette équation. Vous apportez la vision. Nous apportons l'exécution infatigable.",
+      "category": "AI & Machine Learning",
+      "website": "https://somnix.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T11:41:16.205636+00:00"
+    },
+    {
+      "name": "Formuli — AI",
+      "slug": "polsia-formuli-4",
+      "description": "The packaging industry knows the answer is sustainable materials. The barrier to adoption has always been R&D speed. Formuli removes that barrier entirely, giving every CPG brand the power to design, simulate, and validate sustainable packaging at the speed of computation.",
+      "description_fr": "L’industrie de l’emballage sait que la réponse passe par des matériaux durables. L’obstacle à l’adoption a toujours été la rapidité de la R&D. Formulali supprime entièrement cette barrière, donnant à chaque marque CPG le pouvoir de concevoir, simuler et valider des emballages durables à la vitesse du calcul.",
+      "category": "AI & Machine Learning",
+      "website": "https://formuli-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T11:41:16.921680+00:00"
+    },
+    {
+      "name": "Pensiva",
+      "slug": "polsia-pensiva",
+      "description": "An AI-powered platform for women's thought leadership. Essays, perspectives, and analysis that matter. No lifestyle fluff.",
+      "description_fr": "Une plateforme basée sur l'IA pour le leadership éclairé des femmes. Essais, perspectives et analyses qui comptent. Pas de trucs de style de vie.",
+      "category": "Software & SaaS",
+      "website": "https://pensiva.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T11:41:18.290200+00:00"
     }
   ]
 }
