@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T03:42:20.073110+00:00",
+  "last_updated": "2026-05-20T05:50:25.647618+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -130851,18 +130851,24 @@
     {
       "name": "ServiKash",
       "slug": "polsia-servikash",
+      "description": "Plateforme autonome qui unifie Wave, Orange Money et Djamo pour générer des revenus en Côte d'Ivoire.",
+      "description_fr": "Plateforme autonome qui unifie Wave, Orange Money et Djamo pour générer des revenus en Côte d'Ivoire.",
+      "category": "Other",
       "website": "https://servikash.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-20T01:35:04.255942+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-20T05:50:23.891546+00:00"
     },
     {
-      "name": "CalendarSnap",
+      "name": "CalendarSnap — Never Miss Another Lead",
       "slug": "polsia-calendarsnap",
+      "description": "The businesses winning in 2026 aren't the ones with the biggest ad budgets. They're the ones answering every single inquiry, instantly, around the clock. CalendarSnap makes that automatic.",
+      "description_fr": "Les entreprises gagnantes en 2026 ne sont pas celles qui disposent des plus gros budgets publicitaires. Ce sont eux qui répondent à chaque demande, instantanément, 24 heures sur 24. CalendarSnap rend cela automatique.",
+      "category": "Marketing & Advertising",
       "website": "https://calendarsnap.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-20T01:35:04.427192+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-20T05:50:25.358168+00:00"
     },
     {
       "name": "Easton Grinds",
@@ -130940,6 +130946,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-20T01:35:13.224582+00:00"
+    },
+    {
+      "name": "BillionTechOS",
+      "slug": "polsia-billiontechos",
+      "website": "https://billiontechos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-20T05:50:03.265779+00:00"
+    },
+    {
+      "name": "LushDrop — Aesthetic Digital Products That Sell Themselves",
+      "slug": "polsia-lushdrop",
+      "description": "Most sellers throw a Canva template on Etsy and hope for the best. LushDrop is different. Every product is designed to be screenshot-worthy, share-worthy, and worth coming back for. We combine planners, guides, and templates into one cohesive brand that Gen Z actually wants to buy.",
+      "description_fr": "La plupart des vendeurs lancent un modèle Canva sur Etsy et espèrent le meilleur. LushDrop est différent. Chaque produit est conçu pour être digne d'une capture d'écran, digne d'être partagé et mérite d'être revenu. Nous combinons des planificateurs, des guides et des modèles en une seule marque cohérente que la génération Z souhaite réellement acheter.",
+      "category": "Marketing & Advertising",
+      "website": "https://lushdrop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T05:50:04.287111+00:00"
+    },
+    {
+      "name": "ShipForge — AI Agents That Ship Code",
+      "slug": "polsia-shipforge-16",
+      "description": "ShipForge deploys autonomous AI agents that build, test, and ship production-grade software. No standup meetings. No sprint planning. Just code that works.",
+      "description_fr": "ShipForge déploie des agents d'IA autonomes qui créent, testent et expédient des logiciels de production. Pas de réunions debout. Pas de planification de sprint. Juste du code qui fonctionne.",
+      "category": "AI & Machine Learning",
+      "website": "https://shipforge-16.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T05:50:05.953449+00:00"
+    },
+    {
+      "name": "WearSpark — Custom Tees, Zero Inventory",
+      "slug": "polsia-wearspark",
+      "description": "WearSpark exists so you never have to choose between creativity and commerce. Your art becomes wearable. Your ideas become income. No factory. No warehouse. No gamble.",
+      "description_fr": "WearSpark existe pour que vous n'ayez jamais à choisir entre créativité et commerce. Votre art devient portable. Vos idées deviennent des revenus. Pas d'usine. Pas d'entrepôt. Aucun pari.",
+      "category": "Sustainability & Green",
+      "website": "https://wearspark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T05:50:07.900478+00:00"
+    },
+    {
+      "name": "PlanBrain",
+      "slug": "polsia-planbrain",
+      "description": "Built for students who want to spend less time organizing and more time actually learning. No more spreadsheets. No more forgotten deadlines. Just open PlanBrain and know exactly what to do next.",
+      "description_fr": "Conçu pour les étudiants qui souhaitent passer moins de temps à s'organiser et plus de temps à apprendre réellement. Fini les feuilles de calcul. Fini les délais oubliés. Ouvrez simplement PlanBrain et sachez exactement quoi faire ensuite.",
+      "category": "Education",
+      "website": "https://planbrain.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T05:50:08.757471+00:00"
+    },
+    {
+      "name": "LeadVortex",
+      "slug": "polsia-leadvortex",
+      "description": "LeadVortex exists because local service businesses deserve the same AI-powered growth systems that enterprise companies have had for years. We build it, we run it, we optimize it. You focus on what you do best: serving your customers.",
+      "description_fr": "LeadVortex existe parce que les entreprises de services locales méritent les mêmes systèmes de croissance basés sur l'IA que ceux dont disposent les entreprises depuis des années. Nous le construisons, nous l'exécutons, nous l'optimisons. Vous vous concentrez sur ce que vous faites le mieux : servir vos clients.",
+      "category": "AI & Machine Learning",
+      "website": "https://leadvortex.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T05:50:10.465913+00:00"
+    },
+    {
+      "name": "SignalDesk",
+      "slug": "polsia-signaldesk-79",
+      "description": "Junior analysts spend 80+ hours a week digging through filings, building models, and compiling briefs. Enterprise tools cost $25K+ per seat. Smaller funds and corporate teams are left choosing between expensive terminals or spreadsheets and guesswork.",
+      "description_fr": "Les analystes juniors passent plus de 80 heures par semaine à fouiller dans les dossiers, à créer des modèles et à compiler des mémoires. Les outils d'entreprise coûtent plus de 25 000 $ par siège. Les petits fonds et les équipes d'entreprise doivent choisir entre des terminaux ou des feuilles de calcul coûteux et des conjectures.",
+      "category": "Other",
+      "website": "https://signaldesk-79.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T05:50:11.953432+00:00"
+    },
+    {
+      "name": "CapitalDeskOS",
+      "slug": "polsia-capitaldeskos",
+      "description": "CapitalDeskOS is built for the lender who knows their market, knows their borrowers, and needs technology that keeps up. Every fix-and-flip, every multi-family deal, every construction loan, managed from one place that actually understands how deals get done.",
+      "description_fr": "CapitalDeskOS est conçu pour le prêteur qui connaît son marché, connaît ses emprunteurs et a besoin d'une technologie à la pointe de la technologie. Chaque réparation, chaque transaction multifamiliale, chaque prêt à la construction, géré à partir d'un seul endroit qui comprend réellement comment les transactions sont conclues.",
+      "category": "Software & SaaS",
+      "website": "https://capitaldeskos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T05:50:13.559753+00:00"
+    },
+    {
+      "name": "MonoTrend",
+      "slug": "polsia-monotrend",
+      "description": "MonoTrend identifie les 10 produits les plus tendance et les vend via des mono-sites optimisés. Zéro gestion, 100% automatisé.",
+      "description_fr": "MonoTrend identifie les 10 produits les plus tendance et les vendus via des mono-sites optimisés. Zéro gestion, 100% automatisé.",
+      "category": "Other",
+      "website": "https://monotrend.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T05:50:15.196906+00:00"
+    },
+    {
+      "name": "Starry Labs",
+      "slug": "polsia-starry-labs",
+      "description": "Not generic business courses. Curated frameworks, mental models, and case studies mapped to your stage: pre-idea, validation, fundraising, or scaling.",
+      "description_fr": "Pas de cours de commerce génériques. Cadres sélectionnés, modèles mentaux et études de cas adaptés à votre étape : pré-idée, validation, collecte de fonds ou mise à l'échelle.",
+      "category": "Education",
+      "website": "https://starry-labs.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-20T05:50:16.539120+00:00"
     }
   ]
 }
