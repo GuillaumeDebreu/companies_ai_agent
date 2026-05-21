@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T23:02:02.276492+00:00",
+  "last_updated": "2026-05-21T00:15:51.104452+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -131714,26 +131714,35 @@
     {
       "name": "Flowline",
       "slug": "polsia-flowline-4",
+      "description": "Scrapes LinkedIn, Crunchbase, and public databases to surface companies and contacts that match your ideal customer profile — no manual list building.",
+      "description_fr": "Supprime LinkedIn, Crunchbase et les bases de données publiques pour faire apparaître les entreprises et les contacts qui correspondent à votre profil client idéal – pas de création manuelle de liste.",
+      "category": "Other",
       "website": "https://flowline-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-20T23:01:45.495037+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-21T00:15:48.511853+00:00"
     },
     {
-      "name": "HuggyArenaOS",
+      "name": "HuggyArenaOS — Command Center for Your Gaming Portal",
       "slug": "polsia-huggyarenaos",
+      "description": "Gaming portals scale with traffic, not headcount. HuggyArenaOS is the infrastructure that turns a one-person operation into a machine that discovers games, attracts players, and grows revenue while you sleep.",
+      "description_fr": "Les portails de jeux évoluent en fonction du trafic et non des effectifs. HuggyArenaOS est l'infrastructure qui transforme l'opération d'une seule personne en une machine qui découvre des jeux, attire des joueurs et augmente ses revenus pendant que vous dormez.",
+      "category": "Entertainment & Media",
       "website": "https://huggyarenaos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-20T23:01:45.875943+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-21T00:15:49.590240+00:00"
     },
     {
       "name": "Vitrina",
       "slug": "polsia-vitrina-4",
+      "description": "Millions of local shops have zero digital presence. Not because the owners don't want one, but because they don't have the time, the skills, or the staff to run it. Meanwhile, their customers are buying from whoever shows up in their Instagram feed first.",
+      "description_fr": "Des millions de magasins locaux n’ont aucune présence numérique. Non pas parce que les propriétaires n’en veulent pas, mais parce qu’ils n’ont pas le temps, les compétences ou le personnel pour le faire fonctionner. Pendant ce temps, leurs clients achètent auprès de celui qui apparaît en premier dans leur flux Instagram.",
+      "category": "E-Commerce & Retail",
       "website": "https://vitrina-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-20T23:01:46.336703+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-21T00:15:50.554258+00:00"
     },
     {
       "name": "PulseIQ — Autonomous Political Intelligence",
@@ -131811,6 +131820,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-20T23:01:54.908279+00:00"
+    },
+    {
+      "name": "SetupPilot",
+      "slug": "polsia-setuppilot",
+      "website": "https://setuppilot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-21T00:15:34.230064+00:00"
+    },
+    {
+      "name": "Deckhand",
+      "slug": "polsia-deckhand-25",
+      "website": "https://deckhand-25.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-21T00:15:34.532415+00:00"
+    },
+    {
+      "name": "Pingdoor — Never Miss a Lead Again",
+      "slug": "polsia-pingdoor",
+      "description": "One extra booked job per week pays for Pingdoor many times over. A roofer closing one additional $5,000 estimate. A med spa filling three more slots. A dentist converting a missed Friday call into a Monday crown.",
+      "description_fr": "Un travail réservé supplémentaire par semaine rapporte plusieurs fois à Pingdoor. Un couvreur clôture une estimation supplémentaire de 5 000 $. Un spa médical remplissant trois emplacements supplémentaires. Un dentiste convertit un appel manqué du vendredi en une couronne du lundi.",
+      "category": "Marketing & Advertising",
+      "website": "https://pingdoor.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T00:15:35.812698+00:00"
+    },
+    {
+      "name": "WrapForge — AI",
+      "slug": "polsia-704-wrap-city",
+      "description": "Design revisions take days. Quotes require measuring every vehicle by hand. Leads come from word-of-mouth alone. Meanwhile, thousands of blank service vans drive past your shop every day.",
+      "description_fr": "Les révisions de conception prennent des jours. Les devis nécessitent de mesurer chaque véhicule à la main. Les pistes proviennent uniquement du bouche-à-oreille. Pendant ce temps, des milliers de camionnettes de service vierges passent chaque jour devant votre magasin.",
+      "category": "AI & Machine Learning",
+      "website": "https://704-wrap-city.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T00:15:36.641748+00:00"
+    },
+    {
+      "name": "ProcesIA — Automatización con IA para PYMEs",
+      "slug": "polsia-benedicto",
+      "description": "ProcesIA existe porque cada PYME en Latinoamérica merece acceso a la misma tecnología que usan las grandes empresas. Sin complicaciones, sin jerga técnica, sin sobrecostos.",
+      "description_fr": "Le processus existe parce que chaque PYME en Amérique Latine a simplement accès à la même technologie que les grandes entreprises utilisent. Sans complications, sans jerga técnica, sans sobrecostos.",
+      "category": "Sustainability & Green",
+      "website": "https://benedicto.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T00:15:37.848276+00:00"
+    },
+    {
+      "name": "Ringfast — Never Miss Another Lead",
+      "slug": "polsia-ringfast",
+      "description": "When you miss a call or a lead hits your website, Ringfast answers in under a second. The AI sounds natural, knows your business, and handles the conversation like your best front-desk person.",
+      "description_fr": "Lorsque vous manquez un appel ou qu'un prospect arrive sur votre site Web, Ringfast répond en moins d'une seconde. L'IA semble naturelle, connaît votre entreprise et gère la conversation comme votre meilleure personne à la réception.",
+      "category": "AI & Machine Learning",
+      "website": "https://ringfast.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T00:15:38.838400+00:00"
+    },
+    {
+      "name": "VERIFY",
+      "slug": "polsia-verifynaijaos",
+      "description": "In a market where $18 billion is lost annually to fraud, verification is not optional. It is the difference between a business that survives and one that does not. We make trust accessible.",
+      "description_fr": "Dans un marché où 18 milliards de dollars sont perdus chaque année à cause de la fraude, la vérification n'est pas facultative. C’est la différence entre une entreprise qui survit et une autre qui ne survit pas. Nous rendons la confiance accessible.",
+      "category": "Other",
+      "website": "https://verifynaijaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T00:15:40.051417+00:00"
+    },
+    {
+      "name": "BidHawk",
+      "slug": "polsia-bidhawk-4",
+      "description": "Small and mid-sized contractors lose billions in opportunities every year, not because they can't do the work, but because they can't keep up with the paperwork. BidHawk changes that equation. One AI agent. Every portal. Every deadline. Every proposal. Running while you focus on delivering.",
+      "description_fr": "Les petits et moyens entrepreneurs perdent des milliards d'opportunités chaque année, non pas parce qu'ils ne peuvent pas effectuer le travail, mais parce qu'ils ne peuvent pas suivre la paperasse. BidHawk change cette équation. Un agent IA. Chaque portail. Chaque date limite. Chaque proposition. Courez pendant que vous vous concentrez sur la livraison.",
+      "category": "AI & Machine Learning",
+      "website": "https://bidhawk-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T00:15:42.860239+00:00"
+    },
+    {
+      "name": "Glyphic — Autonomous Creative Production",
+      "slug": "polsia-glyphic-9",
+      "description": "Glyphic is an AI production studio that generates on-brand visual content autonomously. Social graphics, ad creatives, presentations, email headers. All on schedule, all on brand.",
+      "description_fr": "Glyphic est un studio de production d'IA qui génère de manière autonome du contenu visuel de marque. Graphiques sociaux, créations publicitaires, présentations, en-têtes d'e-mails. Tout dans les délais, tout selon la marque.",
+      "category": "AI & Machine Learning",
+      "website": "https://glyphic-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T00:15:43.596059+00:00"
+    },
+    {
+      "name": "LeadFetch — Never Lose Another Lead to a Missed Call",
+      "slug": "polsia-leadfetch",
+      "description": "Someone calls and you can't pick up? Within 5 seconds, AI sends them a personalized text. \"Hey, sorry we missed you. How can we help?\" The conversation starts before they can dial your competitor.",
+      "description_fr": "Quelqu'un vous appelle et vous ne parvenez pas à répondre ? En 5 secondes, l’IA leur envoie un texte personnalisé. \"Hé, désolé, tu nous as manqué. Comment pouvons-nous vous aider?\" La conversation commence avant qu'ils puissent appeler votre concurrent.",
+      "category": "AI & Machine Learning",
+      "website": "https://leadfetch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T00:15:44.529097+00:00"
     }
   ]
 }
