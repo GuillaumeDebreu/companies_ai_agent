@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T09:43:45.107774+00:00",
+  "last_updated": "2026-05-21T11:46:51.885740+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -132044,10 +132044,13 @@
     {
       "name": "HiveCast",
       "slug": "polsia-hivecast",
+      "description": "The creator economy is $435 billion and growing. But every creator hits the same ceiling: one person, one brand, 24 hours in a day. HiveCast removes the ceiling entirely. AI agents run at compute speed, not human speed. The only limit is how many brands you choose to deploy.",
+      "description_fr": "L’économie des créateurs représente 435 milliards de dollars et est en croissance. Mais chaque créateur atteint le même plafond : une personne, une marque, 24 heures par jour. HiveCast supprime entièrement le plafond. Les agents IA fonctionnent à la vitesse du calcul, et non à la vitesse humaine. La seule limite est le nombre de marques que vous choisissez de déployer.",
+      "category": "AI & Machine Learning",
       "website": "https://hivecast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-21T08:24:47.217325+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-21T11:46:48.269706+00:00"
     },
     {
       "name": "BetWire — Lines, Injuries & Picks Across Every Major Sport",
@@ -132071,10 +132074,13 @@
     {
       "name": "Cloud9 Events",
       "slug": "polsia-cloud9-events",
+      "description": "Crane-hoisted sky lounges for premium VIP viewing at horse races, boxing matches, and major outdoor events.",
+      "description_fr": "Des salons aériens hissés par une grue pour un visionnage VIP haut de gamme lors de courses de chevaux, de matchs de boxe et d'événements majeurs en plein air.",
+      "category": "Other",
       "website": "https://cloud9-events.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-21T08:24:49.257549+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-21T11:46:50.364453+00:00"
     },
     {
       "name": "Glyphix — Your AI Design Team",
@@ -132141,6 +132147,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-21T08:24:56.371964+00:00"
+    },
+    {
+      "name": "VeloMedia",
+      "slug": "polsia-velomedia",
+      "website": "https://velomedia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-21T11:46:32.446585+00:00"
+    },
+    {
+      "name": "LoanPulse",
+      "slug": "polsia-loanpulse",
+      "description": "Every day that a business waits for a loan approval, they're losing opportunities. Workers wait. Suppliers wait. Growth stalls. LoanPulse exists to make capital move at the speed of business — not the speed of banks.",
+      "description_fr": "Chaque jour où une entreprise attend l’approbation d’un prêt, elle perd des opportunités. Les ouvriers attendent. Les fournisseurs attendent. La croissance s’arrête. LoanPulse existe pour faire circuler les capitaux au rythme des entreprises, et non au rythme des banques.",
+      "category": "Software & SaaS",
+      "website": "https://loanpulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T11:46:33.989488+00:00"
+    },
+    {
+      "name": "FrameNook — Plan, Design & Build Your Tiny Home",
+      "slug": "polsia-framenook",
+      "description": "Plans live on one site. Design tools on another. Cost estimates? Good luck finding ones that reflect actual lumber prices in your zip code. And the \"community\" is scattered across Reddit threads and Facebook groups nobody moderates.",
+      "description_fr": "Les plans vivent sur un seul site. Concevoir des outils sur un autre. Des estimations de coûts ? Bonne chance pour en trouver qui reflètent les prix réels du bois dans votre code postal. Et la « communauté » est dispersée dans les fils de discussion Reddit et les groupes Facebook que personne ne modère.",
+      "category": "Social & Community",
+      "website": "https://framenook.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T11:46:51.883585+00:00"
+    },
+    {
+      "name": "PixelYard",
+      "slug": "polsia-pixelyard",
+      "description": "The jerk spot on the corner. The hair salon your aunt swears by. The school that shaped your community. These businesses deserve the same digital presence as the big brands, at prices that make sense.",
+      "description_fr": "Le spot de connard dans le coin. Le salon de coiffure par lequel votre tante ne jure que. L'école qui a façonné votre communauté. Ces entreprises méritent la même présence numérique que les grandes marques, à des prix raisonnables.",
+      "category": "Marketing & Advertising",
+      "website": "https://pixelyard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T11:46:35.867879+00:00"
+    },
+    {
+      "name": "Launchline — Autonomous Marketing AI",
+      "slug": "polsia-launchline-2",
+      "description": "Launchline is for founders and marketers who are done waiting for agencies, chasing freelancers, and writing briefs they'll never see again. One agent. Every platform. Always running.",
+      "description_fr": "Launchline s'adresse aux fondateurs et aux spécialistes du marketing qui en ont assez d'attendre des agences, de courir après des pigistes et de rédiger des briefs qu'ils ne reverront plus jamais. Un agent. Chaque plateforme. Toujours en train de courir.",
+      "category": "AI & Machine Learning",
+      "website": "https://launchline-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T11:46:37.429596+00:00"
+    },
+    {
+      "name": "4 Kings Pictures — Screenplay to Screen",
+      "slug": "polsia-4-kings-pictures",
+      "description": "Independent. Vertically integrated. Uncompromising. 4 Kings Pictures exists because the best stories deserve to be controlled by the people who create them, from the first word on the page to the last frame on the screen.",
+      "description_fr": "Indépendant. Intégré verticalement. Intransigeant. 4 Kings Pictures existe parce que les meilleures histoires méritent d'être contrôlées par ceux qui les créent, du premier mot sur la page à la dernière image à l'écran.",
+      "category": "Other",
+      "website": "https://4-kings-pictures.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T11:46:38.514467+00:00"
+    },
+    {
+      "name": "BuildAgentOS",
+      "slug": "polsia-buildagentos",
+      "description": "The AI agent market doubled in two years to $7.8B. Enterprise adoption of multi-agent systems grew 327% in four months. BuildMyAgent sits at the exact intersection: no-code accessibility meets agency-scale distribution. The marketplace is your moat.",
+      "description_fr": "Le marché des agents d’IA a doublé en deux ans pour atteindre 7,8 milliards de dollars. L'adoption par les entreprises des systèmes multi-agents a augmenté de 327 % en quatre mois. BuildMyAgent se situe à l'intersection exacte : l'accessibilité sans code rencontre la distribution à l'échelle de l'agence. Le marché est votre fossé.",
+      "category": "AI & Machine Learning",
+      "website": "https://buildagentos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T11:46:40.243184+00:00"
+    },
+    {
+      "name": "GhostHustle",
+      "slug": "polsia-ghosthustle",
+      "description": "An autonomous AI that manages your entire career in the background. Jobs, gigs, resumes, personal brand, interview prep. All running 24/7, like a talent agent you never have to call.",
+      "description_fr": "Une IA autonome qui gère toute votre carrière en arrière-plan. Emplois, concerts, CV, marque personnelle, préparation aux entretiens. Le tout fonctionnant 24h/24 et 7j/7, comme un agent artistique que vous n'aurez jamais besoin d'appeler.",
+      "category": "AI & Machine Learning",
+      "website": "https://ghosthustle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T11:46:41.055182+00:00"
+    },
+    {
+      "name": "TankPulse",
+      "slug": "polsia-tankpulse",
+      "description": "TankPulse uses AI to monitor your industrial tank inventory 24/7, predict shortages before they happen, and keep your operations running without interruptions.",
+      "description_fr": "TankPulse utilise l'IA pour surveiller votre inventaire de réservoirs industriels 24h/24 et 7j/7, prédire les pénuries avant qu'elles ne surviennent et maintenir vos opérations sans interruption.",
+      "category": "AI & Machine Learning",
+      "website": "https://tankpulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T11:46:42.939223+00:00"
+    },
+    {
+      "name": "Klerq — Your AI Back",
+      "slug": "polsia-klerq-2",
+      "description": "You became a freelancer to do work you love. Instead, you spend evenings wrestling with URSSAF portals, chasing overdue invoices, and wondering if your TVA threshold just crossed. France's e-invoicing mandate hits September 2026. The paperwork is only getting worse.",
+      "description_fr": "Vous êtes devenu indépendant pour faire un travail que vous aimez. Au lieu de cela, vous passez vos soirées à vous débattre avec les portails de l'URSSAF, à courir après les factures en souffrance et à vous demander si votre seuil TVA vient de franchir. Le mandat de facturation électronique en France arrive en septembre 2026. La paperasse ne fait qu'empirer.",
+      "category": "AI & Machine Learning",
+      "website": "https://klerq-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T11:46:44.479287+00:00"
     }
   ]
 }
