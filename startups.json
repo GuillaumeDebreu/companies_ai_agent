@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T19:55:40.885438+00:00",
+  "last_updated": "2026-05-21T21:08:58.653486+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -132482,12 +132482,15 @@
       "scraped_at": "2026-05-21T17:18:19.905013+00:00"
     },
     {
-      "name": "AltarCorner",
+      "name": "AltarCorner — Communion Supplies for African Churches",
       "slug": "polsia-altarcorner",
+      "description": "Communion wafers, wine, cups, and accessories — stocked locally, sourced reliably, shipped fast. No more waiting on international suppliers.",
+      "description_fr": "Gaufrettes de communion, vin, tasses et accessoires — stockés localement, d'origine fiable, expédiés rapidement. Plus besoin d'attendre les fournisseurs internationaux.",
+      "category": "Other",
       "website": "https://altarcorner.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-21T19:22:06.481391+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-21T21:08:54.336745+00:00"
     },
     {
       "name": "WorkStack — AI Automation for Local Businesses",
@@ -132501,20 +132504,26 @@
       "scraped_at": "2026-05-21T19:22:17.507012+00:00"
     },
     {
-      "name": "FrontDeskAI",
+      "name": "FrontDeskAI — AI Phone Agents for Service Businesses",
       "slug": "polsia-frontdesk-ai-3",
+      "description": "FrontDeskAI answers every call, books appointments, and qualifies leads — 24 hours a day, 7 days a week. Novacations. No lunch breaks. No missed customers.",
+      "description_fr": "FrontDeskAI répond à chaque appel, prend des rendez-vous et qualifie les prospects, 24 heures sur 24, 7 jours sur 7. Novacations. Pas de pause déjeuner. Aucun client manqué.",
+      "category": "AI & Machine Learning",
       "website": "https://frontdesk-ai-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-21T19:22:07.204462+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-21T21:08:55.822975+00:00"
     },
     {
-      "name": "Vitória Makeup Studio",
+      "name": "Decola — Venda enquanto dorme",
       "slug": "polsia-vitoria-makeup",
+      "description": "Um vendedor digital que nunca tira férias, nunca pede aumento e nunca falha em dar follow up. Para PMEs brasileiras que querem crescer sem depender de gente difícil de encontrar.",
+      "description_fr": "Un fournisseur numérique qui ne tire jamais, n'augmente pas et ne fait pas de suivi. Pour les PME brésiliennes qui veulent grandir sans dépendre des personnes difficiles à rencontrer.",
+      "category": "Sustainability & Green",
       "website": "https://vitoria-makeup.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-21T19:22:07.563803+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-21T21:08:56.813829+00:00"
     },
     {
       "name": "ShelfIQ",
@@ -132541,10 +132550,13 @@
     {
       "name": "CodeScribe",
       "slug": "polsia-codescribe-2",
+      "description": "AI coding agent for independent medical practices. Codes encounters 24/7, catches errors before claims go out, fights denials automatically.",
+      "description_fr": "Agent de codage IA pour cabinets médicaux indépendants. Les codes sont détectés 24h/24 et 7j/7, détectent les erreurs avant que les réclamations ne soient envoyées, combattent automatiquement les refus.",
+      "category": "AI & Machine Learning",
       "website": "https://codescribe-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-21T19:22:09.469620+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-21T21:08:57.839058+00:00"
     },
     {
       "name": "BassDrive — JBL Car Audio That Fits Your Vehicle",
@@ -132578,6 +132590,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-21T19:22:13.684377+00:00"
+    },
+    {
+      "name": "LinkScout",
+      "slug": "polsia-linkscout-2",
+      "website": "https://linkscout-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-21T21:08:44.274216+00:00"
+    },
+    {
+      "name": "Hundo",
+      "slug": "polsia-hundo",
+      "website": "https://hundo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-21T21:08:44.594848+00:00"
+    },
+    {
+      "name": "SparkleOS",
+      "slug": "polsia-sparkleos-4",
+      "website": "https://sparkleos-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-21T21:08:44.957122+00:00"
+    },
+    {
+      "name": "PlatePixels",
+      "slug": "polsia-platepixels",
+      "website": "https://platepixels.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-21T21:08:45.287795+00:00"
+    },
+    {
+      "name": "TrainPly",
+      "slug": "polsia-trainply",
+      "description": "TrainPly gives you the feedback loop that used to require a full-time coach. Analysis, recommendations, and progress tracking — all automated, all the time.",
+      "description_fr": "TrainPly vous offre la boucle de rétroaction qui nécessitait auparavant un coach à temps plein. Analyse, recommandations et suivi des progrès, le tout automatisé, à tout moment.",
+      "category": "Sustainability & Green",
+      "website": "https://trainply.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T21:08:46.084087+00:00"
+    },
+    {
+      "name": "PagePilot",
+      "slug": "polsia-pagepilot-37",
+      "website": "https://pagepilot-37.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-21T21:08:46.510884+00:00"
+    },
+    {
+      "name": "Cartage — Professional Box Truck Delivery in South Florida",
+      "slug": "polsia-cartage",
+      "description": "Cartage exists because the market is split: cheap operators with no accountability, or overpriced franchises with minimums and deposits. We're the middle option — professional, reliable, and priced for people who just need their stuff moved without the headache.",
+      "description_fr": "Le trafic existe parce que le marché est divisé : des opérateurs bon marché sans responsabilité, ou des franchises trop chères avec des minimums et des dépôts. Nous sommes l'option intermédiaire : professionnelle, fiable et abordable pour les personnes qui ont juste besoin de déplacer leurs affaires sans se prendre la tête.",
+      "category": "E-Commerce & Retail",
+      "website": "https://cartage.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T21:08:48.160654+00:00"
+    },
+    {
+      "name": "AtypikOS — Le système d'exploitation pour mandataires immobiliers",
+      "slug": "polsia-atypikos",
+      "description": "La plupart des mandatairesindependent gèrent leur activité avec un tableur, WhatsApp, et leur mémoire. Cela fonctionne. Jusqu'à ce qu'un lead vous échappe, qu'un suivi soit oublié, qu'un prospect disparaissse.",
+      "description_fr": "La plupart des mandataires indépendants gèrent leur activité avec un tableau, WhatsApp, et leur mémoire. Cela fonctionne. Jusqu'à ce qu'un lead vous échappe, qu'un suivi soit oublié, qu'une perspective disparaissse.",
+      "category": "Sales & CRM",
+      "website": "https://atypikos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T21:08:49.728680+00:00"
+    },
+    {
+      "name": "CyberOS",
+      "slug": "polsia-cyberos",
+      "website": "https://cyberos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-21T21:08:49.840431+00:00"
+    },
+    {
+      "name": "Apex Capital Investments — Institutional Multifamily Real Estate",
+      "slug": "polsia-apex-capital-investments",
+      "description": "We underwrite conservatively, acquire at the right basis, and execute with precision. Every property we buy must have a clear value creation story — operational improvements, unit upgrades, or market repositioning that generates cash flow, equity growth, and refinancing optionality.",
+      "description_fr": "Nous souscrivons de manière prudente, acquérons sur la bonne base et exécutons avec précision. Chaque propriété que nous achetons doit avoir une histoire claire de création de valeur : améliorations opérationnelles, mises à niveau d'unités ou repositionnement sur le marché qui génère des flux de trésorerie, une croissance des capitaux propres et une option de refinancement.",
+      "category": "Real Estate",
+      "website": "https://apex-capital-investments.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-21T21:08:51.903955+00:00"
     }
   ]
 }
