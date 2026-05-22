@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T09:28:33.856025+00:00",
+  "last_updated": "2026-05-22T11:52:07.428631+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -133144,10 +133144,13 @@
     {
       "name": "VibeThread",
       "slug": "polsia-vibethread",
+      "description": "AI-crafted apparel designs. No inventory. No compromise. Just original style, printed on demand.",
+      "description_fr": "Conceptions de vêtements conçues par l'IA. Pas d'inventaire. Aucun compromis. Un style juste original, imprimé à la demande.",
+      "category": "AI & Machine Learning",
       "website": "https://vibethread.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T08:58:54.181830+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T11:52:07.337507+00:00"
     },
     {
       "name": "SparkPad — Digital Content Agency for Kenyan SMBs",
@@ -133247,6 +133250,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-22T08:59:09.521516+00:00"
+    },
+    {
+      "name": "ScribeKeeper",
+      "slug": "polsia-scribekeeper",
+      "website": "https://scribekeeper.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T11:51:54.049086+00:00"
+    },
+    {
+      "name": "VitaOS — Healthcare Operations System",
+      "slug": "polsia-vitaos-2",
+      "description": "Every feature is designed for how healthcare practices actually work: hybrid visit types, insurance and self-pay flows, corporate accounts, and the constant churn of patient intake.",
+      "description_fr": "Chaque fonctionnalité est conçue pour le fonctionnement réel des pratiques de soins de santé : types de visites hybrides, flux d'assurance et d'auto-paiement, comptes d'entreprise et taux de désabonnement constant des patients.",
+      "category": "Health & Wellness",
+      "website": "https://vitaos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T11:51:55.661867+00:00"
+    },
+    {
+      "name": "OddsEdge",
+      "slug": "polsia-oddsedge-2",
+      "description": "440 million Africans bet on sports. Most lose because they're following bad tipsters. OddsEdge is built for the bettor who wants to think, analyze, and win — not just hope.",
+      "description_fr": "440 millions d’Africains parient sur le sport. La plupart perdent parce qu’ils suivent de mauvais pronostiqueurs. OddsEdge est conçu pour le parieur qui veut réfléchir, analyser et gagner, pas seulement espérer.",
+      "category": "Marketing & Advertising",
+      "website": "https://oddsedge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T11:51:56.919025+00:00"
+    },
+    {
+      "name": "Keen — Autonomous Elevator Maintenance",
+      "slug": "polsia-keen",
+      "description": "It queries vendor calendars, finds the first available slot, sends a service ticket, notifies the building manager. After the repair, it closes the work order, logs the invoice, and updates the equipment history. Building owners get a report every month. They never open a ticket again.",
+      "description_fr": "Il interroge les calendriers des fournisseurs, trouve le premier créneau disponible, envoie un ticket de service, prévient le gestionnaire de l'immeuble. Après la réparation, il clôture le bon de travail, enregistre la facture et met à jour l'historique de l'équipement. Les propriétaires d'immeubles reçoivent un rapport chaque mois. Ils n'ouvrent plus jamais de ticket.",
+      "category": "Finance & Fintech",
+      "website": "https://keen.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T11:51:58.105019+00:00"
+    },
+    {
+      "name": "PavePath",
+      "slug": "polsia-pavepath",
+      "description": "Traditional career guidance is reactive — you ask, someone answers, often based on their own experience and intuition. The job market moves faster than any advisor can follow. And human coaches charge $150-$500/hour, putting good advice out of reach for most.",
+      "description_fr": "L'orientation professionnelle traditionnelle est réactive : vous demandez, quelqu'un répond, souvent en fonction de sa propre expérience et de son intuition. Le marché du travail évolue plus rapidement qu’aucun conseiller ne peut le suivre. Et les coachs humains facturent entre 150 et 500 $/heure, ce qui met les bons conseils hors de portée pour la plupart.",
+      "category": "Other",
+      "website": "https://pavepath.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T11:51:58.904504+00:00"
+    },
+    {
+      "name": "GrainCraft Studio",
+      "slug": "polsia-graincraft-studio",
+      "description": "Wood isn't a material you force into shape — it's a material you listen to. The grain decides where it wants to go. The maker's job is to follow it there, not fight it. That's the difference between a piece that's made and a piece that's crafted.",
+      "description_fr": "Le bois n’est pas un matériau que l’on force à façonner, c’est un matériau que l’on écoute. Le grain décide où il veut aller. Le travail du créateur est de le suivre là-bas, pas de le combattre. C'est la différence entre une pièce fabriquée et une pièce fabriquée.",
+      "category": "Other",
+      "website": "https://graincraft-studio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T11:52:00.486600+00:00"
+    },
+    {
+      "name": "Banter",
+      "slug": "polsia-banter-video",
+      "description": "Text forms get ghosted. Cold calls go to voicemail. Email replies get lost in the noise. But a video response from a real person — that's different. That's connection. That's a lead who actually wants to talk to you.",
+      "description_fr": "Les formulaires de texte sont fantômes. Les appels à froid vont vers la messagerie vocale. Les réponses aux e-mails se perdent dans le bruit. Mais une réponse vidéo d'une personne réelle, c'est différent. C'est la connexion. C'est une piste qui veut réellement vous parler.",
+      "category": "Marketing & Advertising",
+      "website": "https://banter-video.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T11:52:02.107578+00:00"
+    },
+    {
+      "name": "CraftVault — Turn Your Expertise Into Digital Products",
+      "slug": "polsia-craftvault-2",
+      "description": "The creator economy is worth $250B and doubling by 2027. You don't need a tech background, a big audience, or a perfect plan. You need one product and a platform to sell it on. CraftVault builds both.",
+      "description_fr": "L'économie des créateurs vaut 250 milliards de dollars et doublera d'ici 2027. Vous n'avez pas besoin d'une formation technologique, d'un large public ou d'un plan parfait. Vous avez besoin d’un produit et d’une plateforme sur laquelle le vendre. CraftVault construit les deux.",
+      "category": "Software & SaaS",
+      "website": "https://craftvault-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T11:52:03.228981+00:00"
+    },
+    {
+      "name": "Streak — $10K/Month Business Builder",
+      "slug": "polsia-streak",
+      "description": "Streak builds and runs recurring-revenue businesses designed to hit $10k/month. Powered by AI, run by humans.",
+      "description_fr": "Streak crée et gère des entreprises à revenus récurrents conçues pour atteindre 10 000 $/mois. Propulsé par l'IA, géré par des humains.",
+      "category": "AI & Machine Learning",
+      "website": "https://streak.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T11:52:04.781960+00:00"
+    },
+    {
+      "name": "Simulan — Autonomous Account Intelligence for Automotive Tech",
+      "slug": "polsia-simulan",
+      "description": "Every other industry has automated the manual work. Sales is still running on spreadsheets, gut feel, and heroic effort. Simulan changes that. Not by replacing the account manager — by making every account manager perform at the level of the best one in the room.",
+      "description_fr": "Toutes les autres industries ont automatisé le travail manuel. Les ventes se déroulent toujours sur des feuilles de calcul, sur des intuitions et sur des efforts héroïques. Simulan change cela. Pas en remplaçant le gestionnaire de compte, mais en faisant en sorte que chaque gestionnaire de compte fonctionne au niveau du meilleur de la salle.",
+      "category": "Sales & CRM",
+      "website": "https://simulan.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T11:52:05.631522+00:00"
     }
   ]
 }
