@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T05:53:54.146809+00:00",
+  "last_updated": "2026-05-22T08:59:11.551030+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -133045,10 +133045,13 @@
     {
       "name": "ProsperBloc",
       "slug": "polsia-prosperbloc",
+      "description": "Marketplace. Forums. Events. Education. One platform for the Black Wall St community.",
+      "description_fr": "Marché. Forums. Événements. Éducation. Une plateforme pour la communauté Black Wall St.",
+      "category": "Social & Community",
       "website": "https://prosperbloc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T05:53:42.167375+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T08:59:11.258816+00:00"
     },
     {
       "name": "FlickShelf",
@@ -133137,6 +133140,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-22T05:53:53.753847+00:00"
+    },
+    {
+      "name": "VibeThread",
+      "slug": "polsia-vibethread",
+      "website": "https://vibethread.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T08:58:54.181830+00:00"
+    },
+    {
+      "name": "SparkPad — Digital Content Agency for Kenyan SMBs",
+      "slug": "polsia-sparkpad",
+      "description": "We believe every Kenyan shop, salon, and restaurant deserves marketing that works — not marketing that's too expensive, too complicated, or too corporate.",
+      "description_fr": "Nous pensons que chaque magasin, salon et restaurant kenyan mérite un marketing qui fonctionne – et non un marketing trop cher, trop compliqué ou trop corporate.",
+      "category": "Marketing & Advertising",
+      "website": "https://sparkpad.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T08:58:56.455307+00:00"
+    },
+    {
+      "name": "PagePilot",
+      "slug": "polsia-pagepilot-40",
+      "description": "PagePilot is an AI agent that monitors your sites around the clock. It watches for changes, detects anomalies, and tells you what matters — before you even think to look.",
+      "description_fr": "PagePilot est un agent IA qui surveille vos sites 24 heures sur 24. Il surveille les changements, détecte les anomalies et vous indique ce qui compte, avant même que vous pensiez à regarder.",
+      "category": "AI & Machine Learning",
+      "website": "https://pagepilot-40.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T08:58:57.914112+00:00"
+    },
+    {
+      "name": "Ladylove — Dress Like You Mean It",
+      "slug": "polsia-lavishos",
+      "description": "Every piece in the Ladylove collection is designed around one question:does this make the woman wearing it feel more herself?If the answer isn't yes, it doesn't ship.",
+      "description_fr": "Chaque pièce de la collection Ladylove est conçue autour d'une seule question : est-ce que cela permet à la femme qui la porte de se sentir plus elle-même ? Si la réponse est non oui, elle n'est pas expédiée.",
+      "category": "Other",
+      "website": "https://lavishos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T08:59:00.168409+00:00"
+    },
+    {
+      "name": "PinnacleOS — Operating System for Reputation Agencies",
+      "slug": "polsia-pinnacleos-6",
+      "description": "Most reputation agencies throw body weight at the problem. Manual outreach. Generic email templates. Hope and hustle. PinnacleOS exists because the agencies that win are the ones that run on infrastructure — automated outreach, smart client tracking, and reputation systems that scale without burning out the operator.",
+      "description_fr": "La plupart des agences de réputation s’attaquent au problème. Sensibilisation manuelle. Modèles d'e-mails génériques. Espoir et agitation. PinnacleOS existe parce que les agences qui gagnent sont celles qui fonctionnent sur une infrastructure : sensibilisation automatisée, suivi intelligent des clients et systèmes de réputation qui évoluent sans épuiser l'opérateur.",
+      "category": "Sales & CRM",
+      "website": "https://pinnacleos-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T08:59:02.109099+00:00"
+    },
+    {
+      "name": "Spots — Vibes Over Ratings",
+      "slug": "polsia-spotsos",
+      "description": "Algorithms rank by popularity. Reviews are gamed. The places that actually matter — the back bar nobody's heard of, the currywurst cart that changes everything, the rooftop that's been perfect for years — never show up at the top of a search.",
+      "description_fr": "Les algorithmes sont classés par popularité. Les critiques sont jouées. Les endroits qui comptent vraiment – ​​le bar arrière dont personne n’a entendu parler, le chariot de currywurst qui change tout, le toit parfait depuis des années – n’apparaissent jamais en tête d’une recherche.",
+      "category": "E-Commerce & Retail",
+      "website": "https://spotsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T08:59:03.884687+00:00"
+    },
+    {
+      "name": "SheetPilot",
+      "slug": "polsia-sheetpilot-2",
+      "description": "SheetPilot is an AI agent that watches your spreadsheets and autonomously executes the workflows described within them. Stop checking spreadsheets — let SheetPilot do the work.",
+      "description_fr": "SheetPilot est un agent IA qui surveille vos feuilles de calcul et exécute de manière autonome les flux de travail qui y sont décrits. Arrêtez de vérifier les feuilles de calcul : laissez SheetPilot faire le travail.",
+      "category": "AI & Machine Learning",
+      "website": "https://sheetpilot-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T08:59:05.187725+00:00"
+    },
+    {
+      "name": "SignalPulse",
+      "slug": "polsia-signalpulse-3",
+      "description": "Long Short-Term Memory networks are recurrent neural networks designed for sequential data. Stocks are sequential data. LSTM remembers important patterns from 60 days of price history and uses them to forecast the next 5 days.",
+      "description_fr": "Les réseaux de mémoire à long terme et à court terme sont des réseaux de neurones récurrents conçus pour les données séquentielles. Les stocks sont des données séquentielles. LSTM mémorise les modèles importants de 60 jours d’historique des prix et les utilise pour prévoir les 5 prochains jours.",
+      "category": "AI & Machine Learning",
+      "website": "https://signalpulse-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T08:59:06.640491+00:00"
+    },
+    {
+      "name": "LeadPulse — Autonomous AI Sales Agent",
+      "slug": "polsia-leadpulse-ai-7",
+      "description": "Sales teams spend 70% of their time on work that should be automated: list building, research, cold outreach, follow-up sequences. The humans should only touch the conversations that matter. That's what LeadPulse was built for.",
+      "description_fr": "Les équipes commerciales consacrent 70 % de leur temps à des tâches qui devraient être automatisées : constitution de listes, recherche, contact à froid, séquences de suivi. Les humains ne devraient toucher qu’aux conversations qui comptent. C'est pour cela que LeadPulse a été conçu.",
+      "category": "Sales & CRM",
+      "website": "https://leadpulse-ai-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T08:59:07.975815+00:00"
+    },
+    {
+      "name": "GrantLine",
+      "slug": "polsia-grantline",
+      "description": "We built GrantLine to make government funding accessible, understandable, and actionable. No more grant.gov rabbit holes. No more half-completed applications. No more missed opportunities.",
+      "description_fr": "Nous avons créé GrantLine pour rendre le financement gouvernemental accessible, compréhensible et exploitable. Fini les terriers de Grant.gov. Fini les candidatures à moitié remplies. Fini les occasions manquées.",
+      "category": "Other",
+      "website": "https://grantline.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T08:59:09.521516+00:00"
     }
   ]
 }
