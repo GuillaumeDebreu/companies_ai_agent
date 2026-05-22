@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T22:42:01.333823+00:00",
+  "last_updated": "2026-05-22T23:49:21.431981+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -133885,36 +133885,48 @@
       "scraped_at": "2026-05-22T22:41:58.874192+00:00"
     },
     {
-      "name": "Wavelength",
+      "name": "Wavelength — AI Sales Agent",
       "slug": "polsia-wavelength-ai",
+      "description": "Autonomous AI SDR that finds prospects, researches leads, and runs personalized cold outreach campaigns while you sleep.",
+      "description_fr": "AI SDR autonome qui trouve des prospects, recherche des pistes et mène des campagnes personnalisées de sensibilisation à froid pendant que vous dormez.",
+      "category": "Sales & CRM",
       "website": "https://wavelength-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T22:41:47.947752+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T23:49:11.510524+00:00"
     },
     {
-      "name": "SiteForgeOS",
+      "name": "SiteForgeOS — The operating system for solo web developers",
       "slug": "polsia-siteforgeos-2",
+      "description": "SiteForgeOS is the AI operating layer that runs your web development studio — client acquisition, proposals, onboarding, and growth — all on autonomous agents while you focus on building.",
+      "description_fr": "SiteForgeOS est la couche opérationnelle d'IA qui gère votre studio de développement Web (acquisition de clients, propositions, intégration et croissance), le tout sur des agents autonomes pendant que vous vous concentrez sur la construction.",
+      "category": "AI & Machine Learning",
       "website": "https://siteforgeos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T22:41:48.142961+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T23:49:12.955117+00:00"
     },
     {
-      "name": "StageOps",
+      "name": "StageOps — AI Operations for Live Event Production",
       "slug": "polsia-stageops-2",
+      "description": "AI agent that handles venue coordination, load-in scheduling, equipment logistics, and post-show invoicing for independent artists and production teams.",
+      "description_fr": "Agent IA qui gère la coordination des salles, la planification du chargement, la logistique de l'équipement et la facturation après le spectacle pour les artistes indépendants et les équipes de production.",
+      "category": "AI & Machine Learning",
       "website": "https://stageops-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T22:41:48.333015+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T23:49:14.306349+00:00"
     },
     {
-      "name": "IronNode",
+      "name": "IronNode — Local AI for the Independent Life",
       "slug": "polsia-ironnode",
+      "description": "Custom local LLM computers — configured, loaded, and ready to run the moment the grid goes dark. Every IronNode ships with a curated survival knowledge base and is designed to operate completely off-grid.",
+      "description_fr": "Ordinateurs LLM locaux personnalisés : configurés, chargés et prêts à fonctionner dès que la grille s'éteint. Chaque IronNode est livré avec une base de connaissances de survie organisée et est conçu pour fonctionner complètement hors réseau.",
+      "category": "AI & Machine Learning",
       "website": "https://ironnode.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T22:41:48.479555+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T23:49:15.905145+00:00"
     },
     {
       "name": "DoomHostingOS",
@@ -133928,20 +133940,26 @@
       "scraped_at": "2026-05-22T22:41:59.843626+00:00"
     },
     {
-      "name": "Sparklight",
+      "name": "Sparklight — The AI Creative Studio",
       "slug": "polsia-sparklight-studio",
+      "description": "Chasing leads, scoping projects, revising endlessly, chasing invoices — that's what most designers actually spend their time on. Not designing. Not creating. Not building anything that matters.",
+      "description_fr": "Chasser des pistes, définir la portée des projets, réviser sans cesse, courir après les factures : c'est à cela que la plupart des concepteurs consacrent réellement leur temps. Pas de conception. Ne pas créer. Ne pas construire quoi que ce soit qui compte.",
+      "category": "AI & Machine Learning",
       "website": "https://sparklight-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T22:41:48.779378+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T23:49:17.548579+00:00"
     },
     {
-      "name": "LeadHawk",
+      "name": "LeadHawk — AI Sales Agent",
       "slug": "polsia-leadhawk-23",
+      "description": "Pipeline doesn't build itself. And your time is too valuable to spend on cold email research. LeadHawk is the SDR you never have to manage — it finds the leads, writes the emails, and books the meetings.",
+      "description_fr": "Le pipeline ne se construit pas tout seul. Et votre temps est trop précieux pour être consacré à la recherche d’e-mails froids. LeadHawk est le SDR que vous n'avez jamais à gérer : il trouve les prospects, rédige les e-mails et planifie les réunions.",
+      "category": "Sales & CRM",
       "website": "https://leadhawk-23.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T22:41:48.880469+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T23:49:19.185699+00:00"
     },
     {
       "name": "PulseOS — Fitness Operating System",
@@ -133972,6 +133990,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-22T22:41:49.583002+00:00"
+    },
+    {
+      "name": "RoyaltyStack",
+      "slug": "polsia-royaltystack",
+      "website": "https://royaltystack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T23:49:03.026917+00:00"
+    },
+    {
+      "name": "PalmoOS",
+      "slug": "polsia-palmoos",
+      "website": "https://palmoos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T23:49:03.390080+00:00"
+    },
+    {
+      "name": "Cogni",
+      "slug": "polsia-cogni-ai",
+      "website": "https://cogni-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T23:49:03.688366+00:00"
+    },
+    {
+      "name": "Videiq",
+      "slug": "polsia-videiq",
+      "website": "https://videiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T23:49:04.135211+00:00"
+    },
+    {
+      "name": "GridShield AI",
+      "slug": "polsia-gridshield-ai",
+      "website": "https://gridshield-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T23:49:04.512789+00:00"
+    },
+    {
+      "name": "StageLeftOS",
+      "slug": "polsia-stageleftos",
+      "website": "https://stageleftos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T23:49:04.768810+00:00"
+    },
+    {
+      "name": "SignalFlow",
+      "slug": "polsia-signalflow-10",
+      "website": "https://signalflow-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T23:49:05.052173+00:00"
+    },
+    {
+      "name": "GleamForce — Mobile Car Detailing",
+      "slug": "polsia-gleamforce-2",
+      "description": "Most \"mobile detailers\" show up with a bucket and a spray bottle. We show up with professional-grade equipment, proven products, and the patience to do it right.",
+      "description_fr": "La plupart des « dessinateurs mobiles » se présentent avec un seau et un flacon pulvérisateur. Nous nous présentons avec un équipement de qualité professionnelle, des produits éprouvés et la patience de bien faire les choses.",
+      "category": "Other",
+      "website": "https://gleamforce-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T23:49:05.870760+00:00"
+    },
+    {
+      "name": "PagePilot",
+      "slug": "polsia-pagepilot-50",
+      "description": "PagePilot autonomously scrapes websites, monitors pages for changes, and delivers structured data on your schedule. No setup. No maintenance. Just results.",
+      "description_fr": "PagePilot récupère de manière autonome les sites Web, surveille les pages pour détecter les modifications et fournit des données structurées selon votre emploi du temps. Aucune configuration. Aucun entretien. Juste des résultats.",
+      "category": "Other",
+      "website": "https://pagepilot-50.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-22T23:49:07.299597+00:00"
+    },
+    {
+      "name": "FrameLoopOS",
+      "slug": "polsia-frameloopos-2",
+      "website": "https://frameloopos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T23:49:07.601367+00:00"
     }
   ]
 }
