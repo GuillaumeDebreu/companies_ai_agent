@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T19:48:27.019095+00:00",
+  "last_updated": "2026-05-22T20:19:12.934241+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -133575,74 +133575,101 @@
     {
       "name": "DropStack",
       "slug": "polsia-dropstack-2",
+      "description": "DropStack aggregates products from AliExpress, CJdropshipping, Doba and more. Curated rankings help you find high-demand dropshipping products in minutes, not hours.",
+      "description_fr": "DropStack regroupe les produits d'AliExpress, CJdropshipping, Doba et plus encore. Les classements organisés vous aident à trouver des produits dropshipping très demandés en quelques minutes, et non en quelques heures.",
+      "category": "Logistics & Supply Chain",
       "website": "https://dropstack-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T18:24:05.822107+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T20:19:03.563126+00:00"
     },
     {
-      "name": "TurinOS",
+      "name": "Turin — Real Estate Conversation Intelligence",
       "slug": "polsia-turinos",
+      "description": "Turin transforms how real estate professionals handle their most critical conversations — turning cold calls into trust, and trust into deals.",
+      "description_fr": "Turin transforme la façon dont les professionnels de l'immobilier gèrent leurs conversations les plus critiques, en transformant les appels à froid en confiance et la confiance en transactions.",
+      "category": "Real Estate",
       "website": "https://turinos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T18:24:06.218283+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T20:19:04.251020+00:00"
     },
     {
-      "name": "ApexOS",
+      "name": "ApexOS — The Brokerage Operating System",
       "slug": "polsia-apexos-16",
+      "description": "Most brokers find deals when they hit the market. ApexOS finds them before the sign goes up — using AI to surface owners likely to sell, based on behavioral signals across ownership history, equity position, and market timing.",
+      "description_fr": "La plupart des courtiers trouvent des offres lorsqu'ils arrivent sur le marché. ApexOS les trouve avant que le signe ne monte – en utilisant l'IA pour identifier les propriétaires susceptibles de vendre, sur la base de signaux comportementaux liés à l'historique de propriété, à la position des capitaux propres et au timing du marché.",
+      "category": "AI & Machine Learning",
       "website": "https://apexos-16.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T18:24:06.534517+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T20:19:05.440692+00:00"
     },
     {
-      "name": "Aria",
+      "name": "Aria — AI Financial Agent",
       "slug": "polsia-aria-ai",
+      "description": "Aria is built on a different premise:your money deserves more attention than you can give it. Not because you're lazy — because your time is worth more. Aria lives inside your financial life and acts on your behalf. You don't manage your finances. You own an agent that does.",
+      "description_fr": "Aria repose sur un principe différent : votre argent mérite plus d’attention que vous ne pouvez lui en accorder. Non pas parce que vous êtes paresseux, mais parce que votre temps vaut plus. Aria vit dans votre vie financière et agit en votre nom. Vous ne gérez pas vos finances. Vous possédez un agent qui le fait.",
+      "category": "AI & Machine Learning",
       "website": "https://aria-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T18:24:06.894531+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T20:19:06.046122+00:00"
     },
     {
       "name": "Dentaply",
       "slug": "polsia-dentaply",
+      "description": "Mobile-first supply management for dental practices. Track inventory, automate reordering, and keep your practice running without supply headaches.",
+      "description_fr": "Gestion des approvisionnements mobile pour les cabinets dentaires. Suivez les stocks, automatisez les réapprovisionnements et maintenez votre cabinet opérationnel sans problèmes d'approvisionnement.",
+      "category": "Other",
       "website": "https://dentaply.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T18:24:07.130023+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T20:19:07.050680+00:00"
     },
     {
-      "name": "Sift",
+      "name": "Sift — AI Recruiting Agent",
       "slug": "polsia-sift-recruit",
+      "description": "Good hiring is the difference between a business that scales and one that stalls. Sift makes great hiring available to every small business — not just the ones with recruiter budgets.",
+      "description_fr": "Un bon recrutement fait la différence entre une entreprise qui évolue et une entreprise qui stagne. Sift met un recrutement de qualité à la disposition de toutes les petites entreprises, pas seulement celles disposant d'un budget de recruteur.",
+      "category": "AI & Machine Learning",
       "website": "https://sift-recruit.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T18:24:07.355474+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T20:19:07.859424+00:00"
     },
     {
-      "name": "VelocityOS",
+      "name": "VelocityOS — Operating System for Experience Businesses",
       "slug": "polsia-velocityos-7",
+      "description": "Every centre running on spreadsheets, disconnected tools, and manual follow-ups is leaving margin on the table. The operators who bring it together now — bookings, staff, kit, customers, and growth — will be the ones still standing in ten years, capturing the demand that keeps growing every season.",
+      "description_fr": "Chaque centre fonctionnant avec des feuilles de calcul, des outils déconnectés et des suivis manuels laisse de la marge sur la table. Les opérateurs qui rassemblent tout cela aujourd’hui – réservations, personnel, kit, clients et croissance – seront ceux qui seront encore debout dans dix ans, capturant la demande qui ne cesse de croître à chaque saison.",
+      "category": "Travel & Hospitality",
       "website": "https://velocityos-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T18:24:07.613970+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T20:19:09.480937+00:00"
     },
     {
-      "name": "RoamerOS",
+      "name": "RoamerOS — Where Travel Creators Thrive",
       "slug": "polsia-roameros",
+      "description": "The operating system for travel creators. Build your presence, connect with travelers, and grow your business — all from one place.",
+      "description_fr": "Le système d'exploitation pour les créateurs de voyages. Développez votre présence, connectez-vous avec les voyageurs et développez votre entreprise, le tout à partir d'un seul endroit.",
+      "category": "Travel & Hospitality",
       "website": "https://roameros.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T18:24:07.976477+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T20:19:10.482474+00:00"
     },
     {
-      "name": "Scope",
+      "name": "Scope — AI",
       "slug": "polsia-scope-ai",
+      "description": "They show up on Facebook Marketplace at 11pm on a Tuesday. A seller lists a Korg MS-20 for $280 because they don't know what it's worth, or a rent-controlled apartment appears for $1,400 in a neighborhood where the going rate is $2,200. These listings last an average of 47 minutes before a buyer scoops them.",
+      "description_fr": "Ils apparaissent sur Facebook Marketplace à 23 heures un mardi. Un vendeur propose un Korg MS-20 à 280 dollars parce qu'il ne sait pas ce qu'il vaut, ou un appartement à loyer contrôlé apparaît à 1 400 dollars dans un quartier où le tarif en vigueur est de 2 200 dollars. Ces annonces durent en moyenne 47 minutes avant qu'un acheteur ne les récupère.",
+      "category": "AI & Machine Learning",
       "website": "https://scope-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T18:24:08.213102+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-22T20:19:11.789691+00:00"
     },
     {
       "name": "GridLoop",
@@ -133651,6 +133678,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-05-22T18:24:08.447766+00:00"
+    },
+    {
+      "name": "Signal",
+      "slug": "polsia-signal-intel",
+      "website": "https://signal-intel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T20:19:00.070294+00:00"
+    },
+    {
+      "name": "AutomateIQ",
+      "slug": "polsia-automateiq-2",
+      "website": "https://automateiq-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T20:19:00.416391+00:00"
+    },
+    {
+      "name": "RowuvOS",
+      "slug": "polsia-rowuvos",
+      "website": "https://rowuvos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T20:19:00.656642+00:00"
+    },
+    {
+      "name": "GetawayGear",
+      "slug": "polsia-getawaygear",
+      "website": "https://getawaygear.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T20:19:00.839642+00:00"
+    },
+    {
+      "name": "NodeHQ",
+      "slug": "polsia-nodehq",
+      "website": "https://nodehq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T20:19:01.125551+00:00"
+    },
+    {
+      "name": "Cover My SaaS",
+      "slug": "polsia-covermysaas",
+      "website": "https://covermysaas.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T20:19:01.312940+00:00"
+    },
+    {
+      "name": "StreamLoop",
+      "slug": "polsia-streamloop",
+      "website": "https://streamloop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T20:19:01.530907+00:00"
+    },
+    {
+      "name": "GripOS",
+      "slug": "polsia-gripos",
+      "website": "https://gripos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T20:19:01.746412+00:00"
+    },
+    {
+      "name": "SiteLocal",
+      "slug": "polsia-sitelocal",
+      "website": "https://sitelocal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T20:19:01.928423+00:00"
+    },
+    {
+      "name": "RecruitOS",
+      "slug": "polsia-recruitos-3",
+      "website": "https://recruitos-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-22T20:19:02.123265+00:00"
     }
   ]
 }
