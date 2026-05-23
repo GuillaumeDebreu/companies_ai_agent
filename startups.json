@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T17:30:20.832728+00:00",
+  "last_updated": "2026-05-23T18:37:24.252202+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -133472,12 +133472,15 @@
       "scraped_at": "2026-05-22T14:24:28.995872+00:00"
     },
     {
-      "name": "SettleOS",
+      "name": "SettleOS — CRE Asset Intelligence",
       "slug": "polsia-settleos",
+      "description": "SettleOS gives commercial real estate lenders and servicers real-time intelligence on every asset in their portfolio. Inspections, risk scoring, financial oversight — all in one platform. No more blind spots.",
+      "description_fr": "SettleOS fournit aux prêteurs et prestataires immobiliers commerciaux des informations en temps réel sur chaque actif de leur portefeuille. Inspections, notation des risques, surveillance financière, le tout sur une seule plateforme. Fini les angles morts.",
+      "category": "Software & SaaS",
       "website": "https://settleos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-22T16:40:26.800573+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T18:37:19.171652+00:00"
     },
     {
       "name": "LedgerIQ — Autonomous Financial Intelligence for Private Equity",
@@ -135093,10 +135096,13 @@
     {
       "name": "PitchRunner",
       "slug": "polsia-pitchrunner-2",
+      "description": "After 20 years of running a sports brand agency, I know exactly what's broken. The follow-ups that slip, the reorder signals that come too late, the retailer relationships that go cold between seasons. PitchRunner exists because every brand deserves a sales agent that never drops the ball.",
+      "description_fr": "Après 20 ans à diriger une agence de marque de sport, je sais exactement ce qui ne va pas. Les suivis qui glissent, les signaux de réapprovisionnement qui arrivent trop tard, les relations avec les détaillants qui se refroidissent entre les saisons. PitchRunner existe parce que chaque marque mérite un agent commercial qui ne lâche jamais le ballon.",
+      "category": "E-Commerce & Retail",
       "website": "https://pitchrunner-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T17:30:07.586219+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T18:37:23.809898+00:00"
     },
     {
       "name": "Doppio — HTML to PDF & Screenshot API",
@@ -135185,6 +135191,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-23T17:30:15.912653+00:00"
+    },
+    {
+      "name": "AgentStack",
+      "slug": "polsia-agentstack-5",
+      "website": "https://agentstack-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T18:37:09.082732+00:00"
+    },
+    {
+      "name": "RealToke",
+      "slug": "polsia-realtoke",
+      "website": "https://realtoke.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T18:37:09.449823+00:00"
+    },
+    {
+      "name": "SignalPulse",
+      "slug": "polsia-signalpulse-8",
+      "website": "https://signalpulse-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T18:37:09.742675+00:00"
+    },
+    {
+      "name": "PagePilot — Your AI Sales Agent, Working 24/7",
+      "slug": "polsia-pagepilot-76",
+      "description": "PagePilot is an AI sales agent that finds your best-fit prospects, researches them, and sends personalized outreach — around the clock, without a break, and without your input.",
+      "description_fr": "PagePilot est un agent commercial IA qui trouve vos prospects les plus adaptés, les recherche et envoie des messages personnalisés, 24 heures sur 24, sans interruption et sans votre contribution.",
+      "category": "Sales & CRM",
+      "website": "https://pagepilot-76.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T18:37:10.504723+00:00"
+    },
+    {
+      "name": "Clarigent — AI Second Opinions for Medical Diagnoses",
+      "slug": "polsia-clarigent",
+      "description": "Clarigent gives hospitals and clinics an AI-powered second opinion layer — built on medical records, imaging, and lab data. Reduce misdiagnosis. Protect physicians. Give patients clarity.",
+      "description_fr": "Clarigent offre aux hôpitaux et aux cliniques une couche de deuxième opinion alimentée par l'IA, basée sur les dossiers médicaux, l'imagerie et les données de laboratoire. Réduisez les erreurs de diagnostic. Protégez les médecins. Donnez de la clarté aux patients.",
+      "category": "Health & Wellness",
+      "website": "https://clarigent.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T18:37:11.925407+00:00"
+    },
+    {
+      "name": "SpecFlow",
+      "slug": "polsia-specflow-2",
+      "description": "Enterprise ML ops platform that detects when models evolve into distinct variants using custom mathematical analysis and visualisations.",
+      "description_fr": "Plateforme d'opérations Enterprise ML qui détecte quand les modèles évoluent vers des variantes distinctes à l'aide d'analyses mathématiques et de visualisations personnalisées.",
+      "category": "Software & SaaS",
+      "website": "https://specflow-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T18:37:12.650874+00:00"
+    },
+    {
+      "name": "Axio — IA accessible pour les PME du Québec",
+      "slug": "polsia-axio-ai",
+      "description": "Automatisez les réponses clients, chatbots et communications pour votre PME québécoise. Setup en jours, pas en mois.",
+      "description_fr": "Automatisez les réponses clients, chatbots et communications pour votre PME québécoise. Installé en jours, pas en mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://axio-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T18:37:14.428500+00:00"
+    },
+    {
+      "name": "MuevOS — Operating System for B2B Growth",
+      "slug": "polsia-muevos",
+      "description": "MuevOS is the autonomous operating system for B2B founders who are done with generic US frameworks that don't work in Latin America. We build the product, run the marketing, and make daily progress — so you can focus on what only you can do.",
+      "description_fr": "MuevOS est le système d'exploitation autonome destiné aux fondateurs B2B qui en ont fini avec les frameworks américains génériques qui ne fonctionnent pas en Amérique latine. Nous construisons le produit, gérons le marketing et réalisons des progrès quotidiens afin que vous puissiez vous concentrer sur ce que vous seul pouvez faire.",
+      "category": "Marketing & Advertising",
+      "website": "https://muevos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T18:37:15.559176+00:00"
+    },
+    {
+      "name": "Harbor Boston Cleaning — Luxury Cleaning Services in Boston",
+      "slug": "polsia-harboros-4",
+      "description": "In a city where standards are high and time is finite, you deserve a cleaning partner who treats your home or office with the same care you do. Every appointment is handled personally, every detail noted, every expectation exceeded.",
+      "description_fr": "Dans une ville où les normes sont élevées et où le temps est limité, vous méritez un partenaire de nettoyage qui traite votre maison ou votre bureau avec le même soin que vous. Chaque rendez-vous est traité personnellement, chaque détail noté, chaque attente dépassée.",
+      "category": "Other",
+      "website": "https://harboros-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T18:37:16.484763+00:00"
+    },
+    {
+      "name": "OutBlog AI",
+      "slug": "polsia-outblogos",
+      "description": "AI-powered blog engine that learns your brand voice and publishes SEO-optimized articles automatically.",
+      "description_fr": "Moteur de blog alimenté par l'IA qui apprend la voix de votre marque et publie automatiquement des articles optimisés pour le référencement.",
+      "category": "AI & Machine Learning",
+      "website": "https://outblogos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T18:37:17.347975+00:00"
     }
   ]
 }
