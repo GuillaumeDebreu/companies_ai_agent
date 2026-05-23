@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T05:27:33.005453+00:00",
+  "last_updated": "2026-05-23T07:55:51.165532+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -134209,12 +134209,15 @@
       "scraped_at": "2026-05-23T01:44:04.670588+00:00"
     },
     {
-      "name": "DecisionOS",
+      "name": "DecisionOS — AI Employee for Your Ad Campaigns",
       "slug": "polsia-decisionos-2",
+      "description": "DecisionOS is an AI employee that monitors your ad accounts, identifies what needs fixing, optimizes automatically, and reports what it changed — every hour, every day.",
+      "description_fr": "DecisionOS est un employé d'IA qui surveille vos comptes publicitaires, identifie ce qui doit être corrigé, optimise automatiquement et rapporte ce qui a changé, chaque heure, chaque jour.",
+      "category": "AI & Machine Learning",
       "website": "https://decisionos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T05:27:13.128816+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T07:55:48.849627+00:00"
     },
     {
       "name": "ClearPath — Valet Trash for Colorado Communities",
@@ -134314,6 +134317,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-23T05:27:25.412968+00:00"
+    },
+    {
+      "name": "Gobro — Face Care for Men Who Hate Face Care",
+      "slug": "polsia-gobro",
+      "description": "Somewhere along the way, looking after your skin became a hobby. Serums. Toners. Eye gels. Active percentages. Eleven-step morning routines that take 25 minutes and end with you not doing it.",
+      "description_fr": "À un moment donné, prendre soin de sa peau est devenu un passe-temps. Sérums. Tonifiants. Gels pour les yeux. Pourcentages actifs. Des routines matinales en onze étapes qui prennent 25 minutes et se terminent sans que vous les fassiez.",
+      "category": "Other",
+      "website": "https://gobro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T07:55:50.122300+00:00"
+    },
+    {
+      "name": "GreenOps — Autonomous Sustainability Operations",
+      "slug": "polsia-greenops-ai",
+      "description": "The gap between sustainability ambition and operational reality is where most programs stall. GreenOps closes that gap — with autonomous agents that do the work your team can't afford the time to do.",
+      "description_fr": "C’est dans l’écart entre l’ambition en matière de développement durable et la réalité opérationnelle que la plupart des programmes bloquent. GreenOps comble cette lacune grâce à des agents autonomes qui effectuent le travail que votre équipe ne peut pas se permettre de faire.",
+      "category": "Sustainability & Green",
+      "website": "https://greenops-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T07:55:51.163409+00:00"
+    },
+    {
+      "name": "LokalPilot — Hyperlocal News for Every Austrian Town",
+      "slug": "polsia-lokalpilot-2",
+      "description": "Google and Meta make you bid against Vienna agencies for Austrian gemeinde businesses. LokalPilot is different: your ad runs only in your town. Your neighbors see it.",
+      "description_fr": "Google et Meta vous font soumissionner contre des agences viennoises pour des entreprises autrichiennes. LokalPilot est différent : votre annonce est diffusée uniquement dans votre ville. Vos voisins le voient.",
+      "category": "Marketing & Advertising",
+      "website": "https://lokalpilot-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T07:55:36.753141+00:00"
+    },
+    {
+      "name": "DetailOS — Operating System for Mobile Valeting",
+      "slug": "polsia-detailos-5",
+      "description": "The van looks professional. The back office is a disaster. WhatsApp threads for scheduling, notes app for payments, Facebook messages for customer history. It's chaos that costs you money, time, and customers.",
+      "description_fr": "La camionnette a l'air professionnelle. Le back-office est un désastre. Fils de discussion WhatsApp pour la planification, application Notes pour les paiements, messages Facebook pour l'historique des clients. C'est un chaos qui vous coûte de l'argent, du temps et des clients.",
+      "category": "Finance & Fintech",
+      "website": "https://detailos-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T07:55:38.249515+00:00"
+    },
+    {
+      "name": "Kred — Undercollateralized Consumer Crypto Loans",
+      "slug": "polsia-kred-fi",
+      "description": "The next evolution of lending isn't more collateral. It's removing the need for it entirely. Kred is the infrastructure for a world where your financial history — not your crypto holdings — determines how much you can borrow.",
+      "description_fr": "La prochaine évolution des prêts ne consiste pas en davantage de garanties. Cela en supprime complètement le besoin. Kred est l'infrastructure d'un monde où votre historique financier – et non vos avoirs cryptographiques – détermine le montant que vous pouvez emprunter.",
+      "category": "Finance & Fintech",
+      "website": "https://kred-fi.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T07:55:39.771913+00:00"
+    },
+    {
+      "name": "NodePilot — Autonomous Ethereum Node Agent",
+      "slug": "polsia-nodepilot-ai",
+      "description": "We built the world's most reliable software on top of systems that require constant human attention. Your validator goes down at 3am. Your sync stalls after a hard fork. Your node gets stuck in a reorg loop and nobody notices until the metrics look bad in the morning.",
+      "description_fr": "Nous avons construit le logiciel le plus fiable au monde sur des systèmes qui nécessitent une attention humaine constante. Votre validateur tombe en panne à 3h du matin. Votre synchronisation se bloque après un hard fork. Votre nœud reste coincé dans une boucle de réorganisation et personne ne le remarque jusqu'à ce que les métriques semblent mauvaises le matin.",
+      "category": "Software & SaaS",
+      "website": "https://nodepilot-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T07:55:40.895418+00:00"
+    },
+    {
+      "name": "CAFlow — AI Compliance for Chartered Accountants",
+      "slug": "polsia-caflow",
+      "description": "You trained to advise, plan, and protect. Not to be a data-entry operator. CAFlow handles the work that drains your day so you can do the work that grows your practice.",
+      "description_fr": "Vous avez été formé pour conseiller, planifier et protéger. Ne pas être un opérateur de saisie de données. CAFlow gère le travail qui draine votre journée afin que vous puissiez effectuer le travail qui développe votre pratique.",
+      "category": "AI & Machine Learning",
+      "website": "https://caflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T07:55:42.251396+00:00"
+    },
+    {
+      "name": "SweepIQ — AMD",
+      "slug": "polsia-sweepiq",
+      "description": "AMD model. Liquidity sweeps. FVG and IFVG patterns. Six quality filters. VWAP/EMA confluence. News filter. Prop firm rules. A visual chart guide any AI can read. And ten rules that keep future code changes from destroying your edge.",
+      "description_fr": "Modèle AMD. La liquidité balaye. Modèles FVG et IFVG. Six filtres de qualité. Confluence VWAP/EMA. Filtre d'actualités. Soutenez les règles fermes. Un guide graphique visuel que toute IA peut lire. Et dix règles qui empêchent les futures modifications du code de détruire votre avantage.",
+      "category": "AI & Machine Learning",
+      "website": "https://sweepiq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T07:55:43.058144+00:00"
+    },
+    {
+      "name": "Rift Analytics — AI Metric Monitoring",
+      "slug": "polsia-rift-analytics",
+      "description": "Rift is an AI agent that monitors your KPIs, learns what's normal, and alerts you the moment something breaks — before you open a dashboard.",
+      "description_fr": "Rift est un agent IA qui surveille vos KPI, apprend ce qui est normal et vous alerte dès que quelque chose se casse, avant d'ouvrir un tableau de bord.",
+      "category": "AI & Machine Learning",
+      "website": "https://rift-analytics.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T07:55:44.773477+00:00"
+    },
+    {
+      "name": "Reviewra — Autonomous Reputation Agent",
+      "slug": "polsia-reviewra",
+      "description": "That's the problem. A dental office with 3 locations doesn't have a reputation manager. They have a front desk person who tries to respond to reviews between phone calls. A restaurant chain has a marketing agency that checks in once a month. The reviews keep coming. The responses don't.",
+      "description_fr": "C'est le problème. Un cabinet dentaire avec 3 sites n'a pas de gestionnaire de réputation. Ils ont une personne à la réception qui essaie de répondre aux avis entre les appels téléphoniques. Une chaîne de restaurants dispose d’une agence de marketing qui s’enregistre une fois par mois. Les critiques s'enchaînent. Les réponses ne le sont pas.",
+      "category": "Marketing & Advertising",
+      "website": "https://reviewra.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T07:55:46.286945+00:00"
     }
   ]
 }
