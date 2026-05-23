@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T21:36:52.609652+00:00",
+  "last_updated": "2026-05-23T22:35:50.733171+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -135517,28 +135517,37 @@
       "scraped_at": "2026-05-23T20:36:26.866633+00:00"
     },
     {
-      "name": "CallCover",
+      "name": "CallCover — Insurance Leads, Direct to You",
       "slug": "polsia-callcover",
+      "description": "Most \"compare\" sites sell your information to 5, 10, 20 agents. We don't do that. When you request a quote, it goes directly to one licensed agent — Emeka. That's it. No middlemen. No call farms. Just a real conversation.",
+      "description_fr": "La plupart des sites de « comparaison » vendent vos informations à 5, 10, 20 agents. Nous ne faisons pas ça. Lorsque vous demandez un devis, celui-ci est directement adressé à un agent agréé – Emeka. C'est ça. Pas d'intermédiaires. Pas de fermes d'appel. Juste une vraie conversation.",
+      "category": "Sales & CRM",
       "website": "https://callcover.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T21:36:34.441920+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T22:35:48.309510+00:00"
     },
     {
-      "name": "CircleOS",
+      "name": "Accompany — Private Health Council",
       "slug": "polsia-circleos-3",
+      "description": "The healthcare system was not designed for you to be healthy. It was designed to treat you when you're sick. And if you have the means to demand more — better access, better coordination, someone in your corner who actually follows through — you should have it.",
+      "description_fr": "Le système de santé n’a pas été conçu pour que vous soyez en bonne santé. Il a été conçu pour vous soigner lorsque vous êtes malade. Et si vous avez les moyens d’exiger davantage – un meilleur accès, une meilleure coordination, quelqu’un à vos côtés qui donne réellement suite – vous devriez l’avoir.",
+      "category": "Health & Wellness",
       "website": "https://circleos-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T21:36:34.631332+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T22:35:49.436211+00:00"
     },
     {
-      "name": "OpsMind",
+      "name": "OpsMind — The Autonomous IT Department",
       "slug": "polsia-opsmind-3",
+      "description": "OpsMind is the AI employee that manages your entire IT operation — watching, learning, fixing, improving — every second of every day. No holidays. No sickness. No excuses.",
+      "description_fr": "OpsMind est l'employé IA qui gère l'ensemble de vos opérations informatiques – surveillance, apprentissage, réparation, amélioration – chaque seconde de chaque jour. Pas de vacances. Aucune maladie. Aucune excuse.",
+      "category": "AI & Machine Learning",
       "website": "https://opsmind-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T21:36:34.836843+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T22:35:50.423463+00:00"
     },
     {
       "name": "LiithosOS",
@@ -135613,6 +135622,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-23T21:36:41.530886+00:00"
+    },
+    {
+      "name": "PageFlow — AI",
+      "slug": "polsia-pageflow-10",
+      "description": "PageFlow is an autonomous AI SDR that researches prospects, personalizes outreach, and runs full cold email campaigns 24/7.",
+      "description_fr": "PageFlow est un SDR IA autonome qui recherche les prospects, personnalise la sensibilisation et exécute des campagnes complètes d'e-mails froids 24h/24 et 7j/7.",
+      "category": "Sales & CRM",
+      "website": "https://pageflow-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T22:35:34.629212+00:00"
+    },
+    {
+      "name": "MoonFrame — AI",
+      "slug": "polsia-moonframe",
+      "description": "The tools to build AI-native companies didn't exist three years ago. Now they do. The cost of production has collapsed. The window is open. Incumbents can't re-architect fast enough. That's why we're here.",
+      "description_fr": "Les outils permettant de créer des entreprises natives de l’IA n’existaient pas il y a trois ans. Maintenant, c’est le cas. Le coût de production s'est effondré. La fenêtre est ouverte. Les opérateurs historiques ne peuvent pas restructurer assez rapidement. C'est pourquoi nous sommes ici.",
+      "category": "AI & Machine Learning",
+      "website": "https://moonframe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T22:35:36.629928+00:00"
+    },
+    {
+      "name": "SlateOS",
+      "slug": "polsia-slateos",
+      "website": "https://slateos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T22:35:36.787710+00:00"
+    },
+    {
+      "name": "ServiceOps — AI agent that runs your service business",
+      "slug": "polsia-serviceops",
+      "description": "ServiceOps is an AI agent that does everything a receptionist, scheduler, and accounts receivable clerk would do — except it works around the clock, never makes mistakes, and costs a fraction of a minimum-wage salary.",
+      "description_fr": "ServiceOps est un agent IA qui fait tout ce qu'un réceptionniste, un planificateur et un commis aux comptes clients ferait, sauf qu'il travaille 24 heures sur 24, ne fait jamais d'erreurs et ne coûte qu'une fraction du salaire minimum.",
+      "category": "AI & Machine Learning",
+      "website": "https://serviceops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T22:35:38.042238+00:00"
+    },
+    {
+      "name": "Forge — The AI Creative Studio",
+      "slug": "polsia-forge-ai-studio",
+      "description": "Every other AI tool optimizes for one thing. Forge optimizes for the person using all of them. You do not need a better image generator. You need a better day. We are building the platform that makes that possible.",
+      "description_fr": "Tous les autres outils d’IA optimisent pour une chose. Forge optimise pour la personne qui les utilise tous. Vous n'avez pas besoin d'un meilleur générateur d'images. Vous avez besoin d'une journée meilleure. Nous construisons la plateforme qui rend cela possible.",
+      "category": "AI & Machine Learning",
+      "website": "https://forge-ai-studio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T22:35:39.235366+00:00"
+    },
+    {
+      "name": "Stacklift — AI",
+      "slug": "polsia-stacklift-2",
+      "description": "Describe what you need in plain language. Stacklift generates the full microservice — project structure, Terraform modules, CI/CD pipelines, ECS configuration — with your org's standards baked in. No more copy-paste from old repos. No more asking the platform team.",
+      "description_fr": "Décrivez ce dont vous avez besoin dans un langage simple. Stacklift génère le microservice complet (structure du projet, modules Terraform, pipelines CI/CD, configuration ECS) en intégrant les normes de votre organisation. Plus besoin de copier-coller à partir d'anciens dépôts. Plus besoin de demander à l'équipe de la plateforme.",
+      "category": "AI & Machine Learning",
+      "website": "https://stacklift-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T22:35:40.429880+00:00"
+    },
+    {
+      "name": "Watchdog AI — Autonomous AWS Compliance Monitoring",
+      "slug": "polsia-watchdog-ai",
+      "description": "Watchdog AI is an autonomous agent that monitors your AWS configuration continuously, flags violations the moment they occur, and auto-generates audit-ready reports — so your team stops scrambling before quarterly reviews.",
+      "description_fr": "Watchdog AI est un agent autonome qui surveille en permanence votre configuration AWS, signale les violations dès qu'elles se produisent et génère automatiquement des rapports prêts à être audités — afin que votre équipe arrête de se bousculer avant les examens trimestriels.",
+      "category": "AI & Machine Learning",
+      "website": "https://watchdog-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T22:35:41.565943+00:00"
+    },
+    {
+      "name": "Phantom — Your AI Content Double",
+      "slug": "polsia-phantom-ai-2",
+      "description": "The average creator spends 4.3 hours per week on content logistics — scheduling, drafting, checking what performed, re-editing. That's a part-time job no one signed up for. Phantom eliminates the logistics entirely. Your AI double monitors cultural trends, crafts content in your voice, publishes to your platforms, and reports back. You show up to a published feed.",
+      "description_fr": "Le créateur moyen consacre 4,3 heures par semaine à la logistique du contenu : planification, rédaction, vérification de ce qui a été exécuté, réédition. C'est un travail à temps partiel pour lequel personne ne s'est inscrit. Phantom élimine complètement la logistique. Votre double IA surveille les tendances culturelles, crée du contenu avec votre voix, le publie sur vos plateformes et rend compte. Vous vous présentez à un flux publié.",
+      "category": "AI & Machine Learning",
+      "website": "https://phantom-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T22:35:42.578563+00:00"
+    },
+    {
+      "name": "LokshinOS",
+      "slug": "polsia-lokshinos",
+      "description": "National media ignores regional talent. We don't. Lokshin Loud is the platform that bridges the gap between raw local ability and national recognition. We record, we perform, we document, we amplify. Every episode is a time capsule of what's happening in the Eastern Cape right now.",
+      "description_fr": "Les médias nationaux ignorent les talents régionaux. Nous ne le faisons pas. Lokshin Loud est la plateforme qui comble le fossé entre les capacités locales brutes et la reconnaissance nationale. Nous enregistrons, nous jouons, nous documentons, nous amplifions. Chaque épisode est une capsule temporelle de ce qui se passe actuellement au Cap-Oriental.",
+      "category": "Software & SaaS",
+      "website": "https://lokshinos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T22:35:43.987703+00:00"
+    },
+    {
+      "name": "Apex",
+      "slug": "polsia-apex-consulting",
+      "website": "https://apex-consulting.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T22:35:44.204510+00:00"
     }
   ]
 }
