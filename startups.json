@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T19:12:42.211405+00:00",
+  "last_updated": "2026-05-23T19:49:00.371707+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -135193,28 +135193,37 @@
       "scraped_at": "2026-05-23T17:30:15.912653+00:00"
     },
     {
-      "name": "AgentStack",
+      "name": "AgentStack — AI",
       "slug": "polsia-agentstack-5",
+      "description": "Autonomous agents that research, build, market, and support niche plugins in high-traffic ecosystems. Low CAC. Self-serve revenue.",
+      "description_fr": "Agents autonomes qui recherchent, créent, commercialisent et prennent en charge des plugins de niche dans des écosystèmes à fort trafic. CAC faible. Revenus en libre-service.",
+      "category": "AI & Machine Learning",
       "website": "https://agentstack-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T18:37:09.082732+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T19:48:58.374908+00:00"
     },
     {
-      "name": "RealToke",
+      "name": "RealToke — Tokenization",
       "slug": "polsia-realtoke",
+      "description": "Meanwhile, a property developer in Dubai wants to tokenize a $15M residential tower. A family office wants to offer fractional ownership in a private credit fund. A private equity manager wants to open secondary liquidity to their LP base.",
+      "description_fr": "Pendant ce temps, un promoteur immobilier de Dubaï souhaite symboliser une tour résidentielle de 15 millions de dollars. Un family office souhaite proposer une propriété fractionnée dans un fonds de crédit privé. Un gestionnaire de capital-investissement souhaite ouvrir des liquidités secondaires à sa base LP.",
+      "category": "AI & Machine Learning",
       "website": "https://realtoke.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T18:37:09.449823+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T19:48:59.000982+00:00"
     },
     {
       "name": "SignalPulse",
       "slug": "polsia-signalpulse-8",
+      "description": "AI agents that monitor your engineering signals and alert you before problems escalate.",
+      "description_fr": "Des agents IA qui surveillent vos signaux techniques et vous alertent avant que les problèmes ne s'aggravent.",
+      "category": "AI & Machine Learning",
       "website": "https://signalpulse-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T18:37:09.742675+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T19:48:59.714905+00:00"
     },
     {
       "name": "PagePilot — Your AI Sales Agent, Working 24/7",
@@ -135292,6 +135301,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-23T18:37:17.347975+00:00"
+    },
+    {
+      "name": "StarkFlow",
+      "slug": "polsia-starkflow",
+      "website": "https://starkflow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T19:48:46.415692+00:00"
+    },
+    {
+      "name": "FeuVert",
+      "slug": "polsia-feuvert",
+      "website": "https://feuvert.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T19:48:47.244677+00:00"
+    },
+    {
+      "name": "CodeStash",
+      "slug": "polsia-codestash-773",
+      "website": "https://codestash-773.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T19:48:47.597233+00:00"
+    },
+    {
+      "name": "StratosOS",
+      "slug": "polsia-stratosos-2",
+      "website": "https://stratosos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T19:48:47.768504+00:00"
+    },
+    {
+      "name": "ClipForge — AI",
+      "slug": "polsia-clipforge-69",
+      "description": "Most brands know they should be on YouTube Shorts, TikTok, and Instagram Reels. They don't want to learn video production, hire a crew, or appear on camera themselves.",
+      "description_fr": "La plupart des marques savent qu'elles devraient figurer sur YouTube Shorts, TikTok et Instagram Reels. They don't want to learn video production, hire a crew, or appear on camera themselves.",
+      "category": "AI & Machine Learning",
+      "website": "https://clipforge-69.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T19:48:48.683658+00:00"
+    },
+    {
+      "name": "Vela — Autonomous AI Employees for LatAm SMBs",
+      "slug": "polsia-vela-ai-11",
+      "description": "AI workers that run your sales, marketing, and operations 24/7 — built for the Latin American market.",
+      "description_fr": "Des collaborateurs IA qui gèrent vos ventes, votre marketing et vos opérations 24h/24 et 7j/7, conçus pour le marché latino-américain.",
+      "category": "AI & Machine Learning",
+      "website": "https://vela-ai-11.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T19:48:49.643673+00:00"
+    },
+    {
+      "name": "Tokenbase",
+      "slug": "polsia-tokenbase",
+      "website": "https://tokenbase.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T19:48:49.954763+00:00"
+    },
+    {
+      "name": "TraitTales — Bedtime stories that build character",
+      "slug": "polsia-storyarcos",
+      "description": "Five-minute bedtime stories, written nightly for your child — quietly building kindness, confidence, and the eight traits that shape who they become.",
+      "description_fr": "Des histoires de cinq minutes au coucher, écrites tous les soirs pour votre enfant – développant tranquillement la gentillesse, la confiance et les huit traits qui façonnent qui il devient.",
+      "category": "Sustainability & Green",
+      "website": "https://storyarcos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T19:48:51.708147+00:00"
+    },
+    {
+      "name": "CallIQ — Autonomous AI Call Center",
+      "slug": "polsia-calliq",
+      "description": "The companies winning on customer experience in 2026 aren't hiring more agents. They're replacing the repeatable calls with AI — and using their human team for the interactions that actually matter.",
+      "description_fr": "Les entreprises gagnantes en matière d'expérience client en 2026 n'embauchent pas davantage d'agents. Ils remplacent les appels répétables par l'IA et utilisent leur équipe humaine pour les interactions qui comptent réellement.",
+      "category": "AI & Machine Learning",
+      "website": "https://calliq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T19:48:53.326431+00:00"
+    },
+    {
+      "name": "Fi371OS — AI Audit Automation",
+      "slug": "polsia-fi371os",
+      "description": "AI drafts risk assessments, generates audit procedures, and pre-populates workpapers from your firm's templates. You review, not rebuild.",
+      "description_fr": "L'IA rédige des évaluations des risques, génère des procédures d'audit et pré-remplit les documents de travail à partir des modèles de votre entreprise. You review, not rebuild.",
+      "category": "AI & Machine Learning",
+      "website": "https://fi371os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T19:48:54.292197+00:00"
     }
   ]
 }
