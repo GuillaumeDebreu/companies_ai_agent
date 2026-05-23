@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T09:56:58.540753+00:00",
+  "last_updated": "2026-05-23T11:18:27.325973+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -134429,20 +134429,26 @@
       "scraped_at": "2026-05-23T07:55:46.286945+00:00"
     },
     {
-      "name": "Topika",
+      "name": "Topika — Για τα τοπικά μαζι",
       "slug": "polsia-topika",
+      "description": "Κάθε ταβέρνα, κάθε μανάβικο, κάθε κατάστημα της γειτονιάς αξίζει να το βρίσκουν. Η Topika φέρνει τα τοπικά μαζι στον ψηφιακό κόσμο — με απλότητα, όχι πολυπλοκότητα.",
+      "description_fr": "Κάθε ταβέρνα, κάθε μανάβικο, κάθε κατάστημα της γειτονιάς αξίζει να το βρίσκουν. Η Topika φέρνει τα τοπικά μαζι στον ψηφιακό κόσμο — με απλότητα, όχι πολυπλοκότητα.",
+      "category": "Other",
       "website": "https://topika.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T09:56:42.757145+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T11:18:24.573328+00:00"
     },
     {
-      "name": "DesignKit",
+      "name": "DesignKit — AI",
       "slug": "polsia-designkit-ai",
+      "description": "That's not what it is. It's a rigorous, learnable, measurable discipline. And if you've ever tried to teach it at scale — across 21 schools, with students from first-years to final-years — you know that generic frameworks fail the people who need structure most.",
+      "description_fr": "Ce n'est pas ça. C'est une discipline rigoureuse, apprenable et mesurable. Et si vous avez déjà essayé de l’enseigner à grande échelle – dans 21 écoles, avec des élèves de la première année à la terminale – vous savez que les cadres génériques échouent pour les personnes qui ont le plus besoin de structure.",
+      "category": "AI & Machine Learning",
       "website": "https://designkit-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T09:56:43.137821+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T11:18:26.202735+00:00"
     },
     {
       "name": "Chama — Home Services, Angola",
@@ -134528,6 +134534,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-23T09:56:51.937039+00:00"
+    },
+    {
+      "name": "BektuOS",
+      "slug": "polsia-bektuos",
+      "website": "https://bektuos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T11:18:09.880927+00:00"
+    },
+    {
+      "name": "RenteX",
+      "slug": "polsia-rentex",
+      "website": "https://rentex.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T11:18:10.088337+00:00"
+    },
+    {
+      "name": "ProcedurePak",
+      "slug": "polsia-procedurepak",
+      "website": "https://procedurepak.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T11:18:10.385664+00:00"
+    },
+    {
+      "name": "Archway Vietnam",
+      "slug": "polsia-archway-vietnam",
+      "website": "https://archway-vietnam.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T11:18:10.667142+00:00"
+    },
+    {
+      "name": "StackDeck — Your AI Accounting Agent",
+      "slug": "polsia-stackdeck-2",
+      "description": "The first AI accounting agent built for Indian SMBs. Handles invoicing, reconciliation, GST filing, and collections — autonomously. No training, no data entry, no learning curve.",
+      "description_fr": "Le premier agent comptable IA conçu pour les PME indiennes. Gère la facturation, le rapprochement, la déclaration de TPS et les recouvrements de manière autonome. Pas de formation, pas de saisie de données, pas de courbe d'apprentissage.",
+      "category": "AI & Machine Learning",
+      "website": "https://stackdeck-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T11:18:11.975828+00:00"
+    },
+    {
+      "name": "WinGrants.ai — AI",
+      "slug": "polsia-grantos",
+      "description": "WinGrants.ai was built for the consultants, researchers, and innovation agencies who know their field — but can't afford to spend three months drafting one proposal at a time.",
+      "description_fr": "WinGrants.ai a été conçu pour les consultants, les chercheurs et les agences d'innovation qui connaissent leur domaine, mais qui ne peuvent pas se permettre de passer trois mois à rédiger une proposition à la fois.",
+      "category": "AI & Machine Learning",
+      "website": "https://grantos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T11:18:13.078443+00:00"
+    },
+    {
+      "name": "SOBER — Drink on purpose",
+      "slug": "polsia-sober",
+      "description": "The world's first globally adaptive AI mindful drinking coach. Non-judgmental. Culturally intelligent. For people who drink more than they want to.",
+      "description_fr": "Le premier coach de consommation d'alcool conscient de l'IA adaptative à l'échelle mondiale. Sans jugement. Culturellement intelligent. Pour les personnes qui boivent plus qu’elles ne le souhaitent.",
+      "category": "AI & Machine Learning",
+      "website": "https://sober.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T11:18:17.154488+00:00"
+    },
+    {
+      "name": "AutoCart — Autonomous Dropshipping by AI",
+      "slug": "polsia-auto-cart",
+      "description": "Dropshipping used to mean 12-hour days: product research, manual store updates, supplier negotiations, ad creative, customer service, order chasing. AI tools have changed that. The pieces exist. What was missing was the agent layer that ties them into a continuous loop.",
+      "description_fr": "Autrefois, le dropshipping signifiait des journées de 12 heures : recherche de produits, mises à jour manuelles du magasin, négociations avec les fournisseurs, création publicitaire, service client, suivi des commandes. Les outils d’IA ont changé la donne. Les pièces existent. Ce qui manquait, c'était la couche d'agent qui les liait dans une boucle continue.",
+      "category": "AI & Machine Learning",
+      "website": "https://auto-cart.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T11:18:18.214116+00:00"
+    },
+    {
+      "name": "PivotOS — The Operating System for Strategy",
+      "slug": "polsia-pivotos-4",
+      "description": "PivotOS is the operating system built for consultancies and professional services firms that deliver strategy and execution under one roof. Track clients, manage projects, automate the business — so your team stays focused on what matters.",
+      "description_fr": "PivotOS est le système d'exploitation conçu pour les cabinets de conseil et de services professionnels qui proposent stratégie et exécution sous un même toit. Suivez les clients, gérez les projets, automatisez l'activité — pour que votre équipe reste concentrée sur ce qui compte.",
+      "category": "Consulting & Services",
+      "website": "https://pivotos-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T11:18:19.349048+00:00"
+    },
+    {
+      "name": "GameStackOS — The Operating System for Outdoor Event Rentals",
+      "slug": "polsia-gamestackos",
+      "description": "Inventory, leads, bookings, and analytics in one place. Built for the yard game rental business that runs on hustle.",
+      "description_fr": "Inventaire, prospects, réservations et analyses en un seul endroit. Conçu pour l'entreprise de location de jeux de jardin qui fonctionne à plein régime.",
+      "category": "Travel & Hospitality",
+      "website": "https://gamestackos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T11:18:20.572567+00:00"
     }
   ]
 }
