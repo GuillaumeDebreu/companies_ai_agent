@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T14:03:10.760691+00:00",
+  "last_updated": "2026-05-23T15:15:30.827656+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -134753,12 +134753,15 @@
       "scraped_at": "2026-05-23T12:10:11.418971+00:00"
     },
     {
-      "name": "BurrowOS",
+      "name": "BurrowOS — Operating system for The AI Burrow",
       "slug": "polsia-burrowos-2",
+      "description": "\"I came in curious, left knowing how to build. We deployed a working AI employee on Telegram — it handles client queries, troubleshoots issues, generates reports. It's solving real problems on demand across my personal and business workflows.\"",
+      "description_fr": "\"Je suis arrivé curieux, je suis parti en sachant comment construire. Nous avons déployé un employé IA fonctionnel sur Telegram : il gère les requêtes des clients, résout les problèmes, génère des rapports. Il résout de vrais problèmes à la demande dans mes flux de travail personnels et professionnels.\"",
+      "category": "AI & Machine Learning",
       "website": "https://burrowos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T14:02:49.388457+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T15:15:28.590371+00:00"
     },
     {
       "name": "ProScoreOS — Football Trial Command Center",
@@ -134772,12 +134775,15 @@
       "scraped_at": "2026-05-23T14:02:50.485357+00:00"
     },
     {
-      "name": "DossierProOS",
+      "name": "DossierPro — Diagnostic Management for Field Professionals",
       "slug": "polsia-dossierproos",
+      "description": "The operating system for property diagnosticians. Field-first, mobile, AI-assisted. Manage clients, generate reports, and deliver to notaries — all from one place.",
+      "description_fr": "Le système d'exploitation pour les diagnosticiens immobiliers. Premier sur le terrain, mobile, assisté par l'IA. Gérez les clients, générez des rapports et envoyez-les aux notaires, le tout à partir d'un seul endroit.",
+      "category": "AI & Machine Learning",
       "website": "https://dossierproos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T14:02:50.676805+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T15:15:29.980013+00:00"
     },
     {
       "name": "ThoughtLayer — Capture Everything",
@@ -134855,6 +134861,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-23T14:03:00.174836+00:00"
+    },
+    {
+      "name": "CarbonPilot",
+      "slug": "polsia-carbonpilot-7",
+      "website": "https://carbonpilot-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T15:15:09.572808+00:00"
+    },
+    {
+      "name": "CommuteOS",
+      "slug": "polsia-commuteos",
+      "website": "https://commuteos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T15:15:09.823896+00:00"
+    },
+    {
+      "name": "CleanStack",
+      "slug": "polsia-cleanstack",
+      "website": "https://cleanstack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T15:15:10.265407+00:00"
+    },
+    {
+      "name": "AutomataWork — AI Automation for Local Businesses",
+      "slug": "polsia-automatawork",
+      "description": "Most automation agencies chase SaaS companies and enterprise clients. They speak in buzzwords, bill by the hour, and disappear after the project ends.AutomataWork is built differently. We speak the language of tradespeople, practice managers, and gym owners. We set up automations that last, train your team in 20 minutes, and stay on call for ongoing tweaks.The gap between where you are and where you could be isn't technical. It's just having someone who builds it for you.",
+      "description_fr": "La plupart des agences d'automatisation recherchent les entreprises SaaS et les entreprises clientes. Ils parlent avec des mots à la mode, facturent à l'heure et disparaissent une fois le projet terminé. AutomataWork est construit différemment. Nous parlons le langage des gens de métier, des directeurs de cabinet et des propriétaires de salles de sport. Nous mettons en place des automatisations qui durent, formons votre équipe en 20 minutes et restons disponibles pour des ajustements continus. L'écart entre l'endroit où vous êtes et l'endroit où vous pourriez être n'est pas technique. Il s'agit simplement d'avoir quelqu'un qui le construit pour vous.",
+      "category": "AI & Machine Learning",
+      "website": "https://automatawork.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T15:15:14.843139+00:00"
+    },
+    {
+      "name": "Briefbox — Your daily briefing, without the scroll",
+      "slug": "polsia-briefbox-2",
+      "description": "Generic newsletters are written for everyone. Briefbox is trained on what you care about — competitor X's funding round, Y startup's new feature, your industry's regulatory shift.",
+      "description_fr": "Les newsletters génériques sont rédigées pour tout le monde. Briefbox est formé sur ce qui vous intéresse : le cycle de financement du concurrent X, la nouvelle fonctionnalité de la startup Y, le changement de réglementation de votre secteur.",
+      "category": "Newsletter & Email",
+      "website": "https://briefbox-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T15:15:16.136976+00:00"
+    },
+    {
+      "name": "MomentumOS — The Founder's Operating System",
+      "slug": "polsia-momentumos-12",
+      "description": "MomentumOS runs your business end-to-end — product, engineering, marketing, growth — so you can focus on the decisions that actually matter.",
+      "description_fr": "MomentumOS gère votre entreprise de bout en bout (produit, ingénierie, marketing, croissance) afin que vous puissiez vous concentrer sur les décisions qui comptent réellement.",
+      "category": "Marketing & Advertising",
+      "website": "https://momentumos-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T15:15:17.581357+00:00"
+    },
+    {
+      "name": "GARD",
+      "slug": "polsia-tenantos-3",
+      "description": "Real-time team coordination from the field to the back office. Shift channels, file sharing, instant escalation — all in one workspace. Automated updates on shift start, milestone hits, and report completion.",
+      "description_fr": "Coordination des équipes en temps réel du terrain au back-office. Changement de canal, partage de fichiers, escalade instantanée, le tout dans un seul espace de travail. Mises à jour automatisées sur le début du quart de travail, les jalons atteints et l'achèvement du rapport.",
+      "category": "Other",
+      "website": "https://tenantos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T15:15:18.593381+00:00"
+    },
+    {
+      "name": "Peel — Your AI HR Employee",
+      "slug": "polsia-peel-hr",
+      "description": "Small businesses deserve the same automation that enterprise companies have — without the enterprise price tag. Peel works like a dedicated HR person who never takes a day off, never makes arithmetic errors, and never drops the ball on onboarding a new hire.",
+      "description_fr": "Les petites entreprises méritent la même automatisation que les grandes entreprises, sans le prix d'entreprise. Peel travaille comme un responsable RH dévoué qui ne prend jamais un jour de congé, ne commet jamais d'erreurs arithmétiques et ne lâche jamais la balle lors de l'intégration d'une nouvelle recrue.",
+      "category": "AI & Machine Learning",
+      "website": "https://peel-hr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T15:15:20.376552+00:00"
+    },
+    {
+      "name": "GranoSentry",
+      "slug": "polsia-granosentry",
+      "description": "GranoSentry is an AI agent that autonomously monitors food safety compliance, generates quality documentation, and alerts your team before violations happen.",
+      "description_fr": "GranoSentry est un agent d'IA qui surveille de manière autonome la conformité en matière de sécurité alimentaire, génère une documentation de qualité et alerte votre équipe avant que des violations ne se produisent.",
+      "category": "AI & Machine Learning",
+      "website": "https://granosentry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T15:15:21.950811+00:00"
+    },
+    {
+      "name": "StackTrace",
+      "slug": "polsia-stacktrace",
+      "description": "Other AI tools hand you solutions. StackTrace teaches you to see problems the way a senior engineer sees them — pattern recognition, edge cases, defensive coding habits.",
+      "description_fr": "D'autres outils d'IA vous proposent des solutions. StackTrace vous apprend à voir les problèmes de la même manière qu'un ingénieur senior les voit : reconnaissance de formes, cas extrêmes, habitudes de codage défensives.",
+      "category": "AI & Machine Learning",
+      "website": "https://stacktrace.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T15:15:23.085585+00:00"
     }
   ]
 }
