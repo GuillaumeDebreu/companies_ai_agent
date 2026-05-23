@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T20:36:35.533070+00:00",
+  "last_updated": "2026-05-23T21:36:52.609652+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -135407,36 +135407,48 @@
       "scraped_at": "2026-05-23T19:48:54.292197+00:00"
     },
     {
-      "name": "RugiraOS",
+      "name": "RugiraOS — Swiss AI Execution Engine",
       "slug": "polsia-rugiraos",
+      "description": "Family offices are awash in AI assistants that summarize, analyze, and suggest. What they're missing is execution infrastructure that operates within defined parameters — autonomously, precisely, and with a complete audit trail.",
+      "description_fr": "Les family offices regorgent d’assistants IA qui résument, analysent et suggèrent. Ce qui leur manque, c'est une infrastructure d'exécution qui fonctionne selon des paramètres définis — de manière autonome, précise et avec une piste d'audit complète.",
+      "category": "AI & Machine Learning",
       "website": "https://rugiraos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T20:36:19.822500+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T21:36:46.589521+00:00"
     },
     {
-      "name": "GrillRack",
+      "name": "GrillRack — BBQ Cleaning & Propane, Delivered",
       "slug": "polsia-grillrack",
+      "description": "Most propane grills in American backyards are disgusting. Grease buildup, carbonized food residue, clogged burners, and a tank running on fumes. People pay $400 for a grill and let it rot because cleaning it is miserable and propane exchanges are a chore.",
+      "description_fr": "La plupart des barbecues au propane dans les arrière-cours américaines sont dégoûtants. Accumulation de graisse, résidus alimentaires carbonisés, brûleurs obstrués et réservoir fonctionnant aux fumées. Les gens paient 400 $ pour un gril et le laissent pourrir parce que le nettoyer est misérable et les échanges de propane sont une corvée.",
+      "category": "Food & Beverage",
       "website": "https://grillrack.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T20:36:20.064527+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T21:36:48.105005+00:00"
     },
     {
-      "name": "RoostOS",
+      "name": "RoostOS — Autonomous Operating System for Property Tech",
       "slug": "polsia-roostos",
+      "description": "The independent marketplace for manufactured housing has operated lean for 13 years. RoostOS is the system that lets it think bigger — without adding headcount, without slowing down, without losing what makes it different.",
+      "description_fr": "Le marché indépendant des maisons préfabriquées fonctionne au plus juste depuis 13 ans. RoostOS est le système qui lui permet de voir plus grand – sans ajouter d’effectifs, sans ralentir, sans perdre ce qui le différencie.",
+      "category": "Real Estate",
       "website": "https://roostos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T20:36:20.397367+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T21:36:49.262833+00:00"
     },
     {
-      "name": "ForgeDeck",
+      "name": "ForgeDeck — AI Presales Agent",
       "slug": "polsia-forgedeck",
+      "description": "The average sales engineer spends 60% of their time on research and prep — work that doesn't close deals. ForgeDeck flips that. The agent works the problem, your team shows up to the conversation prepared, confident, and ready to win.",
+      "description_fr": "L'ingénieur commercial moyen consacre 60 % de son temps à la recherche et à la préparation, un travail qui ne permet pas de conclure des affaires. ForgeDeck inverse cela. L'agent résout le problème, votre équipe se présente à la conversation préparée, confiante et prête à gagner.",
+      "category": "AI & Machine Learning",
       "website": "https://forgedeck.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T20:36:20.648954+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T21:36:50.350479+00:00"
     },
     {
       "name": "PagePilot — Your AI Agent Runs Your Content Site",
@@ -135503,6 +135515,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-23T20:36:26.866633+00:00"
+    },
+    {
+      "name": "CallCover",
+      "slug": "polsia-callcover",
+      "website": "https://callcover.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T21:36:34.441920+00:00"
+    },
+    {
+      "name": "CircleOS",
+      "slug": "polsia-circleos-3",
+      "website": "https://circleos-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T21:36:34.631332+00:00"
+    },
+    {
+      "name": "OpsMind",
+      "slug": "polsia-opsmind-3",
+      "website": "https://opsmind-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T21:36:34.836843+00:00"
+    },
+    {
+      "name": "LiithosOS",
+      "slug": "polsia-liithosos",
+      "website": "https://liithosos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T21:36:35.125928+00:00"
+    },
+    {
+      "name": "WatchR",
+      "slug": "polsia-watchr-ai-3",
+      "description": "Your competitors are making decisions every day. Pricing changes, feature launches, GTM pivots. Most of it happens outside your awareness — until a customer tells you about it in a sales call.",
+      "description_fr": "Vos concurrents prennent des décisions chaque jour. Modifications de prix, lancements de fonctionnalités, pivots GTM. La plupart de ces événements se produisent à votre insu, jusqu'à ce qu'un client vous en parle lors d'un appel commercial.",
+      "category": "Sales & CRM",
+      "website": "https://watchr-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T21:36:52.606972+00:00"
+    },
+    {
+      "name": "CodeReviewer — AI",
+      "slug": "polsia-codereviewer-ai",
+      "description": "CodeReviewer is an autonomous AI agent that reviews your GitHub PRs for bugs, security issues, and code quality — automatically, every time you push.",
+      "description_fr": "CodeReviewer est un agent d'IA autonome qui examine vos PR GitHub pour détecter les bogues, les problèmes de sécurité et la qualité du code, automatiquement, à chaque fois que vous appuyez sur.",
+      "category": "AI & Machine Learning",
+      "website": "https://codereviewer-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T21:36:37.148458+00:00"
+    },
+    {
+      "name": "CloudPilot",
+      "slug": "polsia-cloudpilot-ai-3",
+      "description": "An AI agent that autonomously manages your cloud infrastructure. Monitors, diagnoses, and acts — 24/7 without human intervention.",
+      "description_fr": "Un agent IA qui gère de manière autonome votre infrastructure cloud. Surveille, diagnostique et agit – 24h/24 et 7j/7 sans intervention humaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://cloudpilot-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T21:36:38.565333+00:00"
+    },
+    {
+      "name": "Pageform — AI documents that work for you",
+      "slug": "polsia-pageform-1779572048912-6zn9",
+      "description": "Pageform is built for the people who've outgrown the clipboard-and-wait approach. If your documents aren't working while you're asleep, they're falling behind.",
+      "description_fr": "Pageform est conçu pour les personnes qui ont dépassé l'approche du presse-papiers et de l'attente. Si vos documents ne fonctionnent pas pendant que vous dormez, ils prennent du retard.",
+      "category": "AI & Machine Learning",
+      "website": "https://pageform-1779572048912-6zn9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T21:36:39.871846+00:00"
+    },
+    {
+      "name": "DealBridge — Real Estate Wholesale, Built for Texas",
+      "slug": "polsia-dealbridge-2",
+      "description": "Off-market deals for cash investors. Wholesale training for serious operators. Based in Texas, built for the market.",
+      "description_fr": "Offres hors marché pour les investisseurs en espèces. Formation en gros pour opérateurs sérieux. Basé au Texas, construit pour le marché.",
+      "category": "Education",
+      "website": "https://dealbridge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T21:36:40.320161+00:00"
+    },
+    {
+      "name": "AxonFlow — AI That Works While You Sleep",
+      "slug": "polsia-axonflow-5",
+      "description": "An autonomous AI agent that monitors your business and automatically builds, deploys, and maintains AI capabilities — no human composition needed.",
+      "description_fr": "Un agent d'IA autonome qui surveille votre entreprise et crée, déploie et maintient automatiquement des capacités d'IA — aucune composition humaine n'est nécessaire.",
+      "category": "AI & Machine Learning",
+      "website": "https://axonflow-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T21:36:41.530886+00:00"
     }
   ]
 }
