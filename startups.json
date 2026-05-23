@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T19:49:00.371707+00:00",
+  "last_updated": "2026-05-23T20:36:35.533070+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -135303,12 +135303,15 @@
       "scraped_at": "2026-05-23T18:37:17.347975+00:00"
     },
     {
-      "name": "StarkFlow",
+      "name": "StarkFlow — AI Financial Agent for Freelancers",
       "slug": "polsia-starkflow",
+      "description": "Autonomous AI agent that handles invoicing, payment monitoring, and cross-border receipts for Nigerian freelancers. Works 24/7.",
+      "description_fr": "Agent d'IA autonome qui gère la facturation, le suivi des paiements et les reçus transfrontaliers pour les indépendants nigérians. Fonctionne 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://starkflow.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T19:48:46.415692+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T20:36:32.135862+00:00"
     },
     {
       "name": "FeuVert",
@@ -135319,12 +135322,15 @@
       "scraped_at": "2026-05-23T19:48:47.244677+00:00"
     },
     {
-      "name": "CodeStash",
+      "name": "CodeStash — Autonomous AI Code Review",
       "slug": "polsia-codestash-773",
+      "description": "CodeStash is an AI agent that monitors your GitHub repos 24/7, catches bugs before they ship, files fix PRs, and reports daily progress.",
+      "description_fr": "CodeStash est un agent d'IA qui surveille vos dépôts GitHub 24h/24 et 7j/7, détecte les bogues avant leur expédition, corrige les fichiers PR et rapporte les progrès quotidiens.",
+      "category": "AI & Machine Learning",
       "website": "https://codestash-773.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T19:48:47.597233+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T20:36:33.684841+00:00"
     },
     {
       "name": "StratosOS",
@@ -135357,12 +135363,15 @@
       "scraped_at": "2026-05-23T19:48:49.643673+00:00"
     },
     {
-      "name": "Tokenbase",
+      "name": "Tokenbase — Design tokens for every platform",
       "slug": "polsia-tokenbase",
+      "description": "Every other tool in the design system stack duplicates this work — exports it, transforms it, breaks it. Tokenbase starts from a different premise: if the token is the source of truth, every consumer reads from the same file. Designers. Developers. AI agents. Same tokens, same meaning, same outcome.",
+      "description_fr": "Tous les autres outils de la pile du système de conception dupliquent ce travail : l'exportent, le transforment, le cassent. Tokenbase part d'un principe différent : si le jeton est la source de vérité, chaque consommateur lit le même fichier. Concepteurs. Développeurs. Agents IA. Mêmes jetons, même signification, même résultat.",
+      "category": "AI & Machine Learning",
       "website": "https://tokenbase.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T19:48:49.954763+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T20:36:34.995520+00:00"
     },
     {
       "name": "TraitTales — Bedtime stories that build character",
@@ -135396,6 +135405,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-23T19:48:54.292197+00:00"
+    },
+    {
+      "name": "RugiraOS",
+      "slug": "polsia-rugiraos",
+      "website": "https://rugiraos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T20:36:19.822500+00:00"
+    },
+    {
+      "name": "GrillRack",
+      "slug": "polsia-grillrack",
+      "website": "https://grillrack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T20:36:20.064527+00:00"
+    },
+    {
+      "name": "RoostOS",
+      "slug": "polsia-roostos",
+      "website": "https://roostos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T20:36:20.397367+00:00"
+    },
+    {
+      "name": "ForgeDeck",
+      "slug": "polsia-forgedeck",
+      "website": "https://forgedeck.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T20:36:20.648954+00:00"
+    },
+    {
+      "name": "PagePilot — Your AI Agent Runs Your Content Site",
+      "slug": "polsia-pagepilot-79",
+      "description": "PagePilot is an autonomous AI agent that builds, updates, monitors, and grows your content website — working 24/7 while you focus on creating.",
+      "description_fr": "PagePilot est un agent d'IA autonome qui crée, met à jour, surveille et développe votre site Web de contenu, travaillant 24h/24 et 7j/7 pendant que vous vous concentrez sur la création.",
+      "category": "AI & Machine Learning",
+      "website": "https://pagepilot-79.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T20:36:21.644009+00:00"
+    },
+    {
+      "name": "StayVestOS — Vacation Rental Investment Operating System",
+      "slug": "polsia-stayvestos",
+      "description": "StayVestOS was built for the investor who treats short-term rentals as a serious asset class. The one who runs numbers before they buy, monitors market velocity while they hold, and knows exactly when the math shifts on a sale.",
+      "description_fr": "StayVestOS a été conçu pour l'investisseur qui considère la location à court terme comme une classe d'actifs sérieuse. Celui qui analyse les chiffres avant d’acheter, surveille la vitesse du marché pendant qu’ils détiennent et sait exactement quand les calculs changent lors d’une vente.",
+      "category": "Finance & Fintech",
+      "website": "https://stayvestos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T20:36:22.618572+00:00"
+    },
+    {
+      "name": "RelayOS — AI Crypto Execution",
+      "slug": "polsia-relayos-3",
+      "description": "Every interaction you've had with a DeFi protocol — every click, every approval, every retry — was a problem someone chose to make you solve. RelayOS exists to eliminate that gap between intention and action. The chain should do what you mean.",
+      "description_fr": "Chaque interaction que vous avez eue avec un protocole DeFi – chaque clic, chaque approbation, chaque nouvelle tentative – était un problème que quelqu'un a choisi de vous faire résoudre. RelayOS existe pour éliminer cet écart entre l'intention et l'action. La chaîne devrait faire ce que tu veux dire.",
+      "category": "AI & Machine Learning",
+      "website": "https://relayos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T20:36:23.679401+00:00"
+    },
+    {
+      "name": "CallForge — Rank Local Sites, Sell the Calls",
+      "slug": "polsia-callforge-2",
+      "description": "Build hyper-local websites that rank on Google for service + city searches. Collect the calls. Sell them to local businesses on monthly contracts.",
+      "description_fr": "Créez des sites Web hyper-locaux classés sur Google pour les recherches de services et de villes. Récupérez les appels. Vendez-les aux entreprises locales sur des contrats mensuels.",
+      "category": "Other",
+      "website": "https://callforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T20:36:24.640175+00:00"
+    },
+    {
+      "name": "Miravant",
+      "slug": "polsia-miravant",
+      "description": "Miravant deploys autonomous AI agents that manage the full guest journey — from pre-arrival anticipation to post-departure engagement. No more stitching together 12 vendor tools. No more 3am ops wake-ups.",
+      "description_fr": "Miravant déploie des agents d'IA autonomes qui gèrent l'intégralité du parcours client, de l'anticipation avant l'arrivée à l'engagement après le départ. Plus besoin de rassembler 12 outils de fournisseurs. Fini les réveils opérationnels à 3 heures du matin.",
+      "category": "AI & Machine Learning",
+      "website": "https://miravant.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T20:36:25.888442+00:00"
+    },
+    {
+      "name": "ChartMind — AI Birth Chart Reader",
+      "slug": "polsia-chartmind-2",
+      "description": "ChartMind exists to close that gap. Not with a chatbot that throws vague horoscopes. With an agent that knows the difference between a Sun in Scorpio and a stellium in the 8th house. That understands planetary dignity, aspect patterns, and house rulership — and explains them like a real astrologer would.",
+      "description_fr": "ChartMind existe pour combler cet écart. Pas avec un chatbot qui lance de vagues horoscopes. Avec un agent qui connaît la différence entre un Soleil en Scorpion et un stellium en maison 8. Cela comprend la dignité planétaire, les modèles d’aspect et la direction de la maison – et les explique comme le ferait un véritable astrologue.",
+      "category": "AI & Machine Learning",
+      "website": "https://chartmind-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T20:36:26.866633+00:00"
     }
   ]
 }
