@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T08:21:56.488367+00:00",
+  "last_updated": "2026-05-23T09:56:58.540753+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -134427,6 +134427,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-23T07:55:46.286945+00:00"
+    },
+    {
+      "name": "Topika",
+      "slug": "polsia-topika",
+      "website": "https://topika.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T09:56:42.757145+00:00"
+    },
+    {
+      "name": "DesignKit",
+      "slug": "polsia-designkit-ai",
+      "website": "https://designkit-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T09:56:43.137821+00:00"
+    },
+    {
+      "name": "Chama — Home Services, Angola",
+      "slug": "polsia-chama",
+      "description": "That system works until your kitchen floods at midnight. Or you're moving into a new apartment and need everything done before the weekend. The informal network was never designed for speed, quality, or accountability.",
+      "description_fr": "Ce système fonctionne jusqu'à ce que votre cuisine soit inondée à minuit. Ou vous emménagez dans un nouvel appartement et vous avez besoin de tout faire avant le week-end. Le réseau informel n’a jamais été conçu pour la rapidité, la qualité ou la responsabilité.",
+      "category": "Food & Beverage",
+      "website": "https://chama.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T09:56:56.982225+00:00"
+    },
+    {
+      "name": "VocalBenchOS",
+      "slug": "polsia-vocalbenchos",
+      "website": "https://vocalbenchos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T09:56:43.766693+00:00"
+    },
+    {
+      "name": "VelaScale — Autonomous Agent Onboarding for Real Estate",
+      "slug": "polsia-velascale-2",
+      "description": "Brokerages drown in paperwork, license checks, training sequences, and compliance tracking — all done manually. The average admin spends 5+ hours per agent. The result: agents go unassigned for weeks, top recruits slip to competitors, and growth stalls.",
+      "description_fr": "Les maisons de courtage sont noyées sous la paperasse, les vérifications de licences, les séquences de formation et le suivi de la conformité, le tout effectué manuellement. L'administrateur moyen passe plus de 5 heures par agent. Résultat : les agents ne sont pas affectés pendant des semaines, les meilleures recrues passent aux concurrents et la croissance stagne.",
+      "category": "AI & Machine Learning",
+      "website": "https://velascale-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T09:56:58.538423+00:00"
+    },
+    {
+      "name": "VectorOpsOS — Security Research Command Center",
+      "slug": "polsia-vectoropsos",
+      "description": "Every audit, every finding, every report is structured to meet the frameworks your clients care about. No manual translation between security work and compliance documentation.",
+      "description_fr": "Chaque audit, chaque constatation, chaque rapport est structuré pour répondre aux cadres qui intéressent vos clients. Aucune traduction manuelle entre le travail de sécurité et la documentation de conformité.",
+      "category": "Other",
+      "website": "https://vectoropsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T09:56:45.893785+00:00"
+    },
+    {
+      "name": "OutboundAI — Autonomous Cold Outreach Agent",
+      "slug": "polsia-outboundai-8",
+      "description": "Every hour you spend prospecting is an hour not building your product. OutboundAI is the employee you can't afford to hire and the tool that actually earns its place in your stack.",
+      "description_fr": "Chaque heure que vous passez à prospecter est une heure à ne pas créer votre produit. OutboundAI est l'employé que vous ne pouvez pas vous permettre d'embaucher et l'outil qui mérite réellement sa place dans votre pile.",
+      "category": "Sales & CRM",
+      "website": "https://outboundai-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T09:56:47.293978+00:00"
+    },
+    {
+      "name": "ReachDeck — Autonomous B2B Outbound Agent",
+      "slug": "polsia-reachdeck-2",
+      "description": "The window where human-led outbound has an edge is closing fast. Signal detection, autonomous research, hyper-personalization — these aren't future features. They're today's table stakes. If you're still doing outreach manually, you're not competing. You're just slower.",
+      "description_fr": "La fenêtre dans laquelle les sorties dirigées par l’homme ont un avantage se ferme rapidement. Détection de signal, recherche autonome, hyper-personnalisation : ce ne sont pas des fonctionnalités futures. Ce sont les enjeux de la table d’aujourd’hui. Si vous continuez à faire de la sensibilisation manuellement, vous n'êtes pas en compétition. Tu es juste plus lent.",
+      "category": "Sales & CRM",
+      "website": "https://reachdeck-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T09:56:48.625442+00:00"
+    },
+    {
+      "name": "FlavorFeed — Social Media for Cafes & Small Restaurants",
+      "slug": "polsia-flavorfeed",
+      "description": "Most social media advice is written for brands with 50-person marketing teams. We're not that. We're the agency for the cafe owner who makes the croissants, answers the DMs, and closes up every night wondering why the place across the street is always packed.",
+      "description_fr": "La plupart des conseils sur les réseaux sociaux sont destinés aux marques disposant d’équipes marketing de 50 personnes. Nous ne sommes pas ça. Nous sommes l'agence du propriétaire du café qui prépare les croissants, répond aux messages privés et ferme tous les soirs en se demandant pourquoi l'endroit d'en face est toujours bondé.",
+      "category": "Marketing & Advertising",
+      "website": "https://flavorfeed.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T09:56:50.238826+00:00"
+    },
+    {
+      "name": "PathfinderOS — Operating System for Immigration Consultants",
+      "slug": "polsia-pathfinderos-2",
+      "description": "PathfinderOS is the operating system built for immigration consultants — automates intake, generates document checklists, manages clients, and keeps every case on track. So you can spend time on what matters: getting people to Canada.",
+      "description_fr": "PathfinderOS est le système d'exploitation conçu pour les consultants en immigration : automatise l'admission, génère des listes de contrôle de documents, gère les clients et garde chaque dossier sur la bonne voie. Vous pouvez ainsi consacrer du temps à ce qui compte : amener les gens à venir au Canada.",
+      "category": "Other",
+      "website": "https://pathfinderos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T09:56:51.937039+00:00"
     }
   ]
 }
