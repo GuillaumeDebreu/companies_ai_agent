@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T11:18:27.325973+00:00",
+  "last_updated": "2026-05-23T12:10:22.281761+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -134536,28 +134536,37 @@
       "scraped_at": "2026-05-23T09:56:51.937039+00:00"
     },
     {
-      "name": "BektuOS",
+      "name": "Verify — Real Estate Developer Transparency",
       "slug": "polsia-bektuos",
+      "description": "Every listing platform has the same conflict of interest — they make money when you buy, not when you verify. Googling a developer reveals your suspicion. Pushing for documents tips your hand. There's no way to do due diligence anonymously.",
+      "description_fr": "Chaque plateforme de référencement a le même conflit d'intérêts : elle gagne de l'argent lorsque vous achetez, pas lorsque vous vérifiez. Rechercher un développeur sur Google révèle vos soupçons. Faire pression pour obtenir des documents vous fait gagner du temps. Il n’existe aucun moyen de faire preuve de diligence raisonnable de manière anonyme.",
+      "category": "Software & SaaS",
       "website": "https://bektuos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T11:18:09.880927+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T12:10:16.834148+00:00"
     },
     {
-      "name": "RenteX",
+      "name": "RenteX — AI Property Manager for Small Landlords",
       "slug": "polsia-rentex",
+      "description": "RenteX autonomously handles rent collection, tenant communication, and maintenance triage for small landlords with 1–20 units. No software to learn. No humans to manage.",
+      "description_fr": "RenteX gère de manière autonome la collecte des loyers, la communication avec les locataires et le triage de l'entretien pour les petits propriétaires de 1 à 20 logements. Aucun logiciel à apprendre. Aucun humain à gérer.",
+      "category": "Real Estate",
       "website": "https://rentex.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T11:18:10.088337+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T12:10:17.880171+00:00"
     },
     {
-      "name": "ProcedurePak",
+      "name": "ProcedurePak — Done",
       "slug": "polsia-procedurepak",
+      "description": "20–30 documented procedures. Loom walkthroughs. 30-day edits included. We build your operations manual so you can step away.",
+      "description_fr": "20 à 30 procédures documentées. Procédures pas à pas pour le métier à tisser. Modifications de 30 jours incluses. Nous construisons votre manuel d’exploitation pour que vous puissiez vous éloigner.",
+      "category": "Other",
       "website": "https://procedurepak.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T11:18:10.385664+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-23T12:10:19.067902+00:00"
     },
     {
       "name": "Archway Vietnam",
@@ -134632,6 +134641,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-23T11:18:20.572567+00:00"
+    },
+    {
+      "name": "Repilot",
+      "slug": "polsia-repilot-3",
+      "website": "https://repilot-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T12:10:03.518532+00:00"
+    },
+    {
+      "name": "LunarMute",
+      "slug": "polsia-lunarmute",
+      "website": "https://lunarmute.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T12:10:03.705243+00:00"
+    },
+    {
+      "name": "DealForgeOS",
+      "slug": "polsia-dealforgeos-4",
+      "website": "https://dealforgeos-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T12:10:04.019368+00:00"
+    },
+    {
+      "name": "NexusAI",
+      "slug": "polsia-nexusai-pt",
+      "website": "https://nexusai-pt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T12:10:04.532771+00:00"
+    },
+    {
+      "name": "SchwelleOS",
+      "slug": "polsia-schwelleos",
+      "website": "https://schwelleos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T12:10:04.866976+00:00"
+    },
+    {
+      "name": "PlayDrop",
+      "slug": "polsia-playdrop",
+      "website": "https://playdrop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-23T12:10:05.167716+00:00"
+    },
+    {
+      "name": "ReturnOS — Know Your Number Before You Spend",
+      "slug": "polsia-returnos",
+      "description": "The ROI calculator platform built for service businesses. Get precise return projections across restaurants, gyms, clinics, and more.",
+      "description_fr": "La plateforme de calcul de retour sur investissement conçue pour les entreprises de services. Obtenez des projections de rendement précises dans les restaurants, les salles de sport, les cliniques et bien plus encore.",
+      "category": "Software & SaaS",
+      "website": "https://returnos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T12:10:22.279481+00:00"
+    },
+    {
+      "name": "OperaflowOS — The Operating System for Modern Teams",
+      "slug": "polsia-operaflowos",
+      "description": "Most operations software is built by engineers who have never had to use it. Result: feature bloat, steep learning curves, and workflows that break the moment something changes.OperaflowOS is built differently.It starts with how teams actually work — messy, fast, and always changing.",
+      "description_fr": "La plupart des logiciels d’exploitation sont créés par des ingénieurs qui n’ont jamais eu à les utiliser. Résultat : une surcharge de fonctionnalités, des courbes d'apprentissage abruptes et des flux de travail qui s'interrompent dès que quelque chose change. OperaflowOS est construit différemment. Cela commence par la façon dont les équipes travaillent réellement : désordonnée, rapide et en constante évolution.",
+      "category": "Software & SaaS",
+      "website": "https://operaflowos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T12:10:07.315657+00:00"
+    },
+    {
+      "name": "FieldFlow — Stormwater Compliance, Built for the Field",
+      "slug": "polsia-fieldflow-12",
+      "description": "You went into this work to manage stormwater systems. Not to chase deadlines, reformat spreadsheets, and decode federal register updates at 11 PM on a Sunday. FieldFlow exists so you can do your actual job.",
+      "description_fr": "Vous avez entrepris ce travail pour gérer les systèmes de gestion des eaux pluviales. Ne pas courir après les délais, reformater des feuilles de calcul et décoder les mises à jour du registre fédéral à 23 heures un dimanche. FieldFlow existe pour que vous puissiez faire votre travail réel.",
+      "category": "Sustainability & Green",
+      "website": "https://fieldflow-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T12:10:08.715791+00:00"
+    },
+    {
+      "name": "LedgerAI — Autonomous Enterprise Blockchain Compliance",
+      "slug": "polsia-ledgerai-2",
+      "description": "Natural-language policy engine: \"flag any transaction over $50k to an unmonitored address\" or \"block anything crossing sanctioned jurisdictions.\" LedgerAI enforces it in real-time, on-chain.",
+      "description_fr": "Moteur de politique en langage naturel : « signaler toute transaction supérieure à 50 000 $ à une adresse non surveillée » ou « bloquer tout ce qui traverse les juridictions sanctionnées ». LedgerAI l'applique en temps réel, en chaîne.",
+      "category": "AI & Machine Learning",
+      "website": "https://ledgerai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-23T12:10:11.418971+00:00"
     }
   ]
 }
