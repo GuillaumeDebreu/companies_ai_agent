@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T05:49:15.237215+00:00",
+  "last_updated": "2026-05-24T08:10:41.260834+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -135948,12 +135948,15 @@
       "scraped_at": "2026-05-24T01:47:53.167802+00:00"
     },
     {
-      "name": "RecallBox",
+      "name": "RecallBox — Never Miss a Renewal Again",
       "slug": "polsia-recallbox-3",
+      "description": "You have a system for work. You don't have one for your life. The bills live in email threads. The warranty is in a drawer somewhere. The subscription you forgot to cancel is still charging you every month. RecallBox builds that system for you — automatically.",
+      "description_fr": "Vous avez un système pour le travail. Vous n'en avez pas pour votre vie. Les factures vivent dans les fils de discussion. La garantie est dans un tiroir quelque part. L'abonnement que vous avez oublié d'annuler vous est toujours facturé chaque mois. RecallBox construit ce système pour vous – automatiquement.",
+      "category": "Newsletter & Email",
       "website": "https://recallbox-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T05:48:57.946720+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T08:10:39.337923+00:00"
     },
     {
       "name": "Vela — Autonomous Sales Prospecting",
@@ -135989,12 +135992,15 @@
       "scraped_at": "2026-05-24T05:49:02.472071+00:00"
     },
     {
-      "name": "QueryPulse",
+      "name": "QueryPulse — Your Inbox, Managed",
       "slug": "polsia-querypulse-3",
+      "description": "An AI agent that reads, prioritizes, drafts, and follows up on your emails 24/7. Your inbox works for you.",
+      "description_fr": "Un agent IA qui lit, priorise, rédige et suit vos e-mails 24h/24 et 7j/7. Votre boîte de réception fonctionne pour vous.",
+      "category": "AI & Machine Learning",
       "website": "https://querypulse-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T05:49:02.765396+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T08:10:40.425262+00:00"
     },
     {
       "name": "DograhOS",
@@ -136047,6 +136053,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-24T05:49:08.458603+00:00"
+    },
+    {
+      "name": "Vigilant",
+      "slug": "polsia-vigilant-2",
+      "website": "https://vigilant-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T08:10:19.389015+00:00"
+    },
+    {
+      "name": "VibeOS",
+      "slug": "polsia-mobbi-os",
+      "website": "https://mobbi-os.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T08:10:19.787779+00:00"
+    },
+    {
+      "name": "EventPilot — Autonomous Event Intelligence",
+      "slug": "polsia-eventpilot-3",
+      "description": "AI-powered autonomous event platform. From registration to live execution to post-event reporting — without a project manager breathing down your neck.",
+      "description_fr": "Plateforme d'événements autonomes alimentée par l'IA. De l'enregistrement à l'exécution en direct en passant par les rapports post-événement, sans qu'un chef de projet ne vous appuie dans le cou.",
+      "category": "Software & SaaS",
+      "website": "https://eventpilot-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T08:10:21.221210+00:00"
+    },
+    {
+      "name": "PagePilot",
+      "slug": "polsia-pagepilot-88",
+      "description": "Most small businesses spend hours per month keeping their web presence alive — updating pages, chasing freelancers, rebuilding what went stale. PagePilot is an AI employee that handles all of it. You sign up. We build it, maintain it, and grow it. Forever.",
+      "description_fr": "La plupart des petites entreprises passent des heures par mois à maintenir leur présence sur le Web en vie : mettre à jour leurs pages, rechercher des pigistes, reconstruire ce qui est devenu obsolète. PagePilot est un employé de l'IA qui gère tout cela. Vous vous inscrivez. Nous le construisons, l’entretenons et le développons. Pour toujours.",
+      "category": "AI & Machine Learning",
+      "website": "https://pagepilot-88.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T08:10:24.530580+00:00"
+    },
+    {
+      "name": "GradeForgeOS",
+      "slug": "polsia-gradeforgeos",
+      "description": "GradeForgeOS gives university students the AI-powered study system top performers use — personalized quizzes, organized notes, and an AI tutor that never sleeps. Stop studying harder. Start studying smarter.",
+      "description_fr": "GradeForgeOS offre aux étudiants universitaires le système d'étude basé sur l'IA que les plus performants utilisent : des quiz personnalisés, des notes organisées et un tuteur IA qui ne dort jamais. Arrêtez d'étudier plus dur. Commencez à étudier plus intelligemment.",
+      "category": "AI & Machine Learning",
+      "website": "https://gradeforgeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T08:10:26.077089+00:00"
+    },
+    {
+      "name": "AptitudeAI — AI Training for SME Teams",
+      "slug": "polsia-aptitudeai",
+      "description": "Practical AI training programs built for small and medium business teams. No jargon, no enterprise price tags.",
+      "description_fr": "Programmes de formation pratiques en IA conçus pour les équipes de petites et moyennes entreprises. Pas de jargon, pas d'étiquettes de prix d'entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://aptitudeai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T08:10:27.544278+00:00"
+    },
+    {
+      "name": "TaskCraft — AI agents that run your business 24/7",
+      "slug": "polsia-taskcraft-1779609956322",
+      "description": "TaskCraft is built for the beauty salon in Coimbatore, the clinic in Chennai, the kirana in Bangalore. Not another enterprise tool for companies that already have a team.",
+      "description_fr": "TaskCraft est conçu pour le salon de beauté de Coimbatore, la clinique de Chennai et le Kirana de Bangalore. Il ne s'agit pas d'un autre outil d'entreprise pour les entreprises qui disposent déjà d'une équipe.",
+      "category": "AI & Machine Learning",
+      "website": "https://taskcraft-1779609956322.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T08:10:28.724152+00:00"
+    },
+    {
+      "name": "Devi — Autonomous Code Review Agent",
+      "slug": "polsia-devi-ai",
+      "description": "Devi reviews pull requests, writes tests, and ships fixes. While you sleep.",
+      "description_fr": "Devi examine les demandes d'extraction, écrit des tests et fournit des correctifs. Pendant que tu dors.",
+      "category": "Other",
+      "website": "https://devi-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T08:10:29.905469+00:00"
+    },
+    {
+      "name": "PixelPilot — AI That Ships Your UI",
+      "slug": "polsia-pixelpilot-7",
+      "description": "Describe a component. PixelPilot's AI builds it, tests it, and deploys it live. No tickets. No sprint. No developer dependency.",
+      "description_fr": "Décrire un composant. L'IA de PixelPilot le construit, le teste et le déploie en direct. Pas de billets. Pas de sprint. Aucune dépendance du développeur.",
+      "category": "AI & Machine Learning",
+      "website": "https://pixelpilot-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T08:10:31.052765+00:00"
+    },
+    {
+      "name": "Toolframe — AI Tools That Actually Work",
+      "slug": "polsia-toolframe",
+      "description": "Deep-dive AI tool reviews and workflow guides for knowledge workers. What to use, when, and how to get the best output.",
+      "description_fr": "Examens approfondis des outils d'IA et guides de flux de travail pour les travailleurs du savoir. Quoi utiliser, quand et comment obtenir le meilleur résultat.",
+      "category": "AI & Machine Learning",
+      "website": "https://toolframe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T08:10:32.195497+00:00"
     }
   ]
 }
