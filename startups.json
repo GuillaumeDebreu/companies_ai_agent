@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T23:40:13.585009+00:00",
+  "last_updated": "2026-05-24T01:47:58.815074+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -135730,10 +135730,13 @@
     {
       "name": "NexusOS",
       "slug": "polsia-nexusos-33",
+      "description": "Autonomous infrastructure for AI companies. Build, ship, and scale without drowning in ops work.",
+      "description_fr": "Infrastructure autonome pour les entreprises d'IA. Construisez, expédiez et faites évoluer sans vous noyer dans le travail opérationnel.",
+      "category": "AI & Machine Learning",
       "website": "https://nexusos-33.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-23T23:39:58.422207+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T01:47:58.535806+00:00"
     },
     {
       "name": "LaCimaOS — Operating System for La Cima Mexican Cuisine",
@@ -135833,6 +135836,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-23T23:40:09.258228+00:00"
+    },
+    {
+      "name": "HimritvaOS",
+      "slug": "polsia-himritvaos",
+      "website": "https://himritvaos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T01:47:40.988097+00:00"
+    },
+    {
+      "name": "GrowthshinerOS — Your Agency, Autonomous",
+      "slug": "polsia-growthshineros",
+      "description": "GrowthshinerOS exists so one person can run a world-class marketing operation without working 80-hour weeks. Every system, every report, every campaign optimization — handled. You just steer.",
+      "description_fr": "GrowthshinerOS existe pour qu'une seule personne puisse diriger une opération marketing de classe mondiale sans travailler 80 heures par semaine. Chaque système, chaque rapport, chaque optimisation de campagne est géré. Vous venez de diriger.",
+      "category": "Marketing & Advertising",
+      "website": "https://growthshineros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T01:47:42.411568+00:00"
+    },
+    {
+      "name": "SupplyProw — Supply Chain Intelligence, Always On",
+      "slug": "polsia-supplyprow",
+      "description": "An AI agent that monitors your global supply chain 24/7. Surfaces risk signals before they become crises.",
+      "description_fr": "Un agent IA qui surveille votre chaîne d'approvisionnement mondiale 24h/24 et 7j/7. Faire apparaître les signaux de risque avant qu’ils ne se transforment en crises.",
+      "category": "AI & Machine Learning",
+      "website": "https://supplyprow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T01:47:43.469210+00:00"
+    },
+    {
+      "name": "RIPPM — Engine Builder's Digital Toolkit",
+      "slug": "polsia-gearstakos",
+      "description": "Every build that goes out the door should have a clean paper trail. Compression specs, cam timing, piston clearances, handoff documentation. RIPPM is the workspace that gets you there — no spreadsheet patchwork, no hunting for the last version.",
+      "description_fr": "Chaque construction qui sort devrait avoir une trace écrite propre. Spécifications de compression, calage des cames, jeux des pistons, documentation de transfert. RIPPM est l'espace de travail qui vous y mène : pas de patchwork de feuilles de calcul, pas de recherche de la dernière version.",
+      "category": "Other",
+      "website": "https://gearstakos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T01:47:44.719811+00:00"
+    },
+    {
+      "name": "LittleSprout — Learning Through Play for Preschoolers",
+      "slug": "polsia-littlesprout",
+      "description": "Big chains treat childcare like a logistics problem. We treat it like what it is: the most important few hours in a child's day. Every activity, every session, every night is designed to spark curiosity and build confidence.",
+      "description_fr": "Les grandes chaînes traitent la garde d’enfants comme un problème logistique. Nous le traitons comme ce qu'il est : les quelques heures les plus importantes de la journée d'un enfant. Chaque activité, chaque séance, chaque soirée est conçue pour susciter la curiosité et renforcer la confiance.",
+      "category": "Education",
+      "website": "https://littlesprout.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T01:47:46.316884+00:00"
+    },
+    {
+      "name": "SupplyMatrixOS — AI",
+      "slug": "polsia-supply-matricos",
+      "description": "Every organisation faces unique procurement and supply chain challenges. We design solutions around your systems, data, operating model, and business constraints — so results align with your goals and operating reality.",
+      "description_fr": "Chaque organisation est confrontée à des défis uniques en matière d’approvisionnement et de chaîne d’approvisionnement. Nous concevons des solutions autour de vos systèmes, de vos données, de votre modèle opérationnel et de vos contraintes commerciales, afin que les résultats correspondent à vos objectifs et à votre réalité opérationnelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://supply-matricos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T01:47:48.005230+00:00"
+    },
+    {
+      "name": "Sesh — Anime Finance",
+      "slug": "polsia-seshfinance",
+      "description": "The best content creators on the internet use anime aesthetics to grab attention. The best finance educators make money simple and clear. Sesh sits at the intersection — a platform where financial literacy meets the visual language of the culture you already love.",
+      "description_fr": "Les meilleurs créateurs de contenu sur Internet utilisent l’esthétique de l’anime pour attirer l’attention. Les meilleurs professeurs de finance rendent l’argent simple et clair. Sesh se trouve à l’intersection : une plateforme où la littératie financière rencontre le langage visuel de la culture que vous aimez déjà.",
+      "category": "Software & SaaS",
+      "website": "https://seshfinance.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T01:47:49.202011+00:00"
+    },
+    {
+      "name": "LocalIQ — AI Growth Agency for Local Businesses",
+      "slug": "polsia-localiq-3",
+      "description": "LocalIQ packages AI receptionist, content, review automation, and lead generation into one monthly service — built for trades and service shops that need more customers without adding headcount.",
+      "description_fr": "LocalIQ regroupe la réceptionniste IA, le contenu, l'automatisation des avis et la génération de leads en un seul service mensuel, conçu pour les métiers et les ateliers de services qui ont besoin de plus de clients sans ajouter d'effectifs.",
+      "category": "AI & Machine Learning",
+      "website": "https://localiq-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T01:47:50.528578+00:00"
+    },
+    {
+      "name": "AutoFlow — AI Voice Receptionist for Local Businesses",
+      "slug": "polsia-autoflow-3",
+      "description": "The local service economy runs on phone calls. But the people who answer those calls — the plumbers, the detailers, the HVAC techs — they're busy doing the job. They can't answer the phone at 9pm on Saturday when someone's calling about a burst pipe. They can't call back the missed leads on Monday morning because they've got eight appointments back-to-back.",
+      "description_fr": "L’économie des services locaux repose sur les appels téléphoniques. Mais les gens qui répondent à ces appels – les plombiers, les dessinateurs, les techniciens CVC – sont occupés à faire le travail. Ils ne peuvent pas répondre au téléphone le samedi à 21 heures lorsque quelqu'un les appelle au sujet d'une canalisation éclatée. Ils ne peuvent pas rappeler les prospects manqués le lundi matin car ils ont huit rendez-vous consécutifs.",
+      "category": "AI & Machine Learning",
+      "website": "https://autoflow-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T01:47:52.466948+00:00"
+    },
+    {
+      "name": "BudScout — Compare Dispensary Menus",
+      "slug": "polsia-budscout",
+      "description": "Weedmaps and Leafly are directories — they show you one dispensary at a time. They make money when you order from the dispensaries they list. So they have zero incentive to show you a better deal two blocks away.",
+      "description_fr": "Weedmaps et Leafly sont des répertoires : ils vous montrent un dispensaire à la fois. Ils gagnent de l'argent lorsque vous commandez dans les dispensaires qu'ils répertorient. Ils n’ont donc aucune incitation à vous montrer une meilleure offre à deux pâtés de maisons.",
+      "category": "Other",
+      "website": "https://budscout.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T01:47:53.167802+00:00"
     }
   ]
 }
