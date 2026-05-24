@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T14:17:50.919322+00:00",
+  "last_updated": "2026-05-24T15:39:02.756176+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -136495,20 +136495,26 @@
       "scraped_at": "2026-05-24T12:48:14.722587+00:00"
     },
     {
-      "name": "CapitalStack",
+      "name": "CapitalStack — Raise Capital Autonomously",
       "slug": "polsia-capitalstack-2",
+      "description": "The capital-raising process was never meant to be manual. CapitalStack gives you the autonomous infrastructure that lets you focus on the deal — not the drudge work that precedes it.",
+      "description_fr": "Le processus de levée de capitaux n’a jamais été censé être manuel. CapitalStack vous offre l'infrastructure autonome qui vous permet de vous concentrer sur la transaction, et non sur le travail fastidieux qui la précède.",
+      "category": "Software & SaaS",
       "website": "https://capitalstack-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T14:17:29.241747+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T15:38:56.157776+00:00"
     },
     {
       "name": "Stockra",
       "slug": "polsia-stockra",
+      "description": "No smartphone required. No internet lag fear. Stockra runs on WhatsApp — the app your suppliers already use, your customers already have, and you check first thing every morning.",
+      "description_fr": "Aucun smartphone requis. Aucune crainte de décalage Internet. Stockra fonctionne sur WhatsApp – l'application que vos fournisseurs utilisent déjà, que vos clients possèdent déjà, et que vous vérifiez chaque matin à la première heure.",
+      "category": "Other",
       "website": "https://stockra.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T14:17:29.828573+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T15:38:57.339996+00:00"
     },
     {
       "name": "IdeaForge",
@@ -136519,28 +136525,37 @@
       "scraped_at": "2026-05-24T14:17:30.312705+00:00"
     },
     {
-      "name": "ClearWord",
+      "name": "ClearWord — Autonomous Outbound Sales",
       "slug": "polsia-clearword-ai",
+      "description": "Most sales tools help you do your job faster. ClearWord does the job for you. It's a full autonomous outbound employee that owns the entire SDR function — from finding leads to booking meetings — so you don't have to hire, manage, or worry about turnover.",
+      "description_fr": "La plupart des outils de vente vous aident à faire votre travail plus rapidement. ClearWord fait le travail à votre place. Il s'agit d'un employé sortant entièrement autonome qui possède l'ensemble de la fonction SDR – de la recherche de prospects à la réservation de réunions – de sorte que vous n'avez pas à embaucher, à gérer ou à vous soucier du roulement de personnel.",
+      "category": "Sales & CRM",
       "website": "https://clearword-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T14:17:30.766584+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T15:38:58.649593+00:00"
     },
     {
-      "name": "Decis.ai",
+      "name": "Decis.ai — Autonomous Business Decisions",
       "slug": "polsia-decis-ai",
+      "description": "Set the goal. Decis.ai researches, decides, and acts — while you sleep. The autonomous AI employee for founders.",
+      "description_fr": "Fixez-vous un objectif. Decis.ai recherche, décide et agit pendant que vous dormez. L'employé IA autonome pour les fondateurs.",
+      "category": "AI & Machine Learning",
       "website": "https://decis-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T14:17:31.337195+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T15:39:00.044957+00:00"
     },
     {
-      "name": "Upward",
+      "name": "Upward — Self",
       "slug": "polsia-upward-2",
+      "description": "Upward is different. It's a blog that earns its audience's trust through honest content — then builds multiple revenue streams from that trust: display ads, affiliate recommendations, digital products, community, coaching, and merchandise.",
+      "description_fr": "Vers le haut, c'est différent. Il s'agit d'un blog qui gagne la confiance de son public grâce à un contenu honnête, puis génère de multiples sources de revenus à partir de cette confiance : annonces graphiques, recommandations d'affiliation, produits numériques, communauté, coaching et marchandises.",
+      "category": "E-Commerce & Retail",
       "website": "https://upward-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T14:17:31.576400+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T15:39:01.316668+00:00"
     },
     {
       "name": "FlourishOS",
@@ -136582,6 +136597,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-24T14:17:36.798195+00:00"
+    },
+    {
+      "name": "NetPathOS",
+      "slug": "polsia-netpatos",
+      "website": "https://netpatos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T15:38:38.732094+00:00"
+    },
+    {
+      "name": "StrikeRate",
+      "slug": "polsia-strikerate-2",
+      "website": "https://strikerate-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T15:38:39.033885+00:00"
+    },
+    {
+      "name": "Origin — Deploy without the chaos",
+      "slug": "polsia-originos-3",
+      "description": "We built Origin because we were those developers. Tired of enterprise tools designed to sell you more enterprise tools. We wanted something that just worked — for the indie dev, the small team, the person who wants to ship a thing without selling a kidney.",
+      "description_fr": "Nous avons construit Origin parce que nous étions ces développeurs. Vous en avez assez des outils d'entreprise conçus pour vous vendre davantage d'outils d'entreprise. Nous voulions quelque chose qui fonctionne simplement – ​​pour le développeur indépendant, la petite équipe, la personne qui veut expédier quelque chose sans vendre un rein.",
+      "category": "Other",
+      "website": "https://originos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T15:39:02.752818+00:00"
+    },
+    {
+      "name": "Repp — AI Prospect Intelligence",
+      "slug": "polsia-repp-2",
+      "description": "We built Repp because we were tired of watching talented salespeople waste their best hours on research that a machine should be doing. Repp exists so your team can do what they're actually paid to do — talk to people, build relationships, and close deals.",
+      "description_fr": "Nous avons créé Repp parce que nous en avions assez de voir des vendeurs talentueux perdre leurs meilleures heures en recherches qu'une machine devrait effectuer. Repp existe pour que votre équipe puisse faire ce pour quoi elle est réellement payée : parler aux gens, établir des relations et conclure des accords.",
+      "category": "AI & Machine Learning",
+      "website": "https://repp-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T15:38:40.808827+00:00"
+    },
+    {
+      "name": "ExamCraft — AI Revision for UK GCSE & A",
+      "slug": "polsia-examcraft-2",
+      "description": "ExamCraft is the AI revision platform built around the actual UK curriculum — AQA, Edexcel, OCR. Instant feedback on past papers. Voice tutoring that actually explains things. Personalised revision plans. All from your phone.",
+      "description_fr": "ExamCraft est la plate-forme de révision de l'IA construite autour du programme d'études britannique actuel : AQA, Edexcel, OCR. Commentaires instantanés sur les articles antérieurs. Un tutorat vocal qui explique réellement les choses. Plans de révision personnalisés. Tout cela depuis votre téléphone.",
+      "category": "AI & Machine Learning",
+      "website": "https://examcraft-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T15:38:42.443419+00:00"
+    },
+    {
+      "name": "LaunchPad CPG — AI Advertising Agent for Challenger Brands",
+      "slug": "polsia-launchpad-cpg",
+      "description": "LaunchPad CPG is designed for CPG founders who are spending $5K-$50K/month on ads, have no dedicated media team, and need the confidence of knowing a smart system is running the campaign while they build the business.",
+      "description_fr": "LaunchPad CPG est conçu pour les fondateurs de CPG qui dépensent entre 5 000 et 50 000 $/mois en publicités, qui n'ont pas d'équipe média dédiée et qui ont besoin de savoir qu'un système intelligent gère la campagne pendant qu'ils développent leur activité.",
+      "category": "Marketing & Advertising",
+      "website": "https://launchpad-cpg.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T15:38:44.244487+00:00"
+    },
+    {
+      "name": "ReelLocal — Video Content for Local Businesses",
+      "slug": "polsia-reellocal-10",
+      "description": "The big agencies ignore local businesses. They're too small for a $5,000/month retainer. That's exactly why we exist — because the barber on the corner deserves the same quality content as the brand paying 10x more.",
+      "description_fr": "Les grandes agences ignorent les entreprises locales. Ils sont trop petits pour une provision de 5 000 $/mois. C'est exactement pourquoi nous existons : parce que le barbier du coin mérite le même contenu de qualité que la marque payant 10 fois plus.",
+      "category": "Entertainment & Media",
+      "website": "https://reellocal-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T15:38:45.466581+00:00"
+    },
+    {
+      "name": "StoryFrame — AI Production Coordinator",
+      "slug": "polsia-storyframe-3",
+      "description": "Input your shoot schedule, cast list, and crew contacts. StoryFrame generates and distributes call sheets automatically — days before the shoot, every morning by 6am, with confirmations tracked.",
+      "description_fr": "Saisissez votre calendrier de tournage, votre liste de distribution et les contacts de l'équipe. StoryFrame génère et distribue automatiquement des feuilles d'appel, quelques jours avant le tournage, chaque matin à 6 heures du matin, avec un suivi des confirmations.",
+      "category": "AI & Machine Learning",
+      "website": "https://storyframe-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T15:38:46.503700+00:00"
+    },
+    {
+      "name": "Stockflow — Never Run Out Again",
+      "slug": "polsia-stockflow-4",
+      "description": "Stockflow is an AI agent that monitors your restaurant accounts and automatically places supply orders before they run dry. More orders. Less churn. Zero extra work.",
+      "description_fr": "Stockflow est un agent IA qui surveille les comptes de votre restaurant et passe automatiquement les commandes de fournitures avant qu'elles ne soient épuisées. Plus de commandes. Moins de désabonnement. Zéro travail supplémentaire.",
+      "category": "AI & Machine Learning",
+      "website": "https://stockflow-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T15:38:47.722145+00:00"
+    },
+    {
+      "name": "ContentBridge",
+      "slug": "polsia-contentbridge",
+      "description": "ContentBridge exists to give local businesses the kind of consistent, thoughtful social presence that used to require a full agency retainer — at a price that makes sense for one operator running a lean business.",
+      "description_fr": "ContentBridge existe pour offrir aux entreprises locales le type de présence sociale cohérente et réfléchie qui nécessitait autrefois un mandat d'agence complet - à un prix logique pour un opérateur gérant une entreprise allégée.",
+      "category": "Consulting & Services",
+      "website": "https://contentbridge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T15:38:49.192090+00:00"
     }
   ]
 }
