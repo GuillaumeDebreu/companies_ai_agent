@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T08:31:05.524376+00:00",
+  "last_updated": "2026-05-24T10:12:28.439995+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -136055,20 +136055,26 @@
       "scraped_at": "2026-05-24T05:49:08.458603+00:00"
     },
     {
-      "name": "Vigilant",
+      "name": "Vigilant — Competitor Intelligence, 24/7",
       "slug": "polsia-vigilant-2",
+      "description": "Vigilant monitors your market around the clock. When a rival changes pricing, launches a feature, or expands their team — you know within minutes, not weeks.",
+      "description_fr": "Vigilant surveille votre marché 24 heures sur 24. Lorsqu'un rival modifie ses prix, lance une fonctionnalité ou élargit son équipe, vous le savez en quelques minutes, pas en semaines.",
+      "category": "Other",
       "website": "https://vigilant-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T08:10:19.389015+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T10:12:25.613176+00:00"
     },
     {
-      "name": "VibeOS",
+      "name": "VibeOS — The Operating System for AI Video",
       "slug": "polsia-mobbi-os",
+      "description": "AI video is the hottest space right now. The window is open. VibeOS keeps your company running at full speed while you focus on the work only humans can do.",
+      "description_fr": "La vidéo IA est l’espace le plus en vogue à l’heure actuelle. La fenêtre est ouverte. VibeOS permet à votre entreprise de fonctionner à plein régime pendant que vous vous concentrez sur le travail que seuls les humains peuvent effectuer.",
+      "category": "AI & Machine Learning",
       "website": "https://mobbi-os.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T08:10:19.787779+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T10:12:26.384513+00:00"
     },
     {
       "name": "EventPilot — Autonomous Event Intelligence",
@@ -136157,6 +136163,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-24T08:10:32.195497+00:00"
+    },
+    {
+      "name": "FreelaunchOS",
+      "slug": "polsia-freelaunchos",
+      "website": "https://freelaunchos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T10:12:16.211144+00:00"
+    },
+    {
+      "name": "Streamline",
+      "slug": "polsia-streamline-ai-3",
+      "website": "https://streamline-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T10:12:16.369161+00:00"
+    },
+    {
+      "name": "CodeFlow — Your AI Job Application Agent",
+      "slug": "polsia-codeflow-1779617399340-lyaa",
+      "description": "CodeFlow runs while you focus on building skills, prepping for interviews, and doing the work that actually matters. The applications handle themselves.",
+      "description_fr": "CodeFlow s'exécute pendant que vous vous concentrez sur le développement de compétences, la préparation des entretiens et l'exécution du travail qui compte réellement. Les applications se gèrent elles-mêmes.",
+      "category": "AI & Machine Learning",
+      "website": "https://codeflow-1779617399340-lyaa.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T10:12:17.045245+00:00"
+    },
+    {
+      "name": "LexAgent",
+      "slug": "polsia-lexagent",
+      "website": "https://lexagent.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T10:12:17.198994+00:00"
+    },
+    {
+      "name": "Mastor — Autonomous Oracle Intelligence",
+      "slug": "polsia-mastor",
+      "description": "Oracle databases are the backbone of the world's most critical systems — and they're still managed the same way they were twenty years ago. A human DBA connects, runs the same checks, files the same alerts, and repeats. Forever.",
+      "description_fr": "Les bases de données Oracle constituent l'épine dorsale des systèmes les plus critiques au monde et sont toujours gérées de la même manière qu'il y a vingt ans. Un administrateur de base de données humain se connecte, exécute les mêmes vérifications, dépose les mêmes alertes et répète. Pour toujours.",
+      "category": "Other",
+      "website": "https://mastor.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T10:12:18.019890+00:00"
+    },
+    {
+      "name": "PatchPilot — Autonomous OSS Project Management",
+      "slug": "polsia-patchpilot-10",
+      "description": "No more manual status emails. PatchPilot writes your client reports — patch activity, risk flags, contributor highlights, and upstream signals — and sends them on schedule.",
+      "description_fr": "Fini les e-mails de statut manuels. PatchPilot rédige les rapports de vos clients (activité des correctifs, indicateurs de risque, faits saillants des contributeurs et signaux en amont) et les envoie dans les délais.",
+      "category": "Productivity & Automation",
+      "website": "https://patchpilot-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T10:12:28.437529+00:00"
+    },
+    {
+      "name": "FermeAI — Your Farm, Selling Itself",
+      "slug": "polsia-fermeai",
+      "description": "It was always the hours. The curation, the outreach, the negotiation, the coordination. The work that makes a human-run farm marketplace unsustainable past the first month. FermeAI solves the hours. One agent. Your entire farm marketplace. Running while you sleep.",
+      "description_fr": "C'était toujours les heures. La curation, la sensibilisation, la négociation, la coordination. Le travail qui rend un marché agricole géré par des humains non durable au-delà du premier mois. FermeAI résout les heures. Un agent. L'ensemble de votre marché agricole. Courir pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://fermeai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T10:12:18.997744+00:00"
+    },
+    {
+      "name": "AeroStack — AI",
+      "slug": "polsia-aerostack",
+      "description": "Most flight academies serve students who can afford $15,000 private pilot training. AeroStack changes that calculus. We partner with nonprofits running aviation programs for at-risk youth — and give them the operational infrastructure to scale without a full admin team.",
+      "description_fr": "La plupart des académies de pilotage accueillent des étudiants qui peuvent se permettre une formation de pilote privé de 15 000 $. AeroStack change ce calcul. Nous collaborons avec des organisations à but non lucratif qui gèrent des programmes d'aviation destinés aux jeunes à risque et leur donnons l'infrastructure opérationnelle nécessaire pour évoluer sans une équipe administrative complète.",
+      "category": "AI & Machine Learning",
+      "website": "https://aerostack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T10:12:20.302815+00:00"
+    },
+    {
+      "name": "TikStackOS",
+      "slug": "polsia-tikstackos",
+      "description": "Most social media agencies manage clients through a mess of spreadsheets, DMs, Notion boards, and sticky notes. As the founder, you're constantly firefighting instead of building. Every new client adds complexity instead of leverage.",
+      "description_fr": "La plupart des agences de médias sociaux gèrent leurs clients à travers un fouillis de feuilles de calcul, de DM, de tableaux Notion et de notes autocollantes. En tant que fondateur, vous luttez constamment contre les incendies au lieu de construire. Chaque nouveau client ajoute de la complexité au lieu d'un effet de levier.",
+      "category": "Marketing & Advertising",
+      "website": "https://tikstackos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T10:12:20.827885+00:00"
+    },
+    {
+      "name": "Newton — AI Agent for Performance Marketing",
+      "slug": "polsia-newtonadsos",
+      "description": "\"Newton AI delivered a 36% jump in ROAS within 7 days of going live. Working with Newton AI has been a valuable experience — within 7 days we saw a 36% increase in ROAS on a test budget of ₹20K daily ad spend, and now looking forward to scale this further.\"",
+      "description_fr": "\"Newton AI a généré une augmentation de 36 % du ROAS dans les 7 jours suivant sa mise en ligne. Travailler avec Newton AI a été une expérience précieuse : en 7 jours, nous avons constaté une augmentation de 36 % du ROAS sur un budget de test de 20 000 ₹ de dépenses publicitaires quotidiennes, et nous sommes maintenant impatients d'étendre cela davantage.\"",
+      "category": "AI & Machine Learning",
+      "website": "https://newtonadsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T10:12:21.443665+00:00"
     }
   ]
 }
