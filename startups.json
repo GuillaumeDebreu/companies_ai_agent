@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T20:02:32.850230+00:00",
+  "last_updated": "2026-05-24T21:09:11.457206+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -137091,12 +137091,15 @@
       "scraped_at": "2026-05-24T20:02:12.817817+00:00"
     },
     {
-      "name": "MindShift AI",
+      "name": "MindShift AI — Autonomous AI Agents for Enterprise",
       "slug": "polsia-mindshift-ai-2",
+      "description": "MindShift AI agents live inside your operations. They monitor, decide, and act around the clock. No timesheets. No scope creep. Just outcomes.",
+      "description_fr": "Les agents MindShift AI vivent au sein de vos opérations. Ils surveillent, décident et agissent 24 heures sur 24. Pas de feuilles de temps. Pas de dérive de la portée. Juste des résultats.",
+      "category": "AI & Machine Learning",
       "website": "https://mindshift-ai-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T20:02:13.115199+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T21:09:10.742771+00:00"
     },
     {
       "name": "SoundScout — AI",
@@ -137141,6 +137144,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-24T20:02:19.211455+00:00"
+    },
+    {
+      "name": "SunVault",
+      "slug": "polsia-sunvault",
+      "website": "https://sunvault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T21:09:00.322317+00:00"
+    },
+    {
+      "name": "AnswerIQ",
+      "slug": "polsia-answeriq-2",
+      "website": "https://answeriq-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T21:09:00.667781+00:00"
+    },
+    {
+      "name": "FastCashQSR",
+      "slug": "polsia-fastcashqsr",
+      "website": "https://fastcashqsr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T21:09:00.897529+00:00"
+    },
+    {
+      "name": "Nalo — Your AI Employee for South African SMEs",
+      "slug": "polsia-nalo-ai",
+      "description": "AI agents that run your SME operations autonomously — customer service, scheduling, compliance, and bookkeeping. 24/7. No salaries.",
+      "description_fr": "Des agents IA qui gèrent vos opérations PME de manière autonome : service client, planification, conformité et comptabilité. 24h/24 et 7j/7. Pas de salaires.",
+      "category": "AI & Machine Learning",
+      "website": "https://nalo-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T21:09:01.887701+00:00"
+    },
+    {
+      "name": "TableBuzz",
+      "slug": "polsia-tablebuzz-2",
+      "website": "https://tablebuzz-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T21:09:02.227323+00:00"
+    },
+    {
+      "name": "NebulaOS",
+      "slug": "polsia-nebulaos-2",
+      "website": "https://nebulaos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T21:09:02.492280+00:00"
+    },
+    {
+      "name": "DigicalOS — Precision Measurement, Simplified",
+      "slug": "polsia-digicalos",
+      "description": "The operating system for metrology teams. Manage sensors, calibration certificates, and ISO 17025 compliance from one place.",
+      "description_fr": "Le système d'exploitation pour les équipes de métrologie. Gérez les capteurs, les certificats d'étalonnage et la conformité ISO 17025 à partir d'un seul endroit.",
+      "category": "Other",
+      "website": "https://digicalos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T21:09:03.695339+00:00"
+    },
+    {
+      "name": "SilverFrame",
+      "slug": "polsia-silverframe",
+      "website": "https://silverframe.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T21:09:03.931213+00:00"
+    },
+    {
+      "name": "LeadLoop",
+      "slug": "polsia-leadloop-33",
+      "website": "https://leadloop-33.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T21:09:04.306729+00:00"
+    },
+    {
+      "name": "SettleBot — Autonomous Trade Reconciliation",
+      "slug": "polsia-settlebot-2",
+      "description": "SettleBot is an autonomous AI agent that monitors your broker feeds, matches trades in real time, resolves breaks, and reports — 24/7 — without human intervention until something actually needs escalation.",
+      "description_fr": "SettleBot est un agent d'IA autonome qui surveille les flux de vos courtiers, fait correspondre les transactions en temps réel, résout les ruptures et génère des rapports — 24 heures sur 24, 7 jours sur 7 — sans intervention humaine jusqu'à ce que quelque chose nécessite réellement une escalade.",
+      "category": "AI & Machine Learning",
+      "website": "https://settlebot-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T21:09:05.964843+00:00"
     }
   ]
 }
