@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T03:43:29.017871+00:00",
+  "last_updated": "2026-05-24T05:49:15.237215+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -135838,12 +135838,15 @@
       "scraped_at": "2026-05-23T23:40:09.258228+00:00"
     },
     {
-      "name": "HimritvaOS",
+      "name": "Himritva — Pure Foods, Rooted in Tradition",
       "slug": "polsia-himritvaos",
+      "description": "Himritva works directly with small farms across India. We visit, we verify, we build relationships that last. No middlemen. No mystery sourcing. When you buy from Himritva, you know exactly where your food came from.",
+      "description_fr": "Himritva travaille directement avec de petites fermes à travers l'Inde. Nous visitons, nous vérifions, nous construisons des relations durables. Pas d'intermédiaires. Pas de source mystérieuse. Lorsque vous achetez chez Himritva, vous savez exactement d'où vient votre nourriture.",
+      "category": "Food & Beverage",
       "website": "https://himritvaos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T01:47:40.988097+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T05:49:14.732550+00:00"
     },
     {
       "name": "GrowthshinerOS — Your Agency, Autonomous",
@@ -135943,6 +135946,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-24T01:47:53.167802+00:00"
+    },
+    {
+      "name": "RecallBox",
+      "slug": "polsia-recallbox-3",
+      "website": "https://recallbox-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T05:48:57.946720+00:00"
+    },
+    {
+      "name": "Vela — Autonomous Sales Prospecting",
+      "slug": "polsia-vela-ai-12",
+      "description": "Vela was built for the founder who knows outbound works — but doesn't have the hours, the bandwidth, or the patience to do it justice. One agent. Full cycle. Every day.",
+      "description_fr": "Vela a été conçu pour le fondateur qui connaît les travaux sortants, mais qui n'a pas les heures, la bande passante ou la patience pour lui rendre justice. Un agent. Cycle complet. Tous les jours.",
+      "category": "Sales & CRM",
+      "website": "https://vela-ai-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T05:48:59.746984+00:00"
+    },
+    {
+      "name": "PitStop",
+      "slug": "polsia-pitstop-moble",
+      "description": "Oil changes, brakes, battery installs, and diagnostics — delivered to your parking lot. No shop required.",
+      "description_fr": "Vidanges d'huile, freins, installations de batterie et diagnostics — livrés sur votre parking. Aucun magasin requis.",
+      "category": "E-Commerce & Retail",
+      "website": "https://pitstop-moble.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T05:49:00.918512+00:00"
+    },
+    {
+      "name": "SmallForge — We Build Digital Products for Small Creators",
+      "slug": "polsia-smallforge",
+      "description": "SmallForge is built for the creator who knows their audience, has already been asked \"do you sell anything?\", and just hasn't had a partner to build the thing yet. We do the product work. You do the content work. Together we build something that pays you every month.",
+      "description_fr": "SmallForge est conçu pour le créateur qui connaît son public, à qui on a déjà demandé « vendez-vous quelque chose ? » et qui n'a tout simplement pas encore eu de partenaire pour construire l'objet. Nous effectuons le travail sur le produit. Vous faites le travail de contenu. Ensemble, nous construisons quelque chose qui vous paie chaque mois.",
+      "category": "Marketing & Advertising",
+      "website": "https://smallforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T05:49:02.472071+00:00"
+    },
+    {
+      "name": "QueryPulse",
+      "slug": "polsia-querypulse-3",
+      "website": "https://querypulse-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T05:49:02.765396+00:00"
+    },
+    {
+      "name": "DograhOS",
+      "slug": "polsia-dograhos",
+      "website": "https://dograhos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T05:49:02.992407+00:00"
+    },
+    {
+      "name": "LocalPresence — Websites & Google Maps for Beauty Businesses",
+      "slug": "polsia-localpresence",
+      "description": "Professional websites and Google Maps optimization for nail salons, beauticians, and small beauty businesses. Get found by clients who are searching right now.",
+      "description_fr": "Sites Web professionnels et optimisation de Google Maps pour les salons de manucure, les esthéticiennes et les petites entreprises de beauté. Soyez trouvé par les clients qui recherchent en ce moment.",
+      "category": "Other",
+      "website": "https://localpresence.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T05:49:03.869396+00:00"
+    },
+    {
+      "name": "SOFT — Luxury Lifestyle House",
+      "slug": "polsia-natalia-eclipse",
+      "description": "The brand blends cinematic storytelling, refined femininity and masculinity, premium craftsmanship, science-backed wellness, luxury presentation, and elevated aesthetics into products and experiences designed for men and women worldwide.",
+      "description_fr": "La marque allie narration cinématographique, féminité et masculinité raffinées, savoir-faire haut de gamme, bien-être soutenu par la science, présentation de luxe et esthétique élevée dans des produits et des expériences conçus pour les hommes et les femmes du monde entier.",
+      "category": "Marketing & Advertising",
+      "website": "https://natalia-eclipse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T05:49:05.328226+00:00"
+    },
+    {
+      "name": "Fount — Your Business, Always Running",
+      "slug": "polsia-fount-ai",
+      "description": "Fount is an AI chief of staff that autonomously manages your business operations — filings, compliance, insurance, customer engagement — so you focus on building.",
+      "description_fr": "Fount est un chef de cabinet IA qui gère de manière autonome vos opérations commerciales (déclarations, conformité, assurance, engagement client) afin que vous vous concentriez sur la construction.",
+      "category": "AI & Machine Learning",
+      "website": "https://fount-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T05:49:06.879644+00:00"
+    },
+    {
+      "name": "Sunetic — AI Agents for Solar",
+      "slug": "polsia-sunetic",
+      "description": "Mexico's grid is modernizing. Storage is scaling. But the bottleneck isn't hardware — it's operations. Every solar company is still running on spreadsheets, WhatsApp threads, and understaffed sales teams. Sunetic closes that gap with AI agents that don't sleep, don't quit, and don't miss a follow-up.",
+      "description_fr": "Le réseau mexicain se modernise. Le stockage évolue. Mais le goulot d'étranglement ne vient pas du matériel, mais des opérations. Chaque entreprise solaire fonctionne toujours avec des feuilles de calcul, des fils de discussion WhatsApp et des équipes commerciales en sous-effectif. Sunetic comble cet écart avec des agents IA qui ne dorment pas, ne s'arrêtent pas et ne manquent aucun suivi.",
+      "category": "AI & Machine Learning",
+      "website": "https://sunetic.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T05:49:08.458603+00:00"
     }
   ]
 }
