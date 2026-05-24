@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T13:38:59.139077+00:00",
+  "last_updated": "2026-05-24T14:17:50.919322+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -136387,10 +136387,13 @@
     {
       "name": "OpsPilot",
       "slug": "polsia-opspilot-20",
+      "description": "The best infrastructure teams aren't the ones who fix incidents fastest. They're the ones who spend less time on incidents and more time building. OpsPilot handles the toil so your engineers focus on what matters.",
+      "description_fr": "Les meilleures équipes d’infrastructure ne sont pas celles qui résolvent les incidents le plus rapidement. Ce sont eux qui consacrent moins de temps aux incidents et plus de temps à la construction. OpsPilot se charge du travail pour que vos ingénieurs se concentrent sur ce qui compte.",
+      "category": "Other",
       "website": "https://opspilot-20.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T12:48:03.520337+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T14:17:46.875636+00:00"
     },
     {
       "name": "Polygram — Design, Code, Ship.",
@@ -136404,12 +136407,15 @@
       "scraped_at": "2026-05-24T12:48:05.492376+00:00"
     },
     {
-      "name": "Sovereign",
+      "name": "Sovereign — Financial Infrastructure Beyond Banks",
       "slug": "polsia-sovereign-3",
+      "description": "Traditional banks can freeze your account, decline transactions, and close your doors — based on algorithms, not people. They lend your deposits, restrict your access, and report your activity to regulators who are building digital currencies designed to monitor every cent you earn.",
+      "description_fr": "Les banques traditionnelles peuvent geler votre compte, refuser des transactions et fermer vos portes – sur la base d’algorithmes et non de personnes. Ils prêtent vos dépôts, restreignent votre accès et signalent votre activité aux régulateurs qui créent des monnaies numériques conçues pour surveiller chaque centime que vous gagnez.",
+      "category": "Finance & Fintech",
       "website": "https://sovereign-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T12:48:05.843159+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T14:17:48.668631+00:00"
     },
     {
       "name": "Sunaag — Premium Dried Beef from Kattankudy",
@@ -136487,6 +136493,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-24T12:48:14.722587+00:00"
+    },
+    {
+      "name": "CapitalStack",
+      "slug": "polsia-capitalstack-2",
+      "website": "https://capitalstack-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T14:17:29.241747+00:00"
+    },
+    {
+      "name": "Stockra",
+      "slug": "polsia-stockra",
+      "website": "https://stockra.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T14:17:29.828573+00:00"
+    },
+    {
+      "name": "IdeaForge",
+      "slug": "polsia-ideaforge-2",
+      "website": "https://ideaforge-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T14:17:30.312705+00:00"
+    },
+    {
+      "name": "ClearWord",
+      "slug": "polsia-clearword-ai",
+      "website": "https://clearword-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T14:17:30.766584+00:00"
+    },
+    {
+      "name": "Decis.ai",
+      "slug": "polsia-decis-ai",
+      "website": "https://decis-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T14:17:31.337195+00:00"
+    },
+    {
+      "name": "Upward",
+      "slug": "polsia-upward-2",
+      "website": "https://upward-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T14:17:31.576400+00:00"
+    },
+    {
+      "name": "FlourishOS",
+      "slug": "polsia-flourishos-5",
+      "description": "We do the opposite. Our interdisciplinary team starts with deep understanding of your people and your culture. We build tailored plans rooted in neuroscience and lived experience. We track progress rigorously. And we evolve the programme as your organisation grows.",
+      "description_fr": "Nous faisons le contraire. Notre équipe interdisciplinaire commence par une compréhension approfondie de vos collaborateurs et de votre culture. Nous construisons des plans sur mesure ancrés dans les neurosciences et l’expérience vécue. Nous suivons rigoureusement les progrès. Et nous faisons évoluer le programme à mesure que votre organisation se développe.",
+      "category": "Other",
+      "website": "https://flourishos-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T14:17:33.316346+00:00"
+    },
+    {
+      "name": "BioPilotOS — Operating System for Core Biogenesis",
+      "slug": "polsia-biopilotos",
+      "description": "Traditional growth factors degrade rapidly in cosmetic formulations — they break down before they can reach the deeper layers of skin. Our patented fusion technology anchors growth factors to plant oleosomes, creating a natural delivery vehicle that protects potency and enables deeper epidermal penetration.",
+      "description_fr": "Les facteurs de croissance traditionnels se dégradent rapidement dans les formulations cosmétiques : ils se décomposent avant de pouvoir atteindre les couches profondes de la peau. Notre technologie de fusion brevetée ancre les facteurs de croissance dans les oléosomes végétaux, créant ainsi un véhicule de distribution naturel qui protège la puissance et permet une pénétration épidermique plus profonde.",
+      "category": "Software & SaaS",
+      "website": "https://biopilotos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T14:17:34.668342+00:00"
+    },
+    {
+      "name": "LatSpaceOS",
+      "slug": "polsia-latspaceos",
+      "website": "https://latspaceos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T14:17:35.104449+00:00"
+    },
+    {
+      "name": "TaxForge — AI",
+      "slug": "polsia-taxforgeos",
+      "description": "India's tax ecosystem runs on8 crore+ annual ITR filings, 200+-page Finance Acts, and a team of Chartered Accountants working late into the night. The complexity isn't getting simpler. The regulatory changes aren't slowing down. And the tools most firms use haven't changed in a decade.",
+      "description_fr": "L'écosystème fiscal indien fonctionne avec plus de 8 millions de dépôts annuels de RTI, des lois de finances de plus de 200 pages et une équipe de comptables agréés travaillant tard dans la nuit. La complexité ne devient pas plus simple. Les changements réglementaires ne ralentissent pas. Et les outils utilisés par la plupart des entreprises n’ont pas changé depuis une décennie.",
+      "category": "AI & Machine Learning",
+      "website": "https://taxforgeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T14:17:36.798195+00:00"
     }
   ]
 }
