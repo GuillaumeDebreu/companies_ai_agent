@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T10:12:28.439995+00:00",
+  "last_updated": "2026-05-24T11:44:00.161933+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -136165,20 +136165,26 @@
       "scraped_at": "2026-05-24T08:10:32.195497+00:00"
     },
     {
-      "name": "FreelaunchOS",
+      "name": "Freelaunch — Le site freelance qui rentre dans une bio",
       "slug": "polsia-freelaunchos",
+      "description": "Les freelances qui vendent du temps, des compétences, du conseil — ils méritent mieux qu'un lien Instagram qui ne dit rien.",
+      "description_fr": "Les freelances qui vendent du temps, des compétences, du conseil — ils méritent mieux qu'un lien Instagram qui ne dit rien.",
+      "category": "Real Estate",
       "website": "https://freelaunchos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T10:12:16.211144+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T11:43:57.355769+00:00"
     },
     {
-      "name": "Streamline",
+      "name": "Streamline — AI Agents for Freight Brokers",
       "slug": "polsia-streamline-ai-3",
+      "description": "Freight brokers who prospect consistently close more. But prospecting is the first thing that dies when the day gets busy. We're building the agent that never lets that happen.",
+      "description_fr": "Les courtiers de fret qui prospectent systématiquement ferment davantage. Mais la prospection est la première chose qui meurt lorsque la journée est chargée. Nous construisons l'agent qui ne permet jamais que cela se produise.",
+      "category": "AI & Machine Learning",
       "website": "https://streamline-ai-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T10:12:16.369161+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T11:43:58.512142+00:00"
     },
     {
       "name": "CodeFlow — Your AI Job Application Agent",
@@ -136192,12 +136198,15 @@
       "scraped_at": "2026-05-24T10:12:17.045245+00:00"
     },
     {
-      "name": "LexAgent",
+      "name": "LexAgent — AI Contract Agents That Work While You Sleep",
       "slug": "polsia-lexagent",
+      "description": "LexAgent deploys autonomous AI agents to monitor, negotiate, and optimize your enterprise contracts around the clock.",
+      "description_fr": "LexAgent déploie des agents d'IA autonomes pour surveiller, négocier et optimiser vos contrats d'entreprise 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://lexagent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T10:12:17.198994+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-24T11:43:59.289414+00:00"
     },
     {
       "name": "Mastor — Autonomous Oracle Intelligence",
@@ -136264,6 +136273,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-24T10:12:21.443665+00:00"
+    },
+    {
+      "name": "Netloop",
+      "slug": "polsia-netloop",
+      "website": "https://netloop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T11:43:40.687193+00:00"
+    },
+    {
+      "name": "BreakawayOS — Operating System for Breakaway Matcha",
+      "slug": "polsia-breakawayos-2",
+      "description": "We blend tencha (the leaf before it's ground) from different terroir within Uji. Fields even hundreds of meters apart produce matcha with distinct character. That's why our blends have depth where single-origin matcha often has just one note.",
+      "description_fr": "Nous mélangeons du tencha (la feuille avant qu'elle ne soit moulue) de différents terroirs d'Uji. Des champs, même distants de plusieurs centaines de mètres, produisent un matcha au caractère distinctif. C'est pourquoi nos mélanges ont de la profondeur là où le matcha d'origine unique n'a souvent qu'une seule note.",
+      "category": "Real Estate",
+      "website": "https://breakawayos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T11:43:41.756777+00:00"
+    },
+    {
+      "name": "RunApp",
+      "slug": "polsia-runapp",
+      "website": "https://runapp.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T11:43:41.905244+00:00"
+    },
+    {
+      "name": "ClipFlow — Short",
+      "slug": "polsia-clipflow-18",
+      "description": "ClipFlow edits TikToks, Reels, and Shorts for local businesses — realtors, gyms, barbers, restaurants, car detailers. You send raw footage. We send ready-to-post clips.",
+      "description_fr": "ClipFlow édite des TikToks, des Reels et des Shorts pour les entreprises locales : agents immobiliers, gymnases, barbiers, restaurants, dessinateurs automobiles. Vous envoyez des images brutes. Nous envoyons des clips prêts à être publiés.",
+      "category": "Food & Beverage",
+      "website": "https://clipflow-18.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T11:43:43.170032+00:00"
+    },
+    {
+      "name": "OutboundForge — AI Sales Agent",
+      "slug": "polsia-outboundforge-2",
+      "description": "Reads inbound replies, gauges interest, and proposes meeting times directly from your connected calendar. Books the meeting and sends a confirmation — no human in the loop.",
+      "description_fr": "Lit les réponses entrantes, évalue l'intérêt et propose des horaires de réunion directement depuis votre calendrier connecté. Réservez la réunion et envoyez une confirmation – aucun humain dans la boucle.",
+      "category": "AI & Machine Learning",
+      "website": "https://outboundforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T11:43:44.239956+00:00"
+    },
+    {
+      "name": "ClipForge — AI Video Content for Local Businesses",
+      "slug": "polsia-clipforge-86",
+      "description": "We're building AI-native video production systems that let a small team serve 15+ clients without burning out. That means more businesses get to participate in short-form video — not just the ones with $50k/month marketing budgets.",
+      "description_fr": "Nous construisons des systèmes de production vidéo natifs d'IA qui permettent à une petite équipe de servir plus de 15 clients sans s'épuiser. Cela signifie que davantage d'entreprises peuvent participer à des vidéos courtes, pas seulement celles disposant d'un budget marketing de 50 000 $/mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://clipforge-86.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T11:43:45.968568+00:00"
+    },
+    {
+      "name": "MedPilotOS",
+      "slug": "polsia-medpilotos",
+      "website": "https://medpilotos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T11:43:46.402246+00:00"
+    },
+    {
+      "name": "Folkwave — Sync Licensing for Independent Labels",
+      "slug": "polsia-folkwave",
+      "description": "Instead of waiting for someone to find you, the agent identifies content creators, filmmakers, and game developers who need music — and pitches your tracks directly. Every week, new opportunities surfaced and pursued.",
+      "description_fr": "Au lieu d'attendre que quelqu'un vous trouve, l'agent identifie les créateurs de contenu, les cinéastes et les développeurs de jeux qui ont besoin de musique – et propose directement vos morceaux. Chaque semaine, de nouvelles opportunités apparaissaient et étaient exploitées.",
+      "category": "Entertainment & Media",
+      "website": "https://folkwave.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T11:43:48.192732+00:00"
+    },
+    {
+      "name": "OpenDeskOS",
+      "slug": "polsia-opendesk-os",
+      "website": "https://opendesk-os.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-24T11:43:48.480794+00:00"
+    },
+    {
+      "name": "StackOps — AI Automation for Jacksonville Businesses",
+      "slug": "polsia-stackops-4",
+      "description": "That's not a dig at them — it's the opportunity. AI automation is mature enough to deploy today, cheap enough for small businesses, and most local shops haven't done it. That's the gap. That's where StackOps comes in.",
+      "description_fr": "Ce n’est pas une fouille contre eux, c’est une opportunité. L'automatisation de l'IA est suffisamment mature pour être déployée aujourd'hui, suffisamment bon marché pour les petites entreprises, et la plupart des magasins locaux ne l'ont pas fait. C'est l'écart. C'est là qu'intervient StackOps.",
+      "category": "AI & Machine Learning",
+      "website": "https://stackops-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-24T11:43:50.304232+00:00"
     }
   ]
 }
