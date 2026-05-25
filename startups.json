@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T21:53:18.069509+00:00",
+  "last_updated": "2026-05-25T22:58:16.725727+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -138242,12 +138242,15 @@
       "scraped_at": "2026-05-25T21:53:11.539925+00:00"
     },
     {
-      "name": "RepoRadar",
+      "name": "RepoRadar — Autonomous GitHub Monitoring",
       "slug": "polsia-reporadar-2",
+      "description": "RepoRadar is an autonomous agent that monitors your GitHub repositories 24/7 — surfaces critical issues, flags what matters, acts on your behalf. You focus on building.",
+      "description_fr": "RepoRadar est un agent autonome qui surveille vos référentiels GitHub 24h/24 et 7j/7 : il détecte les problèmes critiques, signale ce qui compte et agit en votre nom. Vous vous concentrez sur la construction.",
+      "category": "AI & Machine Learning",
       "website": "https://reporadar-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-25T21:53:11.751143+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-25T22:58:10.458836+00:00"
     },
     {
       "name": "LocalOps",
@@ -138271,18 +138274,24 @@
     {
       "name": "SourceFlow",
       "slug": "polsia-sourceflow-4",
+      "description": "SourceFlow agents run the operational layer — the calls, the follow-ups, the quote comparisons, the expediting. Your team focuses on supplier strategy, cost reduction programs, and the decisions that actually move the needle.",
+      "description_fr": "Les agents SourceFlow gèrent la couche opérationnelle : les appels, les suivis, les comparaisons de devis, l'expédition. Votre équipe se concentre sur la stratégie des fournisseurs, les programmes de réduction des coûts et les décisions qui font réellement bouger les choses.",
+      "category": "Other",
       "website": "https://sourceflow-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-25T21:53:12.292088+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-25T22:58:11.891541+00:00"
     },
     {
-      "name": "VeloStack",
+      "name": "VeloStack — Find Your $10K Path",
       "slug": "polsia-velostack-2",
+      "description": "Stop scrolling business ideas. VeloStack helps you pick the right online model and build a real plan to hit $10K/month.",
+      "description_fr": "Arrêtez de faire défiler les idées commerciales. VeloStack vous aide à choisir le bon modèle en ligne et à élaborer un véritable plan pour atteindre 10 000 $/mois.",
+      "category": "Other",
       "website": "https://velostack-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-25T21:53:12.389002+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-25T22:58:13.368209+00:00"
     },
     {
       "name": "FlowOps — Vertical AI Automation for Local Businesses",
@@ -138298,10 +138307,13 @@
     {
       "name": "NicheFlow",
       "slug": "polsia-nicheflow-3",
+      "description": "NicheFlow doesn't sleep. Doesn't have bad weeks. Doesn't miss a follow-up because it got busy with lunch. It runs your outbound engine 24/7, learns from every reply, and compounds its performance every single day.",
+      "description_fr": "NicheFlow ne dort pas. Il n'y a pas de mauvaises semaines. Ne manque pas de suivi car il était occupé avec le déjeuner. Il exécute votre moteur sortant 24h/24 et 7j/7, apprend de chaque réponse et améliore ses performances chaque jour.",
+      "category": "Marketing & Advertising",
       "website": "https://nicheflow-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-25T21:53:14.037805+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-25T22:58:14.211456+00:00"
     },
     {
       "name": "Vectis — AI Deal Intelligence",
@@ -138324,6 +138336,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-25T21:53:15.476175+00:00"
+    },
+    {
+      "name": "FocalHouse Media",
+      "slug": "polsia-focalhouse",
+      "website": "https://focalhouse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-25T22:57:57.061029+00:00"
+    },
+    {
+      "name": "StayLoop",
+      "slug": "polsia-stayloop-2",
+      "website": "https://stayloop-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-25T22:57:57.467838+00:00"
+    },
+    {
+      "name": "StreetForge",
+      "slug": "polsia-streetforge-2",
+      "website": "https://streetforge-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-25T22:57:57.785506+00:00"
+    },
+    {
+      "name": "FragranceOS — Your Scent, Intelligently Managed",
+      "slug": "polsia-fragranceos",
+      "description": "The fragrance industry loses customers between purchases. There is no relationship, no touchpoint, no intelligence — just a transactional app. FragranceOS changes that. The agent becomes the relationship. It remembers preferences, predicts when a refill is due, alerts when a new release matches a profile, and re-engages before the customer even thinks about it.",
+      "description_fr": "L'industrie du parfum perd des clients entre les achats. Il n'y a pas de relation, pas de point de contact, pas d'intelligence : juste une application transactionnelle. FragranceOS change cela. L'agent devient la relation. Il mémorise les préférences, prédit quand une recharge est due, alerte lorsqu'une nouvelle version correspond à un profil et réengage avant même que le client n'y pense.",
+      "category": "Sustainability & Green",
+      "website": "https://fragranceos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T22:58:16.723441+00:00"
+    },
+    {
+      "name": "LaunchpadOS — AI Runs Your Business",
+      "slug": "polsia-launchpados-29",
+      "description": "We built the infrastructure so you don't have to hire a team to execute your vision. The AI is the team. Every cycle, it ships something real. Eventually, the business outlasts the founder's attention span — because the machine keeps running.",
+      "description_fr": "Nous avons construit l'infrastructure afin que vous n'ayez pas besoin d'embaucher une équipe pour exécuter votre vision. L'IA est l'équipe. À chaque cycle, il véhicule quelque chose de réel. Finalement, l'entreprise dure plus longtemps que l'attention du fondateur, car la machine continue de fonctionner.",
+      "category": "AI & Machine Learning",
+      "website": "https://launchpados-29.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T22:57:59.851199+00:00"
+    },
+    {
+      "name": "ZRVIA — Local Tech Services",
+      "slug": "polsia-zrevia",
+      "description": "We started ZRVIA because the tech installation market is full of people who show up once, take the payment, and disappear. You call back and get a call center. You wait weeks for a callback that never comes. Your camera's still offline.",
+      "description_fr": "Nous avons lancé ZRVIA parce que le marché de l'installation technologique regorge de gens qui se présentent une fois, acceptent le paiement et disparaissent. Vous rappelez et obtenez un centre d'appels. Vous attendez des semaines pour un rappel qui n'arrive jamais. Votre caméra est toujours hors ligne.",
+      "category": "Finance & Fintech",
+      "website": "https://zrevia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T22:58:01.128114+00:00"
+    },
+    {
+      "name": "TurboFinish — Mobile Auto Care, Delivered",
+      "slug": "polsia-turbofinish",
+      "description": "The shop model is broken. You take time off work to drop your car, wait three hours, get a call it's ready, go back, pay $380, and find a coffee stain they missed. We're not that.",
+      "description_fr": "Le modèle de magasin est cassé. Vous prenez un congé pour déposer votre voiture, attendez trois heures, recevez un appel, c'est prêt, revenez en arrière, payez 380 $ et trouvez une tache de café qu'ils ont manquée. Nous ne sommes pas ça.",
+      "category": "E-Commerce & Retail",
+      "website": "https://turbofinish.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T22:58:02.528341+00:00"
+    },
+    {
+      "name": "Melodic — Your AI Business Manager for Music",
+      "slug": "polsia-melodic-music",
+      "description": "An AI agent that handles sync licensing, playlist outreach, and fan engagement for independent musicians. Works while you sleep.",
+      "description_fr": "Un agent IA qui gère les licences de synchronisation, la diffusion des playlists et l'engagement des fans pour les musiciens indépendants. Fonctionne pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://melodic-music.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T22:58:04.047042+00:00"
+    },
+    {
+      "name": "Fathom — Autonomous AI Outbound",
+      "slug": "polsia-fathom-ai",
+      "description": "SDRs burn out chasing lists. Emails go generic because there's no time to personalize. CAC climbs while reply rates flatline. The work that actually fills pipeline — the deep research, the thoughtful sequencing, the multi-channel nurturing — never gets done because humans don't have the bandwidth.",
+      "description_fr": "Les DTS épuisent les listes de poursuite. Les e-mails deviennent génériques car vous n'avez pas le temps de les personnaliser. Le CAC grimpe tandis que les taux de réponse stagnent. Le travail qui remplit réellement le pipeline – la recherche approfondie, le séquençage réfléchi, le développement multicanal – n’est jamais terminé parce que les humains n’ont pas la bande passante.",
+      "category": "AI & Machine Learning",
+      "website": "https://fathom-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T22:58:05.089227+00:00"
+    },
+    {
+      "name": "Botix — AI Automation per PMI Italiane",
+      "slug": "polsia-botix",
+      "description": "Non stiamo vendendo tecnologia. Stiamo vendendo tempo, clienti e fatturato. Il tool è già pronto. Il mercato è in movimento. La concorrenza è frammentata. Non servono milioni di euro — servono 5 clienti, buona comunicazione e un po' di costanza.",
+      "description_fr": "Nous ne vendons pas de technologie. Nous vendons le rythme, les clients et les fatturato. L'outil est livré bientôt. Le marché est en mouvement. La concordance est fragmentée. Non servono milioni di euro — servono 5 clientsi, buona comunicazione et un po' di costanza.",
+      "category": "AI & Machine Learning",
+      "website": "https://botix.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T22:58:06.559798+00:00"
     }
   ]
 }
