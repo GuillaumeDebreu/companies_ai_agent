@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T15:43:01.501618+00:00",
+  "last_updated": "2026-05-25T17:24:55.112239+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -137803,28 +137803,37 @@
       "scraped_at": "2026-05-25T12:42:11.147704+00:00"
     },
     {
-      "name": "KensenOS",
+      "name": "KensenOS — Precision Hardware, Operated",
       "slug": "polsia-kensenos",
+      "description": "KensenOS gives Ken Wong the command center to run Kensen Digital —\n      OEM pipeline, product portfolio, and growth engine — all in one place.",
+      "description_fr": "KensenOS donne à Ken Wong le centre de commande pour exécuter Kensen Digital —\n      Pipeline OEM, portefeuille de produits et moteur de croissance, le tout au même endroit.",
+      "category": "Sales & CRM",
       "website": "https://kensenos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-25T15:42:49.020412+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-25T17:24:50.602008+00:00"
     },
     {
-      "name": "Kortex",
+      "name": "Kortex — AI Revenue Operating System",
       "slug": "polsia-kortex-ai",
+      "description": "Medspas run on five disconnected tools. Scheduling here, CRM there, a spreadsheet for leads, another for billing. Staff spend half their week on work that AI should handle — switching between systems, manually following up, chasing leads that went cold.",
+      "description_fr": "Medspas fonctionne sur cinq outils déconnectés. Planification ici, CRM là, une feuille de calcul pour les prospects, une autre pour la facturation. Le personnel passe la moitié de sa semaine à effectuer des tâches que l'IA devrait effectuer : passer d'un système à l'autre, effectuer un suivi manuel, rechercher des pistes qui ont échoué.",
+      "category": "AI & Machine Learning",
       "website": "https://kortex-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-25T15:42:49.357551+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-25T17:24:51.954450+00:00"
     },
     {
-      "name": "Lumi Social",
+      "name": "Lumi Social — Luxury Content for Hospitality Brands",
       "slug": "polsia-lumi-social-2",
+      "description": "We built Lumi Social to close that gap. Not with generic social media management, but with cinematic content and art direction that makes a customer's first scroll feel like their first visit.",
+      "description_fr": "Nous avons créé Lumi Social pour combler cet écart. Pas avec une gestion générique des médias sociaux, mais avec un contenu cinématographique et une direction artistique qui font que le premier défilement d'un client ressemble à sa première visite.",
+      "category": "Marketing & Advertising",
       "website": "https://lumi-social-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-25T15:42:49.662135+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-25T17:24:53.345359+00:00"
     },
     {
       "name": "StudCraft — Commercial Framing & Drywall, Tampa Bay",
@@ -137902,6 +137911,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-25T15:42:58.539078+00:00"
+    },
+    {
+      "name": "FlipMart",
+      "slug": "polsia-flipart",
+      "website": "https://flipart.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-25T17:24:36.976044+00:00"
+    },
+    {
+      "name": "CardForge — Never Miss a Card Deal",
+      "slug": "polsia-cardforge-2",
+      "description": "An AI agent that tracks trading card prices across MTG, Pokémon, Yu-Gi-Oh!, and more. Alerts you when cards hit your target price.",
+      "description_fr": "Un agent IA qui suit les prix des cartes à collectionner sur MTG, Pokémon, Yu-Gi-Oh !, et plus encore. Vous alerte lorsque les cartes atteignent votre prix cible.",
+      "category": "AI & Machine Learning",
+      "website": "https://cardforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T17:24:38.716584+00:00"
+    },
+    {
+      "name": "Sigmal — Competitor Intelligence, On Autopilot",
+      "slug": "polsia-sigmal",
+      "description": "Sigmal is an autonomous agent that monitors your competitors 24/7 — reading their blogs, changelogs, job postings, and announcements — then sends you a sharp intelligence report every week. No dashboards. No manual research. Just insights.",
+      "description_fr": "Sigmal est un agent autonome qui surveille vos concurrents 24h/24 et 7j/7 (en lisant leurs blogs, journaux des modifications, offres d'emploi et annonces) et vous envoie ensuite un rapport de renseignement précis chaque semaine. Pas de tableaux de bord. Aucune recherche manuelle. Juste des idées.",
+      "category": "Software & SaaS",
+      "website": "https://sigmal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T17:24:40.108204+00:00"
+    },
+    {
+      "name": "MacrosOnDeck",
+      "slug": "polsia-macrosondeck",
+      "description": "Factor, Trifecta, Clean Eatz — they've made meal prep feel like a chore you pay $14 for. Generic portions, bland flavors, corporate packaging. None of them speak to the person who's been tracking macros since 2019, knows exactly what 200g of carbs looks like, and just wants food that doesn't suck.",
+      "description_fr": "Factor, Trifecta, Clean Eatz – ils ont fait de la préparation des repas une corvée pour laquelle vous payez 14 $. Portions génériques, saveurs fades, packaging corporatif. Aucun d’entre eux ne parle à la personne qui suit les macros depuis 2019, sait exactement à quoi ressemblent 200 g de glucides et veut juste de la nourriture qui ne soit pas nulle.",
+      "category": "Food & Beverage",
+      "website": "https://macrosondeck.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T17:24:41.256427+00:00"
+    },
+    {
+      "name": "LocalLoop — AI Websites & Automation for Local Businesses",
+      "slug": "polsia-localhost",
+      "description": "LocalLoop builds modern, mobile-first websites and AI-powered automation for local service businesses — barbershops, gyms, dentists, roofers, and everyone in between. Stop missing calls. Start filling calendars.",
+      "description_fr": "LocalLoop crée des sites Web modernes et mobiles et une automatisation basée sur l'IA pour les entreprises de services locales : salons de coiffure, salles de sport, dentistes, couvreurs et tout le monde entre les deux. Arrêtez de manquer les appels. Commencez à remplir les calendriers.",
+      "category": "AI & Machine Learning",
+      "website": "https://localhost.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T17:24:55.110054+00:00"
+    },
+    {
+      "name": "LashFix",
+      "slug": "polsia-lashfix",
+      "description": "Expert lash extension services in a warm, judgment-free space. Plus the beauty content, digital guides, and community that turns a skill into a movement.",
+      "description_fr": "Services experts en extension de cils dans un espace chaleureux et sans jugement. Plus le contenu beauté, les guides numériques et la communauté qui transforment une compétence en mouvement.",
+      "category": "Entertainment & Media",
+      "website": "https://lashfix.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T17:24:42.390657+00:00"
+    },
+    {
+      "name": "PromptVault — Your Prompts, Organized",
+      "slug": "polsia-promptvault-2",
+      "description": "PromptVault is a personal vault for developers who build with AI. Save your best prompts, track versions, and reuse them across every project.",
+      "description_fr": "PromptVault est un coffre-fort personnel pour les développeurs qui construisent avec l'IA. Enregistrez vos meilleures invites, suivez les versions et réutilisez-les dans chaque projet.",
+      "category": "AI & Machine Learning",
+      "website": "https://promptvault-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T17:24:43.410861+00:00"
+    },
+    {
+      "name": "HarmixOS — AI Operating System for Music Businesses",
+      "slug": "polsia-harmixos",
+      "description": "When your library hits a million tracks, manual tagging becomes a liability. Harmix AI listens to every file and builds a semantic map — mood, instrumentation, energy profile, tempo, key, sync-feel — so your team finds the right track in seconds, not sessions.",
+      "description_fr": "Lorsque votre bibliothèque atteint un million de titres, le marquage manuel devient un handicap. Harmix AI écoute chaque fichier et crée une carte sémantique (ambiance, instrumentation, profil énergétique, tempo, tonalité, sensation de synchronisation) afin que votre équipe trouve la bonne piste en quelques secondes, et non en sessions.",
+      "category": "AI & Machine Learning",
+      "website": "https://harmixos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T17:24:44.703447+00:00"
+    },
+    {
+      "name": "PagePilot — Landing Pages That Ship Themselves",
+      "slug": "polsia-pagepilot-7027",
+      "description": "You've thought through the product. You know what it should say. PagePilot turns that clarity into a live page — no friction, no designer waiting time, no scope creep.",
+      "description_fr": "Vous avez réfléchi au produit. Vous savez ce que ça devrait dire. PagePilot transforme cette clarté en une page en direct : pas de friction, pas de temps d'attente pour le concepteur, pas de dérive de la portée.",
+      "category": "Other",
+      "website": "https://pagepilot-7027.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T17:24:45.688443+00:00"
+    },
+    {
+      "name": "DealPad — AI Deal Management",
+      "slug": "polsia-dealpad-2",
+      "description": "DealPad isn't for casual landlords. It's for investors who are serious about making deals happen — fast, clean, and on their terms. Whether you're doing 2 deals a month or 20, you need a system that keeps up.",
+      "description_fr": "DealPad n'est pas destiné aux propriétaires occasionnels. Il s'adresse aux investisseurs qui souhaitent sérieusement conclure des transactions — rapidement, proprement et selon leurs conditions. Que vous effectuiez 2 transactions par mois ou 20, vous avez besoin d'un système qui suit le rythme.",
+      "category": "AI & Machine Learning",
+      "website": "https://dealpad-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-25T17:24:47.126095+00:00"
     }
   ]
 }
