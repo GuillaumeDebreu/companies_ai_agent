@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T17:39:35.552308+00:00",
+  "last_updated": "2026-05-26T19:45:19.574497+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -138888,20 +138888,26 @@
       "scraped_at": "2026-05-26T14:19:44.712568+00:00"
     },
     {
-      "name": "GaymanOS",
+      "name": "Gayman — Privacy",
       "slug": "polsia-gaymanos",
+      "description": "No phone number. No email. No data harvesting. Gayman is the dating app that lets you be yourself without handing over your identity.",
+      "description_fr": "Pas de numéro de téléphone. Aucun e-mail. Aucune collecte de données. Gayman est l'application de rencontres qui vous permet d'être vous-même sans dévoiler votre identité.",
+      "category": "Newsletter & Email",
       "website": "https://gaymanos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-26T17:39:21.442871+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-26T19:45:16.198733+00:00"
     },
     {
-      "name": "CalTrackerOS",
+      "name": "CalTracker — Snap. Done.",
       "slug": "polsia-caltrackeros",
+      "description": "The science is settled: what you eat determines your health. But the tools to track what you eat are universally frustrating. Searching databases. Guessing portions. Giving up after a week.",
+      "description_fr": "La science est établie : ce que vous mangez détermine votre santé. Mais les outils permettant de suivre ce que vous mangez sont universellement frustrants. Recherche dans des bases de données. Deviner des portions. Abandonner au bout d'une semaine.",
+      "category": "Health & Wellness",
       "website": "https://caltrackeros.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-26T17:39:21.702607+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-26T19:45:17.346044+00:00"
     },
     {
       "name": "ApexRides — Local Luxury Car Content Meets Commission",
@@ -138981,12 +138987,122 @@
       "scraped_at": "2026-05-26T17:39:29.056448+00:00"
     },
     {
-      "name": "OpsEdge",
+      "name": "OpsEdge — AI",
       "slug": "polsia-opsedge-3",
+      "description": "OpsEdge is the operations layer for construction firms that are done tolerating missed deadlines because someone's inbox got buried. Built for PMs who want intelligence at their fingertips, not another dashboard to babysit.",
+      "description_fr": "OpsEdge est la couche opérationnelle pour les entreprises de construction qui ne tolèrent plus les délais manqués parce que la boîte de réception de quelqu'un a été enterrée. Conçu pour les PM qui veulent de l'intelligence à portée de main, et non un autre tableau de bord à surveiller.",
+      "category": "AI & Machine Learning",
       "website": "https://opsedge-3.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T19:45:18.265694+00:00"
+    },
+    {
+      "name": "OneMoreOS — The Operating System for Josh Sundquist",
+      "slug": "polsia-onemoreos",
+      "description": "Autonomous agents handling speaking inquiries, content repurposing, and outreach pipelines — so Josh focuses on what he does best: being unforgettable on stage.",
+      "description_fr": "Des agents autonomes gèrent les demandes de parole, la réutilisation du contenu et les pipelines de sensibilisation. Josh se concentre donc sur ce qu'il fait le mieux : être inoubliable sur scène.",
+      "category": "Sales & CRM",
+      "website": "https://onemoreos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T19:45:19.516183+00:00"
+    },
+    {
+      "name": "LoopSpec",
+      "slug": "polsia-loopspec",
+      "website": "https://loopspec.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-05-26T17:39:29.437257+00:00"
+      "scraped_at": "2026-05-26T19:45:01.822313+00:00"
+    },
+    {
+      "name": "CauseOps — Autonomous AI for Mission",
+      "slug": "polsia-causeops",
+      "description": "AI agents that run nonprofit operations autonomously — donor relations, grant tracking, and outreach, 24/7.",
+      "description_fr": "Des agents d'IA qui gèrent de manière autonome des opérations à but non lucratif : relations avec les donateurs, suivi des subventions et sensibilisation, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://causeops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T19:45:03.528999+00:00"
+    },
+    {
+      "name": "OpsOS — Operating System for Ops Leaders",
+      "slug": "polsia-opsos-4",
+      "description": "Operations isn't about doing more. It's about knowing more — and acting on it before the window closes. OpsOS is the layer between your data and your next move.",
+      "description_fr": "Les opérations ne consistent pas à faire plus. Il s'agit d'en savoir plus et d'agir en conséquence avant que la fenêtre ne se ferme. OpsOS est la couche entre vos données et votre prochain mouvement.",
+      "category": "Sales & CRM",
+      "website": "https://opsos-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T19:45:05.049237+00:00"
+    },
+    {
+      "name": "PhysioGrade — Transfer Risk Intelligence",
+      "slug": "polsia-physiograde",
+      "description": "Transfer windows run on video highlights, agent pitches, and gut instinct. Meanwhile, the most predictive data about a player's future reliability — their training load history, GPS signatures, acute-chronic workload ratios, injury recurrence patterns — stays locked inside clubs that have no obligation to share it.",
+      "description_fr": "Les fenêtres de transfert fonctionnent sur les extraits vidéo, les présentations des agents et l'instinct. Pendant ce temps, les données les plus prédictives sur la fiabilité future d'un joueur – son historique de charge d'entraînement, ses signatures GPS, ses ratios de charge de travail aiguë/chronique, les schémas de récidive des blessures – restent verrouillées au sein des clubs qui n'ont aucune obligation de les partager.",
+      "category": "Marketing & Advertising",
+      "website": "https://physiograde.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T19:45:06.609409+00:00"
+    },
+    {
+      "name": "FieldService.ai — AI Agents That Run Your Field Operations",
+      "slug": "polsia-fieldservice-ai-jeremy",
+      "description": "Every tool on the market today is software that humans operate. FieldService.ai is different: it's an AI employee that does the job. It doesn't need to be told what to do — it reads the queue, makes decisions, updates customers, and reports back. Your office manager stops managing software and starts managing exceptions. The dispatcher isn't a person anymore — it's a 24/7 AI that never misses a job, never forgets to text a customer, and never loses a work order in an inbox.",
+      "description_fr": "Chaque outil sur le marché aujourd’hui est un logiciel exploité par des humains. FieldService.ai est différent : c'est un employé IA qui fait le travail. Il n'est pas nécessaire de lui dire quoi faire : il lit la file d'attente, prend des décisions, informe les clients et rend compte. Votre responsable de bureau arrête de gérer les logiciels et commence à gérer les exceptions. Le répartiteur n'est plus une personne : c'est une IA 24h/24 et 7j/7 qui ne manque jamais un travail, n'oublie jamais d'envoyer un SMS à un client et ne perd jamais un bon de travail dans une boîte de réception.",
+      "category": "AI & Machine Learning",
+      "website": "https://fieldservice-ai-jeremy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T19:45:08.031643+00:00"
+    },
+    {
+      "name": "FahtoOS — Direct",
+      "slug": "polsia-fahtoos",
+      "description": "FahtoOS runs the full stack — media buying, brand building, product strategy, and performance creative — from a single command center built for speed, visibility, and growth.",
+      "description_fr": "FahtoOS gère l'ensemble de la pile (achat média, développement de la marque, stratégie produit et création de performances) à partir d'un centre de commande unique conçu pour la vitesse, la visibilité et la croissance.",
+      "category": "Marketing & Advertising",
+      "website": "https://fahtoos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T19:45:09.437165+00:00"
+    },
+    {
+      "name": "FluxCompute — AI",
+      "slug": "polsia-fluxcompute",
+      "description": "The IndiaAI Mission is pouring $1B+ into sovereign compute — GPU clusters from Yotta, Netweb, and government-backed facilities. The hardware is coming. What's missing is the software layer that makes it efficient.",
+      "description_fr": "La mission IndiaAI investit plus d’un milliard de dollars dans le calcul souverain – des clusters GPU de Yotta, Netweb et des installations soutenues par le gouvernement. Le matériel arrive. Ce qui manque, c'est la couche logicielle qui le rend efficace.",
+      "category": "AI & Machine Learning",
+      "website": "https://fluxcompute.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T19:45:11.083142+00:00"
+    },
+    {
+      "name": "BlendOS — The Operating System for Industrial AI",
+      "slug": "polsia-blendos-2",
+      "description": "Every minute a production line runs without intelligent guidance, you're burning margin you didn't know you had. BlendOS was built to close that gap — permanently. Not a dashboard. Not a report. A system that runs.",
+      "description_fr": "Chaque minute où une ligne de production fonctionne sans guidage intelligent, vous brûlez une marge que vous ne soupçonniez pas avoir. BlendOS a été conçu pour combler cet écart – de façon permanente. Pas un tableau de bord. Pas un rapport. Un système qui fonctionne.",
+      "category": "AI & Machine Learning",
+      "website": "https://blendos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T19:45:12.406014+00:00"
+    },
+    {
+      "name": "Axiom — AI Workflow Automation for SMBs",
+      "slug": "polsia-axiom-workflow",
+      "description": "We build AI workflows that run your operations so you can focus on revenue.",
+      "description_fr": "Nous construisons des workflows d'IA qui gèrent vos opérations afin que vous puissiez vous concentrer sur vos revenus.",
+      "category": "AI & Machine Learning",
+      "website": "https://axiom-workflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T19:45:13.631244+00:00"
     }
   ]
 }
