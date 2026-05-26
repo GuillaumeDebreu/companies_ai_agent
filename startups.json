@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T09:59:07.688025+00:00",
+  "last_updated": "2026-05-26T14:19:48.281683+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -137149,12 +137149,15 @@
       "scraped_at": "2026-05-24T20:02:19.211455+00:00"
     },
     {
-      "name": "SunVault",
+      "name": "SunVault — Hurricane",
       "slug": "polsia-sunvault",
+      "description": "Solar panel and battery backup installations for homeowners in Naples, Fort Myers, Cape Coral, and across Southwest Florida.",
+      "description_fr": "Installations de panneaux solaires et de batteries de secours pour les propriétaires de Naples, Fort Myers, Cape Coral et dans le sud-ouest de la Floride.",
+      "category": "Sustainability & Green",
       "website": "https://sunvault.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-24T21:09:00.322317+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-26T14:19:45.701256+00:00"
     },
     {
       "name": "AnswerIQ — AI Appointment Booking for Local Businesses",
@@ -138676,12 +138679,15 @@
       "scraped_at": "2026-05-26T08:20:40.353976+00:00"
     },
     {
-      "name": "PinnacleOS",
+      "name": "Match Your Style, Not a Preset — Wedding Photo Editing",
       "slug": "polsia-pinnacleos-7",
+      "description": "Professional wedding photo editing with 24-hour turnaround. Dedicated editor team. Your look, not a filter.",
+      "description_fr": "Retouche photo de mariage professionnelle avec un délai d'exécution de 24 heures. Équipe de rédaction dédiée. Votre look, pas un filtre.",
+      "category": "Other",
       "website": "https://pinnacleos-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-26T08:20:40.544522+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-26T14:19:48.159280+00:00"
     },
     {
       "name": "KlarxOS — Operating System for Construction Equipment",
@@ -138770,6 +138776,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-26T08:20:59.018967+00:00"
+    },
+    {
+      "name": "BuildPulse",
+      "slug": "polsia-buildpulse-3",
+      "website": "https://buildpulse-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-26T14:19:33.564969+00:00"
+    },
+    {
+      "name": "PresetForge",
+      "slug": "polsia-presetforge",
+      "website": "https://presetforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-26T14:19:33.855564+00:00"
+    },
+    {
+      "name": "CollectOS — Face",
+      "slug": "polsia-collectos-3",
+      "description": "CollectOS brings field-based B2B collections to small and mid-size businesses. Face-to-face contact. Anywhere in North America. You only pay when we collect.",
+      "description_fr": "CollectOS propose des collections B2B sur le terrain aux petites et moyennes entreprises. Contact face à face. Partout en Amérique du Nord. Vous ne payez que lorsque nous collectons.",
+      "category": "Sales & CRM",
+      "website": "https://collectos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T14:19:35.337311+00:00"
+    },
+    {
+      "name": "Studio M",
+      "slug": "polsia-studiomos",
+      "description": "Marjolein Buss runt Studio M. Ze heeft corporate finance gedaan, marketing bij Ahold, was founder van Deblon Sports. En ze is moeder van twee kinderen. Ze voelt precies dezelfde druk die haar klanten voelen — te veel open tabs, te weinig rust, het gevoel dat alles tegelijk moet.",
+      "description_fr": "Marjolein Buss, l'un des fondateurs du Studio M., responsable de la finance d'entreprise et du marketing chez Ahold, a été la fondatrice de Deblon Sports. Et nous sommes plus proches de deux enfants. Ze voelt precies dezelfde druk die haar klanten voelen — te verel onglets ouverts, te weinig rust, het gevoel dat alles tegelijk moet.",
+      "category": "Marketing & Advertising",
+      "website": "https://studiomos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T14:19:36.745351+00:00"
+    },
+    {
+      "name": "Mzansify — Free South African Financial Calculators",
+      "slug": "polsia-mzansifyos-2",
+      "description": "Most financial calculators track you, store inputs, and sell your financial situation to advertisers. Mzansify is built differently — all calculations happen in your browser using JavaScript. Nothing is sent to any server. No cookies. No accounts. No tracking.",
+      "description_fr": "La plupart des calculateurs financiers vous suivent, stockent les données et vendent votre situation financière aux annonceurs. Mzansify est construit différemment : tous les calculs s'effectuent dans votre navigateur à l'aide de JavaScript. Rien n'est envoyé à un serveur. Pas de cookies. Aucun compte. Aucun suivi.",
+      "category": "Finance & Fintech",
+      "website": "https://mzansifyos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T14:19:38.425078+00:00"
+    },
+    {
+      "name": "DemandIQ — Autonomous Demand Forecasting for Apparel Brands",
+      "slug": "polsia-demandiq-2",
+      "description": "DemandIQ is built for the apparel brand that has outgrown spreadsheet forecasting and doesn't have the budget for a six-month SAP implementation. It delivers enterprise-grade demand intelligence at a fraction of the cost — and it runs itself.",
+      "description_fr": "DemandIQ est conçu pour la marque de vêtements qui a dépassé les prévisions des feuilles de calcul et qui n'a pas le budget nécessaire pour une mise en œuvre SAP sur six mois. Il fournit une intelligence de la demande de niveau entreprise à une fraction du coût – et il fonctionne tout seul.",
+      "category": "Marketing & Advertising",
+      "website": "https://demandiq-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T14:19:39.896667+00:00"
+    },
+    {
+      "name": "PulseSync — The AI Employee That Grows Your Audience",
+      "slug": "polsia-pulsesync-3",
+      "description": "Content is a job. It's one of the most important jobs a creator or small business has. And it's also one of the most time-consuming — hours every week spent staring at a blank screen, trying to figure out what to say next.",
+      "description_fr": "Le contenu est un travail. C'est l'un des métiers les plus importants d'un créateur ou d'une petite entreprise. Et c'est aussi l'une des activités qui prennent le plus de temps : des heures chaque semaine passées à regarder un écran vide, à essayer de savoir quoi dire ensuite.",
+      "category": "AI & Machine Learning",
+      "website": "https://pulsesync-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T14:19:41.466831+00:00"
+    },
+    {
+      "name": "ClearOps — Autonomous Payment Operations for Travel",
+      "slug": "polsia-clearops-ai-4",
+      "description": "AI agents that reconcile payments, detect fraud, and resolve disputes 24/7 — without human intervention.",
+      "description_fr": "Des agents IA qui rapprochent les paiements, détectent les fraudes et résolvent les litiges 24h/24 et 7j/7, sans intervention humaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://clearops-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T14:19:42.544287+00:00"
+    },
+    {
+      "name": "PlanBreak — Know Exactly What to Practice",
+      "slug": "polsia-planbreak",
+      "description": "Enter your golf round. Get a specific practice plan ranked by stroke impact. No sensors. No GPS. Just coaching.",
+      "description_fr": "Entrez votre partie de golf. Obtenez un plan de pratique spécifique classé par impact de l’AVC. Pas de capteurs. Pas de GPS. Juste du coaching.",
+      "category": "Education",
+      "website": "https://planbreak.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T14:19:43.602517+00:00"
+    },
+    {
+      "name": "AirOps AI — Autonomous Fleet Operations",
+      "slug": "polsia-airops-ai",
+      "description": "\"In ten years, the question won't be 'do you have drones?' It will be 'do you have AI running them?' Every port, every border, every critical asset will be managed by autonomous agents. We're building that infrastructure now.\"",
+      "description_fr": "« Dans dix ans, la question ne sera plus « est-ce que vous avez des drones ? Ce sera \"Est-ce que vous avez une IA qui les gère ?\" Chaque port, chaque frontière, chaque actif critique sera géré par des agents autonomes. Nous construisons cette infrastructure maintenant. »",
+      "category": "AI & Machine Learning",
+      "website": "https://airops-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-26T14:19:44.712568+00:00"
     }
   ]
 }
