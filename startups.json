@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T20:20:31.916112+00:00",
+  "last_updated": "2026-05-27T21:42:08.120644+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -139985,12 +139985,15 @@
       "scraped_at": "2026-05-27T17:42:57.710726+00:00"
     },
     {
-      "name": "BadgerLine Media",
+      "name": "BadgerLine Media — Wisconsin",
       "slug": "polsia-badgerline-media",
+      "description": "Marketing strategy built for Wisconsin small businesses. Local insight, real results.",
+      "description_fr": "Stratégie marketing conçue pour les petites entreprises du Wisconsin. Un aperçu local, de vrais résultats.",
+      "category": "Marketing & Advertising",
       "website": "https://badgerline-media.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-27T19:49:46.034802+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-27T21:42:07.563055+00:00"
     },
     {
       "name": "DataSciOS — The Operating System for Enterprise AI",
@@ -140090,6 +140093,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-27T19:49:57.330120+00:00"
+    },
+    {
+      "name": "PepGodOS",
+      "slug": "polsia-pepgodos",
+      "website": "https://pepgodos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-27T21:41:57.730172+00:00"
+    },
+    {
+      "name": "StealthFlow",
+      "slug": "polsia-stealthflow",
+      "website": "https://stealthflow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-27T21:41:58.110005+00:00"
+    },
+    {
+      "name": "Kibble — Premium Fresh Dog Food",
+      "slug": "polsia-kibble-2",
+      "description": "The pet food industry built a profitability model around cheap ingredients dressed up with marketing. Corn and animal by-products became standard because they're abundant and invisible — buried in fine print, obscured by brand language like \"complete and balanced.\"",
+      "description_fr": "L’industrie des aliments pour animaux de compagnie a construit un modèle de rentabilité autour d’ingrédients bon marché agrémentés de marketing. Le maïs et les sous-produits animaux sont devenus la norme parce qu'ils sont abondants et invisibles – enfouis dans les petits caractères, obscurcis par un langage de marque comme « complet et équilibré ».",
+      "category": "Marketing & Advertising",
+      "website": "https://kibble-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T21:41:59.898107+00:00"
+    },
+    {
+      "name": "Homesight",
+      "slug": "polsia-homesight",
+      "website": "https://homesight.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-27T21:42:00.279907+00:00"
+    },
+    {
+      "name": "Verba — The Content Employee Who Never Sleeps",
+      "slug": "polsia-verba-3",
+      "description": "Verba is an autonomous AI content agency. Research, write, publish, and monitor your content — 24/7, without a human in the loop.",
+      "description_fr": "Verba est une agence de contenu IA autonome. Recherchez, rédigez, publiez et surveillez votre contenu, 24 heures sur 24, 7 jours sur 7, sans intervention humaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://verba-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T21:42:01.056080+00:00"
+    },
+    {
+      "name": "CenterNotes — Center",
+      "slug": "polsia-centernotes-os",
+      "description": "Your center's data, plans, and observations are kept entirely private. All classroom work is saved locally in your own browser's secure storage — we store nothing about your center on our servers.",
+      "description_fr": "Les données, plans et observations de votre centre restent entièrement confidentiels. Tous les travaux en classe sont enregistrés localement dans le stockage sécurisé de votre propre navigateur — nous ne stockons rien concernant votre centre sur nos serveurs.",
+      "category": "E-Commerce & Retail",
+      "website": "https://centernotes-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T21:42:01.920936+00:00"
+    },
+    {
+      "name": "Repilot — Autonomous Competitive Intelligence",
+      "slug": "polsia-re-pilot-6",
+      "description": "You're running a company. You don't have a research team. So competitor monitoring becomes the thing you know you should do but never actually do — until you get surprised by a competitor's move you should have seen coming.",
+      "description_fr": "Vous dirigez une entreprise. Vous n'avez pas d'équipe de recherche. Ainsi, la surveillance des concurrents devient la chose que vous savez que vous devriez faire mais que vous ne faites jamais réellement – ​​jusqu'à ce que vous soyez surpris par le mouvement d'un concurrent que vous auriez dû voir venir.",
+      "category": "Sustainability & Green",
+      "website": "https://re-pilot-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T21:42:02.776975+00:00"
+    },
+    {
+      "name": "LeadFlow — Never Lose an Inbound Lead Again",
+      "slug": "polsia-leadflow-15",
+      "description": "You didn't start a service business to answer phones. You started it to do the work, serve customers, and build something that lasts. But your phone rings, your team is busy, and every missed call is someone choosing your competitor.",
+      "description_fr": "Vous n'avez pas démarré une entreprise de services pour répondre au téléphone. Vous avez commencé pour faire le travail, servir les clients et construire quelque chose qui dure. Mais votre téléphone sonne, votre équipe est occupée et chaque appel manqué est une personne qui choisit votre concurrent.",
+      "category": "Marketing & Advertising",
+      "website": "https://leadflow-15.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T21:42:03.819124+00:00"
+    },
+    {
+      "name": "Oxaera",
+      "slug": "polsia-oxaera",
+      "website": "https://oxaera.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-27T21:42:04.204632+00:00"
+    },
+    {
+      "name": "ColdReach — Autonomous Outbound Sales Agent",
+      "slug": "polsia-coldreach-23",
+      "description": "Instantly, Apollo, Smartlead — they're all databases and schedulers. You still write the emails. You still decide who to target. You still manage the follow-up. That's a human job, not software.",
+      "description_fr": "Instantanément, Apollo, Smartlead : ce sont toutes des bases de données et des planificateurs. Vous écrivez toujours les e-mails. Vous décidez toujours qui cibler. Vous gérez toujours le suivi. C'est un travail humain, pas un logiciel.",
+      "category": "Sales & CRM",
+      "website": "https://coldreach-23.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T21:42:05.636896+00:00"
     }
   ]
 }
