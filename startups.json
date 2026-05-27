@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T11:01:48.092075+00:00",
+  "last_updated": "2026-05-27T14:32:49.588446+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -139655,12 +139655,15 @@
       "scraped_at": "2026-05-27T07:10:09.992581+00:00"
     },
     {
-      "name": "InteraktOS",
+      "name": "InteraktOS — Command Center for WhatsApp Business",
       "slug": "polsia-interaktos",
+      "description": "InteraktOS connects to your existing data stack — Shopify, WhatsApp Business API, your internal analytics. It doesn't replace your tools; it gives you the layer on top that turns data into decisions.",
+      "description_fr": "InteraktOS se connecte à votre pile de données existante – Shopify, WhatsApp Business API, vos analyses internes. Cela ne remplace pas vos outils ; il vous donne la couche supérieure qui transforme les données en décisions.",
+      "category": "E-Commerce & Retail",
       "website": "https://interaktos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-27T11:01:24.328232+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-27T14:32:49.586388+00:00"
     },
     {
       "name": "FortifyOS — Strategic Advisory & Growth Partners",
@@ -139760,6 +139763,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-27T11:01:37.546162+00:00"
+    },
+    {
+      "name": "MailPulse — Autonomous Cold Email Agent",
+      "slug": "polsia-mailpulse-2",
+      "description": "Stop paying agencies to send what you could write in a weekend. Stop burning yourself out doing it manually. Set MailPulse once and let it run. Every day, it gets smarter. Every week, you get results.",
+      "description_fr": "Arrêtez de payer les agences pour envoyer ce que vous pourriez écrire en un week-end. Arrêtez de vous épuiser en le faisant manuellement. Définissez MailPulse une fois et laissez-le fonctionner. Chaque jour, cela devient plus intelligent. Chaque semaine, vous obtenez des résultats.",
+      "category": "Sales & CRM",
+      "website": "https://mailpulse-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T14:32:35.008859+00:00"
+    },
+    {
+      "name": "Shelf — Curated Digital Products",
+      "slug": "polsia-shelf-digi",
+      "description": "Shelf is where professionals come to find tools that actually solve problems. No fluff. No filler. Just products built by people who know what they're doing.",
+      "description_fr": "Shelf est l'endroit où les professionnels viennent trouver des outils qui résolvent réellement les problèmes. Pas de peluches. Pas de remplissage. Juste des produits fabriqués par des gens qui savent ce qu'ils font.",
+      "category": "Other",
+      "website": "https://shelf-digi.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T14:32:36.156565+00:00"
+    },
+    {
+      "name": "Aegentics OS — Autonomous AI Workforce for MSPs",
+      "slug": "polsia-aegenticos",
+      "description": "Every action category — password resets, user provisioning, license changes, mailbox rules — can be configured independently. Adjust the autonomy level as trust grows. Nothing happens without your consent.",
+      "description_fr": "Chaque catégorie d'action (réinitialisation de mot de passe, provisionnement d'utilisateurs, modifications de licence, règles de boîte aux lettres) peut être configurée indépendamment. Ajustez le niveau d’autonomie à mesure que la confiance grandit. Rien ne se passe sans votre consentement.",
+      "category": "AI & Machine Learning",
+      "website": "https://aegenticos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T14:32:37.727917+00:00"
+    },
+    {
+      "name": "SMMastersOS — Your Business, Running Itself",
+      "slug": "polsia-smmastersos",
+      "description": "Most businesses built on courses, coaching, and content run on chaos. Scrambling through DMs. Manual invoice tracking. Students lost in the void. SMMastersOS changes that. It turns scattered operations into a system that runs whether you're at the desk or not.",
+      "description_fr": "La plupart des entreprises fondées sur des cours, du coaching et du contenu fonctionnent dans le chaos. Parcourir les DM. Suivi manuel des factures. Des étudiants perdus dans le vide. SMMastersOS change cela. Il transforme les opérations dispersées en un système qui fonctionne que vous soyez au bureau ou non.",
+      "category": "Education",
+      "website": "https://smmastersos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T14:32:39.092116+00:00"
+    },
+    {
+      "name": "DeckForge — Institutional",
+      "slug": "polsia-deckforge-5",
+      "description": "BOVs and OMs follow a predictable structure — market analysis, comparable sales, financial projections, investment summary. The content changes; the architecture doesn't. That's exactly where AI excels.",
+      "description_fr": "Les BOV et les OM suivent une structure prévisible : analyse de marché, ventes comparables, projections financières, résumé des investissements. Le contenu change ; l'architecture ne le fait pas. C'est exactement là que l'IA excelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://deckforge-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T14:32:40.755244+00:00"
+    },
+    {
+      "name": "PostLocal — Social Media for Local Businesses",
+      "slug": "polsia-postlocal-6",
+      "description": "Professional social media management for salons, restaurants, clinics, and shops. 12-16 posts a month, captions, comments, reports.",
+      "description_fr": "Gestion professionnelle des médias sociaux pour les salons, restaurants, cliniques et magasins. 12 à 16 publications par mois, légendes, commentaires, rapports.",
+      "category": "E-Commerce & Retail",
+      "website": "https://postlocal-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T14:32:42.037366+00:00"
+    },
+    {
+      "name": "Castform — AI SDR Agent",
+      "slug": "polsia-castform-3",
+      "description": "Castform researches your prospects, runs personalized outreach sequences across email and LinkedIn, and books meetings on your calendar — without a single human touch.",
+      "description_fr": "Castform recherche vos prospects, exécute des séquences de sensibilisation personnalisées par courrier électronique et LinkedIn et planifie des réunions sur votre calendrier, sans une seule touche humaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://castform-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T14:32:42.797656+00:00"
+    },
+    {
+      "name": "Canvix — AI Design Sprint Agent",
+      "slug": "polsia-canvix-2",
+      "description": "Design agencies produce great work. They also produce invoices for $50K+ and timelines that stretch past your next funding round. Canvix is the infrastructure layer that makes professional design sprint output accessible to every team with a product to ship.",
+      "description_fr": "Les agences de design produisent un excellent travail. Ils produisent également des factures de plus de 50 000 $ et des délais qui s'étendent au-delà de votre prochain cycle de financement. Canvix est la couche d'infrastructure qui rend les résultats des sprints de conception professionnels accessibles à chaque équipe ayant un produit à expédier.",
+      "category": "AI & Machine Learning",
+      "website": "https://canvix-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T14:32:44.414261+00:00"
+    },
+    {
+      "name": "StructDrop — Learn Data Structures the Smart Way",
+      "slug": "polsia-structdrop",
+      "description": "AI tutor that finds your exact conceptual gap in data structures and algorithms, then teaches you exactly what you need to know.",
+      "description_fr": "Tuteur d'IA qui trouve votre lacune conceptuelle exacte dans les structures de données et les algorithmes, puis vous enseigne exactement ce que vous devez savoir.",
+      "category": "AI & Machine Learning",
+      "website": "https://structdrop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T14:32:45.389900+00:00"
+    },
+    {
+      "name": "ShieldLine — Compliance & Security Consulting for SMBs",
+      "slug": "polsia-shieldline-3",
+      "description": "CMMC certification is now a prerequisite for DoD contract eligibility. HIPAA enforcement is accelerating. Enterprise buyers are requiring SOC 2 reports before signing contracts. The window for moving slowly on compliance is closing.",
+      "description_fr": "La certification CMMC est désormais une condition préalable à l’éligibilité au contrat du DoD. L’application de la HIPAA s’accélère. Les acheteurs d'entreprise exigent des rapports SOC 2 avant de signer des contrats. La fenêtre permettant d’avancer lentement en matière de conformité se ferme.",
+      "category": "Consulting & Services",
+      "website": "https://shieldline-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T14:32:46.921900+00:00"
     }
   ]
 }
