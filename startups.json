@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T21:42:08.120644+00:00",
+  "last_updated": "2026-05-27T23:04:43.926736+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -140095,20 +140095,26 @@
       "scraped_at": "2026-05-27T19:49:57.330120+00:00"
     },
     {
-      "name": "PepGodOS",
+      "name": "Pep God — Peptide AI",
       "slug": "polsia-pepgodos",
+      "description": "Every biohacker has spent hours digging through forums to piece together a single protocol. Pep God changes that by giving you the research layer — the dosing math, the half-life data, the cycling logic — in one place, instantly.",
+      "description_fr": "Chaque biohacker a passé des heures à parcourir les forums pour élaborer un protocole unique. Pep God change cela en vous donnant la couche de recherche – les calculs de dosage, les données de demi-vie, la logique du cycle – en un seul endroit, instantanément.",
+      "category": "AI & Machine Learning",
       "website": "https://pepgodos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-27T21:41:57.730172+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:40.453584+00:00"
     },
     {
-      "name": "StealthFlow",
+      "name": "StealthFlow — AI Chief of Staff for Engineering Teams",
       "slug": "polsia-stealthflow",
+      "description": "StealthFlow watches your Linear, GitHub, and Jira around the clock. When a PR sits unreviewed, a task goes dark, or a deadline approaches — it alerts the right person automatically. Before it's a problem.",
+      "description_fr": "StealthFlow surveille votre Linear, GitHub et Jira 24 heures sur 24. Lorsqu'un PR n'est pas examiné, qu'une tâche devient sombre ou qu'une date limite approche : il alerte automatiquement la bonne personne. Avant, c'est un problème.",
+      "category": "AI & Machine Learning",
       "website": "https://stealthflow.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-27T21:41:58.110005+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:42.006097+00:00"
     },
     {
       "name": "Kibble — Premium Fresh Dog Food",
@@ -140124,10 +140130,13 @@
     {
       "name": "Homesight",
       "slug": "polsia-homesight",
+      "description": "AI-powered home inspection. Point your camera at any problem and get instant diagnosis, urgency level, repair estimates, and vetted local contractors.",
+      "description_fr": "Inspection de maison basée sur l'IA. Dirigez votre caméra vers n'importe quel problème et obtenez un diagnostic instantané, un niveau d'urgence, des estimations de réparation et des entrepreneurs locaux approuvés.",
+      "category": "AI & Machine Learning",
       "website": "https://homesight.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-27T21:42:00.279907+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:42.729560+00:00"
     },
     {
       "name": "Verba — The Content Employee Who Never Sleeps",
@@ -140174,12 +140183,15 @@
       "scraped_at": "2026-05-27T21:42:03.819124+00:00"
     },
     {
-      "name": "Oxaera",
+      "name": "Oxaera — Muscle Metabolic Health, Observed",
       "slug": "polsia-oxaera",
+      "description": "The difference between a $35 NIRS sensor and a $35,000 clinic device is calibration and validation. Oxaera combines the accessibility of consumer hardware with the scientific rigor of a decade of clinical research — so your body becomes an observable system, not a mystery.",
+      "description_fr": "La différence entre un capteur NIRS à 35 $ et un appareil clinique à 35 000 $ réside dans l’étalonnage et la validation. Oxaera combine l'accessibilité du matériel grand public avec la rigueur scientifique d'une décennie de recherche clinique — afin que votre corps devienne un système observable et non un mystère.",
+      "category": "Health & Wellness",
       "website": "https://oxaera.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-27T21:42:04.204632+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:43.924959+00:00"
     },
     {
       "name": "ColdReach — Autonomous Outbound Sales Agent",
@@ -140191,6 +140203,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-27T21:42:05.636896+00:00"
+    },
+    {
+      "name": "MoveOS — Operating System for Removal Businesses",
+      "slug": "polsia-moveos-5",
+      "description": "One platform to manage leads, jobs, crew, and revenue. Built for removal companies doing 50+ moves a week.",
+      "description_fr": "Une plateforme pour gérer les leads, les tâches, l'équipe et les revenus. Conçu pour les entreprises de déménagement effectuant plus de 50 déménagements par semaine.",
+      "category": "Software & SaaS",
+      "website": "https://moveos-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:28.982706+00:00"
+    },
+    {
+      "name": "Marbe Sandals — Handmade Leather Sandals in Athens",
+      "slug": "polsia-marbeos",
+      "description": "Craft your own pair of handmade Greek leather sandals with master craftsman Dimitris Lambros at his Athens Riviera workshop. An experience you'll wear for life.",
+      "description_fr": "Fabriquez votre propre paire de sandales en cuir grec faites à la main avec le maître artisan Dimitris Lambros dans son atelier Athens Riviera. Une expérience que vous porterez toute votre vie.",
+      "category": "E-Commerce & Retail",
+      "website": "https://marbeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:29.623749+00:00"
+    },
+    {
+      "name": "Spread — AI Agents for Local Businesses",
+      "slug": "polsia-spread",
+      "description": "Every unanswered call is a number in your pocket that didn't get filled. Every voicemail is a job you didn't book. Spread makes sure nothing falls through. Your AI is always on. The spread is always in your favor.",
+      "description_fr": "Chaque appel sans réponse est un numéro dans votre poche qui n'a pas été rempli. Chaque message vocal est un travail que vous n'avez pas réservé. Spread garantit que rien ne passe à travers. Votre IA est toujours active. La propagation est toujours en votre faveur.",
+      "category": "AI & Machine Learning",
+      "website": "https://spread.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:31.815808+00:00"
+    },
+    {
+      "name": "SignalSync — Autonomous Scheduling Agent",
+      "slug": "polsia-signalsync-2",
+      "description": "SignalSync is built for teams that move fast and can't afford to lose hours every week to scheduling logistics. It's an AI employee that handles the coordination so you can focus on the work that matters.",
+      "description_fr": "SignalSync est conçu pour les équipes qui évoluent rapidement et ne peuvent pas se permettre de perdre des heures chaque semaine à planifier la logistique. C'est un employé d'IA qui gère la coordination afin que vous puissiez vous concentrer sur le travail qui compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://signalsync-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:32.553625+00:00"
+    },
+    {
+      "name": "BenefitPilot — AI Benefits Advisor",
+      "slug": "polsia-benefitpilot-3",
+      "description": "The autonomous AI that guides every employee to the right health plan. 24/7. Infinite scale. Zero overhead.",
+      "description_fr": "L’IA autonome qui guide chaque collaborateur vers le bon plan santé. 24h/24 et 7j/7. Échelle infinie. Zéro frais généraux.",
+      "category": "AI & Machine Learning",
+      "website": "https://benefitpilot-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:33.673344+00:00"
+    },
+    {
+      "name": "Arogeva — Functional Nutrition, Rooted in Science",
+      "slug": "polsia-arogeva",
+      "description": "Most nutrition apps tell you what to eat. Arogeva tells you why — and how your body responds to it. Built on functional medicine's systems biology framework, fused with Ayurvedic principles, and anchored in the dietary realities of Indian life: Jain fasting, Karwa Chauth, Navratri, menstrual cycle phases, pregnancy, postpartum, and pediatric development.",
+      "description_fr": "La plupart des applications de nutrition vous disent quoi manger. Arogeva vous explique pourquoi et comment votre corps y réagit. Construit sur le cadre de biologie systémique de la médecine fonctionnelle, fusionné avec les principes ayurvédiques et ancré dans les réalités alimentaires de la vie indienne : jeûne Jain, Karwa Chauth, Navratri, phases du cycle menstruel, grossesse, post-partum et développement pédiatrique.",
+      "category": "Health & Wellness",
+      "website": "https://arogeva.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:34.742752+00:00"
+    },
+    {
+      "name": "WordForge — AI Publishing for Faith",
+      "slug": "polsia-wordforge-2",
+      "description": "For thirty years, publishers like Warren Angel have carried this work forward — one manuscript at a time, one author's story at a time. The problem was never the stories. The problem was infrastructure: too much manual work, too little distribution reach, too few tools built specifically for this audience.",
+      "description_fr": "Pendant trente ans, des éditeurs comme Warren Angel ont poursuivi ce travail – un manuscrit à la fois, l'histoire d'un auteur à la fois. Le problème n’a jamais été les histoires. Le problème était l’infrastructure : trop de travail manuel, trop peu de portée de distribution, trop peu d’outils conçus spécifiquement pour ce public.",
+      "category": "AI & Machine Learning",
+      "website": "https://wordforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:36.287668+00:00"
+    },
+    {
+      "name": "Patrimo — Know Your Net Worth, Down to the Dollar",
+      "slug": "polsia-patrimoos",
+      "description": "Track cash, investments, crypto, and real estate across every currency you hold. Privacy-first. No bank login required.",
+      "description_fr": "Suivez les liquidités, les investissements, les cryptomonnaies et les biens immobiliers dans toutes les devises que vous détenez. La confidentialité avant tout. Aucune connexion bancaire requise.",
+      "category": "Finance & Fintech",
+      "website": "https://patrimoos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:37.773989+00:00"
+    },
+    {
+      "name": "Pagepilot — Your calendar never bugs you again",
+      "slug": "polsia-pagepilot-434ba2",
+      "description": "Pagepilot is an AI employee that monitors your schedule, finds open slots, contacts attendees, and confirms meetings — autonomously, 24/7. You stop sending scheduling emails.",
+      "description_fr": "Pagepilot est un employé IA qui surveille votre emploi du temps, trouve des créneaux libres, contacte les participants et confirme les réunions, de manière autonome, 24h/24 et 7j/7. Vous arrêtez d'envoyer des e-mails de planification.",
+      "category": "AI & Machine Learning",
+      "website": "https://pagepilot-434ba2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:38.358424+00:00"
+    },
+    {
+      "name": "NetCar Services — Roadside Rescue, Reseda CA",
+      "slug": "polsia-rescueos-3",
+      "description": "NetCar Services was built on a simple idea: show up on time, do the job right, charge what you say you will. Nine years later, that's still the only way we do business. No surprise fees, no upselling, no runaround. Just the help you need, when you need it.",
+      "description_fr": "NetCar Services a été construit sur une idée simple : arriver à l'heure, faire le travail correctement, facturer ce que vous dites. Neuf ans plus tard, c'est toujours la seule façon dont nous faisons des affaires. Pas de frais surprises, pas de vente incitative, pas de détournement. Juste l'aide dont vous avez besoin, quand vous en avez besoin.",
+      "category": "Other",
+      "website": "https://rescueos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-27T23:04:39.176865+00:00"
     }
   ]
 }
