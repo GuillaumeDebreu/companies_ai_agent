@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T16:01:24.228098+00:00",
+  "last_updated": "2026-05-28T16:22:26.980357+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -140477,12 +140477,15 @@
       "scraped_at": "2026-05-28T08:33:19.961979+00:00"
     },
     {
-      "name": "ClipStack",
+      "name": "ClipStack — Short",
       "slug": "polsia-clipstack-54",
+      "description": "ClipStack delivers polished short-form video clips every week so you can stay on brand without the production grind.",
+      "description_fr": "ClipStack propose chaque semaine des clips vidéo courts et raffinés afin que vous puissiez rester fidèle à votre marque sans le travail de production.",
+      "category": "Marketing & Advertising",
       "website": "https://clipstack-54.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-28T04:41:01.051523+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-28T16:22:25.245697+00:00"
     },
     {
       "name": "EarnAI",
@@ -140636,12 +140639,15 @@
       "scraped_at": "2026-05-28T08:33:15.337014+00:00"
     },
     {
-      "name": "Meridian",
+      "name": "Meridian — AI That Works While You Sleep",
       "slug": "polsia-meridian-ai-57",
+      "description": "\"The average founder loses 6 hours a week to competitor research, market monitoring, and opportunity scouting. That's time not spent building, selling, or closing. Meridian exists to take that burden — and turn information overhead into a strategic advantage.\"",
+      "description_fr": "\"Le fondateur moyen perd 6 heures par semaine en recherche de concurrents, en surveillance de marché et en recherche d'opportunités. Ce temps n'est pas consacré à la construction, à la vente ou à la clôture. Meridian existe pour assumer ce fardeau et transformer les informations en un avantage stratégique.\"",
+      "category": "AI & Machine Learning",
       "website": "https://meridian-ai-57.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-28T12:01:31.750039+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-28T16:22:26.892514+00:00"
     },
     {
       "name": "CaatsOS — Operating System for Caats",
@@ -140741,6 +140747,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-28T12:01:43.136898+00:00"
+    },
+    {
+      "name": "TaskForce",
+      "slug": "polsia-taskforce-ai",
+      "website": "https://taskforce-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-28T16:22:14.456195+00:00"
+    },
+    {
+      "name": "FormMachine — API",
+      "slug": "polsia-formmachine",
+      "description": "Every major tax filing product is designed around the human experience. Questions answered, boxes checked, forms walked through. That's fine for individuals. It's useless for software.",
+      "description_fr": "Tous les principaux produits de déclaration de revenus sont conçus autour de l’expérience humaine. Réponses aux questions, cases cochées, formulaires parcourus. C'est bien pour les particuliers. C'est inutile pour les logiciels.",
+      "category": "Software & SaaS",
+      "website": "https://formmachine.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T16:22:15.974376+00:00"
+    },
+    {
+      "name": "ShipFast — Autonomous Product Development",
+      "slug": "polsia-shipfast-ai-8",
+      "description": "Most indie founders stall not from lack of ideas but from everything after: the weeks of research, the endless build sessions, the launch anxiety, the marketing grind. ShipFast handles all of it. You stay in the loop on big decisions, and the agents run everything in between.",
+      "description_fr": "La plupart des fondateurs indépendants ne calent pas par manque d'idées mais à cause de tout ce qui suit : les semaines de recherche, les sessions de construction interminables, l'anxiété du lancement, le travail de marketing. ShipFast gère tout cela. Vous restez au courant des grandes décisions et les agents gèrent tout le reste.",
+      "category": "Marketing & Advertising",
+      "website": "https://shipfast-ai-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T16:22:17.452962+00:00"
+    },
+    {
+      "name": "Hélice — Bionic for Everyone",
+      "slug": "polsia-heliceos",
+      "description": "Retinal implants. Neuroprosthetics. Artificial organs. Bionic arms that feel like arms. Hélice is building the financial infrastructure that makes these accessible to the people who need them most.",
+      "description_fr": "Implants rétiniens. Neuroprothèses. Organes artificiels. Des bras bioniques qui ressemblent à des bras. Hélice construit l'infrastructure financière qui les rend accessibles aux personnes qui en ont le plus besoin.",
+      "category": "Finance & Fintech",
+      "website": "https://heliceos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T16:22:18.262151+00:00"
+    },
+    {
+      "name": "OutboundIQ — Autonomous Cold Email Agent",
+      "slug": "polsia-outboundiq-20",
+      "description": "AI runs your entire cold email outbound — from ICP research to booked meetings. No agency. No SDR. No ceiling.",
+      "description_fr": "L'IA gère l'intégralité de vos e-mails froids sortants, de la recherche ICP aux réunions réservées. Pas d'agence. Pas de DTS. Pas de plafond.",
+      "category": "AI & Machine Learning",
+      "website": "https://outboundiq-20.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T16:22:19.230668+00:00"
+    },
+    {
+      "name": "DataSentri — Metrics That Alert You",
+      "slug": "polsia-datasentri",
+      "description": "DataSentri watches your data around the clock and sends you actionable alerts the moment something needs your attention — before the meeting, before the deadline, before the problem grows.",
+      "description_fr": "DataSentri surveille vos données 24 heures sur 24 et vous envoie des alertes exploitables dès que quelque chose nécessite votre attention – avant la réunion, avant la date limite, avant que le problème ne s'aggrave.",
+      "category": "Other",
+      "website": "https://datasentri.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T16:22:19.807304+00:00"
+    },
+    {
+      "name": "DiasporaBridge — UK",
+      "slug": "polsia-diasporabridge",
+      "description": "The capital is already there. The diaspora is already sending it. What hasn't been built is the bridge — a platform that transforms passive flows into productive investment, and positions Kenya's diaspora as the engine of the country's next growth chapter.",
+      "description_fr": "La capitale est déjà là. La diaspora l’envoie déjà. Ce qui n'a pas été construit, c'est le pont – une plate-forme qui transforme les flux passifs en investissements productifs et positionne la diaspora kenyane comme le moteur du prochain chapitre de croissance du pays.",
+      "category": "Software & SaaS",
+      "website": "https://diasporabridge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T16:22:21.229984+00:00"
+    },
+    {
+      "name": "ProjectForge — Turn Homework Into Stunning Projects",
+      "slug": "polsia-projectforge-2",
+      "description": "Generate worksheets, test papers, and practice sheets in seconds. Select the topic, choose the difficulty, and download print-ready files. One platform becomes your entire content factory.",
+      "description_fr": "Générez des feuilles de travail, des épreuves et des feuilles de pratique en quelques secondes. Sélectionnez le sujet, choisissez la difficulté et téléchargez les fichiers prêts à imprimer. Une plate-forme devient l’intégralité de votre usine de contenu.",
+      "category": "Software & SaaS",
+      "website": "https://projectforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T16:22:22.461071+00:00"
+    },
+    {
+      "name": "Hang — Just Shoot the Shit",
+      "slug": "polsia-hang",
+      "description": "Platforms hook you to the platform. Not to people. The scroll never ends, the comparison never stops, and the conversation never goes anywhere real. Therapy helps — but it's scheduled, clinical, and expensive. What people actually need is somewhere to just... talk. Without goals. Without judgment. Without it meaning anything.",
+      "description_fr": "Les plates-formes vous accrochent à la plate-forme. Pas aux gens. Le défilement ne se termine jamais, la comparaison ne s’arrête jamais et la conversation ne mène jamais à un résultat réel. La thérapie aide, mais elle est programmée, clinique et coûteuse. Ce dont les gens ont réellement besoin, c'est d'un endroit pour simplement... parler. Sans buts. Sans jugement. Sans que cela ne veuille rien dire.",
+      "category": "Health & Wellness",
+      "website": "https://hang.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T16:22:23.599289+00:00"
+    },
+    {
+      "name": "Vigilant — AI",
+      "slug": "polsia-vigilant-4",
+      "description": "A business owner with 40 employees juggles 47+ compliance deadlines per year across federal, state, and industry regulators. OSHA penalties average $16,131 per serious violation. IRS late-filing penalties start at $50 per form, per month. The IRS collected $4.7 billion in late-filing penalties in fiscal year 2025 alone.",
+      "description_fr": "Un propriétaire d'entreprise de 40 employés jongle avec plus de 47 délais de conformité par an auprès des régulateurs fédéraux, étatiques et industriels. Les sanctions de l'OSHA s'élèvent en moyenne à 16 131 $ par infraction grave. Les pénalités de l'IRS pour dépôt tardif commencent à 50 $ par formulaire et par mois. L’IRS a perçu 4,7 milliards de dollars de pénalités pour dépôt tardif au cours du seul exercice 2025.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigilant-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T16:22:24.103725+00:00"
     }
   ]
 }
