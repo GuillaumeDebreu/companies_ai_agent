@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T04:41:11.065447+00:00",
+  "last_updated": "2026-05-28T08:33:20.413796+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -140433,36 +140433,48 @@
       "scraped_at": "2026-05-28T04:40:59.885648+00:00"
     },
     {
-      "name": "WazzApp",
+      "name": "WazzApp — AI agents that run your WhatsApp business 24/7",
       "slug": "polsia-wazzapp",
+      "description": "Existing tools like Wati and Interakt are just fancy auto-reply systems. They still need a human to read and respond. WazzApp is different — an AI agent that reasons, decides, and acts.",
+      "description_fr": "Les outils existants comme Wati et Interakt ne sont que des systèmes de réponse automatique sophistiqués. Ils ont toujours besoin d’un humain pour lire et répondre. WazzApp est différent : un agent IA qui raisonne, décide et agit.",
+      "category": "AI & Machine Learning",
       "website": "https://wazzapp.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-28T04:41:00.182601+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:17.167668+00:00"
     },
     {
-      "name": "BluelineOS",
+      "name": "BluelineOS — AI for First Responders",
       "slug": "polsia-bluelineos",
+      "description": "LLMs crossed the threshold. AI agents are no longer experimental — they're reliable enough for high-stakes operational environments. The market window is open, and it won't stay open long. ServiceNow and Microsoft Copilot are moving into workflow automation horizontally. BluelineOS wins by goingdeepin public safety — not by competing with them on their terms.",
+      "description_fr": "Les LLM ont franchi le seuil. Les agents d'IA ne sont plus expérimentaux : ils sont suffisamment fiables pour les environnements opérationnels à enjeux élevés. La fenêtre du marché est ouverte, et elle ne le restera pas longtemps. ServiceNow et Microsoft Copilot se lancent horizontalement dans l'automatisation des flux de travail. BluelineOS gagne en approfondissant la sécurité publique – et non en rivalisant avec eux selon leurs conditions.",
+      "category": "AI & Machine Learning",
       "website": "https://bluelineos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-28T04:41:00.375408+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:18.418900+00:00"
     },
     {
-      "name": "Counsel",
+      "name": "Counsel — Social Media for Estate Planning Attorneys",
       "slug": "polsia-counsel-social",
+      "description": "Estate planning is a relationship business. Clients come back every three to five years. They refer their accountant, their financial advisor, their adult children. One well-placed post about trust updates can generate three qualified referrals.",
+      "description_fr": "La planification successorale est une affaire relationnelle. Les clients reviennent tous les trois à cinq ans. Ils réfèrent leur comptable, leur conseiller financier, leurs enfants majeurs. Un article bien placé sur les mises à jour de confiance peut générer trois références qualifiées.",
+      "category": "Finance & Fintech",
       "website": "https://counsel-social.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-28T04:41:00.609253+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:19.274076+00:00"
     },
     {
-      "name": "CarbonLens",
+      "name": "CarbonLens — Carbon Market Intelligence Agent",
       "slug": "polsia-carbonlens-2",
+      "description": "AI agent that monitors carbon markets, tracks regulatory changes, and delivers daily intelligence to sustainability teams.",
+      "description_fr": "Agent d'IA qui surveille les marchés du carbone, suit les changements réglementaires et fournit des informations quotidiennes aux équipes de développement durable.",
+      "category": "AI & Machine Learning",
       "website": "https://carbonlens-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-28T04:41:00.823540+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:19.961979+00:00"
     },
     {
       "name": "ClipStack",
@@ -140512,6 +140524,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-28T04:41:06.102541+00:00"
+    },
+    {
+      "name": "CycleVest — Production",
+      "slug": "polsia-cyclevest",
+      "description": "CycleVest is a marketplace where businesses raise production capital from everyday investors and permanently co-own the companies they list.",
+      "description_fr": "CycleVest est un marché où les entreprises mobilisent des capitaux de production auprès d'investisseurs ordinaires et sont copropriétaires permanents des entreprises qu'elles répertorient.",
+      "category": "Software & SaaS",
+      "website": "https://cyclevest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:04.950308+00:00"
+    },
+    {
+      "name": "TakeMyShopOS — E",
+      "slug": "polsia-takemyshopos",
+      "description": "Stop managing shops in spreadsheets and Slack threads. TakeMyShopOS gives you the command layer that lets you operate 200+ shops the way a property manager operates 200 units — systematically, predictably, at scale.",
+      "description_fr": "Arrêtez de gérer les boutiques dans les feuilles de calcul et les fils de discussion Slack. TakeMyShopOS vous offre la couche de commande qui vous permet d'exploiter plus de 200 magasins de la même manière qu'un gestionnaire immobilier gère 200 unités — de manière systématique, prévisible et à grande échelle.",
+      "category": "E-Commerce & Retail",
+      "website": "https://takemyshopos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:06.129609+00:00"
+    },
+    {
+      "name": "ChartPilot — Autonomous Charting Agent",
+      "slug": "polsia-chartpilot-2",
+      "description": "Every hour your team spends updating dashboards is an hour not building your core product. ChartPilot replaces that loop entirely — an autonomous agent that owns your data visualization so you never have to think about it again.",
+      "description_fr": "Chaque heure que votre équipe passe à mettre à jour les tableaux de bord représente une heure sans construire votre produit principal. ChartPilot remplace entièrement cette boucle : un agent autonome qui possède votre visualisation de données afin que vous n'ayez plus jamais à y penser.",
+      "category": "Software & SaaS",
+      "website": "https://chartpilot-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:06.704172+00:00"
+    },
+    {
+      "name": "ZyaraOS — Restaurant Operating System",
+      "slug": "polsia-zyaraos",
+      "description": "ZyaraOS doesn't just track your orders — it orchestrates the customer relationship. Automated loyalty rewards. Post-order follow-ups. Review responses. Inventory alerts. So you stop paying rent to Uber and start owning your repeat customers.",
+      "description_fr": "ZyaraOS ne se contente pas de suivre vos commandes, il orchestre la relation client. Récompenses de fidélité automatisées. Suivis post-commande. Examinez les réponses. Alertes d'inventaire. Vous arrêtez donc de payer un loyer à Uber et commencez à posséder vos clients réguliers.",
+      "category": "Food & Beverage",
+      "website": "https://zyaraos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:08.404202+00:00"
+    },
+    {
+      "name": "SignalOS — Your Competitor Analyst, 24/7",
+      "slug": "polsia-signalos-27",
+      "description": "SignalOS is an AI employee that watches competitor websites continuously — pricing pages, product features, job listings — and fires Slack alerts the moment something changes. No manual checking. No missed moves.",
+      "description_fr": "SignalOS est un employé d'IA qui surveille en permanence les sites Web des concurrents (pages de tarification, caractéristiques des produits, offres d'emploi) et déclenche des alertes Slack dès que quelque chose change. Aucune vérification manuelle. Aucun mouvement manqué.",
+      "category": "AI & Machine Learning",
+      "website": "https://signalos-27.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:09.489392+00:00"
+    },
+    {
+      "name": "LocalBeam — AI Content & Lead Generation for Local Businesses",
+      "slug": "polsia-localbeam-2",
+      "description": "Local businesses deserve the same marketing firepower as enterprise brands. Now they have it — and so do the agencies that serve them.",
+      "description_fr": "Les entreprises locales méritent la même puissance marketing que les marques d’entreprise. Maintenant, ils l’ont – tout comme les agences qui les servent.",
+      "category": "Marketing & Advertising",
+      "website": "https://localbeam-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:10.455437+00:00"
+    },
+    {
+      "name": "ContextOS — Intelligence Operations System",
+      "slug": "polsia-contextandaction",
+      "description": "No black-box AI. No satellite illusions. Human sensors embedded in the field. DGSE-origin methodology. Structured frameworks that survive contact with reality. The information is only as good as the sensor network reading it — and that is where Context&Action operates.",
+      "description_fr": "Pas d’IA boîte noire. Aucune illusion de satellite. Des capteurs humains embarqués sur le terrain. Méthodologie d’origine DGSE. Des cadres structurés qui survivent au contact avec la réalité. La qualité des informations dépend de la qualité du réseau de capteurs qui les lit – et c’est là que Context&Action opère.",
+      "category": "AI & Machine Learning",
+      "website": "https://contextandaction.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:11.995794+00:00"
+    },
+    {
+      "name": "Sendra — AI Sales Agent",
+      "slug": "polsia-sendra-3",
+      "description": "Sendra is an AI agent that researches your best-fit prospects, writes personalized cold emails, sends at the right moment, follows up on silence, and reports what is actually working. No templates. No guessing. No headcount.",
+      "description_fr": "Sendra est un agent IA qui recherche vos prospects les plus adaptés, rédige des e-mails froids personnalisés, les envoie au bon moment, assure le suivi du silence et rapporte ce qui fonctionne réellement. Aucun modèle. Aucune supposition. Aucun effectif.",
+      "category": "Sales & CRM",
+      "website": "https://sendra-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:13.606884+00:00"
+    },
+    {
+      "name": "Fluxops — AI",
+      "slug": "polsia-fluxops-8",
+      "description": "No \"if this, then that\" logic. The agent understands the situation — why an order is flagged, what a customer actually needs, whether a stock level is a real problem. It reasons before it acts.",
+      "description_fr": "Pas de logique du « si ceci, alors cela ». L'agent comprend la situation : pourquoi une commande est signalée, ce dont un client a réellement besoin, si le niveau de stock constitue un réel problème. Il raisonne avant d'agir.",
+      "category": "AI & Machine Learning",
+      "website": "https://fluxops-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:14.752663+00:00"
+    },
+    {
+      "name": "Pivotly — AI Agents for ABA Practices",
+      "slug": "polsia-pivotly-aba",
+      "description": "AI agents that run your ABA practice autonomously. Session notes, parent updates, billing, intake — handled while you focus on clients.",
+      "description_fr": "Des agents IA qui gèrent votre pratique ABA de manière autonome. Notes de session, mises à jour des parents, facturation, admission – gérées pendant que vous vous concentrez sur les clients.",
+      "category": "AI & Machine Learning",
+      "website": "https://pivotly-aba.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T08:33:15.337014+00:00"
     }
   ]
 }
