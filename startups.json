@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T16:22:26.980357+00:00",
+  "last_updated": "2026-05-28T19:08:22.847281+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -140749,12 +140749,15 @@
       "scraped_at": "2026-05-28T12:01:43.136898+00:00"
     },
     {
-      "name": "TaskForce",
+      "name": "TaskForce — Autonomous L&D Operations",
       "slug": "polsia-taskforce-ai",
+      "description": "Most companies treat their training department as an administrative backwater. The ones that get it right — the ones building real workforce capability — they automate the logistics and let their L&D leaders do the work that actually matters: designing learning that changes how people perform.",
+      "description_fr": "La plupart des entreprises considèrent leur service de formation comme un trou perdu administratif. Ceux qui réussissent – ​​ceux qui créent de véritables capacités de main-d’œuvre – automatisent la logistique et laissent leurs responsables L&D faire le travail qui compte réellement : concevoir un apprentissage qui change la façon dont les gens fonctionnent.",
+      "category": "Education",
       "website": "https://taskforce-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-28T16:22:14.456195+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-28T19:08:21.613796+00:00"
     },
     {
       "name": "FormMachine — API",
@@ -140854,6 +140857,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-28T16:22:24.103725+00:00"
+    },
+    {
+      "name": "KartPulseOS",
+      "slug": "polsia-kartpulseos",
+      "website": "https://kartpulseos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-28T19:08:07.038594+00:00"
+    },
+    {
+      "name": "HippocrateOS",
+      "slug": "polsia-hippocrate-os",
+      "website": "https://hippocrate-os.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-28T19:08:07.361389+00:00"
+    },
+    {
+      "name": "CropOS — AI Farm Management",
+      "slug": "polsia-crop-os",
+      "description": "CropOS is being built for Brazilian agriculture from the ground up. Built by people who understand the land, the supply chain, and the reality of running a farm at scale. This isn't a Silicon Valley product ported over — it's the tool Brazilian farmers have been waiting for.",
+      "description_fr": "CropOS est conçu à partir de zéro pour l’agriculture brésilienne. Construit par des personnes qui comprennent la terre, la chaîne d'approvisionnement et la réalité de la gestion d'une ferme à grande échelle. Il ne s'agit pas d'un produit de la Silicon Valley, mais de l'outil que les agriculteurs brésiliens attendaient.",
+      "category": "AI & Machine Learning",
+      "website": "https://crop-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T19:08:22.845593+00:00"
+    },
+    {
+      "name": "TradePilot — Forex Trading, Automated",
+      "slug": "polsia-tradepilot-9",
+      "description": "Consistency is the edge. Not reading charts for eight hours. Not checking your phone every five minutes. Not being locked out of a move because you were in a meeting, at dinner, or asleep. The edge is the system that works when you don't. TradePilot is that system.",
+      "description_fr": "La cohérence est l'avantage. Je n'ai pas lu les graphiques pendant huit heures. Ne pas vérifier votre téléphone toutes les cinq minutes. Ne pas être empêché de bouger parce que vous étiez en réunion, en train de dîner ou endormi. L'avantage est le système qui fonctionne lorsque vous ne le faites pas. TradePilot est ce système.",
+      "category": "Finance & Fintech",
+      "website": "https://tradepilot-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T19:08:10.882474+00:00"
+    },
+    {
+      "name": "StackSync — Remote Project Coordination for Remodeling Contractors",
+      "slug": "polsia-stacksync-3",
+      "description": "We handle the admin side of your remodeling projects — daily logs, client updates, change orders, work orders, and schedules — so you stay in the field and out of the paperwork.",
+      "description_fr": "Nous nous occupons du côté administratif de vos projets de rénovation (journaux quotidiens, mises à jour des clients, ordres de modification, ordres de travail et calendriers) afin que vous restiez sur le terrain et à l'écart de la paperasse.",
+      "category": "Other",
+      "website": "https://stacksync-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T19:08:12.375104+00:00"
+    },
+    {
+      "name": "Vantage Health — AI",
+      "slug": "polsia-vantage-health",
+      "description": "Autonomous AI agents that generate health economics reports, budget impact models, and reimbursement dossiers for medtech companies.",
+      "description_fr": "Agents d'IA autonomes qui génèrent des rapports sur l'économie de la santé, des modèles d'impact budgétaire et des dossiers de remboursement pour les entreprises de technologie médicale.",
+      "category": "AI & Machine Learning",
+      "website": "https://vantage-health.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T19:08:13.351416+00:00"
+    },
+    {
+      "name": "Nukhbah — Autonomous UX Design Agent",
+      "slug": "polsia-nukhbah",
+      "description": "Nukhbah changes the math. One autonomous agent does what a team of five designers does — research, wireframing, visual design, testing, iteration — at a fraction of the cost and running around the clock.",
+      "description_fr": "Nukhbah change les calculs. Un agent autonome fait ce que fait une équipe de cinq concepteurs : recherche, wireframing, conception visuelle, tests, itérations - à une fraction du coût et en fonctionnant 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://nukhbah.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T19:08:15.107530+00:00"
+    },
+    {
+      "name": "Publica — Open Data, Structured for Enterprise",
+      "slug": "polsia-publica-data",
+      "description": "UK company data moves billions in investment, credit, compliance, and research. Publica turns the government's own published records into the structured, query-ready intelligence that the data economy demands.",
+      "description_fr": "Les données des entreprises britanniques déplacent des milliards en investissements, en crédit, en conformité et en recherche. Publica transforme les propres documents publiés par le gouvernement en renseignements structurés et prêts à être interrogés qu'exige l'économie des données.",
+      "category": "Finance & Fintech",
+      "website": "https://publica-data.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T19:08:16.542888+00:00"
+    },
+    {
+      "name": "CloseBase",
+      "slug": "polsia-closebase-2",
+      "description": "CloseBase handles lead follow-up, scheduling, and client communication so real estate agents close more deals and waste less time on busywork.",
+      "description_fr": "CloseBase gère le suivi des leads, la planification et la communication avec les clients afin que les agents immobiliers concluent plus de transactions et perdent moins de temps à travailler dur.",
+      "category": "Marketing & Advertising",
+      "website": "https://closebase-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T19:08:17.705350+00:00"
+    },
+    {
+      "name": "LeadLoop — CRM for Lead Providers",
+      "slug": "polsia-leadloop-83",
+      "description": "Build invoices from within the CRM — tied directly to leads delivered. Set up recurring billing for retainer clients. Track payment status without leaving the platform. Stripe handles the rest.",
+      "description_fr": "Créez des factures à partir du CRM, directement liées aux prospects livrés. Configurez une facturation récurrente pour les clients fidèles. Suivez l’état du paiement sans quitter la plateforme. Stripe s’occupe du reste.",
+      "category": "Finance & Fintech",
+      "website": "https://leadloop-83.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-28T19:08:19.153468+00:00"
     }
   ]
 }
