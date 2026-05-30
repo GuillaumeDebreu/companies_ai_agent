@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T20:15:52.358122+00:00",
+  "last_updated": "2026-05-30T21:17:05.703371+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -143244,20 +143244,26 @@
       "scraped_at": "2026-05-30T19:04:02.658691+00:00"
     },
     {
-      "name": "ReframeOS",
+      "name": "ReframeOS — Operating System for Faith",
       "slug": "polsia-reframeos-2",
+      "description": "ReframeOS runs the operations, content, and growth for your print-on-demand brand — so you can focus on what you're building.",
+      "description_fr": "ReframeOS gère les opérations, le contenu et la croissance de votre marque d'impression à la demande, afin que vous puissiez vous concentrer sur ce que vous construisez.",
+      "category": "Marketing & Advertising",
       "website": "https://reframeos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-30T20:15:39.545480+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-30T21:17:04.746190+00:00"
     },
     {
-      "name": "PromptOS",
+      "name": "NicePrompt — Prompts as a first",
       "slug": "polsia-promptos-2",
+      "description": "Organize, improve, and sync your AI prompts across your development workflow. The prompt management tool built for developers.",
+      "description_fr": "Organisez, améliorez et synchronisez vos invites d'IA dans votre flux de travail de développement. L'outil de gestion rapide conçu pour les développeurs.",
+      "category": "AI & Machine Learning",
       "website": "https://promptos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-30T20:15:39.812204+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-30T21:17:05.384771+00:00"
     },
     {
       "name": "VetCoder — Autonomous PR Security Reviews",
@@ -143346,6 +143352,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-30T20:15:50.649661+00:00"
+    },
+    {
+      "name": "SmileVault",
+      "slug": "polsia-smilevault",
+      "website": "https://smilevault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-30T21:16:51.216736+00:00"
+    },
+    {
+      "name": "TrackOS",
+      "slug": "polsia-trackos",
+      "website": "https://trackos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-30T21:16:51.621933+00:00"
+    },
+    {
+      "name": "Reeva — Your Autonomous Sales Development Agent",
+      "slug": "polsia-reeva-ai",
+      "description": "Reeva runs your entire outbound sales motion — prospect research, personalized outreach, follow-ups — 24/7. No SDR hire required.",
+      "description_fr": "Reeva gère l'intégralité de votre mouvement de vente sortante (recherche de prospects, sensibilisation personnalisée, suivis) 24h/24 et 7j/7. Aucune location de SDR requise.",
+      "category": "Sales & CRM",
+      "website": "https://reeva-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T21:16:52.961491+00:00"
+    },
+    {
+      "name": "TenantLine",
+      "slug": "polsia-tenantline-2",
+      "website": "https://tenantline-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-30T21:16:53.322036+00:00"
+    },
+    {
+      "name": "Pageflow — AI Document Agents",
+      "slug": "polsia-pageflow-ai-23",
+      "description": "Traditional document tools — SDKs, parsers, OCR — require developers to build and maintain integrations. They're reactive: you ask, it answers. Pageflow is proactive. It monitors your sources and acts without being prompted.",
+      "description_fr": "Les outils documentaires traditionnels (SDK, analyseurs, OCR) obligent les développeurs à créer et à maintenir des intégrations. Ils sont réactifs : vous demandez, il répond. Pageflow est proactif. Il surveille vos sources et agit sans y être invité.",
+      "category": "AI & Machine Learning",
+      "website": "https://pageflow-ai-23.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T21:16:54.941323+00:00"
+    },
+    {
+      "name": "CloudonixOS — Operating System for Cloudonix",
+      "slug": "polsia-cloudonixos",
+      "description": "No per-minute billing traps. No vendor lock-in. Just reliable, global, agnostic connectivity between your telephony and the AI voice agents shaping the future of customer experience.",
+      "description_fr": "Pas de pièges de facturation à la minute. Pas de dépendance envers un fournisseur. Juste une connectivité fiable, globale et agnostique entre votre téléphonie et les agents vocaux IA qui façonnent l’avenir de l’expérience client.",
+      "category": "AI & Machine Learning",
+      "website": "https://cloudonixos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T21:16:56.312197+00:00"
+    },
+    {
+      "name": "Fynn — AI Sales Agent",
+      "slug": "polsia-fynn-ai",
+      "description": "Fynn finds your ideal prospects, researches them deeply, and runs full outbound campaigns — personalized cold email, follow-up sequences, and reply detection — without you lifting a finger.",
+      "description_fr": "Fynn trouve vos prospects idéaux, les recherche en profondeur et mène des campagnes sortantes complètes (e-mails froids personnalisés, séquences de suivi et détection des réponses) sans que vous leviez le petit doigt.",
+      "category": "Sales & CRM",
+      "website": "https://fynn-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T21:16:57.613667+00:00"
+    },
+    {
+      "name": "SoleVault",
+      "slug": "polsia-sole-vault",
+      "description": "SoleVault is a pre-order marketplace for shoes. Designers post designs, buyers commit, and production only starts when the threshold is met. No waste, no inventory, no guessing.",
+      "description_fr": "SoleVault est un marché de précommande de chaussures. Les concepteurs publient leurs créations, les acheteurs s'engagent et la production ne démarre que lorsque le seuil est atteint. Pas de gaspillage, pas d'inventaire, pas de devinettes.",
+      "category": "E-Commerce & Retail",
+      "website": "https://sole-vault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T21:16:59.119784+00:00"
+    },
+    {
+      "name": "ControlRoom — Take Back Control of Your Digital Life",
+      "slug": "polsia-controlroom",
+      "description": "Practical tools and training to lock down your privacy, automate your finances, and actually use AI on your own terms. No jargon. No ideology. Just control.",
+      "description_fr": "Des outils pratiques et des formations pour protéger votre vie privée, automatiser vos finances et utiliser l'IA selon vos propres conditions. Pas de jargon. Aucune idéologie. Contrôlez simplement.",
+      "category": "AI & Machine Learning",
+      "website": "https://controlroom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T21:17:00.319969+00:00"
+    },
+    {
+      "name": "teed",
+      "slug": "polsia-over-18",
+      "description": "We built this because somewhere out there, a guy is about to tee up with a standard white tee while his buddy is laughing at something on their phone. We want to be the reason they're both laughing on the course instead of just at the scorecard.",
+      "description_fr": "Nous avons construit cela parce que quelque part là-bas, un gars est sur le point de jouer avec un t-shirt blanc standard pendant que son copain rit de quelque chose sur son téléphone. Nous voulons être la raison pour laquelle ils rient tous les deux sur le parcours plutôt que simplement sur le tableau de bord.",
+      "category": "Marketing & Advertising",
+      "website": "https://over-18.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T21:17:01.838792+00:00"
     }
   ]
 }
