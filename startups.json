@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T14:26:24.400178+00:00",
+  "last_updated": "2026-05-30T15:48:34.234641+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -142703,12 +142703,15 @@
       "scraped_at": "2026-05-30T11:47:01.512968+00:00"
     },
     {
-      "name": "FrameOS",
+      "name": "FrameOS — The AI Agent for Photographers",
       "slug": "polsia-frameos-25",
+      "description": "Sends questionnaires, collects preferences, builds a creative brief — by the time you arrive on set, you know exactly what they want.",
+      "description_fr": "Envoie des questionnaires, collecte les préférences, élabore un brief créatif — au moment où vous arrivez sur le plateau, vous savez exactement ce qu'ils veulent.",
+      "category": "AI & Machine Learning",
       "website": "https://frameos-25.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-30T14:26:11.126615+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-30T15:48:34.118161+00:00"
     },
     {
       "name": "Speaqi",
@@ -142808,6 +142811,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-30T14:26:23.025387+00:00"
+    },
+    {
+      "name": "ComputeLayer",
+      "slug": "polsia-compute-layer",
+      "website": "https://compute-layer.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-30T15:48:21.133933+00:00"
+    },
+    {
+      "name": "Vestris",
+      "slug": "polsia-vestris-5",
+      "website": "https://vestris-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-30T15:48:21.364282+00:00"
+    },
+    {
+      "name": "RepRunner — Your AI Sales Rep, Working 24/7",
+      "slug": "polsia-reprunner-10",
+      "description": "RepRunner is an AI sales agent that runs your entire outbound pipeline — from first research touch to booked demo. It never takes a day off, never forgets to follow up, and costs less than one month of a junior SDR's salary.",
+      "description_fr": "RepRunner est un agent commercial IA qui gère l'intégralité de votre pipeline sortant, de la première recherche à la démo réservée. Cela ne prend jamais un jour de congé, n'oublie jamais de faire un suivi et coûte moins d'un mois de salaire d'un junior SDR.",
+      "category": "AI & Machine Learning",
+      "website": "https://reprunner-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T15:48:22.828733+00:00"
+    },
+    {
+      "name": "Milestone — Build a $1M Revenue Business",
+      "slug": "polsia-magicworks",
+      "description": "A systematic platform for building a $1 million annual revenue business, step by step.",
+      "description_fr": "Une plate-forme systématique pour créer une entreprise avec un chiffre d'affaires annuel d'un million de dollars, étape par étape.",
+      "category": "Software & SaaS",
+      "website": "https://magicworks.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T15:48:24.411621+00:00"
+    },
+    {
+      "name": "Pagerless — AI Agent for Incident Resolution",
+      "slug": "polsia-pagerless-2",
+      "description": "We've moved past that. Pagerless is what operations looks like when your agent is smart enough to own the incident end-to-end. You only get involved when the work actually needs a human — and by then, you have full context.",
+      "description_fr": "Nous avons dépassé cela. Le système sans pager est à quoi ressemblent les opérations lorsque votre agent est suffisamment intelligent pour gérer l'incident de bout en bout. Vous ne vous impliquez que lorsque le travail nécessite réellement un humain – et à ce moment-là, vous disposez d’un contexte complet.",
+      "category": "AI & Machine Learning",
+      "website": "https://pagerless-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T15:48:25.874549+00:00"
+    },
+    {
+      "name": "Mise — Your Restaurant Runs Itself",
+      "slug": "polsia-mise-ai-3",
+      "description": "An AI agent that runs your restaurant's daily operations — inventory, vendors, social, customer follow-ups — so you don't have to.",
+      "description_fr": "Un agent IA qui gère les opérations quotidiennes de votre restaurant (inventaire, fournisseurs, réseaux sociaux, suivi des clients) pour que vous n'ayez pas à le faire.",
+      "category": "AI & Machine Learning",
+      "website": "https://mise-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T15:48:26.939302+00:00"
+    },
+    {
+      "name": "Velox — AI Automation for Local Businesses",
+      "slug": "polsia-velox-ai-38",
+      "description": "AI voice agents, chatbots, and lead systems that run while you sleep. Built for dentists, real estate agents, and law firms.",
+      "description_fr": "Agents vocaux IA, chatbots et systèmes principaux qui fonctionnent pendant que vous dormez. Conçu pour les dentistes, les agents immobiliers et les cabinets d'avocats.",
+      "category": "AI & Machine Learning",
+      "website": "https://velox-ai-38.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T15:48:27.774348+00:00"
+    },
+    {
+      "name": "FunnelCraft — Full",
+      "slug": "polsia-funnelcraft-2",
+      "description": "Not just campaigns — a targeting system. We build Advantage+ funnel structures that feed real conversion signals back to Meta's algorithm. Lead Ads at top. Landing pages at bottom. Retargeting between.",
+      "description_fr": "Pas seulement des campagnes, un système de ciblage. Nous construisons des structures d'entonnoir Advantage+ qui renvoient des signaux de conversion réels à l'algorithme de Meta. Annonces principales en haut. Pages de destination en bas. Reciblage entre.",
+      "category": "Marketing & Advertising",
+      "website": "https://funnelcraft-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T15:48:29.184819+00:00"
+    },
+    {
+      "name": "FiduAgent — Autonomous Accounting for Swiss SMEs",
+      "slug": "polsia-fiduagent",
+      "description": "Every hour your team spends classifying invoices, chasing bank statements, and fixing errors is an hour not spent growing your business. FiduAgent was built to eliminate that overhead — completely.",
+      "description_fr": "Chaque heure que votre équipe passe à classer les factures, à rechercher les relevés bancaires et à corriger les erreurs est une heure non consacrée au développement de votre entreprise. FiduAgent a été conçu pour éliminer complètement cette surcharge.",
+      "category": "Finance & Fintech",
+      "website": "https://fiduagent.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T15:48:30.228453+00:00"
+    },
+    {
+      "name": "VerbeckOS — Operating System for Verbeck Associates",
+      "slug": "polsia-verbeckos",
+      "description": "A live portal for each engagement — financial health scores, forecast trajectories, pending action items, and strategic notes in one place. Always on. Always current.",
+      "description_fr": "Un portail en direct pour chaque engagement : scores de santé financière, trajectoires prévisionnelles, actions en attente et notes stratégiques en un seul endroit. Toujours allumé. Toujours actuel.",
+      "category": "Finance & Fintech",
+      "website": "https://verbeckos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T15:48:31.667269+00:00"
     }
   ]
 }
