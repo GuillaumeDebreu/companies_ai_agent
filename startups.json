@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T16:47:10.880555+00:00",
+  "last_updated": "2026-05-30T17:52:21.622507+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -142923,12 +142923,15 @@
       "scraped_at": "2026-05-30T15:48:31.667269+00:00"
     },
     {
-      "name": "Arcflow",
+      "name": "Arcflow — Accounts Payable for AI Agents",
       "slug": "polsia-arcflow-9",
+      "description": "Arcflow processes invoices, routes approvals, handles exceptions, and pays vendors autonomously — built for companies where AI agents run operations.",
+      "description_fr": "Arcflow traite les factures, achemine les approbations, gère les exceptions et paie les fournisseurs de manière autonome – conçu pour les entreprises dans lesquelles des agents IA exécutent des opérations.",
+      "category": "AI & Machine Learning",
       "website": "https://arcflow-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-30T16:46:56.258512+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-30T17:52:18.507518+00:00"
     },
     {
       "name": "Gaze — AI Market Analyst for Founders",
@@ -142950,12 +142953,15 @@
       "scraped_at": "2026-05-30T16:46:58.346475+00:00"
     },
     {
-      "name": "Vela",
+      "name": "Vela — Autonomous Outbound Sales Agent",
       "slug": "polsia-vela-ai-1",
+      "description": "The teams that win B2B don't have better products — they have better outbound. Vela gives you a tireless outbound rep that works while you sleep, so your pipeline never goes cold.",
+      "description_fr": "Les équipes qui gagnent en B2B n'ont pas de meilleurs produits : elles ont de meilleurs résultats sortants. Vela vous offre un représentant sortant infatigable qui travaille pendant que vous dormez, afin que votre pipeline ne se refroidisse jamais.",
+      "category": "Sales & CRM",
       "website": "https://vela-ai-1.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-30T16:46:58.573015+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-30T17:52:19.958765+00:00"
     },
     {
       "name": "Stayflow — Autonomous Vacation Rental Agent",
@@ -143022,6 +143028,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-30T16:47:06.879164+00:00"
+    },
+    {
+      "name": "Roadbox",
+      "slug": "polsia-roadbox",
+      "website": "https://roadbox.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-30T17:52:06.357553+00:00"
+    },
+    {
+      "name": "OutboundIQ — AI Agent for Freelance Proposals",
+      "slug": "polsia-outboundiq-26",
+      "description": "OutboundIQ isn't about replacing your judgment. It's about offloading the work that doesn't require it —\n      the hunting, the research, the repetitive drafting. You stay in control of what gets sent. The agent does\n      the grinding so you can focus on the craft.",
+      "description_fr": "OutboundIQ ne vise pas à remplacer votre jugement. Il s'agit de se décharger du travail qui n'en a pas besoin...\n      la chasse, la recherche, la rédaction répétitive. Vous gardez le contrôle de ce qui est envoyé. L'agent fait\n      le broyage pour que vous puissiez vous concentrer sur le métier.",
+      "category": "AI & Machine Learning",
+      "website": "https://outboundiq-26.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T17:52:08.002966+00:00"
+    },
+    {
+      "name": "SignalStack — AI",
+      "slug": "polsia-signalstack-19",
+      "description": "Distribution solved that problem. Promotion is still broken. Most indie artists release into a void, hoping algorithms take pity on them. SignalStack changes that. An AI agent works your releases the way a label's marketing team would — actively, continuously, and without needing a budget.",
+      "description_fr": "La distribution a résolu ce problème. La promotion est toujours interrompue. La plupart des artistes indépendants se lancent dans le vide, en espérant que les algorithmes auront pitié d'eux. SignalStack change cela. Un agent IA travaille sur vos sorties comme le ferait l'équipe marketing d'un label : activement, en continu et sans avoir besoin d'un budget.",
+      "category": "AI & Machine Learning",
+      "website": "https://signalstack-19.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T17:52:09.668423+00:00"
+    },
+    {
+      "name": "VoxLocal",
+      "slug": "polsia-voxlocal-3",
+      "website": "https://voxlocal-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-30T17:52:09.870518+00:00"
+    },
+    {
+      "name": "Watchdog — AI Agent Monitoring Platform",
+      "slug": "polsia-watchdog-ai-13",
+      "description": "Agents act autonomously across your systems — sending emails, updating records, executing transactions. Most enterprises have no idea what their agents are doing between deployment and the next incident. Watchdog changes that.",
+      "description_fr": "Les agents agissent de manière autonome sur vos systèmes : envoyant des e-mails, mettant à jour les enregistrements, exécutant des transactions. La plupart des entreprises n'ont aucune idée de ce que font leurs agents entre le déploiement et le prochain incident. Le chien de garde change cela.",
+      "category": "AI & Machine Learning",
+      "website": "https://watchdog-ai-13.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T17:52:11.298205+00:00"
+    },
+    {
+      "name": "PestShield — Professional Pest Control & Housekeeping in South India",
+      "slug": "polsia-pestshield",
+      "description": "PestShield exists because South India deserves a pest and cleaning service that actually cares about the result. Professional, punctual, and honest — nothing else.",
+      "description_fr": "PestShield existe parce que le sud de l’Inde mérite un service antiparasitaire et de nettoyage réellement soucieux du résultat. Professionnel, ponctuel et honnête, rien d'autre.",
+      "category": "Other",
+      "website": "https://pestshield.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T17:52:12.840685+00:00"
+    },
+    {
+      "name": "Replat — AI Front Desk for Local Service Businesses",
+      "slug": "polsia-replat",
+      "description": "Replat's AI handles every call — answers questions, books appointments, texts missed callers back, and follows up automatically. Your front desk, running all night.",
+      "description_fr": "L'IA de Replat gère chaque appel : répond aux questions, prend des rendez-vous, envoie des SMS aux appelants manqués et assure le suivi automatiquement. Votre réception, ouverte toute la nuit.",
+      "category": "AI & Machine Learning",
+      "website": "https://replat.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T17:52:21.620664+00:00"
+    },
+    {
+      "name": "Crateful — Artisan Curated Boxes",
+      "slug": "polsia-crateful",
+      "description": "Monthly curated subscription boxes of artisan and eco-friendly products. Thoughtfully sourced, beautifully packaged, delivered to your door.",
+      "description_fr": "Coffrets d'abonnement mensuels de produits artisanaux et respectueux de l'environnement. Des produits soigneusement sélectionnés, joliment emballés, livrés à votre porte.",
+      "category": "Sustainability & Green",
+      "website": "https://crateful.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T17:52:13.891214+00:00"
+    },
+    {
+      "name": "Rivet — Autonomous AI Code Review",
+      "slug": "polsia-rivet-ai",
+      "description": "An AI agent that monitors your repos 24/7, writes detailed PR reviews, flags logic bugs, and drafts documentation. Code review never sleeps.",
+      "description_fr": "Un agent IA qui surveille vos dépôts 24h/24 et 7j/7, rédige des revues de relations publiques détaillées, signale les bogues logiques et rédige la documentation. La révision du code ne dort jamais.",
+      "category": "AI & Machine Learning",
+      "website": "https://rivet-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T17:52:15.419213+00:00"
+    },
+    {
+      "name": "SiteLoop — AI Site Intelligence for Engineering Firms",
+      "slug": "polsia-siteloop-4",
+      "description": "Every consulting firm we talk to has the same problem: senior engineers spend half their week drafting client updates, chasing submittals, and wrestling spreadsheets into shape. SiteLoop was built to fix that. Your expertise should go into engineering — not administrative overhead.",
+      "description_fr": "Tous les cabinets de conseil avec lesquels nous discutons ont le même problème : les ingénieurs seniors passent la moitié de leur semaine à rédiger des mises à jour pour les clients, à suivre les soumissions et à mettre en forme des feuilles de calcul. SiteLoop a été conçu pour résoudre ce problème. Votre expertise doit être axée sur l'ingénierie et non sur les frais administratifs.",
+      "category": "AI & Machine Learning",
+      "website": "https://siteloop-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T17:52:16.948937+00:00"
     }
   ]
 }
