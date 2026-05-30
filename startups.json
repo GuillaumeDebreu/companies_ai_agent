@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T15:48:34.234641+00:00",
+  "last_updated": "2026-05-30T16:47:10.880555+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -142813,20 +142813,26 @@
       "scraped_at": "2026-05-30T14:26:23.025387+00:00"
     },
     {
-      "name": "ComputeLayer",
+      "name": "ComputeLayer — Autonomous GPU Cost Optimization",
       "slug": "polsia-compute-layer",
+      "description": "Every AI company has a shadow team of engineers doing cost optimization manually, half-heartedly, when something breaks. ComputeLayer is the employee that never sleeps, never misses an idle instance, and never lets waste compound.",
+      "description_fr": "Chaque entreprise d’IA dispose d’une équipe fantôme d’ingénieurs qui optimisent les coûts manuellement, sans enthousiasme, lorsque quelque chose tombe en panne. ComputeLayer est l'employé qui ne dort jamais, ne manque jamais une instance inactive et ne laisse jamais le gaspillage s'accumuler.",
+      "category": "AI & Machine Learning",
       "website": "https://compute-layer.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-30T15:48:21.133933+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-30T16:47:09.185231+00:00"
     },
     {
-      "name": "Vestris",
+      "name": "Vestris — Your Personal Shopping Agent",
       "slug": "polsia-vestris-5",
+      "description": "We built Vestris because curation should be intelligent. Not a feed you scroll, not a chatbot you prompt, not a box you subscribe to. A working employee that knows your body, your taste, your budget, and your calendar — and shows up with options only when it makes sense.",
+      "description_fr": "Nous avons créé Vestris parce que la curation doit être intelligente. Pas un flux que vous faites défiler, pas un chatbot que vous invitez, pas une boîte à laquelle vous vous abonnez. Un employé qui travaille qui connaît votre corps, vos goûts, votre budget et votre calendrier – et qui ne se présente avec des options que lorsque cela a du sens.",
+      "category": "AI & Machine Learning",
       "website": "https://vestris-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-30T15:48:21.364282+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-30T16:47:10.420323+00:00"
     },
     {
       "name": "RepRunner — Your AI Sales Rep, Working 24/7",
@@ -142915,6 +142921,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-30T15:48:31.667269+00:00"
+    },
+    {
+      "name": "Arcflow",
+      "slug": "polsia-arcflow-9",
+      "website": "https://arcflow-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-30T16:46:56.258512+00:00"
+    },
+    {
+      "name": "Gaze — AI Market Analyst for Founders",
+      "slug": "polsia-gaze-ai",
+      "description": "Gaze monitors your chosen niche 24/7 and delivers a prioritized daily brief — competitor moves, market gaps, and signals worth acting on. Not another dashboard. A briefing.",
+      "description_fr": "Gaze surveille le créneau que vous avez choisi 24 heures sur 24 et 7 jours sur 7 et fournit un rapport quotidien prioritaire : les mouvements des concurrents, les lacunes du marché et les signaux sur lesquels il vaut la peine d'agir. Pas un autre tableau de bord. Un briefing.",
+      "category": "AI & Machine Learning",
+      "website": "https://gaze-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T16:46:57.942211+00:00"
+    },
+    {
+      "name": "Qontact",
+      "slug": "polsia-qontact-2",
+      "website": "https://qontact-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-30T16:46:58.346475+00:00"
+    },
+    {
+      "name": "Vela",
+      "slug": "polsia-vela-ai-1",
+      "website": "https://vela-ai-1.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-30T16:46:58.573015+00:00"
+    },
+    {
+      "name": "Stayflow — Autonomous Vacation Rental Agent",
+      "slug": "polsia-stayflow-12",
+      "description": "Stayflow is an AI agent that handles guest communication, pricing adjustments, and review management — across WhatsApp, email, and booking platforms. Day and night, without you lifting a finger.",
+      "description_fr": "Stayflow est un agent IA qui gère la communication avec les clients, les ajustements de prix et la gestion des avis, sur WhatsApp, la messagerie électronique et les plateformes de réservation. Jour et nuit, sans que vous leviez le petit doigt.",
+      "category": "Travel & Hospitality",
+      "website": "https://stayflow-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T16:46:59.904444+00:00"
+    },
+    {
+      "name": "CIDES Corpotraining",
+      "slug": "polsia-cidesos",
+      "description": "Más de cuatro décadas formando profesionales en las empresas más importantes de Chile y Latinoamérica. Cursos en vivo, asincrónicos y cerrados — para equipos que necesitan crecer.",
+      "description_fr": "Plus de quatre décennies forment des professionnels dans les entreprises les plus importantes du Chili et de l'Amérique latine. Cours en vivo, asincrónicos et cerrados — pour les équipes qui ont besoin de créer.",
+      "category": "Education",
+      "website": "https://cidesos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T16:47:00.998198+00:00"
+    },
+    {
+      "name": "SignalReach — Outbound Sales Intelligence",
+      "slug": "polsia-signalreach-3",
+      "description": "Most outbound goes nowhere because it targets everyone. SignalReach identifies prospects showing real buying intent — then reaches them with personalized, multi-channel sequences that actually get replies.",
+      "description_fr": "La plupart des messages sortants ne mènent nulle part car ils ciblent tout le monde. SignalReach identifie les prospects montrant une réelle intention d'achat, puis les atteint avec des séquences multicanaux personnalisées qui obtiennent réellement des réponses.",
+      "category": "Sales & CRM",
+      "website": "https://signalreach-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T16:47:02.385941+00:00"
+    },
+    {
+      "name": "AuditCap — Due Diligence for Online Business Buyers",
+      "slug": "polsia-auditcap",
+      "description": "We are not affiliated with Flippa, Acquire.com, or any acquisition platform. We work exclusively for the buyer. That's the only model where our interests align with yours.",
+      "description_fr": "Nous ne sommes pas affiliés à Flippa, Acquire.com ou à toute plateforme d'acquisition. Nous travaillons exclusivement pour l'acheteur. C'est le seul modèle où nos intérêts s'alignent sur les vôtres.",
+      "category": "Software & SaaS",
+      "website": "https://auditcap.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T16:47:03.577140+00:00"
+    },
+    {
+      "name": "GrimeShift — Mobile Fleet Washing for Heavy Vehicles",
+      "slug": "polsia-top6ix-inc",
+      "description": "On-site mobile fleet washing for semis, construction equipment, delivery vans, and company vehicles. We come to you. No downtime.",
+      "description_fr": "Lavage de flotte mobile sur site pour semi-remorques, engins de chantier, camionnettes de livraison et véhicules de société. Nous venons à vous. Pas de temps d'arrêt.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://top6ix-inc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T16:47:05.337084+00:00"
+    },
+    {
+      "name": "PagePilot — AI Outbound That Books Meetings",
+      "slug": "polsia-pagepilot-8a9e7e",
+      "description": "PagePilot is the AI employee that runs your entire outbound operation — from first email to booked meeting. No tools to stitch together. No headcount to manage. Just pipeline.",
+      "description_fr": "PagePilot est l'employé IA qui gère l'ensemble de vos opérations sortantes, du premier e-mail à la réunion réservée. Aucun outil pour assembler. Aucun effectif à gérer. Juste un pipeline.",
+      "category": "AI & Machine Learning",
+      "website": "https://pagepilot-8a9e7e.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T16:47:06.879164+00:00"
     }
   ]
 }
