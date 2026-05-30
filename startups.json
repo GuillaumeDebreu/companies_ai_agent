@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T19:18:39.163158+00:00",
+  "last_updated": "2026-05-30T20:15:52.358122+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -143242,6 +143242,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-30T19:04:02.658691+00:00"
+    },
+    {
+      "name": "ReframeOS",
+      "slug": "polsia-reframeos-2",
+      "website": "https://reframeos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-30T20:15:39.545480+00:00"
+    },
+    {
+      "name": "PromptOS",
+      "slug": "polsia-promptos-2",
+      "website": "https://promptos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-30T20:15:39.812204+00:00"
+    },
+    {
+      "name": "VetCoder — Autonomous PR Security Reviews",
+      "slug": "polsia-vetcoder",
+      "description": "VetCoder doesn't just scan lines — it reads your architecture, understands the data flow, and catches vulnerabilities that only make sense in the context of how your app actually works. Not a linter. A reasoning system.",
+      "description_fr": "VetCoder ne se contente pas d'analyser les lignes : il lit votre architecture, comprend le flux de données et détecte les vulnérabilités qui n'ont de sens que dans le contexte du fonctionnement réel de votre application. Pas un linter. Un système de raisonnement.",
+      "category": "Other",
+      "website": "https://vetcoder.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T20:15:41.175263+00:00"
+    },
+    {
+      "name": "PDFury — Chat with Your Documents",
+      "slug": "polsia-answeros-5",
+      "description": "PDFury transforms any document into a conversation. Ask questions, get instant answers with page-level citations, and collaborate with your team — all powered by GPT-5.",
+      "description_fr": "PDFury transforme n'importe quel document en conversation. Posez des questions, obtenez des réponses instantanées avec des citations au niveau de la page et collaborez avec votre équipe, le tout optimisé par GPT-5.",
+      "category": "AI & Machine Learning",
+      "website": "https://answeros-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T20:15:42.468348+00:00"
+    },
+    {
+      "name": "VoxelForge — AI",
+      "slug": "polsia-voxel-forge",
+      "description": "VoxelForge is built for the server owner who wants a unique dragon for their raid event —tonight, not next month. For the content creator who needs 30 unique mobs for a series —this afternoon. For every creator who's been priced out of custom assets because they're too expensive to commission.We built the factory that should have existed already.",
+      "description_fr": "VoxelForge est conçu pour le propriétaire du serveur qui souhaite un dragon unique pour son événement de raid – ce soir, pas le mois prochain. Pour le créateur de contenu qui a besoin de 30 mobs uniques pour une série – cet après-midi. Pour chaque créateur dont les ressources personnalisées ont été exclues parce que leur commission était trop coûteuse. Nous avons construit l'usine qui aurait déjà dû exister.",
+      "category": "AI & Machine Learning",
+      "website": "https://voxel-forge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T20:15:43.983872+00:00"
+    },
+    {
+      "name": "CourseCrew — AI agents that run your courses",
+      "slug": "polsia-courtecrew",
+      "description": "CourseCrew is the first online course platform where AI agents build, run, and grow your courses. No more grinding through content creation. No more drowning in learner questions. Your crew works 24/7 while you focus on what only you can teach.",
+      "description_fr": "CourseCrew est la première plateforme de cours en ligne sur laquelle les agents IA créent, exécutent et développent vos cours. Plus besoin de se soucier de la création de contenu. Fini la noyade sous les questions des apprenants. Votre équipe travaille 24h/24 et 7j/7 pendant que vous vous concentrez sur ce que vous seul pouvez enseigner.",
+      "category": "AI & Machine Learning",
+      "website": "https://courtecrew.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T20:15:45.382246+00:00"
+    },
+    {
+      "name": "AgentOps — AI That Watches Your Systems",
+      "slug": "polsia-agentops-ai-4",
+      "description": "The observability stack was built for humans — agents who can read a chart, make a call, and wake someone up. But that human has to be there. At 3am on a Tuesday, after a deploy that touched six services, something goes wrong and nobody knows what broke first.",
+      "description_fr": "La pile d'observabilité a été conçue pour les humains : des agents capables de lire un graphique, de passer un appel et de réveiller quelqu'un. Mais cet humain doit être là. Un mardi à 3 heures du matin, après un déploiement ayant touché six services, quelque chose ne va pas et personne ne sait ce qui s'est cassé en premier.",
+      "category": "AI & Machine Learning",
+      "website": "https://agentops-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T20:15:46.463792+00:00"
+    },
+    {
+      "name": "Canarias King — Premium CBD from the Canary Islands",
+      "slug": "polsia-canarios",
+      "description": "The Canary Islands sit at the crossroads of Europe, Africa, and the Atlantic. Volcanic soil, year-round sun, and maritime air create ideal conditions for growing cannabinoid-rich hemp — and a logistics hub that gets products to European customers fast.",
+      "description_fr": "Les îles Canaries se situent au carrefour de l’Europe, de l’Afrique et de l’Atlantique. Le sol volcanique, le soleil toute l’année et l’air maritime créent des conditions idéales pour la culture du chanvre riche en cannabinoïdes – et une plate-forme logistique qui achemine rapidement les produits aux clients européens.",
+      "category": "AI & Machine Learning",
+      "website": "https://canarios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T20:15:47.742933+00:00"
+    },
+    {
+      "name": "TrendSnag — Trending Products, Honest Ads",
+      "slug": "polsia-trendsnag",
+      "description": "A Shopify store where the products are actually good, the prices are honest, and the ads have the kind of personality that makes you wonder who wrote this at 11pm on a Tuesday.",
+      "description_fr": "Une boutique Shopify où les produits sont vraiment bons, les prix sont honnêtes et les publicités ont le genre de personnalité qui vous fait vous demander qui a écrit ceci à 23 heures un mardi.",
+      "category": "E-Commerce & Retail",
+      "website": "https://trendsnag.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T20:15:49.497532+00:00"
+    },
+    {
+      "name": "BatiOS — Construction Operating System",
+      "slug": "polsia-batios-2",
+      "description": "Deadlines get missed. Invoices get lost. Site progress is invisible until it's too late. BatiOS changes that — not with a course or a consultant, but with a system that runs itself.",
+      "description_fr": "Les délais sont manqués. Les factures se perdent. La progression du site est invisible jusqu'à ce qu'il soit trop tard. BatiOS change cela, non pas avec un cours ou un consultant, mais avec un système qui s'exécute tout seul.",
+      "category": "Finance & Fintech",
+      "website": "https://batios-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-30T20:15:50.649661+00:00"
     }
   ]
 }
