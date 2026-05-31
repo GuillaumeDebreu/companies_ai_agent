@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T08:47:40.313301+00:00",
+  "last_updated": "2026-05-31T09:19:56.060024+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -143785,20 +143785,26 @@
       "scraped_at": "2026-05-31T01:35:55.500821+00:00"
     },
     {
-      "name": "ShineDrop",
+      "name": "ShineDrop — Mobile Car Wash, At Your Door",
       "slug": "polsia-shinedrop",
+      "description": "Every day you queue at a car wash, you lose time. Every day you skip washing, your car loses value. ShineDrop solves both problems — professional detail at your doorstep, on your schedule.",
+      "description_fr": "Chaque jour où vous faites la queue dans une station de lavage de voiture, vous perdez du temps. Chaque jour où vous sautez le lavage, votre voiture perd de la valeur. ShineDrop résout les deux problèmes : des détails professionnels à votre porte, selon votre emploi du temps.",
+      "category": "Other",
       "website": "https://shinedrop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-31T06:01:40.142659+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-31T09:19:52.750439+00:00"
     },
     {
-      "name": "ClipFlow",
+      "name": "ClipFlow — Short",
       "slug": "polsia-clipflow-61",
+      "description": "ClipFlow is built for South African businesses who need consistent, high-quality short-form video without the enterprise price tag. We've processed the research, defined the workflow, and set the pricing. All that's left is getting your first video out.",
+      "description_fr": "ClipFlow est conçu pour les entreprises sud-africaines qui ont besoin de vidéos courtes cohérentes et de haute qualité sans le prix d'une entreprise. Nous avons traité la recherche, défini le flux de travail et fixé les prix. Il ne vous reste plus qu'à sortir votre première vidéo.",
+      "category": "Productivity & Automation",
       "website": "https://clipflow-61.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-31T06:01:40.331999+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-31T09:19:54.282918+00:00"
     },
     {
       "name": "PharmaFlowOS — AI Automation for MENA Pharma",
@@ -143812,12 +143818,15 @@
       "scraped_at": "2026-05-31T06:01:42.243141+00:00"
     },
     {
-      "name": "TorqueCore",
+      "name": "TorqueCore — Next",
       "slug": "polsia-torquecore",
+      "description": "Disc-shaped motor topology. The magnetic flux runs parallel to the axis of rotation — enabling 2-4x the torque density of radial designs. 50% lighter. 80% less iron. No exotic materials required.",
+      "description_fr": "Topologie du moteur en forme de disque. Le flux magnétique est parallèle à l'axe de rotation, ce qui permet une densité de couple 2 à 4 fois supérieure aux conceptions radiales. 50% plus léger. 80 % de fer en moins. Aucun matériau exotique requis.",
+      "category": "Sustainability & Green",
       "website": "https://torquecore.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-31T06:01:42.403931+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-31T09:19:55.705711+00:00"
     },
     {
       "name": "Sella — AI Agent for Vietnamese E",
@@ -143884,6 +143893,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-31T06:01:51.477529+00:00"
+    },
+    {
+      "name": "Debut",
+      "slug": "polsia-debut-2",
+      "website": "https://debut-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T09:19:39.556148+00:00"
+    },
+    {
+      "name": "CountHQOS",
+      "slug": "polsia-counthqos",
+      "website": "https://counthqos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T09:19:39.721573+00:00"
+    },
+    {
+      "name": "SourceMint — AI Procurement Intelligence",
+      "slug": "polsia-sourcemint",
+      "description": "SourceMint is an AI agent that watches your supplier ecosystem around the clock — flags financial distress, surfaces negotiation opportunities, alerts you before risks become crises.",
+      "description_fr": "SourceMint est un agent d'IA qui surveille votre écosystème de fournisseurs 24 heures sur 24 : signale les difficultés financières, fait apparaître les opportunités de négociation et vous alerte avant que les risques ne se transforment en crises.",
+      "category": "AI & Machine Learning",
+      "website": "https://sourcemint.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T09:19:41.326892+00:00"
+    },
+    {
+      "name": "Luma",
+      "slug": "polsia-luma-ai-3",
+      "website": "https://luma-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T09:19:41.552992+00:00"
+    },
+    {
+      "name": "LotStream — AI Catalogue Preparation for Auction Houses",
+      "slug": "polsia-lotstream-2",
+      "description": "Automate auction catalogue preparation. Upload images, get polished lot descriptions, condition reports, and estimates in minutes instead of days.",
+      "description_fr": "Automatisez la préparation du catalogue d’enchères. Téléchargez des images, obtenez des descriptions de lots soignées, des rapports d'état et des estimations en quelques minutes au lieu de plusieurs jours.",
+      "category": "AI & Machine Learning",
+      "website": "https://lotstream-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T09:19:43.148005+00:00"
+    },
+    {
+      "name": "ClearSignal — AI Analyst for Small Business",
+      "slug": "polsia-pixelkit-3",
+      "description": "Fortune 500 companies have dedicated analysts pulling insights from every corner of their business. Small businesses have five tools that don't talk to each other and a founder making $0 data-driven decisions per week.",
+      "description_fr": "Les sociétés Fortune 500 disposent d’analystes dédiés qui tirent des informations de tous les aspects de leur activité. Les petites entreprises disposent de cinq outils qui ne communiquent pas entre eux et d'un fondateur qui prend des décisions basées sur des données à 0 $ par semaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://pixelkit-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T09:19:44.619186+00:00"
+    },
+    {
+      "name": "Rungain — Smart Multi",
+      "slug": "polsia-rungain",
+      "description": "Rungain helps delivery drivers running multiple apps make smarter, faster decisions about which orders to take and how to route them.",
+      "description_fr": "Rungain aide les chauffeurs-livreurs exécutant plusieurs applications à prendre des décisions plus intelligentes et plus rapides concernant les commandes à prendre et la manière de les acheminer.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://rungain.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T09:19:46.060804+00:00"
+    },
+    {
+      "name": "NoStaff — Quality Coffee, Fully Autonomous",
+      "slug": "polsia-nostaff",
+      "description": "A cafe with no staff and no compromises. Premium specialty coffee, made by precision robotics, available around the clock.",
+      "description_fr": "Un café sans personnel et sans compromis. Café de spécialité haut de gamme, préparé par une robotique de précision, disponible 24 heures sur 24.",
+      "category": "Food & Beverage",
+      "website": "https://nostaff.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T09:19:47.480375+00:00"
+    },
+    {
+      "name": "Brrdcast — Your city, answered in a chat.",
+      "slug": "polsia-brrdcastos",
+      "description": "Brrdcast turns the knowledge locked in your building, your street, your locality into something you can actually query. An AI layer over every person who lives nearby.",
+      "description_fr": "Brrdcast transforme les connaissances enfermées dans votre bâtiment, votre rue, votre localité en quelque chose que vous pouvez réellement interroger. Une couche d’IA sur chaque personne vivant à proximité.",
+      "category": "AI & Machine Learning",
+      "website": "https://brrdcastos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T09:19:48.798098+00:00"
+    },
+    {
+      "name": "VerdeOS — Where Green Tech Meets Intelligent Operations",
+      "slug": "polsia-verdeos-4",
+      "description": "Sensor networks and embedded systems that monitor real-world resource flows — energy, water, waste — and feed that data back into decision systems that reduce environmental footprint at scale.",
+      "description_fr": "Des réseaux de capteurs et des systèmes intégrés qui surveillent les flux de ressources réels (énergie, eau, déchets) et réinjectent ces données dans des systèmes de décision qui réduisent l'empreinte environnementale à grande échelle.",
+      "category": "Sustainability & Green",
+      "website": "https://verdeos-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T09:19:50.287835+00:00"
     }
   ]
 }
