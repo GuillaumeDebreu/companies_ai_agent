@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T14:24:12.682961+00:00",
+  "last_updated": "2026-05-31T15:48:29.478732+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -144213,12 +144213,15 @@
       "scraped_at": "2026-05-31T12:49:11.714692+00:00"
     },
     {
-      "name": "StillStandingOS",
+      "name": "StillStandingOS — The Newsroom Operating System",
       "slug": "polsia-stillstandingos",
+      "description": "Independent media is the only media that still has something to say. StillStandingOS is the infrastructure that lets you keep saying it — at the speed the world demands.",
+      "description_fr": "Les médias indépendants sont les seuls qui ont encore quelque chose à dire. StillStandingOS est l'infrastructure qui vous permet de continuer à le dire, à la vitesse que le monde exige.",
+      "category": "Entertainment & Media",
       "website": "https://stillstandingos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-31T14:23:55.127128+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-31T15:48:27.706282+00:00"
     },
     {
       "name": "ClearPath",
@@ -144312,6 +144315,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-31T14:24:05.201179+00:00"
+    },
+    {
+      "name": "LeasePilot",
+      "slug": "polsia-leasepilot-9",
+      "website": "https://leasepilot-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T15:48:17.185039+00:00"
+    },
+    {
+      "name": "SignaTrace",
+      "slug": "polsia-signatrace",
+      "website": "https://signatrace.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T15:48:17.639356+00:00"
+    },
+    {
+      "name": "LexSift",
+      "slug": "polsia-lexsift",
+      "website": "https://lexsift.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T15:48:18.070131+00:00"
+    },
+    {
+      "name": "AxonBridge — Self",
+      "slug": "polsia-axonbridge",
+      "description": "The first cross-chain messaging bridge built on Bittensor. Where message delivery is scored by intelligence, not just relayed.",
+      "description_fr": "Le premier pont de messagerie inter-chaînes construit sur Bittensor. Où la livraison des messages est notée par le renseignement, et pas seulement relayée.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://axonbridge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T15:48:19.466799+00:00"
+    },
+    {
+      "name": "CandyAIOS",
+      "slug": "polsia-candyaios",
+      "website": "https://candyaios.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T15:48:19.707691+00:00"
+    },
+    {
+      "name": "Ridewell",
+      "slug": "polsia-ridewell-atl",
+      "website": "https://ridewell-atl.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T15:48:20.071337+00:00"
+    },
+    {
+      "name": "Medflow",
+      "slug": "polsia-medflow",
+      "website": "https://medflow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T15:48:20.251352+00:00"
+    },
+    {
+      "name": "Flowa",
+      "slug": "polsia-flowa",
+      "website": "https://flowa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T15:48:20.496473+00:00"
+    },
+    {
+      "name": "FleetPulse — Autonomous Cloud Infrastructure",
+      "slug": "polsia-fleetpulse-ai-4",
+      "description": "Cloud infrastructure is deterministic. Failures follow patterns. Scaling follows curves. The same incidents that wake someone up at 3am have been seen before — and the fix is usually the same. FleetPulse replaces the reactive with the autonomous. Not because AI is magic. Because cloud ops is finally a solved problem, and humans shouldn't have to stay up for it.",
+      "description_fr": "L'infrastructure cloud est déterministe. Les échecs suivent des modèles. La mise à l'échelle suit les courbes. Les mêmes incidents qui réveillent quelqu'un à 3 heures du matin ont déjà été observés – et la solution est généralement la même. FleetPulse remplace le réactif par l'autonome. Pas parce que l’IA est magique. Parce que les opérations cloud sont enfin un problème résolu et que les humains ne devraient pas avoir à attendre.",
+      "category": "AI & Machine Learning",
+      "website": "https://fleetpulse-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T15:48:22.035640+00:00"
+    },
+    {
+      "name": "BoltBrief",
+      "slug": "polsia-boltbrief",
+      "website": "https://boltbrief.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T15:48:22.436223+00:00"
     }
   ]
 }
