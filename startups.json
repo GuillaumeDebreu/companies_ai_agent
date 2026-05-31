@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T04:00:10.995707+00:00",
+  "last_updated": "2026-05-31T06:01:56.370173+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -143678,12 +143678,15 @@
       "scraped_at": "2026-05-30T23:30:45.065128+00:00"
     },
     {
-      "name": "CurveOS",
+      "name": "CurveOS — B2B Sales Acceleration Operating System",
       "slug": "polsia-curveos-3",
+      "description": "Most platforms give you visibility. CurveOS gives you leverage. It runs autonomously — executing campaigns, scoring leads, scheduling outreach — while you focus on closing the deals that actually matter.",
+      "description_fr": "La plupart des plateformes vous donnent de la visibilité. CurveOS vous donne un effet de levier. Il fonctionne de manière autonome (exécution de campagnes, notation de prospects, planification de la sensibilisation) pendant que vous vous concentrez sur la conclusion des transactions qui comptent réellement.",
+      "category": "Sales & CRM",
       "website": "https://curveos-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-31T01:35:45.693507+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-31T06:01:55.746018+00:00"
     },
     {
       "name": "PersonaForge",
@@ -143780,6 +143783,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-31T01:35:55.500821+00:00"
+    },
+    {
+      "name": "ShineDrop",
+      "slug": "polsia-shinedrop",
+      "website": "https://shinedrop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T06:01:40.142659+00:00"
+    },
+    {
+      "name": "ClipFlow",
+      "slug": "polsia-clipflow-61",
+      "website": "https://clipflow-61.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T06:01:40.331999+00:00"
+    },
+    {
+      "name": "PharmaFlowOS — AI Automation for MENA Pharma",
+      "slug": "polsia-pharmaflowos",
+      "description": "No. CRM implementation is setup. We handle the ongoing automation — the daily workflows that CRM can't cover: follow-up sequencing, report generation, multi-channel coordination, and auto-logging. Think of us as the layer that makes your CRM actually work without your team doing the manual work.",
+      "description_fr": "Non. La mise en œuvre du CRM est en cours de configuration. Nous gérons l'automatisation continue, c'est-à-dire les flux de travail quotidiens que le CRM ne peut pas couvrir : séquençage de suivi, génération de rapports, coordination multicanal et journalisation automatique. Considérez-nous comme la couche qui permet à votre CRM de fonctionner réellement sans que votre équipe n'effectue le travail manuel.",
+      "category": "AI & Machine Learning",
+      "website": "https://pharmaflowos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T06:01:42.243141+00:00"
+    },
+    {
+      "name": "TorqueCore",
+      "slug": "polsia-torquecore",
+      "website": "https://torquecore.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T06:01:42.403931+00:00"
+    },
+    {
+      "name": "Sella — AI Agent for Vietnamese E",
+      "slug": "polsia-sella-ai",
+      "description": "Sella is an AI employee that runs your Shopee and Lazada store 24/7 — handling customer chat, inventory, and smart pricing while you focus on growing your business.",
+      "description_fr": "Sella est un employé IA qui gère votre magasin Shopee et Lazada 24h/24 et 7j/7, en gérant le chat avec les clients, l'inventaire et la tarification intelligente pendant que vous vous concentrez sur la croissance de votre entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://sella-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T06:01:44.363598+00:00"
+    },
+    {
+      "name": "TradeLayer — Options Built Into Every Trade",
+      "slug": "polsia-tradelayer-5",
+      "description": "When you're looking at a stock on TradeLayer, options are right there — not buried in a submenu, not gated behind permissions, not treated like a different product.",
+      "description_fr": "Lorsque vous examinez une action sur TradeLayer, les options sont là – non enfouies dans un sous-menu, non protégées par des autorisations, non traitées comme un produit différent.",
+      "category": "Real Estate",
+      "website": "https://tradelayer-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T06:01:46.036486+00:00"
+    },
+    {
+      "name": "AutoFlow — AI Systems for Small Businesses",
+      "slug": "polsia-autoflow-28",
+      "description": "Most small businesses don't need more staff. They need systems that run without them. AutoFlow builds those systems and keeps them running — so you can focus on the work that actually needs you.",
+      "description_fr": "La plupart des petites entreprises n’ont pas besoin de personnel supplémentaire. Ils ont besoin de systèmes qui fonctionnent sans eux. AutoFlow construit ces systèmes et les maintient en fonctionnement, afin que vous puissiez vous concentrer sur le travail qui a réellement besoin de vous.",
+      "category": "AI & Machine Learning",
+      "website": "https://autoflow-28.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T06:01:47.521687+00:00"
+    },
+    {
+      "name": "DevPulse — Autonomous Code Review Agent",
+      "slug": "polsia-devpulse-ai-6",
+      "description": "\"Password comparison uses==instead of===. Due to JS type coercion,'password' == 'Password'evaluates totrue, allowing bypass via case-variant inputs. Use strict equality orbcrypt.compare().\"",
+      "description_fr": "\"La comparaison de mots de passe utilise == au lieu de ===. En raison de la coercition de type JS, 'password' == 'Password' est évalué à vrai, permettant le contournement via des entrées de variantes de casse. Utilisez l'égalité stricte orbcrypt.compare().\"",
+      "category": "Marketing & Advertising",
+      "website": "https://devpulse-ai-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T06:01:49.071379+00:00"
+    },
+    {
+      "name": "VolumeOS — Il Sistema Operativo per Trader Professionisti",
+      "slug": "polsia-volumeos",
+      "description": "La maggior parte dei corsi di trading vendono promesse. La terza dimensione —\n      volume, flussi reali, microstruttura — richiede disciplina, metodo, e un\n      accompagnamento costante. Chi costruisce questo percorso nel modo giusto\n      merita un sistema operativo che tenga il passo.",
+      "description_fr": "La majeure partie des transactions commerciales de vente de promesses. La troisième dimension —\n      volume, flux réels, microstructure — discipline riche, méthode, et un\n      accompagnement constant. Chi costruisce questo percorso nel modo giusto\n      mérite un système opérationnel qui permet de le faire.",
+      "category": "Finance & Fintech",
+      "website": "https://volumeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T06:01:50.756375+00:00"
+    },
+    {
+      "name": "HerbOS — Run Herb at Scale",
+      "slug": "polsia-herbos",
+      "description": "Herb generates millions of pages of traffic a month. The question isn't whether the content works — it's whether the operations behind it scale. Most media companies hire people to do what autonomous systems can do faster.",
+      "description_fr": "Herb génère des millions de pages de trafic par mois. La question n’est pas de savoir si le contenu fonctionne, mais plutôt de savoir si les opérations qui le sous-tendent évoluent. La plupart des entreprises de médias embauchent du personnel pour faire ce que les systèmes autonomes peuvent faire plus rapidement.",
+      "category": "Entertainment & Media",
+      "website": "https://herbos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T06:01:51.477529+00:00"
     }
   ]
 }
