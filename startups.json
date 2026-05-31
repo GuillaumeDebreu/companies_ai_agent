@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T20:20:47.686065+00:00",
+  "last_updated": "2026-05-31T21:30:20.216726+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -144224,12 +144224,15 @@
       "scraped_at": "2026-05-31T15:48:27.706282+00:00"
     },
     {
-      "name": "ClearPath",
+      "name": "ClearPath — AI",
       "slug": "polsia-clearpath-22",
+      "description": "The EUDR enforcement date is fixed. Your supply chain isn't getting simpler. ClearPath does the monitoring, the documentation, and the risk flagging — so your shipments don't hold up at customs.",
+      "description_fr": "La date d’entrée en vigueur du EUDR est fixée. Votre chaîne d'approvisionnement ne devient pas plus simple. ClearPath effectue la surveillance, la documentation et le signalement des risques afin que vos envois ne soient pas retardés à la douane.",
+      "category": "AI & Machine Learning",
       "website": "https://clearpath-22.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-31T14:23:55.353795+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-31T21:30:14.918232+00:00"
     },
     {
       "name": "LiftBox — Gifts That Actually Land",
@@ -144733,12 +144736,15 @@
       "scraped_at": "2026-05-31T19:09:48.406332+00:00"
     },
     {
-      "name": "FuelOPS",
+      "name": "FuelOPS — Operating System for Sales Excellence",
       "slug": "polsia-fuelops",
+      "description": "Most sales training is a collection of tips. FuelOPS is asystem— the same one that produced 4x #1 Account Executives and 13x President's Club winners. The difference between a tip and a system is the difference between hoping you'll crush quota andknowingyou will.",
+      "description_fr": "La plupart des formations commerciales sont une collection de conseils. FuelOPS est un système, le même qui a produit 4x #1 Account Executives et 13x gagnants du President's Club. La différence entre un pourboire et un système est la différence entre espérer que vous dépasserez votre quota et savoir que vous le ferez.",
+      "category": "Sales & CRM",
       "website": "https://fuelops.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-31T20:20:28.153671+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-31T21:30:17.490580+00:00"
     },
     {
       "name": "Legibly — Legal Operations for South African SMEs",
@@ -144752,12 +144758,15 @@
       "scraped_at": "2026-05-31T20:20:47.565737+00:00"
     },
     {
-      "name": "LaunchCraft",
+      "name": "LaunchCraft — Websites + AI for Kenyan Small Businesses",
       "slug": "polsia-launchcraft-11",
+      "description": "Professional websites and AI-powered marketing tools for Kenyan small businesses. Built fast, priced for growth.",
+      "description_fr": "Sites Web professionnels et outils marketing basés sur l'IA pour les petites entreprises kenyanes. Construit rapidement, tarifé pour la croissance.",
+      "category": "AI & Machine Learning",
       "website": "https://launchcraft-11.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-31T20:20:28.832173+00:00"
+      "status": "live",
+      "scraped_at": "2026-05-31T21:30:18.738231+00:00"
     },
     {
       "name": "SoleVault — Smarter Jordan Reselling",
@@ -144835,6 +144844,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-05-31T20:20:37.081222+00:00"
+    },
+    {
+      "name": "CartallyOS",
+      "slug": "polsia-cartallyos",
+      "website": "https://cartallyos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T21:30:08.507146+00:00"
+    },
+    {
+      "name": "Vocalize AI — AI Voice Sales Agents",
+      "slug": "polsia-vocalize-ai-2",
+      "description": "Vocalize AI gives every sales team an autonomous voice agent that works around the clock, speaks to every lead, and books qualified meetings directly into your calendar.",
+      "description_fr": "Vocalize AI offre à chaque équipe commerciale un agent vocal autonome qui travaille 24 heures sur 24, parle à chaque prospect et réserve des réunions qualifiées directement dans votre calendrier.",
+      "category": "AI & Machine Learning",
+      "website": "https://vocalize-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T21:30:19.342494+00:00"
+    },
+    {
+      "name": "PrintLoom",
+      "slug": "polsia-printloom",
+      "website": "https://printloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T21:30:09.095650+00:00"
+    },
+    {
+      "name": "PulseSync",
+      "slug": "polsia-pulsesync-8",
+      "website": "https://pulsesync-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T21:30:09.436814+00:00"
+    },
+    {
+      "name": "ThreadOS",
+      "slug": "polsia-threados-5",
+      "website": "https://threados-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T21:30:09.558220+00:00"
+    },
+    {
+      "name": "OutboundOS",
+      "slug": "polsia-outbound-os-8",
+      "website": "https://outbound-os-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T21:30:09.688347+00:00"
+    },
+    {
+      "name": "CareFlowOS — AI",
+      "slug": "polsia-careflowos-2",
+      "description": "Most care agencies juggle WhatsApp, paper care plans, and spreadsheets. CareFlowOS replaces all of that with one intelligent system that keeps clients safe, carers on schedule, and your CQC rating protected.",
+      "description_fr": "La plupart des agences de soins jonglent avec WhatsApp, les plans de soins papier et les feuilles de calcul. CareFlowOS remplace tout cela par un système intelligent qui assure la sécurité des clients, le respect des horaires des soignants et la protection de votre cote CQC.",
+      "category": "AI & Machine Learning",
+      "website": "https://careflowos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-05-31T21:30:10.400292+00:00"
+    },
+    {
+      "name": "CareOS",
+      "slug": "polsia-careos-4",
+      "website": "https://careos-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T21:30:10.526625+00:00"
+    },
+    {
+      "name": "DSTRØY",
+      "slug": "polsia-dstroy",
+      "website": "https://dstroy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T21:30:10.707781+00:00"
+    },
+    {
+      "name": "LaunchProof",
+      "slug": "polsia-launchproof-2",
+      "website": "https://launchproof-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-05-31T21:30:10.955618+00:00"
     }
   ]
 }
