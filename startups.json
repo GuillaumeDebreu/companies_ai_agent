@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T11:37:25.039500+00:00",
+  "last_updated": "2026-06-01T13:04:24.965487+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -145280,12 +145280,15 @@
       "scraped_at": "2026-06-01T02:03:16.517286+00:00"
     },
     {
-      "name": "ClipCraft",
+      "name": "ClipCraft — Short",
       "slug": "polsia-clipcraft-88",
+      "description": "A restaurant with four good TikToks gets more organic reach than a business with a $10K/month ad budget. A gym that posts consistently has a waiting list. A contractor who documents their work builds a pipeline that doesn't depend on referrals.",
+      "description_fr": "Un restaurant avec quatre bons TikToks obtient une portée plus organique qu'une entreprise avec un budget publicitaire de 10 000 $/mois. Un gymnase qui publie régulièrement a une liste d’attente. Un entrepreneur qui documente son travail construit un pipeline qui ne dépend pas des références.",
+      "category": "Marketing & Advertising",
       "website": "https://clipcraft-88.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-01T07:18:42.655310+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-01T13:04:21.388371+00:00"
     },
     {
       "name": "Shipline",
@@ -145318,12 +145321,15 @@
       "scraped_at": "2026-06-01T07:18:45.595901+00:00"
     },
     {
-      "name": "Codelith",
+      "name": "Codelith — Autonomous AI Coding Agents",
       "slug": "polsia-codelith",
+      "description": "Codelith agents work around the clock. They review pull requests, catch bugs before they ship, write tests, and push features. You sleep. They ship.",
+      "description_fr": "Les agents Codelith travaillent 24 heures sur 24. Ils examinent les demandes d'extraction, détectent les bogues avant leur expédition, écrivent des tests et diffusent des fonctionnalités. Tu dors. Ils expédient.",
+      "category": "AI & Machine Learning",
       "website": "https://codelith.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-01T07:18:45.889150+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-01T13:04:23.700331+00:00"
     },
     {
       "name": "mcpbase — Ship MCP servers to any AI client",
@@ -145376,6 +145382,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-01T07:18:52.413245+00:00"
+    },
+    {
+      "name": "FlairD",
+      "slug": "polsia-flaird",
+      "website": "https://flaird.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-01T13:04:08.027419+00:00"
+    },
+    {
+      "name": "PulseSync",
+      "slug": "polsia-pulsesync-9",
+      "website": "https://pulsesync-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-01T13:04:08.325234+00:00"
+    },
+    {
+      "name": "HelixOS",
+      "slug": "polsia-helixos-2026",
+      "website": "https://helixos-2026.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-01T13:04:08.575037+00:00"
+    },
+    {
+      "name": "Percy — Smarter Hospitality Procurement",
+      "slug": "polsia-percyos",
+      "description": "Percy started because the founder ran a café and spent years overpaying for supplies without knowing it. He built Percy to solve that problem — and to give every independent operator the same purchasing intelligence that chains have paid consultants to get.",
+      "description_fr": "Percy a commencé parce que le fondateur dirigeait un café et passait des années à payer trop cher ses fournitures sans le savoir. Il a construit Percy pour résoudre ce problème – et pour donner à chaque opérateur indépendant la même intelligence d’achat que celle pour laquelle les chaînes ont payé des consultants.",
+      "category": "Travel & Hospitality",
+      "website": "https://percyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-01T13:04:09.696858+00:00"
+    },
+    {
+      "name": "Starkview — AR Smart Glasses for Gamers",
+      "slug": "polsia-starkview",
+      "description": "Starkview is a product for gamers who take their performance seriously. Edge AI, AR HUD, bone conduction, camera, mic, and blue-light protection — all in a device that looks like eyewear, not a headset.",
+      "description_fr": "Starkview est un produit destiné aux joueurs qui prennent leurs performances au sérieux. Edge AI, AR HUD, conduction osseuse, caméra, micro et protection contre la lumière bleue, le tout dans un appareil qui ressemble à des lunettes, pas à un casque.",
+      "category": "AI & Machine Learning",
+      "website": "https://starkview.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-01T13:04:10.905086+00:00"
+    },
+    {
+      "name": "Showside — The Business Agent for Live Performers",
+      "slug": "polsia-valia",
+      "description": "Almost none of them have staff. They're the performer, the manager, the marketing team, the booking agent, and the accountant — all at once. The admin grind is why most of them burn out or plateau, not a lack of talent.",
+      "description_fr": "Presque aucun d’entre eux n’a de personnel. Ils sont à la fois l'interprète, le manager, l'équipe marketing, l'agent de réservation et le comptable. La difficulté de l'administration est la raison pour laquelle la plupart d'entre eux s'épuisent ou stagnent, et non un manque de talent.",
+      "category": "Marketing & Advertising",
+      "website": "https://valia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-01T13:04:12.616131+00:00"
+    },
+    {
+      "name": "SignalWatch",
+      "slug": "polsia-signalwatch-12",
+      "website": "https://signalwatch-12.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-01T13:04:12.970322+00:00"
+    },
+    {
+      "name": "GlowCraft",
+      "slug": "polsia-untitled-1780318555699-0sjx",
+      "website": "https://untitled-1780318555699-0sjx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-01T13:04:13.330144+00:00"
+    },
+    {
+      "name": "PoolPilot — Professional Pool Cleaning, Dallas",
+      "slug": "polsia-poolpilot-6",
+      "description": "Transparent, technology-driven pool cleaning and maintenance for DFW homeowners. Photo reports, LSI chemistry logs, and real-time service documentation after every visit.",
+      "description_fr": "Nettoyage et entretien de piscine transparents et axés sur la technologie pour les propriétaires de DFW. Rapports photo, journaux chimiques LSI et documentation de service en temps réel après chaque visite.",
+      "category": "Real Estate",
+      "website": "https://poolpilot-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-01T13:04:14.705513+00:00"
+    },
+    {
+      "name": "ApnaTutorOS",
+      "slug": "polsia-apnatutoros",
+      "website": "https://apnatutoros.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-01T13:04:15.118305+00:00"
     }
   ]
 }
