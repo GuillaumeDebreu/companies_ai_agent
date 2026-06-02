@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T21:50:16.659222+00:00",
+  "last_updated": "2026-06-02T23:25:06.991216+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -146321,12 +146321,15 @@
       "scraped_at": "2026-06-02T21:50:15.955737+00:00"
     },
     {
-      "name": "SageBridge",
+      "name": "SageBridge — Cognitive Engagement for Every Stage of Life",
       "slug": "polsia-sagebridge",
+      "description": "Research consistently shows that regular language arts engagement — reading, writing, discussing, storytelling — strengthens executive function and memory in older adults. Yet delivering this at scale has always required trained facilitators. SageBridge changes that.",
+      "description_fr": "La recherche montre systématiquement qu’un engagement régulier dans les arts du langage – lecture, écriture, discussion, narration – renforce les fonctions exécutives et la mémoire chez les personnes âgées. Pourtant, pour y parvenir à grande échelle, il a toujours fallu des facilitateurs formés. SageBridge change cela.",
+      "category": "Other",
       "website": "https://sagebridge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-02T21:49:59.750621+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-02T23:25:03.112844+00:00"
     },
     {
       "name": "LeadBridge",
@@ -146337,12 +146340,15 @@
       "scraped_at": "2026-06-02T21:50:00.054502+00:00"
     },
     {
-      "name": "GanaFit",
+      "name": "GanaFit — Membresía de Fitness Digital para México y LATAM",
       "slug": "polsia-ganafit",
+      "description": "Accede a entrenamientos en español, diseñados para tu cuerpo y tu cultura. Desde $9.99 USD al mes.",
+      "description_fr": "Accédez à des entretiens en espagnol, conçus pour votre corps et votre culture. À partir de 9,99 $ USD par mois.",
+      "category": "Health & Wellness",
       "website": "https://ganafit.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-02T21:50:00.234453+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-02T23:25:04.359225+00:00"
     },
     {
       "name": "JobRun",
@@ -146380,10 +146386,13 @@
     {
       "name": "BookBridge",
       "slug": "polsia-bookbridge-7",
+      "description": "Upload your manuscript. AI reads it, creates your marketing content, and distributes it everywhere. Automatically.",
+      "description_fr": "Téléchargez votre manuscrit. L'IA le lit, crée votre contenu marketing et le distribue partout. Automatiquement.",
+      "category": "AI & Machine Learning",
       "website": "https://bookbridge-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-02T21:50:05.002241+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-02T23:25:05.673256+00:00"
     },
     {
       "name": "Forge — The AI Back Office for Content Creators",
@@ -146417,6 +146426,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-02T21:50:09.307626+00:00"
+    },
+    {
+      "name": "LocalOS",
+      "slug": "polsia-localos-11",
+      "website": "https://localos-11.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T23:24:53.854897+00:00"
+    },
+    {
+      "name": "TracePoint",
+      "slug": "polsia-tracepoint-ai",
+      "website": "https://tracepoint-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T23:24:54.065844+00:00"
+    },
+    {
+      "name": "RevRun",
+      "slug": "polsia-revrun-2",
+      "website": "https://revrun-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T23:24:54.214052+00:00"
+    },
+    {
+      "name": "CallForce",
+      "slug": "polsia-callforce-2",
+      "website": "https://callforce-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T23:24:54.416714+00:00"
+    },
+    {
+      "name": "LeadFence — Exclusive Leads for Home Service Contractors",
+      "slug": "polsia-leadfence",
+      "description": "One contractor per territory. AI-screened leads worth $150–$400 each. No shared leads. No platform middlemen.",
+      "description_fr": "Un entrepreneur par territoire. Des prospects sélectionnés par l'IA d'une valeur de 150 $ à 400 $ chacun. Pas de pistes partagées. Pas d’intermédiaires de plateforme.",
+      "category": "Software & SaaS",
+      "website": "https://leadfence.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T23:24:55.914948+00:00"
+    },
+    {
+      "name": "FlavorIQ — AI That Knows Your Taste",
+      "slug": "polsia-flavoriq",
+      "description": "FlavorIQ is an autonomous AI agent that learns your unique taste profile, predicts what you'll crave, and curates personalized food experiences — 24/7.",
+      "description_fr": "FlavorIQ est un agent d'IA autonome qui apprend votre profil gustatif unique, prédit ce dont vous aurez envie et organise des expériences culinaires personnalisées, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://flavoriq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T23:25:06.894253+00:00"
+    },
+    {
+      "name": "QueryPilot — Your AI Research Analyst, Always On",
+      "slug": "polsia-querypilot-13",
+      "description": "QueryPilot is an AI agent that monitors your competitors 24/7 and delivers actionable intelligence every morning. No more manual research.",
+      "description_fr": "QueryPilot est un agent IA qui surveille vos concurrents 24h/24 et 7j/7 et fournit des informations exploitables chaque matin. Plus de recherche manuelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://querypilot-13.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T23:24:57.054599+00:00"
+    },
+    {
+      "name": "Launchpad",
+      "slug": "polsia-launchpad-ai-70",
+      "website": "https://launchpad-ai-70.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T23:24:57.213577+00:00"
+    },
+    {
+      "name": "SignalWatch — Autonomous Infrastructure Monitoring",
+      "slug": "polsia-signalwatch-14",
+      "description": "Datadog shows you the graph. PagerDuty routes the alert. Grafana makes the dashboard. None of them understand what's happening. You still have to interpret, triage, and decide — at 3 AM, when the stakes are highest.",
+      "description_fr": "Datadog vous montre le graphique. PagerDuty achemine l'alerte. Grafana réalise le tableau de bord. Aucun d’eux ne comprend ce qui se passe. Vous devez encore interpréter, trier et décider – à 3 heures du matin, lorsque les enjeux sont les plus élevés.",
+      "category": "Software & SaaS",
+      "website": "https://signalwatch-14.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T23:24:58.610823+00:00"
+    },
+    {
+      "name": "PipelineOS — The Business Development Operating System",
+      "slug": "polsia-pipelineos-20",
+      "description": "We partner with serious, growth-focused teams who understand the value of professional support. Our ideal clients include B2B service providers, SaaS companies, and consultancies looking to scale without sacrificing quality. We intentionally maintain a manageable roster to ensure every client receives dedicated, high-level attention.",
+      "description_fr": "Nous travaillons en partenariat avec des équipes sérieuses et axées sur la croissance qui comprennent la valeur d'un accompagnement professionnel. Nos clients idéaux comprennent des prestataires de services B2B, des entreprises SaaS et des cabinets de conseil cherchant à évoluer sans sacrifier la qualité. Nous maintenons intentionnellement une liste gérable pour garantir que chaque client reçoive une attention dédiée et de haut niveau.",
+      "category": "Sales & CRM",
+      "website": "https://pipelineos-20.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T23:24:59.582058+00:00"
     }
   ]
 }
