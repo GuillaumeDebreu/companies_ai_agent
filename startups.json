@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T04:07:18.130416+00:00",
+  "last_updated": "2026-06-02T06:51:40.137105+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -144709,12 +144709,15 @@
       "scraped_at": "2026-05-31T19:09:46.747852+00:00"
     },
     {
-      "name": "InboxPilot",
+      "name": "InboxPilot — Autonomous Email Warmup Agent",
       "slug": "polsia-inboxpilot-45",
+      "description": "AI agent that handles email warmup, monitors deliverability, and keeps your cold outreach out of spam.",
+      "description_fr": "Agent IA qui gère le préchauffage des e-mails, surveille la délivrabilité et maintient votre contact froid à l'abri du spam.",
+      "category": "AI & Machine Learning",
       "website": "https://inboxpilot-45.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-05-31T19:09:46.881932+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-02T06:51:36.323770+00:00"
     },
     {
       "name": "ResonancePicnicOS",
@@ -145911,6 +145914,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-02T02:00:28.205291+00:00"
+    },
+    {
+      "name": "VividIQ",
+      "slug": "polsia-vividiq",
+      "website": "https://vividiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T06:51:21.376725+00:00"
+    },
+    {
+      "name": "Scour — The Ads Layer for Autonomous Agents",
+      "slug": "polsia-scour-2",
+      "description": "Users delegate shopping to open-source autonomous agents — Hermes, OpenClaw, custom agents — that scour the open web. Nobody is building ads for that layer. The entire $72B retail media market is built on human browse behavior.",
+      "description_fr": "Les utilisateurs délèguent leurs achats à des agents autonomes open source (Hermes, OpenClaw, agents personnalisés) qui parcourent le Web ouvert. Personne ne crée d'annonces pour cette couche. L’ensemble du marché des médias de détail, évalué à 72 milliards de dollars, repose sur le comportement de navigation humain.",
+      "category": "E-Commerce & Retail",
+      "website": "https://scour-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T06:51:22.591633+00:00"
+    },
+    {
+      "name": "KickSaaS",
+      "slug": "polsia-kicksaas",
+      "description": "From zero to your first paying SaaS customer. A structured, no-fluff guide for people who have no idea where to start.",
+      "description_fr": "De zéro à votre premier client SaaS payant. Un guide structuré et simple pour les personnes qui ne savent pas par où commencer.",
+      "category": "Software & SaaS",
+      "website": "https://kicksaas.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T06:51:23.806169+00:00"
+    },
+    {
+      "name": "Persona — Your AI Personal Brand Agent",
+      "slug": "polsia-persona-ai-2",
+      "description": "An AI agent that runs your personal brand autonomously. Content, social, growth — while you focus on your actual work.",
+      "description_fr": "Un agent IA qui gère votre marque personnelle de manière autonome. Contenu, réseaux sociaux, croissance – pendant que vous vous concentrez sur votre travail réel.",
+      "category": "AI & Machine Learning",
+      "website": "https://persona-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T06:51:25.045862+00:00"
+    },
+    {
+      "name": "Papr",
+      "slug": "polsia-papr-ai",
+      "website": "https://papr-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T06:51:25.421994+00:00"
+    },
+    {
+      "name": "ShiftFrame",
+      "slug": "polsia-shiftframe-3",
+      "website": "https://shiftframe-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T06:51:25.847939+00:00"
+    },
+    {
+      "name": "SiteLoop — Field Operations, Autonomous",
+      "slug": "polsia-sloop",
+      "description": "SiteLoop replaces the spreadsheets, the WhatsApp threads, and the 6am scramble. Intelligent dispatch, automated compliance, real-time client reporting — all wired into one system that works as hard as your crew.",
+      "description_fr": "SiteLoop remplace les feuilles de calcul, les fils de discussion WhatsApp et le brouillage de 6 heures du matin. Répartition intelligente, conformité automatisée, reporting client en temps réel : le tout intégré dans un seul système qui travaille aussi dur que votre équipe.",
+      "category": "Other",
+      "website": "https://sloop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T06:51:27.461833+00:00"
+    },
+    {
+      "name": "StargazeOS — Run Your Cosmic Business",
+      "slug": "polsia-stargazeos",
+      "description": "Ancient wisdom, premium experience, global scale. The platforms that treat spiritual guidance as serious technology — not a novelty chatbot — will own the next billion users.",
+      "description_fr": "Sagesse ancienne, expérience premium, échelle mondiale. Les plateformes qui traitent l’orientation spirituelle comme une technologie sérieuse – et non comme un chatbot inédit – détiendront le prochain milliard d’utilisateurs.",
+      "category": "Software & SaaS",
+      "website": "https://stargazeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T06:51:28.605282+00:00"
+    },
+    {
+      "name": "FlavorDesk — The AI Agent That Runs Your Restaurant PR",
+      "slug": "polsia-flavordeskl",
+      "description": "FlavorDesk gives every restaurant the PR firepower of a Michelin-starred group —\n      without the agency retainer. Built for the independents who have the food,\n      just not the bandwidth.",
+      "description_fr": "FlavorDesk donne à chaque restaurant la puissance de feu des relations publiques d'un groupe étoilé Michelin —\n      sans le mandat de l'agence. Construit pour les indépendants qui ont de la nourriture,\n      mais pas la bande passante.",
+      "category": "AI & Machine Learning",
+      "website": "https://flavordeskl.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T06:51:30.444109+00:00"
+    },
+    {
+      "name": "Altrovè — Car Rental, Noci, Puglia",
+      "slug": "polsia-altrove",
+      "description": "Altrovè is a local car rental in Noci — compact cars and a 9-seat van for exploring the Valle d'Itria and the Salento coast at your pace.",
+      "description_fr": "Altrovè est une location de voitures locale à Noci : des voitures compactes et une camionnette 9 places pour explorer la vallée d'Itria et la côte du Salento à votre rythme.",
+      "category": "Travel & Hospitality",
+      "website": "https://altrove.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T06:51:31.947408+00:00"
     }
   ]
 }
