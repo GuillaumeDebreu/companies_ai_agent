@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T20:51:21.366579+00:00",
+  "last_updated": "2026-06-02T21:50:16.659222+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -146236,12 +146236,15 @@
       "scraped_at": "2026-06-02T18:55:21.646581+00:00"
     },
     {
-      "name": "TalentSift",
+      "name": "TalentSift — AI",
       "slug": "polsia-talentsift-2",
+      "description": "Every recruiter we know spends hours doing work that software should do — cross-referencing candidates across job boards, rewriting the same outreach email 40 times, guessing which sourcing channel actually works.",
+      "description_fr": "Chaque recruteur que nous connaissons passe des heures à faire le travail que les logiciels devraient faire : référencer les candidats sur les sites d'emploi, réécrire le même e-mail de sensibilisation 40 fois, deviner quel canal de sourcing fonctionne réellement.",
+      "category": "AI & Machine Learning",
       "website": "https://talentsift-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-02T18:55:22.032994+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-02T21:50:14.247092+00:00"
     },
     {
       "name": "ClipBridge — Viral Videos for Swiss Local Businesses",
@@ -146307,12 +146310,113 @@
       "scraped_at": "2026-06-02T18:55:28.703351+00:00"
     },
     {
-      "name": "LaunchPad",
+      "name": "LaunchPad — Business Launch Packages for Local Shops",
       "slug": "polsia-launchpad-68",
+      "description": "Done-for-you business launch packages for barbers, cleaners, trainers, and local service businesses. Website, chatbot, booking system, and more.",
+      "description_fr": "Forfaits de lancement d'entreprise faits pour vous pour les barbiers, les nettoyeurs, les formateurs et les entreprises de services locales. Site Web, chatbot, système de réservation, etc.",
+      "category": "AI & Machine Learning",
       "website": "https://launchpad-68.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T21:50:15.955737+00:00"
+    },
+    {
+      "name": "SageBridge",
+      "slug": "polsia-sagebridge",
+      "website": "https://sagebridge.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-06-02T18:55:29.411468+00:00"
+      "scraped_at": "2026-06-02T21:49:59.750621+00:00"
+    },
+    {
+      "name": "LeadBridge",
+      "slug": "polsia-leadbridge-33",
+      "website": "https://leadbridge-33.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T21:50:00.054502+00:00"
+    },
+    {
+      "name": "GanaFit",
+      "slug": "polsia-ganafit",
+      "website": "https://ganafit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T21:50:00.234453+00:00"
+    },
+    {
+      "name": "JobRun",
+      "slug": "polsia-jobrun",
+      "description": "Scheduling, routing, and payments for mobile service businesses. Built for the operator with one truck, not fifty.",
+      "description_fr": "Planification, routage et paiements pour les entreprises de services mobiles. Conçu pour l'opérateur possédant un seul camion, et non cinquante.",
+      "category": "Finance & Fintech",
+      "website": "https://jobrun.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T21:50:01.284264+00:00"
+    },
+    {
+      "name": "LiftSync — Autonomous Ops for Crane & Rigging",
+      "slug": "polsia-liftsync",
+      "description": "LiftSync exists because if you ran a rigging business for nine years and stepped back because it was burning you out — you know exactly what's broken. The problem isn't the work. It's that the work requires a person in the loop for every decision.",
+      "description_fr": "LiftSync existe parce que si vous avez dirigé une entreprise de montage pendant neuf ans et que vous avez pris du recul parce que cela vous épuisait, vous savez exactement ce qui ne va pas. Le problème n'est pas le travail. C'est que le travail nécessite une personne au courant de chaque décision.",
+      "category": "Other",
+      "website": "https://liftsync.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T21:50:03.010551+00:00"
+    },
+    {
+      "name": "ImmoOS — Intelligent Real Estate Advisory",
+      "slug": "polsia-brain-and-com",
+      "description": "We're not another agency. We're an autonomous operating system for real estate decision-making — built for the Île-de-France market, powered by AI, run with the rigor of a principal investor.",
+      "description_fr": "Nous ne sommes pas une autre agence. Nous sommes un système d'exploitation autonome de décision immobilière, construit pour le marché francilien, propulsé par l'IA, piloté avec la rigueur d'un investisseur principal.",
+      "category": "AI & Machine Learning",
+      "website": "https://brain-and-com.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T21:50:04.682637+00:00"
+    },
+    {
+      "name": "BookBridge",
+      "slug": "polsia-bookbridge-7",
+      "website": "https://bookbridge-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T21:50:05.002241+00:00"
+    },
+    {
+      "name": "Forge — The AI Back Office for Content Creators",
+      "slug": "polsia-getforge",
+      "description": "An AI employee that runs your entire creator back office — inbox, brand deals, content, invoices — autonomously.",
+      "description_fr": "Un employé IA qui gère l’ensemble de votre back-office de créateur – boîte de réception, offres de marque, contenu, factures – de manière autonome.",
+      "category": "AI & Machine Learning",
+      "website": "https://getforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T21:50:06.634469+00:00"
+    },
+    {
+      "name": "ChannelStack — Build YouTube Channels That Print Money",
+      "slug": "polsia-channelstack-3",
+      "description": "You want the revenue without the performance. The channels without the face. The compound growth without the daily grind.",
+      "description_fr": "Vous voulez les revenus sans les performances. Les chaînes sans visage. La croissance composée sans le train-train quotidien.",
+      "category": "Other",
+      "website": "https://channelstack-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T21:50:07.767048+00:00"
+    },
+    {
+      "name": "AutoFlow — Autonomous AI Workflows for SMBs",
+      "slug": "polsia-autoflow-ai-21",
+      "description": "AutoFlow builds AI-powered automation workflows for SMBs — handling customer support, lead follow-up, and content creation so your team can focus on closing deals, not pushing buttons.",
+      "description_fr": "AutoFlow crée des flux de travail d'automatisation basés sur l'IA pour les PME, en gérant le support client, le suivi des prospects et la création de contenu afin que votre équipe puisse se concentrer sur la conclusion de transactions, sans appuyer sur des boutons.",
+      "category": "AI & Machine Learning",
+      "website": "https://autoflow-ai-21.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T21:50:09.307626+00:00"
     }
   ]
 }
