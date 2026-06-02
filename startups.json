@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T10:25:59.886697+00:00",
+  "last_updated": "2026-06-02T11:12:27.764484+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -146015,6 +146015,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-02T06:51:31.947408+00:00"
+    },
+    {
+      "name": "WaitPulse",
+      "slug": "polsia-waitpulse",
+      "website": "https://waitpulse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T11:12:11.762381+00:00"
+    },
+    {
+      "name": "Output",
+      "slug": "polsia-output-work",
+      "website": "https://output-work.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T11:12:12.008015+00:00"
+    },
+    {
+      "name": "AngelGuard",
+      "slug": "polsia-angelguard",
+      "website": "https://angelguard.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T11:12:12.385459+00:00"
+    },
+    {
+      "name": "RampOut",
+      "slug": "polsia-rampout",
+      "description": "You hire an SDR. They spend 6 months ramping, then quit. You repeat. Meanwhile your pipeline is feast or famine, your competitors move faster, and you're managing headcount instead of closing deals.",
+      "description_fr": "Vous engagez un SDR. Ils passent 6 mois à monter en puissance, puis arrêtent. Vous répétez. Pendant ce temps, votre pipeline est en fête ou en famine, vos concurrents évoluent plus rapidement et vous gérez les effectifs au lieu de conclure des affaires.",
+      "category": "Marketing & Advertising",
+      "website": "https://rampout.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T11:12:27.442765+00:00"
+    },
+    {
+      "name": "ShipKit — Autonomous Frontend Agency",
+      "slug": "polsia-shipkit-dev-2",
+      "description": "Frontend development has a productivity problem. Not a tooling problem. The tools got better — the process didn't. Developers still spend weeks writing components that AI can generate in hours. The bottleneck isn't code generation. It's the human in the loop.",
+      "description_fr": "Le développement frontend a un problème de productivité. Pas un problème d'outillage. Les outils se sont améliorés, mais pas le processus. Les développeurs passent encore des semaines à écrire des composants que l’IA peut générer en quelques heures. Le goulot d'étranglement n'est pas la génération de code. C'est l'humain dans la boucle.",
+      "category": "AI & Machine Learning",
+      "website": "https://shipkit-dev-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T11:12:13.733642+00:00"
+    },
+    {
+      "name": "TapeStack",
+      "slug": "polsia-tapestack",
+      "description": "TapeStack's AI analyzes your catalog and sequences tracks in a natural flow. It generates an intro and outro, and creates smooth transitions between every track.",
+      "description_fr": "L'IA de TapeStack analyse votre catalogue et séquence les pistes dans un flux naturel. Il génère une intro et une outro et crée des transitions fluides entre chaque piste.",
+      "category": "AI & Machine Learning",
+      "website": "https://tapestack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T11:12:15.107798+00:00"
+    },
+    {
+      "name": "GrowthForgeOS — AI Operating System for Scaling Businesses",
+      "slug": "polsia-growthforgeos-5",
+      "description": "Every successful company eventually asks: how do we do more without more people? The old answer was tools. The new answer is autonomous intelligence — AI agents that don't just assist your work, but replace the manual work itself.",
+      "description_fr": "Toute entreprise qui réussit finit par se demander : comment faire plus sans plus de personnel ? L’ancienne réponse était les outils. La nouvelle réponse est l'intelligence autonome : des agents d'IA qui ne se contentent pas de vous aider dans votre travail, mais remplacent le travail manuel lui-même.",
+      "category": "AI & Machine Learning",
+      "website": "https://growthforgeos-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T11:12:16.684909+00:00"
+    },
+    {
+      "name": "Akozin Group — West Africa's Multi",
+      "slug": "polsia-akozin",
+      "description": "Benin has 200,000 hectares of irrigable land. The government backs agricultural industrialization through the Glo-Djigbé Industrial Zone (GDIZ). World Bank investment in agri-food value chains exceeds $150 million. The infrastructure is there — we build the operations around it.",
+      "description_fr": "Le Bénin dispose de 200 000 hectares de terres irrigables. Le gouvernement soutient l'industrialisation agricole à travers la Zone Industrielle de Glo-Djigbé (GDIZ). Les investissements de la Banque mondiale dans les chaînes de valeur agroalimentaires dépassent 150 millions de dollars. L’infrastructure est là – nous construisons les opérations autour d’elle.",
+      "category": "Finance & Fintech",
+      "website": "https://akozin.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T11:12:17.986497+00:00"
+    },
+    {
+      "name": "Flour — Farina e Cucina, Rome",
+      "slug": "polsia-fornoos-2",
+      "description": "Compleanni, comunioni, lauree, anniversari. Our catering team handles events of all sizes — with menus built around your guests, not a fixed list. Kosher, milk-free, vegetarian. All dietary needs met without compromise.",
+      "description_fr": "Compleanni, comunioni, lauree, anniversari. Notre équipe de restauration gère des événements de toutes tailles — avec des menus élaborés en fonction de vos invités, et non d'une liste fixe. Casher, sans lait, végétarien. Tous les besoins alimentaires satisfaits sans compromis.",
+      "category": "Food & Beverage",
+      "website": "https://fornoos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-02T11:12:19.124326+00:00"
+    },
+    {
+      "name": "KushalOS",
+      "slug": "polsia-kushalos",
+      "website": "https://kushalos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-02T11:12:19.330784+00:00"
     }
   ]
 }
