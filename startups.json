@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T04:17:18.171766+00:00",
+  "last_updated": "2026-06-03T07:11:56.274032+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -146535,28 +146535,37 @@
       "scraped_at": "2026-06-02T23:24:59.582058+00:00"
     },
     {
-      "name": "ProofOps",
+      "name": "ProofOps — AI Agent Reliability",
       "slug": "polsia-proofops-2",
+      "description": "ProofOps is the operational layer that makes production AI agents trustworthy — rollback, guardrails, trace visibility, and bounded failure modes. Built for teams that ship AI, not just demo it.",
+      "description_fr": "ProofOps est la couche opérationnelle qui rend les agents d'IA de production dignes de confiance : restauration, garde-corps, visibilité des traces et modes de défaillance limités. Conçu pour les équipes qui proposent l'IA, pas seulement pour en faire une démonstration.",
+      "category": "AI & Machine Learning",
       "website": "https://proofops-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-03T02:08:50.912716+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-03T07:11:49.724715+00:00"
     },
     {
-      "name": "AgentDesk",
+      "name": "AgentDesk — The AI Insurance Agency",
       "slug": "polsia-agentdesk-8",
+      "description": "The independent insurance agent built America. They protect families, farms, and businesses in every county in every state. But they've been fighting with the same broken tools for 20 years — running on instinct, chasing paper, missing the follow-up that would have saved the account.",
+      "description_fr": "L’agent d’assurance indépendant a construit l’Amérique. Ils protègent les familles, les fermes et les entreprises dans chaque comté et dans chaque État. Mais ils se battent depuis 20 ans avec les mêmes outils défectueux : courir à l'instinct, courir après le papier, rater la suite qui aurait sauvé le compte.",
+      "category": "AI & Machine Learning",
       "website": "https://agentdesk-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-03T02:08:51.246187+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-03T07:11:50.762375+00:00"
     },
     {
-      "name": "GreenCommand",
+      "name": "GreenCommand OS",
       "slug": "polsia-greencommand",
+      "description": "Most lawn care businesses run on phone calls, sticky notes, and a calendar that lives in someone's head.That's not a business. That's a job that follows you everywhere.GreenCommand replaces all of it — with a system that knows your schedule, follows up with customers, sends invoices, and keeps your crew moving without you having to be the air traffic controller.",
+      "description_fr": "La plupart des entreprises d'entretien des pelouses fonctionnent grâce à des appels téléphoniques, des notes autocollantes et un calendrier qui vit dans la tête de quelqu'un. Ce n'est pas une entreprise. C'est un travail qui vous suit partout. GreenCommand remplace tout cela — par un système qui connaît votre emploi du temps, assure le suivi des clients, envoie des factures et maintient votre équipage en mouvement sans que vous ayez à être le contrôleur aérien.",
+      "category": "AI & Machine Learning",
       "website": "https://greencommand.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-03T02:08:51.492073+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-03T07:11:52.562539+00:00"
     },
     {
       "name": "Draftloop — AI",
@@ -146570,12 +146579,15 @@
       "scraped_at": "2026-06-03T02:08:52.075738+00:00"
     },
     {
-      "name": "FreelanceOS",
+      "name": "FreelanceOS — Autonomous AI Agent for Brazilian Freelancers",
       "slug": "polsia-freelanceos-4",
+      "description": "\"Most freelancers in Brazil lose 40-60% of their working hours to admin work that doesn't pay. Contracts, invoices, payment follow-ups, tax calculations — the business side of freelancing is a second full-time job on top of the actual work.\"",
+      "description_fr": "\"La plupart des freelances au Brésil perdent 40 à 60 % de leurs heures de travail à cause de tâches administratives non rémunératrices. Contrats, factures, suivis de paiement, calculs d'impôts - l'aspect commercial du travail indépendant est un deuxième emploi à temps plein en plus du travail réel.\"",
+      "category": "AI & Machine Learning",
       "website": "https://freelanceos-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-03T02:08:52.273950+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-03T07:11:54.457089+00:00"
     },
     {
       "name": "ERR_ — Future Culture. Limited Drops.",
@@ -146628,6 +146640,98 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-06-03T02:08:57.436636+00:00"
+    },
+    {
+      "name": "Postwise",
+      "slug": "polsia-postwise-4",
+      "website": "https://postwise-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-03T07:11:34.705377+00:00"
+    },
+    {
+      "name": "Learna",
+      "slug": "polsia-learna-ai",
+      "website": "https://learna-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-03T07:11:34.999290+00:00"
+    },
+    {
+      "name": "SyncWave",
+      "slug": "polsia-syncwave-ai-2",
+      "website": "https://syncwave-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-03T07:11:35.303976+00:00"
+    },
+    {
+      "name": "RunOps",
+      "slug": "polsia-runops-automation",
+      "website": "https://runops-automation.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-03T07:11:35.717744+00:00"
+    },
+    {
+      "name": "ScentOS — Operating System for JSudha House of Perfume",
+      "slug": "polsia-scentos-5",
+      "description": "The Five Elements is a diagnostic system. Each element corresponds to a domain of life and a category of concern. We read your situation through these elements and compose for what is missing — or for what you are reaching toward.",
+      "description_fr": "Les Cinq Éléments sont un système de diagnostic. Chaque élément correspond à un domaine de vie et à une catégorie de préoccupation. Nous analysons votre situation à travers ces éléments et composons pour ce qui manque – ou pour ce vers quoi vous tendez.",
+      "category": "Marketing & Advertising",
+      "website": "https://scentos-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-03T07:11:37.397682+00:00"
+    },
+    {
+      "name": "BrandDeck",
+      "slug": "polsia-branddeck-2",
+      "website": "https://branddeck-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-03T07:11:37.805805+00:00"
+    },
+    {
+      "name": "ReviewLoop",
+      "slug": "polsia-reviewloop-7",
+      "description": "Developers open a PR and wait hours — sometimes days — for feedback.\n      Senior devs burn out reviewing the same patterns across dozens of repos.\n      Meanwhile, logic bugs ship to production and security issues sit unpatched\n      because nobody had time to look.",
+      "description_fr": "Les développeurs ouvrent un PR et attendent des heures, parfois des jours, pour obtenir des commentaires.\n      Les développeurs seniors s'épuisent en examinant les mêmes modèles dans des dizaines de dépôts.\n      Pendant ce temps, les bogues logiques sont transmis à la production et les problèmes de sécurité ne sont pas corrigés.\n      parce que personne n'a eu le temps de regarder.",
+      "category": "Marketing & Advertising",
+      "website": "https://reviewloop-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-03T07:11:39.541186+00:00"
+    },
+    {
+      "name": "Clearhaven — Home Cleaning, Locally Run",
+      "slug": "polsia-clearhaven-2",
+      "description": "Clearhaven connects homeowners with vetted local cleaners — transparent pricing, no hidden fees, and a cleaner-first model that means reliable, consistent service every time.",
+      "description_fr": "Clearhaven met en relation les propriétaires avec des nettoyeurs locaux agréés : des prix transparents, pas de frais cachés et un modèle axé sur le nettoyage qui signifie un service fiable et cohérent à chaque fois.",
+      "category": "Real Estate",
+      "website": "https://clearhaven-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-03T07:11:41.029321+00:00"
+    },
+    {
+      "name": "Mnemora — Your Knowledge, Alive",
+      "slug": "polsia-mnemora-2",
+      "description": "Every article you read, every meeting you attend, every note you jot down becomes a node in your personal knowledge graph. Mnemora finds the connections you missed. Six months from now, it will remind you of an insight from today, exactly when it matters.",
+      "description_fr": "Chaque article que vous lisez, chaque réunion à laquelle vous assistez, chaque note que vous notez devient un nœud dans votre graphique de connaissances personnelles. Mnemora trouve les connexions que vous avez manquées. Dans six mois, cela vous rappellera un aperçu d’aujourd’hui, exactement au moment où cela compte.",
+      "category": "Sustainability & Green",
+      "website": "https://mnemora-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-03T07:11:42.831307+00:00"
+    },
+    {
+      "name": "GateVault",
+      "slug": "polsia-gatevault",
+      "website": "https://gatevault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-03T07:11:42.990208+00:00"
     }
   ]
 }
