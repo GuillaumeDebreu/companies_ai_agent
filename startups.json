@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T23:25:06.991216+00:00",
+  "last_updated": "2026-06-03T02:09:08.678659+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -146428,28 +146428,37 @@
       "scraped_at": "2026-06-02T21:50:09.307626+00:00"
     },
     {
-      "name": "LocalOS",
+      "name": "LocalOS — AI Marketing for Local Businesses",
       "slug": "polsia-localos-11",
+      "description": "Stop paying agencies that charge enterprise prices and deliver local results. LocalOS runs on AI precision — built for businesses that need growth, not a PowerPoint deck.",
+      "description_fr": "Arrêtez de payer les agences qui facturent des prix d'entreprise et fournissent des résultats locaux. LocalOS fonctionne sur la précision de l'IA, conçu pour les entreprises qui ont besoin de croissance, et non sur une présentation PowerPoint.",
+      "category": "AI & Machine Learning",
       "website": "https://localos-11.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-02T23:24:53.854897+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-03T02:09:02.207019+00:00"
     },
     {
       "name": "TracePoint",
       "slug": "polsia-tracepoint-ai",
+      "description": "An AI agent that monitors your API endpoints 24/7, predicts failures before they happen, and fixes them before your users notice. No dashboards. No rules to write.",
+      "description_fr": "Un agent IA qui surveille vos points de terminaison d'API 24h/24 et 7j/7, prédit les pannes avant qu'elles ne se produisent et les corrige avant que vos utilisateurs ne s'en aperçoivent. Pas de tableaux de bord. Aucune règle à écrire.",
+      "category": "Software & SaaS",
       "website": "https://tracepoint-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-02T23:24:54.065844+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-03T02:09:03.623918+00:00"
     },
     {
-      "name": "RevRun",
+      "name": "RevRun — AI Sales Agent That Books Meetings While You Sleep",
       "slug": "polsia-revrun-2",
+      "description": "Before sending anything, RevRun reads each prospect's recent news, funding, hiring, and product launches. The outreach isn't personalized with guesswork — it's grounded in real context.",
+      "description_fr": "Avant d'envoyer quoi que ce soit, RevRun lit les actualités récentes, le financement, l'embauche et les lancements de produits de chaque prospect. La sensibilisation n'est pas personnalisée avec des conjectures : elle est ancrée dans un contexte réel.",
+      "category": "Sales & CRM",
       "website": "https://revrun-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-02T23:24:54.214052+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-03T02:09:04.932568+00:00"
     },
     {
       "name": "CallForce",
@@ -146493,12 +146502,15 @@
       "scraped_at": "2026-06-02T23:24:57.054599+00:00"
     },
     {
-      "name": "Launchpad",
+      "name": "Launchpad — AI Agents for Email & SMS Marketing",
       "slug": "polsia-launchpad-ai-70",
+      "description": "Most marketing software is infrastructure for humans. You spend days configuring workflows, setting triggers, writing copy, and hoping you guessed the timing right. Launchpad changes that. Your agent has the context, the authority, and the autonomy to do the work — and the judgment to know when to escalate. You hired a marketer. Now there's one working around the clock.",
+      "description_fr": "La plupart des logiciels de marketing sont des infrastructures pour les humains. Vous passez des jours à configurer des flux de travail, à définir des déclencheurs, à rédiger des textes et à espérer avoir deviné le bon timing. Launchpad change cela. Votre agent dispose du contexte, de l'autorité et de l'autonomie nécessaires pour effectuer le travail, ainsi que du jugement nécessaire pour savoir quand le faire remonter. Vous avez embauché un spécialiste du marketing. Maintenant, il y en a un qui travaille 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://launchpad-ai-70.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-02T23:24:57.213577+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-03T02:09:06.627863+00:00"
     },
     {
       "name": "SignalWatch — Autonomous Infrastructure Monitoring",
@@ -146521,6 +146533,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-02T23:24:59.582058+00:00"
+    },
+    {
+      "name": "ProofOps",
+      "slug": "polsia-proofops-2",
+      "website": "https://proofops-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-03T02:08:50.912716+00:00"
+    },
+    {
+      "name": "AgentDesk",
+      "slug": "polsia-agentdesk-8",
+      "website": "https://agentdesk-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-03T02:08:51.246187+00:00"
+    },
+    {
+      "name": "GreenCommand",
+      "slug": "polsia-greencommand",
+      "website": "https://greencommand.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-03T02:08:51.492073+00:00"
+    },
+    {
+      "name": "Draftloop — AI",
+      "slug": "polsia-draftloop-6",
+      "description": "Draftloop is an autonomous AI agent that creates, schedules, and publishes marketing content across channels — without the agency bill.",
+      "description_fr": "Draftloop est un agent d'IA autonome qui crée, planifie et publie du contenu marketing sur tous les canaux, sans facture d'agence.",
+      "category": "AI & Machine Learning",
+      "website": "https://draftloop-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-03T02:08:52.075738+00:00"
+    },
+    {
+      "name": "FreelanceOS",
+      "slug": "polsia-freelanceos-4",
+      "website": "https://freelanceos-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-03T02:08:52.273950+00:00"
+    },
+    {
+      "name": "ERR_ — Future Culture. Limited Drops.",
+      "slug": "polsia-errsupply",
+      "description": "AI doesn't replace creativity here. It amplifies it. We use generative tools\n        to explore aesthetic spaces humans can't reach alone, then we filter,\n        refine, and decide. The result is clothing that looks like nothing else\n        because it was made by a process that didn't exist two years ago.",
+      "description_fr": "L’IA ne remplace pas ici la créativité. Cela l’amplifie. Nous utilisons des outils génératifs\n        pour explorer des espaces esthétiques que les humains ne peuvent pas atteindre seuls, alors nous filtrons,\n        affiner et décider. Le résultat est des vêtements qui ne ressemblent à rien d’autre\n        parce qu'il a été réalisé selon un processus qui n'existait pas il y a deux ans.",
+      "category": "AI & Machine Learning",
+      "website": "https://errsupply.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-03T02:08:53.943094+00:00"
+    },
+    {
+      "name": "GuideForge — AI",
+      "slug": "polsia-guideforge-2",
+      "description": "Build a catalog of AI-written guides, publish on Amazon, collect royalties. GuideForge runs the whole pipeline.",
+      "description_fr": "Créez un catalogue de guides écrits sur l'IA, publiez-les sur Amazon, percevez des redevances. GuideForge gère l'ensemble du pipeline.",
+      "category": "AI & Machine Learning",
+      "website": "https://guideforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-03T02:09:08.597953+00:00"
+    },
+    {
+      "name": "LeadForge — Exclusive Leads for Contractors",
+      "slug": "polsia-leadforge-03e196",
+      "description": "We run targeted Facebook lead campaigns for YOUR trade, in YOUR city. Only you see these leads. We build the landing page, run the ads, and send every qualified lead straight to your phone. You pay a flat $1,000/month. That's it.",
+      "description_fr": "Nous menons des campagnes Facebook ciblées pour VOTRE métier, dans VOTRE ville. Vous seul voyez ces pistes. Nous construisons la page de destination, diffusons les annonces et envoyons chaque prospect qualifié directement sur votre téléphone. Vous payez un forfait de 1 000 $/mois. C'est ça.",
+      "category": "Marketing & Advertising",
+      "website": "https://leadforge-03e196.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-03T02:08:55.694401+00:00"
+    },
+    {
+      "name": "Folia — Your AI Business Agent",
+      "slug": "polsia-folia-ai-5",
+      "description": "An autonomous AI agent that runs your business. Monitors, acts, reports. No chatbot. An employee.",
+      "description_fr": "Un agent IA autonome qui gère votre entreprise. Surveille, agit, rapporte. Pas de chatbot. Un employé.",
+      "category": "AI & Machine Learning",
+      "website": "https://folia-ai-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-03T02:08:57.248824+00:00"
+    },
+    {
+      "name": "Volta",
+      "slug": "polsia-volta-ai-2",
+      "website": "https://volta-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-03T02:08:57.436636+00:00"
     }
   ]
 }
