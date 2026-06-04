@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T22:50:24.962821+00:00",
+  "last_updated": "2026-06-04T00:24:23.818569+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -146768,12 +146768,15 @@
       "scraped_at": "2026-06-03T12:12:34.044508+00:00"
     },
     {
-      "name": "PitchForge",
+      "name": "PitchForge — Autonomous AI Outbound",
       "slug": "polsia-pitchforge-61",
+      "description": "Your competitors are still manually building lists, writing individual emails, and forgetting to follow up. Some of them are using AI to write slightly faster. None of them have an employee that works while they sleep, learns from every reply, and never lets a warm lead go cold.",
+      "description_fr": "Vos concurrents continuent de créer manuellement des listes, d'écrire des e-mails individuels et d'oublier de faire un suivi. Certains d’entre eux utilisent l’IA pour écrire un peu plus rapidement. Aucun d'entre eux n'a un employé qui travaille pendant qu'il dort, apprend de chaque réponse et ne laisse jamais une piste chaleureuse se refroidir.",
+      "category": "AI & Machine Learning",
       "website": "https://pitchforge-61.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-03T12:12:34.320439+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T00:24:19.420842+00:00"
     },
     {
       "name": "AXIS",
@@ -147061,12 +147064,15 @@
       "scraped_at": "2026-06-03T22:50:02.343556+00:00"
     },
     {
-      "name": "WorkStack",
+      "name": "WorkStack — AI Chief of Staff for Creators",
       "slug": "polsia-workstack-7",
+      "description": "WorkStack is an autonomous AI agent that runs your entire creator business — planning, outreach, analytics, brand deals — so you can focus on making content.",
+      "description_fr": "WorkStack est un agent d'IA autonome qui gère l'ensemble de votre activité de créateur (planification, sensibilisation, analyses, accords de marque) afin que vous puissiez vous concentrer sur la création de contenu.",
+      "category": "AI & Machine Learning",
       "website": "https://workstack-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-03T22:50:02.704547+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T00:24:22.318587+00:00"
     },
     {
       "name": "Rooted — Where Your Money and Your Health Finally Align",
@@ -147080,12 +147086,15 @@
       "scraped_at": "2026-06-03T22:50:04.316530+00:00"
     },
     {
-      "name": "AnswerFlow",
+      "name": "AnswerFlow — AI Phone Agent for Home Services",
       "slug": "polsia-answerflow-15",
+      "description": "AnswerFlow answers your calls, books appointments, and schedules jobs 24/7 — while your team is in the field. Built for HVAC, plumbing, and electrical contractors.",
+      "description_fr": "AnswerFlow répond à vos appels, prend rendez-vous et planifie des tâches 24h/24 et 7j/7, pendant que votre équipe est sur le terrain. Conçu pour les entrepreneurs en CVC, plomberie et électricité.",
+      "category": "AI & Machine Learning",
       "website": "https://answerflow-15.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-03T22:50:04.736899+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T00:24:23.392865+00:00"
     },
     {
       "name": "Automatise — AI for Local Service Businesses",
@@ -147152,6 +147161,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-03T22:50:14.041026+00:00"
+    },
+    {
+      "name": "HoldOff",
+      "slug": "polsia-holdoff",
+      "website": "https://holdoff.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T00:24:02.340988+00:00"
+    },
+    {
+      "name": "VelvetPagesOS",
+      "slug": "polsia-velvetpagesos",
+      "website": "https://velvetpagesos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T00:24:02.552082+00:00"
+    },
+    {
+      "name": "ApexOut — B2B Outbound Agency",
+      "slug": "polsia-apexout-2",
+      "description": "The old way: hire an SDR, wait 90 days for them to ramp, burn out in six months, repeat.The ApexOut way: autonomous outbound machine running 24/7. Meetings in your calendar. Revenue on your terms.",
+      "description_fr": "L'ancienne méthode : embaucher un SDR, attendre 90 jours pour qu'il monte en puissance, s'épuiser en six mois, répétez. La méthode ApexOut : une machine sortante autonome fonctionnant 24h/24 et 7j/7. Réunions dans votre calendrier. Des revenus selon vos conditions.",
+      "category": "Sales & CRM",
+      "website": "https://apexout-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T00:24:04.315248+00:00"
+    },
+    {
+      "name": "FlowOps — Autonomous Loan Processing",
+      "slug": "polsia-flowops-ai-18",
+      "description": "Every fintech platform, every embedded lender, every alternative credit provider has an ops team that processes loan applications manually. Most of that work — document parsing, affordability analysis, risk scoring, lender matching — can run autonomously.",
+      "description_fr": "Chaque plateforme fintech, chaque prêteur intégré, chaque fournisseur de crédit alternatif dispose d’une équipe opérationnelle qui traite manuellement les demandes de prêt. La plupart de ce travail (analyse de documents, analyse d’abordabilité, notation des risques, mise en correspondance des prêteurs) peut s’exécuter de manière autonome.",
+      "category": "Software & SaaS",
+      "website": "https://flowops-ai-18.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T00:24:05.154666+00:00"
+    },
+    {
+      "name": "LeadLoop — AI",
+      "slug": "polsia-leadloop-174238",
+      "description": "LeadLoop builds AI agents that answer calls, book appointments, and follow up automatically — so local service businesses never miss a lead.",
+      "description_fr": "LeadLoop crée des agents IA qui répondent aux appels, prennent des rendez-vous et effectuent un suivi automatiquement, afin que les entreprises de services locales ne manquent jamais une piste.",
+      "category": "AI & Machine Learning",
+      "website": "https://leadloop-174238.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T00:24:06.341391+00:00"
+    },
+    {
+      "name": "PingCrew — AI Outbound That Works While You Sleep",
+      "slug": "polsia-pingcrew",
+      "description": "PingCrew is an autonomous AI SDR that runs outbound campaigns 24/7. Lead research, cold email, follow-ups, pipeline reports — no human required.",
+      "description_fr": "PingCrew est un IA SDR autonome qui exécute des campagnes sortantes 24h/24 et 7j/7. Menez des recherches, des e-mails froids, des suivis, des rapports de pipeline : aucun humain n'est requis.",
+      "category": "Sales & CRM",
+      "website": "https://pingcrew.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T00:24:07.378359+00:00"
+    },
+    {
+      "name": "Axiom — Autonomous AI Agents",
+      "slug": "polsia-axiom-1780532275972-rkk5",
+      "description": "Every team has work that consumes hours but produces nothing: monitoring dashboards, writing status updates, sending follow-ups, updating records, reviewing alerts, filing reports.",
+      "description_fr": "Chaque équipe a un travail qui prend des heures mais ne produit rien : surveillance des tableaux de bord, rédaction des mises à jour de statut, envoi de suivis, mise à jour des enregistrements, révision des alertes, dépôt de rapports.",
+      "category": "AI & Machine Learning",
+      "website": "https://axiom-1780532275972-rkk5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T00:24:09.022672+00:00"
+    },
+    {
+      "name": "ClearPath — Commercial Cleaning Services",
+      "slug": "polsia-clearpathclean",
+      "description": "Reliable recurring commercial cleaning for small offices, medical facilities, and professional firms. $800/month. Consistent. Trusted.",
+      "description_fr": "Nettoyage commercial récurrent et fiable pour les petits bureaux, les établissements médicaux et les entreprises professionnelles. 800 $/mois. Cohérent. Confiance.",
+      "category": "Health & Wellness",
+      "website": "https://clearpathclean.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T00:24:10.654933+00:00"
+    },
+    {
+      "name": "RootCanopy — Autonomous Grow Intelligence",
+      "slug": "polsia-rootcanopy",
+      "description": "Hydroponics gives you precision. RootCanopy gives you peace of mind. An agent that watches every reading, learns every pattern, and tells you what matters — so you can run your farm from anywhere, and trust that it's being looked after.",
+      "description_fr": "La culture hydroponique vous donne de la précision. RootCanopy vous offre une tranquillité d'esprit. Un agent qui surveille chaque lecture, apprend chaque modèle et vous indique ce qui compte — afin que vous puissiez gérer votre ferme où que vous soyez et avoir la certitude qu'elle est entretenue.",
+      "category": "Other",
+      "website": "https://rootcanopy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T00:24:12.590067+00:00"
+    },
+    {
+      "name": "GreenPact — Your Home, Earth",
+      "slug": "polsia-greenpact",
+      "description": "We started GreenPact because we were tired of spending Sunday afternoons reading ingredient labels. The idea is simple: we do the vetting, you get the stuff that actually works and actually doesn't trash the planet. That's the pact.",
+      "description_fr": "Nous avons lancé GreenPact parce que nous en avions assez de passer le dimanche après-midi à lire les étiquettes des ingrédients. L'idée est simple : nous effectuons la vérification, vous obtenez les produits qui fonctionnent réellement et qui ne détruisent pas la planète. C'est le pacte.",
+      "category": "Sustainability & Green",
+      "website": "https://greenpact.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T00:24:14.018971+00:00"
     }
   ]
 }
