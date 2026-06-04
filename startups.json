@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T20:22:32.790188+00:00",
+  "last_updated": "2026-06-04T21:59:31.547051+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -147808,36 +147808,48 @@
       "scraped_at": "2026-06-04T18:05:16.822715+00:00"
     },
     {
-      "name": "LARoyalOS",
+      "name": "LaroyalOS — The operating system for LARoyal Esthetics",
       "slug": "polsia-laroyalos",
+      "description": "LARoyalOS gives LARoyal Esthetics the infrastructure a growing spa actually needs — intelligent scheduling, client intelligence, automated follow-ups, and a referral engine that works while Laura works.",
+      "description_fr": "LARoyalOS donne à LARoyal Esthetics l'infrastructure dont un spa en pleine croissance a réellement besoin : une planification intelligente, des renseignements sur les clients, des suivis automatisés et un moteur de référence qui fonctionne pendant que Laura travaille.",
+      "category": "Productivity & Automation",
       "website": "https://laroyalos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T20:22:16.482807+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T21:59:26.784804+00:00"
     },
     {
-      "name": "LocalLaunch",
+      "name": "LocalLaunch — Websites for Local Businesses",
       "slug": "polsia-locallaunch-6",
+      "description": "Professional website design for local businesses. Clean, fast, affordable sites that actually convert customers.",
+      "description_fr": "Conception de sites Web professionnels pour les entreprises locales. Des sites propres, rapides et abordables qui convertissent réellement les clients.",
+      "category": "Other",
       "website": "https://locallaunch-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T20:22:16.779600+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T21:59:28.335877+00:00"
     },
     {
-      "name": "SoundLoop",
+      "name": "SoundLoop — Your AI Label, Running Itself",
       "slug": "polsia-soundloop",
+      "description": "Independent labels run on spreadsheets, willpower, and good timing. You track\n      royalties in five places, pitch sync deals by hand, and miss playlist\n      windows because you were busy doing admin. The gap between a label doing\n      $50k and $5M isn't more people. It's smarter systems.",
+      "description_fr": "Les labels indépendants fonctionnent avec des feuilles de calcul, de la volonté et un bon timing. Vous suivez\n      redevances à cinq endroits, accords de synchronisation de pitch à la main et playlist manquée\n      Windows parce que vous étiez occupé à faire de l'administration. L'écart entre un label faisant\n      50 000 $ et 5 millions de dollars, ce n'est pas plus de monde. Ce sont des systèmes plus intelligents.",
+      "category": "AI & Machine Learning",
       "website": "https://soundloop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T20:22:17.078566+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T21:59:29.707422+00:00"
     },
     {
-      "name": "Cadence",
+      "name": "Cadence — The Operating System for Boutique Fitness",
       "slug": "polsia-cadence-studio-os",
+      "description": "One platform for booking, billing, marketing, CRM, instructors, and payroll. Built for owners — not members.",
+      "description_fr": "Une plateforme unique pour la réservation, la facturation, le marketing, le CRM, les instructeurs et la paie. Conçu pour les propriétaires, pas pour les membres.",
+      "category": "Software & SaaS",
       "website": "https://cadence-studio-os.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T20:22:17.415019+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T21:59:30.852177+00:00"
     },
     {
       "name": "GoodStreamOS — Portfolio Intelligence for Private Capital",
@@ -147904,6 +147916,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-04T20:22:24.118775+00:00"
+    },
+    {
+      "name": "LaunchOS",
+      "slug": "polsia-launchos-20",
+      "website": "https://launchos-20.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T21:59:12.987148+00:00"
+    },
+    {
+      "name": "Outvo — AI That Runs Your Outbound",
+      "slug": "polsia-outvo",
+      "description": "The average cold email gets a 3.4% reply rate. Outvo's AI consistently hits 8–15% by writing each message like it was drafted by someone who actually researched the company. Then it follows up. Then it handles the reply. Then it books the meeting while you're sleeping.",
+      "description_fr": "L’e-mail froid moyen obtient un taux de réponse de 3,4 %. L'IA d'Outvo atteint systématiquement 8 à 15 % en écrivant chaque message comme s'il avait été rédigé par quelqu'un qui a réellement fait des recherches sur l'entreprise. Ensuite, cela fait suite. Ensuite, il gère la réponse. Ensuite, il réserve la réunion pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://outvo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T21:59:14.154715+00:00"
+    },
+    {
+      "name": "ModelMap",
+      "slug": "polsia-modelmap",
+      "website": "https://modelmap.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T21:59:14.423737+00:00"
+    },
+    {
+      "name": "CloutLocal — Social Media Marketing for Local Businesses",
+      "slug": "polsia-cloutlocal-2",
+      "description": "We help local businesses — restaurants, salons, contractors, retailers — get real customers through Instagram, TikTok, and Facebook. $1,000–$2,500/month.",
+      "description_fr": "Nous aidons les entreprises locales (restaurants, salons, entrepreneurs, détaillants) à attirer de vrais clients via Instagram, TikTok et Facebook. 1 000 $ à 2 500 $/mois.",
+      "category": "Marketing & Advertising",
+      "website": "https://cloutlocal-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T21:59:15.988687+00:00"
+    },
+    {
+      "name": "OutboundOS — Your AI Outbound Engine",
+      "slug": "polsia-outbound-os-78",
+      "description": "OutboundOS runs your entire cold outreach pipeline autonomously. Research, personalize, send, follow up, and book meetings — while you sleep.",
+      "description_fr": "OutboundOS gère l’intégralité de votre pipeline de diffusion à froid de manière autonome. Recherchez, personnalisez, envoyez, effectuez le suivi et réservez des réunions, pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://outbound-os-78.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T21:59:16.985991+00:00"
+    },
+    {
+      "name": "Grouper — The Newsletter That Runs Itself",
+      "slug": "polsia-grouper",
+      "description": "A monthly digest for the whole family — updates from grandparents, kids, anyone scattered across cities. No one has to remember to send anything.",
+      "description_fr": "Un résumé mensuel pour toute la famille : mises à jour des grands-parents, des enfants et de toute personne dispersée dans les villes. Personne ne doit penser à envoyer quoi que ce soit.",
+      "category": "Real Estate",
+      "website": "https://grouper.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T21:59:18.191938+00:00"
+    },
+    {
+      "name": "LeadFlow — AI Agents for Local Service Businesses",
+      "slug": "polsia-leadflow-ai-10",
+      "description": "LeadFlow was built for operators who want real results — not a chatbot demo, not a dashboard full of vanity metrics. We build AI agents that book appointments, capture revenue, and run while you focus on your business.",
+      "description_fr": "LeadFlow a été conçu pour les opérateurs qui souhaitent de vrais résultats : pas une démonstration de chatbot, ni un tableau de bord rempli de mesures personnalisées. Nous construisons des agents IA qui prennent des rendez-vous, génèrent des revenus et fonctionnent pendant que vous vous concentrez sur votre entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://leadflow-ai-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T21:59:19.459729+00:00"
+    },
+    {
+      "name": "LeadForge",
+      "slug": "polsia-leadforge-925c04",
+      "website": "https://leadforge-925c04.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T21:59:19.822964+00:00"
+    },
+    {
+      "name": "CampusReach",
+      "slug": "polsia-campusreach-2",
+      "website": "https://campusreach-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T21:59:20.190549+00:00"
+    },
+    {
+      "name": "PageFlow — Your Website Never Sleeps",
+      "slug": "polsia-pageflow-43",
+      "description": "PageFlow is an AI agent that watches your website and auto-generates landing pages for every product launch, campaign, and feature drop.",
+      "description_fr": "PageFlow est un agent IA qui surveille votre site Web et génère automatiquement des pages de destination pour chaque lancement de produit, campagne et fonctionnalité.",
+      "category": "AI & Machine Learning",
+      "website": "https://pageflow-43.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T21:59:21.480984+00:00"
     }
   ]
 }
