@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T20:07:25.622961+00:00",
+  "last_updated": "2026-06-04T20:22:32.790188+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -147698,28 +147698,37 @@
       "scraped_at": "2026-06-04T15:49:50.896298+00:00"
     },
     {
-      "name": "Cutlist",
+      "name": "Cutlist — Smart quoting for bespoke cabinet makers",
       "slug": "polsia-cutlist-2",
+      "description": "Drop in a concept image or enter room dimensions, build a spec, and get an accurate, fully costed quote in minutes. Then generate a complete production pack for the workshop floor.",
+      "description_fr": "Déposez une image conceptuelle ou entrez les dimensions de la pièce, élaborez une spécification et obtenez un devis précis et entièrement chiffré en quelques minutes. Générez ensuite un pack de production complet pour l’atelier.",
+      "category": "E-Commerce & Retail",
       "website": "https://cutlist-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T18:05:11.082545+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T20:22:28.194516+00:00"
     },
     {
       "name": "SilverRoost",
       "slug": "polsia-silverroost",
+      "description": "SilverRoost connects senior homeowners with senior renters — for income, affordability, and genuine friendship. Age in place, together.",
+      "description_fr": "SilverRoost met en relation les propriétaires seniors avec les locataires seniors – pour un revenu, un prix abordable et une véritable amitié. Vieillir chez soi, ensemble.",
+      "category": "Real Estate",
       "website": "https://silverroost.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T18:05:11.243900+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T20:22:29.811027+00:00"
     },
     {
-      "name": "Keep",
+      "name": "Keep — AI agents that keep your customers",
       "slug": "polsia-keep-2",
+      "description": "Keep monitors your customer accounts 24/7 and re-engages at-risk clients before they leave. No dashboards. No manual workflows. Just recovered revenue.",
+      "description_fr": "Continuez à surveiller vos comptes clients 24h/24 et 7j/7 et réengagez les clients à risque avant leur départ. Pas de tableaux de bord. Aucun flux de travail manuel. Je viens de récupérer les revenus.",
+      "category": "AI & Machine Learning",
       "website": "https://keep-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T18:05:11.429202+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T20:22:30.855570+00:00"
     },
     {
       "name": "Jali — WhatsApp Business Management for Kenyan SMBs",
@@ -147733,12 +147742,15 @@
       "scraped_at": "2026-06-04T18:05:12.216084+00:00"
     },
     {
-      "name": "LeadFlow",
+      "name": "LeadFlow — Local Lead Gen That Pays Monthly",
       "slug": "polsia-leadflow-22",
+      "description": "Build ranked local websites for service businesses. Rent them for recurring monthly income. No ad spend, no marketplace dependency.",
+      "description_fr": "Créez des sites Web locaux classés pour les entreprises de services. Louez-les pour un revenu mensuel récurrent. Aucune dépense publicitaire, aucune dépendance au marché.",
+      "category": "E-Commerce & Retail",
       "website": "https://leadflow-22.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T18:05:12.446521+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T20:22:31.644367+00:00"
     },
     {
       "name": "CrashPadOS — AI Agent for Incident Response",
@@ -147794,6 +147806,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-04T18:05:16.822715+00:00"
+    },
+    {
+      "name": "LARoyalOS",
+      "slug": "polsia-laroyalos",
+      "website": "https://laroyalos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T20:22:16.482807+00:00"
+    },
+    {
+      "name": "LocalLaunch",
+      "slug": "polsia-locallaunch-6",
+      "website": "https://locallaunch-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T20:22:16.779600+00:00"
+    },
+    {
+      "name": "SoundLoop",
+      "slug": "polsia-soundloop",
+      "website": "https://soundloop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T20:22:17.078566+00:00"
+    },
+    {
+      "name": "Cadence",
+      "slug": "polsia-cadence-studio-os",
+      "website": "https://cadence-studio-os.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T20:22:17.415019+00:00"
+    },
+    {
+      "name": "GoodStreamOS — Portfolio Intelligence for Private Capital",
+      "slug": "polsia-goodstreamos",
+      "description": "AI-powered portfolio intelligence for VCs, angels, and fund administrators. Every number sourced to the source document.",
+      "description_fr": "Intelligence de portefeuille alimentée par l'IA pour les sociétés de capital-risque, les investisseurs providentiels et les administrateurs de fonds. Chaque numéro provient du document source.",
+      "category": "Software & SaaS",
+      "website": "https://goodstreamos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T20:22:18.782251+00:00"
+    },
+    {
+      "name": "DropLoop",
+      "slug": "polsia-droploop-2",
+      "description": "Dropshipping isn't dead. Generic dropshipping is dead. The gap is the people who know how to sell on the platforms where customers actually spend their time. That gap is yours to take.",
+      "description_fr": "Le dropshipping n’est pas mort. Le dropshipping générique est mort. L’écart réside dans les personnes qui savent vendre sur les plateformes où les clients passent réellement leur temps. Cet écart est à vous.",
+      "category": "Software & SaaS",
+      "website": "https://droploop-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T20:22:20.261955+00:00"
+    },
+    {
+      "name": "ProsperBridge — Off",
+      "slug": "polsia-prosperbridge-2",
+      "description": "ProsperBridge connects motivated property owners with cash investors through fast, simple off-market wholesale transactions on Florida's Treasure Coast.",
+      "description_fr": "ProsperBridge met en relation des propriétaires immobiliers motivés et des investisseurs en espèces via des transactions de gros hors marché simples et rapides sur la Treasure Coast de Floride.",
+      "category": "Real Estate",
+      "website": "https://prosperbridge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T20:22:20.936269+00:00"
+    },
+    {
+      "name": "SiteLayer",
+      "slug": "polsia-sitelayer",
+      "description": "SiteLayer is a premium website platform where AI does the building. Tell it what you need. Get a production-ready site in seconds. Charge your clients whatever you want.",
+      "description_fr": "SiteLayer est une plate-forme de site Web premium où l'IA réalise la construction. Dites-lui ce dont vous avez besoin. Obtenez un site prêt pour la production en quelques secondes. Facturez vos clients comme vous le souhaitez.",
+      "category": "AI & Machine Learning",
+      "website": "https://sitelayer.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T20:22:22.041043+00:00"
+    },
+    {
+      "name": "AutoFlow — AI Automation for Local Businesses",
+      "slug": "polsia-autoflow-br",
+      "description": "Most local businesses in Brazil are still running on spreadsheets, WhatsApp messages, and forgotten follow-ups. That gap is a massive opportunity. AutoFlow exists to close it — so you can focus on what you do best, while AI handles everything else.",
+      "description_fr": "La plupart des entreprises locales au Brésil fonctionnent toujours avec des feuilles de calcul, des messages WhatsApp et des suivis oubliés. Cet écart est une énorme opportunité. AutoFlow existe pour le fermer : vous pouvez ainsi vous concentrer sur ce que vous faites le mieux, tandis que l'IA s'occupe de tout le reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://autoflow-br.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T20:22:23.389699+00:00"
+    },
+    {
+      "name": "ParcelVault — Off",
+      "slug": "polsia-parcelvault-2",
+      "description": "We find off-market vacant land deals, put them under contract, and deliver them to cash buyers. The best parcels never see a listing site.",
+      "description_fr": "Nous trouvons des transactions de terrains vacants hors marché, les mettons sous contrat et les livrons aux acheteurs au comptant. Les meilleures parcelles ne voient jamais de site de référencement.",
+      "category": "Other",
+      "website": "https://parcelvault-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T20:22:24.118775+00:00"
     }
   ]
 }
