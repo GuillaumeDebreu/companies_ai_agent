@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T15:50:03.489069+00:00",
+  "last_updated": "2026-06-04T18:05:22.316421+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -147591,12 +147591,15 @@
       "scraped_at": "2026-06-04T12:17:17.625265+00:00"
     },
     {
-      "name": "SnazzyOS",
+      "name": "SnazzyOS — Operating System for Snazzy Media Group",
       "slug": "polsia-snazzyos",
+      "description": "Snazzy started as a simple idea: fans shouldn't have to dig through five platforms to find what their favorite celebrity is wearing. Today it's a full social commerce ecosystem — gossip, fashion, travel, events, and brand deals — all in one place.",
+      "description_fr": "Snazzy a commencé avec une idée simple : les fans ne devraient pas avoir à parcourir cinq plateformes pour trouver ce que porte leur célébrité préférée. Aujourd'hui, il s'agit d'un écosystème complet de commerce social – potins, mode, voyages, événements et offres de marque – le tout réuni en un seul endroit.",
+      "category": "Social & Community",
       "website": "https://snazzyos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T15:49:40.860631+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T18:05:21.160185+00:00"
     },
     {
       "name": "SiteBridge",
@@ -147693,6 +147696,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-04T15:49:50.896298+00:00"
+    },
+    {
+      "name": "Cutlist",
+      "slug": "polsia-cutlist-2",
+      "website": "https://cutlist-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T18:05:11.082545+00:00"
+    },
+    {
+      "name": "SilverRoost",
+      "slug": "polsia-silverroost",
+      "website": "https://silverroost.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T18:05:11.243900+00:00"
+    },
+    {
+      "name": "Keep",
+      "slug": "polsia-keep-2",
+      "website": "https://keep-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T18:05:11.429202+00:00"
+    },
+    {
+      "name": "Jali — WhatsApp Business Management for Kenyan SMBs",
+      "slug": "polsia-jali",
+      "description": "Not because they can't serve their customers — but because they have no system. No visibility. No follow-up. Jali fixes that by building the business tool that fits where Kenyan businesses actually live: WhatsApp.",
+      "description_fr": "Non pas parce qu'ils ne peuvent pas servir leurs clients, mais parce qu'ils n'ont aucun système. Aucune visibilité. Aucun suivi. Jali résout ce problème en créant un outil commercial adapté à l’endroit où vivent réellement les entreprises kenyanes : WhatsApp.",
+      "category": "Other",
+      "website": "https://jali.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T18:05:12.216084+00:00"
+    },
+    {
+      "name": "LeadFlow",
+      "slug": "polsia-leadflow-22",
+      "website": "https://leadflow-22.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T18:05:12.446521+00:00"
+    },
+    {
+      "name": "CrashPadOS — AI Agent for Incident Response",
+      "slug": "polsia-crashpados",
+      "description": "Average engineering team spends 8 hours per week on incident response. Most of it is the same pattern, the same missing null check, the same exhausted connection pool. CrashPad handles the pattern. You handle the product.",
+      "description_fr": "Une équipe d’ingénierie moyenne consacre 8 heures par semaine à la réponse aux incidents. Il s'agit en grande partie du même modèle, de la même vérification nulle manquante, du même pool de connexions épuisé. CrashPad gère le modèle. Vous manipulez le produit.",
+      "category": "AI & Machine Learning",
+      "website": "https://crashpados.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T18:05:22.313290+00:00"
+    },
+    {
+      "name": "PostGuard — Post",
+      "slug": "polsia-postguard-702",
+      "description": "An autonomous AI agent that continuously monitors, flags, and fixes quantum-vulnerable cryptography across your enterprise infrastructure.",
+      "description_fr": "Un agent d'IA autonome qui surveille, signale et corrige en permanence la cryptographie quantique vulnérable dans l'ensemble de l'infrastructure de votre entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://postguard-702.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T18:05:13.487671+00:00"
+    },
+    {
+      "name": "RupConnect — AI for Rural Financial Inclusion",
+      "slug": "polsia-rupconnect",
+      "description": "Every farmer, every small business owner, every rural household — they all qualify for something. Government schemes exist precisely for them. But the complexity keeps them out. RupConnect changes that. Permanently.",
+      "description_fr": "Chaque agriculteur, chaque propriétaire de petite entreprise, chaque foyer rural – ils ont tous droit à quelque chose. Des programmes gouvernementaux existent précisément pour eux. Mais la complexité les empêche d’entrer. RupConnect change cela. En permanence.",
+      "category": "AI & Machine Learning",
+      "website": "https://rupconnect.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T18:05:14.942998+00:00"
+    },
+    {
+      "name": "CapFlowOS — Operating System for Alternative Lenders",
+      "slug": "polsia-capflowos-2",
+      "description": "CapFlowOS replaces the spreadsheet and the sticky notes. A real operating system for alternative lenders — automated pipelines, live deal tracking, and client management that works while you sleep.",
+      "description_fr": "CapFlowOS remplace la feuille de calcul et les notes autocollantes. Un véritable système d'exploitation pour les prêteurs alternatifs : pipelines automatisés, suivi des transactions en direct et gestion des clients qui fonctionnent pendant que vous dormez.",
+      "category": "Sales & CRM",
+      "website": "https://capflowos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T18:05:15.579231+00:00"
+    },
+    {
+      "name": "FieldKit — AI",
+      "slug": "polsia-fieldkit-1780595977456-47ly",
+      "description": "Field service is where equipment makers keep customers. It's where margins live. It's where loyalty is made or lost. And yet, if you make 50–500 machines a year, your options are either enterprise software you can't afford, or nothing.",
+      "description_fr": "Le service sur site est l'endroit où les fabricants d'équipements conservent leurs clients. C'est là que vivent les marges. C'est là que la fidélité se fait ou se perd. Et pourtant, si vous fabriquez 50 à 500 machines par an, vos options sont soit un logiciel d'entreprise que vous ne pouvez pas vous permettre, soit rien.",
+      "category": "AI & Machine Learning",
+      "website": "https://fieldkit-1780595977456-47ly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T18:05:16.822715+00:00"
     }
   ]
 }
