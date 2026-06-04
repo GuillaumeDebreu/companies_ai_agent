@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T09:57:52.695272+00:00",
+  "last_updated": "2026-06-04T12:17:28.798679+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -147333,12 +147333,15 @@
       "scraped_at": "2026-06-04T05:20:49.799645+00:00"
     },
     {
-      "name": "ArtDrop",
+      "name": "ArtDrop — AI Content Studio for Creators",
       "slug": "polsia-artdrop-6",
+      "description": "Custom AI avatars, art, and social media packs for streamers and small creators. No design skills needed.",
+      "description_fr": "Avatars IA personnalisés, packs d'art et de réseaux sociaux pour les streamers et les petits créateurs. Aucune compétence en conception requise.",
+      "category": "AI & Machine Learning",
       "website": "https://artdrop-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T05:20:50.035248+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T12:17:22.862248+00:00"
     },
     {
       "name": "Brainspan — Know Your Cognitive Risk",
@@ -147374,20 +147377,26 @@
       "scraped_at": "2026-06-04T05:20:54.250127+00:00"
     },
     {
-      "name": "Keelson",
+      "name": "Keelson — Autonomous Ops Agents",
       "slug": "polsia-keelson",
+      "description": "Keelson deploys AI agents that monitor, decide, and act on your operations — inventory, fulfillment, supplier comms — without you in the loop. You scale the business, not the headcount.",
+      "description_fr": "Keelson déploie des agents d'IA qui surveillent, décident et agissent sur vos opérations (inventaire, exécution, communications avec les fournisseurs) sans que vous soyez au courant. Vous faites évoluer l'entreprise, pas les effectifs.",
+      "category": "AI & Machine Learning",
       "website": "https://keelson.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T09:07:23.974006+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T12:17:24.659870+00:00"
     },
     {
-      "name": "GoosOS",
+      "name": "GoosOS — Operating System for Goos That Matter LLC",
       "slug": "polsia-goos-os",
+      "description": "We started Goos That Matter because the goose fat you find in stores is almost always industrial — mass-produced from factory-farmed birds, processed at scale, stripped of flavor. We do the opposite. Our geese live on open pasture. They eat grass, bugs, and grain. And when it's time, we render their fat slowly, the old way, so nothing is lost.",
+      "description_fr": "Nous avons lancé Goos That Matter parce que la graisse d'oie que vous trouvez dans les magasins est presque toujours industrielle : produite en masse à partir d'oiseaux d'élevage industriel, transformée à grande échelle, dépourvue de saveur. Nous faisons le contraire. Nos oies vivent dans des pâturages ouverts. Ils mangent de l'herbe, des insectes et des céréales. Et quand le moment est venu, nous faisons fondre leur graisse lentement, à l'ancienne, pour que rien ne soit perdu.",
+      "category": "E-Commerce & Retail",
       "website": "https://goos-os.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T09:07:24.385306+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T12:17:26.347941+00:00"
     },
     {
       "name": "AmajOS",
@@ -147442,12 +147451,15 @@
       "scraped_at": "2026-06-04T09:07:30.676823+00:00"
     },
     {
-      "name": "FourrierOS",
+      "name": "FourrierOS — Command Center for Modern Consulting",
       "slug": "polsia-fourrieros",
+      "description": "FourrierOS is built for the practitioner who understands that autonomy is not a luxury — it is the only viable path from freelancer to sustainable business. Every client, every project, every invoice, every lead — connected and running without manual oversight.",
+      "description_fr": "FourrierOS est conçu pour le praticien qui comprend que l'autonomie n'est pas un luxe : c'est la seule voie viable pour passer d'un indépendant à une entreprise durable. Chaque client, chaque projet, chaque facture, chaque prospect – connecté et exécuté sans surveillance manuelle.",
+      "category": "Consulting & Services",
       "website": "https://fourrieros.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T09:07:30.997543+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-04T12:17:27.338878+00:00"
     },
     {
       "name": "Memento — The Internet Memory Layer",
@@ -147470,6 +147482,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-04T09:07:33.211607+00:00"
+    },
+    {
+      "name": "Clear",
+      "slug": "polsia-clear-3",
+      "website": "https://clear-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T12:17:09.200971+00:00"
+    },
+    {
+      "name": "PolyOS",
+      "slug": "polsia-polyos",
+      "website": "https://polyos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T12:17:09.475509+00:00"
+    },
+    {
+      "name": "Clever",
+      "slug": "polsia-clever",
+      "website": "https://clever.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T12:17:09.863436+00:00"
+    },
+    {
+      "name": "PageLoop — Autonomous SEO Agent",
+      "slug": "polsia-pageloop-4",
+      "description": "73% of content marketers say \"not enough bandwidth\" is their top barrier to publishing consistently. You know you should publish more. You don't have the writers, the time, or the process to make it happen at scale.",
+      "description_fr": "73 % des spécialistes du marketing de contenu déclarent que « le manque de bande passante » est leur principal obstacle à une publication cohérente. Vous savez que vous devriez publier davantage. Vous n'avez pas les rédacteurs, le temps ou le processus nécessaires pour y parvenir à grande échelle.",
+      "category": "Marketing & Advertising",
+      "website": "https://pageloop-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T12:17:11.509107+00:00"
+    },
+    {
+      "name": "AutomatIQ",
+      "slug": "polsia-automatiq-8",
+      "website": "https://automatiq-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T12:17:11.802302+00:00"
+    },
+    {
+      "name": "Ascend",
+      "slug": "polsia-ascend-career",
+      "website": "https://ascend-career.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T12:17:12.077527+00:00"
+    },
+    {
+      "name": "AppForge",
+      "slug": "polsia-appforge-studio-2",
+      "website": "https://appforge-studio-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-04T12:17:12.446715+00:00"
+    },
+    {
+      "name": "Vendr AI — Your AI Sales Employee",
+      "slug": "polsia-untitled-1780575235097-0ou4",
+      "description": "We built Vendr AI to solve this. Not with a chatbot. Not with a calendar link. With an AI employee that picks up the phone, has real conversations, and books meetings — the way a skilled human receptionist would. Except this one works every hour of every day and costs 5% of a human salary.",
+      "description_fr": "Nous avons construit Vendr AI pour résoudre ce problème. Pas avec un chatbot. Pas avec un lien de calendrier. Avec un employé IA qui décroche le téléphone, a de vraies conversations et planifie des réunions, comme le ferait une réceptionniste humaine qualifiée. Sauf que celui-là travaille toutes les heures de chaque jour et coûte 5% d'un salaire humain.",
+      "category": "AI & Machine Learning",
+      "website": "https://untitled-1780575235097-0ou4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T12:17:15.497813+00:00"
+    },
+    {
+      "name": "CoverCraft — Music Branding Studio",
+      "slug": "polsia-covercraft-studio",
+      "description": "Cover art, motion graphics, and full artist branding for independent rappers. Studio-quality visuals at indie prices.",
+      "description_fr": "Couvertures, animations graphiques et branding d'artiste complet pour les rappeurs indépendants. Des visuels de qualité studio à des prix indépendants.",
+      "category": "Marketing & Advertising",
+      "website": "https://covercraft-studio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T12:17:16.591228+00:00"
+    },
+    {
+      "name": "ClipCraft — Start Your TikTok Agency in 30 Days",
+      "slug": "polsia-clipcraft-100",
+      "description": "A systematic playbook and platform for starting a profitable short-form video agency — study, proof, outreach, close, deliver.",
+      "description_fr": "Un manuel et une plate-forme systématiques pour démarrer une agence vidéo courte et rentable : étudier, prouver, sensibiliser, conclure, livrer.",
+      "category": "Software & SaaS",
+      "website": "https://clipcraft-100.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-04T12:17:17.625265+00:00"
     }
   ]
 }
