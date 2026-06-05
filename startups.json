@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T20:17:36.844522+00:00",
+  "last_updated": "2026-06-05T21:50:02.225490+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -148765,28 +148765,37 @@
       "scraped_at": "2026-06-05T18:15:30.581815+00:00"
     },
     {
-      "name": "VoxAfrica",
+      "name": "VoxAfrica — AI Employee for African Businesses",
       "slug": "polsia-voxafrica",
+      "description": "VoxAfrica deploys autonomous AI agents that run your customer communications 24/7 — SMS, WhatsApp, follow-ups, and reporting, without a human in the loop.",
+      "description_fr": "VoxAfrica déploie des agents d'IA autonomes qui gèrent vos communications clients 24h/24 et 7j/7 : SMS, WhatsApp, suivis et rapports, sans qu'un humain soit impliqué.",
+      "category": "AI & Machine Learning",
       "website": "https://voxafrica.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-05T20:17:24.147092+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-05T21:49:58.390561+00:00"
     },
     {
-      "name": "Paypulse",
+      "name": "Paypulse — Payment infrastructure that watches itself",
       "slug": "polsia-paypulse-6",
+      "description": "Traditional APM tools alert on technical failures — timeouts, 500s, crashes. But the most expensive payment failures look fine from the outside. A BankID session that returns success but never actually authenticated. A 3DS challenge that times out and falls back silently. A settlement window that misses batches without an error. These are semantic failures. They require semantic understanding.",
+      "description_fr": "Les outils APM traditionnels alertent en cas de pannes techniques : délais d'attente, 500 secondes, plantages. Mais les défauts de paiement les plus coûteux semblent corrects de l’extérieur. Une session BankID qui renvoie un succès mais qui n'est jamais réellement authentifiée. Un défi 3DS qui expire et retombe silencieusement. Une fenêtre de règlement qui manque des lots sans erreur. Ce sont des échecs sémantiques. Ils nécessitent une compréhension sémantique.",
+      "category": "Finance & Fintech",
       "website": "https://paypulse-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-05T20:17:24.564681+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-05T21:49:59.742743+00:00"
     },
     {
-      "name": "Folo",
+      "name": "Folo — Your AI Sales Agent, Working While You Sleep",
       "slug": "polsia-folo-ai",
+      "description": "Folo is an AI sales agent that follows up with every lead, 24/7. Built for WhatsApp-first SMBs in Kenya.",
+      "description_fr": "Folo est un agent commercial IA qui suit chaque prospect, 24h/24 et 7j/7. Conçu pour les PME kenyanes qui privilégient WhatsApp.",
+      "category": "AI & Machine Learning",
       "website": "https://folo-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-05T20:17:24.743808+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-05T21:50:01.186245+00:00"
     },
     {
       "name": "FreteOS — AI Agents That Run Your Freight",
@@ -148858,6 +148867,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-05T20:17:31.767838+00:00"
+    },
+    {
+      "name": "NotaryRunner",
+      "slug": "polsia-notaryrunner",
+      "website": "https://notaryrunner.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T21:49:47.634730+00:00"
+    },
+    {
+      "name": "Vertex",
+      "slug": "polsia-vertexai",
+      "website": "https://vertexai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T21:49:47.839704+00:00"
+    },
+    {
+      "name": "WholePath — Real Estate Wholesaling, Done Right",
+      "slug": "polsia-wholepath-2",
+      "description": "Step-by-step real estate wholesaling courses tiered by your goals and budget. No hype. No shortcuts. Just a clear path forward.",
+      "description_fr": "Cours de vente en gros de biens immobiliers étape par étape, classés en fonction de vos objectifs et de votre budget. Pas de battage médiatique. Aucun raccourci. Juste une voie à suivre claire.",
+      "category": "Education",
+      "website": "https://wholepath-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T21:49:49.330940+00:00"
+    },
+    {
+      "name": "LocalD",
+      "slug": "polsia-locald",
+      "website": "https://locald.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T21:49:49.510020+00:00"
+    },
+    {
+      "name": "Deyso — AI",
+      "slug": "polsia-deyso",
+      "description": "We build AI-powered web, mobile, and custom software. Based in Mexico City, working with clients worldwide.",
+      "description_fr": "Nous construisons des logiciels Web, mobiles et personnalisés basés sur l'IA. Basé à Mexico, travaillant avec des clients du monde entier.",
+      "category": "AI & Machine Learning",
+      "website": "https://deyso.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T21:49:50.918847+00:00"
+    },
+    {
+      "name": "LoopStack",
+      "slug": "polsia-loopstack-3",
+      "website": "https://loopstack-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T21:49:51.591452+00:00"
+    },
+    {
+      "name": "GlowOS",
+      "slug": "polsia-glos",
+      "website": "https://glos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T21:49:51.662961+00:00"
+    },
+    {
+      "name": "ShelfCraft",
+      "slug": "polsia-shelfcraft-3",
+      "description": "We create product ads, TikTok videos, and marketing copy for Shopify and TikTok Shop stores. Retainers at a fraction of agency cost.",
+      "description_fr": "Nous créons des publicités de produits, des vidéos TikTok et des textes marketing pour les magasins Shopify et TikTok Shop. Des agents de rétention à une fraction du coût de l'agence.",
+      "category": "E-Commerce & Retail",
+      "website": "https://shelfcraft-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T21:49:53.245572+00:00"
+    },
+    {
+      "name": "FiberOpsOS — Operating System for Fiber Contractors",
+      "slug": "polsia-fiberopsos",
+      "description": "The fiber optic boom isn't slowing down. Federal broadband funding, 5G densification, and ISP FTTH targets \n        are creating an unprecedented wave of construction demand. FiberOpsOS exists to help the contractors \n        doing this work run smarter — so they can take on more jobs, keep crews organized, and grow without \n        drowning in paperwork.",
+      "description_fr": "Le boom de la fibre optique ne ralentit pas. Financement fédéral du haut débit, densification de la 5G et objectifs FTTH des FAI \n        créent une vague de demande de construction sans précédent. FiberOpsOS existe pour aider les entrepreneurs \n        faire ce travail plus intelligemment - afin qu'ils puissent assumer plus de tâches, garder les équipes organisées et se développer sans \n        noyé sous la paperasse.",
+      "category": "Other",
+      "website": "https://fiberopsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T21:49:54.426830+00:00"
+    },
+    {
+      "name": "Forekast — Bet on Anything With Your Group",
+      "slug": "polsia-forekastos",
+      "description": "A private prediction market for your friend circle, class, sports league, or team. Free forever. No real money. Takes 60 seconds.",
+      "description_fr": "Un marché de pronostics privé pour votre cercle d'amis, votre classe, votre ligue sportive ou votre équipe. Libre pour toujours. Pas d'argent réel. Prend 60 secondes.",
+      "category": "Sustainability & Green",
+      "website": "https://forekastos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T21:49:55.694319+00:00"
     }
   ]
 }
