@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T03:55:40.700513+00:00",
+  "last_updated": "2026-06-05T06:05:38.481661+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -148172,10 +148172,13 @@
     {
       "name": "AuraLux",
       "slug": "polsia-auralux-3",
+      "description": "Premium red light therapy devices for anti-aging, skin rejuvenation, and recovery. $89-$199. Results without the clinic price.",
+      "description_fr": "Appareils de thérapie par lumière rouge haut de gamme pour l'anti-âge, le rajeunissement de la peau et la récupération. 89 $ à 199 $. Résultats sans le prix de la clinique.",
+      "category": "Health & Wellness",
       "website": "https://auralux-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-05T01:33:20.447552+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-05T06:05:36.908907+00:00"
     },
     {
       "name": "BookMax — AI",
@@ -148228,6 +148231,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-05T01:33:26.623269+00:00"
+    },
+    {
+      "name": "WatchIQ",
+      "slug": "polsia-watchiq",
+      "website": "https://watchiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T06:05:18.002303+00:00"
+    },
+    {
+      "name": "PlanForge",
+      "slug": "polsia-untitled-1780639252349-mcs6",
+      "description": "PlanForge turns your idea into a structured, actionable business plan — one with daily tasks, scripts, and a path to $20K/month. No fluff. No template fill-in-the-blanks. Just a real plan you can execute from day one.",
+      "description_fr": "PlanForge transforme votre idée en un plan d'affaires structuré et exploitable, comprenant des tâches quotidiennes, des scripts et un chemin vers 20 000 $/mois. Pas de peluches. Aucun modèle ne remplit les blancs. Juste un vrai plan que vous pouvez exécuter dès le premier jour.",
+      "category": "Other",
+      "website": "https://untitled-1780639252349-mcs6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T06:05:20.503733+00:00"
+    },
+    {
+      "name": "ClipStack",
+      "slug": "polsia-clipstack-80",
+      "website": "https://clipstack-80.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T06:05:20.825603+00:00"
+    },
+    {
+      "name": "ClipCraft",
+      "slug": "polsia-clipcraft-d364a4",
+      "website": "https://clipcraft-d364a4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T06:05:21.206572+00:00"
+    },
+    {
+      "name": "InkStack",
+      "slug": "polsia-inkstack-4",
+      "description": "We've watched salon software companies build empires on a solved problem. Tattoo studios have been left to piece together five different apps, three spreadsheets, and a text thread with their best client. That's not a tech gap — that's an opportunity.",
+      "description_fr": "Nous avons vu des éditeurs de logiciels pour salons bâtir des empires sur un problème résolu. Les studios de tatouage ont dû rassembler cinq applications différentes, trois feuilles de calcul et un fil de discussion avec leur meilleur client. Ce n’est pas une lacune technologique, c’est une opportunité.",
+      "category": "Software & SaaS",
+      "website": "https://inkstack-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T06:05:23.127638+00:00"
+    },
+    {
+      "name": "GutHeroOS",
+      "slug": "polsia-gutheroos",
+      "website": "https://gutheroos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T06:05:23.384880+00:00"
+    },
+    {
+      "name": "RelectOS",
+      "slug": "polsia-relectos",
+      "website": "https://relectos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T06:05:23.547165+00:00"
+    },
+    {
+      "name": "StreetSpark — Local Marketing That Works",
+      "slug": "polsia-streetspark-2",
+      "description": "Social media management and paid ads for roofers, dentists, and realtors. One niche at a time. Results you can measure.",
+      "description_fr": "Gestion des réseaux sociaux et publicités payantes pour les couvreurs, les dentistes et les agents immobiliers. Un créneau à la fois. Des résultats que vous pouvez mesurer.",
+      "category": "Marketing & Advertising",
+      "website": "https://streetspark-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T06:05:25.240486+00:00"
+    },
+    {
+      "name": "PostLocal — AI Social Media for South African Businesses",
+      "slug": "polsia-postlocal-13",
+      "description": "AI-powered social media management for South African local businesses. Posts, videos, GBP management. R3,500/month.",
+      "description_fr": "Gestion des médias sociaux basée sur l'IA pour les entreprises locales sud-africaines. Posts, vidéos, gestion GBP. 3 500 R/mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://postlocal-13.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T06:05:26.837535+00:00"
+    },
+    {
+      "name": "Lumana — Run Your HR With an AI Agent",
+      "slug": "polsia-lumana",
+      "description": "Lumana is an autonomous AI agent that runs your entire HR operation — hiring, onboarding, payroll, compliance — while you sleep.",
+      "description_fr": "Lumana est un agent d'IA autonome qui gère l'ensemble de vos opérations RH (embauche, intégration, paie, conformité) pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://lumana.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T06:05:28.344827+00:00"
     }
   ]
 }
