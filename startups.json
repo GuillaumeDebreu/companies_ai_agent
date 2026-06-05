@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T23:18:17.777638+00:00",
+  "last_updated": "2026-06-05T01:33:32.783120+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -148022,20 +148022,26 @@
       "scraped_at": "2026-06-04T21:59:21.480984+00:00"
     },
     {
-      "name": "Vend",
+      "name": "Vend — Sell digital products on your own terms",
       "slug": "polsia-vend",
+      "description": "The creator economy is worth $234 billion and growing. But most of that money flows to the platforms, not the creators. Vend exists to flip that equation — to put the power and the profit back in the hands of the people doing the work.",
+      "description_fr": "L’économie des créateurs vaut 234 milliards de dollars et continue de croître. Mais la majeure partie de cet argent va aux plateformes et non aux créateurs. Vend existe pour renverser cette équation – pour remettre le pouvoir et le profit entre les mains de ceux qui font le travail.",
+      "category": "Software & SaaS",
       "website": "https://vend.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T23:17:58.369545+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-05T01:33:30.484931+00:00"
     },
     {
-      "name": "Bloom",
+      "name": "Bloom — AI Brand Manager for Clean Beauty",
       "slug": "polsia-bloom-ai-2",
+      "description": "Bloom was built for the indie formulator running one brand from a home office. The same AI muscle that runs L'Oréal's marketing operations — now sized for the founder who ships every package herself.",
+      "description_fr": "Bloom a été conçu pour le formulateur indépendant qui gère une marque depuis son bureau à domicile. Le même muscle d'IA qui gère les opérations marketing de L'Oréal — désormais dimensionné pour la fondatrice qui expédie elle-même chaque colis.",
+      "category": "AI & Machine Learning",
       "website": "https://bloom-ai-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T23:17:58.583332+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-05T01:33:31.402074+00:00"
     },
     {
       "name": "ShortStack",
@@ -148059,10 +148065,13 @@
     {
       "name": "ContentCraft",
       "slug": "polsia-contentcraft-31",
+      "description": "We built ContentCraft because the market has a gap. R2,000-R5,000/month is too low for big agencies to care, and too high for unreliable freelancers. That gap is where we live. Professional quality, honest pricing, consistent delivery. Every month.",
+      "description_fr": "Nous avons construit ContentCraft parce que le marché a une lacune. 2 000 à 5 000 rands/mois sont trop bas pour que les grandes agences s'en soucient, et trop élevés pour les indépendants peu fiables. Cet écart est là où nous vivons. Qualité professionnelle, prix honnêtes, livraison cohérente. Chaque mois.",
+      "category": "Consulting & Services",
       "website": "https://contentcraft-31.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-04T23:18:00.525081+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-05T01:33:32.403560+00:00"
     },
     {
       "name": "Tu profesor nunca duerme — Codepiloto",
@@ -148118,6 +148127,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-04T23:18:07.793713+00:00"
+    },
+    {
+      "name": "Swell",
+      "slug": "polsia-swell-ai-4",
+      "website": "https://swell-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T01:33:17.120913+00:00"
+    },
+    {
+      "name": "YouPersona — Build Your AI Identity",
+      "slug": "polsia-youpersona",
+      "description": "In November 2025, Character.AI — the category leader with 20 million monthly users — banned under-18s from open-ended chat.Millions of young people lost their space to build AI identities.Nobody filled the gap. Until now.",
+      "description_fr": "En novembre 2025, Character.AI — le leader de la catégorie avec 20 millions d'utilisateurs mensuels — a interdit aux moins de 18 ans l'accès au chat ouvert. Des millions de jeunes ont perdu leur espace pour construire des identités IA. Personne n'a comblé le vide. Jusqu'à maintenant.",
+      "category": "AI & Machine Learning",
+      "website": "https://youpersona.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T01:33:18.003092+00:00"
+    },
+    {
+      "name": "QuestionOS — Makeup That Asks More",
+      "slug": "polsia-questionos",
+      "description": "The first collection drops when it's ready — not when the calendar says so. No hype. No shortcuts. Just cosmetics worth the wait.",
+      "description_fr": "La première collection sort lorsqu'elle est prête, pas lorsque le calendrier l'indique. Pas de battage médiatique. Aucun raccourci. Juste des cosmétiques qui valent la peine d'attendre.",
+      "category": "Other",
+      "website": "https://questionos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T01:33:19.002254+00:00"
+    },
+    {
+      "name": "DevPulse — Your dev team's autonomous daily digest",
+      "slug": "polsia-devpulse-ai-9",
+      "description": "DevPulse runs in the background of your development workflow. It monitors repos, pipelines, PRs, and team activity — then delivers one sharp daily digest: what's moving, what's blocked, and what needs your attention right now.",
+      "description_fr": "DevPulse s'exécute en arrière-plan de votre flux de travail de développement. Il surveille les dépôts, les pipelines, les relations publiques et l'activité de l'équipe, puis fournit un résumé quotidien précis : ce qui bouge, ce qui est bloqué et ce qui nécessite votre attention en ce moment.",
+      "category": "Sales & CRM",
+      "website": "https://devpulse-ai-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T01:33:20.139338+00:00"
+    },
+    {
+      "name": "AuraLux",
+      "slug": "polsia-auralux-3",
+      "website": "https://auralux-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T01:33:20.447552+00:00"
+    },
+    {
+      "name": "BookMax — AI",
+      "slug": "polsia-bookmax",
+      "description": "Every local service business is paying for the top of their funnel and leaking the bottom.\n        They buy Google Ads, Facebook leads, HomeAdvisor leads — and then watch 40% of them walk\n        out the door because nobody called back in time. We built BookMax to close that gap.\n        AI that picks up the phone, texts back in seconds, qualifies the lead, and books the\n        appointment — before your prospect moves on.",
+      "description_fr": "Chaque entreprise de services locaux paie pour le haut de son entonnoir et fuit pour le bas.\n        Ils achètent des publicités Google Ads, des leads Facebook, des leads HomeAdvisor, puis regardent 40 % d'entre eux marcher\n        dehors parce que personne n'a rappelé à temps. Nous avons construit BookMax pour combler cet écart.\n        Une IA qui décroche le téléphone, répond en quelques secondes, qualifie le prospect et réserve le\n        rendez-vous – avant que votre prospect ne parte.",
+      "category": "AI & Machine Learning",
+      "website": "https://bookmax.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T01:33:21.970791+00:00"
+    },
+    {
+      "name": "SocialCortex",
+      "slug": "polsia-socialcortex",
+      "website": "https://socialcortex.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T01:33:22.195492+00:00"
+    },
+    {
+      "name": "PulseSync — AI Agent for Creator Brands",
+      "slug": "polsia-pulsesync-12",
+      "description": "PulseSync gives every creator — regardless of follower count — that enterprise layer. Not a chatbot. Not a scheduler. An agent that runs the business so you can run the content.",
+      "description_fr": "PulseSync offre à chaque créateur, quel que soit le nombre de followers, cette couche d'entreprise. Pas un chatbot. Pas un planificateur. Un agent qui gère l'entreprise afin que vous puissiez exécuter le contenu.",
+      "category": "AI & Machine Learning",
+      "website": "https://pulsesync-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T01:33:23.610805+00:00"
+    },
+    {
+      "name": "OrbitOS — AI Agents That Work While You Sleep",
+      "slug": "polsia-orbitos-16",
+      "description": "OrbitOS deploys autonomous AI agents that monitor, act, and report around the clock. Your workforce runs itself.",
+      "description_fr": "OrbitOS déploie des agents d'IA autonomes qui surveillent, agissent et rendent compte 24 heures sur 24. Votre personnel gère lui-même.",
+      "category": "AI & Machine Learning",
+      "website": "https://orbitos-16.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T01:33:25.043261+00:00"
+    },
+    {
+      "name": "TestPilot",
+      "slug": "polsia-testpilot-3",
+      "description": "TestPilot watches your app and writes its own tests. When your UI changes, it fixes them. No more test rot. No more manual maintenance. Just coverage that stays current as you ship.",
+      "description_fr": "TestPilot surveille votre application et écrit ses propres tests. Lorsque votre interface utilisateur change, elle les corrige. Fini les tests de pourriture. Plus de maintenance manuelle. Juste une couverture qui reste à jour pendant l'expédition.",
+      "category": "Real Estate",
+      "website": "https://testpilot-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T01:33:26.623269+00:00"
     }
   ]
 }
