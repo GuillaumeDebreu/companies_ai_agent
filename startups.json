@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T21:50:02.225490+00:00",
+  "last_updated": "2026-06-05T22:54:41.344133+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -148869,20 +148869,26 @@
       "scraped_at": "2026-06-05T20:17:31.767838+00:00"
     },
     {
-      "name": "NotaryRunner",
+      "name": "NotaryRunner — Mobile Notary & Loan Signing in New Jersey",
       "slug": "polsia-notaryrunner",
+      "description": "Eric Fritts brings NotaryRunner to NJ — mobile notary and loan signing services that come to you. Real estate closings, powers of attorney, affidavits, and loan packages.",
+      "description_fr": "Eric Fritts apporte NotaryRunner au New Jersey – des services de notaire mobile et de signature de prêt qui viennent à vous. Clôtures immobilières, procurations, affidavits et prêts.",
+      "category": "Real Estate",
       "website": "https://notaryrunner.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-05T21:49:47.634730+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-05T22:54:36.201794+00:00"
     },
     {
-      "name": "Vertex",
+      "name": "Vertex — AI for Physics Research",
       "slug": "polsia-vertexai",
+      "description": "The gap between AI and real physics research isn't knowledge — it'sagency. A model that knows physics isn't the same as a system that can work through an open problem for hours, try different approaches, run simulations, verify its steps, and know when it's stuck.",
+      "description_fr": "L'écart entre l'IA et la recherche réelle en physique n'est pas la connaissance, mais l'agence. Un modèle qui connaît la physique n'est pas la même chose qu'un système capable de résoudre un problème ouvert pendant des heures, d'essayer différentes approches, d'exécuter des simulations, de vérifier ses étapes et de savoir quand il est bloqué.",
+      "category": "AI & Machine Learning",
       "website": "https://vertexai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-05T21:49:47.839704+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-05T22:54:37.686024+00:00"
     },
     {
       "name": "WholePath — Real Estate Wholesaling, Done Right",
@@ -148915,12 +148921,15 @@
       "scraped_at": "2026-06-05T21:49:50.918847+00:00"
     },
     {
-      "name": "LoopStack",
+      "name": "LoopStack — Faceless YouTube, Built and Run",
       "slug": "polsia-loopstack-3",
+      "description": "The creator economy is shifting from personalities to pipelines. LoopStack rides that shift — building channels that are system-driven, not personality-driven. They don't need you on camera. They need you in the dashboard.",
+      "description_fr": "L’économie des créateurs passe des personnalités aux pipelines. LoopStack suit ce changement en créant des canaux axés sur le système et non sur la personnalité. Ils n'ont pas besoin de vous devant la caméra. Ils ont besoin de vous dans le tableau de bord.",
+      "category": "Software & SaaS",
       "website": "https://loopstack-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-05T21:49:51.591452+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-05T22:54:38.893091+00:00"
     },
     {
       "name": "GlowOS",
@@ -148962,6 +148971,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-05T21:49:55.694319+00:00"
+    },
+    {
+      "name": "VerdantOK",
+      "slug": "polsia-verdantok",
+      "website": "https://verdantok.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T22:54:24.028630+00:00"
+    },
+    {
+      "name": "Flameform",
+      "slug": "polsia-flameform",
+      "website": "https://flameform.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T22:54:24.158165+00:00"
+    },
+    {
+      "name": "MobiLogOS — Logística de Construção no DF e GO",
+      "slug": "polsia-mobilogos",
+      "description": "MobiLogOS é o sistema operacional para empresas como a VRentulhos — que precisam de mais controle, menos fricção e uma forma de crescer sem ficar atolado de mensagens.",
+      "description_fr": "MobiLogOS est un système opérationnel pour les entreprises comme les VRentulhos — qui précise plus de contrôle, moins de frictions et une forme de croissance en fonction des messages.",
+      "category": "Real Estate",
+      "website": "https://mobilogos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T22:54:25.695606+00:00"
+    },
+    {
+      "name": "AutomationIQ — AI Systems for Law Firms, Real Estate & E",
+      "slug": "polsia-automationiq",
+      "description": "We build and manage custom AI systems for traditional businesses. Chatbots, automations, email flows. $5k/month, done-for-you.",
+      "description_fr": "Nous construisons et gérons des systèmes d'IA personnalisés pour les entreprises traditionnelles. Chatbots, automatisations, flux d'e-mails. 5 000 $/mois, fait pour vous.",
+      "category": "AI & Machine Learning",
+      "website": "https://automationiq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T22:54:27.215198+00:00"
+    },
+    {
+      "name": "Node",
+      "slug": "polsia-node-ai",
+      "website": "https://node-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-05T22:54:27.523243+00:00"
+    },
+    {
+      "name": "Forge — AI Agents That Run While You Sleep",
+      "slug": "polsia-forge-ai-18",
+      "description": "Assign a task. Go to sleep. Wake up to completed work. Forge runs autonomous AI agents in your browser 24/7.",
+      "description_fr": "Attribuez une tâche. Aller dormir. Réveillez-vous avec le travail terminé. Forge exécute des agents d'IA autonomes dans votre navigateur 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://forge-ai-18.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T22:54:28.619081+00:00"
+    },
+    {
+      "name": "DetailFlow — Mobile Auto Detailing",
+      "slug": "polsia-detailflow-2",
+      "description": "We come to you — fully equipped van, professional-grade products,\n      obsessive attention to detail. Parked in your driveway by 9am,\n      driving away by noon with something that looks better than when\n      it left the factory.",
+      "description_fr": "Nous venons à vous — fourgon entièrement équipé, produits de qualité professionnelle,\n      une attention obsessionnelle aux détails. Garé dans votre allée à 9h,\n      partir à midi avec quelque chose qui a l'air mieux que quand\n      il a quitté l'usine.",
+      "category": "Other",
+      "website": "https://detailflow-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T22:54:41.341315+00:00"
+    },
+    {
+      "name": "Casabocca — Crafted for Real Parenting",
+      "slug": "polsia-casaboccaos",
+      "description": "Casabocca monitors connect directly between camera and parent unit — no WiFi, no app, no footage going anywhere it shouldn't. Just a private, closed signal between you and your baby.",
+      "description_fr": "Les moniteurs Casabocca se connectent directement entre la caméra et l'unité parent : pas de WiFi, pas d'application, pas de séquences allant là où elles ne devraient pas. Juste un signal privé et fermé entre vous et votre bébé.",
+      "category": "Real Estate",
+      "website": "https://casaboccaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T22:54:29.667366+00:00"
+    },
+    {
+      "name": "sentineliq",
+      "slug": "polsia-sentineliq-28",
+      "description": "SentinelIQ runs autonomous penetration tests against your infrastructure, APIs, and web apps — continuously. It finds what attackers find, faster. No scheduling, no waiting, no six-figure annual contract.",
+      "description_fr": "SentinelIQ exécute des tests d'intrusion autonomes sur votre infrastructure, vos API et vos applications Web, en continu. Il trouve ce que les attaquants trouvent, plus rapidement. Pas de planning, pas d'attente, pas de contrat annuel à six chiffres.",
+      "category": "Software & SaaS",
+      "website": "https://sentineliq-28.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T22:54:30.319070+00:00"
+    },
+    {
+      "name": "CodeSentry — Your codebase, always guarded",
+      "slug": "polsia-codesentry-5",
+      "description": "AI agent that monitors your codebase 24/7, writes tests autonomously, and catches bugs before they ship.",
+      "description_fr": "Agent IA qui surveille votre base de code 24h/24 et 7j/7, écrit des tests de manière autonome et détecte les bogues avant leur expédition.",
+      "category": "AI & Machine Learning",
+      "website": "https://codesentry-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-05T22:54:31.263159+00:00"
     }
   ]
 }
