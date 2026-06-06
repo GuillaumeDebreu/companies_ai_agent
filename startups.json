@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T16:49:29.224707+00:00",
+  "last_updated": "2026-06-06T17:57:42.479637+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -149922,12 +149922,15 @@
       "scraped_at": "2026-06-06T15:42:27.048245+00:00"
     },
     {
-      "name": "Velura",
+      "name": "Velura — AI Agents for South Asian Commerce",
       "slug": "polsia-velura-5",
+      "description": "South Asia has one of the world's largest underserved SMB commerce markets. Agentic commerce is arriving in Asia now — Visa, Google, Alibaba, and Ant International are all launching AI payment and agent protocols in the region. The merchants who are ready will win. The ones who are not will be discovered by AI agents and bypassed.",
+      "description_fr": "L’Asie du Sud possède l’un des plus grands marchés commerciaux mal desservis au monde pour les PME. Le commerce agent arrive désormais en Asie : Visa, Google, Alibaba et Ant International lancent tous des protocoles de paiement et d'agent IA dans la région. Les commerçants prêts gagneront. Ceux qui ne le sont pas seront découverts par les agents de l’IA et contournés.",
+      "category": "AI & Machine Learning",
       "website": "https://velura-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-06T16:49:13.605071+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-06T17:57:40.658203+00:00"
     },
     {
       "name": "CourseForge — AI That Builds Your Learning Paths",
@@ -149952,12 +149955,15 @@
       "scraped_at": "2026-06-06T16:49:16.684461+00:00"
     },
     {
-      "name": "PostDay",
+      "name": "PostDay — Campus Social, Autonomous",
       "slug": "polsia-postday",
+      "description": "PostDay runs your campus business's social media autonomously — every day, every platform, every engagement — so you can focus on what matters: running the café, leading your team, and getting an education.",
+      "description_fr": "PostDay gère les médias sociaux de votre entreprise de campus de manière autonome – chaque jour, chaque plateforme, chaque engagement – ​​afin que vous puissiez vous concentrer sur ce qui compte : gérer le café, diriger votre équipe et suivre une formation.",
+      "category": "Software & SaaS",
       "website": "https://postday.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-06T16:49:16.803213+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-06T17:57:42.222837+00:00"
     },
     {
       "name": "SyncStand",
@@ -150024,6 +150030,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-06T16:49:25.108888+00:00"
+    },
+    {
+      "name": "EndiiOS",
+      "slug": "polsia-endii-os",
+      "website": "https://endii-os.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-06T17:57:20.751853+00:00"
+    },
+    {
+      "name": "Voygr — Luggage, Platform to Doorstep",
+      "slug": "polsia-luggo",
+      "description": "Every other luggage service says \"trust us.\" Voygr proves it — structurally, end to end. Each delivery follows a sequence of cryptographic and human verification checkpoints that cannot be bypassed.",
+      "description_fr": "Tous les autres services de bagages disent « faites-nous confiance ». Voygr le prouve – structurellement, de bout en bout. Chaque livraison suit une séquence de points de contrôle cryptographiques et de vérification humaine qui ne peuvent être contournés.",
+      "category": "Software & SaaS",
+      "website": "https://luggo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T17:57:22.193952+00:00"
+    },
+    {
+      "name": "CloseDesk",
+      "slug": "polsia-closedesk-3",
+      "description": "CloseDesk is an autonomous AI agent that handles your support inbox. It reads tickets, resolves what it knows, escalates what it doesn't — and learns from every interaction. Built for SMBs who want enterprise-level support without the headcount.",
+      "description_fr": "CloseDesk est un agent IA autonome qui gère votre boîte de réception d'assistance. Il lit les tickets, résout ce qu'il sait, fait remonter ce qu'il ne sait pas et apprend de chaque interaction. Conçu pour les PME qui souhaitent un support de niveau entreprise sans effectif.",
+      "category": "AI & Machine Learning",
+      "website": "https://closedesk-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T17:57:23.185401+00:00"
+    },
+    {
+      "name": "GoToTalent — AI Recruitment for GTM & B2B SaaS",
+      "slug": "polsia-gototalent",
+      "description": "AI-powered recruitment agency specialising in GTM and B2B SaaS revenue teams. Agentic sourcing, sector-specialist placement, and TA infrastructure for scale-ups.",
+      "description_fr": "Agence de recrutement basée sur l'IA, spécialisée dans les équipes de revenus GTM et B2B SaaS. Sourcing agent, placement de spécialistes sectoriels et infrastructure d'assistance technique pour les mises à l'échelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://gototalent.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T17:57:24.360816+00:00"
+    },
+    {
+      "name": "Cura — Family Care Coordination, Reimagined",
+      "slug": "polsia-cura-care",
+      "description": "Cura keeps the whole family aligned on a parent's care — and uses AI to detect health changes before they become emergencies.",
+      "description_fr": "Cura maintient toute la famille alignée sur les soins d'un parent et utilise l'IA pour détecter les changements de santé avant qu'ils ne deviennent des urgences.",
+      "category": "AI & Machine Learning",
+      "website": "https://cura-care.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T17:57:25.385209+00:00"
+    },
+    {
+      "name": "LeadAnchor — Exclusive Leads for Life Insurance Agents",
+      "slug": "polsia-leadanchor",
+      "description": "Stop competing for shared leads. LeadAnchor gives life insurance agents their own exclusive lead pipeline and a system agents actually want to join.",
+      "description_fr": "Arrêtez de rivaliser pour les leads partagés. LeadAnchor offre aux agents d'assurance-vie leur propre pipeline de prospects exclusif et un système que les agents souhaitent réellement rejoindre.",
+      "category": "Sales & CRM",
+      "website": "https://leadanchor.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T17:57:27.170005+00:00"
+    },
+    {
+      "name": "Feedforward — AI",
+      "slug": "polsia-feedforward",
+      "description": "You've built something real. A network of shows. An audience. A voice.\n      But somewhere between booking guests, editing shownotes, posting clips to four platforms, chasing sponsorship data, and answering listener email — you stopped making the thing people came for.",
+      "description_fr": "Vous avez construit quelque chose de réel. Un réseau de spectacles. Un public. Une voix.\n      Mais quelque part entre la réservation d'invités, l'édition de notes de spectacle, la publication de clips sur quatre plateformes, la recherche de données de parrainage et la réponse aux e-mails des auditeurs, vous avez arrêté de créer ce pour quoi les gens sont venus.",
+      "category": "AI & Machine Learning",
+      "website": "https://feedforward.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T17:57:28.517006+00:00"
+    },
+    {
+      "name": "LocalStack — AI Marketing for Local Businesses",
+      "slug": "polsia-localstack-28",
+      "description": "Full-stack AI marketing for roofers, dentists, realtors, gyms, restaurants and contractors. Social media, video, content, and reputation management — starting at $300/month.",
+      "description_fr": "Marketing IA complet pour les couvreurs, les dentistes, les agents immobiliers, les gymnases, les restaurants et les entrepreneurs. Gestion des réseaux sociaux, des vidéos, du contenu et de la réputation – à partir de 300 $/mois.",
+      "category": "Entertainment & Media",
+      "website": "https://localstack-28.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T17:57:29.302782+00:00"
+    },
+    {
+      "name": "ServeLogic — AI Automation for Small Business",
+      "slug": "polsia-servelogic",
+      "description": "We build and run the AI systems that save small businesses 20+ hours a week — chatbots, booking, support, and social media — so you can focus on what you actually started your business to do.",
+      "description_fr": "Nous construisons et exploitons des systèmes d'IA qui permettent aux petites entreprises d'économiser plus de 20 heures par semaine (chatbots, réservation, assistance et réseaux sociaux) afin que vous puissiez vous concentrer sur ce pour quoi vous avez réellement lancé votre entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://servelogic.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T17:57:31.040662+00:00"
+    },
+    {
+      "name": "Vessel",
+      "slug": "polsia-vessel-polsia",
+      "description": "Consistency beats talent. Daily beats brilliant. An employee who never sleeps beats a solo founder working 18-hour days. Vessel was built for the creator who knows what they want to say — but can't say it every single day without burning out.",
+      "description_fr": "La cohérence bat le talent. Le rythme quotidien est génial. Un employé qui ne dort jamais bat un fondateur solo qui travaille 18 heures par jour. Vessel a été construit pour le créateur qui sait ce qu'il veut dire, mais qui ne peut pas le dire tous les jours sans s'épuiser.",
+      "category": "Other",
+      "website": "https://vessel-polsia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T17:57:32.637960+00:00"
     }
   ]
 }
