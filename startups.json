@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T15:42:37.776190+00:00",
+  "last_updated": "2026-06-06T16:49:29.224707+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -149848,12 +149848,15 @@
       "scraped_at": "2026-06-06T15:42:18.441774+00:00"
     },
     {
-      "name": "SAVIOS",
+      "name": "SAVI — Your phone finally remembers",
       "slug": "polsia-savios",
+      "description": "Your saved documents, screenshots, links, files, and Vault items are local-first and stay on your iPhone. SAVI does not sell your personal data or use ad tracking.",
+      "description_fr": "Vos documents, captures d'écran, liens, fichiers et éléments du coffre-fort enregistrés sont d'abord locaux et restent sur votre iPhone. SAVI ne vend pas vos données personnelles et n'utilise pas de suivi publicitaire.",
+      "category": "Marketing & Advertising",
       "website": "https://savios.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-06T15:42:18.745743+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-06T16:49:28.945975+00:00"
     },
     {
       "name": "Intellispect — Autonomous B2B Pipeline Intelligence",
@@ -149917,6 +149920,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-06T15:42:27.048245+00:00"
+    },
+    {
+      "name": "Velura",
+      "slug": "polsia-velura-5",
+      "website": "https://velura-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-06T16:49:13.605071+00:00"
+    },
+    {
+      "name": "CourseForge — AI That Builds Your Learning Paths",
+      "slug": "polsia-courseforge-4",
+      "description": "Learning should compound. The best systems are the ones that build themselves — that get smarter about what your learners need and when they need it. CourseForge is not a course builder with AI features. It is an autonomous learning agent that runs the whole operation.",
+      "description_fr": "L’apprentissage doit être complexe. Les meilleurs systèmes sont ceux qui se construisent eux-mêmes, qui savent mieux comprendre ce dont vos apprenants ont besoin et quand ils en ont besoin. CourseForge n'est pas un créateur de cours doté de fonctionnalités d'IA. Il s'agit d'un agent d'apprentissage autonome qui gère l'ensemble de l'opération.",
+      "category": "AI & Machine Learning",
+      "website": "https://courseforge-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T16:49:15.224449+00:00"
+    },
+    {
+      "name": "PuffDrop — Vape & Tobacco Delivered",
+      "slug": "polsia-puffdrop-2",
+      "description": "When you're low, you shouldn't have to drive across town. PuffDrop brings the shop to your door — the brands you want, the convenience you need.",
+      "description_fr": "Lorsque vous êtes déprimé, vous ne devriez pas avoir à traverser la ville en voiture. PuffDrop amène le magasin à votre porte : les marques que vous souhaitez, la commodité dont vous avez besoin.",
+      "category": "E-Commerce & Retail",
+      "website": "https://puffdrop-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T16:49:16.684461+00:00"
+    },
+    {
+      "name": "PostDay",
+      "slug": "polsia-postday",
+      "website": "https://postday.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-06T16:49:16.803213+00:00"
+    },
+    {
+      "name": "SyncStand",
+      "slug": "polsia-syncstand",
+      "description": "SyncStand watches your GitHub repos, PRs, and issues all day. Every morning at 8am, you get one sharp digest — what shipped, what's blocked, what to do next. No meetings. No bots to pester the team.",
+      "description_fr": "SyncStand surveille vos dépôts, relations publiques et problèmes GitHub toute la journée. Chaque matin à 8 heures du matin, vous recevez un résumé précis : ce qui a été expédié, ce qui est bloqué, que faire ensuite. Pas de réunions. Pas de robots pour harceler l'équipe.",
+      "category": "Other",
+      "website": "https://syncstand.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T16:49:18.303018+00:00"
+    },
+    {
+      "name": "Workr — Home services that actually work",
+      "slug": "polsia-workr-home-services",
+      "description": "Snabbit serves the top 5%. Pronto charges ₹1.32 a job and loses money. Urban Company charges workers 35%+. Workr was built for everyone else: the plumber in Borivali who can't get booked, the family in Pune who can't afford ₹2000 for an AC checkup.",
+      "description_fr": "Snabbit dessert les 5 % les plus riches. Pronto facture 1,32 ₹ par travail et perd de l'argent. Urban Company facture plus de 35 % aux travailleurs. Workr a été conçu pour tout le monde : le plombier de Borivali qui ne peut pas être réservé, la famille de Pune qui ne peut pas se permettre 2 000 ₹ pour un contrôle de climatisation.",
+      "category": "Other",
+      "website": "https://workr-home-services.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T16:49:19.429411+00:00"
+    },
+    {
+      "name": "FundFinders — Surplus Funds Recovery",
+      "slug": "polsia-fundfinders",
+      "description": "The 2023 Supreme Court ruling inTyler v. Hennepin Countyreinforced that governments cannot automatically retain surplus value from tax sales. The result: more awareness, more funds being released, more opportunities for rightful owners to recover what's theirs.",
+      "description_fr": "La décision de la Cour suprême de 2023 dans l’affaire Tyler c. Hennepin County a renforcé le fait que les gouvernements ne peuvent pas automatiquement conserver la plus-value des ventes fiscales. Le résultat : plus de sensibilisation, plus de fonds débloqués, plus de possibilités pour les propriétaires légitimes de récupérer ce qui leur appartient.",
+      "category": "Sales & CRM",
+      "website": "https://fundfinders.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T16:49:20.876263+00:00"
+    },
+    {
+      "name": "LaunchList — Business Ideas Ranked for 2026",
+      "slug": "polsia-launchlist-5",
+      "description": "43 business ideas ranked by real market data. Every score is based on startup cost, time commitment, competition level, and earning potential. Pick one and go.",
+      "description_fr": "43 idées commerciales classées selon des données de marché réelles. Chaque score est basé sur le coût de démarrage, le temps consacré, le niveau de compétition et le potentiel de gains. Choisissez-en un et partez.",
+      "category": "Other",
+      "website": "https://launchlist-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T16:49:22.248411+00:00"
+    },
+    {
+      "name": "Vantae — Autonomous Mission Intelligence",
+      "slug": "polsia-vantae",
+      "description": "AI agents that run government agency operations autonomously. Monitor, predict, and act on mission-critical data 24/7.",
+      "description_fr": "Agents d'IA qui gèrent les opérations des agences gouvernementales de manière autonome. Surveillez, prédisez et agissez sur les données critiques 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://vantae.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T16:49:23.713262+00:00"
+    },
+    {
+      "name": "WardenHealth — Autonomous Healthcare Vendor Intelligence",
+      "slug": "polsia-wardenhealth",
+      "description": "AI agent that monitors healthcare vendor performance 24/7. Health systems finally know if their AI tools are actually working.",
+      "description_fr": "Agent IA qui surveille les performances des fournisseurs de soins de santé 24h/24 et 7j/7. Les systèmes de santé savent enfin si leurs outils d’IA fonctionnent réellement.",
+      "category": "AI & Machine Learning",
+      "website": "https://wardenhealth.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T16:49:25.108888+00:00"
     }
   ]
 }
