@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T20:47:00.576196+00:00",
+  "last_updated": "2026-06-06T21:48:26.531415+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -150257,12 +150257,15 @@
       "scraped_at": "2026-06-06T20:46:42.381808+00:00"
     },
     {
-      "name": "Logpile",
+      "name": "Logpile — AI that handles post",
       "slug": "polsia-logpile",
+      "description": "Writing the feature is the fun part. Then comes the mountain: write the tests, review the diff, chase down CI failures, update the README, flag the edge cases. All manual. All tedious. All stealing time from the next thing you actually want to build.",
+      "description_fr": "Écrire la fonctionnalité est la partie amusante. Vient ensuite la montagne : rédiger les tests, examiner les différences, rechercher les échecs de CI, mettre à jour le README, signaler les cas extrêmes. Tout manuel. Tout cela est fastidieux. Tout cela vous fait perdre du temps sur la prochaine chose que vous voulez réellement construire.",
+      "category": "AI & Machine Learning",
       "website": "https://logpile.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-06T20:46:42.596829+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-06T21:48:21.935740+00:00"
     },
     {
       "name": "Bjorn Forge — Finishing Done Right",
@@ -150351,6 +150354,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-06T20:46:53.286249+00:00"
+    },
+    {
+      "name": "SecondRingOS",
+      "slug": "polsia-secondringos",
+      "website": "https://secondringos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-06T21:48:10.546427+00:00"
+    },
+    {
+      "name": "Brika Materials",
+      "slug": "polsia-brika-materials",
+      "description": "African manufacturer of construction materials for the housing and infrastructure market.",
+      "description_fr": "Fabricant africain de matériaux de construction destinés au marché de l’habitat et des infrastructures.",
+      "category": "Real Estate",
+      "website": "https://brika-materials.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T21:48:23.425806+00:00"
+    },
+    {
+      "name": "Massive — Outbound Runs Itself",
+      "slug": "polsia-massive-outbound",
+      "description": "The tools you're using today were built for humans to click through. That's fine if you have an SDR team. But if you're a founder doing outbound alone, or a team that wants to scale without hiring, the gap between what these tools require and what your time allows is exactly what's killing your pipeline.",
+      "description_fr": "Les outils que vous utilisez aujourd'hui ont été conçus pour que les humains puissent cliquer dessus. C'est bien si vous avez une équipe SDR. Mais si vous êtes un fondateur travaillant seul dans le domaine de l'outbound ou une équipe qui souhaite évoluer sans embaucher, l'écart entre ce dont ces outils ont besoin et ce que votre temps vous permet est exactement ce qui tue votre pipeline.",
+      "category": "Sales & CRM",
+      "website": "https://massive-outbound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T21:48:25.017359+00:00"
+    },
+    {
+      "name": "VerkAI — AI Automation for Service Businesses",
+      "slug": "polsia-verkai",
+      "description": "We're building the operating system for service businesses that refuse to lose to voicemail. AI that works the phone, qualifies the lead, and books the appointment — so your people can do the work that matters.",
+      "description_fr": "Nous construisons le système d'exploitation pour les entreprises de services qui refusent de perdre face à la messagerie vocale. Une IA qui gère le téléphone, qualifie le prospect et prend rendez-vous, afin que vos collaborateurs puissent effectuer le travail qui compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://verkai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T21:48:26.412407+00:00"
+    },
+    {
+      "name": "GlossShift — Mobile Car Detailing",
+      "slug": "polsia-glossshift",
+      "description": "That's the standard we hold every job to — from a compact sedan to a full-size truck.",
+      "description_fr": "C'est la norme à laquelle nous imposons chaque travail, depuis une berline compacte jusqu'à un camion pleine grandeur.",
+      "category": "Other",
+      "website": "https://glossshift.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T21:48:12.409355+00:00"
+    },
+    {
+      "name": "AutomateFlow",
+      "slug": "polsia-autoflow-49",
+      "website": "https://autoflow-49.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-06T21:48:12.562586+00:00"
+    },
+    {
+      "name": "BatchCraftOS — Operating System for Specialty Spirits Retail",
+      "slug": "polsia-batchcraftos",
+      "description": "Spirits & Spice has Shopify for sales. Eight POS systems for retail.\n        A loyalty program run through spreadsheets. BatchCraftOS is the layer\n        that makes all of it talk to each other — and runs the parts that\n        shouldn't need a human.",
+      "description_fr": "Spirits & Spice a Shopify pour les ventes. Huit systèmes de point de vente pour le commerce de détail.\n        Un programme de fidélité géré via des feuilles de calcul. BatchCraftOS est la couche\n        cela fait que tout se parle – et fait fonctionner les parties qui\n        je ne devrais pas avoir besoin d'un humain.",
+      "category": "E-Commerce & Retail",
+      "website": "https://batchcraftos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T21:48:14.048791+00:00"
+    },
+    {
+      "name": "VendStack — AI for West Africa's Market Traders",
+      "slug": "polsia-vendstack-3",
+      "description": "AI-powered inventory and credit management for informal market traders. Works via WhatsApp and SMS — no smartphone required.",
+      "description_fr": "Gestion des stocks et du crédit basée sur l'IA pour les commerçants du marché informel. Fonctionne via WhatsApp et SMS – aucun smartphone n'est requis.",
+      "category": "AI & Machine Learning",
+      "website": "https://vendstack-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T21:48:15.185573+00:00"
+    },
+    {
+      "name": "Pulsar — The AI Sales Agent That Works While You Sleep",
+      "slug": "polsia-pulsar-ai-15",
+      "description": "Not merge fields. Real research. Pulsar reads each prospect's recent news, LinkedIn activity, job postings, and company events — then crafts messages that actually resonate.",
+      "description_fr": "Ne pas fusionner les champs. Une vraie recherche. Pulsar lit les actualités récentes, l'activité LinkedIn, les offres d'emploi et les événements de l'entreprise de chaque prospect, puis rédige des messages qui trouvent réellement un écho.",
+      "category": "AI & Machine Learning",
+      "website": "https://pulsar-ai-15.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T21:48:16.577061+00:00"
+    },
+    {
+      "name": "Unbound — Sell Anything, Ship Anywhere",
+      "slug": "polsia-unbound-2",
+      "description": "Unbound breaks that. We built the infrastructure to connect you to any product on earth — electronics from Shenzhen, artisan goods from Oaxaca, specialty items from Eastern Europe — and ship to any customer, anywhere.",
+      "description_fr": "Non lié brise cela. Nous avons construit l'infrastructure pour vous connecter à n'importe quel produit sur terre – appareils électroniques de Shenzhen, produits artisanaux d'Oaxaca, articles spécialisés d'Europe de l'Est – et expédier à n'importe quel client, n'importe où.",
+      "category": "Other",
+      "website": "https://unbound-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T21:48:17.855154+00:00"
     }
   ]
 }
