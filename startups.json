@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T19:42:25.242049+00:00",
+  "last_updated": "2026-06-06T20:47:00.576196+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -150145,12 +150145,15 @@
       "scraped_at": "2026-06-06T17:57:32.637960+00:00"
     },
     {
-      "name": "NailedOS",
+      "name": "NailedOS — Operating System for Nail Artists",
       "slug": "polsia-nailedos",
+      "description": "You got into nails to create. To make someone feel seen with a perfect set of French tips or a jaw-dropping freestyle masterpiece. NailedOS handles everything else — so you can stay in your chair and do what you do best.",
+      "description_fr": "Vous vous êtes mis aux ongles pour créer. Pour que quelqu'un se sente vu avec un ensemble parfait de conseils en français ou un chef-d'œuvre de freestyle à couper le souffle. NailedOS gère tout le reste pour que vous puissiez rester sur votre chaise et faire ce que vous faites de mieux.",
+      "category": "Other",
       "website": "https://nailedos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-06T19:42:11.098626+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-06T20:46:58.362985+00:00"
     },
     {
       "name": "LaunchPadOS",
@@ -150161,12 +150164,15 @@
       "scraped_at": "2026-06-06T19:42:11.305598+00:00"
     },
     {
-      "name": "Fetchbook",
+      "name": "Fetchbook — The AI CFO for solopreneurs",
       "slug": "polsia-fetchbook",
+      "description": "Autonomous bookkeeping and cash flow intelligence for one-person businesses. Know every Friday what you can safely pay yourself.",
+      "description_fr": "Comptabilité autonome et intelligence des flux de trésorerie pour les entreprises individuelles. Sachez chaque vendredi ce que vous pouvez vous payer en toute sécurité.",
+      "category": "AI & Machine Learning",
       "website": "https://fetchbook.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-06T19:42:11.507028+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-06T20:47:00.077306+00:00"
     },
     {
       "name": "Stacksmith — Custom Software, Built and Run on Retainer",
@@ -150238,6 +150244,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-06T19:42:18.198255+00:00"
+    },
+    {
+      "name": "LeadLoop — AI Lead Generation for UK Trades",
+      "slug": "polsia-leadloop-8ebbff",
+      "description": "Every week you run without a lead system, you leave money on the table. LeadLoop builds the system — AI-powered, fixed cost, no staff needed. You do the work. We fill the diary.",
+      "description_fr": "Chaque semaine où vous courez sans système de leads, vous laissez de l'argent sur la table. LeadLoop construit le système – alimenté par l'IA, à coût fixe, sans personnel. Vous faites le travail. Nous remplissons le journal.",
+      "category": "AI & Machine Learning",
+      "website": "https://leadloop-8ebbff.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T20:46:42.381808+00:00"
+    },
+    {
+      "name": "Logpile",
+      "slug": "polsia-logpile",
+      "website": "https://logpile.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-06T20:46:42.596829+00:00"
+    },
+    {
+      "name": "Bjorn Forge — Finishing Done Right",
+      "slug": "polsia-bjorn-forge",
+      "description": "High-quality watch microbrand finished with obsessive attention to detail.",
+      "description_fr": "Micromarque de montre de haute qualité finie avec une attention obsessionnelle aux détails.",
+      "category": "Marketing & Advertising",
+      "website": "https://bjorn-forge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T20:46:43.850746+00:00"
+    },
+    {
+      "name": "LienWatch — Autonomous Tax Lien Deal Discovery",
+      "slug": "polsia-lienwatch-2",
+      "description": "AI agent that monitors county records and surfaces tax-delinquent properties before auctions. Autonomous deal flow for real estate investors.",
+      "description_fr": "Agent IA qui surveille les registres du comté et détecte les propriétés en souffrance fiscale avant les enchères. Flux de transactions autonome pour les investisseurs immobiliers.",
+      "category": "AI & Machine Learning",
+      "website": "https://lienwatch-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T20:46:45.073244+00:00"
+    },
+    {
+      "name": "CraftOS — The Toy Maker's Operating System",
+      "slug": "polsia-craftos-17",
+      "description": "Most tools are built for big companies with big teams. CraftOS is built for the person at the workbench — the one who knows exactly what a toy should feel like in a child's hands, and just needs the business side to stop getting in the way.",
+      "description_fr": "La plupart des outils sont conçus pour les grandes entreprises dotées de grandes équipes. CraftOS est conçu pour la personne à l'établi – celle qui sait exactement à quoi devrait ressembler un jouet entre les mains d'un enfant et qui a juste besoin que le côté commercial cesse de gêner.",
+      "category": "Other",
+      "website": "https://craftos-17.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T20:46:46.587455+00:00"
+    },
+    {
+      "name": "CodeForge — Your Studio Runs Itself",
+      "slug": "polsia-codeforge-185718",
+      "description": "Autonomous web development studio. AI agents plan, code, review, and ship — 24/7. No humans required per task.",
+      "description_fr": "Studio de développement web autonome. Les agents IA planifient, codent, examinent et expédient – ​​24h/24 et 7j/7. Aucun humain requis par tâche.",
+      "category": "AI & Machine Learning",
+      "website": "https://codeforge-185718.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T20:46:48.184250+00:00"
+    },
+    {
+      "name": "CutDeck — Your Short",
+      "slug": "polsia-cutdeck-3",
+      "description": "Most agencies treat every client the same. We don't. We build a content playbook specific to your industry — hooks, formats, and visual styles that have already proven to work for your type of business.",
+      "description_fr": "La plupart des agences traitent chaque client de la même manière. Nous ne le faisons pas. Nous construisons un manuel de contenu spécifique à votre secteur : des accroches, des formats et des styles visuels qui ont déjà fait leurs preuves pour votre type d'entreprise.",
+      "category": "Entertainment & Media",
+      "website": "https://cutdeck-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T20:46:49.291488+00:00"
+    },
+    {
+      "name": "BugRadar — Autonomous QA Agent",
+      "slug": "polsia-bugradar",
+      "description": "\"Vibe coding is the future. So is shipping bugs to production.\" They're wrong. The future belongs to developers who know what their code actually does. BugRadar is the QA team you can't afford to hire and the automated tests you've never had time to write. It works while you sleep, files tickets while you're in standup, and makes sure the first you hear about a race condition isn't from your customer.",
+      "description_fr": "\"Le codage Vibe est l'avenir. Il en va de même pour l'envoi des bugs en production.\" Ils ont tort. L’avenir appartient aux développeurs qui savent ce que fait réellement leur code. BugRadar est l'équipe d'assurance qualité que vous ne pouvez pas vous permettre d'embaucher et les tests automatisés que vous n'avez jamais eu le temps d'écrire. Il fonctionne pendant que vous dormez, dépose des tickets pendant que vous êtes en stand-up et s'assure que la première fois que vous entendez parler d'une condition de concurrence critique ne vient pas de votre client.",
+      "category": "Marketing & Advertising",
+      "website": "https://bugradar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T20:46:50.211316+00:00"
+    },
+    {
+      "name": "Solera — The Michelada, Elevated",
+      "slug": "polsia-michy-lada",
+      "description": "We set out to build what nobody else has: a complete ritual in two pieces. Not a kit of parts — a considered object, made for the moment when you want something better than ordinary. Each run is 100 units, never reproduced. When it's gone, it's gone.",
+      "description_fr": "Nous avons décidé de construire ce que personne d'autre n'a : un rituel complet en deux parties. Il ne s’agit pas d’un kit de pièces détachées, mais d’un objet réfléchi, fabriqué pour le moment où vous voulez quelque chose de mieux que d’ordinaire. Chaque tirage est de 100 unités, jamais reproduites. Quand c'est parti, c'est parti.",
+      "category": "Other",
+      "website": "https://michy-lada.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T20:46:51.655799+00:00"
+    },
+    {
+      "name": "SpotCommandOS — Autonomous Operating System for Tech Retailers",
+      "slug": "polsia-spotcommandos",
+      "description": "SpotCommandOS turns My Computer Spot into a self-running operation — driven by real intelligence, not just automation scripts. Your experience in cybersecurity and tech retail becomes the competitive advantage it should be.",
+      "description_fr": "SpotCommandOS transforme My Computer Spot en une opération autonome, pilotée par une véritable intelligence, et pas seulement par des scripts d'automatisation. Votre expérience en cybersécurité et en commerce de détail technologique devient l'avantage concurrentiel qu'elle devrait être.",
+      "category": "E-Commerce & Retail",
+      "website": "https://spotcommandos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T20:46:53.286249+00:00"
     }
   ]
 }
