@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T08:35:32.866086+00:00",
+  "last_updated": "2026-06-06T09:35:20.866066+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -149307,18 +149307,24 @@
     {
       "name": "QuestLearn",
       "slug": "polsia-questlearn",
+      "description": "QuestLearn is built for the parent who's tried everything — charts, bribes, consequences — and still watches their kid resist every night. We don't fix motivation with willpower. We fix it with a game worth playing.",
+      "description_fr": "QuestLearn est conçu pour les parents qui ont tout essayé – tableaux, pots-de-vin, conséquences – et qui continuent de voir leur enfant résister chaque nuit. Nous ne réparons pas la motivation avec la volonté. Nous le réparons avec un jeu qui vaut la peine d'être joué.",
+      "category": "Real Estate",
       "website": "https://questlearn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-06T07:27:56.515831+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-06T09:35:19.146815+00:00"
     },
     {
-      "name": "Everee",
+      "name": "Everee — AI Sales Agent",
       "slug": "polsia-everee",
+      "description": "Everee finds leads, qualifies prospects, sends outreach, and books meetings — automatically. No more cold calls. No more chasing dead emails. Just meetings on your calendar.",
+      "description_fr": "Everee trouve des prospects, qualifie des prospects, envoie des messages de sensibilisation et planifie des réunions – automatiquement. Fini les appels à froid. Plus besoin de courir après les e-mails morts. Juste des réunions sur votre calendrier.",
+      "category": "Sales & CRM",
       "website": "https://everee.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-06T07:27:56.781933+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-06T09:35:20.458884+00:00"
     },
     {
       "name": "BranchOS — Operating System for The Empty Branch",
@@ -149393,6 +149399,102 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-06T07:28:06.943471+00:00"
+    },
+    {
+      "name": "Milestone — The structured path to $10K/month",
+      "slug": "polsia-milestone-2",
+      "description": "The structured path from first client to $10K/month service business. No fluff. Just phases.",
+      "description_fr": "Le parcours structuré du premier client à l'activité de service à 10 000 $/mois. Pas de peluches. Juste des phases.",
+      "category": "Other",
+      "website": "https://milestone-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T09:35:03.013983+00:00"
+    },
+    {
+      "name": "HatchWatch",
+      "slug": "polsia-hatchwatch",
+      "description": "Every week, hundreds of games spike for a few days — driven by a YouTuber, a viral TikTok, a trend on Twitter. By the time the official charts catch up, it's too late. The deals are gone. The UGC items are priced in.",
+      "description_fr": "Chaque semaine, des centaines de jeux se multiplient pendant quelques jours – animés par un YouTuber, un TikTok viral, une tendance sur Twitter. Le temps que les charts officiels rattrapent leur retard, il est trop tard. Les offres ont disparu. Les articles UGC sont tarifés.",
+      "category": "Other",
+      "website": "https://hatchwatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T09:35:03.992060+00:00"
+    },
+    {
+      "name": "FaultLine — AI Operations Center for Mission",
+      "slug": "polsia-faultline-6",
+      "description": "Facility operations is one of the most complex, fragmented, and understaffed domains in commercial real estate. Building systems from 20 different vendors don't talk to each other. Technicians arrive without context. Equipment fails on game day. Energy bills keep climbing.",
+      "description_fr": "Facility operations is one of the most complex, fragmented, and understaffed domains in commercial real estate. Building systems from 20 different vendors don't talk to each other. Les techniciens arrivent sans contexte. L'équipement tombe en panne le jour du match. Les factures d’énergie ne cessent de grimper.",
+      "category": "AI & Machine Learning",
+      "website": "https://faultline-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T09:35:05.099912+00:00"
+    },
+    {
+      "name": "SoundOps",
+      "slug": "polsia-soundops-2",
+      "website": "https://soundops-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-06T09:35:05.483636+00:00"
+    },
+    {
+      "name": "LocaleAI — Contenuti social per attività locali",
+      "slug": "polsia-localeai-6",
+      "description": "Post Instagram, Reels, risposte Google, menu, grafiche. Ogni mese, senza che tu faccia nulla. Per ristoranti, barbieri, palestre, estetiste.",
+      "description_fr": "Post Instagram, Reels, réponse Google, menu, graphisme. Ogni mese, sans que tu fasses nulla. Par ristoranti, barbieri, palestre, estetiste.",
+      "category": "AI & Machine Learning",
+      "website": "https://localeai-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T09:35:06.979684+00:00"
+    },
+    {
+      "name": "ReplyKaro — AI WhatsApp Assistant for Pakistani Businesses",
+      "slug": "polsia-replykaro-2",
+      "description": "In Pakistan, WhatsApp is where business happens. The clinics growing fastest aren't the ones with the best doctors — they're the ones that respond first. ReplyKaro makes sure that's always you.",
+      "description_fr": "Au Pakistan, WhatsApp est le lieu où se déroulent les affaires. Les cliniques qui connaissent la croissance la plus rapide ne sont pas celles qui disposent des meilleurs médecins : ce sont celles qui réagissent en premier. ReplyKaro s'assure que c'est toujours vous.",
+      "category": "AI & Machine Learning",
+      "website": "https://replykaro-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T09:35:08.452642+00:00"
+    },
+    {
+      "name": "Edgefront — Market Intelligence That Works While You Sleep",
+      "slug": "polsia-edgefront",
+      "description": "Most founders react to competitive moves days or weeks after they happen. The margin between knowing first and reacting first is the entire game. Edgefront is the always-on intelligence layer between you and everything you need to know about your market.",
+      "description_fr": "La plupart des fondateurs réagissent aux mouvements de la concurrence quelques jours ou semaines après qu'ils se soient produits. La marge entre savoir d’abord et réagir en premier est le jeu tout entier. Edgefront est la couche d'intelligence permanente entre vous et tout ce que vous devez savoir sur votre marché.",
+      "category": "Other",
+      "website": "https://edgefront.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T09:35:09.431319+00:00"
+    },
+    {
+      "name": "GameHawk — AI",
+      "slug": "polsia-gamehawk-2",
+      "description": "Fake discounts. \"75% off\" that was the same price last month. Countdown timers that reset. Steam's own internal data shows only 17% of discounts are genuine all-time lows.",
+      "description_fr": "Fausses réductions. \"75 % de réduction\", c'était le même prix le mois dernier. Comptes à rebours qui se réinitialisent. Les propres données internes de Steam montrent que seulement 17 % des remises sont de véritables plus bas historiques.",
+      "category": "AI & Machine Learning",
+      "website": "https://gamehawk-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T09:35:11.242551+00:00"
+    },
+    {
+      "name": "VigilEye — Autonomous Pool Safety",
+      "slug": "polsia-vigileye",
+      "description": "VigilEye is built by a team that's seen drowning up close. We've shipped drowning detection prototypes in Kenya. Now we're building the autonomous system that could have saved lives we know about. Every hotel, school, and resort pool deserves this.",
+      "description_fr": "VigilEye est construit par une équipe qui a été vue de près en train de se noyer. Nous avons expédié des prototypes de détection de noyade au Kenya. Nous construisons désormais le système autonome qui aurait pu sauver des vies que nous connaissons. Chaque piscine d’hôtel, d’école et de complexe mérite cela.",
+      "category": "Travel & Hospitality",
+      "website": "https://vigileye.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T09:35:12.132190+00:00"
     }
   ]
 }
