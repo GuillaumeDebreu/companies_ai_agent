@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T03:38:02.901221+00:00",
+  "last_updated": "2026-06-06T04:18:37.638727+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -149080,20 +149080,26 @@
       "scraped_at": "2026-06-05T22:54:31.263159+00:00"
     },
     {
-      "name": "VidCraft Studio",
+      "name": "VidCraft Studio — Done",
       "slug": "polsia-vidcraft-studio",
+      "description": "We create TikToks, Reels, and YouTube Shorts for businesses that need content but not the work.",
+      "description_fr": "Nous créons des TikToks, des Reels et des YouTube Shorts pour les entreprises qui ont besoin de contenu mais pas de travail.",
+      "category": "Entertainment & Media",
       "website": "https://vidcraft-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-06T00:06:01.791027+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-06T04:18:33.173422+00:00"
     },
     {
-      "name": "Plugd",
+      "name": "Plugd — The Local Music Marketplace",
       "slug": "polsia-plugd-3",
+      "description": "Plugd connects young French artists with local beatmakers, engineers, studios, clippeurs, and graphic designers — by geolocation. No scrolling through the entire internet. Just the person around the corner.",
+      "description_fr": "Plugd met en relation de jeunes artistes français avec des beatmakers, ingénieurs, studios, clippeurs et graphistes locaux — par géolocalisation. Pas de défilement sur tout Internet. Juste la personne au coin de la rue.",
+      "category": "E-Commerce & Retail",
       "website": "https://plugd-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-06T00:06:02.062531+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-06T04:18:34.793693+00:00"
     },
     {
       "name": "Shift — AI agents that run your business while you sleep",
@@ -149182,6 +149188,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-06T00:06:09.849931+00:00"
+    },
+    {
+      "name": "Launchcraft",
+      "slug": "polsia-launchcraft-13",
+      "website": "https://launchcraft-13.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-06T04:18:14.553376+00:00"
+    },
+    {
+      "name": "Flange — Menswear for Watch Lovers",
+      "slug": "polsia-flange",
+      "description": "A menswear brand built from the logic of fine watchmaking. Precision, detail, craft applied to clothing.",
+      "description_fr": "Une marque masculine construite dans la logique de la haute horlogerie. Précision, détail, artisanat appliqué au vêtement.",
+      "category": "Marketing & Advertising",
+      "website": "https://flange.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T04:18:35.907276+00:00"
+    },
+    {
+      "name": "DraftLayer",
+      "slug": "polsia-draftlayer",
+      "description": "A typical mining project requires 40-200 isometric drawings. At 4-8 hours per drawing, your drafting team is the bottleneck on every mill project. DraftLayer removes that bottleneck.",
+      "description_fr": "Un projet minier typique nécessite 40 à 200 dessins isométriques. Avec 4 à 8 heures par dessin, votre équipe de rédaction constitue le goulot d'étranglement de chaque projet d'usine. DraftLayer supprime ce goulot d'étranglement.",
+      "category": "Other",
+      "website": "https://draftlayer.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T04:18:16.451435+00:00"
+    },
+    {
+      "name": "Buildwise — CI Logs, Explained",
+      "slug": "polsia-buildwise-3",
+      "description": "CI failures are inevitable. But debugging them shouldn't mean scrolling through thousands of lines of raw terminal output, cross-referencing commit history, and asking the one person who \"just knows\" why the build broke last Tuesday.",
+      "description_fr": "Les échecs de CI sont inévitables. Mais les déboguer ne devrait pas signifier faire défiler des milliers de lignes de sortie brute du terminal, croiser l'historique des validations et demander à la seule personne qui \"sait\" pourquoi la version a échoué mardi dernier.",
+      "category": "Other",
+      "website": "https://buildwise-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T04:18:37.635876+00:00"
+    },
+    {
+      "name": "Cuanbox",
+      "slug": "polsia-cuanbox",
+      "description": "Cuanbox monitors your warung stock 24/7, predicts restocking needs, and sends WhatsApp alerts — so you never run out of stock again.",
+      "description_fr": "Cuanbox surveille votre stock de warung 24h/24 et 7j/7, prédit les besoins de réapprovisionnement et envoie des alertes WhatsApp pour que vous ne soyez plus jamais en rupture de stock.",
+      "category": "Other",
+      "website": "https://cuanbox.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T04:18:17.710858+00:00"
+    },
+    {
+      "name": "Ngopik — Coffee for the Student Generation",
+      "slug": "polsia-ngopik",
+      "description": "Ngopik is the tech-driven coffee chain built for Malaysian students. Affordable, aesthetic, always open. No excuses, just great coffee.",
+      "description_fr": "Ngopik est une chaîne de café axée sur la technologie et conçue pour les étudiants malaisiens. Abordable, esthétique, toujours ouvert. Aucune excuse, juste un bon café.",
+      "category": "Education",
+      "website": "https://ngopik.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T04:18:19.282510+00:00"
+    },
+    {
+      "name": "StreamStack — Content Creator Digital Products Platform",
+      "slug": "polsia-streamstack-2",
+      "description": "Build recurring revenue from your expertise. Sell courses, memberships, templates, and digital products from your own platform.",
+      "description_fr": "Générez des revenus récurrents grâce à votre expertise. Vendez des cours, des adhésions, des modèles et des produits numériques depuis votre propre plateforme.",
+      "category": "Software & SaaS",
+      "website": "https://streamstack-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T04:18:21.203281+00:00"
+    },
+    {
+      "name": "ClaimFound — Autonomous Tax Agent for Freelancers",
+      "slug": "polsia-claimfound",
+      "description": "ClaimFound monitors your accounts 24/7, finds deductions you missed, and runs your quarterly estimates — all without you lifting a finger.",
+      "description_fr": "ClaimFound surveille vos comptes 24 heures sur 24, 7 jours sur 7, trouve les déductions que vous avez manquées et exécute vos estimations trimestrielles, le tout sans que vous leviez le petit doigt.",
+      "category": "Consulting & Services",
+      "website": "https://claimfound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T04:18:22.424567+00:00"
+    },
+    {
+      "name": "EditForge — AI Short",
+      "slug": "polsia-editforge-2",
+      "description": "Realtors, gyms, restaurants, dentists — local businesses that know video works but can't find the time or talent to execute. EditForge closes that gap. 30 polished short-form videos per month, delivered weekly, using AI-assisted editing.",
+      "description_fr": "Agents immobiliers, gymnases, restaurants, dentistes : des entreprises locales qui connaissent le fonctionnement de la vidéo mais ne trouvent pas le temps ni le talent pour l'exécuter. EditForge comble cette lacune. 30 vidéos courtes raffinées par mois, diffusées chaque semaine, à l'aide du montage assisté par l'IA.",
+      "category": "AI & Machine Learning",
+      "website": "https://editforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T04:18:23.600551+00:00"
+    },
+    {
+      "name": "LoopOps — AI Automation for Small Business",
+      "slug": "polsia-loopops-9",
+      "description": "LoopOps helps small businesses eliminate repetitive tasks through AI automation. Chatbots, email workflows, appointment scheduling, and more.",
+      "description_fr": "LoopOps aide les petites entreprises à éliminer les tâches répétitives grâce à l'automatisation de l'IA. Chatbots, flux de travail de messagerie, planification de rendez-vous, etc.",
+      "category": "AI & Machine Learning",
+      "website": "https://loopops-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-06T04:18:25.017557+00:00"
     }
   ]
 }
