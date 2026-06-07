@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T19:48:43.958784+00:00",
+  "last_updated": "2026-06-07T20:56:09.244321+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -151546,12 +151546,15 @@
       "scraped_at": "2026-06-07T19:48:27.322440+00:00"
     },
     {
-      "name": "CastCrew",
+      "name": "CastCrew — Find Your Fishing Crew",
       "slug": "polsia-castcrew-4",
+      "description": "Build a profile. Set your location, species, boat type, and availability. Browse anglers nearby, see ratings and catches, and send a trip request. Real profiles, real people, no catfish.",
+      "description_fr": "Créez un profil. Définissez votre emplacement, vos espèces, votre type de bateau et votre disponibilité. Parcourez les pêcheurs à proximité, consultez les notes et les captures et envoyez une demande de voyage. De vrais profils, de vraies personnes, pas de poisson-chat.",
+      "category": "Other",
       "website": "https://castcrew-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T19:48:27.738203+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T20:56:07.267892+00:00"
     },
     {
       "name": "Healr — Virtual Healthcare, Anywhere",
@@ -151573,12 +151576,15 @@
       "scraped_at": "2026-06-07T19:48:28.428148+00:00"
     },
     {
-      "name": "Autoweave",
+      "name": "Autoweave — Done",
       "slug": "polsia-autoweave-2",
+      "description": "Autoweave designs, builds, and manages AI-powered automations for small businesses. Customer support, lead capture, scheduling, reporting. You stay focused on the work. We handle the wiring.",
+      "description_fr": "Autoweave conçoit, construit et gère des automatisations basées sur l'IA pour les petites entreprises. Support client, capture de leads, planification, reporting. Vous restez concentré sur le travail. Nous nous occupons du câblage.",
+      "category": "Productivity & Automation",
       "website": "https://autoweave-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T19:48:28.688626+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T20:56:09.140186+00:00"
     },
     {
       "name": "AnouveOS — Autonomous Business Operating System",
@@ -151612,6 +151618,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-07T19:48:32.132720+00:00"
+    },
+    {
+      "name": "GrowthRunner — Autonomous Outbound Sales Agent",
+      "slug": "polsia-growthrunner",
+      "description": "GrowthRunner is an AI agent that finds your ideal customers, crafts personalized outreach, books meetings, and reports results — all without a single human on the clock.",
+      "description_fr": "GrowthRunner est un agent IA qui trouve vos clients idéaux, élabore une sensibilisation personnalisée, organise des réunions et rapporte les résultats, le tout sans un seul humain à l'horloge.",
+      "category": "AI & Machine Learning",
+      "website": "https://growthrunner.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T20:55:49.634015+00:00"
+    },
+    {
+      "name": "LeadCatcher — Your AI Sales Rep That Never Sleeps",
+      "slug": "polsia-leadcatcher-6",
+      "description": "LeadCatcher is an AI sales agent for freelance developers that qualifies leads, sends quotes, and books meetings — while you sleep.",
+      "description_fr": "LeadCatcher est un agent commercial IA pour les développeurs indépendants qui qualifie les prospects, envoie des devis et planifie des réunions, pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://leadcatcher-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T20:55:50.614456+00:00"
+    },
+    {
+      "name": "HalalFlow — AI Automation for Halal Businesses",
+      "slug": "polsia-halalflow-2",
+      "description": "Each service is built from scratch for your business. No off-the-shelf bots. No cookie-cutter sequences. Just automation that respects your values.",
+      "description_fr": "Chaque service est conçu à partir de zéro pour votre entreprise. Pas de robots disponibles dans le commerce. Pas de séquences à l'emporte-pièce. Juste une automatisation qui respecte vos valeurs.",
+      "category": "AI & Machine Learning",
+      "website": "https://halalflow-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T20:55:52.217814+00:00"
+    },
+    {
+      "name": "Foliom — The AI Sales Agent",
+      "slug": "polsia-foliom-5",
+      "description": "Because cold outreach is broken. Not because the product is bad — because humans can't scale it. You spend hours writing one good email. Then you send 50 mediocre ones. Then you forget to follow up. Then you burn out.",
+      "description_fr": "Parce que la communication froide est interrompue. Non pas parce que le produit est mauvais, mais parce que les humains ne peuvent pas le mettre à l'échelle. Vous passez des heures à rédiger un bon e-mail. Ensuite, vous en envoyez 50 médiocres. Ensuite, vous oubliez de faire un suivi. Ensuite, vous vous épuisez.",
+      "category": "AI & Machine Learning",
+      "website": "https://foliom-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T20:55:53.785000+00:00"
+    },
+    {
+      "name": "Nudg",
+      "slug": "polsia-nudg",
+      "website": "https://nudg.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T20:55:54.055832+00:00"
+    },
+    {
+      "name": "NookStack — Vertical AI SaaS for Underserved Markets",
+      "slug": "polsia-nookstack",
+      "description": "We build AI-native tools that understand the workflows, language, and compliance needs of a specific audience. The result: customers who stay, pricing that reflects real value, and a product that actually does the work.",
+      "description_fr": "Nous construisons des outils natifs d’IA qui comprennent les besoins de flux de travail, de langage et de conformité d’un public spécifique. Le résultat : des clients qui restent, des prix qui reflètent la valeur réelle et un produit qui fait réellement le travail.",
+      "category": "AI & Machine Learning",
+      "website": "https://nookstack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T20:55:54.834888+00:00"
+    },
+    {
+      "name": "NeevNaavOS",
+      "slug": "polsia-neevnaavos",
+      "description": "NeevNaav exists at the intersection of two commitments: empowering businesses to grow with integrity, and nourishing people through the wisdom of nature. One roof. One mission. Real impact.",
+      "description_fr": "NeevNaav existe à l'intersection de deux engagements : permettre aux entreprises de se développer avec intégrité et nourrir les gens grâce à la sagesse de la nature. Un toit. Une mission. Un réel impact.",
+      "category": "Other",
+      "website": "https://neevnaavos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T20:55:56.094856+00:00"
+    },
+    {
+      "name": "Vetta — Autonomous Competitive Intelligence",
+      "slug": "polsia-vetta-ai-2",
+      "description": "Vetta monitors your competitors 24/7 and alerts you the moment something matters. No manual tracking. No analyst salary.",
+      "description_fr": "Vetta surveille vos concurrents 24h/24 et 7j/7 et vous alerte dès que quelque chose compte. Pas de suivi manuel. Pas de salaire d'analyste.",
+      "category": "Other",
+      "website": "https://vetta-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T20:55:57.560349+00:00"
+    },
+    {
+      "name": "ContentLoop — Your Marketing Employee That Never Sleeps",
+      "slug": "polsia-contentloop-1780865309978-96ry",
+      "description": "An AI agent that autonomously creates, schedules, and publishes marketing content for small businesses. Every single day.",
+      "description_fr": "Un agent IA qui crée, planifie et publie de manière autonome du contenu marketing pour les petites entreprises. Chaque jour.",
+      "category": "AI & Machine Learning",
+      "website": "https://contentloop-1780865309978-96ry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T20:55:58.139525+00:00"
+    },
+    {
+      "name": "NexaBridge",
+      "slug": "polsia-nexabridge-2",
+      "description": "NexaBridge is the AI agent that runs your B2B tech distribution business autonomously — from quoting to order follow-ups to partner reporting.",
+      "description_fr": "NexaBridge est l'agent IA qui gère de manière autonome votre entreprise de distribution technologique B2B – du devis au suivi des commandes en passant par le reporting des partenaires.",
+      "category": "AI & Machine Learning",
+      "website": "https://nexabridge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T20:55:59.202472+00:00"
     }
   ]
 }
