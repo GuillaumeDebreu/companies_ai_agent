@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T08:57:50.352064+00:00",
+  "last_updated": "2026-06-07T10:17:04.720479+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -150784,12 +150784,15 @@
       "scraped_at": "2026-06-07T03:27:37.551890+00:00"
     },
     {
-      "name": "AtelierOS",
+      "name": "AtelierOS — Ceramics Without Chaos",
       "slug": "polsia-atelieros-23",
+      "description": "From first contact to warehouse delivery. Track every order, every shipment, every client reply — all in one view. No more searching through emails.",
+      "description_fr": "Du premier contact à la livraison en entrepôt. Suivez chaque commande, chaque expédition, chaque réponse client, le tout dans une seule vue. Plus besoin de chercher dans les e-mails.",
+      "category": "Logistics & Supply Chain",
       "website": "https://atelieros-23.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T07:42:14.666855+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T10:17:03.036081+00:00"
     },
     {
       "name": "SentinelOS — The Safety Agent",
@@ -150814,12 +150817,15 @@
       "scraped_at": "2026-06-07T07:42:16.402974+00:00"
     },
     {
-      "name": "ClipCraft",
+      "name": "ClipCraft — The Gaming Content Brand Playbook",
       "slug": "polsia-clipcraft-2d310a",
+      "description": "The systematic path to $20k/month as a gaming content creator. Pick a niche. Post daily. Build an audience. Monetize.",
+      "description_fr": "Le chemin systématique vers 20 000 $/mois en tant que créateur de contenu de jeu. Choisissez un créneau. Publiez quotidiennement. Construisez un public. Monétiser.",
+      "category": "Entertainment & Media",
       "website": "https://clipcraft-2d310a.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T07:42:16.659588+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T10:17:04.324105+00:00"
     },
     {
       "name": "Presence — Human Companionship",
@@ -150883,6 +150889,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-07T07:42:23.640927+00:00"
+    },
+    {
+      "name": "SprintLoop",
+      "slug": "polsia-sprintloop",
+      "website": "https://sprintloop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T10:16:42.431104+00:00"
+    },
+    {
+      "name": "OutboundOS — The AI That Runs Your Outbound",
+      "slug": "polsia-outboundos-93",
+      "description": "OutboundOS finds your prospects, writes personalized cold emails,\n      sends them, follows up, and books meetings — fully autonomous,\n      24/7. No headcount. No overhead. Just pipeline.",
+      "description_fr": "OutboundOS trouve vos prospects, rédige des emails froids personnalisés,\n      les envoie, assure le suivi et fixe les rendez-vous en toute autonomie,\n      24h/24 et 7j/7. Aucun effectif. Pas de frais généraux. Juste un pipeline.",
+      "category": "Sales & CRM",
+      "website": "https://outboundos-93.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T10:16:44.276593+00:00"
+    },
+    {
+      "name": "AutoFlow — AI Automation for Growing Businesses",
+      "slug": "polsia-autoflow-ai-27",
+      "description": "Automate customer support, lead generation, and back-office tasks with AI. Monthly retainers. Fast deployment. Built for SMBs.",
+      "description_fr": "Automatisez le support client, la génération de leads et les tâches de back-office avec l'IA. Acomptes mensuels. Déploiement rapide. Conçu pour les PME.",
+      "category": "AI & Machine Learning",
+      "website": "https://autoflow-ai-27.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T10:16:45.716473+00:00"
+    },
+    {
+      "name": "Mech — AI Automation for Growing Businesses",
+      "slug": "polsia-mech-ai",
+      "description": "Mech exists to close that gap. We build the systems so you don't have to figure it out yourself. You keep your focus on growing the business while the automations handle the work that was eating your time.",
+      "description_fr": "Mech existe pour combler cet écart. Nous construisons les systèmes afin que vous n'ayez pas à le découvrir vous-même. Vous restez concentré sur la croissance de l’entreprise pendant que les automatisations gèrent le travail qui vous faisait perdre du temps.",
+      "category": "AI & Machine Learning",
+      "website": "https://mech-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T10:16:47.192458+00:00"
+    },
+    {
+      "name": "Veel — AI Recruiting Agent for BPO",
+      "slug": "polsia-veel-2",
+      "description": "The BPO companies winning in 2026 aren't the ones with the biggest recruiting teams.They're the ones who automated the pipeline and kept their team for the decisions that matter.",
+      "description_fr": "Les entreprises BPO gagnantes en 2026 ne sont pas celles qui disposent des plus grandes équipes de recrutement. Ce sont celles qui ont automatisé le pipeline et gardé leur équipe pour les décisions importantes.",
+      "category": "AI & Machine Learning",
+      "website": "https://veel-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T10:16:48.866235+00:00"
+    },
+    {
+      "name": "LaunchPad AI",
+      "slug": "polsia-launchpad-ai-91",
+      "description": "The complete system: business model, AI tools, client acquisition, and a step-by-step roadmap from your first $100 to $20K/month. Built for one person with no existing clients and no VC runway.",
+      "description_fr": "Le système complet : modèle commercial, outils d'IA, acquisition de clients et feuille de route étape par étape de vos premiers 100 $ à 20 000 $/mois. Conçu pour une personne sans clients existants et sans piste VC.",
+      "category": "AI & Machine Learning",
+      "website": "https://launchpad-ai-91.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T10:16:49.413117+00:00"
+    },
+    {
+      "name": "LocalPulse — Rate Your Local Officials",
+      "slug": "polsia-localpulse-34",
+      "description": "When residents have no structured way to record an official's behavior — no ratings, no reviews, no community trail — silence happens and nobody knows. LocalPulse changes that.",
+      "description_fr": "Lorsque les résidents ne disposent d'aucun moyen structuré pour enregistrer le comportement d'un fonctionnaire – pas de notes, pas d'avis, pas de suivi communautaire – le silence se produit et personne ne le sait. LocalPulse change cela.",
+      "category": "Sustainability & Green",
+      "website": "https://localpulse-34.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T10:16:50.957006+00:00"
+    },
+    {
+      "name": "AeroMind — Autonomous Airspace Intelligence",
+      "slug": "polsia-aeromind",
+      "description": "Small and mid-size airlines, flight schools, charter operators, logistics companies, regional airports — the ones who can't staff a 24/7 operations center but can't afford to be blind either. AeroMind was built for you. Because the big carriers have Palantir and ASI. The rest of aviation has been waiting.",
+      "description_fr": "Petites et moyennes compagnies aériennes, écoles de pilotage, opérateurs d'affrètement, sociétés de logistique, aéroports régionaux – ceux qui ne peuvent pas disposer d'un centre d'opérations 24h/24 et 7j/7 mais ne peuvent pas non plus se permettre d'être aveugles. AeroMind a été conçu pour vous. Parce que les grands transporteurs ont Palantir et ASI. Le reste de l’aviation attend.",
+      "category": "AI & Machine Learning",
+      "website": "https://aeromind.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T10:16:52.572733+00:00"
+    },
+    {
+      "name": "LaunchPad AI — Your Startup Runs While You Sleep",
+      "slug": "polsia-launchpad-ai-90",
+      "description": "LaunchPad AI is an autonomous AI co-founder that runs your startup's operations 24/7. Track progress, write updates, monitor metrics — while you sleep.",
+      "description_fr": "LaunchPad AI est un co-fondateur d'IA autonome qui gère les opérations de votre startup 24h/24 et 7j/7. Suivez les progrès, rédigez des mises à jour, surveillez les mesures, pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://launchpad-ai-90.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T10:16:54.281092+00:00"
+    },
+    {
+      "name": "Gridline — Performance Dashboards for Multi",
+      "slug": "polsia-gridline-6",
+      "description": "Gridline connects your CRM and POS into live Looker Studio dashboards so franchise owners can finally see LTV, churn risk, and revenue by location — without a data analyst.",
+      "description_fr": "Gridline connecte votre CRM et votre point de vente aux tableaux de bord en direct de Looker Studio afin que les propriétaires de franchise puissent enfin voir la LTV, le risque de désabonnement et les revenus par emplacement, sans analyste de données.",
+      "category": "Software & SaaS",
+      "website": "https://gridline-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T10:16:56.014242+00:00"
     }
   ]
 }
