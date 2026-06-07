@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T14:17:24.500750+00:00",
+  "last_updated": "2026-06-07T15:47:15.986458+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -151108,20 +151108,26 @@
       "scraped_at": "2026-06-07T12:03:51.706858+00:00"
     },
     {
-      "name": "LeadStack",
+      "name": "LeadStack — AI Marketing for Local Service Businesses",
       "slug": "polsia-leadstack-55",
+      "description": "Most leads go cold because nobody follows up in time. Our AI sends personalized texts and emails — on your behalf, in your voice — within minutes of a new inquiry.",
+      "description_fr": "La plupart des pistes restent inactives parce que personne ne donne suite à temps. Notre IA envoie des SMS et des e-mails personnalisés – en votre nom, avec votre voix – quelques minutes après une nouvelle demande.",
+      "category": "AI & Machine Learning",
       "website": "https://leadstack-55.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T14:17:04.095208+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T15:47:14.451431+00:00"
     },
     {
-      "name": "ConstellationOS",
+      "name": "ConstellationOS — Your Digital Legacy, Secured",
       "slug": "polsia-constellationos-2",
+      "description": "The operating system for digital estate planning. Map your entire digital life, protect your family, and ensure your legacy lives on.",
+      "description_fr": "Le système d'exploitation pour la planification successorale numérique. Cartographiez l’intégralité de votre vie numérique, protégez votre famille et assurez la pérennité de votre héritage.",
+      "category": "Other",
       "website": "https://constellationos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T14:17:04.483784+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T15:47:14.993812+00:00"
     },
     {
       "name": "Onyx — Autonomous Software Engineering",
@@ -151196,6 +151202,107 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-06-07T14:17:11.093387+00:00"
+    },
+    {
+      "name": "PostKit",
+      "slug": "polsia-postkit-2",
+      "website": "https://postkit-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T15:47:02.104316+00:00"
+    },
+    {
+      "name": "CuisineIQ",
+      "slug": "polsia-cuisineiq",
+      "website": "https://cuisineiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T15:47:02.405780+00:00"
+    },
+    {
+      "name": "TechRenew — Premium Tech Refurbishment",
+      "slug": "polsia-techrenew-424039",
+      "description": "Every year, millions of perfectly restorable devices end up in landfill. TechRenew exists to change that — one device at a time. We believe that premium tech should last, not die with a firmware update. And we believe that when you restore something properly, you're not just fixing a device — you're extending its story.",
+      "description_fr": "Chaque année, des millions d’appareils parfaitement restaurables finissent dans les décharges. TechRenew existe pour changer cela : un appareil à la fois. Nous pensons que la technologie haut de gamme doit durer et non mourir avec une mise à jour du firmware. Et nous pensons que lorsque vous restaurez quelque chose correctement, vous ne vous contentez pas de réparer un appareil, vous prolongez son histoire.",
+      "category": "E-Commerce & Retail",
+      "website": "https://techrenew-424039.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T15:47:15.892282+00:00"
+    },
+    {
+      "name": "ContentForce",
+      "slug": "polsia-contentforce-3",
+      "description": "\\\"Hi, I noticed your business could attract more customers on Instagram. I made a few sample posts — would you be open to a R2,500/month package?\\\" Simple. Direct. Works.",
+      "description_fr": "\\\"Bonjour, j'ai remarqué que votre entreprise pourrait attirer plus de clients sur Instagram. J'ai fait quelques exemples de publications : seriez-vous ouvert à un forfait de 2 500 R/mois ?\\\" Simple. Direct. Travaux.",
+      "category": "Entertainment & Media",
+      "website": "https://contentforce-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T15:47:03.360402+00:00"
+    },
+    {
+      "name": "GTU Lens — GTU Exam Timetable, Automated",
+      "slug": "polsia-gtulens",
+      "description": "timetable.gtu.ac.in is a portal for the university. Long tables, raw PDFs, no filtering. When 400,000 students check it simultaneously, it falls over. GTU Lens is built for the student sitting in a cheap PG room in Ahmedabad, trying to figure out when their Microprocessor exam is.",
+      "description_fr": "calendrier.gtu.ac.in est un portail pour l'université. De longs tableaux, des PDF bruts, pas de filtrage. Lorsque 400 000 étudiants le vérifient simultanément, il tombe. GTU Lens est conçu pour l'étudiant assis dans une salle PG bon marché à Ahmedabad, essayant de déterminer quand aura lieu son examen de microprocesseur.",
+      "category": "Education",
+      "website": "https://gtulens.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T15:47:04.478620+00:00"
+    },
+    {
+      "name": "DreamKeeper — Magical Bedtime Stories",
+      "slug": "polsia-dreamkeeper",
+      "description": "AI-powered personalized bedtime stories with family voice narration. Turn every night into a magical moment for your child.",
+      "description_fr": "Histoires personnalisées au coucher basées sur l'IA avec narration vocale familiale. Transformez chaque nuit en un moment magique pour votre enfant.",
+      "category": "AI & Machine Learning",
+      "website": "https://dreamkeeper.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T15:47:05.655520+00:00"
+    },
+    {
+      "name": "Nocturne — Editorial AI Fashion Photography",
+      "slug": "polsia-nocturne-studio",
+      "description": "Train a bespoke AI model on your brand's aesthetic. One consistent character — your brand's face — used across every campaign, every product, every channel. Built once, deployed forever. For brands on a retainer or with recurring content needs.",
+      "description_fr": "Formez un modèle d'IA sur mesure sur l'esthétique de votre marque. Un personnage cohérent – ​​le visage de votre marque – utilisé dans chaque campagne, chaque produit, chaque canal. Construit une fois, déployé pour toujours. Pour les marques sous contrat ou ayant des besoins de contenu récurrents.",
+      "category": "AI & Machine Learning",
+      "website": "https://nocturne-studio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T15:47:07.033098+00:00"
+    },
+    {
+      "name": "SyncLocal — AI Automation for Local Businesses",
+      "slug": "polsia-synclocal",
+      "description": "Lead capture, appointment booking, and customer follow-up — all running on autopilot for your local business.",
+      "description_fr": "Capture de leads, prise de rendez-vous et suivi des clients, le tout fonctionnant en pilote automatique pour votre entreprise locale.",
+      "category": "AI & Machine Learning",
+      "website": "https://synclocal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T15:47:08.112314+00:00"
+    },
+    {
+      "name": "AuditAgent — Your AI Audit Firm",
+      "slug": "polsia-auditagent",
+      "description": "We built AuditAgent for the Kenyan accountant who knows what audit work actually takes — because we are that accountant. We built it for firms that can't afford Big Four technology. We built it for business owners who want their books audit-ready every day, not just when the deadline forces it.",
+      "description_fr": "Nous avons créé AuditAgent pour le comptable kenyan qui sait ce que nécessite réellement le travail d'audit - parce que nous sommes ce comptable. Nous l'avons conçu pour les entreprises qui ne peuvent pas se permettre la technologie des Big Four. Nous l'avons conçu pour les propriétaires d'entreprise qui souhaitent que leurs livres soient prêts à être audités chaque jour, et pas seulement lorsque les délais l'exigent.",
+      "category": "AI & Machine Learning",
+      "website": "https://auditagent.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T15:47:08.823630+00:00"
+    },
+    {
+      "name": "BioEdge",
+      "slug": "polsia-bio-edge",
+      "website": "https://bio-edge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T15:47:09.141977+00:00"
     }
   ]
 }
