@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T15:47:15.986458+00:00",
+  "last_updated": "2026-06-07T16:59:59.605996+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -151204,20 +151204,26 @@
       "scraped_at": "2026-06-07T14:17:11.093387+00:00"
     },
     {
-      "name": "PostKit",
+      "name": "PostKit — Social Media Management for Small Business",
       "slug": "polsia-postkit-2",
+      "description": "Professional social media management for restaurants, cafes, and shops. Content creation, posting, and strategy for a flat monthly fee.",
+      "description_fr": "Gestion professionnelle des médias sociaux pour les restaurants, cafés et magasins. Création de contenu, publication et stratégie pour un tarif mensuel forfaitaire.",
+      "category": "Marketing & Advertising",
       "website": "https://postkit-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T15:47:02.104316+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T16:59:56.430522+00:00"
     },
     {
-      "name": "CuisineIQ",
+      "name": "CuisineIQ — AI Agent for Restaurant Operations",
       "slug": "polsia-cuisineiq",
+      "description": "Describe your vision. CuisineIQ builds the full concept brief: cuisine positioning, target demographic, price architecture, and competitive differentiation. Not vague ideas — executable strategy grounded in your market.",
+      "description_fr": "Décrivez votre vision. CuisineIQ élabore le cahier des charges complet : positionnement de la cuisine, cible démographique, architecture des prix et différenciation concurrentielle. Pas d'idées vagues : une stratégie exécutable ancrée dans votre marché.",
+      "category": "AI & Machine Learning",
       "website": "https://cuisineiq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T15:47:02.405780+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T16:59:57.794206+00:00"
     },
     {
       "name": "TechRenew — Premium Tech Refurbishment",
@@ -151297,12 +151303,110 @@
       "scraped_at": "2026-06-07T15:47:08.823630+00:00"
     },
     {
-      "name": "BioEdge",
+      "name": "BioEdge — AI Agent for Biotech Investment Intelligence",
       "slug": "polsia-bio-edge",
+      "description": "BioEdge monitors clinical trial pipelines 24/7 and surfaces investment signals for biotech investors. Built from inside the industry.",
+      "description_fr": "BioEdge surveille les pipelines d'essais cliniques 24h/24 et 7j/7 et fait apparaître des signaux d'investissement pour les investisseurs en biotechnologie. Construit à partir de l’intérieur de l’industrie.",
+      "category": "AI & Machine Learning",
       "website": "https://bio-edge.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T16:59:59.301408+00:00"
+    },
+    {
+      "name": "ScentOS",
+      "slug": "polsia-scentos-6",
+      "website": "https://scentos-6.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-06-07T15:47:09.141977+00:00"
+      "scraped_at": "2026-06-07T16:59:44.845211+00:00"
+    },
+    {
+      "name": "ClubClip",
+      "slug": "polsia-clubclip",
+      "website": "https://clubclip.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T16:59:45.047109+00:00"
+    },
+    {
+      "name": "Kaptár",
+      "slug": "polsia-kaptar",
+      "website": "https://kaptar.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T16:59:45.130646+00:00"
+    },
+    {
+      "name": "ScentStackOS — Operating System for Resellers05",
+      "slug": "polsia-scentstackos",
+      "description": "Running a fragrance reseller on gut feel and spreadsheets works until you hit 50 SKUs and 200 orders. ScentStackOS gives you the operational clarity to grow without the chaos.",
+      "description_fr": "Gérer un revendeur de parfums sur instinct et sur des feuilles de calcul fonctionne jusqu'à ce que vous atteigniez 50 SKU et 200 commandes. ScentStackOS vous offre la clarté opérationnelle nécessaire pour vous développer sans le chaos.",
+      "category": "Other",
+      "website": "https://scentstackos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T16:59:45.903363+00:00"
+    },
+    {
+      "name": "OwnrsOS — The operating system for Ownrs Club",
+      "slug": "polsia-ownrs-os",
+      "description": "OwnrsOS powers the operations, growth, and intelligence behind France's #1 real estate investing community.",
+      "description_fr": "OwnrsOS alimente les opérations, la croissance et l'intelligence de la première communauté d'investisseurs immobiliers en France.",
+      "category": "Real Estate",
+      "website": "https://ownrs-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T16:59:47.438943+00:00"
+    },
+    {
+      "name": "PivotPoint — Finance Services for Filipino Students & Businesses",
+      "slug": "polsia-pivotpoint-3",
+      "description": "Excel dashboards. Financial statements. Thesis data analysis. Bookkeeping. Presentation design. Everything a finance student or micro-business needs — no agency minimum, no corporate overhead.",
+      "description_fr": "Tableaux de bord Excel. États financiers. Analyse des données de thèse. Comptabilité. Conception de présentation. Tout ce dont un étudiant en finance ou une micro-entreprise a besoin : pas de minimum d'agence, pas de frais généraux d'entreprise.",
+      "category": "Software & SaaS",
+      "website": "https://pivotpoint-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T16:59:48.907302+00:00"
+    },
+    {
+      "name": "Flusso AI",
+      "slug": "polsia-flusso-ai",
+      "website": "https://flusso-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T16:59:49.094218+00:00"
+    },
+    {
+      "name": "LayerStack",
+      "slug": "polsia-layerstack-8",
+      "description": "LayerStack is an AI agent that monitors, optimizes, and manages your production machine learning models 24/7. It detects drift, triggers retraining, and deploys updates without a human in the loop.",
+      "description_fr": "LayerStack est un agent d'IA qui surveille, optimise et gère vos modèles d'apprentissage automatique de production 24h/24 et 7j/7. Il détecte les dérives, déclenche le recyclage et déploie les mises à jour sans intervention humaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://layerstack-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T16:59:51.060935+00:00"
+    },
+    {
+      "name": "ClipCraft Media",
+      "slug": "polsia-clipcraft-media",
+      "website": "https://clipcraft-media.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T16:59:51.132695+00:00"
+    },
+    {
+      "name": "LocalBench — Professional Websites for Local Businesses",
+      "slug": "polsia-localbench",
+      "description": "Build a professional website for your barbershop, restaurant, or local shop with AI. Fast, affordable, maintained.",
+      "description_fr": "Créez un site Web professionnel pour votre salon de coiffure, votre restaurant ou votre magasin local avec l'IA. Rapide, abordable, entretenu.",
+      "category": "AI & Machine Learning",
+      "website": "https://localbench.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T16:59:52.614600+00:00"
     }
   ]
 }
