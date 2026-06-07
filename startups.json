@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T16:59:59.605996+00:00",
+  "last_updated": "2026-06-07T18:14:21.751901+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -151314,12 +151314,15 @@
       "scraped_at": "2026-06-07T16:59:59.301408+00:00"
     },
     {
-      "name": "ScentOS",
+      "name": "ScentOS — The Fragrance Reseller Operating System",
       "slug": "polsia-scentos-6",
+      "description": "ScentOS gives you real-time visibility into every bottle you hold, every price movement in the market, and every reorder signal that fires before you run out of stock. It connects directly to your Shopify store, syncs your listings, and tells you when to adjust pricing to stay competitive without cutting margins to the bone.",
+      "description_fr": "ScentOS vous offre une visibilité en temps réel sur chaque bouteille que vous détenez, chaque mouvement de prix sur le marché et chaque signal de réapprovisionnement qui se déclenche avant que vous ne soyez en rupture de stock. Il se connecte directement à votre boutique Shopify, synchronise vos annonces et vous indique quand ajuster les prix pour rester compétitif sans réduire les marges jusqu'aux os.",
+      "category": "E-Commerce & Retail",
       "website": "https://scentos-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T16:59:44.845211+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T18:14:17.115380+00:00"
     },
     {
       "name": "ClubClip",
@@ -151371,12 +151374,15 @@
       "scraped_at": "2026-06-07T16:59:48.907302+00:00"
     },
     {
-      "name": "Flusso AI",
+      "name": "Flusso AI — Automazioni AI per aziende italiane",
       "slug": "polsia-flusso-ai",
+      "description": "Assistenza clienti AI, chatbot WhatsApp, automazione lead e CRM. Setup €2.000-5.000 — Canone €500-1.500/mese.意大利公司首选。",
+      "description_fr": "Assistance client AI, chatbot WhatsApp, leader automatisé et CRM. Configuration 2 000 à 5 000 € — Canone 500 à 1 500 €/mois.",
+      "category": "AI & Machine Learning",
       "website": "https://flusso-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T16:59:49.094218+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T18:14:18.875771+00:00"
     },
     {
       "name": "LayerStack",
@@ -151407,6 +151413,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-07T16:59:52.614600+00:00"
+    },
+    {
+      "name": "VictoryOS",
+      "slug": "polsia-victoryos-3",
+      "website": "https://victoryos-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T18:14:00.939524+00:00"
+    },
+    {
+      "name": "LaunchDeck — Find Your Side Hustle in 3 Minutes",
+      "slug": "polsia-launchdeck-70",
+      "description": "Answer 3 questions. Get a personalized side hustle recommendation and a step-by-step plan. Built for people starting from zero.",
+      "description_fr": "Répondez à 3 questions. Obtenez une recommandation personnalisée et un plan étape par étape. Conçu pour les personnes qui partent de zéro.",
+      "category": "Sustainability & Green",
+      "website": "https://launchdeck-70.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T18:14:21.164467+00:00"
+    },
+    {
+      "name": "ShiftStack",
+      "slug": "polsia-shiftstack-4",
+      "website": "https://shiftstack-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T18:14:01.637963+00:00"
+    },
+    {
+      "name": "PaddockAI — Autonomous Equestrian Media",
+      "slug": "polsia-paddockai",
+      "description": "PaddockAI learns your clients' house styles, editorial calendars, and tone. No generic output — equestrian media professionals deserve tools built for their world.",
+      "description_fr": "PaddockAI apprend les styles de maison, les calendriers éditoriaux et le ton de vos clients. Pas de sortie générique : les professionnels des médias équestres méritent des outils conçus pour leur monde.",
+      "category": "AI & Machine Learning",
+      "website": "https://paddockai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T18:14:02.603060+00:00"
+    },
+    {
+      "name": "AgentFlow — AI Automation Agency",
+      "slug": "polsia-agentflow-40",
+      "description": "Order processing, inventory reconciliation, supplier notifications — the work that kills momentum on Monday morning. We build agents that handle these overnight, with zero reminders, zero supervision, and exception alerts only when human judgment is needed.",
+      "description_fr": "Traitement des commandes, rapprochement des stocks, notifications aux fournisseurs : le travail qui tue l'élan du lundi matin. Nous construisons des agents qui gèrent ces problèmes du jour au lendemain, sans aucun rappel, aucune supervision et des alertes d'exception uniquement lorsque le jugement humain est nécessaire.",
+      "category": "AI & Machine Learning",
+      "website": "https://agentflow-40.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T18:14:03.637105+00:00"
+    },
+    {
+      "name": "Vendia",
+      "slug": "polsia-vendia-ai",
+      "website": "https://vendia-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T18:14:03.944442+00:00"
+    },
+    {
+      "name": "OpAI — Operating System for AI Consultancies",
+      "slug": "polsia-opai",
+      "description": "OpAI runs your practice from first discovery call to engineered exit. WISE-powered client tracking, pipeline visibility, and proposal generation — built for operators who charge by outcomes, not hours.",
+      "description_fr": "OpAI gère votre cabinet depuis le premier appel de découverte jusqu'à la sortie technique. Suivi des clients, visibilité du pipeline et génération de propositions basés sur WISE – conçus pour les opérateurs qui facturent en fonction des résultats et non des heures.",
+      "category": "AI & Machine Learning",
+      "website": "https://opai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T18:14:05.150105+00:00"
+    },
+    {
+      "name": "SnowHunt — ServiceNow Recruitment, India to USA",
+      "slug": "polsia-snowhunt",
+      "description": "Specialist recruitment agency placing certified ServiceNow professionals into US companies. Built on platform expertise, not generic IT recruiting.",
+      "description_fr": "Agence de recrutement spécialisée dans le placement de professionnels certifiés ServiceNow dans des entreprises américaines. Construit sur l'expertise de la plateforme, et non sur un recrutement informatique générique.",
+      "category": "Software & SaaS",
+      "website": "https://snowhunt.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T18:14:05.960392+00:00"
+    },
+    {
+      "name": "Launchpad — Your AI Business Agent",
+      "slug": "polsia-launchpad-ai-94",
+      "description": "Your pipeline doesn't slow down because you're in a meeting. Launchpad monitors new leads, sends initial outreach, follows up on silence, and books calls — all on schedule. Cold prospects warm up. Warm prospects convert. You just show up to the call.",
+      "description_fr": "Votre pipeline ne ralentit pas parce que vous êtes en réunion. Launchpad surveille les nouvelles pistes, envoie une première communication, assure le suivi des silences et réserve les appels, le tout dans les délais. Les perspectives froides se réchauffent. Les prospects chaleureux se convertissent. Vous venez de vous présenter à l'appel.",
+      "category": "Sales & CRM",
+      "website": "https://launchpad-ai-94.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T18:14:07.644389+00:00"
+    },
+    {
+      "name": "Ashlan Clinic — Clinical Massage Therapy, Bermuda",
+      "slug": "polsia-ashlanos",
+      "description": "We take your health seriously. Our therapists will guide you every step of the way — from first assessment to lasting relief. No templates. No guesswork. Just a clinician who understands your body and a plan that works.",
+      "description_fr": "Nous prenons votre santé au sérieux. Nos thérapeutes vous guideront à chaque étape du processus, de la première évaluation au soulagement durable. Aucun modèle. Aucune conjecture. Juste un clinicien qui comprend votre corps et un plan qui fonctionne.",
+      "category": "Health & Wellness",
+      "website": "https://ashlanos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T18:14:09.108689+00:00"
     }
   ]
 }
