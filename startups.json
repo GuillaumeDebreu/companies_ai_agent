@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T04:04:50.578614+00:00",
+  "last_updated": "2026-06-07T07:42:30.591419+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -149193,12 +149193,15 @@
       "scraped_at": "2026-06-06T00:06:09.849931+00:00"
     },
     {
-      "name": "Launchcraft",
+      "name": "LaunchCraft — AI Launch Planning for SaaS Founders",
       "slug": "polsia-launchcraft-13",
+      "description": "LaunchCraft gives first-time SaaS founders a structured AI co-pilot that walks you through every phase of launch — from validating your niche to hitting $20K MRR. Specific steps. Real budgets. Actual metrics. No more staring at a blank roadmap with $100K and no plan.",
+      "description_fr": "LaunchCraft offre aux nouveaux fondateurs de SaaS un copilote d'IA structuré qui vous guide à travers chaque phase du lancement, de la validation de votre niche à l'atteinte de 20 000 $ de MRR. Étapes spécifiques. De vrais budgets. Mesures réelles. Plus besoin de regarder une feuille de route vierge avec 100 000 $ et aucun plan.",
+      "category": "AI & Machine Learning",
       "website": "https://launchcraft-13.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-06T04:18:14.553376+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T07:42:26.421067+00:00"
     },
     {
       "name": "Flange — Menswear for Watch Lovers",
@@ -150682,12 +150685,15 @@
       "scraped_at": "2026-06-07T03:27:26.096316+00:00"
     },
     {
-      "name": "Mentionly",
+      "name": "Mentionly — Your GEO Agent",
       "slug": "polsia-mentionly-3",
+      "description": "Mentionly runs your brand presence across ChatGPT, Perplexity, Gemini, and Claude — every day, autonomously. It finds where you're invisible, flags what needs fixing, and closes the gap. No dashboard. No checklist.",
+      "description_fr": "Mentionly gère la présence de votre marque sur ChatGPT, Perplexity, Gemini et Claude, chaque jour, de manière autonome. Il trouve où vous êtes invisible, signale ce qui doit être réparé et comble l'écart. Pas de tableau de bord. Aucune liste de contrôle.",
+      "category": "Software & SaaS",
       "website": "https://mentionly-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T03:27:26.449104+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T07:42:30.315858+00:00"
     },
     {
       "name": "WaitWatch — Think Before You Buy",
@@ -150776,6 +150782,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-07T03:27:37.551890+00:00"
+    },
+    {
+      "name": "AtelierOS",
+      "slug": "polsia-atelieros-23",
+      "website": "https://atelieros-23.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T07:42:14.666855+00:00"
+    },
+    {
+      "name": "SentinelOS — The Safety Agent",
+      "slug": "polsia-sentinelos-14",
+      "description": "SentinelOS is the autonomous safety employee that monitors your industrial sites 24/7 — detecting vehicle-pedestrian risks, predicting high-danger zones, and handling compliance without a human team.",
+      "description_fr": "SentinelOS est l'employé de sécurité autonome qui surveille vos sites industriels 24 heures sur 24, 7 jours sur 7, en détectant les risques liés aux véhicules et aux piétons, en prévoyant les zones à haut danger et en assurant la conformité sans équipe humaine.",
+      "category": "Other",
+      "website": "https://sentinelos-14.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T07:42:15.524050+00:00"
+    },
+    {
+      "name": "AniLoop — Anime Content at Machine Speed",
+      "slug": "polsia-aniloop",
+      "description": "AI-powered anime content pipeline. Original commentary, reviews, rankings, and news — published daily across YouTube, TikTok, and Instagram.",
+      "description_fr": "Pipeline de contenu d’anime alimenté par l’IA. Commentaires, critiques, classements et actualités originaux – publiés quotidiennement sur YouTube, TikTok et Instagram.",
+      "category": "AI & Machine Learning",
+      "website": "https://aniloop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T07:42:16.402974+00:00"
+    },
+    {
+      "name": "ClipCraft",
+      "slug": "polsia-clipcraft-2d310a",
+      "website": "https://clipcraft-2d310a.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T07:42:16.659588+00:00"
+    },
+    {
+      "name": "Presence — Human Companionship",
+      "slug": "polsia-presence-co",
+      "description": "We are living through the world's largest loneliness epidemic. AI companions are designed to keep you engaged, not to genuinely care about you. They agree with everything you say. They forget everything you told them. They are available, but notpresent.",
+      "description_fr": "Nous vivons la plus grande épidémie de solitude au monde. Les compagnons IA sont conçus pour vous garder engagé, et non pour vraiment se soucier de vous. Ils sont d'accord avec tout ce que vous dites. Ils oublient tout ce que vous leur avez dit. Ils sont disponibles, mais non présents.",
+      "category": "AI & Machine Learning",
+      "website": "https://presence-co.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T07:42:18.368475+00:00"
+    },
+    {
+      "name": "Opflow — The AI Agent That Never Sleeps",
+      "slug": "polsia-opflow-ai-2",
+      "description": "AI-powered food safety compliance monitoring for restaurants. Continuous vigilance, real-time alerts, audit-ready records — 24/7 without a single missed violation.",
+      "description_fr": "Surveillance de la conformité en matière de sécurité alimentaire basée sur l'IA pour les restaurants. Vigilance continue, alertes en temps réel, enregistrements prêts à être audités – 24h/24 et 7j/7 sans une seule violation manquée.",
+      "category": "AI & Machine Learning",
+      "website": "https://opflow-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T07:42:19.855694+00:00"
+    },
+    {
+      "name": "AutoReach",
+      "slug": "polsia-autoreach-53",
+      "website": "https://autoreach-53.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T07:42:20.186006+00:00"
+    },
+    {
+      "name": "PixelForge — Professional Websites for Philippine Businesses",
+      "slug": "polsia-pixelforge-17",
+      "description": "Every day, thousands of people in the Philippines search for the businesses that already exist in their neighborhoods — the restaurant around the corner, the clinic down the street, the salon in the next barangay. Most of them never get found. They exist on a Facebook page that few people know to look for.",
+      "description_fr": "Chaque jour, des milliers de personnes aux Philippines recherchent les entreprises qui existent déjà dans leur quartier : le restaurant du coin, la clinique en bas de la rue, le salon du barangay voisin. La plupart d’entre eux ne sont jamais retrouvés. Ils existent sur une page Facebook que peu de gens savent rechercher.",
+      "category": "Health & Wellness",
+      "website": "https://pixelforge-17.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T07:42:21.384497+00:00"
+    },
+    {
+      "name": "CampusDesk",
+      "slug": "polsia-campusdesk",
+      "description": "Structured ticket management for students, admin staff, and HOD departments. Built for the way universities actually work.",
+      "description_fr": "Gestion structurée des tickets pour les étudiants, le personnel administratif et les départements HOD. Conçu pour le fonctionnement réel des universités.",
+      "category": "Education",
+      "website": "https://campusdesk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T07:42:22.906379+00:00"
+    },
+    {
+      "name": "EffiScale — AI Automation for SMBs",
+      "slug": "polsia-effiscale",
+      "description": "We audit, build, and run the AI automation your business needs. Done-for-you implementation with ongoing management so it actually sticks.",
+      "description_fr": "Nous auditons, construisons et exécutons l’automatisation de l’IA dont votre entreprise a besoin. Une mise en œuvre faite pour vous avec une gestion continue pour que ça colle réellement.",
+      "category": "AI & Machine Learning",
+      "website": "https://effiscale.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T07:42:23.640927+00:00"
     }
   ]
 }
