@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T13:55:43.443797+00:00",
+  "last_updated": "2026-06-07T14:17:24.500750+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -151000,26 +151000,35 @@
     {
       "name": "IdeaForge",
       "slug": "polsia-ideaforge-4",
+      "description": "Generate validated, niche-specific business ideas instantly. IdeaForge turns entrepreneurial curiosity into a pipeline of ready-to-build concepts.",
+      "description_fr": "Générez instantanément des idées commerciales validées et spécifiques à une niche. IdeaForge transforme la curiosité entrepreneuriale en un pipeline de concepts prêts à construire.",
+      "category": "Sales & CRM",
       "website": "https://ideaforge-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T12:03:45.709080+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T14:17:18.794137+00:00"
     },
     {
-      "name": "Hunch",
+      "name": "Hunch — Your AI Product Intelligence Agent",
       "slug": "polsia-launchhunch",
+      "description": "Hunch is built on a simple belief: the best product opportunities are visible in public data, but no human can monitor all the sources, all the time, without losing their mind. That's not a productivity problem. That's an AI problem. So we solved it. The agent runs. The insights arrive. You decide what to build.",
+      "description_fr": "Hunch repose sur une conviction simple : les meilleures opportunités de produits sont visibles dans les données publiques, mais aucun humain ne peut surveiller toutes les sources, tout le temps, sans perdre la tête. Ce n'est pas un problème de productivité. C'est un problème d'IA. Nous l'avons donc résolu. L'agent s'exécute. Les idées arrivent. Vous décidez quoi construire.",
+      "category": "AI & Machine Learning",
       "website": "https://launchhunch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T12:03:45.946323+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T14:17:20.403147+00:00"
     },
     {
       "name": "SignalConf",
       "slug": "polsia-signalconf-2",
+      "description": "Most teams show up to conferences with a spreadsheet of names. SignalConf shows up with a ranked, scored, contextualized intelligence package — so every conversation is backed by data.",
+      "description_fr": "La plupart des équipes se présentent aux conférences avec une feuille de calcul de noms. SignalConf apparaît avec un package de renseignements classé, noté et contextualisé, de sorte que chaque conversation est étayée par des données.",
+      "category": "Other",
       "website": "https://signalconf-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T12:03:46.264047+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T14:17:21.161691+00:00"
     },
     {
       "name": "Vendra — Shop Clothes, Own Everything",
@@ -151044,12 +151053,15 @@
       "scraped_at": "2026-06-07T12:03:59.490027+00:00"
     },
     {
-      "name": "Kappaflow",
+      "name": "Kappaflow — Professional Quant Trading",
       "slug": "polsia-kappaflow",
+      "description": "Retail traders have been lied to by indicators that repaint, courses that don't work, and platforms that give you a fraction of what the pros use. Kappaflow changes that. Built by someone who spent 12 years designing global financial architectures — now building the quant tools that should exist for serious retail traders.",
+      "description_fr": "Les commerçants de détail ont été trompés par des indicateurs repeints, des cours qui ne fonctionnent pas et des plateformes qui ne vous donnent qu'une fraction de ce que les pros utilisent. Kappaflow change cela. Construit par quelqu'un qui a passé 12 ans à concevoir des architectures financières mondiales – il construit désormais les outils quantitatifs qui devraient exister pour les traders de détail sérieux.",
+      "category": "Finance & Fintech",
       "website": "https://kappaflow.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T12:03:47.084525+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-07T14:17:22.661199+00:00"
     },
     {
       "name": "Launchpad — AI Automation Agency Path to $20k/mo",
@@ -151094,6 +151106,96 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-07T12:03:51.706858+00:00"
+    },
+    {
+      "name": "LeadStack",
+      "slug": "polsia-leadstack-55",
+      "website": "https://leadstack-55.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T14:17:04.095208+00:00"
+    },
+    {
+      "name": "ConstellationOS",
+      "slug": "polsia-constellationos-2",
+      "website": "https://constellationos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T14:17:04.483784+00:00"
+    },
+    {
+      "name": "Onyx — Autonomous Software Engineering",
+      "slug": "polsia-onyx-dev",
+      "description": "Onyx replaces the human engineering team with a single autonomous agent that owns the full lifecycle — from clarifying requirements to shipping production code to monitoring systems after launch.",
+      "description_fr": "Onyx remplace l'équipe d'ingénierie humaine par un seul agent autonome qui gère l'intégralité du cycle de vie, depuis la clarification des exigences jusqu'à l'envoi du code de production aux systèmes de surveillance après le lancement.",
+      "category": "Software & SaaS",
+      "website": "https://onyx-dev.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T14:17:05.382958+00:00"
+    },
+    {
+      "name": "Recapture — Revenue Recovery for Local Service Businesses",
+      "slug": "polsia-recapture-ai",
+      "description": "AI-powered systems that recover lost leads, automate follow-up, and turn missed opportunities into booked appointments for local service businesses.",
+      "description_fr": "Des systèmes basés sur l'IA qui récupèrent les prospects perdus, automatisent le suivi et transforment les opportunités manquées en rendez-vous réservés pour les entreprises de services locales.",
+      "category": "AI & Machine Learning",
+      "website": "https://recapture-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T14:17:24.380711+00:00"
+    },
+    {
+      "name": "Servo — AI Automation for Small Business",
+      "slug": "polsia-servo-2",
+      "description": "The AI automation market is crowded with consultants who learned a prompt framework last month. We built production AI systems for businesses that couldn't afford downtime.",
+      "description_fr": "Le marché de l'automatisation de l'IA regorge de consultants qui ont appris un cadre rapide le mois dernier. Nous avons construit des systèmes d'IA de production pour les entreprises qui ne pouvaient pas se permettre de temps d'arrêt.",
+      "category": "AI & Machine Learning",
+      "website": "https://servo-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T14:17:06.696836+00:00"
+    },
+    {
+      "name": "RoofForge — Exclusive Roofing Leads for Contractors",
+      "slug": "polsia-roofforge",
+      "description": "Every day you wait for the phone to ring is a day you could be filling your pipeline with verified, exclusive leads. RoofForge builds that machine for you — one city, one territory, one job at a time.",
+      "description_fr": "Chaque jour où vous attendez que le téléphone sonne est un jour où vous pourriez remplir votre pipeline de prospects exclusifs et vérifiés. RoofForge construit cette machine pour vous : une ville, un territoire, un travail à la fois.",
+      "category": "Sales & CRM",
+      "website": "https://roofforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T14:17:07.399351+00:00"
+    },
+    {
+      "name": "ClipCraft — AI",
+      "slug": "polsia-clipcraft-b00511",
+      "description": "Automatically find the best moments in your webinars, clip them, caption them, and export them as vertical videos for LinkedIn and TikTok.",
+      "description_fr": "Trouvez automatiquement les meilleurs moments de vos webinaires, coupez-les, sous-titrez-les et exportez-les sous forme de vidéos verticales pour LinkedIn et TikTok.",
+      "category": "AI & Machine Learning",
+      "website": "https://clipcraft-b00511.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T14:17:08.899015+00:00"
+    },
+    {
+      "name": "Surefire — AI Automation for Service Businesses",
+      "slug": "polsia-surefire-ai",
+      "description": "Done-for-you AI chatbots, lead qualification, appointment booking, and automated follow-ups for dentists, real estate agents, law firms, and local service businesses.",
+      "description_fr": "Chatbots IA faits pour vous, qualification des leads, prise de rendez-vous et suivis automatisés pour les dentistes, les agents immobiliers, les cabinets d'avocats et les entreprises de services locales.",
+      "category": "AI & Machine Learning",
+      "website": "https://surefire-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-07T14:17:10.790234+00:00"
+    },
+    {
+      "name": "Aequa",
+      "slug": "polsia-aequa-ai",
+      "website": "https://aequa-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-07T14:17:11.093387+00:00"
     }
   ]
 }
