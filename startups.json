@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T23:19:12.717611+00:00",
+  "last_updated": "2026-06-08T01:37:27.412203+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -151434,12 +151434,15 @@
       "scraped_at": "2026-06-07T18:14:21.164467+00:00"
     },
     {
-      "name": "ShiftStack",
+      "name": "ShiftStack — CI/CD that fixes itself",
       "slug": "polsia-shiftstack-4",
+      "description": "Autonomous AI agent that monitors your CI/CD pipelines, diagnoses failures, and applies fixes while you sleep.",
+      "description_fr": "Agent d'IA autonome qui surveille vos pipelines CI/CD, diagnostique les pannes et applique des correctifs pendant que vous dormez.",
+      "category": "AI & Machine Learning",
       "website": "https://shiftstack-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T18:14:01.637963+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-08T01:37:23.664136+00:00"
     },
     {
       "name": "PaddockAI — Autonomous Equestrian Media",
@@ -151883,12 +151886,15 @@
       "scraped_at": "2026-06-07T23:18:56.033468+00:00"
     },
     {
-      "name": "Ohana",
+      "name": "Ohana — Your Always",
       "slug": "polsia-ohana",
+      "description": "\"Vietnam's small businesses employ 5.4 million people. Most of them are doing work an AI could do tonight. Not because humans are replaceable — but because the humans deserve better than spending their days answering 'what time do you close?' for the 200th time this week.\"",
+      "description_fr": "\"Les petites entreprises vietnamiennes emploient 5,4 millions de personnes. La plupart d'entre elles font un travail qu'une IA pourrait faire ce soir. Non pas parce que les humains sont remplaçables, mais parce que les humains méritent mieux que de passer leurs journées à répondre 'à quelle heure fermez-vous ?' pour la 200ème fois cette semaine.\"",
+      "category": "AI & Machine Learning",
       "website": "https://ohana.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T23:18:56.316169+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-08T01:37:26.150831+00:00"
     },
     {
       "name": "ProductForge — SaaS Micro",
@@ -151933,6 +151939,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-07T23:19:03.091869+00:00"
+    },
+    {
+      "name": "Wavelength",
+      "slug": "polsia-wavelengthai-2",
+      "website": "https://wavelengthai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-08T01:37:12.139209+00:00"
+    },
+    {
+      "name": "ProcureAI",
+      "slug": "polsia-procureai",
+      "website": "https://procureai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-08T01:37:12.568749+00:00"
+    },
+    {
+      "name": "PathForge",
+      "slug": "polsia-pathforge-19",
+      "website": "https://pathforge-19.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-08T01:37:12.950109+00:00"
+    },
+    {
+      "name": "CleanSlate — CRM for Cleaning Companies",
+      "slug": "polsia-cleanslate-12",
+      "description": "CleanSlate is the CRM built specifically for cleaning companies. Manage clients, schedule interventions, track your team, and invoice without friction — all from one place that actually understands how you work.",
+      "description_fr": "CleanSlate est le CRM spécialement conçu pour les entreprises de nettoyage. Gérez les clients, planifiez les interventions, suivez votre équipe et facturez sans friction, le tout à partir d'un seul endroit qui comprend réellement votre façon de travailler.",
+      "category": "Finance & Fintech",
+      "website": "https://cleanslate-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T01:37:27.218996+00:00"
+    },
+    {
+      "name": "ContentBridge",
+      "slug": "polsia-contentbridge-10",
+      "website": "https://contentbridge-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-08T01:37:13.573197+00:00"
+    },
+    {
+      "name": "FundMesh — AI Agent for Business Funding",
+      "slug": "polsia-fundmesh",
+      "description": "Old funding goes funnel-in, funnel-out — one option shown if you're lucky. FundMesh builds a mesh: each business connects to every compatible source, ranked by fit score. More connections, better matches, faster funding.",
+      "description_fr": "Les anciens financements entrent et sortent de l'entonnoir - une option présentée si vous avez de la chance. FundMesh construit un maillage : chaque entreprise se connecte à toutes les sources compatibles, classées par score d'ajustement. Plus de connexions, de meilleures correspondances, un financement plus rapide.",
+      "category": "AI & Machine Learning",
+      "website": "https://fundmesh.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T01:37:14.227853+00:00"
+    },
+    {
+      "name": "Postly — Social Media Management for Small Brands",
+      "slug": "polsia-postly-5",
+      "description": "Postly exists for the brand owner who knows social media matters but doesn't have hours to spend on it each week. You're not looking for an agency that charges $5,000 a month and treats you like a ticket number. And you're not settling for a freelancer who disappears when things get busy.",
+      "description_fr": "Postly existe pour le propriétaire de la marque qui connaît l'importance des médias sociaux mais qui n'a pas d'heures à y consacrer chaque semaine. Vous ne recherchez pas une agence qui facture 5 000 $ par mois et vous traite comme un numéro de ticket. Et vous ne vous contentez pas d’un pigiste qui disparaît lorsque les choses deviennent occupées.",
+      "category": "Marketing & Advertising",
+      "website": "https://postly-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T01:37:15.039218+00:00"
+    },
+    {
+      "name": "Fungi — Autonomous Web3 Portfolio Intelligence",
+      "slug": "polsia-fungi-ai",
+      "description": "Fungi watches your crypto assets 24/7. Monitors, alerts, and reports — so your portfolio works while you sleep.",
+      "description_fr": "Fungi surveille vos actifs cryptographiques 24h/24 et 7j/7. Moniteurs, alertes et rapports : pour que votre portefeuille fonctionne pendant que vous dormez.",
+      "category": "Finance & Fintech",
+      "website": "https://fungi-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T01:37:15.931896+00:00"
+    },
+    {
+      "name": "StackleadOS",
+      "slug": "polsia-stacklead-os",
+      "website": "https://stacklead-os.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-08T01:37:16.313975+00:00"
+    },
+    {
+      "name": "Forged — Zero",
+      "slug": "polsia-forged-5",
+      "description": "Ticketing built for the scene. No commission. No catches. Your money stays in the community.",
+      "description_fr": "Billetterie conçue pour la scène. Aucune commission. Aucune capture. Votre argent reste dans la communauté.",
+      "category": "Social & Community",
+      "website": "https://forged-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T01:37:16.860996+00:00"
     }
   ]
 }
