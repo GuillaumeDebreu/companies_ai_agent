@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T20:28:46.145350+00:00",
+  "last_updated": "2026-06-08T22:11:49.417250+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -152482,12 +152482,15 @@
       "scraped_at": "2026-06-08T17:57:32.701350+00:00"
     },
     {
-      "name": "LocalPulse AI",
+      "name": "LocalPulse AI — AI Marketing for Local Businesses",
       "slug": "polsia-localpulseai-3",
+      "description": "The local business gap — 82% of businesses now use some form of AI in marketing, but local service businesses (roofers, dentists, mechanics) remain largely underserved because agencies are too expensive or too corporate.",
+      "description_fr": "Le déficit des entreprises locales : 82 % des entreprises utilisent désormais une forme d’IA dans leur marketing, mais les entreprises de services locales (couvreurs, dentistes, mécaniciens) restent largement mal desservies car les agences sont trop chères ou trop corporate.",
+      "category": "AI & Machine Learning",
       "website": "https://localpulseai-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-08T20:28:24.948887+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-08T22:11:47.214198+00:00"
     },
     {
       "name": "Worktop — AI Automation for Local Businesses",
@@ -152573,6 +152576,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-08T20:28:35.248931+00:00"
+    },
+    {
+      "name": "Strke",
+      "slug": "polsia-strke",
+      "website": "https://strke.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-08T22:11:32.723199+00:00"
+    },
+    {
+      "name": "SnapQuote",
+      "slug": "polsia-snapquote-3",
+      "website": "https://snapquote-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-08T22:11:33.080847+00:00"
+    },
+    {
+      "name": "Autopilot AI",
+      "slug": "polsia-autopilot-ai-6",
+      "website": "https://autopilot-ai-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-08T22:11:33.374560+00:00"
+    },
+    {
+      "name": "PathGuard — Microduct Integrity Tools",
+      "slug": "polsia-pathguard-2",
+      "description": "PathGuard tools are purpose-built for network operators working at scale — BEAD projects, rural builds, middle-mile transport, and any deployment where a failed path means lost capital and delayed service.",
+      "description_fr": "Les outils PathGuard sont spécialement conçus pour les opérateurs de réseau travaillant à grande échelle : projets BEAD, constructions rurales, transport sur un kilomètre intermédiaire et tout déploiement dans lequel un chemin défaillant entraîne une perte de capital et un retard de service.",
+      "category": "Software & SaaS",
+      "website": "https://pathguard-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T22:11:49.237843+00:00"
+    },
+    {
+      "name": "Flipsheet — Sell Templates, Guides & Digital Downloads",
+      "slug": "polsia-flipsheet-2",
+      "description": "Car-flipping calculators. Real estate scripts. Campaign templates. The people who bought these didn't need a course — they needed one document that solved their exact problem. That's what you're building.",
+      "description_fr": "Calculatrices à retournement de voiture. Scripts immobiliers. Modèles de campagne. Les personnes qui les ont achetés n'avaient pas besoin d'un cours : ils avaient besoin d'un document qui résolvait exactement leur problème. C'est ce que vous construisez.",
+      "category": "Marketing & Advertising",
+      "website": "https://flipsheet-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T22:11:35.371403+00:00"
+    },
+    {
+      "name": "Hagane — Japanese Kitchen Knives",
+      "slug": "polsia-hagane",
+      "description": "Premium Japanese kitchen knives, forged in Seki and Sakai. VG10 Damascus steel, honest pricing, shipped from Europe.",
+      "description_fr": "Couteaux de cuisine japonais haut de gamme, forgés en Seki et Sakai. Acier Damas VG10, prix honnête, expédié d'Europe.",
+      "category": "Food & Beverage",
+      "website": "https://hagane.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T22:11:36.133400+00:00"
+    },
+    {
+      "name": "Keela",
+      "slug": "polsia-keela-ai",
+      "website": "https://keela-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-08T22:11:36.431490+00:00"
+    },
+    {
+      "name": "Vexit",
+      "slug": "polsia-vexit",
+      "website": "https://vexit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-08T22:11:36.751213+00:00"
+    },
+    {
+      "name": "Recall — CRM for Service Businesses",
+      "slug": "polsia-recall-crm",
+      "description": "Recall tracks your clients, appointments, and automatically reminds you when someone needs attention. Built for the solo operator who doesn't want to lose good clients just because life got busy.",
+      "description_fr": "Recall suit vos clients, vos rendez-vous et vous rappelle automatiquement lorsque quelqu'un a besoin d'attention. Conçu pour l'opérateur solo qui ne veut pas perdre de bons clients simplement parce que la vie est occupée.",
+      "category": "Sales & CRM",
+      "website": "https://recall-crm.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T22:11:37.703925+00:00"
+    },
+    {
+      "name": "LeadStack — Exclusive Leads for Local Trade Businesses",
+      "slug": "polsia-leadstack-48",
+      "description": "LeadStack is built differently. We take a flat monthly fee, build assets you own, and only succeed when you close more jobs. No hidden referral fees. No shared leads. No bait-and-switch pricing that doubles after 90 days.",
+      "description_fr": "LeadStack est construit différemment. Nous prenons des frais mensuels fixes, construisons les actifs que vous possédez et ne réussissons que lorsque vous fermez davantage d'emplois. Pas de frais de référencement cachés. Pas de pistes partagées. Pas de prix d’appât et de changement qui double après 90 jours.",
+      "category": "Sales & CRM",
+      "website": "https://leadstack-48.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T22:11:39.309966+00:00"
     }
   ]
 }
