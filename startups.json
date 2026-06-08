@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T20:20:25.827079+00:00",
+  "last_updated": "2026-06-08T20:28:46.145350+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -151574,12 +151574,15 @@
       "scraped_at": "2026-06-07T19:48:42.495141+00:00"
     },
     {
-      "name": "Tru",
+      "name": "Tru Clarity — Mental Health Support That Actually Works",
       "slug": "polsia-tru-2",
+      "description": "Intent-based matching connects your team to the right therapist, coach, or resource — with verified providers and transparent pricing.",
+      "description_fr": "La correspondance basée sur l'intention connecte votre équipe au bon thérapeute, coach ou ressource, avec des prestataires vérifiés et des tarifs transparents.",
+      "category": "Health & Wellness",
       "website": "https://tru-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-07T19:48:28.428148+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-08T20:28:41.456853+00:00"
     },
     {
       "name": "Autoweave — Done",
@@ -152259,12 +152262,15 @@
       "scraped_at": "2026-06-08T11:24:36.764922+00:00"
     },
     {
-      "name": "WeaveWell",
+      "name": "WeaveWell — Healing, made wearable.",
       "slug": "polsia-weavewell",
+      "description": "Affirmation apparel and writing for the people doing the actual work. Trauma-informed garments designed to be part of your healing practice.",
+      "description_fr": "Vêtements d'affirmation et écriture pour les personnes qui effectuent le travail réel. Des vêtements adaptés aux traumatismes, conçus pour faire partie de votre pratique de guérison.",
+      "category": "Other",
       "website": "https://weavewell.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-08T14:55:56.188585+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-08T20:28:44.681051+00:00"
     },
     {
       "name": "YstradeOS — Operating System for GCC Market Entry",
@@ -152379,10 +152385,13 @@
     {
       "name": "Rise Agency",
       "slug": "polsia-rise-agency",
+      "description": "Big agencies charge enterprise prices and treat small businesses like filler. We built Rise Agency specifically for businesses that need real marketing results — not a PowerPoint deck and a retainer.",
+      "description_fr": "Les grandes agences facturent des prix d'entreprise et traitent les petites entreprises comme des remplisseurs. Nous avons créé Rise Agency spécifiquement pour les entreprises qui ont besoin de vrais résultats marketing, et non d'une présentation PowerPoint et d'un mandat.",
+      "category": "Marketing & Advertising",
       "website": "https://rise-agency.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-08T17:57:23.183022+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-08T20:28:45.775989+00:00"
     },
     {
       "name": "StageRunner — AI Career Agent for Independent Musicians",
@@ -152471,6 +152480,99 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-08T17:57:32.701350+00:00"
+    },
+    {
+      "name": "LocalPulse AI",
+      "slug": "polsia-localpulseai-3",
+      "website": "https://localpulseai-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-08T20:28:24.948887+00:00"
+    },
+    {
+      "name": "Worktop — AI Automation for Local Businesses",
+      "slug": "polsia-worktop",
+      "description": "Worktop builds and manages AI automation for law firms, medical practices, and home service businesses. Chatbots, booking, follow-ups — handled.",
+      "description_fr": "Worktop crée et gère l'automatisation de l'IA pour les cabinets d'avocats, les cabinets médicaux et les entreprises de services à domicile. Chatbots, réservations, suivis – gérés.",
+      "category": "AI & Machine Learning",
+      "website": "https://worktop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T20:28:26.584077+00:00"
+    },
+    {
+      "name": "AtlasOS — Run Your Business, Autonomous",
+      "slug": "polsia-atlasos-13",
+      "description": "AtlasOS is an operating layer — not another dashboard to check. It connects to your existing tools, learns your business, and runs your workflows. You stay in control, but you stop being the load-bearing column.",
+      "description_fr": "AtlasOS est une couche opérationnelle, pas un autre tableau de bord à vérifier. Il se connecte à vos outils existants, apprend votre activité et exécute vos flux de travail. Vous gardez le contrôle, mais vous cessez d’être la colonne porteuse.",
+      "category": "Software & SaaS",
+      "website": "https://atlasos-13.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T20:28:27.634697+00:00"
+    },
+    {
+      "name": "SoloOps — Run Your Service Business From One Screen",
+      "slug": "polsia-soloops-3",
+      "description": "SoloOps is the platform for owners who want to build something that works without them in it. Every system, every workflow, every automation — designed for a business that runs itself.",
+      "description_fr": "SoloOps est la plate-forme destinée aux propriétaires qui souhaitent créer quelque chose qui fonctionne sans eux. Chaque système, chaque flux de travail, chaque automatisation est conçu pour une entreprise qui s'auto-gère.",
+      "category": "Productivity & Automation",
+      "website": "https://soloops-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T20:28:29.295679+00:00"
+    },
+    {
+      "name": "FloatFlow — Get Paid Faster, Without the Chase",
+      "slug": "polsia-floatflow",
+      "description": "AI-powered accounts receivable agent for South African SMEs. Automatically chases overdue invoices via WhatsApp — the channel your clients actually reply to.",
+      "description_fr": "Agent des comptes clients alimenté par l'IA pour les PME sud-africaines. Traque automatiquement les factures en retard via WhatsApp – le canal auquel vos clients répondent réellement.",
+      "category": "AI & Machine Learning",
+      "website": "https://floatflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T20:28:30.436159+00:00"
+    },
+    {
+      "name": "LiftOff — AI Automation for Small Businesses",
+      "slug": "polsia-isiahliftingoff",
+      "description": "We build AI agents that run your small business's repetitive work — 24/7, on autopilot. Recurring revenue, high margins.",
+      "description_fr": "Nous construisons des agents IA qui gèrent le travail répétitif de votre petite entreprise, 24h/24 et 7j/7, sur pilote automatique. Revenus récurrents, marges élevées.",
+      "category": "AI & Machine Learning",
+      "website": "https://isiahliftingoff.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T20:28:31.911049+00:00"
+    },
+    {
+      "name": "CastPilot",
+      "slug": "polsia-castpilot-8",
+      "website": "https://castpilot-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-08T20:28:32.295662+00:00"
+    },
+    {
+      "name": "CareSync",
+      "slug": "polsia-careflow-4",
+      "description": "CareSync is the scheduling platform built for group homes and mental health care facilities. AI predicts coverage gaps before they happen. Staff stay on the same page. Compliance stays in check.",
+      "description_fr": "CareSync est la plateforme de planification conçue pour les foyers de groupe et les établissements de soins de santé mentale. L’IA prédit les lacunes de couverture avant qu’elles ne se produisent. Le personnel reste sur la même longueur d’onde. La conformité reste sous contrôle.",
+      "category": "AI & Machine Learning",
+      "website": "https://careflow-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T20:28:34.153182+00:00"
+    },
+    {
+      "name": "LeadFlow — AI",
+      "slug": "polsia-leadflow-sa-2",
+      "description": "We find your next customers using AI. Lead generation for plumbers, solar installers, estate agents, and service businesses across South Africa.",
+      "description_fr": "Nous trouvons vos prochains clients grâce à l'IA. Génération de leads pour les plombiers, les installateurs solaires, les agents immobiliers et les entreprises de services à travers l'Afrique du Sud.",
+      "category": "AI & Machine Learning",
+      "website": "https://leadflow-sa-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-08T20:28:35.248931+00:00"
     }
   ]
 }
