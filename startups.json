@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T14:54:49.725852+00:00",
+  "last_updated": "2026-06-09T15:25:58.349822+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -153181,12 +153181,15 @@
       "scraped_at": "2026-06-09T12:05:49.134186+00:00"
     },
     {
-      "name": "LunensaOS",
+      "name": "Lunensa — Atmosphärische Beleuchtung und Möbel",
       "slug": "polsia-lunensaos",
+      "description": "Dank der direkten Zusammenarbeit mit verschiedenen Lieferanten kann Lunensa das gesamte Sortiment ohne Umwege direkt an den Verbraucher versenden. Dies eliminiert mehrere Zwischenstationen und Kosten in der Vertriebskette — für wettbewerbsfähige Preise und eine geringere CO₂-Emission.",
+      "description_fr": "Dank der direkten Zusammenarbeit mit verschiedenen Lieferanten kann Lunensa das gesamte Sortiment ohne Umwege direkt an den Verbraucher versenden. Dies eliminiert mehrere Zwischenstationen und Kosten in der Vertriebskette — für Wettbewerbsfähige Preise and a geringere CO₂-Emission.",
+      "category": "Other",
       "website": "https://lunensaos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-09T12:05:49.196394+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-09T15:25:57.943691+00:00"
     },
     {
       "name": "MouthMetrics — AI Marketing for Dental Practices",
@@ -153198,6 +153201,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-09T12:05:50.734976+00:00"
+    },
+    {
+      "name": "ContentPilot",
+      "slug": "polsia-content-pilot-2",
+      "website": "https://content-pilot-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-09T15:25:42.959753+00:00"
+    },
+    {
+      "name": "ReachFlow — Your AI Sales Team for Shopify",
+      "slug": "polsia-reachflow-25",
+      "description": "ReachFlow was built for the Shopify merchant who wants to grow without a sales team, without agency fees, and without spending hours on outreach they could be using to build their product.",
+      "description_fr": "ReachFlow a été conçu pour le commerçant Shopify qui souhaite se développer sans équipe commerciale, sans frais d'agence et sans passer des heures en sensibilisation qu'il pourrait utiliser pour créer son produit.",
+      "category": "AI & Machine Learning",
+      "website": "https://reachflow-25.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T15:25:44.159344+00:00"
+    },
+    {
+      "name": "Operand — Autonomous Company Builder",
+      "slug": "polsia-foundryai-2",
+      "description": "Solo founders and small teams have always been at a structural disadvantage — they had to choose between doing everything themselves or giving up equity for talent they couldn't yet afford. Operand closes that gap. One intelligent agent, running every part of the business, every day.",
+      "description_fr": "Les fondateurs solitaires et les petites équipes ont toujours été structurellement désavantagés : ils ont dû choisir entre tout faire eux-mêmes ou renoncer à des capitaux propres pour des talents qu'ils ne pouvaient pas encore se permettre. L'opérande comble cet écart. Un agent intelligent, qui gère chaque aspect de l'entreprise, chaque jour.",
+      "category": "Marketing & Advertising",
+      "website": "https://foundryai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T15:25:45.462365+00:00"
+    },
+    {
+      "name": "ClipStack — Short",
+      "slug": "polsia-clipstack-96",
+      "description": "We edit and deliver scroll-stopping short-form videos every week — so local businesses can stop ignoring the biggest growth channel in existence.",
+      "description_fr": "Nous éditons et diffusons chaque semaine des vidéos courtes à défilement ininterrompu, afin que les entreprises locales puissent cesser d'ignorer le plus grand canal de croissance existant.",
+      "category": "Entertainment & Media",
+      "website": "https://clipstack-96.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T15:25:46.448491+00:00"
+    },
+    {
+      "name": "MotionOps",
+      "slug": "polsia-motionops",
+      "website": "https://motionops.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-09T15:25:46.619753+00:00"
+    },
+    {
+      "name": "Feebas Cove",
+      "slug": "polsia-feebas-cove",
+      "description": "A chain of islands where the ocean remembers everything. Ancient coral cities, tide-cursed caves, fishing villages that have been finding Feebas for generations — and pretending they haven't.",
+      "description_fr": "Une chaîne d'îles où l'océan se souvient de tout. D'anciennes cités coralliennes, des grottes maudites par les marées, des villages de pêcheurs qui trouvent des Feebas depuis des générations – et font semblant de ne pas l'avoir fait.",
+      "category": "Other",
+      "website": "https://feebas-cove.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T15:25:47.490429+00:00"
+    },
+    {
+      "name": "Shipd — Ship Daily, Stay Accountable",
+      "slug": "polsia-gallo-trax",
+      "description": "An AI agent that watches what you ship each day. Connects to GitHub, Vercel, and your dev stack. Reports daily progress. Keeps you accountable.",
+      "description_fr": "Un agent IA qui surveille ce que vous expédiez chaque jour. Se connecte à GitHub, Vercel et à votre pile de développement. Rapporte les progrès quotidiens. Vous tient responsable.",
+      "category": "AI & Machine Learning",
+      "website": "https://gallo-trax.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T15:25:48.803384+00:00"
+    },
+    {
+      "name": "PromptKit",
+      "slug": "polsia-promptkit-2",
+      "website": "https://promptkit-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-09T15:25:49.009708+00:00"
+    },
+    {
+      "name": "TamwilOS — دار التمويل",
+      "slug": "polsia-tamwilos",
+      "description": "Nous accompagnons les professionnels, particuliers et entreprises\n    vers les meilleures offres de financement éthique — avec un\n    conseil expert et une conformité charia garantie.",
+      "description_fr": "Nous accompagnons les professionnels, particuliers et entreprises\n    vers les meilleures offres de financement éthique — avec un\n    conseil expert et une conformité charia garantie.",
+      "category": "Other",
+      "website": "https://tamwilos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T15:25:49.950892+00:00"
+    },
+    {
+      "name": "LPBDigitalOS — Operating System for LPB Digital",
+      "slug": "polsia-lpbdigitalos",
+      "description": "LPB Digital's zero-risk model — design first, charge only if satisfied — is a powerful differentiator. But scaling it means managing more clients, more projects, and more conversations without losing the quality that built the reputation.",
+      "description_fr": "Le modèle sans risque de LPB Digital – concevoir d'abord, facturer seulement si satisfait – est un puissant différenciateur. Mais le faire évoluer signifie gérer plus de clients, plus de projets et plus de conversations sans perdre la qualité qui a bâti la réputation.",
+      "category": "Real Estate",
+      "website": "https://lpbdigitalos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T15:25:50.693526+00:00"
     }
   ]
 }
