@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T23:38:21.585925+00:00",
+  "last_updated": "2026-06-09T01:30:50.793408+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -152679,12 +152679,15 @@
       "scraped_at": "2026-06-08T22:11:39.309966+00:00"
     },
     {
-      "name": "CoverOps",
+      "name": "CoverOps — Autonomous Insurance Workflows",
       "slug": "polsia-coverops-3",
+      "description": "AI agents that autonomously run insurance workflows — from document intake to policy binding. No humans in the loop.",
+      "description_fr": "Des agents IA qui exécutent de manière autonome les flux de travail d'assurance, de la réception des documents à la conclusion des politiques. Aucun humain dans la boucle.",
+      "category": "AI & Machine Learning",
       "website": "https://coverops-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-08T23:38:00.853024+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-09T01:30:46.042933+00:00"
     },
     {
       "name": "SiteForge",
@@ -152695,12 +152698,15 @@
       "scraped_at": "2026-06-08T23:38:01.241716+00:00"
     },
     {
-      "name": "Qubla",
+      "name": "Qubla — AI Procurement Agents for Distributors",
       "slug": "polsia-qubla",
+      "description": "AI agents that run B2B procurement autonomously — sourcing, negotiating, and restocking so distribution businesses can scale without scaling headcount.",
+      "description_fr": "Des agents IA qui gèrent les achats B2B de manière autonome : sourcing, négociation et réapprovisionnement afin que les entreprises de distribution puissent évoluer sans augmenter leurs effectifs.",
+      "category": "AI & Machine Learning",
       "website": "https://qubla.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-08T23:38:01.556458+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-09T01:30:46.752542+00:00"
     },
     {
       "name": "Echo — AI That Resolves Your Inbox 24/7",
@@ -152769,12 +152775,119 @@
       "scraped_at": "2026-06-08T23:38:08.170919+00:00"
     },
     {
-      "name": "VestraOS",
+      "name": "VestraOS — Operating System for International Distribution",
       "slug": "polsia-vestraos",
+      "description": "At Vestra Swiss, value creation goes beyond transactions. We design each collaboration as a long-term relationship based on trust, governance, compliance and operational performance.",
+      "description_fr": "Chez Vestra Swiss, la création de valeur va au-delà des transactions. Nous concevons chaque collaboration comme une relation à long terme basée sur la confiance, la gouvernance, la conformité et la performance opérationnelle.",
+      "category": "Other",
       "website": "https://vestraos.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T01:30:47.918664+00:00"
+    },
+    {
+      "name": "AgentFlow",
+      "slug": "polsia-agentflow-47",
+      "website": "https://agentflow-47.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-06-08T23:38:08.668845+00:00"
+      "scraped_at": "2026-06-09T01:30:28.027007+00:00"
+    },
+    {
+      "name": "AutoFlow",
+      "slug": "polsia-autoflow-ai-34",
+      "description": "AutoFlow exists to take that machine off your hands. We build AI systems that run your operations\n        so you can focus on what you actually got into business to do: win clients, build products, make decisions.",
+      "description_fr": "AutoFlow existe pour vous débarrasser de cette machine. Nous construisons des systèmes d'IA qui gèrent vos opérations\n        afin que vous puissiez vous concentrer sur ce pour quoi vous vous êtes réellement lancé en affaires : gagner des clients, créer des produits, prendre des décisions.",
+      "category": "AI & Machine Learning",
+      "website": "https://autoflow-ai-34.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T01:30:49.407411+00:00"
+    },
+    {
+      "name": "Peakflow — Your AI Daily Routine Agent",
+      "slug": "polsia-peakflow-2",
+      "description": "Peakflow is an AI agent that builds your personalized daily routine across fitness, nutrition, and self-care, then monitors and adapts it 24/7.",
+      "description_fr": "Peakflow est un agent d'IA qui construit votre routine quotidienne personnalisée en termes de forme physique, de nutrition et de soins personnels, puis la surveille et l'adapte 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://peakflow-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T01:30:50.641288+00:00"
+    },
+    {
+      "name": "Signal",
+      "slug": "polsia-signal-ai-20",
+      "website": "https://signal-ai-20.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-09T01:30:29.061420+00:00"
+    },
+    {
+      "name": "AgentFlow — AI Done For You",
+      "slug": "polsia-agentflow-46",
+      "description": "AgentFlow is the AI team you can't afford to hire — but can now afford to delegate to. We identify what can be automated, build the systems, and make sure they keep running. You approve the output. We handle the rest.",
+      "description_fr": "AgentFlow est l'équipe d'IA que vous ne pouvez pas vous permettre d'embaucher, mais à laquelle vous pouvez désormais vous permettre de déléguer. Nous identifions ce qui peut être automatisé, construisons les systèmes et veillons à ce qu'ils continuent de fonctionner. Vous approuvez le résultat. Nous nous occupons du reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://agentflow-46.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T01:30:30.557858+00:00"
+    },
+    {
+      "name": "ClipForge — Short",
+      "slug": "polsia-clipforge-17d6a7",
+      "description": "ClipForge produces TikToks, Reels, and Shorts for local businesses — so they can focus on their trade while their content builds the pipeline.",
+      "description_fr": "ClipForge produit des TikToks, des Reels et des Shorts pour les entreprises locales, afin qu'elles puissent se concentrer sur leur métier pendant que leur contenu construit le pipeline.",
+      "category": "Sales & CRM",
+      "website": "https://clipforge-17d6a7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T01:30:31.941429+00:00"
+    },
+    {
+      "name": "Stalk — AI",
+      "slug": "polsia-go-stalk",
+      "description": "A single grain shipment involves a seller, carrier, elevator operator, inspector, buyer, bank, and logistics provider — often communicating through email threads and WhatsApp messages. One missed document. One delayed update. One forgotten approval. That's a demurrage charge, a late delivery, or a lost relationship.",
+      "description_fr": "Une seule expédition de céréales implique un vendeur, un transporteur, un opérateur de silo, un inspecteur, un acheteur, une banque et un prestataire logistique, communiquant souvent via des fils de discussion par courrier électronique et des messages WhatsApp. Un document manqué. Une mise à jour retardée. Une approbation oubliée. Il s'agit de frais de surestaries, d'une livraison tardive ou d'une relation perdue.",
+      "category": "AI & Machine Learning",
+      "website": "https://go-stalk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T01:30:33.637284+00:00"
+    },
+    {
+      "name": "GrantCraft — AI Grant Application Assistant",
+      "slug": "polsia-grantcraft-2",
+      "description": "Grantable, Instrumentl, and Granted AI focus on grant discovery — helping you find opportunities. GrantBoost helps you write faster. GrantCraft starts one step further back: after you've found the grant, before you've written a single sentence.",
+      "description_fr": "Grantable, Instrumentl et Granted AI se concentrent sur la découverte de subventions et vous aident à trouver des opportunités. GrantBoost vous aide à écrire plus rapidement. GrantCraft commence un peu plus en arrière : après avoir trouvé la subvention, avant d'avoir écrit une seule phrase.",
+      "category": "AI & Machine Learning",
+      "website": "https://grantcraft-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T01:30:35.211214+00:00"
+    },
+    {
+      "name": "Velour — Premium Mobile Wallpapers",
+      "slug": "polsia-velour-4",
+      "description": "Art-quality wallpapers for your phone. No noise. No ads. Just collections worth having.",
+      "description_fr": "Fonds d'écran de qualité artistique pour votre téléphone. Pas de bruit. Aucune publicité. Juste des collections qui valent la peine d'être possédées.",
+      "category": "Marketing & Advertising",
+      "website": "https://velour-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T01:30:36.778166+00:00"
+    },
+    {
+      "name": "Stacklatch",
+      "slug": "polsia-stacklatch",
+      "description": "Stacklatch exists so you can get back to building. Every client update, deployment check, and status report — handled. You stay informed. You never have to manually write another update again.",
+      "description_fr": "Stacklatch existe pour que vous puissiez recommencer à construire. Chaque mise à jour client, vérification de déploiement et rapport d'état est géré. Vous restez informé. Vous n’aurez plus jamais besoin d’écrire manuellement une autre mise à jour.",
+      "category": "Other",
+      "website": "https://stacklatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T01:30:37.847982+00:00"
     }
   ]
 }
