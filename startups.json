@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T15:25:58.349822+00:00",
+  "last_updated": "2026-06-09T17:33:47.910070+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -153203,12 +153203,15 @@
       "scraped_at": "2026-06-09T12:05:50.734976+00:00"
     },
     {
-      "name": "ContentPilot",
+      "name": "ContentPilot — Your Content Employee",
       "slug": "polsia-content-pilot-2",
+      "description": "Every tool promises to help you write. ContentPilot is the only one that writesforyou — monitors your industry, crafts the post, hits publish, and tells you what hit.",
+      "description_fr": "Chaque outil promet de vous aider à écrire. ContentPilot est le seul à écrire pour vous : il surveille votre secteur d'activité, rédige la publication, lance la publication et vous indique ce qui a frappé.",
+      "category": "Entertainment & Media",
       "website": "https://content-pilot-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-09T15:25:42.959753+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-09T17:33:45.612790+00:00"
     },
     {
       "name": "ReachFlow — Your AI Sales Team for Shopify",
@@ -153244,12 +153247,15 @@
       "scraped_at": "2026-06-09T15:25:46.448491+00:00"
     },
     {
-      "name": "MotionOps",
+      "name": "MotionOps — The AI That Runs Your Media Company",
       "slug": "polsia-motionops",
+      "description": "An autonomous AI agent that manages your entire media production workflow — from footage to licensing to social publishing, 24/7.",
+      "description_fr": "Un agent d'IA autonome qui gère l'ensemble de votre flux de production multimédia, des séquences aux licences en passant par la publication sur les réseaux sociaux, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://motionops.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-09T15:25:46.619753+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-09T17:33:47.270406+00:00"
     },
     {
       "name": "Feebas Cove",
@@ -153302,6 +153308,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-09T15:25:50.693526+00:00"
+    },
+    {
+      "name": "FileDrop",
+      "slug": "polsia-filedrop-2",
+      "website": "https://filedrop-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-09T17:33:27.612874+00:00"
+    },
+    {
+      "name": "Cobblemon Forge",
+      "slug": "polsia-bobomonstudios",
+      "website": "https://bobomonstudios.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-09T17:33:27.946737+00:00"
+    },
+    {
+      "name": "Artisana — AI Artist Management",
+      "slug": "polsia-artisana-2",
+      "description": "Monitors your inbox, DMs, and comments 24/7. Responds to fans, qualifies leads, handles meet-and-greet requests, and escalates anything important directly to you.",
+      "description_fr": "Surveille votre boîte de réception, vos DM et vos commentaires 24h/24 et 7j/7. Répond aux fans, qualifie les prospects, gère les demandes de rencontre et transmet tout ce qui est important directement à vous.",
+      "category": "AI & Machine Learning",
+      "website": "https://artisana-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T17:33:29.624138+00:00"
+    },
+    {
+      "name": "RealtistDesk",
+      "slug": "polsia-realtistdesk",
+      "description": "RealtistDesk maintains a current directory of NAREB members across every major U.S. market. Search by city, specialty, or chapter. Every Realtist is verified — no franchises, no noise.",
+      "description_fr": "RealtistDesk tient à jour un répertoire des membres du NAREB sur tous les principaux marchés américains. Recherchez par ville, spécialité ou chapitre. Chaque Realtist est vérifié – pas de franchise, pas de bruit.",
+      "category": "Real Estate",
+      "website": "https://realtistdesk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T17:33:31.262066+00:00"
+    },
+    {
+      "name": "FrenzyTees — Viral Meme Tees",
+      "slug": "polsia-frenzytees",
+      "description": "Not tomorrow. Not eventually. Now. We move faster than the meme cycle — designing, launching, and iterating shirts that make people screenshot and send them to their group chat. The big meme pages built audiences. We buildstuff people wear.",
+      "description_fr": "Pas demain. Pas finalement. Maintenant. Nous avançons plus vite que le cycle des mèmes : concevoir, lancer et itérer des chemises qui permettent aux gens de faire des captures d'écran et de les envoyer à leur discussion de groupe. Les grandes pages de mèmes ont créé une audience. Nous construisons des objets que les gens portent.",
+      "category": "Social & Community",
+      "website": "https://frenzytees.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T17:33:32.915546+00:00"
+    },
+    {
+      "name": "BatchServe — Mass Subpoena Drafting",
+      "slug": "polsia-batchserve",
+      "description": "A single litigation case can require 20, 50, even 100+ subpoenas across different providers. Each one needs different formatting, different service rules, different follow-up. Paralegals hand-craft each one from scratch. That's not legal work — that's data entry.",
+      "description_fr": "Un seul litige peut nécessiter 20, 50, voire plus de 100 assignations à comparaître auprès de différents fournisseurs. Chacun nécessite un formatage différent, des règles de service différentes, un suivi différent. Les parajuristes fabriquent chacun d’eux à la main à partir de zéro. Ce n'est pas un travail juridique, c'est de la saisie de données.",
+      "category": "Real Estate",
+      "website": "https://batchserve.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T17:33:34.363135+00:00"
+    },
+    {
+      "name": "PylonOS",
+      "slug": "polsia-pylonos-2",
+      "description": "PylonOS builds autonomous AI systems for small and medium businesses. Lead qualification, support automation, appointment booking, and follow-up sequences — all running 24/7 without a human in the loop.",
+      "description_fr": "PylonOS construit des systèmes d'IA autonomes pour les petites et moyennes entreprises. Qualification des leads, automatisation du support, prise de rendez-vous et séquences de suivi, le tout fonctionnant 24h/24 et 7j/7 sans intervention humaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://pylonos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T17:33:35.807004+00:00"
+    },
+    {
+      "name": "GreenCore Property Group",
+      "slug": "polsia-greencore-property",
+      "website": "https://greencore-property.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-09T17:33:36.070911+00:00"
+    },
+    {
+      "name": "EazyFluids — Precision Engineering Simulations",
+      "slug": "polsia-eazyfluidos",
+      "description": "We run on dedicated multi-core workstations and scale to AWS HPC clusters for the largest jobs. Your project is never limited by compute.",
+      "description_fr": "Nous fonctionnons sur des postes de travail multicœurs dédiés et évoluons vers les clusters AWS HPC pour les tâches les plus importantes. Votre projet n'est jamais limité par le calcul.",
+      "category": "Other",
+      "website": "https://eazyfluidos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T17:33:37.395172+00:00"
+    },
+    {
+      "name": "Sarsara AI — Autonomous Business Operations",
+      "slug": "polsia-sms-ia",
+      "description": "While others hire more people, you're building with autonomous systems that scale without proportional cost. The competitive gap is already forming. You're on the right side of it.",
+      "description_fr": "Tandis que d'autres embauchent davantage de personnes, vous construisez avec des systèmes autonomes qui évoluent sans coût proportionnel. L’écart concurrentiel se creuse déjà. Vous êtes du bon côté.",
+      "category": "AI & Machine Learning",
+      "website": "https://sms-ia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T17:33:39.061958+00:00"
     }
   ]
 }
