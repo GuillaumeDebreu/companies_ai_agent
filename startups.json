@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T17:33:47.910070+00:00",
+  "last_updated": "2026-06-09T19:36:35.593279+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -153310,12 +153310,15 @@
       "scraped_at": "2026-06-09T15:25:50.693526+00:00"
     },
     {
-      "name": "FileDrop",
+      "name": "FileDrop — Instant Digital Delivery",
       "slug": "polsia-filedrop-2",
+      "description": "Stop building checkout flows for one file. Stop paying monthly fees for a platform you only use for delivery. FileDrop does one thing — gets your digital product to your customer.",
+      "description_fr": "Arrêtez de créer des flux de paiement pour un fichier. Arrêtez de payer des frais mensuels pour une plateforme que vous utilisez uniquement pour la livraison. FileDrop fait une chose : transmettre votre produit numérique à votre client.",
+      "category": "Software & SaaS",
       "website": "https://filedrop-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-09T17:33:27.612874+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-09T19:36:33.788847+00:00"
     },
     {
       "name": "Cobblemon Forge",
@@ -153409,6 +153412,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-09T17:33:39.061958+00:00"
+    },
+    {
+      "name": "DeSlopOS",
+      "slug": "polsia-deslopos",
+      "website": "https://deslopos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-09T19:36:17.882281+00:00"
+    },
+    {
+      "name": "Firedeck",
+      "slug": "polsia-firedeck-2",
+      "website": "https://firedeck-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-09T19:36:18.377631+00:00"
+    },
+    {
+      "name": "Chairless",
+      "slug": "polsia-chairless",
+      "website": "https://chairless.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-09T19:36:18.713221+00:00"
+    },
+    {
+      "name": "Apex Biome",
+      "slug": "polsia-apexbiome",
+      "website": "https://apexbiome.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-09T19:36:18.975293+00:00"
+    },
+    {
+      "name": "ServiceFront — Remote CX Agency",
+      "slug": "polsia-servicefront-2",
+      "description": "Real people on your website around the clock. Not bots. Not overseas scripts. Trained agents who sound like your brand, handle FAQs, qualify leads, and escalate when it matters.",
+      "description_fr": "De vraies personnes sur votre site Web 24 heures sur 24. Pas des robots. Pas de scripts étrangers. Des agents formés qui ressemblent à votre marque, gèrent les FAQ, qualifient les prospects et transmettent les informations lorsque cela est important.",
+      "category": "Marketing & Advertising",
+      "website": "https://servicefront-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T19:36:20.770485+00:00"
+    },
+    {
+      "name": "Picket — AI Competitor Intelligence",
+      "slug": "polsia-picket-ai-2",
+      "description": "Cut Pro tier from $16/seat to $10/seat. Removed seat limit on Starter. Likely targeting Notion users. This is a direct attack on your price positioning — you may want to revisit your pricing page before your next sales cycle.",
+      "description_fr": "Réduisez le niveau Pro de 16 $/siège à 10 $/siège. Suppression de la limite de sièges sur Starter. Cibler probablement les utilisateurs de Notion. Il s'agit d'une attaque directe contre votre positionnement tarifaire : vous souhaiterez peut-être revoir votre page de tarification avant votre prochain cycle de vente.",
+      "category": "AI & Machine Learning",
+      "website": "https://picket-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T19:36:22.345246+00:00"
+    },
+    {
+      "name": "Stackbase — AI Coding Agent",
+      "slug": "polsia-stackbase-ai",
+      "description": "We didn't build Stackbase to make developers faster at typing. We built it because the bottleneck in software teams has never been coding speed — it has always been the ratio of work-to-hands. Stackbase multiplies your hands while you sleep.",
+      "description_fr": "Nous n'avons pas construit Stackbase pour permettre aux développeurs de taper plus rapidement. Nous l'avons construit parce que le goulot d'étranglement dans les équipes logicielles n'a jamais été la vitesse de codage – cela a toujours été le rapport travail/main. Stackbase multiplie vos mains pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://stackbase-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T19:36:23.333727+00:00"
+    },
+    {
+      "name": "Vector",
+      "slug": "polsia-vector-agents",
+      "website": "https://vector-agents.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-09T19:36:23.594126+00:00"
+    },
+    {
+      "name": "RetainIQ — Your AI Customer Success Agent",
+      "slug": "polsia-retainiq-8",
+      "description": "An AI agent that monitors customer health 24/7, catches churn signals early, and autonomously takes retention action — so your CS team focuses on the customers who actually need them.",
+      "description_fr": "Un agent IA qui surveille la santé des clients 24 heures sur 24 et 7 jours sur 7, détecte rapidement les signaux de désabonnement et prend des mesures de fidélisation de manière autonome — afin que votre équipe CS se concentre sur les clients qui en ont réellement besoin.",
+      "category": "AI & Machine Learning",
+      "website": "https://retainiq-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T19:36:25.361110+00:00"
+    },
+    {
+      "name": "PassPoint — Real Estate Exam Prep Built by Attorneys",
+      "slug": "polsia-passpoint",
+      "description": "Under most state statutes (see Louisiana RS 37:1451), anexclusive right to sellgrants the broker a commission regardless of who finds the buyer — including the seller. This differs from anexclusive agencylisting, where the seller retains the right to sell independently without paying commission. The distinction often appears on the national portion of the exam.",
+      "description_fr": "En vertu de la plupart des lois des États (voir Louisiane RS 37 : 1451), un droit exclusif de vendre accorde au courtier une commission, quelle que soit la personne qui trouve l'acheteur, y compris le vendeur. Cela diffère d'une agence exclusive, où le vendeur conserve le droit de vendre de manière indépendante sans payer de commission. La distinction apparaît souvent dans la partie nationale de l'examen.",
+      "category": "Real Estate",
+      "website": "https://passpoint.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-09T19:36:26.987808+00:00"
     }
   ]
 }
