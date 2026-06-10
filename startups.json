@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T15:38:27.159616+00:00",
+  "last_updated": "2026-06-10T16:08:32.996050+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -154064,12 +154064,15 @@
       "scraped_at": "2026-06-10T12:09:33.395154+00:00"
     },
     {
-      "name": "AION Energy",
+      "name": "AION Energy — Autonomous Industrial Energy Supplier, Germany",
       "slug": "polsia-aion-energy",
+      "description": "AION is the first fully autonomous industrial energy supplier for Germany. Not AI-assisted. Not AI-optimized. AI-operated — running every procurement decision, every hedge, every portfolio adjustment, without a human in the loop.",
+      "description_fr": "AION est le premier fournisseur d'énergie industriel entièrement autonome pour l'Allemagne. Pas assisté par l'IA. Pas optimisé pour l'IA. Fonctionné par l'IA : exécutez chaque décision d'approvisionnement, chaque couverture, chaque ajustement de portefeuille, sans qu'un humain ne soit impliqué.",
+      "category": "AI & Machine Learning",
       "website": "https://aion-energy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-10T12:09:33.618984+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:26.573704+00:00"
     },
     {
       "name": "Dextora AI — Beyond Content, Beyond Limits",
@@ -154094,28 +154097,37 @@
       "scraped_at": "2026-06-10T12:09:36.044643+00:00"
     },
     {
-      "name": "Toshana",
+      "name": "Toshana — Where Every Gift Tells a Story",
       "slug": "polsia-toshana",
+      "description": "Add birthdays, anniversaries, and festivals. Toshana nudges you weeks in advance so you can plan, customize, and gift with intention.",
+      "description_fr": "Ajoutez des anniversaires, des anniversaires et des festivals. Toshana vous donne un coup de pouce des semaines à l'avance afin que vous puissiez planifier, personnaliser et offrir avec intention.",
+      "category": "Other",
       "website": "https://toshana.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-10T12:09:36.187028+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:28.350074+00:00"
     },
     {
-      "name": "VigilIQ",
+      "name": "VigilIQ — AI Employee That Watches Your Market 24/7",
       "slug": "polsia-vigiliq-2",
+      "description": "Your competitors are moving. Markets are shifting. Opportunities are passing. Every hour you don't know is an hour you can't act. VigilIQ closes that gap.",
+      "description_fr": "Vos concurrents bougent. Les marchés évoluent. Les opportunités passent. Chaque heure que vous ne connaissez pas est une heure où vous ne pouvez pas agir. VigilIQ comble cette lacune.",
+      "category": "AI & Machine Learning",
       "website": "https://vigiliq-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-10T12:09:36.301761+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:29.657335+00:00"
     },
     {
-      "name": "Loopout",
+      "name": "Loopout — The Outbound Agent",
       "slug": "polsia-loopout-3",
+      "description": "Loopout is an AI agent that runs your entire outbound campaign. Research prospects, write personalized emails, manage warmup — without a human in the loop.",
+      "description_fr": "Loopout est un agent IA qui gère l'intégralité de votre campagne sortante. Recherchez des prospects, rédigez des e-mails personnalisés, gérez l'échauffement, sans qu'un humain soit au courant.",
+      "category": "AI & Machine Learning",
       "website": "https://loopout-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-10T12:09:36.467524+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:31.191405+00:00"
     },
     {
       "name": "ListCraft — Real Estate Media Production",
@@ -154146,6 +154158,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-10T12:09:39.413494+00:00"
+    },
+    {
+      "name": "VoiceLift — Autonomous Outbound Voice AI",
+      "slug": "polsia-voicelift-2",
+      "description": "Every competitor in this space answers calls. VoiceLift makes the first call. Retention. Win-back. Re-engagement. These are the highest-leverage calls your team never makes — because they take time, and time is expensive.",
+      "description_fr": "Chaque concurrent dans cet espace répond aux appels. VoiceLift effectue le premier appel. Rétention. Reconquête. Réengagement. Ce sont les appels les plus efficaces que votre équipe ne passe jamais, car ils prennent du temps et le temps coûte cher.",
+      "category": "AI & Machine Learning",
+      "website": "https://voicelift-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:32.993094+00:00"
+    },
+    {
+      "name": "MoodCraft — AI Brand Identity from a Mood",
+      "slug": "polsia-moodcraft",
+      "description": "Describe your vibe. Get a complete brand identity. MoodCraft translates mood descriptions into color palettes, typography, and full brand systems.",
+      "description_fr": "Décrivez votre ambiance. Obtenez une identité de marque complète. MoodCraft traduit les descriptions d'ambiance en palettes de couleurs, typographie et systèmes de marque complets.",
+      "category": "AI & Machine Learning",
+      "website": "https://moodcraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:06.417344+00:00"
+    },
+    {
+      "name": "ReportLoop — Monthly AI Marketing Reports for Local Restaurants",
+      "slug": "polsia-reportloop",
+      "description": "A monthly PDF with your SEO audit, competitor analysis, and social calendar. Written and delivered by AI. Done for you.",
+      "description_fr": "Un PDF mensuel avec votre audit SEO, votre analyse des concurrents et votre calendrier social. Écrit et livré par AI. Fait pour vous.",
+      "category": "AI & Machine Learning",
+      "website": "https://reportloop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:08.161387+00:00"
+    },
+    {
+      "name": "FixerOS — The operating system for local IT shops",
+      "slug": "polsia-fixeros-3",
+      "description": "Automated quotes, appointment reminders, follow-ups, and review tracking. Run your IT shop from one dashboard.",
+      "description_fr": "Devis automatisés, rappels de rendez-vous, suivis et suivi des avis. Gérez votre boutique informatique à partir d’un seul tableau de bord.",
+      "category": "Software & SaaS",
+      "website": "https://fixeros-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:09.267954+00:00"
+    },
+    {
+      "name": "Tayyiban Cooperative — Halal Excellence in Ontario",
+      "slug": "polsia-tayyibanos",
+      "description": "A cooperative dedicated to ethical farming, halal excellence, and Shariah-compliant investment. Based in Ontario, Canada.",
+      "description_fr": "Une coopérative dédiée à l'agriculture éthique, à l'excellence halal et aux investissements conformes à la charia. Basé en Ontario, Canada.",
+      "category": "Finance & Fintech",
+      "website": "https://tayyibanos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:10.505398+00:00"
+    },
+    {
+      "name": "PitchForge — Football Tournament Management",
+      "slug": "polsia-pitchforge-71",
+      "description": "Professional bracket management, real-time scheduling, and team coordination for football tournament organizers.",
+      "description_fr": "Gestion professionnelle des supports, planification en temps réel et coordination des équipes pour les organisateurs de tournois de football.",
+      "category": "Productivity & Automation",
+      "website": "https://pitchforge-71.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:11.629463+00:00"
+    },
+    {
+      "name": "EarnStack — Automated Income, On Autopilot",
+      "slug": "polsia-earnstack-7",
+      "description": "Build a fully automated digital storefront that generates $300-500 daily with zero contact, zero phone calls, zero ongoing work.",
+      "description_fr": "Créez une vitrine numérique entièrement automatisée qui génère entre 300 et 500 $ par jour sans aucun contact, aucun appel téléphonique, aucun travail en cours.",
+      "category": "E-Commerce & Retail",
+      "website": "https://earnstack-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:13.086364+00:00"
+    },
+    {
+      "name": "LinguaWave — Language learning podcasts for serious learners",
+      "slug": "polsia-linguawave",
+      "description": "YouTube-first language podcasts for intermediate to advanced learners. Real conversations. Cultural depth. No gamification.",
+      "description_fr": "Podcasts en langue YouTube pour les apprenants intermédiaires à avancés. De vraies conversations. Profondeur culturelle. Pas de gamification.",
+      "category": "Entertainment & Media",
+      "website": "https://linguawave.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:14.837481+00:00"
+    },
+    {
+      "name": "Guardian Stack — Device Intelligence for Modern Fraud Teams",
+      "slug": "polsia-guardianos-13",
+      "description": "Every fingerprint is built from real hardware, network, and behavioral data — not heuristics. VPN detection, emulator fingerprinting, browser tampering, privacy settings. All verified, all actionable.",
+      "description_fr": "Chaque empreinte digitale est construite à partir de données matérielles, réseau et comportementales réelles, et non à partir d’heuristiques. Détection VPN, empreintes digitales de l'émulateur, falsification du navigateur, paramètres de confidentialité. Tous vérifiés, tous exploitables.",
+      "category": "Social & Community",
+      "website": "https://guardianos-13.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:16.477821+00:00"
+    },
+    {
+      "name": "Thumbframe — AI Creative Production for D2C Brands",
+      "slug": "polsia-thumbframe-3",
+      "description": "Autonomous creative agents that generate ad assets — video, copy, visuals — on demand. Built for D2C brands who need content at software speed.",
+      "description_fr": "Agents créatifs autonomes qui génèrent des ressources publicitaires (vidéo, textes, visuels) à la demande. Conçu pour les marques D2C qui ont besoin de contenu à la vitesse d'un logiciel.",
+      "category": "AI & Machine Learning",
+      "website": "https://thumbframe-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T16:08:17.519355+00:00"
     }
   ]
 }
