@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T22:56:32.469045+00:00",
+  "last_updated": "2026-06-10T00:19:13.086279+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -153639,20 +153639,26 @@
       "scraped_at": "2026-06-09T22:56:16.497083+00:00"
     },
     {
-      "name": "KinderShift",
+      "name": "KinderShift — AI Recruiter for Early Childhood Education",
       "slug": "polsia-kindershift",
+      "description": "The process is entirely manual — posting jobs, sorting through unqualified resumes, chasing references, and sending emails back and forth for scheduling. Meanwhile, ratios are violated, classes are merged, and quality drops.",
+      "description_fr": "Le processus est entièrement manuel : publication d'offres d'emploi, tri de CV non qualifiés, recherche de références et envoi d'e-mails pour la planification. Pendant ce temps, les ratios sont violés, les classes sont fusionnées et la qualité diminue.",
+      "category": "AI & Machine Learning",
       "website": "https://kindershift.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-09T22:56:17.015022+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-10T00:19:09.985459+00:00"
     },
     {
-      "name": "SecureBase",
+      "name": "SecureBase — Coaching for Lasting Connection",
       "slug": "polsia-securebase-4567832109",
+      "description": "Premium online coaching for young professionals seeking secure attachments and emotional intelligence in modern relationships.",
+      "description_fr": "Coaching en ligne premium pour les jeunes professionnels à la recherche d'attachements sécurisés et d'intelligence émotionnelle dans les relations modernes.",
+      "category": "Education",
       "website": "https://securebase-4567832109.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-09T22:56:17.376652+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-10T00:19:11.234694+00:00"
     },
     {
       "name": "NeuralLift — AI Automation for SMBs",
@@ -153730,6 +153736,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-09T22:56:25.906890+00:00"
+    },
+    {
+      "name": "LeadBridge — RevOps for Trades & Home Services",
+      "slug": "polsia-leadbridge-44",
+      "description": "We help HVAC, plumbing, electrical and contractor businesses stop losing revenue from poor lead management and inefficient operations.",
+      "description_fr": "Nous aidons les entreprises de CVC, de plomberie, d'électricité et d'entrepreneurs à cesser de perdre des revenus en raison d'une mauvaise gestion des leads et d'opérations inefficaces.",
+      "category": "Marketing & Advertising",
+      "website": "https://leadbridge-44.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T00:18:55.018953+00:00"
+    },
+    {
+      "name": "DetailDeck — Premium Mobile Car Detailing",
+      "slug": "polsia-detaildeck-9",
+      "description": "\"My black Tesla Model Y looked brand new after the full detail. The ceramic coating makes washing it literally take 5 minutes — water just sheets off. Worth every penny.\"",
+      "description_fr": "\"Ma Tesla Model Y noire avait l'air toute neuve après tous les détails. Le revêtement en céramique fait que son lavage prend littéralement 5 minutes - l'eau s'enlève juste en feuilles. Cela vaut chaque centime.\"",
+      "category": "Marketing & Advertising",
+      "website": "https://detaildeck-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T00:18:56.454625+00:00"
+    },
+    {
+      "name": "AutoFlow",
+      "slug": "polsia-autoflow-ai-36",
+      "website": "https://autoflow-ai-36.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-10T00:18:56.861162+00:00"
+    },
+    {
+      "name": "ClipReach — Done",
+      "slug": "polsia-clipreach-7",
+      "description": "Most people who try this quit before they send their 50th DM. They learn CapCut and stop. They build a portfolio and stop. They post online and stop. But if you're willing to reach out to 50–100 businesses a day, this compounds into real income — phone-only, no agency overhead, no investors.",
+      "description_fr": "La plupart des gens qui essaient cela abandonnent avant d’envoyer leur 50e DM. Ils apprennent CapCut et s'arrêtent. Ils construisent un portefeuille et s'arrêtent. Ils publient en ligne et s'arrêtent. Mais si vous êtes prêt à contacter 50 à 100 entreprises par jour, cela se traduit par un revenu réel : par téléphone uniquement, sans frais généraux d'agence, sans investisseurs.",
+      "category": "Consulting & Services",
+      "website": "https://clipreach-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T00:18:58.511216+00:00"
+    },
+    {
+      "name": "ClearCut",
+      "slug": "polsia-clearcut-8",
+      "website": "https://clearcut-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-10T00:18:58.965933+00:00"
+    },
+    {
+      "name": "Velotype — Print Marketing, Without the Designer",
+      "slug": "polsia-velotype",
+      "description": "An AI agent that generates press-ready direct mail campaigns for local businesses. No designer. No agency. No markup.",
+      "description_fr": "Un agent IA qui génère des campagnes de publipostage prêtes à être publiées pour les entreprises locales. Aucun concepteur. Pas d'agence. Aucun balisage.",
+      "category": "AI & Machine Learning",
+      "website": "https://velotype.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T00:19:12.870466+00:00"
+    },
+    {
+      "name": "GrowthPilot",
+      "slug": "polsia-gpilot",
+      "website": "https://gpilot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-10T00:18:59.663914+00:00"
+    },
+    {
+      "name": "NoRez AI — Unrestricted AI Chat, Group Reasoning Included",
+      "slug": "polsia-norezai",
+      "description": "Ask one question, get multiple AI perspectives debating it. No content filters, no censorship. $15/month.",
+      "description_fr": "Posez une question, obtenez plusieurs points de vue de l'IA qui en débattent. Pas de filtres de contenu, pas de censure. 15$/mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://norezai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T00:19:01.101884+00:00"
+    },
+    {
+      "name": "PrepOS — Autonomous AI for Charter Schools",
+      "slug": "polsia-prepos-3",
+      "description": "Families apply online, submit documents, and ask questions at 9pm on a Sunday. Your AI agent handles it all — tracks missing paperwork, sends reminders, verifies eligibility, and flags issues for human review only when needed.",
+      "description_fr": "Les familles postulent en ligne, soumettent des documents et posent des questions à 21 heures le dimanche. Votre agent IA s'occupe de tout : suit les documents manquants, envoie des rappels, vérifie l'éligibilité et signale les problèmes pour examen humain uniquement en cas de besoin.",
+      "category": "AI & Machine Learning",
+      "website": "https://prepos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T00:19:02.623111+00:00"
+    },
+    {
+      "name": "AnswerDeck",
+      "slug": "polsia-business109",
+      "website": "https://business109.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-10T00:19:02.960446+00:00"
     }
   ]
 }
