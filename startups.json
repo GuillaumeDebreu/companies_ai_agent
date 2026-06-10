@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T21:17:07.265490+00:00",
+  "last_updated": "2026-06-10T23:00:29.689372+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -154391,12 +154391,15 @@
       "scraped_at": "2026-06-10T21:16:37.289643+00:00"
     },
     {
-      "name": "OrbitRevenue",
+      "name": "OrbitRevenue — Autonomous Outbound Sales Agent",
       "slug": "polsia-orbitrevenue",
+      "description": "OrbitRevenue changes that. Your AI agent works every hour of every day — finding prospects, writing personalized emails, following up at the right moment, and surfacing the ones who actually want to talk.",
+      "description_fr": "OrbitRevenue change cela. Votre agent IA travaille chaque heure de la journée : recherche de prospects, rédaction d'e-mails personnalisés, suivi au bon moment et identification de ceux qui souhaitent réellement parler.",
+      "category": "AI & Machine Learning",
       "website": "https://orbitrevenue.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-10T21:16:38.677278+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-10T23:00:23.404364+00:00"
     },
     {
       "name": "DashSV",
@@ -154429,20 +154432,26 @@
       "scraped_at": "2026-06-10T21:16:41.600776+00:00"
     },
     {
-      "name": "Rez",
+      "name": "Rez — WhatsApp booking bot za zdravstvene ordinacije",
       "slug": "polsia-rez",
+      "description": "Pacijent pošalje poruku. Bot automatski zaključi termin. Bez poziva, bez WhatsApp-a, bez recepcije.",
+      "description_fr": "Pacijent pošalje poruku. Bot automatski zaključi termin. Bez poziva, bez WhatsApp-a, bez recepcije.",
+      "category": "Travel & Hospitality",
       "website": "https://rez.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-10T21:16:42.123084+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-10T23:00:26.747613+00:00"
     },
     {
       "name": "RimRock Valet",
       "slug": "polsia-rimrockvalet",
+      "description": "Premium event valet parking for weddings, conferences, and private events across Mesa, Delta, and Montrose counties on Colorado's Western Slope.",
+      "description_fr": "Service de voiturier événementiel haut de gamme pour les mariages, les conférences et les événements privés dans les comtés de Mesa, Delta et Montrose sur le versant ouest du Colorado.",
+      "category": "Other",
       "website": "https://rimrockvalet.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-10T21:16:42.582000+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-10T23:00:27.579351+00:00"
     },
     {
       "name": "formcraft",
@@ -154476,6 +154485,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-10T21:16:45.832573+00:00"
+    },
+    {
+      "name": "PagePulse — Eyes on every WebXR experience",
+      "slug": "polsia-pagepulse-9",
+      "description": "Every WebXR developer has shipped blind. You have analytics for your API, your database, your frontend. But the moment a user loads your 3D scene in a VR headset — you see nothing. That's not acceptable. A product this fragile needs a dedicated watcher. That's what we built.",
+      "description_fr": "Chaque développeur WebXR a expédié à l'aveugle. Vous disposez d'analyses pour votre API, votre base de données, votre frontend. Mais dès qu’un utilisateur charge votre scène 3D dans un casque VR, vous ne voyez rien. Ce n'est pas acceptable. Un produit aussi fragile a besoin d’un observateur dédié. C'est ce que nous avons construit.",
+      "category": "Software & SaaS",
+      "website": "https://pagepulse-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T23:00:28.569181+00:00"
+    },
+    {
+      "name": "WonderCalOS",
+      "slug": "polsia-wondercalos",
+      "website": "https://wondercalos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-10T23:00:01.573833+00:00"
+    },
+    {
+      "name": "SupplyROS — Operating System for SupplyR",
+      "slug": "polsia-supplyros",
+      "description": "Government policy mandates 3% of federal and state contract spend go to Indigenous-owned businesses. Most large contractors have the same target internally. SupplyR has the certification. SupplyROS gives it the operational backbone to actually win and manage those contracts.",
+      "description_fr": "La politique gouvernementale exige que 3 % des dépenses contractuelles fédérales et étatiques soient allouées à des entreprises appartenant à des autochtones. La plupart des grands donneurs d’ordre ont le même objectif en interne. SupplyR a la certification. SupplyROS lui donne la base opérationnelle nécessaire pour remporter et gérer réellement ces contrats.",
+      "category": "Other",
+      "website": "https://supplyros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T23:00:03.061447+00:00"
+    },
+    {
+      "name": "ForgeFlow — Autonomous AI Agents",
+      "slug": "polsia-forgeflow-ak",
+      "description": "Every agent learns from every interaction. Context persists across sessions — your support agent knows what happened last week, your sales agent knows every touchpoint.",
+      "description_fr": "Chaque agent apprend de chaque interaction. Le contexte persiste au fil des sessions : votre agent d'assistance sait ce qui s'est passé la semaine dernière, votre agent commercial connaît chaque point de contact.",
+      "category": "AI & Machine Learning",
+      "website": "https://forgeflow-ak.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T23:00:29.643038+00:00"
+    },
+    {
+      "name": "GrowthOps.ai — AI",
+      "slug": "polsia-growthops-ai-2",
+      "description": "Your clients fill out a form, make a payment, and we build their entire growth engine. Fully AI-run. Documented weekly. Results from week one.",
+      "description_fr": "Vos clients remplissent un formulaire, effectuent un paiement et nous construisons l'intégralité de leur moteur de croissance. Entièrement géré par l'IA. Documenté chaque semaine. Résultats dès la première semaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://growthops-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T23:00:06.201711+00:00"
+    },
+    {
+      "name": "Finio — AI Automation for Professional Firms",
+      "slug": "polsia-finio",
+      "description": "Finio builds intelligent AI workflows for Italian law firms, accountants, and agencies. Less admin. More time. No tool replacement.",
+      "description_fr": "Finio crée des flux de travail d'IA intelligents pour les cabinets d'avocats, les comptables et les agences italiens. Moins d'administrateur. Plus de temps. Aucun remplacement d'outil.",
+      "category": "AI & Machine Learning",
+      "website": "https://finio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T23:00:08.001595+00:00"
+    },
+    {
+      "name": "Calldeck — AI Appointment Setting Agency",
+      "slug": "polsia-calldeck-11",
+      "description": "We run multi-channel outbound campaigns that book qualified meetings with your ideal prospects. No SDRs. No cold calling fatigue. Justcalendars full of decision-makersready to talk.",
+      "description_fr": "Nous menons des campagnes sortantes multicanales qui réservent des rendez-vous qualifiés avec vos prospects idéaux. Pas de DTS. Pas de fatigue du démarchage téléphonique. Juste des calendriers remplis de décideurs prêts à parler.",
+      "category": "AI & Machine Learning",
+      "website": "https://calldeck-11.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T23:00:09.685069+00:00"
+    },
+    {
+      "name": "Maven Intelligence",
+      "slug": "polsia-maven-intelligence",
+      "website": "https://maven-intelligence.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-10T23:00:09.836631+00:00"
+    },
+    {
+      "name": "ShiftFlow — AI Agents for Field Service Operations",
+      "slug": "polsia-shiftflow-3",
+      "description": "Every missed call is a lost job. Every delayed quote is a lost customer. Every unchecked review is a lost referral. ShiftFlow closes those gaps — automatically — so your reputation grows with every job, not just the ones you remember to follow up on.",
+      "description_fr": "Chaque appel manqué est un travail perdu. Chaque devis retardé est un client perdu. Chaque avis non vérifié est une référence perdue. ShiftFlow comble ces lacunes – automatiquement – ​​afin que votre réputation grandisse avec chaque travail, et pas seulement avec ceux dont vous vous souvenez de suivre.",
+      "category": "AI & Machine Learning",
+      "website": "https://shiftflow-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T23:00:11.322562+00:00"
+    },
+    {
+      "name": "ContentRail — Autonomous Content Pipeline",
+      "slug": "polsia-contentrail-3",
+      "description": "An AI agent that runs your entire content pipeline — from topic research to publication to analytics — without prompting for each step.",
+      "description_fr": "Un agent d'IA qui gère l'intégralité de votre pipeline de contenu, de la recherche thématique à la publication en passant par l'analyse, sans invite pour chaque étape.",
+      "category": "AI & Machine Learning",
+      "website": "https://contentrail-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-10T23:00:12.485536+00:00"
     }
   ]
 }
