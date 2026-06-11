@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T23:00:29.689372+00:00",
+  "last_updated": "2026-06-11T00:25:58.277771+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -154498,12 +154498,15 @@
       "scraped_at": "2026-06-10T23:00:28.569181+00:00"
     },
     {
-      "name": "WonderCalOS",
+      "name": "WonderCal — Group Scheduling That Doesn't Suck",
       "slug": "polsia-wondercalos",
+      "description": "The final straw: a critical partnership meeting. Six stakeholders across three companies and four timezones. It took 47 emails and 11 days to find a single hour that worked. By the time we finally met, the urgency was gone. And so was half the deal.",
+      "description_fr": "La goutte qui fait déborder le vase : une réunion de partenariat cruciale. Six parties prenantes réparties dans trois entreprises et quatre fuseaux horaires. Il a fallu 47 e-mails et 11 jours pour trouver une seule heure qui fonctionnait. Au moment où nous nous sommes finalement rencontrés, l’urgence avait disparu. Et la moitié du marché aussi.",
+      "category": "Productivity & Automation",
       "website": "https://wondercalos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-10T23:00:01.573833+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-11T00:25:43.950367+00:00"
     },
     {
       "name": "SupplyROS — Operating System for SupplyR",
@@ -154563,10 +154566,13 @@
     {
       "name": "Maven Intelligence",
       "slug": "polsia-maven-intelligence",
+      "description": "Crypto Twitter is noise. Telegram channels are noise. Tradingview comment sections are noise. The traders who consistently win are the ones who have a system for filtering signal from noise — and they didn't build it by watching more screens.",
+      "description_fr": "Crypto Twitter est du bruit. Les chaînes de télégrammes sont du bruit. Les sections de commentaires de Tradingview sont du bruit. Les traders qui gagnent régulièrement sont ceux qui disposent d'un système permettant de filtrer le signal du bruit – et ils ne l'ont pas construit en regardant davantage d'écrans.",
+      "category": "Finance & Fintech",
       "website": "https://maven-intelligence.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-10T23:00:09.836631+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-11T00:25:45.689789+00:00"
     },
     {
       "name": "ShiftFlow — AI Agents for Field Service Operations",
@@ -154589,6 +154595,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-10T23:00:12.485536+00:00"
+    },
+    {
+      "name": "PageFlow — AI Sales Agent That Never Sleeps",
+      "slug": "polsia-pageflow-49",
+      "description": "An AI agent that monitors your website visitors, chats with them in real-time, qualifies leads, and books meetings — autonomously, 24/7.",
+      "description_fr": "Un agent IA qui surveille les visiteurs de votre site Web, discute avec eux en temps réel, qualifie les prospects et planifie des réunions, de manière autonome, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://pageflow-49.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T00:25:46.784722+00:00"
+    },
+    {
+      "name": "PlnlyOS",
+      "slug": "polsia-plnlyos",
+      "website": "https://plnlyos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T00:25:15.699122+00:00"
+    },
+    {
+      "name": "TaskStack",
+      "slug": "polsia-taskstack-3",
+      "website": "https://taskstack-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T00:25:16.254326+00:00"
+    },
+    {
+      "name": "NLOROS — Operating System for NLOR",
+      "slug": "polsia-nloros",
+      "description": "NLOROS gives NLOR one place to run everything — from daily operations to growth, without switching between a dozen tools.",
+      "description_fr": "NLOROS offre à NLOR un seul endroit pour tout gérer, des opérations quotidiennes à la croissance, sans basculer entre une douzaine d'outils.",
+      "category": "Other",
+      "website": "https://nloros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T00:25:17.421818+00:00"
+    },
+    {
+      "name": "ScoreSentry",
+      "slug": "polsia-scoresentry-2",
+      "website": "https://scoresentry-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T00:25:22.868099+00:00"
+    },
+    {
+      "name": "Nyiyo — Websites for Kenyan Small Businesses",
+      "slug": "polsia-nyiyo",
+      "description": "Professional websites for KES 1,000 down, KES 200/month. Built for Kenyan SMEs. M-Pesa supported.",
+      "description_fr": "Sites professionnels pour 1 000 KES down, 200 KES/mois. Conçu pour les PME kenyanes. M-Pesa pris en charge.",
+      "category": "Other",
+      "website": "https://nyiyo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T00:25:25.430191+00:00"
+    },
+    {
+      "name": "ShineSquad",
+      "slug": "polsia-shinesquad-6",
+      "description": "The difference between a car that's \"fine\" and one that makes you feel something is a single detail session. We've seen it hundreds of times — the moment a customer sees their car after a full detail and realizes it looked this good all along.",
+      "description_fr": "La différence entre une voiture qui est « bien » et une voiture qui vous fait ressentir quelque chose réside dans une seule séance de détail. Nous l'avons vu des centaines de fois : le moment où un client voit sa voiture dans les moindres détails et se rend compte qu'elle était aussi belle depuis le début.",
+      "category": "Marketing & Advertising",
+      "website": "https://shinesquad-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T00:25:26.389775+00:00"
+    },
+    {
+      "name": "Echo",
+      "slug": "polsia-echo-ai-agent",
+      "website": "https://echo-ai-agent.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T00:25:31.904015+00:00"
+    },
+    {
+      "name": "PathCalc — Hit $20k With Your Business Model",
+      "slug": "polsia-pathcalc",
+      "description": "Pick a business model. Drag the sliders. See exactly how to hit $20k —\n    with real numbers, no spreadsheets.",
+      "description_fr": "Choisissez un modèle commercial. Faites glisser les curseurs. Découvrez exactement comment atteindre 20 000 $ –\n    avec des chiffres réels, pas de feuilles de calcul.",
+      "category": "Other",
+      "website": "https://pathcalc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T00:25:33.317498+00:00"
+    },
+    {
+      "name": "RenderForge — Document Generation API",
+      "slug": "polsia-renderforge-2",
+      "description": "Design a template in our drag-and-drop editor. Hit one endpoint with JSON. Get back a PDF or image — invoices, certificates, contracts, shipping labels, social cards. At any volume.",
+      "description_fr": "Concevez un modèle dans notre éditeur glisser-déposer. Atteignez un point de terminaison avec JSON. Récupérez un PDF ou une image : factures, certificats, contrats, étiquettes d'expédition, cartes sociales. À n'importe quel volume.",
+      "category": "Software & SaaS",
+      "website": "https://renderforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T00:25:35.072173+00:00"
     }
   ]
 }
