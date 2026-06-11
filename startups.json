@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T10:28:12.270522+00:00",
+  "last_updated": "2026-06-11T13:45:01.413317+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -154799,28 +154799,37 @@
       "scraped_at": "2026-06-11T05:10:08.395683+00:00"
     },
     {
-      "name": "GlowSA",
+      "name": "GlowSA — South Africa's DJ Network",
       "slug": "polsia-glowsa",
+      "description": "Find the right DJ for any occasion. Amapiano, Afro House, Deep House, Gqom — GlowSA connects you with South Africa's best DJs.",
+      "description_fr": "Trouvez le bon DJ pour chaque occasion. Amapiano, Afro House, Deep House, Gqom — GlowSA vous met en relation avec les meilleurs DJ d'Afrique du Sud.",
+      "category": "Software & SaaS",
       "website": "https://glowsa.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-11T09:44:42.543989+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-11T13:44:54.974217+00:00"
     },
     {
-      "name": "CallFlowOS",
+      "name": "CallFlowOS — AI Agents That Run Your Business",
       "slug": "polsia-callflowos-2",
+      "description": "Most AI tools hand you a dashboard and wish you luck. We do the opposite. We build the systems, manage the agents, and make sure they actually work — every day, every call, every workflow. That's the whole point.",
+      "description_fr": "La plupart des outils d'IA vous remettent un tableau de bord et vous souhaitent bonne chance. Nous faisons le contraire. Nous construisons les systèmes, gérons les agents et veillons à ce qu'ils fonctionnent réellement, chaque jour, chaque appel, chaque flux de travail. C'est tout l'intérêt.",
+      "category": "AI & Machine Learning",
       "website": "https://callflowos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-11T09:44:43.758582+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-11T13:44:56.632969+00:00"
     },
     {
-      "name": "TravelVault",
+      "name": "TravelVault — Wholesale Travel Membership",
       "slug": "polsia-travelvault",
+      "description": "The travel industry keeps the best prices hidden behind membership fees and exclusive access. TravelVault gives you both — and we put the numbers right in front of you so you can verify every deal yourself.",
+      "description_fr": "L’industrie du voyage cache les meilleurs prix derrière les frais d’adhésion et l’accès exclusif. TravelVault vous offre les deux – et nous mettons les chiffres juste devant vous afin que vous puissiez vérifier vous-même chaque offre.",
+      "category": "Travel & Hospitality",
       "website": "https://travelvault.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-11T09:44:45.261178+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-11T13:44:57.523329+00:00"
     },
     {
       "name": "FieldRep — Your AI Sales Rep, Running 24/7",
@@ -154895,6 +154904,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-11T09:44:53.502561+00:00"
+    },
+    {
+      "name": "ByteLoop",
+      "slug": "polsia-byteloop-2",
+      "website": "https://byteloop-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T13:44:29.880391+00:00"
+    },
+    {
+      "name": "ClipForge",
+      "slug": "polsia-clipforge-908006",
+      "website": "https://clipforge-908006.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T13:44:30.227998+00:00"
+    },
+    {
+      "name": "CodePulse",
+      "slug": "polsia-codepulse-8",
+      "description": "Every developer knows the pain. You ship a feature, fix a bug, refactor a module — and then the question comes:did you update the changelog?Most of the time the answer is no. Not because they're lazy, but because changelog writing is tedious, unrewarding, and easy to forget. So the docs rot. The release notes are empty. The maintainers get frustrated.CodePulse solves this. It's an AI that reads your diffs and writes the documentation you'd write if you had the time and motivation. Which you don't. Which is fine.",
+      "description_fr": "Chaque développeur connaît la douleur. Vous livrez une fonctionnalité, corrigez un bug, refactorisez un module – et puis la question se pose : avez-vous mis à jour le journal des modifications ? La plupart du temps, la réponse est non. Non pas parce qu'ils sont paresseux, mais parce que la rédaction du journal des modifications est fastidieuse, peu gratifiante et facile à oublier. Alors les documents pourrissent. Les notes de version sont vides. Les responsables sont frustrés. CodePulse résout ce problème. C'est une IA qui lit vos différences et rédige la documentation que vous écririez si vous aviez le temps et la motivation. Ce que vous ne faites pas. Ce qui est bien.",
+      "category": "AI & Machine Learning",
+      "website": "https://codepulse-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T13:44:59.576876+00:00"
+    },
+    {
+      "name": "AgentStack",
+      "slug": "polsia-agentstack-37",
+      "website": "https://agentstack-37.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T13:44:31.010886+00:00"
+    },
+    {
+      "name": "LexNode — AI Legal Assistant for Hong Kong SMEs",
+      "slug": "polsia-lexnode",
+      "description": "AI-powered legal guidance for Hong Kong small businesses. Review contracts, get instant answers, stay compliant — at a fraction of the traditional cost.",
+      "description_fr": "Conseils juridiques basés sur l'IA pour les petites entreprises de Hong Kong. Consultez les contrats, obtenez des réponses instantanées et restez conforme, à une fraction du coût traditionnel.",
+      "category": "AI & Machine Learning",
+      "website": "https://lexnode.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T13:45:01.145049+00:00"
+    },
+    {
+      "name": "ChartStack",
+      "slug": "polsia-chartstack",
+      "website": "https://chartstack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T13:44:31.757903+00:00"
+    },
+    {
+      "name": "CrewStack — Build a Crew, Stack the Cash",
+      "slug": "polsia-crewstack-12",
+      "description": "The system for starting and scaling crew-based service businesses. Junk removal, hauling, and beyond — from side hustle to financial freedom.",
+      "description_fr": "Le système permettant de démarrer et de développer des entreprises de services basés sur une équipe. Enlèvement, transport et au-delà des déchets – de l’activité secondaire à la liberté financière.",
+      "category": "Finance & Fintech",
+      "website": "https://crewstack-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T13:44:32.680224+00:00"
+    },
+    {
+      "name": "GridSite — Real Estate Infrastructure for Parcel Locker Networks",
+      "slug": "polsia-gridsite",
+      "description": "GridSite sources, qualifies, and manages the physical locations that power Europe's parcel locker networks.",
+      "description_fr": "GridSite recherche, qualifie et gère les emplacements physiques qui alimentent les réseaux de consignes à colis en Europe.",
+      "category": "Real Estate",
+      "website": "https://gridsite.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T13:44:33.774171+00:00"
+    },
+    {
+      "name": "RankEdge — Websites, SEO & Leads for Service Businesses",
+      "slug": "polsia-leaddeck-4",
+      "description": "We build digital presence for service businesses that have none — websites, Google ranking, and leads you can actually close.",
+      "description_fr": "Nous construisons une présence numérique pour les entreprises de services qui n'en ont pas : sites Web, classement Google et prospects que vous pouvez réellement clôturer.",
+      "category": "Marketing & Advertising",
+      "website": "https://leaddeck-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T13:44:34.702156+00:00"
+    },
+    {
+      "name": "DealForge",
+      "slug": "polsia-dealfoge",
+      "description": "DealForge is a high-ticket sales agency that helps ambitious businesses land $5,000–$20,000 deals — with fewer clients, bigger checks, and zero chasing.",
+      "description_fr": "DealForge est une agence de vente à prix élevé qui aide les entreprises ambitieuses à conclure des contrats de 5 000 à 20 000 $ – avec moins de clients, des chèques plus gros et aucune poursuite.",
+      "category": "Sales & CRM",
+      "website": "https://dealfoge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T13:44:35.831135+00:00"
     }
   ]
 }
