@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T17:28:20.281421+00:00",
+  "last_updated": "2026-06-11T19:59:51.254919+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -154638,12 +154638,15 @@
       "scraped_at": "2026-06-11T00:25:17.421818+00:00"
     },
     {
-      "name": "ScoreSentry",
+      "name": "ScoreSentry — Your AI Credit Cleanup Assistant",
       "slug": "polsia-scoresentry-2",
+      "description": "ScoreSentry is a document generation and organization tool — not a credit repair organization. We do not promise removals, guarantee results, or charge for outcomes. The FTC's FCRA gives you the right to dispute inaccurate information; ScoreSentry helps you do it correctly.",
+      "description_fr": "ScoreSentry est un outil de génération et d'organisation de documents, et non une organisation de réparation de crédit. Nous ne promettons pas les suppressions, ne garantissons pas les résultats et ne facturons pas les résultats. La FCRA de la FTC vous donne le droit de contester des informations inexactes ; ScoreSentry vous aide à le faire correctement.",
+      "category": "AI & Machine Learning",
       "website": "https://scoresentry-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-11T00:25:22.868099+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-11T19:59:39.172512+00:00"
     },
     {
       "name": "Nyiyo — Websites for Kenyan Small Businesses",
@@ -154668,12 +154671,15 @@
       "scraped_at": "2026-06-11T00:25:26.389775+00:00"
     },
     {
-      "name": "Echo",
+      "name": "Echo — Your Market Never Sleeps",
       "slug": "polsia-echo-ai-agent",
+      "description": "Echo is an AI agent that monitors your competitive landscape — competitors, signals, conversations — and acts on your behalf around the clock. Not a dashboard you check. A agent that works.",
+      "description_fr": "Echo est un agent IA qui surveille votre paysage concurrentiel (concurrents, signaux, conversations) et agit en votre nom 24 heures sur 24. Pas un tableau de bord que vous vérifiez. Un agent qui travaille.",
+      "category": "AI & Machine Learning",
       "website": "https://echo-ai-agent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-11T00:25:31.904015+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-11T19:59:40.759435+00:00"
     },
     {
       "name": "PathCalc — Hit $20k With Your Business Model",
@@ -155010,20 +155016,26 @@
       "scraped_at": "2026-06-11T13:44:35.831135+00:00"
     },
     {
-      "name": "AuraCode",
+      "name": "AuraCode — Continuous Autonomous Code Review",
       "slug": "polsia-auracode-2",
+      "description": "You write code. You open a PR. Someone reviews it two days later. By then you've already forgotten why you wrote it that way. The bug has context. The reviewer doesn't. The fix takes four hours instead of four minutes.",
+      "description_fr": "Vous écrivez du code. Vous ouvrez un PR. Quelqu'un le révise deux jours plus tard. À ce moment-là, vous avez déjà oublié pourquoi vous l'avez écrit de cette façon. Le bug a un contexte. Le critique ne le fait pas. Le correctif prend quatre heures au lieu de quatre minutes.",
+      "category": "Marketing & Advertising",
       "website": "https://auracode-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-11T17:27:42.472687+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-11T19:59:48.949130+00:00"
     },
     {
-      "name": "Convertible",
+      "name": "Convertible — AI Sales Agent for Clinics & Restaurants",
       "slug": "polsia-convertibleai",
+      "description": "Convertible finds your best-fit clients, sends personalized cold outreach, and deploys an AI chatbot that answers bookings 24/7. Built for independent dental clinics and high-end restaurants.",
+      "description_fr": "Convertible trouve vos clients les plus adaptés, envoie des contacts froids personnalisés et déploie un chatbot IA qui répond aux réservations 24h/24 et 7j/7. Conçu pour les cliniques dentaires indépendantes et les restaurants haut de gamme.",
+      "category": "AI & Machine Learning",
       "website": "https://convertibleai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-11T17:27:43.103957+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-11T19:59:50.086205+00:00"
     },
     {
       "name": "ClickFrame",
@@ -155109,6 +155121,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-11T17:27:53.770743+00:00"
+    },
+    {
+      "name": "Impulsadaster",
+      "slug": "polsia-impulsadaster",
+      "website": "https://impulsadaster.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T19:59:22.422136+00:00"
+    },
+    {
+      "name": "Adal.in",
+      "slug": "polsia-adal-in",
+      "website": "https://adal-in.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T19:59:23.072139+00:00"
+    },
+    {
+      "name": "Ledger — AI Finance Agents for SMBs",
+      "slug": "polsia-ledger-ai-finance",
+      "description": "Ramp, Brex, and Fivetran built AI finance stacks for the top 1%. Every other business — the coffee shop, the design agency, the 20-person logistics firm — still runs finance on gut feel, late bank statements, and credit card fraud they only find out about when the invoice lands.",
+      "description_fr": "Ramp, Brex et Fivetran ont construit des piles financières d'IA pour les 1 % les plus riches. Toutes les autres entreprises – le café, l’agence de design, l’entreprise de logistique de 20 personnes – gèrent toujours leurs finances à l’instinct, aux relevés bancaires tardifs et aux fraudes à la carte de crédit dont elles ne découvrent l’existence que lorsque la facture arrive.",
+      "category": "AI & Machine Learning",
+      "website": "https://ledger-ai-finance.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T19:59:25.450850+00:00"
+    },
+    {
+      "name": "Cast",
+      "slug": "polsia-cast-2210",
+      "website": "https://cast-2210.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T19:59:27.007421+00:00"
+    },
+    {
+      "name": "AgentStack — Independent Reviews of Insurance Agent Software",
+      "slug": "polsia-agentstack-38",
+      "description": "Honest, independent reviews of CRMs, AMS, quoting platforms, and automation tools for independent insurance agents. No vendor spin.",
+      "description_fr": "Examens honnêtes et indépendants des CRM, AMS, plateformes de devis et outils d'automatisation pour les agents d'assurance indépendants. Pas de rotation du fournisseur.",
+      "category": "Software & SaaS",
+      "website": "https://agentstack-38.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T19:59:28.797578+00:00"
+    },
+    {
+      "name": "Launchpad — The OS for founders who ship",
+      "slug": "polsia-launchpad-9574ca",
+      "description": "It's a smarter system that runs while you're living your life. When you finally have an operating partner who never drops the thread — that's when the company actually takes off.",
+      "description_fr": "C'est un système plus intelligent qui fonctionne pendant que vous vivez votre vie. Lorsque vous avez enfin un partenaire opérationnel qui ne lâche jamais le fil, c'est à ce moment-là que l'entreprise décolle réellement.",
+      "category": "Marketing & Advertising",
+      "website": "https://launchpad-9574ca.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T19:59:29.675249+00:00"
+    },
+    {
+      "name": "Evercurve — The Growth Agent That Never Sleeps",
+      "slug": "polsia-evercurve",
+      "description": "We built Evercurve because dashboards don't grow companies. Someone watching them does — and that someone has to sleep. Evercurve is the always-on growth intelligence that acts when you're not watching, learns from every outcome, and compounds your team's effectiveness without adding headcount.",
+      "description_fr": "Nous avons créé Evercurve parce que les tableaux de bord ne font pas croître les entreprises. Quelqu’un qui les regarde le fait – et ce quelqu’un doit dormir. Evercurve est l'intelligence de croissance permanente qui agit lorsque vous ne regardez pas, apprend de chaque résultat et renforce l'efficacité de votre équipe sans ajouter d'effectifs.",
+      "category": "Software & SaaS",
+      "website": "https://evercurve.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T19:59:31.041650+00:00"
+    },
+    {
+      "name": "CallLoop — AI Receptionist for Medical Practices",
+      "slug": "polsia-callloop-13",
+      "description": "CallLoop is an AI agent that answers every inbound call, books the appointment, and fills your calendar. Built for medical practices that can't afford to miss a patient.",
+      "description_fr": "CallLoop est un agent IA qui répond à chaque appel entrant, prend rendez-vous et remplit votre calendrier. Conçu pour les cabinets médicaux qui ne peuvent pas se permettre de manquer un patient.",
+      "category": "AI & Machine Learning",
+      "website": "https://callloop-13.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T19:59:32.153842+00:00"
+    },
+    {
+      "name": "CareSyncOS — Operating System for Home Care",
+      "slug": "polsia-caresyncos",
+      "description": "You became a caregiver to help people. You built a business to sustain that mission. But somewhere along the way, you became a full-time scheduler, HR manager, compliance officer, and billing clerk — with a phone that rings at 6am about a call-out.",
+      "description_fr": "Vous êtes devenu soignant pour aider les gens. Vous avez bâti une entreprise pour soutenir cette mission. Mais à un moment donné, vous êtes devenu planificateur à temps plein, responsable des ressources humaines, responsable de la conformité et commis à la facturation – avec un téléphone qui sonne à 6 heures du matin pour un appel.",
+      "category": "Other",
+      "website": "https://caresyncos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T19:59:33.468953+00:00"
+    },
+    {
+      "name": "Fathom — AI Notetaking, Out of This World",
+      "slug": "polsia-fathomos",
+      "description": "Fathom captures every meeting, turns it into searchable intelligence, and moves your team forward faster.",
+      "description_fr": "Fathom capture chaque réunion, la transforme en informations consultables et fait avancer votre équipe plus rapidement.",
+      "category": "AI & Machine Learning",
+      "website": "https://fathomos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T19:59:34.393762+00:00"
     }
   ]
 }
