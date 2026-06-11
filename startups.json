@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T22:08:36.120036+00:00",
+  "last_updated": "2026-06-11T23:53:29.781365+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -155249,12 +155249,15 @@
       "scraped_at": "2026-06-11T22:08:16.791689+00:00"
     },
     {
-      "name": "WebCodeOS",
+      "name": "WebCodeOS — Operating System for Digital Agencies",
       "slug": "polsia-webcodeos",
+      "description": "The autonomous infrastructure layer for modern digital agencies. From first inquiry to signed contract, WebCodeOS handles the work so you can focus on building.",
+      "description_fr": "La couche d'infrastructure autonome pour les agences numériques modernes. De la première demande à la signature du contrat, WebCodeOS gère le travail afin que vous puissiez vous concentrer sur la construction.",
+      "category": "Other",
       "website": "https://webcodeos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-11T22:08:17.071799+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-11T23:53:28.335720+00:00"
     },
     {
       "name": "LocalBoost",
@@ -155326,6 +155329,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-11T22:08:24.091547+00:00"
+    },
+    {
+      "name": "CarScope",
+      "slug": "polsia-carscope",
+      "website": "https://carscope.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T23:53:14.468515+00:00"
+    },
+    {
+      "name": "VibeGround",
+      "slug": "polsia-vibeground",
+      "website": "https://vibeground.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T23:53:14.793988+00:00"
+    },
+    {
+      "name": "ProsperPath",
+      "slug": "polsia-prosperpath-2",
+      "website": "https://prosperpath-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T23:53:15.179545+00:00"
+    },
+    {
+      "name": "GlowCap",
+      "slug": "polsia-glowcap",
+      "website": "https://glowcap.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T23:53:15.385005+00:00"
+    },
+    {
+      "name": "ScooterNexus",
+      "slug": "polsia-scooternexus",
+      "website": "https://scooternexus.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T23:53:15.729226+00:00"
+    },
+    {
+      "name": "Plyr — Your Outbound, Automated",
+      "slug": "polsia-plyr-ai-outbound",
+      "description": "AI agent that autonomously runs your entire outbound pipeline — prospecting, emails, follow-ups, and meetings. Every day.",
+      "description_fr": "Agent IA qui gère de manière autonome l'ensemble de votre pipeline sortant : prospection, e-mails, suivis et réunions. Tous les jours.",
+      "category": "AI & Machine Learning",
+      "website": "https://plyr-ai-outbound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T23:53:17.393758+00:00"
+    },
+    {
+      "name": "Bridgefront Capital",
+      "slug": "polsia-bridgefront-capital",
+      "website": "https://bridgefront-capital.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-11T23:53:17.672057+00:00"
+    },
+    {
+      "name": "StayHost — AI Property Manager for Short",
+      "slug": "polsia-stayhost",
+      "description": "Short-term rentals are lucrative. Managing them is brutal.You check messages at dinner. Adjust prices at midnight. Explain check-in times in your sleep. It's not the property that burns you out — it's the 20-hour weeks of repetitive admin.StayHost replaces the admin. Not the hospitality. Your AI handles the conversations that eat your time. You handle the decisions that actually matter.Think of it as a staff member who never takes a day off, never forgets a guest name, and never drops a thread between 11 PM and 5 AM.",
+      "description_fr": "Les locations à court terme sont lucratives. Les gérer est brutal. Vous vérifiez les messages au dîner. Ajustez les prix à minuit. Expliquez les heures d'enregistrement pendant votre sommeil. Ce n'est pas la propriété qui vous épuise, ce sont les semaines de 20 heures d'administration répétitive. StayHost remplace l'administrateur. Pas l'hospitalité. Votre IA gère les conversations qui vous font perdre du temps. Vous prenez les décisions qui comptent réellement. Considérez-le comme un membre du personnel qui ne prend jamais un jour de congé, n'oublie jamais le nom d'un invité et ne laisse jamais tomber un fil de discussion entre 23 heures et 5 heures du matin.",
+      "category": "Travel & Hospitality",
+      "website": "https://stayhost.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T23:53:19.085122+00:00"
+    },
+    {
+      "name": "DevPulse — Never Miss What Matters in Your Code",
+      "slug": "polsia-devpulse-101",
+      "description": "An AI agent that monitors your repositories and delivers personalized technical updates. No noise. Just what affects your work.",
+      "description_fr": "Un agent IA qui surveille vos référentiels et fournit des mises à jour techniques personnalisées. Pas de bruit. Juste ce qui affecte votre travail.",
+      "category": "AI & Machine Learning",
+      "website": "https://devpulse-101.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T23:53:20.446214+00:00"
+    },
+    {
+      "name": "Nexarchy — The Living Strategy World",
+      "slug": "polsia-nexarchy",
+      "description": "The biggest mistake in game development is trying to build the biggest game. Nexarchy starts with one map, one core loop, and a tight group of players who love it. Then we grow. That path has built every generational gaming company — from Runescape to EVE Online to Roblox.10,000 loyal players beats 100,000 casual ones every time.",
+      "description_fr": "La plus grosse erreur dans le développement d’un jeu est d’essayer de créer le plus gros jeu. Nexarchy commence avec une carte, une boucle principale et un groupe restreint de joueurs qui l'adorent. Ensuite, nous grandissons. Cette voie a construit toutes les sociétés de jeux générationnelles, de Runescape à EVE Online en passant par Roblox. 10 000 joueurs fidèles battent 100 000 joueurs occasionnels à chaque fois.",
+      "category": "Entertainment & Media",
+      "website": "https://nexarchy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-11T23:53:22.139655+00:00"
     }
   ]
 }
