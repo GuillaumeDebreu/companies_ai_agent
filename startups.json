@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T23:53:29.781365+00:00",
+  "last_updated": "2026-06-12T03:39:10.171496+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -155331,20 +155331,26 @@
       "scraped_at": "2026-06-11T22:08:24.091547+00:00"
     },
     {
-      "name": "CarScope",
+      "name": "CarScope — AI",
       "slug": "polsia-carscope",
+      "description": "Scan listings in real time. Find underpriced cars. Calculate real profit margins including transport costs and regional price spreads. Built for flippers who want an edge.",
+      "description_fr": "Scannez les annonces en temps réel. Trouvez des voitures sous-évaluées. Calculez les marges bénéficiaires réelles, y compris les coûts de transport et les écarts de prix régionaux. Conçu pour les palmes qui veulent un avantage.",
+      "category": "AI & Machine Learning",
       "website": "https://carscope.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-11T23:53:14.468515+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-12T03:39:06.236815+00:00"
     },
     {
-      "name": "VibeGround",
+      "name": "VibeGround — A District for the Creative Economy",
       "slug": "polsia-vibeground",
+      "description": "VibeGround is where creative entrepreneurs come together — not to hustle harder, but to build smarter, lift each other up, and make something that actually matters.",
+      "description_fr": "VibeGround est le lieu où les entrepreneurs créatifs se réunissent – ​​non pas pour se battre plus fort, mais pour construire plus intelligemment, s'élever mutuellement et créer quelque chose qui compte vraiment.",
+      "category": "Sustainability & Green",
       "website": "https://vibeground.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-11T23:53:14.793988+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-12T03:39:07.946089+00:00"
     },
     {
       "name": "ProsperPath",
@@ -155365,10 +155371,13 @@
     {
       "name": "ScooterNexus",
       "slug": "polsia-scooternexus",
+      "description": "The global scooter parts market is worth over $8 billion. But finding\n        the right part from the right seller, across language barriers, is still\n        a nightmare. ScooterNexus fixes that with a curated marketplace built\n        for the community, not Amazon.",
+      "description_fr": "Le marché mondial des pièces détachées pour scooters représente plus de 8 milliards de dollars. Mais trouver\n        la bonne pièce du bon vendeur, au-delà des barrières linguistiques, est toujours\n        un cauchemar. ScooterNexus corrige ce problème avec un marché organisé créé\n        pour la communauté, pas pour Amazon.",
+      "category": "E-Commerce & Retail",
       "website": "https://scooternexus.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-11T23:53:15.729226+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-12T03:39:09.903948+00:00"
     },
     {
       "name": "Plyr — Your Outbound, Automated",
@@ -155421,6 +155430,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-11T23:53:22.139655+00:00"
+    },
+    {
+      "name": "SymmetryOS",
+      "slug": "polsia-symmetryos-2",
+      "website": "https://symmetryos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-12T03:38:53.072187+00:00"
+    },
+    {
+      "name": "Sanctuary — Covenant",
+      "slug": "polsia-covenant",
+      "description": "A holistic community-first ecosystem for sustainable living, regenerative agriculture, and member-owned prosperity.",
+      "description_fr": "Un écosystème holistique axé sur la communauté pour un mode de vie durable, une agriculture régénérative et une prospérité appartenant à ses membres.",
+      "category": "Sustainability & Green",
+      "website": "https://covenant.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T03:38:53.683398+00:00"
+    },
+    {
+      "name": "AndesBridge — Apple Products, Imported Right",
+      "slug": "polsia-andesbridge",
+      "description": "Bringing authentic Apple products from the USA to Venezuela with transparent pricing, reliable supply, and consistent delivery.",
+      "description_fr": "Apporter des produits Apple authentiques des États-Unis au Venezuela avec des prix transparents, un approvisionnement fiable et une livraison cohérente.",
+      "category": "Real Estate",
+      "website": "https://andesbridge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T03:38:55.124330+00:00"
+    },
+    {
+      "name": "IntentPilot",
+      "slug": "polsia-intentpilot",
+      "website": "https://intentpilot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-12T03:38:55.355942+00:00"
+    },
+    {
+      "name": "RepAI — AI Sales Reps for Local Trades",
+      "slug": "polsia-repai-ai",
+      "description": "Checks your calendar, proposes slots, confirms the booking — all without you touching the phone. Sends a text confirmation to the customer automatically.",
+      "description_fr": "Vérifie votre calendrier, propose des créneaux, confirme la réservation, le tout sans que vous touchiez le téléphone. Envoie automatiquement une confirmation par SMS au client.",
+      "category": "AI & Machine Learning",
+      "website": "https://repai-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T03:38:56.224789+00:00"
+    },
+    {
+      "name": "TaskForge — AI Agents That Execute Enterprise Workflows",
+      "slug": "polsia-taskforge-7",
+      "description": "TaskForge builds autonomous AI agents for high-stakes enterprise workflows — legal, finance, compliance, and procurement. Reliability is non-negotiable.",
+      "description_fr": "TaskForge crée des agents d'IA autonomes pour les flux de travail d'entreprise à enjeux élevés : juridique, financier, conformité et achats. La fiabilité n'est pas négociable.",
+      "category": "AI & Machine Learning",
+      "website": "https://taskforge-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T03:38:57.629054+00:00"
+    },
+    {
+      "name": "Kgosi — Everything Local, One App",
+      "slug": "polsia-kgosi",
+      "description": "The all-in-one marketplace, delivery platform, and jobs hub for Zeerust and the greater Lehurutshe region in North West Province, South Africa.",
+      "description_fr": "Le marché tout-en-un, la plateforme de livraison et le centre d'emplois pour Zeerust et la grande région de Lehurutshe, dans la province du Nord-Ouest, en Afrique du Sud.",
+      "category": "Software & SaaS",
+      "website": "https://kgosi.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T03:38:58.951337+00:00"
+    },
+    {
+      "name": "Duet — Co",
+      "slug": "polsia-duet-2",
+      "description": "Premium infrared wellness technology and curated apparel for human and companion — designed together, not separately.",
+      "description_fr": "Technologie de bien-être infrarouge haut de gamme et vêtements sélectionnés pour l'humain et son compagnon, conçus ensemble et non séparément.",
+      "category": "Health & Wellness",
+      "website": "https://duet-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T03:39:00.159063+00:00"
+    },
+    {
+      "name": "RhymeWeave — Rhyming Children's Books with Watercolor Illustrations",
+      "slug": "polsia-rhymeweave",
+      "description": "Watercolor is hard to fake. The bleeding edges, the warm washes, the way light moves through paper — these things take skill. We've spent years tuning our illustration model to understand what makes children's book art feel authentic, not algorithmically generated. The text is the same: rhythmic, warm, structured for the read-aloud cadence that makes a 6-year-old ask for the same book five nights running.",
+      "description_fr": "L’aquarelle est difficile à simuler. Les bords saignants, les lavis chauds, la façon dont la lumière se déplace à travers le papier – ces choses demandent du talent. Nous avons passé des années à peaufiner notre modèle d'illustration pour comprendre ce qui donne l'impression que les illustrations de livres pour enfants sont authentiques et non générées par des algorithmes. Le texte est le même : rythmé, chaleureux, structuré pour la cadence de lecture à haute voix qui fait qu'un enfant de 6 ans demande le même livre cinq soirs de suite.",
+      "category": "Other",
+      "website": "https://rhymeweave.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T03:39:01.742796+00:00"
+    },
+    {
+      "name": "Stasis — Self",
+      "slug": "polsia-stasis",
+      "description": "Most founders spend their days running operations, chasing invoices, managing deliveries. You built something. You should be collecting income — not doing the work of the work.",
+      "description_fr": "La plupart des fondateurs passent leurs journées à gérer les opérations, à courir après les factures et à gérer les livraisons. Vous avez construit quelque chose. Vous devriez percevoir des revenus – et non faire le travail du travail.",
+      "category": "Finance & Fintech",
+      "website": "https://stasis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T03:39:02.579890+00:00"
     }
   ]
 }
