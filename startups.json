@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T04:07:14.367836+00:00",
+  "last_updated": "2026-06-12T08:11:21.873068+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -155432,12 +155432,15 @@
       "scraped_at": "2026-06-11T23:53:22.139655+00:00"
     },
     {
-      "name": "SymmetryOS",
+      "name": "SymmetryOS — Precision Barber Operating System",
       "slug": "polsia-symmetryos-2",
+      "description": "Most barbershops are loud, chaotic, and packed. That's the opposite of what a precision haircut needs. This studio was built around focus — one client at a time, every appointment reserved, every cut given the space to be done right.",
+      "description_fr": "La plupart des salons de coiffure sont bruyants, chaotiques et bondés. C’est le contraire de ce dont a besoin une coupe de cheveux de précision. Ce studio a été construit autour d'une concentration : un client à la fois, chaque rendez-vous réservé, chaque coupe étant donné l'espace à réaliser correctement.",
+      "category": "E-Commerce & Retail",
       "website": "https://symmetryos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-12T03:38:53.072187+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-12T08:11:20.583523+00:00"
     },
     {
       "name": "Sanctuary — Covenant",
@@ -155534,6 +155537,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-12T03:39:02.579890+00:00"
+    },
+    {
+      "name": "Workpulse — Workforce Health, Monitored",
+      "slug": "polsia-workpulse-2",
+      "description": "An AI agent that monitors workforce health and sends your managers one daily alert — the one action that will change everything.",
+      "description_fr": "Un agent IA qui surveille la santé de la main-d'œuvre et envoie à vos managers une alerte quotidienne : la seule action qui va tout changer.",
+      "category": "AI & Machine Learning",
+      "website": "https://workpulse-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T08:11:06.505192+00:00"
+    },
+    {
+      "name": "VibeStudioOS — Operating System for Custom Vibe Studio Co.",
+      "slug": "polsia-vibestudios",
+      "description": "The autonomous operating system that runs Custom Vibe Studio Co. — order tracking, production pipeline, customer comms, growth — all running 24/7.",
+      "description_fr": "Le système d'exploitation autonome qui exécute Custom Vibe Studio Co. (suivi des commandes, pipeline de production, communication avec les clients, croissance), le tout fonctionnant 24h/24 et 7j/7.",
+      "category": "Sales & CRM",
+      "website": "https://vibestudios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T08:11:21.571398+00:00"
+    },
+    {
+      "name": "Found — A Social Network for People Without Homes",
+      "slug": "polsia-found",
+      "description": "Connection, community, and mutual aid — built for people experiencing homelessness.",
+      "description_fr": "Connexion, communauté et entraide – conçues pour les personnes sans abri.",
+      "category": "Social & Community",
+      "website": "https://found.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T08:11:07.648331+00:00"
+    },
+    {
+      "name": "Speyy — Votre vie, simplifiée.",
+      "slug": "polsia-speyyos",
+      "description": "L'assistant IA qui agit dans vos outils, sans effort.Plus qu'un chatbot. Un vrai collaborateur.",
+      "description_fr": "L'assistant IA qui agit dans vos outils, sans effort. Plus qu'un chatbot. Un vrai collaborateur.",
+      "category": "AI & Machine Learning",
+      "website": "https://speyyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T08:11:09.057725+00:00"
+    },
+    {
+      "name": "PayTier — Compensation Intelligence, On Autopilot",
+      "slug": "polsia-paytier",
+      "description": "AI agent that monitors salary bands and compensation data 24/7. Know first when your market moves.",
+      "description_fr": "Agent IA qui surveille les échelles salariales et les données de rémunération 24h/24 et 7j/7. Sachez d’abord quand votre marché évolue.",
+      "category": "AI & Machine Learning",
+      "website": "https://paytier.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T08:11:10.523564+00:00"
+    },
+    {
+      "name": "KazakovantOS — Sell Your Expertise Through Telegram",
+      "slug": "polsia-kazakovantos",
+      "description": "While others debate platform changes, experts are quietly building recurring revenue streams through Telegram. The window is open. The competition is thin. The tools are free.",
+      "description_fr": "Pendant que d’autres débattent des changements de plateforme, les experts créent discrètement des sources de revenus récurrentes via Telegram. La fenêtre est ouverte. La concurrence est mince. Les outils sont gratuits.",
+      "category": "Software & SaaS",
+      "website": "https://kazakovantos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T08:11:12.246636+00:00"
+    },
+    {
+      "name": "RecipeDrip",
+      "slug": "polsia-recipedrip",
+      "website": "https://recipedrip.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-12T08:11:12.516417+00:00"
+    },
+    {
+      "name": "STRDMOS",
+      "slug": "polsia-strdmos",
+      "description": "The artists on your label are releasing music, building audiences, and generating revenue — right now, while everything is tracked in notes, DMs, and tabs you forgot you had open. STRDMOS brings it together. One system. Zero excuses.",
+      "description_fr": "Les artistes de votre label publient de la musique, construisent des audiences et génèrent des revenus – en ce moment même, alors que tout est suivi dans les notes, les DM et les onglets que vous avez oublié d'avoir ouverts. STRDMOS le rassemble. Un système. Zéro excuse.",
+      "category": "Marketing & Advertising",
+      "website": "https://strdmos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T08:11:14.138737+00:00"
+    },
+    {
+      "name": "Haulr",
+      "slug": "polsia-haulr-9",
+      "website": "https://haulr-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-12T08:11:14.243590+00:00"
+    },
+    {
+      "name": "DJN Taxi — Taxi Conventionné Île",
+      "slug": "polsia-djntaxios",
+      "description": "Taxi conventionné CPAM en Île-de-France. Transport médical vers tous les hôpitaux parisiens. Ponctualité, fiabilité, tiers payant.",
+      "description_fr": "Taxi conventionné CPAM en Île-de-France. Transport médical vers tous les hôpitaux parisiens. Ponctualité, fiabilité, niveaux payants.",
+      "category": "Other",
+      "website": "https://djntaxios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T08:11:15.103057+00:00"
     }
   ]
 }
