@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T21:18:34.350668+00:00",
+  "last_updated": "2026-06-12T22:51:48.200169+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -156182,6 +156182,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-12T21:18:25.155753+00:00"
+    },
+    {
+      "name": "LocalLeadHQ",
+      "slug": "polsia-localleadhq",
+      "website": "https://localleadhq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-12T22:51:19.226725+00:00"
+    },
+    {
+      "name": "OnTheWater — Local Intel for Anglers",
+      "slug": "polsia-onthewater",
+      "description": "It comes from the local who's fished the same water every weekend for fifteen years. The one who knows when the bass move, where the perch stack up after a cold front, and why the north end of the lake always produces in October.",
+      "description_fr": "Il vient du local qui pêche dans la même eau tous les week-ends depuis quinze ans. Celui qui sait quand les bars bougent, où les perches s'empilent après un front froid et pourquoi l'extrémité nord du lac produit toujours en octobre.",
+      "category": "Other",
+      "website": "https://onthewater.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T22:51:20.026976+00:00"
+    },
+    {
+      "name": "Warfleet — Autonomous Warship Fleet Command",
+      "slug": "polsia-warfleet",
+      "description": "Your fleet keeps fighting whether you're watching or not. With Warfleet, it fights smarter — autonomously leveling up, winning battles, and building power while you live your life.",
+      "description_fr": "Votre flotte continue de se battre, que vous la regardiez ou non. Avec Warfleet, vous combattez plus intelligemment : montez de niveau de manière autonome, gagnez des batailles et développez votre puissance pendant que vous vivez votre vie.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://warfleet.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T22:51:21.145473+00:00"
+    },
+    {
+      "name": "RegLensOS",
+      "slug": "polsia-reglensos",
+      "website": "https://reglensos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-12T22:51:21.924900+00:00"
+    },
+    {
+      "name": "BulletOS — The OS for Bullet.so",
+      "slug": "polsia-bullet",
+      "description": "Your company's command center. Run Bullet.so with AI agents that work 24/7.",
+      "description_fr": "Le centre de commandement de votre entreprise. Exécutez Bullet.so avec des agents IA qui fonctionnent 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://bullet.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T22:51:23.364794+00:00"
+    },
+    {
+      "name": "ClearOps Federal",
+      "slug": "polsia-clearops-federal",
+      "description": "Veterans. Small businesses. SDVOSB. The government has mandatory spending goals for each. Contracting officers are actively looking for qualified small and veteran-owned firms. The problem isn't demand — it's supply of qualified bidders.",
+      "description_fr": "Anciens combattants. Petites entreprises. SDVOSB. Le gouvernement a des objectifs de dépenses obligatoires pour chacun. Les agents de négociation des contrats recherchent activement des petites entreprises qualifiées et appartenant à des vétérans. Le problème n’est pas la demande, mais l’offre de soumissionnaires qualifiés.",
+      "category": "Other",
+      "website": "https://clearops-federal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T22:51:30.386581+00:00"
+    },
+    {
+      "name": "Beacon — Work That Moves Itself",
+      "slug": "polsia-beaconai-7",
+      "description": "An autonomous AI agent that monitors your tasks, chases blockers, and reports progress — every morning without you touching anything.",
+      "description_fr": "Un agent IA autonome qui surveille vos tâches, traque les bloqueurs et rapporte les progrès, chaque matin sans que vous touchiez à quoi que ce soit.",
+      "category": "AI & Machine Learning",
+      "website": "https://beaconai-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T22:51:32.046060+00:00"
+    },
+    {
+      "name": "ScoutSignal",
+      "slug": "polsia-scoutsignal-3",
+      "website": "https://scoutsignal-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-12T22:51:32.550065+00:00"
+    },
+    {
+      "name": "ShiftBoard — Live Fantasy Football, Every Platform",
+      "slug": "polsia-shiftboard",
+      "description": "Manage your fantasy football lineups live across ESPN, Yahoo, CBS, and every platform you play on. One view. Every league. Zero juggling.",
+      "description_fr": "Gérez vos équipes de football Fantasy en direct sur ESPN, Yahoo, CBS et toutes les plateformes sur lesquelles vous jouez. Une vue. Chaque ligue. Zéro jonglerie.",
+      "category": "Software & SaaS",
+      "website": "https://shiftboard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T22:51:34.222087+00:00"
+    },
+    {
+      "name": "WordForge AI — Autonomous Content, On Brand, At Scale",
+      "slug": "polsia-wordforge-ai",
+      "description": "You know you need more content. But every piece requires a brief, a draft, a rewrite, an approval, a publish — and by the time it's live, you're already behind. Your team is exhausted. Your calendar is empty. Your competitors are publishing twice a week while you're still waiting on the third revision.",
+      "description_fr": "Vous savez que vous avez besoin de plus de contenu. Mais chaque article nécessite un brief, une ébauche, une réécriture, une approbation, une publication – et au moment où il est en ligne, vous êtes déjà en retard. Votre équipe est épuisée. Votre calendrier est vide. Vos concurrents publient deux fois par semaine alors que vous attendez toujours la troisième révision.",
+      "category": "AI & Machine Learning",
+      "website": "https://wordforge-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T22:51:36.114123+00:00"
     }
   ]
 }
