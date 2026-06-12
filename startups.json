@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T17:32:32.847775+00:00",
+  "last_updated": "2026-06-12T19:32:42.295269+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -155860,36 +155860,48 @@
       "scraped_at": "2026-06-12T14:51:30.915149+00:00"
     },
     {
-      "name": "Luxe Axis",
+      "name": "Luxe Axis — Autonomous Commerce",
       "slug": "polsia-luxeaxis",
+      "description": "The future of commerce belongs to operators who can build systems that outperform them. Luxe Axis is built for that future — three engines working as one, generating revenue around the clock.",
+      "description_fr": "L’avenir du commerce appartient aux opérateurs capables de construire des systèmes plus performants qu’eux. Luxe Axis est construit pour cet avenir : trois moteurs fonctionnant en un seul, générant des revenus 24 heures sur 24.",
+      "category": "Other",
       "website": "https://luxeaxis.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-12T17:32:10.605913+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:35.215325+00:00"
     },
     {
-      "name": "SyncStackOS",
+      "name": "SyncStackOS — Operating System for Dev Agencies",
       "slug": "polsia-syncstackos",
+      "description": "Most dev agency founders spend 60% of their time managing information flow — chasing updates, answering status questions, writing proposals, reviewing timesheets. That's time not spent on building, selling, or growing.",
+      "description_fr": "La plupart des fondateurs d'agences de développement passent 60 % de leur temps à gérer le flux d'informations : rechercher des mises à jour, répondre à des questions de statut, rédiger des propositions, examiner des feuilles de temps. C'est du temps non consacré à la construction, à la vente ou à la croissance.",
+      "category": "Consulting & Services",
       "website": "https://syncstackos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-12T17:32:10.959837+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:36.964917+00:00"
     },
     {
-      "name": "Elevant Advisory",
+      "name": "TrueNorth Partners Consulting — Strategic Advisory for Growing Businesses",
       "slug": "polsia-elevantadvisory",
+      "description": "TrueNorth Partners Consulting provides strategic advisory services that help businesses overcome challenges, optimize operations, and achieve sustainable growth.",
+      "description_fr": "TrueNorth Partners Consulting fournit des services de conseil stratégique qui aident les entreprises à surmonter les défis, à optimiser leurs opérations et à atteindre une croissance durable.",
+      "category": "Consulting & Services",
       "website": "https://elevantadvisory.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-12T17:32:11.224592+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:37.953085+00:00"
     },
     {
-      "name": "KobiOS",
+      "name": "AstroKobi — Exploring the Universe",
       "slug": "polsia-kobios",
+      "description": "Science communicator and space enthusiast exploring the cosmos.",
+      "description_fr": "Communicateur scientifique et passionné de l'espace explorant le cosmos.",
+      "category": "Other",
       "website": "https://kobios.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-12T17:32:11.629562+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:38.494350+00:00"
     },
     {
       "name": "ZenthOS — Operating System for ZENTH Consulting",
@@ -155914,12 +155926,15 @@
       "scraped_at": "2026-06-12T17:32:32.427421+00:00"
     },
     {
-      "name": "CareBridgeOS",
+      "name": "CareBridgeOS — Operating System for CareBridge Consulting",
       "slug": "polsia-carebridgeos",
+      "description": "The autonomous operating layer for a consulting firm that serves care-focused organizations.",
+      "description_fr": "La couche opérationnelle autonome pour un cabinet de conseil au service des organisations axées sur les soins.",
+      "category": "Consulting & Services",
       "website": "https://carebridgeos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-12T17:32:13.803153+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:39.195465+00:00"
     },
     {
       "name": "GezondInvesteren — Gezondheid als de beste investering",
@@ -155944,12 +155959,119 @@
       "scraped_at": "2026-06-12T17:32:15.651040+00:00"
     },
     {
-      "name": "ApexIQ",
+      "name": "ApexIQ — AI Automation for Local Businesses",
       "slug": "polsia-apexiq-8",
+      "description": "ApexIQ builds and runs AI automation systems for local businesses — chatbots that capture leads, book appointments, and follow up automatically. Retainers from $1,500/month.",
+      "description_fr": "ApexIQ construit et exécute des systèmes d'automatisation de l'IA pour les entreprises locales : des chatbots qui capturent des prospects, prennent des rendez-vous et effectuent un suivi automatiquement. Acomptes à partir de 1 500 $/mois.",
+      "category": "AI & Machine Learning",
       "website": "https://apexiq-8.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:41.025263+00:00"
+    },
+    {
+      "name": "RemoteJobs44OS",
+      "slug": "polsia-remotejobs44os",
+      "website": "https://remotejobs44os.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-06-12T17:32:15.933044+00:00"
+      "scraped_at": "2026-06-12T19:32:18.882513+00:00"
+    },
+    {
+      "name": "Mentrix — The AI Physics & Math Tutor That Works While You Sleep",
+      "slug": "polsia-mentrix",
+      "description": "The gap between students who get 1-on-1 tutoring and those who don't isn't about intelligence. It's about access. About who can afford $80/hr every week. About who has a parent who can sit beside them at 10pm and help.",
+      "description_fr": "L'écart entre les étudiants qui bénéficient d'un tutorat individuel et ceux qui n'en bénéficient pas n'est pas une question d'intelligence. C'est une question d'accès. À propos de qui peut se permettre 80 $/heure chaque semaine. À propos de qui a un parent qui peut s'asseoir à côté d'eux à 22 heures et les aider.",
+      "category": "AI & Machine Learning",
+      "website": "https://mentrix.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:19.896874+00:00"
+    },
+    {
+      "name": "ClipForge — AI",
+      "slug": "polsia-clipforge-249679",
+      "description": "Traditional agencies take weeks and charge thousands per video. You need content every week to stay relevant — not one expensive piece that goes stale. ClipForge delivers consistent short-form video at a flat monthly rate, powered by AI, so you can stay in front of your audience without breaking the bank.",
+      "description_fr": "Les agences traditionnelles prennent des semaines et facturent des milliers de dollars par vidéo. Vous avez besoin de contenu chaque semaine pour rester pertinent, et non d'un élément coûteux qui devient obsolète. ClipForge propose des vidéos courtes et cohérentes à un tarif mensuel forfaitaire, alimentées par l'IA, afin que vous puissiez rester devant votre public sans vous ruiner.",
+      "category": "AI & Machine Learning",
+      "website": "https://clipforge-249679.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:21.604767+00:00"
+    },
+    {
+      "name": "KamologyOS — Operating System for Kamology",
+      "slug": "polsia-kamologyos",
+      "description": "Kamology built a reputation on word of mouth, premium tech, and flawless execution.\n      KamologyOS gives that reputation legs — automating the business side so the creative side never has to wait.",
+      "description_fr": "Kamology s'est bâti une réputation grâce au bouche à oreille, à une technologie haut de gamme et à une exécution sans faille.\n      KamologyOS donne du poids à cette réputation en automatisant le côté commercial afin que le côté créatif n'ait jamais à attendre.",
+      "category": "Other",
+      "website": "https://kamologyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:23.209976+00:00"
+    },
+    {
+      "name": "DevRadar — Autonomous Developer Recruiting",
+      "slug": "polsia-devradar-2",
+      "description": "DevRadar keeps the pipeline full while you focus on the candidates who actually matter — the ones who are already in the door, pre-qualified, and ready to talk.",
+      "description_fr": "DevRadar maintient le pipeline plein pendant que vous vous concentrez sur les candidats qui comptent réellement : ceux qui sont déjà à la porte, pré-qualifiés et prêts à parler.",
+      "category": "Sales & CRM",
+      "website": "https://devradar-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:24.359799+00:00"
+    },
+    {
+      "name": "PathPick — Your Business, Picked",
+      "slug": "polsia-pathpick",
+      "description": "PathPick is a decision engine for teen entrepreneurs. Answer three questions. Get a ranked recommendation with real income math — not vague inspiration. Pick the business that fits your age, location, and starting cash.",
+      "description_fr": "PathPick est un moteur de décision destiné aux adolescents entrepreneurs. Répondez à trois questions. Obtenez une recommandation classée avec des calculs de revenus réels – et non une vague inspiration. Choisissez l'entreprise qui correspond à votre âge, à votre emplacement et à votre argent de départ.",
+      "category": "Sustainability & Green",
+      "website": "https://pathpick.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:42.185737+00:00"
+    },
+    {
+      "name": "WildBloom — Audience First, Products Second",
+      "slug": "polsia-wildbloom-4",
+      "description": "WildBloom flips that. We build real communities around the things people love, from morning trail runs to weekend garden projects, from training their dog to organizing their home. When trust is the foundation, products sell themselves.",
+      "description_fr": "WildBloom retourne cela. Nous construisons de véritables communautés autour des choses que les gens aiment, des courses matinales aux projets de jardinage du week-end, du dressage de leur chien à l'organisation de leur maison. Lorsque la confiance est la base, les produits se vendent tout seuls.",
+      "category": "Education",
+      "website": "https://wildbloom-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:25.804888+00:00"
+    },
+    {
+      "name": "Lura — AI Skincare Agent for Melanin",
+      "slug": "polsia-lura-2",
+      "description": "Africa's beauty market is the fastest-growing in the world. But when it comes to AI — the tools that claim to understand your skin — most were trained on lighter skin tones. Lura was trained specifically on melanin-rich skin data, drawing from African botanicals, clinical research, and real-world outcomes across the continent.",
+      "description_fr": "Le marché africain de la beauté est celui qui connaît la croissance la plus rapide au monde. Mais en ce qui concerne l’IA – les outils qui prétendent comprendre votre peau – la plupart ont été formés sur des tons chair plus clairs. Lura a été formée spécifiquement sur les données sur la peau riche en mélanine, en s'appuyant sur des plantes africaines, des recherches cliniques et des résultats réels à travers le continent.",
+      "category": "AI & Machine Learning",
+      "website": "https://lura-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:27.286472+00:00"
+    },
+    {
+      "name": "MerchAgent",
+      "slug": "polsia-merchagent-2",
+      "website": "https://merchagent-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-12T19:32:27.645614+00:00"
+    },
+    {
+      "name": "PagerPulse — Your always",
+      "slug": "polsia-pagerpulse",
+      "description": "No sleeping, no lunch breaks, no context switching. PagerPulse investigates every alert around the clock, immediately, in parallel. When your on-call engineer wakes up, the incident is already resolved.",
+      "description_fr": "Pas de sommeil, pas de pause déjeuner, pas de changement de contexte. PagerPulse étudie chaque alerte 24 heures sur 24, immédiatement et en parallèle. Lorsque votre ingénieur d'astreinte se réveille, l'incident est déjà résolu.",
+      "category": "Entertainment & Media",
+      "website": "https://pagerpulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T19:32:28.607490+00:00"
     }
   ]
 }
