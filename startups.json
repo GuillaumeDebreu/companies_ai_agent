@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T10:15:36.100463+00:00",
+  "last_updated": "2026-06-12T11:53:25.281772+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -155624,12 +155624,15 @@
       "scraped_at": "2026-06-12T08:11:14.138737+00:00"
     },
     {
-      "name": "Haulr",
+      "name": "Haulr — The AI Dispatch Agent for Small Carriers",
       "slug": "polsia-haulr-9",
+      "description": "Haulr autonomously matches loads, assigns drivers, and handles compliance for small trucking carriers. No dashboard to check. It just runs.",
+      "description_fr": "Haulr associe de manière autonome les charges, attribue des chauffeurs et gère la conformité pour les petits transporteurs routiers. Aucun tableau de bord à vérifier. Il fonctionne simplement.",
+      "category": "AI & Machine Learning",
       "website": "https://haulr-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-12T08:11:14.243590+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-12T11:53:24.783747+00:00"
     },
     {
       "name": "DJN Taxi — Taxi Conventionné Île",
@@ -155641,6 +155644,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-12T08:11:15.103057+00:00"
+    },
+    {
+      "name": "CallStack",
+      "slug": "polsia-callstack-8",
+      "website": "https://callstack-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-12T11:53:07.084212+00:00"
+    },
+    {
+      "name": "Momentum",
+      "slug": "polsia-momentum-app",
+      "website": "https://momentum-app.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-12T11:53:07.444379+00:00"
+    },
+    {
+      "name": "Climasift",
+      "slug": "polsia-climasift",
+      "website": "https://climasift.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-12T11:53:07.739293+00:00"
+    },
+    {
+      "name": "Klear — Automatisation IA pour PME",
+      "slug": "polsia-klear",
+      "description": "Nous construisons les workflows qui changent cette equation — pour les artisans, les agents, les comptables. Pas de solution genrique. Pas de chatbot zero. Chaque automatisation est concue pour votre metier.",
+      "description_fr": "Nous construisons les workflows qui changent cette équation — pour les artisans, les agents, les comptables. Pas de solution générique. Pas de chatbot zéro. Chaque automatisation est concue pour votre métier.",
+      "category": "AI & Machine Learning",
+      "website": "https://klear.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T11:53:08.909296+00:00"
+    },
+    {
+      "name": "WASTR — Smart waste collection. Everywhere.",
+      "slug": "polsia-wastros",
+      "description": "Scan your waste. See the price. Get it picked up. WASTR makes on-demand waste collection effortless.",
+      "description_fr": "Scannez vos déchets. Voir le prix. Faites-le récupérer. WASTR facilite la collecte des déchets à la demande.",
+      "category": "Other",
+      "website": "https://wastros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T11:53:10.269051+00:00"
+    },
+    {
+      "name": "RadarHQ — The AI Agent That Watches Your Competitors 24/7",
+      "slug": "polsia-radarhq-2",
+      "description": "RadarHQ is an autonomous AI agent that monitors your competitors around the clock and alerts you the moment the market shifts. No manual research. No missed signals.",
+      "description_fr": "RadarHQ est un agent d'IA autonome qui surveille vos concurrents 24 heures sur 24 et vous alerte dès que le marché évolue. Aucune recherche manuelle. Aucun signal manqué.",
+      "category": "AI & Machine Learning",
+      "website": "https://radarhq-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T11:53:11.452290+00:00"
+    },
+    {
+      "name": "The AGI Guide — Track Progress Toward Human",
+      "slug": "polsia-agiguideos",
+      "description": "The most rigorous AGI timeline tracker on the internet. Expert forecasts, benchmark data, and milestone tracking — all in one place.",
+      "description_fr": "Le tracker de chronologie AGI le plus rigoureux sur Internet. Prévisions d'experts, données de référence et suivi des jalons, le tout au même endroit.",
+      "category": "Other",
+      "website": "https://agiguideos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T11:53:12.205010+00:00"
+    },
+    {
+      "name": "FlowAI — Autonomous Embedded Finance",
+      "slug": "polsia-flowai-4",
+      "description": "Every embedded finance stack needs the same expensive things: a compliance team, a fraud analyst, a KYC specialist, a disputes handler. The APIs are cheap. The humans aren't. And they don't scale at 3am.",
+      "description_fr": "Chaque pile financière intégrée nécessite les mêmes éléments coûteux : une équipe de conformité, un analyste de la fraude, un spécialiste KYC, un gestionnaire de litiges. Les API sont bon marché. Les humains ne le sont pas. Et ils ne évoluent pas à 3 heures du matin.",
+      "category": "Software & SaaS",
+      "website": "https://flowai-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T11:53:13.651198+00:00"
+    },
+    {
+      "name": "Verdure — Premium Plants from Alsace",
+      "slug": "polsia-verdure-plants",
+      "description": "Alsace sits at the crossroads of France, Germany, and Switzerland — a region shaped by viticulture, horticulture, and a culture that takes craft seriously. Verdure was born from this.",
+      "description_fr": "L'Alsace se situe au carrefour de la France, de l'Allemagne et de la Suisse, une région façonnée par la viticulture, l'horticulture et une culture qui prend l'artisanat au sérieux. Verdure est née de là.",
+      "category": "Other",
+      "website": "https://verdure-plants.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T11:53:15.350284+00:00"
+    },
+    {
+      "name": "SofalaOS — The Entrepreneur's OS for Africa",
+      "slug": "polsia-sofalaos",
+      "description": "Sofala was the name of the greatest trading port on the East African coast — a place where Africa connected with the world centuries before anyone used the word 'startup'.",
+      "description_fr": "Sofala était le nom du plus grand port commercial de la côte est-africaine – un endroit où l'Afrique était en contact avec le monde des siècles avant que quiconque n'utilise le mot « startup ».",
+      "category": "Finance & Fintech",
+      "website": "https://sofalaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T11:53:16.837572+00:00"
     }
   ]
 }
