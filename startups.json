@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T20:13:07.144570+00:00",
+  "last_updated": "2026-06-12T21:18:34.350668+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -155970,12 +155970,15 @@
       "scraped_at": "2026-06-12T19:32:41.025263+00:00"
     },
     {
-      "name": "RemoteJobs44OS",
+      "name": "RemoteJobs44 — The World's Jobs, From Africa",
       "slug": "polsia-remotejobs44os",
+      "description": "Search over 70,000 verified remote jobs worldwide. Built for African talent seeking global opportunities.",
+      "description_fr": "Recherchez plus de 70 000 emplois à distance vérifiés dans le monde. Conçu pour les talents africains à la recherche d’opportunités mondiales.",
+      "category": "Other",
       "website": "https://remotejobs44os.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-12T19:32:18.882513+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-12T21:18:32.677509+00:00"
     },
     {
       "name": "Mentrix — The AI Physics & Math Tutor That Works While You Sleep",
@@ -156072,6 +156075,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-12T19:32:28.607490+00:00"
+    },
+    {
+      "name": "StackFlow",
+      "slug": "polsia-stackflow-51",
+      "website": "https://stackflow-51.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-12T21:18:16.168959+00:00"
+    },
+    {
+      "name": "postpilo",
+      "slug": "polsia-postpilo-3",
+      "description": "Every day your social media sits empty is a day a potential customer scrolls right past your business. PostPilo changes that.",
+      "description_fr": "Chaque jour où vos réseaux sociaux restent vides est un jour où un client potentiel passe devant votre entreprise. PostPilo change cela.",
+      "category": "Marketing & Advertising",
+      "website": "https://postpilo-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T21:18:34.347340+00:00"
+    },
+    {
+      "name": "VillageHubOS — Community Resilience Operating System",
+      "slug": "polsia-villagehubos",
+      "description": "Not a stripped-down version. Not a WhatsApp group. A real system — built for where the A1 feels like a motorway and the post office is the town centre.",
+      "description_fr": "Pas une version allégée. Pas un groupe WhatsApp. Un véritable système, conçu pour que l'A1 ressemble à une autoroute et que la poste soit le centre-ville.",
+      "category": "Social & Community",
+      "website": "https://villagehubos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T21:18:17.652507+00:00"
+    },
+    {
+      "name": "Finflow",
+      "slug": "polsia-finflow-6",
+      "description": "Finflow exists to give every small business owner their time back.\n      Your books are handled. Every day. Every transaction. Every deadline.\n      You focus on building — not balancing.",
+      "description_fr": "Finflow existe pour redonner du temps à chaque propriétaire de petite entreprise.\n      Vos livres sont traités. Tous les jours. Chaque transaction. Chaque date limite.\n      Vous vous concentrez sur la construction et non sur l’équilibrage.",
+      "category": "Other",
+      "website": "https://finflow-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T21:18:18.596247+00:00"
+    },
+    {
+      "name": "NetFlowOS — Operating System for Network Ops",
+      "slug": "polsia-netflowos",
+      "description": "Every minute your DNS is down, your users can't work. Every DHCP conflict costs hours of debugging. Every unmanaged IP is a potential security gap. NetFlowOS exists so the infrastructure that powers everything else never fails — and when it does, you know about it before your users do.",
+      "description_fr": "Chaque minute où votre DNS tombe en panne, vos utilisateurs ne peuvent plus travailler. Chaque conflit DHCP coûte des heures de débogage. Chaque adresse IP non gérée constitue une faille de sécurité potentielle. NetFlowOS existe pour que l'infrastructure qui alimente tout le reste ne tombe jamais en panne – et lorsque cela se produit, vous le savez avant vos utilisateurs.",
+      "category": "Social & Community",
+      "website": "https://netflowos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T21:18:19.798823+00:00"
+    },
+    {
+      "name": "ArtDrop — Curated Digital Wall Art",
+      "slug": "polsia-artdrop-8",
+      "description": "Most digital art stores leave you scrolling. ArtDrop's AI knows every piece in the collection —\n        what sizes it comes in, what rooms it works for, what color palettes it pairs with.\n        Ask it anything: \"I have a cream sofa, what works above it?\" or \"I need something calming for the nursery.\"\n        It narrows the search, shows you options, and answers your questions instantly.",
+      "description_fr": "La plupart des magasins d'art numérique vous laissent faire défiler. L'IA d'ArtDrop connaît chaque pièce de la collection —\n        quelles sont ses tailles, dans quelles pièces il fonctionne, avec quelles palettes de couleurs il s'associe.\n        Demandez-lui n'importe quoi : « J'ai un canapé crème, qu'est-ce qui fonctionne au-dessus ? ou \"J'ai besoin de quelque chose d'apaisant pour la crèche.\"\n        Il affine la recherche, vous montre les options et répond instantanément à vos questions.",
+      "category": "AI & Machine Learning",
+      "website": "https://artdrop-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T21:18:20.767627+00:00"
+    },
+    {
+      "name": "KeenAI — Autonomous Fantasy Sports Agent",
+      "slug": "polsia-keenai",
+      "description": "AI agents that monitor your fantasy sports portfolio 24/7 — alert, rebalance, and optimize while you sleep.",
+      "description_fr": "Des agents d'IA qui surveillent votre portefeuille de sports fantastiques 24h/24 et 7j/7 : alertez, rééquilibrez et optimisez pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://keenai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T21:18:21.933021+00:00"
+    },
+    {
+      "name": "Rout Free OS",
+      "slug": "polsia-routfreeos",
+      "description": "Rout Free is an adventure content and commerce brand built for the kind of person who packs the van, checks the tides, and goes anyway. This OS runs it all.",
+      "description_fr": "Rout Free est une marque de contenu et de commerce d'aventure conçue pour le genre de personne qui prépare la camionnette, vérifie les marées et part quand même. Ce système d'exploitation gère tout.",
+      "category": "Marketing & Advertising",
+      "website": "https://routfreeos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T21:18:22.920464+00:00"
+    },
+    {
+      "name": "GrowthLayer — AI Agents for Local Service Businesses",
+      "slug": "polsia-growthlayeros",
+      "description": "Sarah is trained on your services, pricing, and FAQs. She handles the conversation \n        end-to-end — capturing the lead, qualifying the job, and locking in the appointment — \n        without a single manual touch.",
+      "description_fr": "Sarah est formée sur vos services, vos tarifs et vos FAQ. Elle gère la conversation \n        de bout en bout – capturer le prospect, qualifier le poste et verrouiller le rendez-vous – \n        sans une seule touche manuelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://growthlayeros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T21:18:23.983914+00:00"
+    },
+    {
+      "name": "Automata — AI Automation Agency",
+      "slug": "polsia-automata-9",
+      "description": "We build AI workflows, chatbots, and automation systems that cut 20+ hours of manual work per week for businesses. Retainers from €2,000/month.",
+      "description_fr": "Nous construisons des flux de travail d'IA, des chatbots et des systèmes d'automatisation qui réduisent plus de 20 heures de travail manuel par semaine pour les entreprises. Acompte à partir de 2 000 €/mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://automata-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-12T21:18:25.155753+00:00"
     }
   ]
 }
