@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T14:02:43.783237+00:00",
+  "last_updated": "2026-06-13T14:32:41.963651+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -156722,12 +156722,15 @@
       "scraped_at": "2026-06-13T10:42:21.477562+00:00"
     },
     {
-      "name": "Riftline",
+      "name": "Riftline — Workforce Intelligence for the AI Era",
       "slug": "polsia-riftline-2",
+      "description": "Riftline maps your workforce's actual capabilities against the roles you'll need in 18 months. Auto-generates learning paths. Predicts attrition 6 months out. Gives CHROs a single view to act before the disruption becomes a liability.",
+      "description_fr": "Riftline compare les capacités réelles de votre personnel aux rôles dont vous aurez besoin dans 18 mois. Génère automatiquement des parcours d'apprentissage. Prédit l’attrition dans 6 mois. Donne aux CHRO une vision unique pour agir avant que la perturbation ne devienne un handicap.",
+      "category": "AI & Machine Learning",
       "website": "https://riftline-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-13T12:16:57.988452+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-13T14:32:41.711325+00:00"
     },
     {
       "name": "Worth Eating — Food discovery for people who actually eat",
@@ -156827,6 +156830,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-13T12:17:13.697624+00:00"
+    },
+    {
+      "name": "GlowKit — Your Glow Up, In One Place",
+      "slug": "polsia-glowkit-4",
+      "description": "Digital planners, courses, and community for the girl who's ready to become unrecognizable.",
+      "description_fr": "Planificateurs numériques, cours et communauté pour la fille prête à devenir méconnaissable.",
+      "category": "Education",
+      "website": "https://glowkit-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T14:32:19.085778+00:00"
+    },
+    {
+      "name": "Pilota",
+      "slug": "polsia-pilota-2",
+      "website": "https://pilota-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-13T14:32:19.532161+00:00"
+    },
+    {
+      "name": "Clocksmith — AI for Trades",
+      "slug": "polsia-clocksmith",
+      "description": "AI automation agency for plumbers, electricians, roofers and trades businesses. Answers calls, books jobs, follows up leads. £500/month.",
+      "description_fr": "Agence d'automatisation de l'IA pour les plombiers, électriciens, couvreurs et entreprises artisanales. Répond aux appels, réserve les travaux, assure le suivi des pistes. 500 £/mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://clocksmith.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T14:32:21.382057+00:00"
+    },
+    {
+      "name": "WorkBot — AI Automation for SMBs",
+      "slug": "polsia-workbot-automation",
+      "description": "WorkBot builds and runs your AI workflows — customer support, lead response, appointment booking, and data entry — so you stop drowning in repetitive tasks and focus on growing the business.",
+      "description_fr": "WorkBot crée et exécute vos flux de travail d'IA (assistance client, réponse aux prospects, prise de rendez-vous et saisie de données) afin que vous cessiez de vous noyer dans des tâches répétitives et que vous vous concentriez sur la croissance de votre entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://workbot-automation.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T14:32:23.227649+00:00"
+    },
+    {
+      "name": "CatalogCraft — The Catalog Employee You Never Have to Manage",
+      "slug": "polsia-catalogcraft",
+      "description": "CatalogCraft is an autonomous AI agent that writes your product descriptions, generates images, handles SEO, and keeps your Shopify catalog fresh — 24/7, while you sleep.",
+      "description_fr": "CatalogCraft est un agent d'IA autonome qui rédige vos descriptions de produits, génère des images, gère le référencement et maintient votre catalogue Shopify à jour, 24 heures sur 24, 7 jours sur 7, pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://catalogcraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T14:32:24.544299+00:00"
+    },
+    {
+      "name": "Equitable — AI for DEI Teams",
+      "slug": "polsia-equitable-ai-3",
+      "description": "Equitable monitors employee climate, runs programs, flags emerging risks, and reports to leadership — autonomously, around the clock. While your DEI team focuses on what matters most.",
+      "description_fr": "Equitable surveille le climat des employés, gère des programmes, signale les risques émergents et rend compte à la direction, de manière autonome, 24 heures sur 24. Pendant que votre équipe DEI se concentre sur ce qui compte le plus.",
+      "category": "AI & Machine Learning",
+      "website": "https://equitable-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T14:32:25.248522+00:00"
+    },
+    {
+      "name": "Flowsmith — AI Agents for Local Businesses",
+      "slug": "polsia-flowsmith-12",
+      "description": "AI voice agents that answer calls, book appointments, and qualify leads — so local businesses never miss a customer.",
+      "description_fr": "Des agents vocaux IA qui répondent aux appels, prennent des rendez-vous et qualifient les prospects, afin que les entreprises locales ne manquent jamais un client.",
+      "category": "AI & Machine Learning",
+      "website": "https://flowsmith-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T14:32:26.788361+00:00"
+    },
+    {
+      "name": "HillmanOS — Operating System for Frontier Biotech",
+      "slug": "polsia-hillmanos",
+      "description": "HillmanOS brings regulatory milestone tracking, advisory engagement pipelines, and multi-property portfolio management into a single authoritative surface. Built for FDA-regulated biologics. Built for long horizons.",
+      "description_fr": "HillmanOS regroupe le suivi des jalons réglementaires, les pipelines d'engagement consultatif et la gestion de portefeuille multi-propriétés dans une seule surface faisant autorité. Conçu pour les produits biologiques réglementés par la FDA. Construit pour de longs horizons.",
+      "category": "AI & Machine Learning",
+      "website": "https://hillmanos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T14:32:28.639900+00:00"
+    },
+    {
+      "name": "Pitch — Your AI Job Search Agent",
+      "slug": "polsia-pitch-work",
+      "description": "Professionals who used Pitchlanded their first interview\n          in under two weeks— after months of silence with manual applications.\n          The difference isn't their resume. It's the consistency.",
+      "description_fr": "Les professionnels qui ont utilisé Pitchland ont réalisé leur premier entretien\n          en moins de deux semaines, après des mois de silence avec les applications manuelles.\n          La différence n'est pas leur CV. C'est la cohérence.",
+      "category": "AI & Machine Learning",
+      "website": "https://pitch-work.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T14:32:30.264044+00:00"
+    },
+    {
+      "name": "Sidekick — AI Meeting Agent",
+      "slug": "polsia-sidekick-3",
+      "description": "Sidekick is built for the era of the autonomous employee. Not a chatbot that answers questions. An AI that shows up, does the work, and reports back.",
+      "description_fr": "Sidekick est conçu pour l’ère de l’employé autonome. Pas un chatbot qui répond aux questions. Une IA qui apparaît, fait le travail et rend compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://sidekick-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T14:32:31.971293+00:00"
     }
   ]
 }
