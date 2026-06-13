@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T22:51:48.200169+00:00",
+  "last_updated": "2026-06-13T00:14:00.302635+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -156184,12 +156184,15 @@
       "scraped_at": "2026-06-12T21:18:25.155753+00:00"
     },
     {
-      "name": "LocalLeadHQ",
+      "name": "LocalLeadHQ — Exclusive Leads for Home Service Businesses",
       "slug": "polsia-localleadhq",
+      "description": "Lead generation agency for roofers, landscapers, painters, plumbers and more. We pick the niche, build the marketing, and deliver exclusive leads — every month.",
+      "description_fr": "Agence de génération de leads pour couvreurs, paysagistes, peintres, plombiers et plus encore. Nous choisissons le créneau, construisons le marketing et fournissons des prospects exclusifs, chaque mois.",
+      "category": "Marketing & Advertising",
       "website": "https://localleadhq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-12T22:51:19.226725+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-13T00:13:58.079623+00:00"
     },
     {
       "name": "OnTheWater — Local Intel for Anglers",
@@ -156214,12 +156217,15 @@
       "scraped_at": "2026-06-12T22:51:21.145473+00:00"
     },
     {
-      "name": "RegLensOS",
+      "name": "RegLens",
       "slug": "polsia-reglensos",
+      "description": "Built on published standards digitalization research, not just NLP wrappers on government RSS feeds. The methodology behind the models comes from peer-reviewed work on TBOE maturity assessment and digital transformation of standards.",
+      "description_fr": "Construit sur la recherche sur la numérisation des normes publiées, et pas seulement sur les wrappers NLP sur les flux RSS du gouvernement. La méthodologie derrière les modèles provient de travaux évalués par des pairs sur l'évaluation de la maturité TBOE et la transformation numérique des normes.",
+      "category": "Other",
       "website": "https://reglensos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-12T22:51:21.924900+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-13T00:13:59.260356+00:00"
     },
     {
       "name": "BulletOS — The OS for Bullet.so",
@@ -156283,6 +156289,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-12T22:51:36.114123+00:00"
+    },
+    {
+      "name": "Firepulse",
+      "slug": "polsia-firepulse",
+      "website": "https://firepulse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-13T00:13:38.733519+00:00"
+    },
+    {
+      "name": "Nodel",
+      "slug": "polsia-nodel-ai",
+      "website": "https://nodel-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-13T00:13:39.129410+00:00"
+    },
+    {
+      "name": "BeatForge",
+      "slug": "polsia-beatforge-14",
+      "website": "https://beatforge-14.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-13T00:13:39.543132+00:00"
+    },
+    {
+      "name": "FrameRate Studios — Premium Mobile Content Booth",
+      "slug": "polsia-frameratestudios",
+      "description": "360 video booth, red carpet photos, instant short-form clips, and event recap reels. I make your event look like it mattered.",
+      "description_fr": "Cabine vidéo 360°, photos du tapis rouge, clips courts instantanés et bobines récapitulatives d'événements. Je donne l'impression que votre événement compte.",
+      "category": "Entertainment & Media",
+      "website": "https://frameratestudios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T00:13:40.662928+00:00"
+    },
+    {
+      "name": "StallworthOS — Your Business, Run by AI",
+      "slug": "polsia-stallworthos",
+      "description": "StallworthOS is an autonomous AI-powered operating system that runs your entire business — leads, revenue, operations, and growth — without you lifting a finger.",
+      "description_fr": "StallworthOS est un système d'exploitation autonome alimenté par l'IA qui gère l'ensemble de votre entreprise (les prospects, les revenus, les opérations et la croissance) sans que vous ayez à lever le petit doigt.",
+      "category": "AI & Machine Learning",
+      "website": "https://stallworthos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T00:13:42.261845+00:00"
+    },
+    {
+      "name": "L Plate Lab — AI",
+      "slug": "polsia-lplate-lab",
+      "description": "The AI agent that runs your driving school 24/7. Answers every inquiry, books every lesson, follows up every learner. Your instructors arrive to a full diary.",
+      "description_fr": "L'agent IA qui gère votre auto-école 24h/24 et 7j/7. Répond à chaque demande, réserve chaque leçon, suit chaque apprenant. Vos instructeurs arrivent avec un agenda bien rempli.",
+      "category": "AI & Machine Learning",
+      "website": "https://lplate-lab.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T00:13:43.614443+00:00"
+    },
+    {
+      "name": "PageFlow — AI agent that builds and runs your website",
+      "slug": "polsia-realtyshores",
+      "description": "Lovable, Webflow, Framer — they give you tools. PageFlow gives you an employee. You define the goal, it runs the whole operation. You only show up when there's a decision to make.",
+      "description_fr": "Lovable, Webflow, Framer — ils vous donnent des outils. PageFlow vous donne un employé. Vous définissez l'objectif, il gère toute l'opération. Vous ne vous présentez que lorsqu'il y a une décision à prendre.",
+      "category": "AI & Machine Learning",
+      "website": "https://realtyshores.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T00:13:44.883031+00:00"
+    },
+    {
+      "name": "GymRadar — Stop the bleed. Run the gym.",
+      "slug": "polsia-gymradar",
+      "description": "Most gym software is built for Western markets and bolted on for India. GymRadar is built from scratch for the reality of Indian fitness — UPI-first payments, WhatsApp-native member communication, ESSL biometric hardware, GST compliance, and staff who don't speak English as a first language.",
+      "description_fr": "La plupart des logiciels de salle de sport sont conçus pour les marchés occidentaux et adaptés à l'Inde. GymRadar est conçu à partir de zéro pour la réalité du fitness indien : paiements UPI-first, communication avec les membres natifs de WhatsApp, matériel biométrique ESSL, conformité à la TPS et personnel qui ne parle pas l'anglais comme première langue.",
+      "category": "Software & SaaS",
+      "website": "https://gymradar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T00:13:46.747875+00:00"
+    },
+    {
+      "name": "DealBridge",
+      "slug": "polsia-dealbridge-28",
+      "description": "Connect motivated property sellers with verified cash buyers. No listing fees, no waiting — just closed wholesale deals.",
+      "description_fr": "Connectez des vendeurs immobiliers motivés avec des acheteurs au comptant vérifiés. Pas de frais d'inscription, pas d'attente : il suffit de conclure des transactions de gros.",
+      "category": "Real Estate",
+      "website": "https://dealbridge-28.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T00:13:48.403628+00:00"
+    },
+    {
+      "name": "LocalHero — $100k for High Schoolers",
+      "slug": "polsia-localhero",
+      "description": "Every hour you spend building something nobody asked for is an hour you could have spent landing a paying client. This roadmap skips the fluff and goes straight to what works: real services, real outreach, real money.",
+      "description_fr": "Chaque heure que vous passez à construire quelque chose que personne n'a demandé est une heure que vous auriez pu passer à trouver un client payant. Cette feuille de route évite les futilités et va directement à ce qui fonctionne : de vrais services, une véritable sensibilisation, de l'argent réel.",
+      "category": "Sales & CRM",
+      "website": "https://localhero.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T00:13:49.977130+00:00"
     }
   ]
 }
