@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T17:41:28.855829+00:00",
+  "last_updated": "2026-06-13T18:58:12.412373+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -157046,12 +157046,15 @@
       "scraped_at": "2026-06-13T16:02:06.940717+00:00"
     },
     {
-      "name": "OutboundOS",
+      "name": "OutboundOS — Autonomous Outbound for B2B SaaS",
       "slug": "polsia-outboundos-4e4875",
+      "description": "OutboundOS runs your entire outbound motion autonomously — signal-based targeting, hyper-personalized outreach, and response handling. Built for B2B SaaS teams that want pipeline without the headcount.",
+      "description_fr": "OutboundOS gère l'intégralité de votre mouvement sortant de manière autonome : ciblage basé sur le signal, sensibilisation hyper-personnalisée et gestion des réponses. Conçu pour les équipes SaaS B2B qui souhaitent un pipeline sans effectif.",
+      "category": "Sales & CRM",
       "website": "https://outboundos-4e4875.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-13T17:41:07.994864+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-13T18:58:11.908671+00:00"
     },
     {
       "name": "Theia — Premium Crystals & Metaphysical Store",
@@ -157151,6 +157154,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-13T17:41:20.344180+00:00"
+    },
+    {
+      "name": "Loopd",
+      "slug": "polsia-loopd-ai",
+      "website": "https://loopd-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-13T18:57:52.809584+00:00"
+    },
+    {
+      "name": "SparkOS",
+      "slug": "polsia-sparkos-25",
+      "website": "https://sparkos-25.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-13T18:57:53.221127+00:00"
+    },
+    {
+      "name": "LeadFinder — Autonomous B2B Outbound AI Agent",
+      "slug": "polsia-leadfinder-2bfc",
+      "description": "An AI agent that doesn't help you write emails. An AI agent thatsends them.That finds leads, enriches data, writes personalized copy, executes sequences, handles replies, and reports back — every morning, 365 days a year.",
+      "description_fr": "Un agent IA qui ne vous aide pas à rédiger des e-mails. Un agent IA qui les envoie. Qui trouve des pistes, enrichit les données, rédige des copies personnalisées, exécute des séquences, gère les réponses et rend compte, chaque matin, 365 jours par an.",
+      "category": "AI & Machine Learning",
+      "website": "https://leadfinder-2bfc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T18:57:54.840917+00:00"
+    },
+    {
+      "name": "Lendra — Autonomous Credit Operations",
+      "slug": "polsia-lendra-2",
+      "description": "AI agents that monitor borrowers, trigger underwriting decisions, and run collections — all day, every day.",
+      "description_fr": "Des agents IA qui surveillent les emprunteurs, déclenchent des décisions de souscription et effectuent des recouvrements, toute la journée, tous les jours.",
+      "category": "AI & Machine Learning",
+      "website": "https://lendra-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T18:57:56.097466+00:00"
+    },
+    {
+      "name": "TruckFill — LSA Management for Home Service Contractors",
+      "slug": "polsia-truckfill",
+      "description": "Start with restoration shops in mid-sized markets. They're desperate for leads, running their own under-optimized LSAs, and have ticket sizes that make a 5% performance fee worth collecting.",
+      "description_fr": "Commencez par les ateliers de restauration sur les marchés de taille moyenne. Ils sont désespérément à la recherche de prospects, gèrent leurs propres LSA sous-optimisés et proposent des tickets de taille qui valent la peine d'être collectés avec des frais de performance de 5 %.",
+      "category": "E-Commerce & Retail",
+      "website": "https://truckfill.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T18:57:57.376898+00:00"
+    },
+    {
+      "name": "FrameShift — AI",
+      "slug": "polsia-frameshift-9",
+      "description": "The managed video APIs (FastPix, Shotstack, Mux) solve the infrastructure problem. But they don't solve the intelligence problem. They're reactive — you submit a job, you wait, you get a result. Nobody monitors your pipeline, auto-recovers from failures, or optimizes encoding decisions for you.",
+      "description_fr": "Les API vidéo gérées (FastPix, Shotstack, Mux) résolvent le problème d'infrastructure. Mais ils ne résolvent pas le problème du renseignement. Ils sont réactifs : vous soumettez un travail, vous attendez, vous obtenez un résultat. Personne ne surveille votre pipeline, ne récupère automatiquement après un échec ou n'optimise les décisions d'encodage à votre place.",
+      "category": "AI & Machine Learning",
+      "website": "https://frameshift-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T18:57:58.803403+00:00"
+    },
+    {
+      "name": "ClearPathOS — Operating System for Veritas ClearPath Solutions",
+      "slug": "polsia-veritas-clearpath-solutions-2",
+      "description": "Every practice is unique. VCS offers a 30-day pilot so clinics can evaluate the process, the outcomes, and the communication before making a long-term commitment. No disruption. No long-term lock-in. Just clear data on what human-led prior auth can do for your practice.",
+      "description_fr": "Chaque pratique est unique. VCS propose un projet pilote de 30 jours afin que les cliniques puissent évaluer le processus, les résultats et la communication avant de s'engager à long terme. Aucune perturbation. Pas de blocage à long terme. Effacez simplement les données sur ce que l’authentification préalable humaine peut apporter à votre cabinet.",
+      "category": "Health & Wellness",
+      "website": "https://veritas-clearpath-solutions-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T18:57:59.907706+00:00"
+    },
+    {
+      "name": "TourDrop",
+      "slug": "polsia-tourdrop",
+      "description": "TourDrop isn't for everyone. It's for the people who show up early, who know the difference between a tour tee and a mass-produced graphic, who want the thing that makes them feel something. That's who we're building for.",
+      "description_fr": "TourDrop n'est pas pour tout le monde. C'est pour les gens qui arrivent tôt, qui connaissent la différence entre un t-shirt de tournée et un graphique produit en série, qui veulent quelque chose qui leur fait ressentir quelque chose. C'est pour cela que nous construisons.",
+      "category": "Other",
+      "website": "https://tourdrop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T18:58:01.529676+00:00"
+    },
+    {
+      "name": "DevTrace — Your debugging runs itself",
+      "slug": "polsia-devtrace",
+      "description": "DevTrace is built for mobile engineers who are tired of chasing crashes through stack traces and device fragmentation. It's an autonomous AI agent — not a dashboard you visit. It watches, traces, and tells you what to fix.",
+      "description_fr": "DevTrace est conçu pour les ingénieurs mobiles qui en ont assez de rechercher des pannes à travers les traces de pile et la fragmentation des appareils. Il s'agit d'un agent IA autonome, pas d'un tableau de bord que vous visitez. Il surveille, trace et vous indique quoi réparer.",
+      "category": "AI & Machine Learning",
+      "website": "https://devtrace.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T18:58:02.732246+00:00"
+    },
+    {
+      "name": "EleusisOS — Prop Firm Challenge specialists",
+      "slug": "polsia-eleusisos-2",
+      "description": "Our experienced team executes your challenge with surgical precision — hitting profit targets while respecting every rule FTMO or your chosen firm requires.",
+      "description_fr": "Notre équipe expérimentée relève votre défi avec une précision chirurgicale – en atteignant les objectifs de profit tout en respectant toutes les règles exigées par FTMO ou l'entreprise de votre choix.",
+      "category": "Other",
+      "website": "https://eleusisos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T18:58:04.360486+00:00"
     }
   ]
 }
