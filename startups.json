@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T21:43:24.641568+00:00",
+  "last_updated": "2026-06-13T22:47:56.693410+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -157370,20 +157370,26 @@
       "scraped_at": "2026-06-13T21:43:21.706912+00:00"
     },
     {
-      "name": "AnswerPilot",
+      "name": "AnswerPilot — AI Receptionist, 24/7",
       "slug": "polsia-answerpilot-5",
+      "description": "AnswerPilot answers your business calls around the clock with AI. Never miss a lead, a booking, or a customer — even at 2am on a Sunday.",
+      "description_fr": "AnswerPilot répond à vos appels professionnels 24 heures sur 24 grâce à l'IA. Ne manquez jamais un prospect, une réservation ou un client, même à 2 heures du matin un dimanche.",
+      "category": "AI & Machine Learning",
       "website": "https://answerpilot-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-13T21:43:21.856286+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:46.055346+00:00"
     },
     {
-      "name": "SafeHaven",
+      "name": "SafeHaven — Personal Cybersecurity",
       "slug": "polsia-safehaven-3",
+      "description": "\"You'd never go a year without a mechanic checking your car. But your family's entire digital life — banking, medical records, children's devices, home security — runs on a router no one has touched in two years.\"",
+      "description_fr": "\"Vous ne passeriez jamais un an sans qu'un mécanicien vérifie votre voiture. Mais toute la vie numérique de votre famille - opérations bancaires, dossiers médicaux, appareils pour enfants, sécurité de la maison - fonctionne sur un routeur que personne n'a touché depuis deux ans.\"",
+      "category": "Finance & Fintech",
       "website": "https://safehaven-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-13T21:43:22.022990+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:47.408587+00:00"
     },
     {
       "name": "GiftScout",
@@ -157394,52 +157400,174 @@
       "scraped_at": "2026-06-13T21:43:22.125479+00:00"
     },
     {
-      "name": "ShipOps",
+      "name": "ShipOps — Autonomous AI Agents for DevOps",
       "slug": "polsia-shipops-ai-6",
+      "description": "Monitors 24/7. When an alert fires, the agent immediately investigates — correlates logs, metrics, recent deployments, and past incidents — and either resolves or surfaces a root cause report.",
+      "description_fr": "Surveille 24h/24 et 7j/7. Lorsqu'une alerte se déclenche, l'agent enquête immédiatement (corrèle les journaux, les métriques, les déploiements récents et les incidents passés) et résout ou fait apparaître un rapport sur la cause première.",
+      "category": "AI & Machine Learning",
       "website": "https://shipops-ai-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-13T21:43:22.266156+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:48.668061+00:00"
     },
     {
-      "name": "DRIPLINE",
+      "name": "DRIPLINE — Oversized Streetwear",
       "slug": "polsia-dripline-4",
+      "description": "Premium Korean-style oversized streetwear, engineered for Morocco and the Gulf. Cash-on-delivery, AI-generated visuals, no photoshoot budget.",
+      "description_fr": "Un streetwear oversize haut de gamme de style coréen, conçu pour le Maroc et le Golfe. Paiement à la livraison, visuels générés par l'IA, pas de budget de séance photo.",
+      "category": "AI & Machine Learning",
       "website": "https://dripline-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-13T21:43:22.397369+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:50.187682+00:00"
     },
     {
-      "name": "Singular",
+      "name": "Singular — Your AI Identity Agent",
       "slug": "polsia-singular-ai",
+      "description": "An autonomous AI agent that monitors, protects, and grows your personal identity across the internet. 24/7.",
+      "description_fr": "Un agent d'IA autonome qui surveille, protège et développe votre identité personnelle sur Internet. 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://singular-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-13T21:43:22.574639+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:51.437049+00:00"
     },
     {
-      "name": "Lueur",
+      "name": "Lueur — AI Marketing Agent for Luxury Beauty",
       "slug": "polsia-lueur-3",
+      "description": "An autonomous AI agent that runs your luxury beauty brand's marketing — content, campaigns, customer engagement, compliance — 24/7.",
+      "description_fr": "Un agent IA autonome qui gère le marketing de votre marque de beauté de luxe (contenu, campagnes, engagement client, conformité) 24h/24 et 7j/7.",
+      "category": "Marketing & Advertising",
       "website": "https://lueur-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-13T21:43:22.664029+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:52.953631+00:00"
     },
     {
       "name": "ShipRun",
       "slug": "polsia-shiprun-2",
+      "description": "Senior devs spend 6 hours a week reviewing pull requests. Juniors wait days for feedback. Bugs slip through because the best reviewer was busy. ShipRun is the employee who never sleeps and never misses a detail.",
+      "description_fr": "Les développeurs seniors passent 6 heures par semaine à examiner les demandes d'extraction. Les juniors attendent des jours pour obtenir des commentaires. Des bugs passent parce que le meilleur critique était occupé. ShipRun est l'employé qui ne dort jamais et ne manque jamais un détail.",
+      "category": "Other",
       "website": "https://shiprun-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-13T21:43:22.739876+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:54.743054+00:00"
     },
     {
-      "name": "PageForge",
+      "name": "PageForge — AI Builds Your Funnel While You Sleep",
       "slug": "polsia-pageforge-28",
+      "description": "Tell PageForge what you're selling. It designs, builds, and launches high-converting landing pages and sales funnels. Autonomously. No design skills needed.",
+      "description_fr": "Dites à PageForge ce que vous vendez. Il conçoit, construit et lance des pages de destination et des entonnoirs de vente à fort taux de conversion. De manière autonome. Aucune compétence en conception requise.",
+      "category": "AI & Machine Learning",
       "website": "https://pageforge-28.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:56.406877+00:00"
+    },
+    {
+      "name": "HenryBuildOS",
+      "slug": "polsia-henrybuildos",
+      "website": "https://henrybuildos.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-06-13T21:43:22.819550+00:00"
+      "scraped_at": "2026-06-13T22:47:28.588632+00:00"
+    },
+    {
+      "name": "FieldOpsOS — The OS for Field Operations",
+      "slug": "polsia-fieldopsos",
+      "description": "Run your field operations from a single command center. Service requests, dispatch, uptime monitoring, and client reports — all in one place.",
+      "description_fr": "Exécutez vos opérations sur le terrain à partir d’un seul centre de commande. Demandes de service, répartition, surveillance de la disponibilité et rapports clients, le tout au même endroit.",
+      "category": "Other",
+      "website": "https://fieldopsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:29.744521+00:00"
+    },
+    {
+      "name": "LabRun — AI Agents for Lab Operations",
+      "slug": "polsia-labrun",
+      "description": "Right now your lab has instruments running experiments at 2am that no one will check until morning. Data sitting in instrument memory, unread. Samples degraded, runs missed, discoveries delayed — because no one was watching.",
+      "description_fr": "À l'heure actuelle, votre laboratoire dispose d'instruments qui réalisent des expériences à 2 heures du matin que personne ne vérifiera avant le matin. Données stockées dans la mémoire de l'instrument, non lues. Échantillons dégradés, analyses manquées, découvertes retardées – parce que personne ne regardait.",
+      "category": "AI & Machine Learning",
+      "website": "https://labrun.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:30.914665+00:00"
+    },
+    {
+      "name": "LaunchDeck",
+      "slug": "polsia-launchdeck-81",
+      "website": "https://launchdeck-81.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-13T22:47:31.187513+00:00"
+    },
+    {
+      "name": "PathFound",
+      "slug": "polsia-pathfound-4",
+      "description": "Every tool in the reentry space was built for case managers, nonprofits, and corrections departments. Nobody built for the person walking out the gate with a bus pass, a stack of requirements they barely understand, and a phone they can barely afford to keep charged.",
+      "description_fr": "Chaque outil de l'espace de réentrée a été conçu pour les gestionnaires de cas, les organisations à but non lucratif et les services pénitentiaires. Personne n'a été conçu pour la personne qui franchit le portail avec un laissez-passer de bus, une pile d'exigences qu'elle comprend à peine et un téléphone qu'elle peut à peine se permettre de garder chargé.",
+      "category": "Other",
+      "website": "https://pathfound-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:32.484244+00:00"
+    },
+    {
+      "name": "LegalLift — Find the Right Attorney",
+      "slug": "polsia-legalliftos",
+      "description": "A modern legal directory connecting clients with verified attorneys. Search by practice area, location, and specialty.",
+      "description_fr": "Un annuaire juridique moderne mettant en relation les clients avec des avocats vérifiés. Recherchez par domaine de pratique, emplacement et spécialité.",
+      "category": "Other",
+      "website": "https://legalliftos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:33.922586+00:00"
+    },
+    {
+      "name": "CareerBeacon — Your AI Career Agent",
+      "slug": "polsia-careerbeacon",
+      "description": "CareerBeacon is built for the job seeker who can't afford a career coach, doesn't have time to figure this out alone, and needs someone in their corner — every day, without fail. That's who this was built for.",
+      "description_fr": "CareerBeacon est conçu pour les demandeurs d'emploi qui n'ont pas les moyens de se payer un coach de carrière, qui n'ont pas le temps de résoudre ce problème seuls et qui ont besoin de quelqu'un à leur côté, chaque jour, sans faute. C'est pour cela que cela a été construit.",
+      "category": "AI & Machine Learning",
+      "website": "https://careerbeacon.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:35.400305+00:00"
+    },
+    {
+      "name": "PixelPulse — Autonomous AI Agent for Indie Game Studios",
+      "slug": "polsia-pixelpulse-2",
+      "description": "AI agent that runs your indie game studio while you sleep. Monitor metrics, publish dev updates, track competitors, and grow your audience — autonomously.",
+      "description_fr": "Agent IA qui gère votre studio de jeux indépendants pendant que vous dormez. Surveillez les métriques, publiez des mises à jour de développement, suivez les concurrents et développez votre audience, de manière autonome.",
+      "category": "AI & Machine Learning",
+      "website": "https://pixelpulse-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:36.295129+00:00"
+    },
+    {
+      "name": "Stack — Content distribution for indie hackers",
+      "slug": "polsia-stack-4",
+      "description": "Indie hackers shouldn't need a degree in DevOps just to send an email to their subscribers. But that's where we are — stitching together Substack for writing, Mailchimp for lists, Zapier for automation, and paying $150/month for the privilege. Meanwhile Substack takes 10% of everything you earn. That's not a platform. That's a tax.",
+      "description_fr": "Les hackers indépendants ne devraient pas avoir besoin d'un diplôme en DevOps simplement pour envoyer un e-mail à leurs abonnés. Mais c'est là que nous en sommes : assembler Substack pour l'écriture, Mailchimp pour les listes, Zapier pour l'automatisation et payer 150 $/mois pour ce privilège. Pendant ce temps, Substack prend 10 % de tout ce que vous gagnez. Ce n'est pas une plateforme. C'est une taxe.",
+      "category": "Software & SaaS",
+      "website": "https://stack-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:37.876066+00:00"
+    },
+    {
+      "name": "DropForge — AI",
+      "slug": "polsia-dropforge-20",
+      "description": "DropForge scans trending products across TikTok, Instagram, Amazon, and AliExpress in real time. Our AI scores each product on demand velocity, competition saturation, and profit potential, giving you a single number that tells you whether to list it or skip it.",
+      "description_fr": "DropForge analyse en temps réel les produits tendances sur TikTok, Instagram, Amazon et AliExpress. Notre IA note chaque produit en fonction de la vitesse de la demande, de la saturation de la concurrence et du potentiel de profit, vous donnant un chiffre unique qui vous indique si vous devez le répertorier ou l'ignorer.",
+      "category": "AI & Machine Learning",
+      "website": "https://dropforge-20.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T22:47:39.426850+00:00"
     }
   ]
 }
