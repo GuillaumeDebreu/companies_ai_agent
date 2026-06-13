@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:54:51.799667+00:00",
+  "last_updated": "2026-06-13T08:20:43.925204+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -156077,12 +156077,15 @@
       "scraped_at": "2026-06-12T19:32:28.607490+00:00"
     },
     {
-      "name": "StackFlow",
+      "name": "StackFlow — AI Automation for Service Businesses",
       "slug": "polsia-stackflow-51",
+      "description": "StackFlow builds AI-powered chatbots, Telegram automations, and websites for service businesses. Recurring retainer model. $500–$2,000/month per client.",
+      "description_fr": "StackFlow crée des chatbots, des automatisations Telegram et des sites Web basés sur l'IA pour les entreprises de services. Modèle de rétention récurrent. 500 $ à 2 000 $/mois par client.",
+      "category": "AI & Machine Learning",
       "website": "https://stackflow-51.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-12T21:18:16.168959+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-13T08:20:42.871461+00:00"
     },
     {
       "name": "postpilo",
@@ -156506,6 +156509,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-13T04:54:36.601353+00:00"
+    },
+    {
+      "name": "FieldStack",
+      "slug": "polsia-fieldstack-27",
+      "website": "https://fieldstack-27.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-13T08:20:24.495126+00:00"
+    },
+    {
+      "name": "OrbitAR — AI Agents for AR Creation",
+      "slug": "polsia-orbitar",
+      "description": "Most AR tools require manual export and upload to each platform. OrbitAR connects via official APIs and SDKs. Filters go live the moment they're created — no human in the loop.",
+      "description_fr": "La plupart des outils AR nécessitent une exportation et un téléchargement manuels sur chaque plateforme. OrbitAR se connecte via des API et SDK officiels. Les filtres sont mis en ligne dès leur création – aucun humain n'est impliqué dans la boucle.",
+      "category": "Software & SaaS",
+      "website": "https://orbitar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T08:20:25.729268+00:00"
+    },
+    {
+      "name": "PostPilot — The AI Agent That Runs Your Social Media",
+      "slug": "polsia-postpilot-63",
+      "description": "Scheduling tools help you post. PostPilot replaces the person who runs your social media. It monitors your brand, writes content, publishes at the right moments, engages with your audience, and reports back — all day, every day.",
+      "description_fr": "Les outils de planification vous aident à publier. PostPilot remplace la personne qui gère vos réseaux sociaux. Il surveille votre marque, rédige du contenu, publie au bon moment, interagit avec votre public et rend compte, toute la journée, tous les jours.",
+      "category": "AI & Machine Learning",
+      "website": "https://postpilot-63.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T08:20:27.389509+00:00"
+    },
+    {
+      "name": "LeadRescueOS — The Operating System for LeadRescue",
+      "slug": "polsia-leadrescueos",
+      "description": "We're on a mission to build a better future where technology creates good jobs for everyone.\n      Every missed call is a missed opportunity. Every business deserves an AI that works as hard as they do.",
+      "description_fr": "Nous avons pour mission de construire un avenir meilleur où la technologie crée de bons emplois pour tout le monde.\n      Chaque appel manqué est une opportunité manquée. Chaque entreprise mérite une IA qui travaille aussi dur qu’elle.",
+      "category": "AI & Machine Learning",
+      "website": "https://leadrescueos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T08:20:28.843096+00:00"
+    },
+    {
+      "name": "CropPulse — AI agents that run fresh produce supply chains",
+      "slug": "polsia-croppulse-4",
+      "description": "CropPulse monitors your inventory 24/7, triggers reorders before stock runs low, tracks spoilage windows, and manages supplier communications automatically.",
+      "description_fr": "CropPulse surveille votre inventaire 24h/24 et 7j/7, déclenche des réapprovisionnements avant que le stock ne soit faible, suit les fenêtres de détérioration et gère automatiquement les communications avec les fournisseurs.",
+      "category": "AI & Machine Learning",
+      "website": "https://croppulse-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T08:20:30.748394+00:00"
+    },
+    {
+      "name": "YieldSeeker",
+      "slug": "polsia-yieldseeker",
+      "description": "The smart dashboard for Solana Seeker phone owners. Track $SKR rewards, stake to Guardians, and maximize your airdrop earnings from one place.",
+      "description_fr": "Le tableau de bord intelligent pour les propriétaires de téléphones Solana Seeker. Suivez les récompenses $SKR, misez sur les Gardiens et maximisez vos gains de parachutage à partir d'un seul endroit.",
+      "category": "Software & SaaS",
+      "website": "https://yieldseeker.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T08:20:32.715044+00:00"
+    },
+    {
+      "name": "SkeinOps — AI Agents for Machine Knitting Production",
+      "slug": "polsia-skeinops",
+      "description": "A small studio knitter juggling a KH-940, an Etsy store, a Shopify, a Gmail inbox, a spreadsheet for yarn, and a waiting list of customers isn't short on skill. They're short on hours. Every minute spent managing the business is a minute not spent at the machine.",
+      "description_fr": "Un petit tricoteur de studio jonglant avec un KH-940, une boutique Etsy, un Shopify, une boîte de réception Gmail, une feuille de calcul pour le fil et une liste d'attente de clients ne manque pas de compétences. Ils manquent d'heures. Chaque minute passée à gérer l’entreprise est une minute non passée devant la machine.",
+      "category": "E-Commerce & Retail",
+      "website": "https://skeinops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T08:20:34.023339+00:00"
+    },
+    {
+      "name": "Barely Civilized Co. — Wearable Chaos for People with Rich Inner Lives",
+      "slug": "polsia-barely-civilized-co",
+      "description": "We started Barely Civilized Co. because the world has enough clothing that says nothing. We make stuff for people who think in contradictions, feel things deeply, and have an entire inner life that rarely makes it to the surface.",
+      "description_fr": "Nous avons créé Barely Civilized Co. parce que le monde a suffisamment de vêtements qui ne disent rien. Nous créons des produits pour les gens qui pensent de manière contradictoire, ressentent les choses profondément et ont toute une vie intérieure qui fait rarement surface.",
+      "category": "Other",
+      "website": "https://barely-civilized-co.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T08:20:35.009798+00:00"
+    },
+    {
+      "name": "IceOS",
+      "slug": "polsia-iceos-2",
+      "website": "https://iceos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-13T08:20:35.299742+00:00"
+    },
+    {
+      "name": "GuyaneStays — Réservation de logements en Guyane française",
+      "slug": "polsia-guyane-stays",
+      "description": "Réservez votre logement en Guyane française directement. Appartements, villas et maisons à Cayenne et Kourou. Sans commission excessive, avec un service local.",
+      "description_fr": "Réservez votre logement en Guyane française directement. Appartements, villas et maisons à Cayenne et Kourou. Sans commission excessive, avec un service local.",
+      "category": "Other",
+      "website": "https://guyane-stays.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-13T08:20:35.972796+00:00"
     }
   ]
 }
