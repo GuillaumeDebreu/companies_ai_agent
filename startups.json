@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T15:15:25.808614+00:00",
+  "last_updated": "2026-06-14T16:49:31.361152+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -158117,12 +158117,15 @@
       "scraped_at": "2026-06-14T13:02:54.871491+00:00"
     },
     {
-      "name": "Rally",
+      "name": "Rally — AI Leadership Coach",
       "slug": "polsia-rally-ai-2",
+      "description": "We built Rally because we watched good leaders fail not from lack of skill but from lack of signal. They didn't know their team was frustrated until someone quit. They didn't know decisions were piling up until a project slipped. They didn't know their management style was creating dependency until they couldn't take a vacation.",
+      "description_fr": "Nous avons construit Rally parce que nous avons vu les bons leaders échouer non pas par manque de compétences mais par manque de signal. Ils ne savaient pas que leur équipe était frustrée jusqu'à ce que quelqu'un démissionne. Ils ne savaient pas que les décisions s'accumulaient jusqu'à ce qu'un projet échoue. Ils ne savaient pas que leur style de gestion créait une dépendance jusqu'à ce qu'ils ne puissent pas prendre de vacances.",
+      "category": "AI & Machine Learning",
       "website": "https://rally-ai-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-14T15:15:09.486569+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-14T16:49:30.240137+00:00"
     },
     {
       "name": "Purea — Premium Peptides, Research",
@@ -158222,6 +158225,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-14T15:15:19.928456+00:00"
+    },
+    {
+      "name": "EarnedWisdom",
+      "slug": "polsia-earnedwisdom",
+      "website": "https://earnedwisdom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-14T16:49:15.225575+00:00"
+    },
+    {
+      "name": "SitePulse",
+      "slug": "polsia-sitepulse-ai-4",
+      "website": "https://sitepulse-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-14T16:49:15.825739+00:00"
+    },
+    {
+      "name": "NegotiIQ",
+      "slug": "polsia-negotiateiq",
+      "website": "https://negotiateiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-14T16:49:16.278795+00:00"
+    },
+    {
+      "name": "SpotPost — Social Media Content for Local Businesses",
+      "slug": "polsia-spotpost",
+      "description": "Short-form videos, Instagram posts, TikToks, and Google Business updates — all powered by AI, crafted for your local audience. You focus on your business. We make sure the world sees it.",
+      "description_fr": "Vidéos courtes, publications Instagram, TikToks et mises à jour de Google Business, le tout alimenté par l'IA et conçu pour votre public local. Vous vous concentrez sur votre entreprise. Nous veillons à ce que le monde le voie.",
+      "category": "Entertainment & Media",
+      "website": "https://spotpost.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T16:49:17.548119+00:00"
+    },
+    {
+      "name": "StakeLayer — Full",
+      "slug": "polsia-stakelayer-2",
+      "description": "Kalab Kefelegn built this company to own the intersection of Africa's gaming boom and the global B2B iGaming infrastructure wave. Every major Western operator is fighting for the same players. The real opportunity is building for the next billion.",
+      "description_fr": "Kalab Kefelegn a créé cette société pour posséder l'intersection du boom du jeu en Afrique et de la vague mondiale d'infrastructures iGaming B2B. Tous les grands opérateurs occidentaux se battent pour les mêmes acteurs. La véritable opportunité réside dans la construction du prochain milliard.",
+      "category": "Sales & CRM",
+      "website": "https://stakelayer-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T16:49:18.831523+00:00"
+    },
+    {
+      "name": "MeshOps",
+      "slug": "polsia-meshops-25",
+      "description": "Most IoT platforms escalate everything. MeshOps doesn't. It handles the routine, diagnoses the complex, and surfaces only the decisions that need a human. Your team stops fighting fires and starts solving problems.",
+      "description_fr": "La plupart des plateformes IoT escaladent tout. MeshOps ne le fait pas. Il gère la routine, diagnostique le complexe et ne fait apparaître que les décisions qui nécessitent un humain. Votre équipe arrête de combattre les incendies et commence à résoudre les problèmes.",
+      "category": "Software & SaaS",
+      "website": "https://meshops-25.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T16:49:20.376096+00:00"
+    },
+    {
+      "name": "Lumino",
+      "slug": "polsia-lumino-ai",
+      "website": "https://lumino-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-14T16:49:20.754399+00:00"
+    },
+    {
+      "name": "Ledgerly — AI Accounting Agent",
+      "slug": "polsia-ledgerly-7",
+      "description": "Ledgerly is an AI that runs your finances while you sleep — categorizes transactions, chases invoices, files tax returns. No forms to fill. No software to open.",
+      "description_fr": "Ledgerly est une IA qui gère vos finances pendant que vous dormez : catégorise les transactions, recherche les factures, dépose les déclarations de revenus. Aucun formulaire à remplir. Aucun logiciel à ouvrir.",
+      "category": "AI & Machine Learning",
+      "website": "https://ledgerly-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T16:49:21.624232+00:00"
+    },
+    {
+      "name": "Fetch — Your Neighborhood's Storefront",
+      "slug": "polsia-fetch-7",
+      "description": "Order online from local independent stores. Pick up in store. No delivery fees, no middleman.",
+      "description_fr": "Commandez en ligne dans les magasins indépendants locaux. À récupérer en magasin. Pas de frais de livraison, pas d'intermédiaire.",
+      "category": "E-Commerce & Retail",
+      "website": "https://fetch-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T16:49:22.718869+00:00"
+    },
+    {
+      "name": "StandupPilot — Your AI Standup Agent",
+      "slug": "polsia-standuppilot-4",
+      "description": "Not a transcript. Not bullet points. A structured summary your whole team can act on — with the right context, the right priority, and blockers surfaced before they become missed deadlines.",
+      "description_fr": "Pas une transcription. Pas de puces. Un résumé structuré sur lequel toute votre équipe peut agir, avec le bon contexte, la bonne priorité et les blocages apparus avant qu'ils ne se transforment en délais non respectés.",
+      "category": "AI & Machine Learning",
+      "website": "https://standuppilot-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T16:49:24.385665+00:00"
     }
   ]
 }
