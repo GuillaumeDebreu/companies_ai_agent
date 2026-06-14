@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T19:28:11.347405+00:00",
+  "last_updated": "2026-06-14T19:55:26.813938+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -158442,6 +158442,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-14T18:05:17.196916+00:00"
+    },
+    {
+      "name": "FlowGuardOS",
+      "slug": "polsia-flowguardos",
+      "website": "https://flowguardos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-14T19:55:05.116880+00:00"
+    },
+    {
+      "name": "Skinergy — K",
+      "slug": "polsia-glowos-24",
+      "description": "Skinergy. Sélection rigoureuse de soins coréens — collagène, micro-aiguilles, luminothérapie. La beauté qui transforme, enfin accessible.",
+      "description_fr": "Skinergie. Sélection rigoureuse de soins coréens — collagène, micro-aiguilles, luminothérapie. La beauté qui transforme, enfin accessible.",
+      "category": "Software & SaaS",
+      "website": "https://glowos-24.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T19:55:07.029552+00:00"
+    },
+    {
+      "name": "GateOS — The Trading Signal Command Center",
+      "slug": "polsia-gateos-2",
+      "description": "The 28th Gate is an exclusive system built on discipline, data, and automation. We removed the human element from the equation — signals are generated from technical analysis, executed automatically, and tracked in real time. What remains is干净的 edge.",
+      "description_fr": "La 28e Porte est un système exclusif construit sur la discipline, les données et l'automatisation. Nous avons supprimé l'élément humain de l'équation : les signaux sont générés à partir d'une analyse technique, exécutés automatiquement et suivis en temps réel. Ce qui reste, c'est l'avantage.",
+      "category": "Finance & Fintech",
+      "website": "https://gateos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T19:55:08.358569+00:00"
+    },
+    {
+      "name": "Meridian — The AI developer that ships while you sleep",
+      "slug": "polsia-meridian-ai-86",
+      "description": "Meridian is an autonomous AI developer that watches your repos, reviews every pull request, writes fixes, and ships code — without you lifting a finger.",
+      "description_fr": "Meridian est un développeur d'IA autonome qui surveille vos dépôts, examine chaque demande d'extraction, écrit des correctifs et expédie le code, sans que vous leviez le petit doigt.",
+      "category": "AI & Machine Learning",
+      "website": "https://meridian-ai-86.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T19:55:10.229033+00:00"
+    },
+    {
+      "name": "Sentio — The Sentient Home",
+      "slug": "polsia-sentio-8",
+      "description": "A headless operating system that runs entirely on a Raspberry Pi in your home. No cloud dependency. No data leaving your network. Just a single, powerful machine orchestrating your entire home environment — cameras, sensors, voice, devices — in real time.",
+      "description_fr": "Un système d'exploitation sans tête qui fonctionne entièrement sur un Raspberry Pi chez vous. Aucune dépendance au cloud. Aucune donnée ne quitte votre réseau. Une seule et puissante machine orchestrant l’ensemble de votre environnement domestique (caméras, capteurs, voix, appareils) en temps réel.",
+      "category": "Sustainability & Green",
+      "website": "https://sentio-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T19:55:12.207259+00:00"
+    },
+    {
+      "name": "SwimOS",
+      "slug": "polsia-swimos",
+      "website": "https://swimos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-14T19:55:12.662423+00:00"
+    },
+    {
+      "name": "BidBase — Construction Estimates for Everyone",
+      "slug": "polsia-bidbase",
+      "description": "AI-powered construction cost estimates for DIYers and contractors. Precise, itemized, guided. No construction expertise required.",
+      "description_fr": "Estimations des coûts de construction basées sur l'IA pour les bricoleurs et les entrepreneurs. Précis, détaillé, guidé. Aucune expertise en construction requise.",
+      "category": "AI & Machine Learning",
+      "website": "https://bidbase.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T19:55:14.069083+00:00"
+    },
+    {
+      "name": "AgentDesk — AI Account Manager for MSPs",
+      "slug": "polsia-dalloagentdesk",
+      "description": "AgentDesk is an autonomous AI agent that runs the MSP account manager role 24/7. Monitoring, reporting, client outreach, and escalation — all handled while you sleep.",
+      "description_fr": "AgentDesk est un agent IA autonome qui exécute le rôle de gestionnaire de compte MSP 24h/24 et 7j/7. Surveillance, reporting, sensibilisation des clients et escalade, tout cela pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://dalloagentdesk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T19:55:15.321471+00:00"
+    },
+    {
+      "name": "GymForce — The AI Coach That Works 24/7",
+      "slug": "polsia-gymforce",
+      "description": "GymForce is an autonomous AI fitness agent that builds personalized workout programs, tracks compliance, and adapts your training in real-time — 24/7, without human limitations.",
+      "description_fr": "GymForce est un agent de fitness IA autonome qui crée des programmes d'entraînement personnalisés, suit la conformité et adapte votre entraînement en temps réel, 24h/24 et 7j/7, sans limitations humaines.",
+      "category": "AI & Machine Learning",
+      "website": "https://gymforce.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T19:55:18.884567+00:00"
+    },
+    {
+      "name": "OpenStage — Accessible Entertainment, Everywhere",
+      "slug": "polsia-openstage",
+      "description": "AI-powered platform making inclusive entertainment discoverable and bookable for everyone, everywhere.",
+      "description_fr": "Plateforme basée sur l'IA qui rend le divertissement inclusif visible et réservable pour tout le monde, partout.",
+      "category": "Software & SaaS",
+      "website": "https://openstage.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T19:55:19.857751+00:00"
     }
   ]
 }
