@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T21:17:47.255432+00:00",
+  "last_updated": "2026-06-14T22:36:40.546994+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -158595,12 +158595,15 @@
       "scraped_at": "2026-06-14T21:14:43.470683+00:00"
     },
     {
-      "name": "AgriWorker",
+      "name": "AgriWorker — AI Agents for Agricultural Marketing",
       "slug": "polsia-agriworker",
+      "description": "AgriWorker deploys AI agents that monitor agricultural markets, run campaigns, qualify leads, and publish content — without a single manual task. Built for farms, livestock operations, and agricultural businesses across the Middle East.",
+      "description_fr": "AgriWorker déploie des agents d'IA qui surveillent les marchés agricoles, mènent des campagnes, qualifient les prospects et publient du contenu, sans une seule tâche manuelle. Conçu pour les fermes, les élevages et les entreprises agricoles du Moyen-Orient.",
+      "category": "AI & Machine Learning",
       "website": "https://agriworker.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-14T21:14:51.514438+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-14T22:36:38.021380+00:00"
     },
     {
       "name": "Vendora — AI Vendor Relationship Agent",
@@ -158636,12 +158639,15 @@
       "scraped_at": "2026-06-14T21:17:36.671157+00:00"
     },
     {
-      "name": "RoadHaven",
+      "name": "RoadHaven — Safety Reviews for Women Truck Drivers",
       "slug": "polsia-roadhaven",
+      "description": "RoadHaven is the community-powered app where women truck drivers share real reviews on truck stops, rest areas, and shipper/receiver facilities — so you can find safe parking and avoid the places that aren't.",
+      "description_fr": "RoadHaven est l'application communautaire où les conductrices de camion partagent de véritables avis sur les relais routiers, les aires de repos et les installations d'expédition et de réception, afin que vous puissiez trouver un parking sûr et éviter les endroits qui ne le sont pas.",
+      "category": "Social & Community",
       "website": "https://roadhaven.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-14T21:15:19.856021+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-14T22:36:39.370204+00:00"
     },
     {
       "name": "Storycrafted — Personalized Keepsakes, Made by AI",
@@ -158653,6 +158659,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-14T21:17:47.254432+00:00"
+    },
+    {
+      "name": "PostCraft",
+      "slug": "polsia-postcraft-za-2",
+      "website": "https://postcraft-za-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-14T22:36:19.023586+00:00"
+    },
+    {
+      "name": "Cognit — AI Growth Agent for Founders",
+      "slug": "polsia-cognit-ai",
+      "description": "The companies winning in 2026 aren't the ones with the biggest marketing budgets. They're the ones that figured out how to make AI agents do the work — and spent their own time building things that can't be copied.",
+      "description_fr": "Les entreprises gagnantes en 2026 ne sont pas celles disposant des plus gros budgets marketing. Ce sont eux qui ont compris comment faire en sorte que les agents d’IA fassent le travail – et ont passé leur temps à créer des choses qui ne peuvent pas être copiées.",
+      "category": "AI & Machine Learning",
+      "website": "https://cognit-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T22:36:21.522581+00:00"
+    },
+    {
+      "name": "Clover",
+      "slug": "polsia-clover-kenya",
+      "website": "https://clover-kenya.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-14T22:36:22.553854+00:00"
+    },
+    {
+      "name": "PerryOS",
+      "slug": "polsia-perryos",
+      "website": "https://perryos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-14T22:36:23.081127+00:00"
+    },
+    {
+      "name": "SpikeLog — Your volleyball career, on autopilot",
+      "slug": "polsia-spikelog",
+      "description": "SpikeLog tracks your performance, builds your scouting reports,\n        and applies to tournaments and camps — automatically.\n        While you focus on the game.",
+      "description_fr": "SpikeLog suit vos performances, crée vos rapports de dépistage,\n        et s'applique automatiquement aux tournois et aux camps.\n        Pendant que vous vous concentrez sur le jeu.",
+      "category": "Other",
+      "website": "https://spikelog.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T22:36:24.121020+00:00"
+    },
+    {
+      "name": "SuperStack — The Peptide Stack That Comes With a Program",
+      "slug": "polsia-superstack",
+      "description": "The peptide space is full of telehealth clinics selling compounds and gray-market sites selling research chemicals. SuperStack is the first vertically integrated stack: peptides + programming, designed for the female bodybuilding community.",
+      "description_fr": "L’espace peptidique regorge de cliniques de télésanté vendant des composés et de sites du marché gris vendant des produits chimiques de recherche. SuperStack est le premier stack intégré verticalement : peptides + programmation, conçu pour la communauté féminine du bodybuilding.",
+      "category": "Health & Wellness",
+      "website": "https://superstack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T22:36:24.929492+00:00"
+    },
+    {
+      "name": "LusoCAD",
+      "slug": "polsia-luso-cados",
+      "description": "The subscription model was designed to extract maximum revenue from professionals who depend on their tools. LusoCAD was built to give those professionals a genuine alternative — one that respects the relationship between engineer and software.",
+      "description_fr": "Le modèle d'abonnement a été conçu pour extraire un maximum de revenus des professionnels qui dépendent de leurs outils. LusoCAD a été conçu pour offrir à ces professionnels une véritable alternative, une alternative qui respecte la relation entre l'ingénieur et le logiciel.",
+      "category": "Software & SaaS",
+      "website": "https://luso-cados.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T22:36:25.898969+00:00"
+    },
+    {
+      "name": "Guardiant — Your AI Travel Guardian",
+      "slug": "polsia-guardiant",
+      "description": "Travel safety has been broken for decades. You get advisories after the disaster. Alerts after the flight is cancelled. Notifications when it's too late to do anything. Guardiant flips this — monitoring everything, acting before things break, and giving you back the time and peace of mind that travel is supposed to offer.",
+      "description_fr": "La sécurité des voyages est rompue depuis des décennies. Vous recevez des avis après la catastrophe. Alertes après l'annulation du vol. Notifications lorsqu'il est trop tard pour faire quoi que ce soit. Guardiant inverse la situation : il surveille tout, agit avant que les choses ne se cassent et vous redonne le temps et la tranquillité d'esprit que le voyage est censé offrir.",
+      "category": "AI & Machine Learning",
+      "website": "https://guardiant.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T22:36:27.687028+00:00"
+    },
+    {
+      "name": "Operant — AI Automation for Small Businesses",
+      "slug": "polsia-operant-3",
+      "description": "Automate customer service, appointment booking, lead follow-up, and reporting. AI that works for your business, not the other way around.",
+      "description_fr": "Automatisez le service client, la prise de rendez-vous, le suivi des leads et le reporting. Une IA qui fonctionne pour votre entreprise, et non l'inverse.",
+      "category": "AI & Machine Learning",
+      "website": "https://operant-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T22:36:28.419352+00:00"
+    },
+    {
+      "name": "Pingstack — AI Ops Agents",
+      "slug": "polsia-pingstack-5",
+      "description": "Most automation tools require you to build the workflow yourself — define the trigger, draw the path, maintain the rules. You become the ops person. That's not automation. That's delegating the work and keeping the overhead.",
+      "description_fr": "La plupart des outils d'automatisation nécessitent que vous construisiez vous-même le flux de travail : définissez le déclencheur, tracez le chemin, maintenez les règles. Vous devenez la personne chargée des opérations. Ce n'est pas de l'automatisation. Cela revient à déléguer le travail et à conserver les frais généraux.",
+      "category": "AI & Machine Learning",
+      "website": "https://pingstack-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T22:36:30.091812+00:00"
     }
   ]
 }
