@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T22:36:40.546994+00:00",
+  "last_updated": "2026-06-14T23:51:15.672537+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -158680,20 +158680,26 @@
       "scraped_at": "2026-06-14T22:36:21.522581+00:00"
     },
     {
-      "name": "Clover",
+      "name": "Clover — One Platform for Kenya",
       "slug": "polsia-clover-kenya",
+      "description": "The gig economy is a $1.03 billion market in Kenya. 1.54 million gig workers. 53% of drivers depend on it as their main income. Clover exists to make that ecosystem work better — for the driver, the merchant, and the customer.",
+      "description_fr": "La gig economy représente un marché de 1,03 milliard de dollars au Kenya. 1,54 million de travailleurs à la demande. 53 % des conducteurs en dépendent comme principal revenu. Clover existe pour améliorer le fonctionnement de cet écosystème – pour le conducteur, le commerçant et le client.",
+      "category": "Software & SaaS",
       "website": "https://clover-kenya.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-14T22:36:22.553854+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-14T23:50:53.107000+00:00"
     },
     {
-      "name": "PerryOS",
+      "name": "PerryOS — Dealer Dashboard",
       "slug": "polsia-perryos",
+      "description": "",
+      "description_fr": "",
+      "category": "Software & SaaS",
       "website": "https://perryos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-14T22:36:23.081127+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-14T23:50:53.560240+00:00"
     },
     {
       "name": "SpikeLog — Your volleyball career, on autopilot",
@@ -158760,6 +158766,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-14T22:36:30.091812+00:00"
+    },
+    {
+      "name": "StackSheets",
+      "slug": "polsia-stacksheets",
+      "website": "https://stacksheets.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-14T23:49:03.861065+00:00"
+    },
+    {
+      "name": "Boulder — AI for Indie Game Devs",
+      "slug": "polsia-boulder-ai",
+      "description": "We named it Boulder because we know what it means to push the rock. Every indie dev knows that feeling — the project that won't ship, the engine that won't run, the art that won't compile, the patch that introduces ten new bugs. It's hard. It always has been.",
+      "description_fr": "Nous l'avons nommé Boulder parce que nous savons ce que signifie pousser le rocher. Tous les développeurs indépendants connaissent ce sentiment : le projet qui ne sera pas livré, le moteur qui ne fonctionnera pas, l'art qui ne sera pas compilé, le patch qui introduit dix nouveaux bugs. C'est dur. Cela l’a toujours été.",
+      "category": "AI & Machine Learning",
+      "website": "https://boulder-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T23:51:09.037618+00:00"
+    },
+    {
+      "name": "ForgeDeck",
+      "slug": "polsia-gameshift-420",
+      "description": "An AI agent that autonomously builds wishlists, manages communities, and runs your entire Steam launch. While you ship.",
+      "description_fr": "Un agent IA qui crée de manière autonome des listes de souhaits, gère les communautés et gère l'intégralité de votre lancement Steam. Pendant que vous expédiez.",
+      "category": "AI & Machine Learning",
+      "website": "https://gameshift-420.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T23:49:14.598707+00:00"
+    },
+    {
+      "name": "CommandOS — Your Business, Running Itself",
+      "slug": "polsia-commandos-17",
+      "description": "CommandOS was built to replace all of it. Not with another tool you'll check twice a week. With a system that runs itself and tells you what matters when it matters.",
+      "description_fr": "CommandOS a été conçu pour tout remplacer. Pas avec un autre outil que vous vérifierez deux fois par semaine. Avec un système qui fonctionne tout seul et vous indique ce qui compte quand cela compte.",
+      "category": "Other",
+      "website": "https://commandos-17.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T23:49:18.795942+00:00"
+    },
+    {
+      "name": "BridgeOS — Executive Search Intelligence",
+      "slug": "polsia-bridgeos-15",
+      "description": "Your global network spans the US, Europe, and Central America — but it's been running on legacy tools. BridgeOS connects every office into a single intelligence layer: shared candidate pipelines, real-time market signals, and automated relationship maintenance across every market you serve.",
+      "description_fr": "Votre réseau mondial s'étend aux États-Unis, en Europe et en Amérique centrale, mais il fonctionne avec des outils existants. BridgeOS connecte chaque bureau en une seule couche d'intelligence : des pipelines de candidats partagés, des signaux de marché en temps réel et une maintenance automatisée des relations sur chaque marché que vous servez.",
+      "category": "Sales & CRM",
+      "website": "https://bridgeos-15.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T23:49:21.956125+00:00"
+    },
+    {
+      "name": "BloomOS — The Agency Operating System",
+      "slug": "polsia-bloomos-23",
+      "description": "BloomOS continuously evaluates every agency in your portfolio against 47 data points — revenue trajectory, client concentration, team leverage, margin trend, owner dependency. You see the score. You see why it moved.",
+      "description_fr": "BloomOS évalue en permanence chaque agence de votre portefeuille par rapport à 47 points de données : trajectoire des revenus, concentration des clients, effet de levier de l'équipe, tendance des marges, dépendance du propriétaire. Vous voyez le score. Vous voyez pourquoi ça a bougé.",
+      "category": "Consulting & Services",
+      "website": "https://bloomos-23.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T23:51:09.832941+00:00"
+    },
+    {
+      "name": "KingzOS — Operating System for Loading Kingz",
+      "slug": "polsia-kingzos",
+      "description": "KingzOS turns Loading Kingz LLC from a one-person operation with a phone and a spreadsheet — into a real, scalable, bookable business. Licensed, insured, and built for the Phoenix market.",
+      "description_fr": "KingzOS transforme Loading Kingz LLC d'une opération individuelle avec un téléphone et une feuille de calcul en une entreprise réelle, évolutive et réservable. Autorisé, assuré et construit pour le marché de Phoenix.",
+      "category": "Other",
+      "website": "https://kingzos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T23:49:27.223639+00:00"
+    },
+    {
+      "name": "ProductLoop — Digital Products That Sell Forever",
+      "slug": "polsia-productloop-2",
+      "description": "Create once, sell forever. Canva templates, planners, guides and digital products built for Etsy, TikTok Shop and your own store.",
+      "description_fr": "Créez une fois, vendez pour toujours. Modèles, planificateurs, guides et produits numériques Canva conçus pour Etsy, TikTok Shop et votre propre boutique.",
+      "category": "E-Commerce & Retail",
+      "website": "https://productloop-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T23:49:32.977511+00:00"
+    },
+    {
+      "name": "VentureScale — R1M Business Mentorship for South African Entrepreneurs",
+      "slug": "polsia-venturescale",
+      "description": "AI-powered business mentorship platform helping South African entrepreneurs build R1,000,000+ revenue businesses with structured roadmaps and daily accountability.",
+      "description_fr": "Plateforme de mentorat commercial basée sur l'IA qui aide les entrepreneurs sud-africains à créer des entreprises à revenus de plus d'un million de rands avec des feuilles de route structurées et une responsabilité quotidienne.",
+      "category": "Software & SaaS",
+      "website": "https://venturescale.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T23:51:15.671748+00:00"
+    },
+    {
+      "name": "LaunchPad — Website Design for Grimes & Brazos County, TX",
+      "slug": "polsia-launchpad-49f9fe",
+      "description": "Full-service website design for small businesses in Navasota, Bryan, College Station, and throughout Grimes and Brazos County. We handle everything from design to launch.",
+      "description_fr": "Conception de sites Web à service complet pour les petites entreprises de Navasota, Bryan, College Station et dans tout le comté de Grimes et Brazos. Nous nous occupons de tout, de la conception au lancement.",
+      "category": "Marketing & Advertising",
+      "website": "https://launchpad-49f9fe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-14T23:49:46.754711+00:00"
     }
   ]
 }
