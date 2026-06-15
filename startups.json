@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T04:25:06.747323+00:00",
+  "last_updated": "2026-06-15T07:38:28.224117+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -158565,12 +158565,15 @@
       "scraped_at": "2026-06-14T21:16:58.836488+00:00"
     },
     {
-      "name": "FrameOS",
+      "name": "FrameOS — Eyewear That Runs on One Platform",
       "slug": "polsia-frameos-35",
+      "description": "Online eyewear brand with a unified digital ecosystem. Every customer interaction, order, and event — managed from one place.",
+      "description_fr": "Marque de lunettes en ligne avec un écosystème numérique unifié. Chaque interaction client, commande et événement – ​​géré à partir d’un seul endroit.",
+      "category": "Software & SaaS",
       "website": "https://frameos-35.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-14T21:14:31.644345+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-15T07:38:27.339991+00:00"
     },
     {
       "name": "Markr — Supplements from your bloodwork",
@@ -158986,6 +158989,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-15T02:09:22.233963+00:00"
+    },
+    {
+      "name": "TruthWatch — Autonomous QA for AI Agents",
+      "slug": "polsia-truthwatch",
+      "description": "AI agents fail differently from software. They don't throw errors — they produce plausible wrong answers, silently. Your uptime dashboard stays green while your agent ships bad data to customers. We built TruthWatch because agents deserve the same rigorous QA as every other production system — except it has to run automatically, because agents don't wait for business hours.",
+      "description_fr": "Les agents IA échouent différemment des logiciels. Ils ne génèrent pas d’erreurs – ils produisent de fausses réponses plausibles, en silence. Votre tableau de bord de disponibilité reste vert pendant que votre agent envoie des données erronées aux clients. Nous avons créé TruthWatch parce que les agents méritent le même contrôle qualité rigoureux que tout autre système de production, sauf qu'il doit s'exécuter automatiquement, car les agents n'attendent pas les heures de bureau.",
+      "category": "Software & SaaS",
+      "website": "https://truthwatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T07:38:11.020743+00:00"
+    },
+    {
+      "name": "FrameCraft",
+      "slug": "polsia-framecraft-30",
+      "website": "https://framecraft-30.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-15T07:38:11.406136+00:00"
+    },
+    {
+      "name": "LivingHeritageOS",
+      "slug": "polsia-livingheritageos",
+      "website": "https://livingheritageos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-15T07:38:11.860329+00:00"
+    },
+    {
+      "name": "CortexHome — Autonomous Home Intelligence",
+      "slug": "polsia-cortexhome",
+      "description": "One AI that manages your entire home 24/7 — energy, climate, security, and every device. No more apps, no more schedules, no more manual control.",
+      "description_fr": "Une IA qui gère toute votre maison 24h/24 et 7j/7 : énergie, climat, sécurité et tous les appareils. Plus d'applications, plus de plannings, plus de contrôle manuel.",
+      "category": "AI & Machine Learning",
+      "website": "https://cortexhome.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T07:38:13.511337+00:00"
+    },
+    {
+      "name": "NordicStay — Autonomous Villa Management for Finnish Owners",
+      "slug": "polsia-nordicstay",
+      "description": "AI responds to every inquiry within minutes — across Airbnb, Booking.com, and direct bookings. Speaks Finnish and English. Handles objections, special requests, and booking confirmation automatically.",
+      "description_fr": "L'IA répond à chaque demande en quelques minutes, sur Airbnb, Booking.com et les réservations directes. Parle finnois et anglais. Gère automatiquement les objections, les demandes spéciales et la confirmation de réservation.",
+      "category": "AI & Machine Learning",
+      "website": "https://nordicstay.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T07:38:14.928292+00:00"
+    },
+    {
+      "name": "Orbit — Autonomous Social Media Agent",
+      "slug": "polsia-orbitsocial",
+      "description": "The tools we have are calendars with a compose box. They don't think, don't monitor, don't act. Orbit is built for 2026 — an AI employee that runs your social presence while you sleep. Your time is worth more than a scheduling grid.",
+      "description_fr": "Les outils dont nous disposons sont des calendriers avec une boîte de composition. Ils ne pensent pas, ne surveillent pas, n’agissent pas. Orbit est construit pour 2026 : un employé IA qui gère votre présence sociale pendant que vous dormez. Votre temps vaut plus qu’une grille de planification.",
+      "category": "AI & Machine Learning",
+      "website": "https://orbitsocial.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T07:38:16.523583+00:00"
+    },
+    {
+      "name": "CodeSentinel — Autonomous Code Security Agent",
+      "slug": "polsia-codesentinel-5",
+      "description": "An AI agent that watches your GitHub repositories 24/7, finds vulnerabilities, and files the fix before you even notice. Built for the vibe-coding era.",
+      "description_fr": "Un agent IA qui surveille vos référentiels GitHub 24h/24 et 7j/7, trouve les vulnérabilités et dépose le correctif avant même que vous ne le remarquiez. Conçu pour l’ère du vibe-coding.",
+      "category": "AI & Machine Learning",
+      "website": "https://codesentinel-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T07:38:18.050005+00:00"
+    },
+    {
+      "name": "FactoryOS — The Operating System for Ad Agencies",
+      "slug": "polsia-factoryos-2",
+      "description": "FactoryOS is built on the same principle. Not a dashboard you check. A system that runs. Every client campaign, every lead, every report — tracked and executed with the same discipline that turned a kid who lost ₹60K in an MLM scam into a founder generating ₹1 crore in ad revenue for clients.",
+      "description_fr": "FactoryOS est construit sur le même principe. Pas un tableau de bord que vous vérifiez. Un système qui fonctionne. Chaque campagne client, chaque prospect, chaque rapport – suivi et exécuté avec la même discipline qui a transformé un enfant qui a perdu 60 000 ₹ dans une arnaque MLM en un fondateur générant 1 crore ₹ de revenus publicitaires pour les clients.",
+      "category": "Marketing & Advertising",
+      "website": "https://factoryos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T07:38:19.880644+00:00"
+    },
+    {
+      "name": "PrybarOS — Operating System for Prybar",
+      "slug": "polsia-prybarlos",
+      "description": "The operating system for Prybar — AI that texts customers back instantly, books jobs, and captures every lead. 24/7. No missed calls. No expensive answering services.",
+      "description_fr": "Le système d'exploitation pour Prybar – une IA qui répond instantanément aux clients, réserve des tâches et capture chaque prospect. 24h/24 et 7j/7. Aucun appel manqué. Pas de services de réponse coûteux.",
+      "category": "AI & Machine Learning",
+      "website": "https://prybarlos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T07:38:20.939052+00:00"
+    },
+    {
+      "name": "Relatio — AI Agents for Commercial Banking",
+      "slug": "polsia-relatio",
+      "description": "Autonomous AI agents that monitor commercial loan portfolios, keep clients warm, and surface growth opportunities — 24/7.",
+      "description_fr": "Des agents d'IA autonomes qui surveillent les portefeuilles de prêts commerciaux, gardent les clients au chaud et font apparaître des opportunités de croissance, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://relatio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T07:38:21.789623+00:00"
     }
   ]
 }
