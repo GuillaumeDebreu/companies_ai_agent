@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T13:39:37.579598+00:00",
+  "last_updated": "2026-06-15T18:16:00.112096+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -159206,6 +159206,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-15T13:39:31.233998+00:00"
+    },
+    {
+      "name": "SignalHQ",
+      "slug": "polsia-signalhq-18",
+      "website": "https://signalhq-18.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-15T18:15:44.617874+00:00"
+    },
+    {
+      "name": "Alyre",
+      "slug": "polsia-alyre",
+      "website": "https://alyre.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-15T18:15:45.046585+00:00"
+    },
+    {
+      "name": "Constellation — AI",
+      "slug": "polsia-constellationos-3",
+      "description": "Describe what you need in plain English. Constellation understands context, infers your schema, and returns exactly the columns you asked for — not the ones the site happened to include.",
+      "description_fr": "Décrivez ce dont vous avez besoin dans un anglais simple. Constellation comprend le contexte, déduit votre schéma et renvoie exactement les colonnes que vous avez demandées, et non celles que le site incluait.",
+      "category": "AI & Machine Learning",
+      "website": "https://constellationos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T18:15:46.866129+00:00"
+    },
+    {
+      "name": "Crate — One Product. Always.",
+      "slug": "polsia-crate-3",
+      "description": "One premium digital product at a time. No marketplace noise. Crate is a curated storefront for the one thing worth buying.",
+      "description_fr": "Un produit numérique premium à la fois. Pas de bruit du marché. Crate est une vitrine organisée pour la seule chose qui vaut la peine d'être achetée.",
+      "category": "E-Commerce & Retail",
+      "website": "https://crate-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T18:15:48.328333+00:00"
+    },
+    {
+      "name": "Pitchr — Your Autonomous AI SDR",
+      "slug": "polsia-pitchr-ai-5",
+      "description": "Benchmarks based on aggregated industry data from Hunter.io's 2026 State of Cold Email report and Kyle Poyar's signal-based GTM research. Your results will vary based on ICP fit, data quality, and send infrastructure.",
+      "description_fr": "Benchmarks basés sur les données agrégées de l'industrie issues du rapport State of Cold Email 2026 de Hunter.io et de la recherche GTM basée sur le signal de Kyle Poyar. Vos résultats varieront en fonction de l’ajustement ICP, de la qualité des données et de l’infrastructure d’envoi.",
+      "category": "AI & Machine Learning",
+      "website": "https://pitchr-ai-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T18:15:49.902939+00:00"
+    },
+    {
+      "name": "ForgeStack — Autonomous AI That Runs Your Company",
+      "slug": "polsia-forgestack-28",
+      "description": "ForgeStack is an autonomous AI platform that plans, builds, and markets your company 24/7. Product, engineering, marketing, growth — handled while you sleep.",
+      "description_fr": "ForgeStack est une plateforme d'IA autonome qui planifie, construit et commercialise votre entreprise 24h/24 et 7j/7. Produit, ingénierie, marketing, croissance – gérés pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://forgestack-28.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T18:15:50.802315+00:00"
+    },
+    {
+      "name": "Clause — Contract Intelligence",
+      "slug": "polsia-clause-ai-9",
+      "description": "Clause is an AI agent that monitors your contracts 24/7 — tracking obligations, flagging risks, and alerting you only when something needs your attention. Built by a licensed Advocate who got tired of missing deadlines.",
+      "description_fr": "Clause est un agent d'IA qui surveille vos contrats 24 heures sur 24, 7 jours sur 7, en suivant les obligations, en signalant les risques et en vous alertant uniquement lorsque quelque chose nécessite votre attention. Construit par un avocat agréé qui en avait assez de ne pas respecter les délais.",
+      "category": "AI & Machine Learning",
+      "website": "https://clause-ai-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T18:15:52.604439+00:00"
+    },
+    {
+      "name": "Komal — Infrastructure Guardian Agent",
+      "slug": "polsia-komal",
+      "description": "In five years, every production team has an AI guardian watching their infrastructure. When a server is about to fail, the team already knows — and the fix is already in motion. Outages become a relic of the pre-agent era.",
+      "description_fr": "Dans cinq ans, chaque équipe de production disposera d’un gardien IA surveillant son infrastructure. Lorsqu'un serveur est sur le point de tomber en panne, l'équipe le sait déjà et le correctif est déjà en cours. Les pannes deviennent une relique de l’ère pré-agent.",
+      "category": "AI & Machine Learning",
+      "website": "https://komal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T18:15:54.153368+00:00"
+    },
+    {
+      "name": "Bookly — Autonomous Bookkeeping for Small Business",
+      "slug": "polsia-bookly-3",
+      "description": "Bookly imports your transactions, categorizes every entry with AI, and keeps your books clean — every day, without you lifting a finger. No more chasing receipts or guessing at categories.",
+      "description_fr": "Bookly importe vos transactions, catégorise chaque entrée avec l'IA et garde vos livres propres, chaque jour, sans que vous leviez le petit doigt. Plus besoin de courir après les reçus ou de deviner les catégories.",
+      "category": "AI & Machine Learning",
+      "website": "https://bookly-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T18:15:55.686792+00:00"
+    },
+    {
+      "name": "OrderFlow",
+      "slug": "polsia-orderflow-ai",
+      "website": "https://orderflow-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-15T18:15:56.209892+00:00"
     }
   ]
 }
