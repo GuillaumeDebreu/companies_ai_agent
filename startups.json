@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T12:17:33.104304+00:00",
+  "last_updated": "2026-06-15T13:39:37.579598+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -159002,12 +159002,15 @@
       "scraped_at": "2026-06-15T07:38:11.020743+00:00"
     },
     {
-      "name": "FrameCraft",
+      "name": "FrameCraft — Professional Video Production for South African Businesses",
       "slug": "polsia-framecraft-30",
+      "description": "We work with South African SMEs who need professional video that actually moves their audience — without a six-figure budget. That means clear scoping, honest timelines, and work that looks like it cost twice as much.",
+      "description_fr": "Nous travaillons avec des PME sud-africaines qui ont besoin de vidéos professionnelles qui touchent réellement leur public, sans budget à six chiffres. Cela signifie une portée claire, des délais honnêtes et un travail qui semble coûter deux fois plus cher.",
+      "category": "Entertainment & Media",
       "website": "https://framecraft-30.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-15T07:38:11.406136+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-15T13:39:37.131517+00:00"
     },
     {
       "name": "LivingHeritageOS",
@@ -159093,6 +159096,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-15T07:38:21.789623+00:00"
+    },
+    {
+      "name": "Meridian — AI Automation for Small Business",
+      "slug": "polsia-meridian-ai-87",
+      "description": "Done-for-you AI automation for small and mid-sized companies. Customer support, lead qualification, appointment booking, and more.",
+      "description_fr": "Automatisation de l'IA faite pour vous pour les petites et moyennes entreprises. Support client, qualification des leads, prise de rendez-vous, et bien plus encore.",
+      "category": "AI & Machine Learning",
+      "website": "https://meridian-ai-87.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T13:39:17.100202+00:00"
+    },
+    {
+      "name": "HomeSwipe — Book a Vetted Cleaner in 60 Seconds",
+      "slug": "polsia-homeswipe",
+      "description": "We built HomeSwipe to give Houston homeowners transparency, speed, and quality — and to give local cleaners a platform that respects their work and invests in their success. Launching soon in Houston, TX. Join the list.",
+      "description_fr": "Nous avons créé HomeSwipe pour offrir aux propriétaires de Houston transparence, rapidité et qualité – et pour offrir aux nettoyeurs locaux une plate-forme qui respecte leur travail et investit dans leur réussite. Lancement bientôt à Houston, Texas. Rejoignez la liste.",
+      "category": "Software & SaaS",
+      "website": "https://homeswipe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T13:39:19.064776+00:00"
+    },
+    {
+      "name": "Coldkite — Your AI SDR That Books Meetings While You Sleep",
+      "slug": "polsia-coldkite",
+      "description": "Coldkite is an autonomous AI sales agent that finds prospects, writes personalized cold emails, and books meetings — all without human intervention.",
+      "description_fr": "Coldkite est un agent commercial autonome doté d'IA qui trouve des prospects, rédige des e-mails froids personnalisés et organise des réunions, le tout sans intervention humaine.",
+      "category": "Sales & CRM",
+      "website": "https://coldkite.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T13:39:20.555789+00:00"
+    },
+    {
+      "name": "ZenovaOS — The Operating System for Modern Agencies",
+      "slug": "polsia-zenova-os",
+      "description": "We operate on a simple principle: if it can't be measured, it shouldn't be sold. Every strategy we build has a clear ROI target. Every campaign we run has real-time tracking. Every report we deliver answers the question every client is asking: is this working?",
+      "description_fr": "Nous fonctionnons selon un principe simple : si cela ne peut pas être mesuré, cela ne doit pas être vendu. Chaque stratégie que nous élaborons a un objectif de retour sur investissement clair. Chaque campagne que nous menons bénéficie d'un suivi en temps réel. Chaque rapport que nous livrons répond à la question que se pose chaque client : est-ce que cela fonctionne ?",
+      "category": "Marketing & Advertising",
+      "website": "https://zenova-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T13:39:22.069597+00:00"
+    },
+    {
+      "name": "Orbit — Autonomous Software Development",
+      "slug": "polsia-orbit-17",
+      "description": "On every artifact, the Security Agent runs static and dynamic vulnerability scanning. The Debug Agent runs unit tests, integration tests, and edge-case simulations. Both publish findings to a shared review board.",
+      "description_fr": "Sur chaque artefact, Security Agent exécute une analyse de vulnérabilité statique et dynamique. L'agent de débogage exécute des tests unitaires, des tests d'intégration et des simulations de cas extrêmes. Les deux publient leurs résultats auprès d’un comité d’examen commun.",
+      "category": "Software & SaaS",
+      "website": "https://orbit-17.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T13:39:23.708179+00:00"
+    },
+    {
+      "name": "WanderOS — The Operating System for Modern Travel",
+      "slug": "polsia-wanderos-5",
+      "description": "Built for firms that run multi-office, multi-division travel operations. From first enquiry to final voucher — one coherent system, instead of a dozen disconnected tools.",
+      "description_fr": "Conçu pour les entreprises qui gèrent des opérations de voyages multi-sites et multi-divisions. De la première demande au justificatif final : un système cohérent, au lieu d'une douzaine d'outils déconnectés.",
+      "category": "Marketing & Advertising",
+      "website": "https://wanderos-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T13:39:24.836632+00:00"
+    },
+    {
+      "name": "Layerflow — Design ops, done.",
+      "slug": "polsia-layerflow-4",
+      "description": "It's briefs, specs, QA checklists, feedback loops, and handoff documentation. The work that fills your days without filling your portfolio. Repetitive. Tedious. Expensive. And it doesn't have to be done by a human.",
+      "description_fr": "Il s'agit de briefs, de spécifications, de listes de contrôle d'assurance qualité, de boucles de rétroaction et de documentation de transfert. Le travail qui remplit vos journées sans remplir votre portfolio. Répétitif. Fastidieux. Cher. Et cela ne doit pas nécessairement être fait par un humain.",
+      "category": "Other",
+      "website": "https://layerflow-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T13:39:26.721807+00:00"
+    },
+    {
+      "name": "SignalHawk — AI Competitive Intelligence",
+      "slug": "polsia-signalhawk-12",
+      "description": "An AI agent that watches your competitors 24/7 and delivers a daily intelligence briefing to your inbox. No dashboards. Just signal.",
+      "description_fr": "Un agent IA qui surveille vos concurrents 24h/24 et 7j/7 et vous envoie un briefing quotidien dans votre boîte de réception. Pas de tableaux de bord. Signalez simplement.",
+      "category": "AI & Machine Learning",
+      "website": "https://signalhawk-12.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T13:39:27.821236+00:00"
+    },
+    {
+      "name": "PingPulse — AI Website Monitoring Agent",
+      "slug": "polsia-pingpulse-4",
+      "description": "PingPulse is the employee you can't afford to hire for monitoring. It doesn't sleep. It doesn't miss things. It doesn't send you 47 \"something changed\" notifications. It thinks before it speaks, then tells you exactly what you need to know.",
+      "description_fr": "PingPulse est l'employé que vous ne pouvez pas vous permettre d'embaucher pour la surveillance. Il ne dort pas. Il ne manque rien. Il ne vous envoie pas 47 notifications « quelque chose a changé ». Il réfléchit avant de parler, puis vous dit exactement ce que vous devez savoir.",
+      "category": "AI & Machine Learning",
+      "website": "https://pingpulse-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T13:39:29.206744+00:00"
+    },
+    {
+      "name": "ExecAuthority — The AI Authority Engine",
+      "slug": "polsia-execauthority",
+      "description": "You've spent two decades learning what your competitors haven't figured out yet.\n        You have opinions that would reshape an entire industry — if anyone knew them.\n        Right now, someone with half your experience and twice your social presence is getting the meeting you deserve.",
+      "description_fr": "Vous avez passé deux décennies à apprendre ce que vos concurrents n'ont pas encore compris.\n        Vous avez des opinions qui remodèleraient toute une industrie – si quelqu’un les connaissait.\n        À l’heure actuelle, quelqu’un avec la moitié de votre expérience et deux fois votre présence sociale obtient la rencontre que vous méritez.",
+      "category": "AI & Machine Learning",
+      "website": "https://execauthority.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T13:39:31.233998+00:00"
     }
   ]
 }
