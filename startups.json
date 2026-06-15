@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T23:51:15.672537+00:00",
+  "last_updated": "2026-06-15T02:09:35.090162+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -158768,12 +158768,15 @@
       "scraped_at": "2026-06-14T22:36:30.091812+00:00"
     },
     {
-      "name": "StackSheets",
+      "name": "StackSheets — Spreadsheets Built for POD Sellers",
       "slug": "polsia-stacksheets",
+      "description": "The creators who win in Print On Demand are the ones who know their numbers. Not eventually — at the moment of every pricing decision. StackSheets exists to give POD sellers the same financial clarity that established businesses take for granted.",
+      "description_fr": "Les créateurs qui gagnent en Print On Demand sont ceux qui connaissent leurs chiffres. Pas finalement – ​​au moment de chaque décision tarifaire. StackSheets existe pour donner aux vendeurs de POD la même clarté financière que les entreprises établies tiennent pour acquises.",
+      "category": "Finance & Fintech",
       "website": "https://stacksheets.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-14T23:49:03.861065+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-15T02:09:35.088097+00:00"
     },
     {
       "name": "Boulder — AI for Indie Game Devs",
@@ -158873,6 +158876,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-14T23:49:46.754711+00:00"
+    },
+    {
+      "name": "Offstage — AI for Music Promoters",
+      "slug": "polsia-offstage-25",
+      "description": "Offstage is the AI copilot for music event promoters. It handles social posts, artist follow-ups, ticket hype, and post-show content — so you can stay in your lane: finding talent and building shows people remember.",
+      "description_fr": "Offstage est le copilote IA pour les promoteurs d'événements musicaux. Il gère les publications sur les réseaux sociaux, le suivi des artistes, le battage médiatique des billets et le contenu post-spectacle — afin que vous puissiez rester dans votre voie : trouver des talents et créer des spectacles dont les gens se souviennent.",
+      "category": "AI & Machine Learning",
+      "website": "https://offstage-25.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T02:09:04.201682+00:00"
+    },
+    {
+      "name": "SpeedOS — Operating System for Doublespeed",
+      "slug": "polsia-speedos",
+      "description": "A real phone on a real US carrier looks like every other phone on the network. Device fingerprint, IMEI, carrier signal — none of it can be faked from a server. If you want accounts to behave like real users, they have to live on real devices.",
+      "description_fr": "Un vrai téléphone sur un véritable opérateur américain ressemble à tous les autres téléphones du réseau. Empreinte digitale de l’appareil, IMEI, signal porteur – rien de tout cela ne peut être falsifié à partir d’un serveur. Si vous souhaitez que les comptes se comportent comme de vrais utilisateurs, ils doivent vivre sur de vrais appareils.",
+      "category": "Social & Community",
+      "website": "https://speedos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T02:09:05.847459+00:00"
+    },
+    {
+      "name": "Tijarati — Logiciel de Gestion Simple pour PME Marocaines",
+      "slug": "polsia-tijarati-os",
+      "description": "Gérez vos ventes, stock et factures en un seul endroit. Sans abonnement mensuel. Conforme DGI 2026.",
+      "description_fr": "Gérez vos ventes, stocks et factures en un seul endroit. Sans abonnement mensuel. Conforme DGI 2026.",
+      "category": "Other",
+      "website": "https://tijarati-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T02:09:07.359336+00:00"
+    },
+    {
+      "name": "PulseRadar — AI Tender Monitoring for NZ SMBs",
+      "slug": "polsia-pulseradar-5",
+      "description": "PulseRadar monitors NZ government tenders 24/7. Get AI-qualified alerts before your competitors find out. Built in Christchurch.",
+      "description_fr": "PulseRadar surveille les appels d'offres du gouvernement néo-zélandais 24h/24 et 7j/7. Recevez des alertes qualifiées par l'IA avant que vos concurrents ne le découvrent. Construit à Christchurch.",
+      "category": "AI & Machine Learning",
+      "website": "https://pulseradar-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T02:09:08.834862+00:00"
+    },
+    {
+      "name": "AutoOS",
+      "slug": "polsia-autoos",
+      "description": "Local service businesses are behind the curve on AI. That's your opportunity. Every day you wait, a competitor is building the system that should be yours.",
+      "description_fr": "Les entreprises de services locales sont en retard en matière d’IA. C'est votre opportunité. Chaque jour que vous attendez, un concurrent construit le système qui devrait être le vôtre.",
+      "category": "AI & Machine Learning",
+      "website": "https://autoos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T02:09:10.202101+00:00"
+    },
+    {
+      "name": "FrameLine — AI Agent for Custom Home Builders",
+      "slug": "polsia-frameline-2",
+      "description": "You run a 5-person shop. You don't have a project coordinator. You don't have a dedicated office manager. You have a phone full of texts, a spreadsheet that nobody updates, and clients who feel like they're in the dark.",
+      "description_fr": "Vous dirigez une boutique de 5 personnes. Vous n'avez pas de coordinateur de projet. Vous n'avez pas de chef de bureau dédié. Vous avez un téléphone rempli de SMS, une feuille de calcul que personne ne met à jour et des clients qui ont l'impression d'être dans le noir.",
+      "category": "AI & Machine Learning",
+      "website": "https://frameline-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T02:09:11.938767+00:00"
+    },
+    {
+      "name": "AdspirerOS — Autonomous Ad Intelligence",
+      "slug": "polsia-adspirer",
+      "description": "The operating system for AI agents that run ad campaigns. Google, Meta, TikTok, LinkedIn — all from a single conversation.",
+      "description_fr": "Le système d'exploitation pour les agents IA qui exécutent des campagnes publicitaires. Google, Meta, TikTok, LinkedIn, le tout à partir d'une seule conversation.",
+      "category": "AI & Machine Learning",
+      "website": "https://adspirer.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T02:09:15.406056+00:00"
+    },
+    {
+      "name": "Novasmoon — AI",
+      "slug": "polsia-novasmoonos",
+      "description": "Institutional traders have always had the edge — proprietary data, PhD quant teams, and algorithms that move markets.\n        Novasmoon levels that playing field. We give individual investors the same signal intelligence, at a fraction of the cost, in a fraction of the time.",
+      "description_fr": "Les traders institutionnels ont toujours eu l’avantage : données exclusives, équipes quantitatives de doctorat et algorithmes qui font bouger les marchés.\n        Novasmoon égalise ces règles du jeu. Nous fournissons aux investisseurs individuels la même intelligence artificielle, à une fraction du coût et en une fraction du temps.",
+      "category": "AI & Machine Learning",
+      "website": "https://novasmoonos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T02:09:19.280969+00:00"
+    },
+    {
+      "name": "DataAxis — Compliance",
+      "slug": "polsia-dataaxis",
+      "description": "DataAxis provides transparent, compliant business and consumer data to mid-market companies without the enterprise complexity.",
+      "description_fr": "DataAxis fournit des données transparentes et conformes sur les entreprises et les consommateurs aux entreprises de taille moyenne, sans la complexité de l'entreprise.",
+      "category": "Real Estate",
+      "website": "https://dataaxis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T02:09:20.225282+00:00"
+    },
+    {
+      "name": "Velocity — AI Content Agency for Fast",
+      "slug": "polsia-velocity-9",
+      "description": "AI-powered content agency. We build your social media presence in days, not months. Done-for-you content packages starting at $497.",
+      "description_fr": "Agence de contenu basée sur l'IA. Nous construisons votre présence sur les réseaux sociaux en quelques jours, et non en mois. Forfaits de contenu faits pour vous à partir de 497 $.",
+      "category": "AI & Machine Learning",
+      "website": "https://velocity-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T02:09:22.233963+00:00"
     }
   ]
 }
