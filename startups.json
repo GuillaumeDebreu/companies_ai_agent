@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T20:56:45.492143+00:00",
+  "last_updated": "2026-06-15T21:27:36.226024+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -159216,12 +159216,15 @@
       "scraped_at": "2026-06-15T18:15:44.617874+00:00"
     },
     {
-      "name": "Alyre",
+      "name": "Alyre — Your AI Sales Agent",
       "slug": "polsia-alyre",
+      "description": "Alyre autonomously manages your entire outbound sales process — research, outreach, follow-ups, and demo booking — every hour of every day. No headcount. No burnout. Just results.",
+      "description_fr": "Alyre gère de manière autonome l'ensemble de votre processus de vente sortante (recherche, sensibilisation, suivis et réservation de démos) à chaque heure de la journée. Aucun effectif. Pas d'épuisement professionnel. Juste des résultats.",
+      "category": "AI & Machine Learning",
       "website": "https://alyre.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-15T18:15:45.046585+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-15T21:27:33.772741+00:00"
     },
     {
       "name": "Constellation — AI",
@@ -159307,6 +159310,95 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-06-15T18:15:56.209892+00:00"
+    },
+    {
+      "name": "CompassOS — Operating System for Investment Advisors",
+      "slug": "polsia-compassos-21",
+      "description": "We built CompassOS after watching incredible advisors drown in spreadsheets, stale CRM data, and manual follow-up sequences. You went to school for portfolio theory. You didn't go to school for Zapier workflows.",
+      "description_fr": "Nous avons créé CompassOS après avoir vu d'incroyables conseillers se noyer dans des feuilles de calcul, des données CRM obsolètes et des séquences de suivi manuel. Vous êtes allé à l'école pour étudier la théorie du portefeuille. Vous n'êtes pas allé à l'école pour les flux de travail Zapier.",
+      "category": "Productivity & Automation",
+      "website": "https://compassos-21.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T21:27:21.058071+00:00"
+    },
+    {
+      "name": "Kern Advisory",
+      "slug": "polsia-kernadvisory",
+      "website": "https://kernadvisory.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-15T21:27:21.515737+00:00"
+    },
+    {
+      "name": "Firmix",
+      "slug": "polsia-firmix",
+      "website": "https://firmix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-15T21:27:22.037005+00:00"
+    },
+    {
+      "name": "WheelDeskOS",
+      "slug": "polsia-wheeldeskos",
+      "website": "https://wheeldeskos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-15T21:27:22.585142+00:00"
+    },
+    {
+      "name": "Fetchie",
+      "slug": "polsia-fetchie",
+      "website": "https://fetchie.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-15T21:27:24.019306+00:00"
+    },
+    {
+      "name": "OptiForge",
+      "slug": "polsia-optiforge",
+      "website": "https://optiforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-15T21:27:24.465220+00:00"
+    },
+    {
+      "name": "DeskShapeOS",
+      "slug": "polsia-deskshape",
+      "website": "https://deskshape.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-15T21:27:24.923188+00:00"
+    },
+    {
+      "name": "VigilOS",
+      "slug": "polsia-vigilos-13",
+      "website": "https://vigilos-13.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-15T21:27:25.402017+00:00"
+    },
+    {
+      "name": "Toolify — Ship SaaS products by describing what you want",
+      "slug": "polsia-toolify",
+      "description": "AI builds, ships, and runs your SaaS product. You describe the idea. We handle the rest.",
+      "description_fr": "L'IA construit, expédie et exécute votre produit SaaS. Vous décrivez l'idée. Nous nous occupons du reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://toolify.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T21:27:27.049075+00:00"
+    },
+    {
+      "name": "AlertFX — FX Alerts That Watch For You",
+      "slug": "polsia-alertfx",
+      "description": "AlertFX is an AI agent that monitors 190+ currency pairs around the clock — and\n    notifies you the moment rates hit your targets. No dashboards to watch. No charts to stare at.\n    Set your levels once. Get alerted when it matters.",
+      "description_fr": "AlertFX est un agent IA qui surveille plus de 190 paires de devises 24 heures sur 24 – et\n    vous avertit dès que les taux atteignent vos objectifs. Aucun tableau de bord à surveiller. Aucun graphique à regarder.\n    Réglez vos niveaux une fois. Soyez alerté quand cela compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://alertfx.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-15T21:27:28.529547+00:00"
     }
   ]
 }
