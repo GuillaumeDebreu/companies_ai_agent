@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T17:35:26.860553+00:00",
+  "last_updated": "2026-06-16T20:30:09.958921+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -159837,12 +159837,15 @@
       "scraped_at": "2026-06-16T17:35:08.065499+00:00"
     },
     {
-      "name": "AutoFlow",
+      "name": "AutoFlow — AI Automation for African SMBs",
       "slug": "polsia-autoflow-65",
+      "description": "AutoFlow existe pour ça. Construire l'automatisation intelligente que le marché local necesita — sans barrier d'anglais, sans coût prohibitif, sans complexité inutile.",
+      "description_fr": "AutoFlow existe pour ça. Construire l'automatisation intelligente que le marché local nécessite — sans barrière d'anglais, sans coût prohibitif, sans complexité inutile.",
+      "category": "AI & Machine Learning",
       "website": "https://autoflow-65.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-16T17:35:08.557358+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-16T20:30:01.432981+00:00"
     },
     {
       "name": "OperatorBridge",
@@ -159869,12 +159872,15 @@
       "scraped_at": "2026-06-16T17:35:10.004739+00:00"
     },
     {
-      "name": "Arc",
+      "name": "Arc — AI Sales Agent",
       "slug": "polsia-arc-178163",
+      "description": "The modern sales team should not need to hire another human to hit another number.You already know what your best customers look like. Arc finds them, talks to them, qualifies them, and brings you the ones worth your time.No more cold calls you dread. No more spreadsheets that go stale. No more pipeline gaps you can't explain.Just meetings. Booked. While you sleep.",
+      "description_fr": "L’équipe commerciale moderne ne devrait pas avoir besoin d’embaucher une autre personne pour atteindre un autre chiffre. Vous savez déjà à quoi ressemblent vos meilleurs clients. Arc les trouve, leur parle, les qualifie et vous propose ceux qui valent la peine. Fini les appels à froid que vous redoutez. Fini les feuilles de calcul qui deviennent obsolètes. Fini les écarts de pipeline que vous ne pouvez pas expliquer. Juste des réunions. Réservé. Pendant que tu dors.",
+      "category": "AI & Machine Learning",
       "website": "https://arc-178163.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-16T17:35:10.765936+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-16T20:30:03.440571+00:00"
     },
     {
       "name": "SharpOS",
@@ -159885,20 +159891,26 @@
       "scraped_at": "2026-06-16T17:35:11.197225+00:00"
     },
     {
-      "name": "RepetitiveAI",
+      "name": "RepetitiveAI — AI Automation for Small Businesses",
       "slug": "polsia-repetitiveai",
+      "description": "We build AI workflows that automate the repetitive work draining your business. Setup + management starting at $500/month.",
+      "description_fr": "Nous construisons des flux de travail d'IA qui automatisent le travail répétitif qui épuise votre entreprise. Installation + gestion à partir de 500$/mois.",
+      "category": "AI & Machine Learning",
       "website": "https://repetitiveai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-16T17:35:11.658882+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-16T20:30:05.051631+00:00"
     },
     {
-      "name": "ChainSync",
+      "name": "ChainSync — Blockchain to ERP, Automated",
       "slug": "polsia-chainsync",
+      "description": "ChainSync scans blockchain wallets and syncs every transaction directly to your ERP as clean journal entries. No more CSV imports.",
+      "description_fr": "ChainSync analyse les portefeuilles blockchain et synchronise chaque transaction directement sur votre ERP sous forme d'entrées de journal propres. Plus d'importations CSV.",
+      "category": "Finance & Fintech",
       "website": "https://chainsync.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-16T17:35:12.086881+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-16T20:30:06.525403+00:00"
     },
     {
       "name": "PitchForge — Autonomous AI Cold Outbound",
@@ -159910,6 +159922,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-16T17:35:13.662815+00:00"
+    },
+    {
+      "name": "LuminOS",
+      "slug": "polsia-luminos-8",
+      "website": "https://luminos-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T20:29:48.925676+00:00"
+    },
+    {
+      "name": "OutrOS",
+      "slug": "polsia-outros",
+      "website": "https://outros.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T20:29:49.402469+00:00"
+    },
+    {
+      "name": "AIonIQOS",
+      "slug": "polsia-aioniqos",
+      "website": "https://aioniqos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T20:29:49.814324+00:00"
+    },
+    {
+      "name": "ProximityAI — Your AI Phone Agent, Always On",
+      "slug": "polsia-proximityai",
+      "description": "ProximityAI reads your calendar availability and books the right slot without a human in the loop. Connects to Jobber, Housecall Pro, ServiceTitan, or any standard calendar.",
+      "description_fr": "ProximityAI lit la disponibilité de votre calendrier et réserve le bon créneau sans qu'un humain soit au courant. Se connecte à Jobber, Housecall Pro, ServiceTitan ou à tout calendrier standard.",
+      "category": "AI & Machine Learning",
+      "website": "https://proximityai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-16T20:29:50.633381+00:00"
+    },
+    {
+      "name": "ClearHome — Professional Cleaning for Westchester Homes",
+      "slug": "polsia-clearhome-3",
+      "description": "Reliable residential, office, and Airbnb cleaning services in Westchester County. Recurring clients. Trusted teams. Consistent results.",
+      "description_fr": "Services de nettoyage fiables pour les résidences, les bureaux et Airbnb dans le comté de Westchester. Clients récurrents. Des équipes de confiance. Des résultats cohérents.",
+      "category": "AI & Machine Learning",
+      "website": "https://clearhome-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-16T20:30:08.881413+00:00"
+    },
+    {
+      "name": "IsolifeOS",
+      "slug": "polsia-isolifeos",
+      "website": "https://isolifeos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T20:29:51.373629+00:00"
+    },
+    {
+      "name": "Brief",
+      "slug": "polsia-brief-17",
+      "website": "https://brief-17.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T20:29:51.856795+00:00"
+    },
+    {
+      "name": "ClarityStack",
+      "slug": "polsia-claritystack-2",
+      "website": "https://claritystack-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T20:29:52.327512+00:00"
+    },
+    {
+      "name": "Forge Content — AI",
+      "slug": "polsia-forgecontent",
+      "description": "We create scroll-stopping thumbnails, short-form videos, and social content for creators and small businesses. AI-accelerated, human-polished.",
+      "description_fr": "Nous créons des miniatures à défilement ininterrompu, des vidéos courtes et du contenu social pour les créateurs et les petites entreprises. Accéléré par l’IA, peaufiné par l’humain.",
+      "category": "AI & Machine Learning",
+      "website": "https://forgecontent.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-16T20:29:54.094167+00:00"
+    },
+    {
+      "name": "Foundry",
+      "slug": "polsia-foundry-13",
+      "website": "https://foundry-13.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T20:29:54.491525+00:00"
     }
   ]
 }
