@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T04:20:44.216782+00:00",
+  "last_updated": "2026-06-16T07:38:41.536151+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -159566,12 +159566,15 @@
       "scraped_at": "2026-06-16T02:03:26.954713+00:00"
     },
     {
-      "name": "IntercptOS",
+      "name": "INTRCPT GLB",
       "slug": "polsia-intercptos",
+      "description": "Every alert backed by a cryptographic commitment. INTRCPT seals its anomaly schedule at boot with a SHA256 commit hash. The hash is public from day 1. The full schedule reveals after the verification window closes — anyone can recompute the hash and prove no events were inserted, removed, or moved during the test.",
+      "description_fr": "Chaque alerte est appuyée par un engagement cryptographique. INTRCPT scelle sa planification d'anomalies au démarrage avec un hachage de validation SHA256. Le hachage est public dès le premier jour. Le calendrier complet est révélé après la fermeture de la fenêtre de vérification : n'importe qui peut recalculer le hachage et prouver qu'aucun événement n'a été inséré, supprimé ou déplacé pendant le test.",
+      "category": "Finance & Fintech",
       "website": "https://intercptos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-16T02:03:27.225902+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-16T07:38:39.785450+00:00"
     },
     {
       "name": "GigFlow",
@@ -159613,6 +159616,101 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-06-16T02:03:31.559239+00:00"
+    },
+    {
+      "name": "GL Construct",
+      "slug": "polsia-gl-construct",
+      "website": "https://gl-construct.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T07:38:22.979914+00:00"
+    },
+    {
+      "name": "SyncStack",
+      "slug": "polsia-syncstack-10",
+      "website": "https://syncstack-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T07:38:23.416190+00:00"
+    },
+    {
+      "name": "Freeli",
+      "slug": "polsia-freeli-ai",
+      "website": "https://freeli-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T07:38:23.832527+00:00"
+    },
+    {
+      "name": "FrostBlast — Dry Ice Cleaning, Raleigh NC",
+      "slug": "polsia-frostblast-2",
+      "description": "Eco-friendly dry ice blasting services for industrial, manufacturing, and food processing facilities in the Raleigh, NC area. No chemicals. No water. No downtime.",
+      "description_fr": "Services de projection de glace carbonique respectueux de l'environnement pour les installations industrielles, de fabrication et de transformation alimentaire de la région de Raleigh, en Caroline du Nord. Pas de produits chimiques. Pas d'eau. Pas de temps d'arrêt.",
+      "category": "Food & Beverage",
+      "website": "https://frostblast-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-16T07:38:25.454438+00:00"
+    },
+    {
+      "name": "Fieldrun — Autonomous Outbound Sales",
+      "slug": "polsia-fieldrun-5",
+      "description": "I noticed your team has been hiring SDRs aggressively — congrats on the Series B. Most companies at your stage are running into the same wall: outbound volume goes up, reply rates go down, and your best reps spend 60% of their time on research instead of selling.",
+      "description_fr": "J'ai remarqué que votre équipe recrute des SDR de manière agressive – félicitations pour la série B. La plupart des entreprises à votre stade se heurtent au même mur : le volume sortant augmente, les taux de réponse diminuent et vos meilleurs commerciaux consacrent 60 % de leur temps à la recherche au lieu de vendre.",
+      "category": "Marketing & Advertising",
+      "website": "https://fieldrun-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-16T07:38:26.749685+00:00"
+    },
+    {
+      "name": "BrandofyOS",
+      "slug": "polsia-brandofyos-2",
+      "website": "https://brandofyos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T07:38:27.086396+00:00"
+    },
+    {
+      "name": "LeadStreamOS",
+      "slug": "polsia-leadstreamos",
+      "website": "https://leadstreamos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T07:38:27.512956+00:00"
+    },
+    {
+      "name": "Signal — Autonomous Competitor Intelligence",
+      "slug": "polsia-everluxe",
+      "description": "Signal watches your competitors so you don't have to. An autonomous AI agent that monitors, digests, and delivers daily intelligence briefings.",
+      "description_fr": "Signal surveille vos concurrents pour que vous n'ayez pas à le faire. Un agent d'IA autonome qui surveille, digère et fournit des briefings de renseignement quotidiens.",
+      "category": "AI & Machine Learning",
+      "website": "https://everluxe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-16T07:38:28.303595+00:00"
+    },
+    {
+      "name": "Recovr",
+      "slug": "polsia-recovr",
+      "description": "You've already paid for every lead that came through your website, your Google Ads, your referrals. The question isn't whether those leads exist — it's whether you have a system that catches them all. Recovr is that system.",
+      "description_fr": "Vous avez déjà payé pour chaque prospect provenant de votre site Web, de vos annonces Google et de vos références. La question n’est pas de savoir si ces pistes existent, mais plutôt de savoir si vous disposez d’un système qui les détecte toutes. La récupération est ce système.",
+      "category": "Marketing & Advertising",
+      "website": "https://recovr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-16T07:38:30.100013+00:00"
+    },
+    {
+      "name": "DemandBridge — B2B Lead Generation for Local Businesses",
+      "slug": "polsia-demandbridge-2",
+      "description": "High-value cases, long sales cycles, strict compliance. We understand legal marketing. We build campaigns that qualify the right leads and protect your reputation.",
+      "description_fr": "Cas de grande valeur, cycles de vente longs, conformité stricte. Nous comprenons le marketing légal. Nous construisons des campagnes qui qualifient les bons prospects et protègent votre réputation.",
+      "category": "Marketing & Advertising",
+      "website": "https://demandbridge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-16T07:38:31.520162+00:00"
     }
   ]
 }
