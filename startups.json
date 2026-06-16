@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T20:53:21.786553+00:00",
+  "last_updated": "2026-06-16T22:32:32.647962+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -159924,28 +159924,37 @@
       "scraped_at": "2026-06-16T17:35:13.662815+00:00"
     },
     {
-      "name": "LuminOS",
+      "name": "Lumin — AI Agent for Accounts Receivable",
       "slug": "polsia-luminos-8",
+      "description": "Lumin does not change your payment terms. It does not renegotiate what you signed. It simply ensures that what was agreed gets honored — on schedule, every time, without a finance team spending half their week on the phone.",
+      "description_fr": "Lumin ne modifie pas vos conditions de paiement. Cela ne renégocie pas ce que vous avez signé. Cela garantit simplement que ce qui a été convenu sera honoré – dans les délais, à chaque fois, sans qu'une équipe financière passe la moitié de sa semaine au téléphone.",
+      "category": "AI & Machine Learning",
       "website": "https://luminos-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-16T20:29:48.925676+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-16T22:32:25.383909+00:00"
     },
     {
-      "name": "OutrOS",
+      "name": "Outr — Autonomous Outreach. Human Judgment.",
       "slug": "polsia-outros",
+      "description": "You open Outr. Four drafts are waiting. Over the weekend it found four companies, scored them, and wrote four emails. Each draft sits next to the evidence behind it: the job posting, the blog post, the buyer's title.",
+      "description_fr": "Vous ouvrez Outr. Quatre brouillons sont en attente. Au cours du week-end, il a trouvé quatre entreprises, les a notées et a rédigé quatre e-mails. Chaque brouillon se trouve à côté des preuves qui le sous-tendent : l'offre d'emploi, l'article de blog, le titre de l'acheteur.",
+      "category": "Sales & CRM",
       "website": "https://outros.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-16T20:29:49.402469+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-16T22:32:27.009215+00:00"
     },
     {
-      "name": "AIonIQOS",
+      "name": "Ioniq OS",
       "slug": "polsia-aioniqos",
+      "description": "We built Ioniq OS because traditional scanners catch the obvious. They miss the attacks that live in language itself — prompt injection, data leakage, behavior manipulation through context. We find those.",
+      "description_fr": "Nous avons créé Ioniq OS parce que les scanners traditionnels captent l'évidence. Ils passent à côté des attaques qui résident dans le langage lui-même : injection rapide, fuite de données, manipulation du comportement à travers le contexte. Nous les trouvons.",
+      "category": "Other",
       "website": "https://aioniqos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-16T20:29:49.814324+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-16T22:32:28.706545+00:00"
     },
     {
       "name": "ProximityAI — Your AI Phone Agent, Always On",
@@ -160011,6 +160020,87 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-06-16T20:29:54.491525+00:00"
+    },
+    {
+      "name": "VocalisOS",
+      "slug": "polsia-vocalisos",
+      "website": "https://vocalisos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T22:32:08.259149+00:00"
+    },
+    {
+      "name": "TrueBidOS",
+      "slug": "polsia-truebidos",
+      "website": "https://truebidos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T22:32:08.746576+00:00"
+    },
+    {
+      "name": "AutoFront",
+      "slug": "polsia-autofront-2",
+      "website": "https://autofront-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T22:32:09.274888+00:00"
+    },
+    {
+      "name": "DWTechOS",
+      "slug": "polsia-dwtechos",
+      "website": "https://dwtechos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T22:32:09.763086+00:00"
+    },
+    {
+      "name": "StarcasterOS",
+      "slug": "polsia-starcasteros",
+      "website": "https://starcasteros.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T22:32:10.184080+00:00"
+    },
+    {
+      "name": "Revoke",
+      "slug": "polsia-revoke-ai",
+      "website": "https://revoke-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T22:32:10.687616+00:00"
+    },
+    {
+      "name": "CraftsmanReply",
+      "slug": "polsia-craftsmanreply",
+      "description": "Save 5-15 hours per week. CraftsmanReply generates professional, on-brand responses to your Google reviews in seconds. Built for residential remodelers.",
+      "description_fr": "Économisez 5 à 15 heures par semaine. CraftsmanReply génère des réponses professionnelles et adaptées à la marque à vos avis Google en quelques secondes. Conçu pour les rénovateurs résidentiels.",
+      "category": "Marketing & Advertising",
+      "website": "https://craftsmanreply.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-16T22:32:12.509366+00:00"
+    },
+    {
+      "name": "Stackrun — Ship features while you sleep",
+      "slug": "polsia-stackrun-4",
+      "description": "Stackrun watches your CI pipeline. When a test fails, it investigates the root cause, writes a fix, and re-runs — before you even see the red badge.",
+      "description_fr": "Stackrun surveille votre pipeline CI. Lorsqu’un test échoue, il recherche la cause première, écrit un correctif et réexécute – avant même que vous ne voyiez le badge rouge.",
+      "category": "Sales & CRM",
+      "website": "https://stackrun-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-16T22:32:13.589312+00:00"
+    },
+    {
+      "name": "Fitt Me In — The Employee Health OS",
+      "slug": "polsia-fittmeinos",
+      "description": "AI-powered health coaching for every employee. Behaviour change, not information. Measurable outcomes for employers.",
+      "description_fr": "Coaching de santé basé sur l'IA pour chaque employé. Un changement de comportement, pas une information. Des résultats mesurables pour les employeurs.",
+      "category": "AI & Machine Learning",
+      "website": "https://fittmeinos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-16T22:32:14.391537+00:00"
     }
   ]
 }
