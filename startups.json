@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T16:54:49.128532+00:00",
+  "last_updated": "2026-06-16T17:35:26.860553+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -159725,12 +159725,15 @@
       "scraped_at": "2026-06-16T07:38:31.520162+00:00"
     },
     {
-      "name": "PunchLock",
+      "name": "PunchLock — Geo",
       "slug": "polsia-punchlock",
+      "description": "Stop time theft before it starts. GPS-verified clock-ins that only work when staff are physically at the restaurant.",
+      "description_fr": "Arrêtez le vol de temps avant qu’il ne commence. Des pointages vérifiés par GPS qui ne fonctionnent que lorsque le personnel est physiquement au restaurant.",
+      "category": "Food & Beverage",
       "website": "https://punchlock.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-16T12:29:56.756398+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-16T17:35:20.313780+00:00"
     },
     {
       "name": "BoundlessPress",
@@ -159743,18 +159746,24 @@
     {
       "name": "HarvestOS",
       "slug": "polsia-harvestos-12",
+      "description": "The Joyful Harvest VA operates with systems in place — so every client receives excellent service, every deadline is met, and the business has the room to grow into something even bigger.",
+      "description_fr": "Le Joyful Harvest VA fonctionne avec des systèmes en place : chaque client reçoit un excellent service, chaque délai est respecté et l'entreprise a la possibilité de se développer pour devenir quelque chose d'encore plus grand.",
+      "category": "Other",
       "website": "https://harvestos-12.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-16T12:29:57.903854+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-16T17:35:21.949103+00:00"
     },
     {
-      "name": "ApexQMS",
+      "name": "ApexQMS — AI",
       "slug": "polsia-apexqms",
+      "description": "ApexQMS is the AI employee that runs your quality management system. It works when you work, and monitors when you sleep. No more spreadsheets. No more consultant bills. No more audit panic.",
+      "description_fr": "ApexQMS est l'employé IA qui gère votre système de gestion de la qualité. Il fonctionne lorsque vous travaillez et surveille lorsque vous dormez. Fini les feuilles de calcul. Fini les factures des consultants. Fini la panique des audits.",
+      "category": "AI & Machine Learning",
       "website": "https://apexqms.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-16T12:29:58.479748+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-16T17:35:23.501155+00:00"
     },
     {
       "name": "HourBack — Your Time, Reclaimed",
@@ -159818,6 +159827,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-16T12:30:06.268748+00:00"
+    },
+    {
+      "name": "Beacon",
+      "slug": "polsia-beacon-1781631221414",
+      "website": "https://beacon-1781631221414.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T17:35:08.065499+00:00"
+    },
+    {
+      "name": "AutoFlow",
+      "slug": "polsia-autoflow-65",
+      "website": "https://autoflow-65.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T17:35:08.557358+00:00"
+    },
+    {
+      "name": "OperatorBridge",
+      "slug": "polsia-operatorbridge",
+      "website": "https://operatorbridge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T17:35:09.064882+00:00"
+    },
+    {
+      "name": "AdLyft",
+      "slug": "polsia-adlyft-2",
+      "website": "https://adlyft-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T17:35:09.617832+00:00"
+    },
+    {
+      "name": "Cast",
+      "slug": "polsia-cast-ai-4",
+      "website": "https://cast-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T17:35:10.004739+00:00"
+    },
+    {
+      "name": "Arc",
+      "slug": "polsia-arc-178163",
+      "website": "https://arc-178163.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T17:35:10.765936+00:00"
+    },
+    {
+      "name": "SharpOS",
+      "slug": "polsia-sharpos",
+      "website": "https://sharpos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T17:35:11.197225+00:00"
+    },
+    {
+      "name": "RepetitiveAI",
+      "slug": "polsia-repetitiveai",
+      "website": "https://repetitiveai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T17:35:11.658882+00:00"
+    },
+    {
+      "name": "ChainSync",
+      "slug": "polsia-chainsync",
+      "website": "https://chainsync.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-16T17:35:12.086881+00:00"
+    },
+    {
+      "name": "PitchForge — Autonomous AI Cold Outbound",
+      "slug": "polsia-pitchforge-76",
+      "description": "The average cold email reply rate is 3.43%. Top performers hit 10%+. The gap isn't the tool — it's having an AI that understands your buyer, writes to their situation, and never drops a follow-up.",
+      "description_fr": "Le taux moyen de réponse aux e-mails froids est de 3,43 %. Les plus performants atteignent plus de 10 %. L'écart n'est pas l'outil : il s'agit d'avoir une IA qui comprend votre acheteur, écrit sur sa situation et n'abandonne jamais de suivi.",
+      "category": "AI & Machine Learning",
+      "website": "https://pitchforge-76.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-16T17:35:13.662815+00:00"
     }
   ]
 }
