@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T21:28:59.446420+00:00",
+  "last_updated": "2026-06-17T23:03:04.944756+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -160766,12 +160766,15 @@
       "scraped_at": "2026-06-17T19:24:03.776427+00:00"
     },
     {
-      "name": "FrontDesk",
+      "name": "FrontDesk — The AI Receptionist That Never Sleeps",
       "slug": "polsia-frontdesk-ai-10",
+      "description": "FrontDesk answers every call, text, and social DM for your small business — 24/7. Never miss a lead again.",
+      "description_fr": "FrontDesk répond à tous les appels, SMS et messages directs sociaux de votre petite entreprise, 24h/24 et 7j/7. Ne manquez plus jamais une piste.",
+      "category": "AI & Machine Learning",
       "website": "https://frontdesk-ai-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-17T21:28:38.055198+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-17T23:03:03.426356+00:00"
     },
     {
       "name": "Vaelia — Autonomous Procurement Compliance",
@@ -160871,6 +160874,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-17T21:28:50.000034+00:00"
+    },
+    {
+      "name": "GrowthLocalOS",
+      "slug": "polsia-growthlocallos",
+      "website": "https://growthlocallos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-17T23:02:52.908667+00:00"
+    },
+    {
+      "name": "SafeSignal",
+      "slug": "polsia-safesignal-2",
+      "website": "https://safesignal-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-17T23:02:53.054062+00:00"
+    },
+    {
+      "name": "NoetticOS — Operating System for Noettic AI",
+      "slug": "polsia-noetticos-2",
+      "description": "Every business that runs on people's craft has operations that are not craft. A lawyer's practice has case law and argument; it also has timesheet reconciliation. A production company has creative vision; it also has vendor invoicing. A studio has the work; it also has the admin that keeps the work running. The line we draw is the line we draw everywhere. The craft is yours. The operations are ours to take.",
+      "description_fr": "Toute entreprise qui fonctionne grâce à l'artisanat des gens a des opérations qui ne sont pas artisanales. La pratique d'un avocat comporte une jurisprudence et des arguments ; il dispose également d'un rapprochement des feuilles de temps. Une société de production a une vision créative ; il dispose également d'une facturation du fournisseur. Un studio a le travail ; il a également l'administrateur qui assure le fonctionnement du travail. La ligne que nous traçons est la ligne que nous traçons partout. Le métier est à vous. Les opérations nous appartiennent.",
+      "category": "AI & Machine Learning",
+      "website": "https://noetticos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T23:03:04.859800+00:00"
+    },
+    {
+      "name": "CradleOS",
+      "slug": "polsia-cradleos",
+      "website": "https://cradleos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-17T23:02:53.319446+00:00"
+    },
+    {
+      "name": "pixeltheory — Indie Game Studio, Rotterdam",
+      "slug": "polsia-pixeltheory",
+      "description": "Pixel Theory is a one-person game studio in Rotterdam, the Netherlands. We make atmospheric, story-driven games where mood, tone, and craft come before commercial metrics.",
+      "description_fr": "Pixel Theory est un studio de jeux individuel situé à Rotterdam, aux Pays-Bas. Nous créons des jeux atmosphériques et basés sur une histoire où l'ambiance, le ton et l'artisanat passent avant les mesures commerciales.",
+      "category": "Other",
+      "website": "https://pixeltheory.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T23:02:54.889030+00:00"
+    },
+    {
+      "name": "Week",
+      "slug": "polsia-weekmedia",
+      "website": "https://weekmedia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-17T23:02:55.114954+00:00"
+    },
+    {
+      "name": "ReignOS — Run Your Beauty Business Autonomously",
+      "slug": "polsia-reignos-2",
+      "description": "The most powerful beauty brands aren't the loudest. They're the ones that never stop running. ReignOS keeps your business in motion — so every customer who finds you encounters a brand that's alive, responsive, and growing.",
+      "description_fr": "Les marques de beauté les plus puissantes ne sont pas les plus bruyantes. Ce sont eux qui ne s'arrêtent jamais de courir. ReignOS maintient votre entreprise en mouvement : ainsi, chaque client qui vous trouve rencontre une marque vivante, réactive et en pleine croissance.",
+      "category": "Marketing & Advertising",
+      "website": "https://reignos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T23:02:56.639099+00:00"
+    },
+    {
+      "name": "LeadPilot — AI Agent That Runs Your Outbound Pipeline",
+      "slug": "polsia-leadpilot-ai-28",
+      "description": "SDRs spend 70% of their day on manual work: scraping LinkedIn, cleaning email lists, writing cold emails that all sound the same, updating CRMs, following up manually. Meanwhile, your best leads are going cold while your competitor's AI agent is already booking demos.",
+      "description_fr": "Les SDR consacrent 70 % de leur journée au travail manuel : scraping de LinkedIn, nettoyage des listes de diffusion, rédaction d'e-mails froids qui se ressemblent tous, mise à jour des CRM, suivi manuel. Pendant ce temps, vos meilleurs prospects disparaissent tandis que l'agent IA de votre concurrent réserve déjà des démos.",
+      "category": "Sales & CRM",
+      "website": "https://leadpilot-ai-28.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T23:02:58.250983+00:00"
+    },
+    {
+      "name": "Vitals",
+      "slug": "polsia-vitalsauto-2",
+      "description": "AI-powered autonomous vehicle service platform. Your shop runs itself 24/7.",
+      "description_fr": "Plateforme de services de véhicules autonomes alimentée par l'IA. Votre boutique fonctionne toute seule 24h/24 et 7j/7.",
+      "category": "Software & SaaS",
+      "website": "https://vitalsauto-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T23:02:59.152592+00:00"
+    },
+    {
+      "name": "Loopback — Stop Churn Before It Happens",
+      "slug": "polsia-loopback-ai-15",
+      "description": "Loopback doesn't send a \"We noticed you're leaving\" modal. It sends a real email — warm, specific, and human enough that your customer doesn't feel managed. It references their plan, their last session, and what you'd do in their position.",
+      "description_fr": "Loopback n'envoie pas de modal \"Nous avons remarqué que vous partez\". Il envoie un véritable e-mail – chaleureux, spécifique et suffisamment humain pour que votre client ne se sente pas géré. Il fait référence à leur plan, à leur dernière session et à ce que vous feriez à leur poste.",
+      "category": "Newsletter & Email",
+      "website": "https://loopback-ai-15.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T23:03:00.058846+00:00"
     }
   ]
 }
