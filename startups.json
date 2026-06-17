@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T20:13:31.293839+00:00",
+  "last_updated": "2026-06-17T21:28:59.446420+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -160656,12 +160656,15 @@
       "scraped_at": "2026-06-17T19:24:23.588800+00:00"
     },
     {
-      "name": "VetPath",
+      "name": "VetPath — Navigate VA Community Care with Confidence",
       "slug": "polsia-vetpath",
+      "description": "VetPath helps veterans understand community care eligibility, track referrals, and find in-network providers — all in one place.",
+      "description_fr": "VetPath aide les anciens combattants à comprendre l'éligibilité aux soins communautaires, à suivre les références et à trouver des prestataires en réseau, le tout en un seul endroit.",
+      "category": "Social & Community",
       "website": "https://vetpath.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-17T19:23:55.116184+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-17T21:28:57.553703+00:00"
     },
     {
       "name": "Rigor — Free AI Peer Review",
@@ -160675,12 +160678,15 @@
       "scraped_at": "2026-06-17T19:24:25.325392+00:00"
     },
     {
-      "name": "Preva",
+      "name": "Preva — Prediction Markets for Brazil",
       "slug": "polsia-preva-2",
+      "description": "Prediction markets have always depended on someone noticing a trend and manually creating a question. That means the best predictions only happen after the opportunity is obvious. Preva changes that. Our AI watches the world continuously and creates markets on events before they become mainstream — giving you an edge that human-curated platforms can't offer.",
+      "description_fr": "Les marchés de prédiction ont toujours dépendu du fait que quelqu'un remarque une tendance et crée manuellement une question. Cela signifie que les meilleures prédictions ne se produisent qu’une fois que l’opportunité est évidente. Preva change cela. Notre IA surveille le monde en permanence et crée des marchés sur les événements avant qu'ils ne deviennent courants, vous donnant ainsi un avantage que les plateformes organisées par l'homme ne peuvent offrir.",
+      "category": "AI & Machine Learning",
       "website": "https://preva-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-17T19:23:55.907323+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-17T21:28:59.164795+00:00"
     },
     {
       "name": "LaunchPad — One Name. Every Answer.",
@@ -160758,6 +160764,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-17T19:24:03.776427+00:00"
+    },
+    {
+      "name": "FrontDesk",
+      "slug": "polsia-frontdesk-ai-10",
+      "website": "https://frontdesk-ai-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-17T21:28:38.055198+00:00"
+    },
+    {
+      "name": "Vaelia — Autonomous Procurement Compliance",
+      "slug": "polsia-vaelia",
+      "description": "The French regulatory landscape alone covers Code de la commande publique, Loi AGEC, Loi ASAP, Ordonnances 2015-899 and 2016-65, EU directives, Bercy guidelines, and local délibérations — all changing constantly. Vaelia replaces that work with an AI agent that reads everything, understands the difference, and alerts only when it matters.",
+      "description_fr": "Le paysage réglementaire français couvre à lui seul le Code de la commande publique, la loi AGEC, la loi ASAP, les ordonnances 2015-899 et 2016-65, les directives européennes, les lignes directrices de Bercy et les délibérations locales, tous en constante évolution. Vaelia remplace ce travail par un agent IA qui lit tout, comprend la différence et alerte uniquement lorsque cela est important.",
+      "category": "AI & Machine Learning",
+      "website": "https://vaelia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T21:28:39.554432+00:00"
+    },
+    {
+      "name": "PropSet — Local Home Services, Brazoria County",
+      "slug": "polsia-propset",
+      "description": "PropSet connects Brazoria County homeowners with verified local contractors for lawn care, pressure washing, gutter cleaning, and more. No lead fees, no middlemen.",
+      "description_fr": "PropSet met en relation les propriétaires du comté de Brazoria avec des entrepreneurs locaux vérifiés pour l'entretien des pelouses, le lavage sous pression, le nettoyage des gouttières et bien plus encore. Pas de frais de plomb, pas d'intermédiaires.",
+      "category": "Marketing & Advertising",
+      "website": "https://propset.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T21:28:41.311214+00:00"
+    },
+    {
+      "name": "Settle — Crypto",
+      "slug": "polsia-settle-8",
+      "description": "Settle is the settlement layer between crypto wallets and traditional real estate transactions. Convert digital assets to wire-ready funds at closing — without selling, without friction, without a new workflow for your title company.",
+      "description_fr": "Settle est la couche de règlement entre les portefeuilles cryptographiques et les transactions immobilières traditionnelles. Convertissez les actifs numériques en fonds prêts à être transférés à la clôture – sans vente, sans friction, sans nouveau flux de travail pour votre société de titres.",
+      "category": "Finance & Fintech",
+      "website": "https://settle-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T21:28:42.217662+00:00"
+    },
+    {
+      "name": "StackForge — Websites & AI Chatbots for Local Service Businesses",
+      "slug": "polsia-siteforge-94",
+      "description": "AI-powered websites and lead generation for roofers, plumbers, landscapers, and local shops. One-time setup + monthly management. More calls, less complexity.",
+      "description_fr": "Sites Web basés sur l'IA et génération de leads pour les couvreurs, les plombiers, les paysagistes et les magasins locaux. Installation unique + gestion mensuelle. Plus d'appels, moins de complexité.",
+      "category": "AI & Machine Learning",
+      "website": "https://siteforge-94.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T21:28:43.191818+00:00"
+    },
+    {
+      "name": "ArkflowOS — AI Consulting Practice OS",
+      "slug": "polsia-arkflowos",
+      "description": "The best technology is invisible. It runs in the background, handles the admin, surfaces what matters — and gets out of the way. That's what ArkflowOS is for.",
+      "description_fr": "La meilleure technologie est invisible. Il s'exécute en arrière-plan, gère l'administrateur, fait apparaître ce qui compte et s'écarte. C'est à cela que sert ArkflowOS.",
+      "category": "AI & Machine Learning",
+      "website": "https://arkflowos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T21:28:44.475580+00:00"
+    },
+    {
+      "name": "StridePath — Your Career, Structured",
+      "slug": "polsia-stridepath-2",
+      "description": "A clear roadmap to land better opportunities. Coaching, CV optimization, interview prep, and LinkedIn positioning — built for you.",
+      "description_fr": "Une feuille de route claire pour créer de meilleures opportunités. Coaching, optimisation de CV, préparation aux entretiens et positionnement LinkedIn – conçus pour vous.",
+      "category": "Education",
+      "website": "https://stridepath-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T21:28:45.764995+00:00"
+    },
+    {
+      "name": "SailPost — The Autonomous Social Media Agent",
+      "slug": "polsia-nexagent-8",
+      "description": "SailPost returns it. No more daily drafting, scheduling, and second-guessing. Your presence stays consistent, your voice stays yours, and your time goes back to you.",
+      "description_fr": "SailPost le renvoie. Fini la rédaction, la planification et les remises en question quotidiennes. Votre présence reste cohérente, votre voix reste la vôtre et votre temps vous revient.",
+      "category": "Marketing & Advertising",
+      "website": "https://nexagent-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T21:28:47.031787+00:00"
+    },
+    {
+      "name": "ClassPulse",
+      "slug": "polsia-classpulse-3",
+      "description": "That is the difference between a school where the principal is chained to their inbox and one where they're present — in the hallways, at the games, in the classrooms. ClassPulse exists so you can do the job you became a principal for.",
+      "description_fr": "C'est la différence entre une école où le directeur est enchaîné à sa boîte de réception et une école où il est présent – ​​dans les couloirs, aux jeux, dans les salles de classe. ClassPulse existe pour que vous puissiez faire le travail pour lequel vous êtes devenu directeur.",
+      "category": "Newsletter & Email",
+      "website": "https://classpulse-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T21:28:48.648176+00:00"
+    },
+    {
+      "name": "SvarAI — AI",
+      "slug": "polsia-svarai",
+      "description": "AI som svarar på kundfrågor, bokar möten, skriver offerter och följer upp leads. Vi bygger och sköter allt. Du driver företaget.",
+      "description_fr": "Je suis en train de parler à mon mari, à mes amis, à mon offre et à mes pistes supérieures. Vi bygger och sköter allt. Le conducteur est prévenu.",
+      "category": "AI & Machine Learning",
+      "website": "https://svarai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T21:28:50.000034+00:00"
     }
   ]
 }
