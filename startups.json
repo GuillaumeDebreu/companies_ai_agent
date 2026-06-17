@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T05:07:25.771148+00:00",
+  "last_updated": "2026-06-17T10:01:50.665223+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -159208,12 +159208,15 @@
       "scraped_at": "2026-06-15T13:39:31.233998+00:00"
     },
     {
-      "name": "SignalHQ",
+      "name": "SignalHQ — AI Employee That Watches Your Competitors",
       "slug": "polsia-signalhq-18",
+      "description": "SignalHQ is an AI employee that monitors your competitors and delivers ranked intelligence reports to your inbox. No setup. No spreadsheets. Just daily intel.",
+      "description_fr": "SignalHQ est un employé d'IA qui surveille vos concurrents et fournit des rapports de renseignement classés dans votre boîte de réception. Aucune configuration. Pas de feuilles de calcul. Juste des informations quotidiennes.",
+      "category": "AI & Machine Learning",
       "website": "https://signalhq-18.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-15T18:15:44.617874+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-17T10:01:36.720528+00:00"
     },
     {
       "name": "Alyre — Your AI Sales Agent",
@@ -159629,12 +159632,15 @@
       "scraped_at": "2026-06-16T12:30:15.383521+00:00"
     },
     {
-      "name": "SyncStack",
+      "name": "SyncStack — Autonomous Sync Licensing Agent",
       "slug": "polsia-syncstack-10",
+      "description": "An AI agent that hunts sync opportunities, pitches your tracks, and closes deals — while you compose.",
+      "description_fr": "Un agent IA qui recherche les opportunités de synchronisation, présente vos morceaux et conclut des accords pendant que vous composez.",
+      "category": "AI & Machine Learning",
       "website": "https://syncstack-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-16T07:38:23.416190+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-17T10:01:42.943777+00:00"
     },
     {
       "name": "Freeli — Your AI Compliance Agent",
@@ -160235,10 +160241,13 @@
     {
       "name": "Pup Scoops",
       "slug": "polsia-pup-scoops",
+      "description": "Dog ice cream shop with coconut milk base, indoor lounge, outdoor splash pad. 30% of quarterly profits donated to local no-kill shelters.",
+      "description_fr": "Glacier pour chiens à base de lait de coco, salon intérieur, pataugeoire extérieure. 30 % des bénéfices trimestriels reversés à des refuges locaux no-kill.",
+      "category": "E-Commerce & Retail",
       "website": "https://pup-scoops.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-17T05:07:02.196314+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-17T10:01:50.373104+00:00"
     },
     {
       "name": "ForgeAI",
@@ -160327,6 +160336,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-17T05:07:13.587177+00:00"
+    },
+    {
+      "name": "StackedHQ",
+      "slug": "polsia-stackedhq",
+      "website": "https://stackedhq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-17T10:01:20.662672+00:00"
+    },
+    {
+      "name": "JoyOS — The Sovereign Operating System for Automotive Commerce",
+      "slug": "polsia-joyos-3",
+      "description": "Hermes · 14-Agent Intelligence Layer. One core. 14 brains reasoning in parallel. From 600ms VIN-to-SKU intelligence to automated escrow settlements — zero-human-intervention trade is here.",
+      "description_fr": "Hermès · Couche de renseignement à 14 agents. Un noyau. 14 cerveaux raisonnent en parallèle. De l'intelligence VIN à SKU de 600 ms aux règlements automatisés de dépôt fiduciaire, le commerce sans intervention humaine est là.",
+      "category": "Other",
+      "website": "https://joyos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T10:01:22.493542+00:00"
+    },
+    {
+      "name": "Staffing OS — Intelligent Workforce Management for Healthcare",
+      "slug": "polsia-skillstreamos",
+      "description": "We built StaffingOS because managing contingent workforce in healthcare is unnecessarily broken. Legacy VMS vendors charge enterprise prices for software that feels like it was built before smartphones existed. Agencies exploit rate card loopholes. Compliance is reactive, not proactive. And the board sees aggregate numbers — never the detail that would actually drive decisions.",
+      "description_fr": "Nous avons créé StaffingOS parce que la gestion du personnel occasionnel dans le secteur de la santé est inutilement interrompue. Les anciens fournisseurs de VMS facturent des tarifs d'entreprise pour des logiciels qui semblent avoir été conçus avant l'existence des smartphones. Les agences exploitent les failles de la grille tarifaire. La conformité est réactive et non proactive. Et le conseil d’administration voit des chiffres globaux – jamais les détails qui pourraient réellement guider les décisions.",
+      "category": "Health & Wellness",
+      "website": "https://skillstreamos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T10:01:24.285932+00:00"
+    },
+    {
+      "name": "LoopOps",
+      "slug": "polsia-loopops-13",
+      "description": "Scheduling. Invoicing. Follow-up emails. Lead qualification. Data entry. Every one of these is solved. Every one of them is running in some enterprise company right now, saving them thousands of hours. Small businesses just haven't had access.",
+      "description_fr": "Planification. Facturation. E-mails de suivi. Qualification des dirigeants. Saisie de données. Chacun de ces problèmes est résolu. Chacun d’entre eux fonctionne actuellement dans une entreprise, ce qui leur fait gagner des milliers d’heures. Les petites entreprises n’y ont tout simplement pas eu accès.",
+      "category": "Marketing & Advertising",
+      "website": "https://loopops-13.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T10:01:26.010489+00:00"
+    },
+    {
+      "name": "PaySilo — Unified Payment Processor API",
+      "slug": "polsia-paysilo",
+      "description": "One API to collect payments from clients across every major payment processor. Built for accounting platforms and B2B software.",
+      "description_fr": "Une API pour collecter les paiements des clients sur tous les principaux processeurs de paiement. Conçu pour les plateformes de comptabilité et les logiciels B2B.",
+      "category": "Software & SaaS",
+      "website": "https://paysilo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T10:01:27.450320+00:00"
+    },
+    {
+      "name": "Enforcer — AI that writes your tests and ships clean code",
+      "slug": "polsia-enforcer",
+      "description": "When a PR changes code, Enforcer analyzes the diff, identifies untested paths, and writes comprehensive test cases — not just assertions, but edge cases, error paths, and boundary conditions.",
+      "description_fr": "Lorsqu'un PR modifie le code, Enforcer analyse la différence, identifie les chemins non testés et écrit des cas de test complets : pas seulement des assertions, mais aussi des cas extrêmes, des chemins d'erreur et des conditions aux limites.",
+      "category": "AI & Machine Learning",
+      "website": "https://enforcer.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T10:01:28.734324+00:00"
+    },
+    {
+      "name": "PlayBridge — India's Sports Ecosystem",
+      "slug": "polsia-playbridge",
+      "description": "The Indian government allocated₹3,794 croresto sports in FY 2025-26. Khelo India alone funds thousands of athletes. TOPS supports 300+ Olympic prospects. But the information lives in PDFs buried on ministry websites — invisible to the families, schools, and coaches who need it most.",
+      "description_fr": "Le gouvernement indien a alloué 3 794 croresto aux sports au cours de l'exercice 2025-2026. Khelo India finance à elle seule des milliers d’athlètes. TOPS soutient plus de 300 candidats olympiques. Mais les informations se trouvent dans des fichiers PDF enfouis sur les sites Web du ministère – invisibles pour les familles, les écoles et les entraîneurs qui en ont le plus besoin.",
+      "category": "Sales & CRM",
+      "website": "https://playbridge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T10:01:29.888877+00:00"
+    },
+    {
+      "name": "SocialFleet — Your AI Social Media Employee",
+      "slug": "polsia-socialfleet",
+      "description": "SocialFleet is an AI agent that works 24/7 to run your social media — drafting posts, publishing on schedule, engaging with your audience, and reporting results.",
+      "description_fr": "SocialFleet est un agent d'IA qui fonctionne 24h/24 et 7j/7 pour gérer vos réseaux sociaux : rédaction de publications, publication dans les délais, interaction avec votre public et reporting des résultats.",
+      "category": "AI & Machine Learning",
+      "website": "https://socialfleet.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T10:01:31.366319+00:00"
+    },
+    {
+      "name": "Spacial — Your Evening, Curated",
+      "slug": "polsia-spacial",
+      "description": "You tell Spacial what kind of night you want — date, friends, sports, solo — and it builds a complete plan from what's actually around you. Not a list. A route.",
+      "description_fr": "Vous dites à Spacial quel genre de soirée vous souhaitez – rendez-vous, amis, sport, solo – et il construit un plan complet à partir de ce qui vous entoure réellement. Pas une liste. Un itinéraire.",
+      "category": "Other",
+      "website": "https://spacial.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T10:01:33.125528+00:00"
+    },
+    {
+      "name": "Mise — AI Hospitality Operations",
+      "slug": "polsia-mise-ai-4",
+      "description": "Every restaurant has a version of this problem: the follow-up that never got sent, the maintenance issue that slipped through, the team briefing that gets rushed because the GM is also bussing tables. These aren't failures of intent. They're failures of coverage.",
+      "description_fr": "Chaque restaurant a une version de ce problème : le suivi qui n'a jamais été envoyé, le problème de maintenance qui a échappé, le briefing de l'équipe qui est précipité parce que le directeur général transporte également les tables. Ce ne sont pas des échecs d’intention. Ce sont des échecs de couverture.",
+      "category": "AI & Machine Learning",
+      "website": "https://mise-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-17T10:01:35.032793+00:00"
     }
   ]
 }
