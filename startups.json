@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T21:55:17.821000+00:00",
+  "last_updated": "2026-06-18T23:47:07.120628+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -161328,10 +161328,13 @@
     {
       "name": "Cubiq",
       "slug": "polsia-cubiq-2",
+      "description": "AI-powered Rubik's Cube tutor that learns to solve with you",
+      "description_fr": "Tuteur Rubik's Cube alimenté par l'IA qui apprend à résoudre avec vous",
+      "category": "AI & Machine Learning",
       "website": "https://cubiq-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-18T14:10:36.089824+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-18T23:47:04.015911+00:00"
     },
     {
       "name": "GlowDesk — AI Business Manager for Creators",
@@ -161633,12 +161636,15 @@
       "scraped_at": "2026-06-18T21:54:59.984385+00:00"
     },
     {
-      "name": "Prospectr",
+      "name": "Prospectr — AI SDR, Runs 24/7",
       "slug": "polsia-prospectr-ai-3",
+      "description": "The companies winning at B2B growth right now are not the ones with the biggest sales teams. They are the ones that built the smallest, most focused outbound engine — and let AI run it.",
+      "description_fr": "Les entreprises qui réussissent actuellement en matière de croissance B2B ne sont pas celles qui disposent des plus grandes équipes commerciales. Ce sont eux qui ont construit le moteur sortant le plus petit et le plus ciblé – et qui ont laissé l’IA l’exécuter.",
+      "category": "Sales & CRM",
       "website": "https://prospectr-ai-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-18T21:55:00.330346+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-18T23:47:06.361322+00:00"
     },
     {
       "name": "SignalWatch — AI Parent Updates for K",
@@ -161724,6 +161730,102 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-18T21:55:10.517568+00:00"
+    },
+    {
+      "name": "SparkDrop — Find Winning TikTok Products in Minutes",
+      "slug": "polsia-sparkdrop",
+      "description": "AI-powered product research for TikTok dropshipping. Find viral products, score them for margin and virality, and scaffold your store in one pass.",
+      "description_fr": "Recherche de produits basée sur l'IA pour le dropshipping TikTok. Trouvez des produits viraux, évaluez-les en fonction de leur marge et de leur viralité, et développez votre magasin en un seul passage.",
+      "category": "AI & Machine Learning",
+      "website": "https://sparkdrop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T23:46:47.000225+00:00"
+    },
+    {
+      "name": "ClinThread — Medical apparel for those who give a damn",
+      "slug": "polsia-clinthread",
+      "description": "Premium scrubs built for healthcare workers. Technical fabrics, modern fits, honest pricing. No more choosing between comfort and style.",
+      "description_fr": "Des gommages haut de gamme conçus pour les travailleurs de la santé. Tissus techniques, coupes modernes, prix honnêtes. Plus besoin de choisir entre confort et style.",
+      "category": "Health & Wellness",
+      "website": "https://clinthread.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T23:46:48.814001+00:00"
+    },
+    {
+      "name": "VendFlow — AI Agents for African WhatsApp Business",
+      "slug": "polsia-vendflow-13",
+      "description": "Autonomous AI agents that manage your WhatsApp Business conversations 24/7. Take orders, handle support, follow up with customers — without hiring a single person.",
+      "description_fr": "Des agents IA autonomes qui gèrent vos conversations WhatsApp Business 24h/24 et 7j/7. Prenez les commandes, gérez le support, effectuez le suivi des clients, sans embaucher une seule personne.",
+      "category": "AI & Machine Learning",
+      "website": "https://vendflow-13.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T23:46:50.283213+00:00"
+    },
+    {
+      "name": "ForgeOps — Autonomous Game Ops Agents",
+      "slug": "polsia-forgeops-33",
+      "description": "AI agents that run live game operations autonomously. Patch deployment, support triage, event launches — handled while your team sleeps.",
+      "description_fr": "Agents IA qui exécutent les opérations de jeu en direct de manière autonome. Déploiement des correctifs, triage du support, lancements d'événements : gérés pendant que votre équipe dort.",
+      "category": "AI & Machine Learning",
+      "website": "https://forgeops-33.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T23:46:51.138878+00:00"
+    },
+    {
+      "name": "BrickAndByte",
+      "slug": "polsia-brickandbyte",
+      "description": "45% of local search now happens in AI tools (ChatGPT, Perplexity, Gemini). Businesses without AI-optimized sites won't appear in those results. The gap between leaders and laggards is doubling.",
+      "description_fr": "45 % des recherches locales s'effectuent désormais dans des outils d'IA (ChatGPT, Perplexity, Gemini). Les entreprises sans sites optimisés pour l’IA n’apparaîtront pas dans ces résultats. L’écart entre les leaders et les retardataires double.",
+      "category": "AI & Machine Learning",
+      "website": "https://brickandbyte.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T23:46:52.647452+00:00"
+    },
+    {
+      "name": "WelchOS",
+      "slug": "polsia-welchos-2",
+      "website": "https://welchos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-18T23:46:53.069374+00:00"
+    },
+    {
+      "name": "SharpEdge",
+      "slug": "polsia-sharpedge-3",
+      "description": "We run thousands of simulations per game, compare our probability against the sportsbook line, and only surface bets where our edge exceeds a threshold. Everything is logged. Everything is verified.",
+      "description_fr": "Nous effectuons des milliers de simulations par match, comparons notre probabilité à celle des paris sportifs et ne faisons apparaître que les paris où notre avantage dépasse un seuil. Tout est enregistré. Tout est vérifié.",
+      "category": "Other",
+      "website": "https://sharpedge-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T23:46:54.333567+00:00"
+    },
+    {
+      "name": "SiteForge",
+      "slug": "polsia-siteforge-ai-6",
+      "description": "Slow, expensive, dependent on one person's availability. SiteForge is the fix. An AI agent that works 24/7, costs nothing to run, and ships professional sites faster than any human could.",
+      "description_fr": "Lent, coûteux, dépendant de la disponibilité d'une personne. SiteForge est la solution. Un agent d'IA qui fonctionne 24h/24 et 7j/7, ne coûte rien à exécuter et expédie des sites professionnels plus rapidement que n'importe quel humain.",
+      "category": "AI & Machine Learning",
+      "website": "https://siteforge-ai-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T23:46:56.134272+00:00"
+    },
+    {
+      "name": "Veloxa — Autonomous Cold Email Agent",
+      "slug": "polsia-veloxa-ai-5",
+      "description": "Instantly, Apollo, Smartlead — they all do the same thing. They give you\n      a dashboard, some AI assists, and a warmup slider. Then they leave you\n      alone with a spreadsheet. You still research leads, write every email,\n      manage every reply, and guess what to optimize. The tool saves you\n      clicks. Veloxa saves you hours.",
+      "description_fr": "Instantanément, Apollo, Smartlead, ils font tous la même chose. Ils vous donnent\n      un tableau de bord, des assistances IA et un curseur d'échauffement. Puis ils te quittent\n      seul avec une feuille de calcul. Vous recherchez toujours des pistes, rédigez chaque e-mail,\n      gérez chaque réponse et devinez quoi optimiser. L'outil vous sauve\n      clics. Veloxa vous fait gagner des heures.",
+      "category": "AI & Machine Learning",
+      "website": "https://veloxa-ai-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T23:46:57.828900+00:00"
     }
   ]
 }
