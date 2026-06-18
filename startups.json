@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T17:30:12.213103+00:00",
+  "last_updated": "2026-06-18T19:50:25.161175+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -161416,12 +161416,15 @@
       "scraped_at": "2026-06-18T17:29:55.453617+00:00"
     },
     {
-      "name": "JobScale",
+      "name": "jobscale — AI",
       "slug": "polsia-jobscale",
+      "description": "JobScale runs your entire front office autonomously. It answers calls, generates quotes, books appointments, and follows up with clients — while you focus on the work.",
+      "description_fr": "JobScale gère l’ensemble de votre front office de manière autonome. Il répond aux appels, génère des devis, prend des rendez-vous et assure le suivi des clients, pendant que vous vous concentrez sur le travail.",
+      "category": "AI & Machine Learning",
       "website": "https://jobscale.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-18T17:29:55.781082+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-18T19:50:24.441965+00:00"
     },
     {
       "name": "JoyPackOS — Operating System for The Papeterie Store",
@@ -161510,6 +161513,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-18T17:30:07.333138+00:00"
+    },
+    {
+      "name": "PaxikaOS",
+      "slug": "polsia-paxikaos",
+      "website": "https://paxikaos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-18T19:50:07.093361+00:00"
+    },
+    {
+      "name": "SignalPulse",
+      "slug": "polsia-signalpulse-24",
+      "website": "https://signalpulse-24.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-18T19:50:07.474761+00:00"
+    },
+    {
+      "name": "Ploop — AI SDR Agent",
+      "slug": "polsia-ploop",
+      "description": "Generic templates, recycled copy, \"Hey {first_name}\" personalization. Prospects can tell. Reply rates prove it. You've tried the tools. You've seen the numbers flatten. The problem isn't AI — it's how AI is being used.",
+      "description_fr": "Modèles génériques, copie recyclée, personnalisation \"Hey {first_name}\". Les prospects peuvent le dire. Les taux de réponse le prouvent. Vous avez essayé les outils. Vous avez vu les chiffres s'aplatir. Le problème n’est pas l’IA, mais la manière dont l’IA est utilisée.",
+      "category": "AI & Machine Learning",
+      "website": "https://ploop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T19:50:09.249832+00:00"
+    },
+    {
+      "name": "postforge",
+      "slug": "polsia-postforge-57",
+      "description": "AI-powered social media management for local businesses. Content, reviews, and engagement — handled.",
+      "description_fr": "Gestion des médias sociaux basée sur l'IA pour les entreprises locales. Contenu, critiques et engagement – ​​gérés.",
+      "category": "Entertainment & Media",
+      "website": "https://postforge-57.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T19:50:10.691383+00:00"
+    },
+    {
+      "name": "StackOps — POS for Restaurants, Gyms & Schools",
+      "slug": "polsia-stackops-17",
+      "description": "StackOps shares a common core — authentication, billing, reporting, hardware abstraction layer — across all three verticals. One deploy, three products. One codebase, three revenue streams.",
+      "description_fr": "StackOps partage un noyau commun (authentification, facturation, reporting, couche d'abstraction matérielle) dans les trois secteurs. Un déploiement, trois produits. Une base de code, trois sources de revenus.",
+      "category": "Food & Beverage",
+      "website": "https://stackops-17.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T19:50:12.094346+00:00"
+    },
+    {
+      "name": "ArtFlow — The AI Employee for Visual Artists",
+      "slug": "polsia-artflow-ai",
+      "description": "An autonomous AI agent that runs the business side of your art career — posting to social media, managing galleries, tracking commissions, and reaching collectors — while you paint.",
+      "description_fr": "Un agent d'IA autonome qui gère l'aspect commercial de votre carrière artistique (publication sur les réseaux sociaux, gestion des galeries, suivi des commissions et contact avec les collectionneurs) pendant que vous peignez.",
+      "category": "AI & Machine Learning",
+      "website": "https://artflow-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T19:50:12.690013+00:00"
+    },
+    {
+      "name": "RoofScout — AI Roof Prospecting",
+      "slug": "polsia-roofscout-2",
+      "description": "Real-time weather integration flags when a tracked zip code gets hit. Every high-scoring property in that zone surfaces instantly — before your competitor even knows the storm rolled through.",
+      "description_fr": "L'intégration météo en temps réel signale lorsqu'un code postal suivi est atteint. Chaque propriété ayant obtenu un score élevé dans cette zone fait surface instantanément, avant même que votre concurrent ne se rende compte que la tempête est passée.",
+      "category": "AI & Machine Learning",
+      "website": "https://roofscout-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T19:50:13.857149+00:00"
+    },
+    {
+      "name": "Glimmer — AI Marketing Agent for Fine Jewelry Brands",
+      "slug": "polsia-glimmer-jewelry",
+      "description": "Glimmer is an AI agent that runs every marketing channel for fine jewelry brands — social, email, SMS, and paid ads — autonomously, 24/7. No agency. No burn-out. Just consistent, intelligent growth.",
+      "description_fr": "Glimmer est un agent IA qui gère tous les canaux marketing des marques de haute joaillerie (réseaux sociaux, e-mails, SMS et publicités payantes) de manière autonome, 24h/24 et 7j/7. Pas d'agence. Pas de burn-out. Juste une croissance cohérente et intelligente.",
+      "category": "Marketing & Advertising",
+      "website": "https://glimmer-jewelry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T19:50:15.129547+00:00"
+    },
+    {
+      "name": "HustleHouse — Income. Family. Home.",
+      "slug": "polsia-hustlehouse",
+      "description": "$100/month subscription service for incarcerated individuals. Income generation inside, family reunification, and transitional tiny home housing after release.",
+      "description_fr": "Service d'abonnement de 100 $/mois pour les personnes incarcérées. Génération de revenus à l’intérieur, regroupement familial et logement de transition dans des petites maisons après la libération.",
+      "category": "Real Estate",
+      "website": "https://hustlehouse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T19:50:16.162930+00:00"
+    },
+    {
+      "name": "Xcissa — Technology Partnership, Mumbai",
+      "slug": "polsia-axionos-3",
+      "description": "We work with clients who care about the difference. Who want systems designed with mathematical rigor, delivered with engineering integrity, and maintained by people who take ownership seriously.",
+      "description_fr": "Nous travaillons avec des clients soucieux de la différence. Qui veulent des systèmes conçus avec une rigueur mathématique, livrés avec une intégrité technique et entretenus par des personnes qui prennent la propriété au sérieux.",
+      "category": "AI & Machine Learning",
+      "website": "https://axionos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T19:50:17.190232+00:00"
     }
   ]
 }
