@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T10:54:57.567635+00:00",
+  "last_updated": "2026-06-18T14:10:54.892063+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -161200,12 +161200,15 @@
       "scraped_at": "2026-06-18T06:26:00.603984+00:00"
     },
     {
-      "name": "Signal AI",
+      "name": "Signal AI — Autonomous Sales Pipeline",
       "slug": "polsia-signal-ai-1781779857495",
+      "description": "Signal AI watches 1,000+ sources continuously — job postings, funding rounds, leadership changes, earnings calls, LinkedIn activity. When a target account shows a buying signal, the agent acts before your rep opens their laptop.",
+      "description_fr": "Signal AI surveille en permanence plus de 1 000 sources : offres d'emploi, cycles de financement, changements de direction, appels de revenus, activité LinkedIn. Lorsqu'un compte cible affiche un signal d'achat, l'agent agit avant que votre représentant n'ouvre son ordinateur portable.",
+      "category": "Sales & CRM",
       "website": "https://signal-ai-1781779857495.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-18T10:54:41.040047+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-18T14:10:53.829758+00:00"
     },
     {
       "name": "MecomOS — Run Your Fabrication Shop on Autopilot",
@@ -161305,6 +161308,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-18T10:54:52.157350+00:00"
+    },
+    {
+      "name": "ApexOS",
+      "slug": "polsia-apex-os-2",
+      "website": "https://apex-os-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-18T14:10:35.259758+00:00"
+    },
+    {
+      "name": "Axiom",
+      "slug": "polsia-axiom-ops-13",
+      "website": "https://axiom-ops-13.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-18T14:10:35.716222+00:00"
+    },
+    {
+      "name": "Cubiq",
+      "slug": "polsia-cubiq-2",
+      "website": "https://cubiq-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-18T14:10:36.089824+00:00"
+    },
+    {
+      "name": "GlowDesk — AI Business Manager for Creators",
+      "slug": "polsia-glowdesk-62",
+      "description": "GlowDesk is built for micro-influencers who are done being their own receptionist, accountant, and project manager. The AI works 24/7. You don't.",
+      "description_fr": "GlowDesk est conçu pour les micro-influenceurs qui ont fini d'être leur propre réceptionniste, comptable et chef de projet. L'IA fonctionne 24h/24 et 7j/7. Ce n'est pas le cas.",
+      "category": "AI & Machine Learning",
+      "website": "https://glowdesk-62.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T14:10:37.130694+00:00"
+    },
+    {
+      "name": "AgentPass — ZK Identity for AI Agents",
+      "slug": "polsia-agentpass-1781791384718-avxc",
+      "description": "AgentPass isn't a product feature. It's infrastructure. A common identity layer so that as agents proliferate across commerce, finance, and governance, every actor — human, agent, platform — can trust each other without friction.",
+      "description_fr": "AgentPass n'est pas une fonctionnalité du produit. C'est une infrastructure. Une couche d'identité commune afin qu'à mesure que les agents prolifèrent dans les domaines du commerce, de la finance et de la gouvernance, chaque acteur (humain, agent, plateforme) puisse se faire confiance sans friction.",
+      "category": "AI & Machine Learning",
+      "website": "https://agentpass-1781791384718-avxc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T14:10:38.272807+00:00"
+    },
+    {
+      "name": "TERRA — India's First 100% Biodegradable Baby Wipes",
+      "slug": "polsia-terraos-9",
+      "description": "TERRA wipes are made in New Zealand using 100% renewable energy, packaged in recycled materials, and certified biodegradable. Not \"more sustainable than plastic.\" Not \"partially compostable.\" Truly, completely biodegradable — from the fiber to the packaging.",
+      "description_fr": "Les lingettes TERRA sont fabriquées en Nouvelle-Zélande à partir d'énergie 100 % renouvelable, emballées dans des matériaux recyclés et certifiées biodégradables. Pas « plus durable que le plastique ». Pas « partiellement compostable ». Vraiment entièrement biodégradable, de la fibre à l'emballage.",
+      "category": "Sustainability & Green",
+      "website": "https://terraos-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T14:10:39.316440+00:00"
+    },
+    {
+      "name": "Nexus",
+      "slug": "polsia-nexus-ai-17",
+      "website": "https://nexus-ai-17.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-18T14:10:39.765716+00:00"
+    },
+    {
+      "name": "AdSignal — Autonomous Mobile Advertising",
+      "slug": "polsia-adsignal-15",
+      "description": "Every ad platform promises optimization. What they're really selling is a tool. AdSignal is different — it works for you, continuously, making thousands of micro-decisions per second so your campaigns stay sharp without your hands on the wheel.",
+      "description_fr": "Chaque plateforme publicitaire promet une optimisation. Ce qu'ils vendent en réalité, c'est un outil. AdSignal est différent : il travaille pour vous, en continu, en prenant des milliers de micro-décisions par seconde afin que vos campagnes restent précises sans que vous ayez les mains sur le volant.",
+      "category": "Marketing & Advertising",
+      "website": "https://adsignal-15.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T14:10:41.713180+00:00"
+    },
+    {
+      "name": "Riservis SRL — La imagen de tu empresa",
+      "slug": "polsia-riservis",
+      "description": "Soluciones en uniformes corporativos en República Dominicana. Sublimación, bordado y serigrafía.",
+      "description_fr": "Solutions en uniformes corporatifs en République Dominicaine. Sublimation, bordé et sérigraphie.",
+      "category": "Other",
+      "website": "https://riservis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T14:10:43.608734+00:00"
+    },
+    {
+      "name": "Kids in the Back",
+      "slug": "polsia-backrow-2",
+      "description": "Phillip Shatkin — 36, half-Laotian, Jewish, has ADHD, dad to a 4-year-old. Walked 120+ factories in China. Wrote a TV pilot in LA. Went through bankruptcy. Came out the other side. This isn't a podcast about ADHD. It's a podcast that happens to have ADHD in the room.",
+      "description_fr": "Phillip Shatkin — 36 ans, à moitié laotien, juif, atteint de TDAH, père d'un enfant de 4 ans. J'ai parcouru plus de 120 usines en Chine. A écrit un pilote télé à Los Angeles. A fait faillite. Je suis sorti de l'autre côté. Ce n'est pas un podcast sur le TDAH. C'est un podcast dans lequel il y a du TDAH dans la pièce.",
+      "category": "Marketing & Advertising",
+      "website": "https://backrow-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T14:10:45.190526+00:00"
     }
   ]
 }
