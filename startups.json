@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T20:27:31.891644+00:00",
+  "last_updated": "2026-06-18T21:55:17.821000+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -161515,20 +161515,26 @@
       "scraped_at": "2026-06-18T17:30:07.333138+00:00"
     },
     {
-      "name": "PaxikaOS",
+      "name": "PaxikaOS — Operating System for Hospitality Excellence",
       "slug": "polsia-paxikaos",
+      "description": "PaxikaOS is the operating layer beneath your hospitality vision — the systems, structures, and daily rhythms that transform a concept into a lasting institution.",
+      "description_fr": "PaxikaOS est la couche opérationnelle sous votre vision de l'hôtellerie : les systèmes, les structures et les rythmes quotidiens qui transforment un concept en une institution durable.",
+      "category": "Travel & Hospitality",
       "website": "https://paxikaos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-18T19:50:07.093361+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-18T21:55:15.736641+00:00"
     },
     {
-      "name": "SignalPulse",
+      "name": "SignalPulse — AI Competitor Monitoring Agent",
       "slug": "polsia-signalpulse-24",
+      "description": "An autonomous AI agent that monitors your competitors 24/7 and alerts your team when they move.",
+      "description_fr": "Un agent IA autonome qui surveille vos concurrents 24h/24 et 7j/7 et alerte votre équipe lorsqu'ils bougent.",
+      "category": "AI & Machine Learning",
       "website": "https://signalpulse-24.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-18T19:50:07.474761+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-18T21:55:17.331879+00:00"
     },
     {
       "name": "Ploop — AI SDR Agent",
@@ -161617,6 +161623,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-18T19:50:17.190232+00:00"
+    },
+    {
+      "name": "ClipLaunch",
+      "slug": "polsia-cliplaunch-8",
+      "website": "https://cliplaunch-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-18T21:54:59.984385+00:00"
+    },
+    {
+      "name": "Prospectr",
+      "slug": "polsia-prospectr-ai-3",
+      "website": "https://prospectr-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-18T21:55:00.330346+00:00"
+    },
+    {
+      "name": "SignalWatch — AI Parent Updates for K",
+      "slug": "polsia-signalwatch-26",
+      "description": "SignalWatch integrates with your school's existing gradebook and attendance system. Then it runs itself — watching for signals, writing updates, sending them out. Zero teacher effort after setup.",
+      "description_fr": "SignalWatch s'intègre au système de notes et de fréquentation existant de votre école. Ensuite, il s'exécute tout seul : il surveille les signaux, rédige des mises à jour et les envoie. Aucun effort de l’enseignant après l’installation.",
+      "category": "AI & Machine Learning",
+      "website": "https://signalwatch-26.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T21:55:02.103045+00:00"
+    },
+    {
+      "name": "PortPulse — AI Portfolio Intelligence",
+      "slug": "polsia-portpulse",
+      "description": "An AI agent that monitors your investment portfolio 24/7, surfaces earnings surprises, SEC filings, and market signals — and pushes alerts before you have to ask.",
+      "description_fr": "Un agent IA qui surveille votre portefeuille d'investissement 24 heures sur 24 et 7 jours sur 7, fait apparaître les surprises en matière de bénéfices, les dépôts auprès de la SEC et les signaux du marché – et envoie des alertes avant que vous ayez à demander.",
+      "category": "AI & Machine Learning",
+      "website": "https://portpulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T21:55:03.715739+00:00"
+    },
+    {
+      "name": "NinjaForge",
+      "slug": "polsia-ninjaforge",
+      "website": "https://ninjaforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-18T21:55:04.057352+00:00"
+    },
+    {
+      "name": "TrustOps — Autonomous Guardrails for AI Agents",
+      "slug": "polsia-trustops-2",
+      "description": "Policy enforcement, audit trails, and runtime controls for AI agents that touch production infrastructure.",
+      "description_fr": "Application des politiques, pistes d’audit et contrôles d’exécution pour les agents IA qui touchent l’infrastructure de production.",
+      "category": "AI & Machine Learning",
+      "website": "https://trustops-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T21:55:05.403521+00:00"
+    },
+    {
+      "name": "Vecteur — AI Research Analyst",
+      "slug": "polsia-vecteur-4",
+      "description": "Vecteur is an AI analyst that monitors your industry 24/7 and delivers intelligence briefings on schedule. No queries required. No dashboards to check. Just signal, delivered.",
+      "description_fr": "Vecteur est un analyste IA qui surveille votre industrie 24h/24 et 7j/7 et fournit des briefings de renseignement dans les délais. Aucune requête requise. Aucun tableau de bord à vérifier. Juste un signal, délivré.",
+      "category": "AI & Machine Learning",
+      "website": "https://vecteur-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T21:55:06.403402+00:00"
+    },
+    {
+      "name": "DuoSleep — Premium Pillows for Couples",
+      "slug": "polsia-duosleep",
+      "description": "\"Most couples share a bed but sleep on completely different terms. One runs hot, the other runs cold. One needs the loft high, the other wakes up with neck pain. And yet — they're fighting over the same generic pillow set.\"",
+      "description_fr": "\"La plupart des couples partagent un lit mais dorment dans des conditions complètement différentes. L'un a chaud, l'autre est froid. L'un a besoin d'un loft haut, l'autre se réveille avec des douleurs au cou. Et pourtant, ils se battent pour le même ensemble d'oreillers génériques.\"",
+      "category": "Real Estate",
+      "website": "https://duosleep.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T21:55:08.001305+00:00"
+    },
+    {
+      "name": "Dry Wit — Kitchen Towels with an Attitude",
+      "slug": "polsia-drywit",
+      "description": "Limited-edition kitchen towels with vintage prints, dry humor, and an actual point of view. For design-conscious people who want their kitchen to say something.",
+      "description_fr": "Torchons de cuisine en édition limitée avec des imprimés vintage, de l'humour sec et un point de vue actuel. Pour les personnes soucieuses du design qui veulent que leur cuisine dise quelque chose.",
+      "category": "Food & Beverage",
+      "website": "https://drywit.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T21:55:08.806534+00:00"
+    },
+    {
+      "name": "NexaForge",
+      "slug": "polsia-nexaforge-4",
+      "description": "Maintains your unique creator identity as a living knowledge repository. Tone of voice, brand positioning, content preferences, past performance, strategic goals — all synthesized into a profile that ensures every recommendation is unmistakably yours.",
+      "description_fr": "Conserve votre identité de créateur unique en tant que référentiel de connaissances vivant. Le ton de la voix, le positionnement de la marque, les préférences de contenu, les performances passées, les objectifs stratégiques, le tout synthétisé dans un profil qui garantit que chaque recommandation est sans aucun doute la vôtre.",
+      "category": "Marketing & Advertising",
+      "website": "https://nexaforge-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-18T21:55:10.517568+00:00"
     }
   ]
 }
