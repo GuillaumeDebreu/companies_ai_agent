@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T04:25:56.295302+00:00",
+  "last_updated": "2026-06-19T08:17:18.639617+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -161828,12 +161828,15 @@
       "scraped_at": "2026-06-18T23:46:57.828900+00:00"
     },
     {
-      "name": "SideStack",
+      "name": "SideStack — Find Your Hustle. Start Today.",
       "slug": "polsia-sidestack-21",
+      "description": "SideStack exists for the person who wants to earn their own money, on their own terms, starting with what they actually have — not what a blog post thinks they should have.",
+      "description_fr": "SideStack existe pour la personne qui souhaite gagner son propre argent, selon ses propres conditions, en commençant par ce qu'elle a réellement – ​​et non par ce qu'un article de blog pense qu'elle devrait avoir.",
+      "category": "Other",
       "website": "https://sidestack-21.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-19T02:33:26.273582+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-19T08:17:16.848866+00:00"
     },
     {
       "name": "Parley — Autonomous Security Research Agent",
@@ -161922,6 +161925,116 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-19T02:33:35.588322+00:00"
+    },
+    {
+      "name": "PixelStack — Figma to Code, Without the Handoff",
+      "slug": "polsia-pixelstack",
+      "description": "PixelStack reads your Figma file and outputs production-ready React code. No developer, no delay, no handoff drama.",
+      "description_fr": "PixelStack lit votre fichier Figma et génère du code React prêt pour la production. Pas de développeur, pas de retard, pas de drame de transfert.",
+      "category": "Other",
+      "website": "https://pixelstack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T08:16:57.241421+00:00"
+    },
+    {
+      "name": "ScopeSync — Carbon Reporting for SMEs",
+      "slug": "polsia-scopesync",
+      "description": "Most SMEs face mandatory carbon reporting with no internal team and no budget for a $60K consulting engagement. ScopeSync connects to your energy data, calculates Scope 1–3 emissions, and generates audit-ready reports — automatically.",
+      "description_fr": "La plupart des PME sont confrontées à des rapports obligatoires sur les émissions de carbone, sans équipe interne ni budget pour une mission de conseil de 60 000 $. ScopeSync se connecte à vos données énergétiques, calcule les émissions de portée 1 à 3 et génère automatiquement des rapports prêts à être audités.",
+      "category": "Consulting & Services",
+      "website": "https://scopesync.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T08:17:18.637001+00:00"
+    },
+    {
+      "name": "LuminaOS — AI Operating System for Med Spas",
+      "slug": "polsia-lumina-os",
+      "description": "The best practitioners got into this business to transform how people feel in their skin — not to manage a booking inbox, chase down no-shows, or re-explain chemical peel aftercare for the hundredth time. Yet every med spa owner I know spends their best hours doing exactly that.",
+      "description_fr": "Les meilleurs praticiens se sont lancés dans ce métier pour transformer la façon dont les gens se sentent dans leur peau – pas pour gérer une boîte de réception de réservation, traquer les non-présentations ou réexpliquer le suivi du peeling chimique pour la centième fois. Pourtant, tous les propriétaires de spa médical que je connais passent leurs meilleures heures à faire exactement cela.",
+      "category": "AI & Machine Learning",
+      "website": "https://lumina-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T08:16:59.601479+00:00"
+    },
+    {
+      "name": "Orbit — Autonomous Prospect Intelligence",
+      "slug": "polsia-orbit-sales-3",
+      "description": "AI agent that monitors your B2B target accounts 24/7 and delivers a daily intelligence briefing with talking points.",
+      "description_fr": "Agent IA qui surveille vos comptes cibles B2B 24h/24 et 7j/7 et fournit un briefing quotidien avec des points de discussion.",
+      "category": "AI & Machine Learning",
+      "website": "https://orbit-sales-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T08:17:00.619079+00:00"
+    },
+    {
+      "name": "WordCraft — Autonomous WordPress Builder",
+      "slug": "polsia-wordcraft-4",
+      "description": "AI agent that builds, launches, and manages WordPress websites autonomously. No 6-week timelines. No agency fees.",
+      "description_fr": "Agent IA qui crée, lance et gère des sites Web WordPress de manière autonome. Pas de délais de 6 semaines. Pas de frais d'agence.",
+      "category": "AI & Machine Learning",
+      "website": "https://wordcraft-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T08:17:02.621511+00:00"
+    },
+    {
+      "name": "CarveCycle — Pre",
+      "slug": "polsia-carvecycle",
+      "description": "The AI-powered marketplace for pre-owned skis. Agents source, price, list, and sell your gear so the business runs itself.",
+      "description_fr": "Le marché alimenté par l'IA pour les skis d'occasion. Les agents recherchent, évaluent, répertorient et vendent votre équipement afin que l'entreprise fonctionne d'elle-même.",
+      "category": "AI & Machine Learning",
+      "website": "https://carvecycle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T08:17:04.004770+00:00"
+    },
+    {
+      "name": "DarkQuill AI — AI Storytelling for Dark Fiction Writers",
+      "slug": "polsia-darkquill-ai",
+      "description": "The AI platform built for horror, thriller, fantasy, and dark fiction writers. Character creation, plot generation, chapter planning, and writer's block solutions.",
+      "description_fr": "La plateforme d'IA conçue pour les écrivains d'horreur, de thriller, de fantasy et de fiction noire. Création de personnages, génération d'intrigues, planification de chapitres et solutions au blocage de l'écrivain.",
+      "category": "AI & Machine Learning",
+      "website": "https://darkquill-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T08:17:05.590025+00:00"
+    },
+    {
+      "name": "RingRally — Your Digital Presence, Run Autonomously",
+      "slug": "polsia-ringrally",
+      "description": "Every hour you spend managing DMs, drafting posts, and chasing fight news is an hour taken from your training. The boxers with the biggest online presence aren't working harder — they're not doing this work at all. They're delegating to a team they can't afford to hire.",
+      "description_fr": "Chaque heure que vous passez à gérer des DM, à rédiger des messages et à rechercher des nouvelles de combat est une heure retirée de votre formation. Les boxeurs les plus présents en ligne ne travaillent pas plus dur – ils ne font pas ce travail du tout. Ils délèguent à une équipe qu'ils n'ont pas les moyens d'embaucher.",
+      "category": "Education",
+      "website": "https://ringrally.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T08:17:06.890545+00:00"
+    },
+    {
+      "name": "ClaimProof — Verify Every Environmental Claim",
+      "slug": "polsia-claimproof-4",
+      "description": "Every environmental claim made by a company should beverifiable at the product level, in real time, from raw material to consumer’s hands. That’s the only way to eliminate greenwashing and build the trust the market demands.",
+      "description_fr": "Chaque allégation environnementale formulée par une entreprise doit être vérifiable au niveau du produit, en temps réel, depuis la matière première jusqu’aux mains du consommateur. C’est le seul moyen d’éliminer le greenwashing et de renforcer la confiance qu’exige le marché.",
+      "category": "Sustainability & Green",
+      "website": "https://claimproof-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T08:17:08.175812+00:00"
+    },
+    {
+      "name": "Stackcraft — Founder",
+      "slug": "polsia-stackcraft-17",
+      "description": "Curated software recommendations for early-stage founders. Not what has the most reviews — what actually worked for companies like yours.",
+      "description_fr": "Recommandations de logiciels organisées pour les fondateurs débutants. Ce n’est pas ce qui a reçu le plus d’avis, mais ce qui a réellement fonctionné pour des entreprises comme la vôtre.",
+      "category": "Software & SaaS",
+      "website": "https://stackcraft-17.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T08:17:09.186598+00:00"
     }
   ]
 }
