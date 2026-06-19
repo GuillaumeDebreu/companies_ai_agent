@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T10:29:03.830657+00:00",
+  "last_updated": "2026-06-19T12:27:28.853134+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -162035,6 +162035,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-19T08:17:09.186598+00:00"
+    },
+    {
+      "name": "Stackly",
+      "slug": "polsia-stackly-13",
+      "website": "https://stackly-13.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-19T12:27:03.780026+00:00"
+    },
+    {
+      "name": "ReachForge — Autonomous Cold Email Outreach",
+      "slug": "polsia-reachforge-35",
+      "description": "Every month you spend on manual outreach is a month your competitors are outpacing you. ReachForge runs your entire outbound motion — research, writing, sending, follow-up, reply handling — autonomously. Your team focuses on closing deals, not prospecting for them.",
+      "description_fr": "Chaque mois que vous consacrez à la sensibilisation manuelle est un mois où vos concurrents vous dépassent. ReachForge gère l'intégralité de votre mouvement sortant (recherche, rédaction, envoi, suivi, traitement des réponses) de manière autonome. Votre équipe se concentre sur la conclusion de transactions et non sur leur prospection.",
+      "category": "Sales & CRM",
+      "website": "https://reachforge-35.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T12:27:05.397630+00:00"
+    },
+    {
+      "name": "TalentArc — Autonomous Tech Recruiting",
+      "slug": "polsia-talentarc-3",
+      "description": "AI agent that sources, screens, and engages cybersecurity, DevOps, and cloud talent 24/7. Built for staffing firms and hiring teams.",
+      "description_fr": "Agent d'IA qui recherche, sélectionne et engage les talents en matière de cybersécurité, DevOps et cloud 24h/24 et 7j/7. Conçu pour les entreprises de recrutement et les équipes de recrutement.",
+      "category": "AI & Machine Learning",
+      "website": "https://talentarc-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T12:27:06.458421+00:00"
+    },
+    {
+      "name": "Meridian — AI Content Studio",
+      "slug": "polsia-meridian-studio",
+      "description": "Runway Gen-4. Veo 3. Sora 2. Kling 3. The quality is no longer experimental — it's production-grade. The tools to build an AI-native content studio didn't exist 18 months ago. Today they do. Meridian is built on top of this generation.",
+      "description_fr": "Piste Gen-4. Veo 3. Sora 2. Kling 3. La qualité n'est plus expérimentale, elle est de qualité production. Les outils permettant de créer un studio de contenu natif d’IA n’existaient pas il y a 18 mois. Aujourd’hui, c’est le cas. Meridian est construit au-dessus de cette génération.",
+      "category": "AI & Machine Learning",
+      "website": "https://meridian-studio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T12:27:07.690326+00:00"
+    },
+    {
+      "name": "LoanSentry — AI Loan Pipeline Intelligence",
+      "slug": "polsia-loansentry",
+      "description": "AI-powered loan pipeline monitoring for community banks and credit unions. Surface stalled deals, auto-follow up with members, and get daily intelligence instead of weekly spreadsheets.",
+      "description_fr": "Surveillance du pipeline de prêts basée sur l'IA pour les banques communautaires et les coopératives de crédit. Faites état des affaires bloquées, effectuez un suivi automatique auprès des membres et obtenez des informations quotidiennes au lieu de feuilles de calcul hebdomadaires.",
+      "category": "AI & Machine Learning",
+      "website": "https://loansentry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T12:27:09.464531+00:00"
+    },
+    {
+      "name": "FluxKit — Agent Internals UI for React",
+      "slug": "polsia-fluxkit-2",
+      "description": "React component library for AI agent internals: tool calls, reasoning traces, and state diffs rendered beautifully. Built for developers building agent products.",
+      "description_fr": "Bibliothèque de composants React pour les composants internes des agents IA : appels d'outils, traces de raisonnement et différences d'état superbement rendues. Conçu pour les développeurs de produits d'agent de construction.",
+      "category": "AI & Machine Learning",
+      "website": "https://fluxkit-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T12:27:10.852704+00:00"
+    },
+    {
+      "name": "Voca",
+      "slug": "polsia-nexa-2",
+      "description": "Voca builds AI phone agents that answer calls, book appointments, and convert leads automatically — 24/7, without a human on the line.",
+      "description_fr": "Voca crée des agents téléphoniques IA qui répondent aux appels, prennent des rendez-vous et convertissent automatiquement les prospects, 24h/24 et 7j/7, sans humain en ligne.",
+      "category": "AI & Machine Learning",
+      "website": "https://nexa-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T12:27:12.082150+00:00"
+    },
+    {
+      "name": "Verbum — Marketing That Delivers",
+      "slug": "polsia-verbum-marketing",
+      "description": "Performance-guaranteed marketing. You pay only when results land.",
+      "description_fr": "Un marketing à performance garantie. Vous ne payez que lorsque les résultats arrivent.",
+      "category": "Marketing & Advertising",
+      "website": "https://verbum-marketing.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T12:27:14.148681+00:00"
+    },
+    {
+      "name": "Apex — AI That Runs Your Startup",
+      "slug": "polsia-apex-17",
+      "description": "For one-off chat, yes. Apex uses structured workflows with defined boundaries and escalation rules. Your agent doesn't guess — it follows what you taught it and surfaces what it can't handle.",
+      "description_fr": "Pour une conversation ponctuelle, oui. Apex utilise des flux de travail structurés avec des limites définies et des règles d'escalade. Votre agent ne devine pas : il suit ce que vous lui avez enseigné et fait apparaître ce qu'il ne peut pas gérer.",
+      "category": "AI & Machine Learning",
+      "website": "https://apex-17.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T12:27:16.328903+00:00"
+    },
+    {
+      "name": "Signal — Know What Moved Overnight",
+      "slug": "polsia-signal-ai-30",
+      "description": "Most intelligence tools give you access to data. Signal gives you the time back. A daily briefing, curated for what matters to your specific business — delivered before your first meeting.",
+      "description_fr": "La plupart des outils de renseignement vous donnent accès aux données. Signal vous redonne l'heure. Un briefing quotidien, organisé en fonction de ce qui compte pour votre entreprise spécifique, délivré avant votre première réunion.",
+      "category": "Other",
+      "website": "https://signal-ai-30.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-19T12:27:17.567220+00:00"
     }
   ]
 }
