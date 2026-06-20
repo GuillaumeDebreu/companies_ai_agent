@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T14:06:51.996627+00:00",
+  "last_updated": "2026-06-20T14:37:21.290590+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -162191,12 +162191,15 @@
       "scraped_at": "2026-06-19T15:49:31.215684+00:00"
     },
     {
-      "name": "GridOps",
+      "name": "GridOps — Autonomous Utility Field Operations",
       "slug": "polsia-gridops-12",
+      "description": "GridOps agents run around the clock. They close incidents at 3am, dispatch crews during storms, and escalate before the morning briefing. Your operations team stops fighting fires and starts improving systems — because the routine fires are handled.",
+      "description_fr": "GridOps agents run around the clock. Ils clôturent les incidents à 3 heures du matin, envoient des équipes pendant les tempêtes et intensifient leurs activités avant le briefing du matin. Votre équipe opérationnelle arrête de lutter contre les incendies et commence à améliorer les systèmes, car les incendies de routine sont gérés.",
+      "category": "Other",
       "website": "https://gridops-12.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-19T15:49:31.713969+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T14:37:09.568259+00:00"
     },
     {
       "name": "Huescape — Color. Breathe. Escape.",
@@ -163168,20 +163171,26 @@
       "scraped_at": "2026-06-20T10:42:36.793433+00:00"
     },
     {
-      "name": "Vancia",
+      "name": "Vancia — Your Personal Brand, Run by AI",
       "slug": "polsia-vancia",
+      "description": "You didn't build a personal brand to spend your evenings drafting posts. The strategy is yours. The vision is yours. The execution should be an employee — not a second job.",
+      "description_fr": "Vous n'avez pas construit une marque personnelle pour passer vos soirées à rédiger des articles. La stratégie vous appartient. La vision est la vôtre. L'exécution devrait être un employé et non un deuxième emploi.",
+      "category": "AI & Machine Learning",
       "website": "https://vancia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T12:19:23.870166+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T14:37:16.888741+00:00"
     },
     {
-      "name": "Aperture",
+      "name": "APERTURE 4 — Autonomous AI Trading Agent",
       "slug": "polsia-aperture-4",
+      "description": "Aperture is an autonomous trading agent that reads the Hyperliquid order book in real time, reasons about market structure, and acts without pre-defined rules. Not a bot. Not a script. An agent.",
+      "description_fr": "Aperture est un agent commercial autonome qui lit le carnet d'ordres hyperliquide en temps réel, raisonne sur la structure du marché et agit sans règles prédéfinies. Pas un robot. Pas un script. Un agent.",
+      "category": "AI & Machine Learning",
       "website": "https://aperture-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T12:19:24.453248+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T14:37:18.616715+00:00"
     },
     {
       "name": "Flow — Autonomous Social Media Agent",
@@ -163264,6 +163273,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-20T12:19:34.340259+00:00"
+    },
+    {
+      "name": "SprintForge",
+      "slug": "polsia-sprintforge-7",
+      "website": "https://sprintforge-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T14:36:59.506951+00:00"
+    },
+    {
+      "name": "ProofScan",
+      "slug": "polsia-proofscan-3",
+      "website": "https://proofscan-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T14:36:59.971699+00:00"
+    },
+    {
+      "name": "BuildoCratOS",
+      "slug": "polsia-buildocrat-os",
+      "website": "https://buildocrat-os.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T14:37:00.381400+00:00"
+    },
+    {
+      "name": "MarlinOS",
+      "slug": "polsia-marlinos",
+      "website": "https://marlinos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T14:37:00.805537+00:00"
+    },
+    {
+      "name": "DropAlert",
+      "slug": "polsia-dropalert-2",
+      "website": "https://dropalert-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T14:37:01.188186+00:00"
+    },
+    {
+      "name": "Systail",
+      "slug": "polsia-systail",
+      "website": "https://systail.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T14:37:01.586607+00:00"
+    },
+    {
+      "name": "ColdReach",
+      "slug": "polsia-coldreach-36",
+      "website": "https://coldreach-36.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T14:37:01.979937+00:00"
+    },
+    {
+      "name": "Vouched — Hire Pre",
+      "slug": "polsia-vouched-5",
+      "description": "Vouched pre-screens and verifies candidates so companies can hire in hours, not weeks. No resume pile. Just trusted talent.",
+      "description_fr": "Garanti présélectionne et vérifie les candidats afin que les entreprises puissent embaucher en quelques heures, et non en quelques semaines. Pas de pile de CV. Je fais juste confiance au talent.",
+      "category": "Other",
+      "website": "https://vouched-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T14:37:03.608134+00:00"
+    },
+    {
+      "name": "Longline — Clothing for Tall People",
+      "slug": "polsia-longline-2",
+      "description": "Clothing designed for tall people. Proper inseams, proper sleeve lengths, proper everything. No more compromises.",
+      "description_fr": "Vêtements conçus pour les personnes de grande taille. Des entrejambes appropriés, des longueurs de manches appropriées, tout est correct. Plus de compromis.",
+      "category": "Other",
+      "website": "https://longline-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T14:37:05.404501+00:00"
+    },
+    {
+      "name": "Traverse — The AI Mobility Agent",
+      "slug": "polsia-traverse-api",
+      "description": "One API to connect every mobility provider. Traverse's AI agent monitors uptime, handles failover, and abstracts the complexity — so you don't have to.",
+      "description_fr": "Une API pour connecter chaque fournisseur de mobilité. L'agent IA de Traverse surveille la disponibilité, gère le basculement et élimine la complexité, pour que vous n'ayez pas à le faire.",
+      "category": "AI & Machine Learning",
+      "website": "https://traverse-api.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T14:37:06.700820+00:00"
     }
   ]
 }
