@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T04:47:50.182495+00:00",
+  "last_updated": "2026-06-20T08:15:33.687073+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -162847,12 +162847,15 @@
       "scraped_at": "2026-06-20T00:20:47.811423+00:00"
     },
     {
-      "name": "ContentPilot",
+      "name": "ContentPilot — Autonomous Content Operations",
       "slug": "polsia-contentpilot-36",
+      "description": "ContentPilot doesn't assist you. It replaces the routine. The posts you keep meaning to write. The thread you never got around to. The newsletter that went quiet. It handles it — and reports back.",
+      "description_fr": "ContentPilot ne vous aide pas. Cela remplace la routine. Les messages que vous continuez à vouloir écrire. Le fil auquel vous n’avez jamais eu accès. La newsletter qui est devenue silencieuse. Il le gère – et rend compte.",
+      "category": "Marketing & Advertising",
       "website": "https://contentpilot-36.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T04:47:19.752577+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T08:15:28.626933+00:00"
     },
     {
       "name": "WorkHawk",
@@ -162946,6 +162949,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-20T04:47:29.854877+00:00"
+    },
+    {
+      "name": "Biais Latéral",
+      "slug": "polsia-biais-lateral",
+      "website": "https://biais-lateral.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T08:15:07.780965+00:00"
+    },
+    {
+      "name": "ShipStack",
+      "slug": "polsia-shipstack-61",
+      "website": "https://shipstack-61.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T08:15:08.333107+00:00"
+    },
+    {
+      "name": "LoopSend",
+      "slug": "polsia-loopsend-2",
+      "website": "https://loopsend-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T08:15:08.886630+00:00"
+    },
+    {
+      "name": "FocalyOS",
+      "slug": "polsia-focalyos",
+      "website": "https://focalyos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T08:15:09.454231+00:00"
+    },
+    {
+      "name": "AppetiteOS — Operating System for Public Good",
+      "slug": "polsia-appetiteos-2",
+      "description": "The tools that shape how communities organize, vote, and govern themselves are broken. Too slow, too opaque, too expensive. We build the opposite: transparent, fast, and owned by the people using them.",
+      "description_fr": "Les outils qui façonnent la manière dont les communautés s’organisent, votent et se gouvernent elles-mêmes sont brisés. Trop lent, trop opaque, trop cher. Nous construisons le contraire : transparent, rapide et appartenant aux personnes qui les utilisent.",
+      "category": "Real Estate",
+      "website": "https://appetiteos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T08:15:32.263434+00:00"
+    },
+    {
+      "name": "PageLab — Test 100 Landing Pages, Find What Converts",
+      "slug": "polsia-pagelab-2",
+      "description": "Build and test 100 landing page variants to find the exact message that converts for B2B ads. Stop guessing, start knowing.",
+      "description_fr": "Créez et testez 100 variantes de page de destination pour trouver le message exact qui se convertit en publicités B2B. Arrêtez de deviner, commencez à savoir.",
+      "category": "Marketing & Advertising",
+      "website": "https://pagelab-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T08:15:11.216722+00:00"
+    },
+    {
+      "name": "LokaVision — Istanbul Commercial Real Estate Intelligence",
+      "slug": "polsia-lokavision",
+      "description": "LokaVision monitors commercial property listings across Istanbul 24/7. When a warehouse, plaza, or logistics facility matches your investment criteria, you hear about it instantly — before anyone else.",
+      "description_fr": "LokaVision surveille les annonces de propriétés commerciales à Istanbul 24h/24 et 7j/7. Lorsqu’un entrepôt, une place ou une installation logistique correspond à vos critères d’investissement, vous en entendez parler instantanément, avant tout le monde.",
+      "category": "Real Estate",
+      "website": "https://lokavision.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T08:15:33.341992+00:00"
+    },
+    {
+      "name": "KORE",
+      "slug": "polsia-kore-2",
+      "website": "https://kore-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T08:15:12.474112+00:00"
+    },
+    {
+      "name": "AptisAcademia — Prepara tu examen Aptis con inteligencia",
+      "slug": "polsia-aptisacademiaos",
+      "description": "El Aptis ESOL es un examen oficial del British Council que certifica tu nivel de inglés según el Marco Común Europeo de Referencia (MCER). Es rápido, accesible y reconocido por universidades, comunidades autónomas y tribunales de oposiciones en toda España.",
+      "description_fr": "L'Aptis ESOL est un examen officiel du British Council qui certifie votre niveau d'anglais selon le Marco Común Europeo de Referencia (MCER). Il est rapide, accessible et reconnu par les universités, les communautés autonomes et les tribunaux d'opposition de toute l'Espagne.",
+      "category": "Sustainability & Green",
+      "website": "https://aptisacademiaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T08:15:14.157772+00:00"
+    },
+    {
+      "name": "Vondle — Your Inbox, Handled",
+      "slug": "polsia-vondle",
+      "description": "Vondle is built for professionals who are done being the bottleneck in their own inbox. It doesn't just help you manage email — it manages emailfor you, the way a sharp executive assistant would.",
+      "description_fr": "Vondle est conçu pour les professionnels qui ne sont plus le goulot d'étranglement dans leur propre boîte de réception. Il ne vous aide pas seulement à gérer vos e-mails : il gère vos e-mails pour vous, comme le ferait un assistant exécutif avisé.",
+      "category": "Newsletter & Email",
+      "website": "https://vondle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T08:15:15.523104+00:00"
     }
   ]
 }
