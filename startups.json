@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T23:03:09.312307+00:00",
+  "last_updated": "2026-06-20T00:20:59.195156+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -162680,20 +162680,26 @@
       "scraped_at": "2026-06-19T23:02:55.683231+00:00"
     },
     {
-      "name": "Vela Commerce",
+      "name": "Vela Commerce — Autonomous AI Agents for LatAm E",
       "slug": "polsia-vela-commerce",
+      "description": "AI agents that autonomously run your Latin American e-commerce operations — inventory, repricing, procurement — while you sleep.",
+      "description_fr": "Des agents IA qui gèrent de manière autonome vos opérations de commerce électronique en Amérique latine (inventaire, retarification, approvisionnement) pendant que vous dormez.",
+      "category": "AI & Machine Learning",
       "website": "https://vela-commerce.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-19T23:02:55.841342+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T00:20:55.934138+00:00"
     },
     {
-      "name": "SildOS",
+      "name": "SildOS — Operating System for SILD",
       "slug": "polsia-sildos",
+      "description": "Translation tools fail because only one side gets on the platform. SILD's buyer-side pricing means suppliers join at no cost — pulling both parties into the same conversation, automatically.",
+      "description_fr": "Les outils de traduction échouent car un seul côté accède à la plateforme. La tarification côté acheteur de SILD signifie que les fournisseurs se joignent sans frais, entraînant automatiquement les deux parties dans la même conversation.",
+      "category": "Software & SaaS",
       "website": "https://sildos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-19T23:02:56.036674+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T00:20:56.536449+00:00"
     },
     {
       "name": "MilunoOS",
@@ -162743,6 +162749,84 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-19T23:03:00.832943+00:00"
+    },
+    {
+      "name": "Folio",
+      "slug": "polsia-folio-10",
+      "website": "https://folio-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T00:20:42.251242+00:00"
+    },
+    {
+      "name": "OpsPilot",
+      "slug": "polsia-opspilot-42",
+      "website": "https://opspilot-42.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T00:20:42.717447+00:00"
+    },
+    {
+      "name": "Tradevane",
+      "slug": "polsia-tradevane-2",
+      "website": "https://tradevane-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T00:20:43.111326+00:00"
+    },
+    {
+      "name": "KangaOS",
+      "slug": "polsia-kangaos",
+      "website": "https://kangaos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T00:20:43.365929+00:00"
+    },
+    {
+      "name": "TripFolio",
+      "slug": "polsia-tripfolio",
+      "website": "https://tripfolio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T00:20:43.712536+00:00"
+    },
+    {
+      "name": "VertiOS",
+      "slug": "polsia-vertios",
+      "website": "https://vertios.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T00:20:44.122313+00:00"
+    },
+    {
+      "name": "CapStream",
+      "slug": "polsia-capstream",
+      "website": "https://capstream.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T00:20:44.609958+00:00"
+    },
+    {
+      "name": "SouqFlow — B2B Procurement for Algerian Businesses",
+      "slug": "polsia-souqflow",
+      "description": "SouqFlow connects Algerian restaurants, hotels, and retailers directly to their wholesale suppliers. No more phone calls. No more WhatsApp. No more missed deliveries.",
+      "description_fr": "SouqFlow connecte les restaurants, hôtels et détaillants algériens directement à leurs fournisseurs grossistes. Plus d'appels téléphoniques. Plus de WhatsApp. Fini les livraisons manquées.",
+      "category": "E-Commerce & Retail",
+      "website": "https://souqflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T00:20:46.214166+00:00"
+    },
+    {
+      "name": "DrillBooks — Drill Into Your Financials",
+      "slug": "polsia-drillbooks",
+      "description": "Stuart, you asked about data security before anything else. Good instinct. Most small businesses hand off their most sensitive records to bookkeepers or spreadsheets without a second thought. We built DrillBooks with the assumption that trust is earned, not assumed.",
+      "description_fr": "Stuart, vous avez posé des questions sur la sécurité des données avant toute autre chose. Bon instinct. La plupart des petites entreprises confient sans hésiter leurs dossiers les plus sensibles à des comptables ou à des feuilles de calcul. Nous avons construit DrillBooks en partant du principe que la confiance est gagnée et non supposée.",
+      "category": "Finance & Fintech",
+      "website": "https://drillbooks.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T00:20:47.811423+00:00"
     }
   ]
 }
