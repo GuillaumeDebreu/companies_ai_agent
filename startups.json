@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T16:06:09.019616+00:00",
+  "last_updated": "2026-06-20T17:44:48.321768+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -163384,20 +163384,26 @@
       "scraped_at": "2026-06-20T16:05:46.121615+00:00"
     },
     {
-      "name": "PatchPilot",
+      "name": "PatchPilot — AI Penetration Testing, On Every Deploy",
       "slug": "polsia-patchpilot-16",
+      "description": "PatchPilot is an AI agent that runs autonomous penetration tests on every code deployment. Find vulnerabilities, validate exploits, ship fix-ready reports. No annual pentest required.",
+      "description_fr": "PatchPilot est un agent IA qui exécute des tests d'intrusion autonomes sur chaque déploiement de code. Recherchez les vulnérabilités, validez les exploits et envoyez des rapports prêts à être corrigés. Aucun pentest annuel requis.",
+      "category": "AI & Machine Learning",
       "website": "https://patchpilot-16.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T16:05:46.653329+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T17:44:44.716778+00:00"
     },
     {
-      "name": "Worldcraft",
+      "name": "Worldcraft — AI Creative Studio",
       "slug": "polsia-worldcraft",
+      "description": "That principle — world-building applied to creative — is the foundation of everything we make. Every campaign, every piece of content, every message emerges from a coherent universe rather than a disconnected prompt.",
+      "description_fr": "Ce principe – la construction du monde appliqué à la création – est le fondement de tout ce que nous créons. Chaque campagne, chaque élément de contenu, chaque message émerge d'un univers cohérent plutôt que d'une invite déconnectée.",
+      "category": "AI & Machine Learning",
       "website": "https://worldcraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T16:05:47.066308+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T17:44:45.306870+00:00"
     },
     {
       "name": "BuddyUp — Raise Your Companion, Grow Your World",
@@ -163411,12 +163417,15 @@
       "scraped_at": "2026-06-20T16:05:48.118887+00:00"
     },
     {
-      "name": "ChiroOS",
+      "name": "Chiro — AI Memory for Teams",
       "slug": "polsia-chiroos",
+      "description": "An ACT-R memory layer for AI. Turn your team\\'s daily work into persistent, self-maintaining organizational memory.",
+      "description_fr": "Une couche mémoire ACT-R pour l'IA. Transformez le travail quotidien de votre équipe en une mémoire organisationnelle persistante et auto-entretenue.",
+      "category": "AI & Machine Learning",
       "website": "https://chiroos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T16:05:48.380250+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T17:44:47.115951+00:00"
     },
     {
       "name": "NaionIQ — Battery Fleet Intelligence",
@@ -163466,6 +163475,110 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-06-20T16:05:52.478596+00:00"
+    },
+    {
+      "name": "JosepOS",
+      "slug": "polsia-josepos",
+      "website": "https://josepos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T17:44:25.164612+00:00"
+    },
+    {
+      "name": "Fabricatr — The Operating System for Metal Fabrication",
+      "slug": "polsia-fabricatros",
+      "description": "Off-the-shelf software wasn't built for the complexity of scheduling, materials, and shop operations behind a welding & fabrication business. Fabricatr is. Jobs, dispatch, materials, quotes, billing — one platform that actually understands your trade.",
+      "description_fr": "Les logiciels prêts à l'emploi n'ont pas été conçus pour la complexité de la planification, des matériaux et des opérations d'atelier d'une entreprise de soudage et de fabrication. Le fabricant est. Travaux, expédition, matériaux, devis, facturation : une plateforme qui comprend réellement votre métier.",
+      "category": "Software & SaaS",
+      "website": "https://fabricatros.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T17:44:26.858850+00:00"
+    },
+    {
+      "name": "ChairOS",
+      "slug": "polsia-chairos-2",
+      "website": "https://chairos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T17:44:27.244215+00:00"
+    },
+    {
+      "name": "WorkFuse",
+      "slug": "polsia-workfuse",
+      "description": "WorkFuse doesn't just fill roles. It builds a talent intelligence layer over time — learning your culture, your rejects, your hires that became stars. Every cycle makes the next shortlist better.",
+      "description_fr": "WorkFuse ne se contente pas de remplir des rôles. Il crée une couche d'intelligence des talents au fil du temps : en apprenant votre culture, vos rejets, vos embauches qui sont devenues des stars. Chaque cycle améliore la prochaine liste restreinte.",
+      "category": "Education",
+      "website": "https://workfuse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T17:44:28.111300+00:00"
+    },
+    {
+      "name": "Veilwise — Clarity Through the Veil",
+      "slug": "polsia-veilwise",
+      "description": "Reiki healing and tarot guidance for those seeking clarity, balance, and inner peace. Sessions available in-person and remote.",
+      "description_fr": "Guérison Reiki et conseils de tarot pour ceux qui recherchent la clarté, l'équilibre et la paix intérieure. Séances disponibles en personne et à distance.",
+      "category": "Other",
+      "website": "https://veilwise.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T17:44:29.277319+00:00"
+    },
+    {
+      "name": "LeadPilotOS — Operating System for Lead Gen Agencies",
+      "slug": "polsia-leadpilotos-4",
+      "description": "LeadPilotOS is the command center for lead gen agencies. Real-time dashboards, automated reporting, campaign pipeline tracking — everything in one place so you stop firefighting and start scaling.",
+      "description_fr": "LeadPilotOS est le centre de commandement des agences de génération de leads. Tableaux de bord en temps réel, rapports automatisés, suivi du pipeline de campagne : tout est réuni au même endroit pour que vous arrêtiez de lutter contre les incendies et commenciez à évoluer.",
+      "category": "Marketing & Advertising",
+      "website": "https://leadpilotos-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T17:44:30.124160+00:00"
+    },
+    {
+      "name": "After Hugs — Embroidered Memorial Hoodies",
+      "slug": "polsia-afterhugos",
+      "description": "Duarte spent time recording his grandmother's stories. Watching her come alive through those memories showed him something powerful — that celebrating is just as important as remembering.",
+      "description_fr": "Duarte passait du temps à enregistrer les histoires de sa grand-mère. La voir prendre vie à travers ces souvenirs lui a montré quelque chose de puissant : célébrer est tout aussi important que se souvenir.",
+      "category": "Sustainability & Green",
+      "website": "https://afterhugos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T17:44:31.180847+00:00"
+    },
+    {
+      "name": "Fixr — Autonomous Code Repair",
+      "slug": "polsia-fixr-ai",
+      "description": "Doesn't just fix the error. Understands your codebase — your patterns, your conventions, your edge cases. Fixes that won't break the thing next to it.",
+      "description_fr": "Ne corrige pas seulement l'erreur. Comprend votre base de code : vos modèles, vos conventions, vos cas extrêmes. Des correctifs qui ne casseront pas la chose à côté.",
+      "category": "Other",
+      "website": "https://fixr-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T17:44:32.219405+00:00"
+    },
+    {
+      "name": "Crisp — Autonomous AI Support",
+      "slug": "polsia-crisp-ai",
+      "description": "AI support agent that works the queue, resolves tickets, and only bugs you when it genuinely can't help.",
+      "description_fr": "Agent de support IA qui gère la file d'attente, résout les tickets et ne vous dérange que lorsqu'il ne peut vraiment pas vous aider.",
+      "category": "AI & Machine Learning",
+      "website": "https://crisp-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T17:44:33.300330+00:00"
+    },
+    {
+      "name": "Puthuyir — Tamil Books, Curated with Care",
+      "slug": "polsia-mozhi-os",
+      "description": "Puthuyir began not as a business plan, but as a conviction: that readers deserve better than algorithms when choosing what to read next. We started with a physical shelf and a love for Tamil literature. The online room came next.",
+      "description_fr": "Puthuyir n'a pas commencé comme un plan d'affaires, mais comme une conviction : que les lecteurs méritent mieux que les algorithmes lorsqu'ils choisissent ce qu'ils vont lire ensuite. Nous avons commencé avec une étagère physique et un amour pour la littérature tamoule. La salle en ligne est venue ensuite.",
+      "category": "Marketing & Advertising",
+      "website": "https://mozhi-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T17:44:34.251414+00:00"
     }
   ]
 }
