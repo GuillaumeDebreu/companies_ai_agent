@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T03:50:23.779650+00:00",
+  "last_updated": "2026-06-20T04:47:50.182495+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -162751,52 +162751,70 @@
       "scraped_at": "2026-06-19T23:03:00.832943+00:00"
     },
     {
-      "name": "Folio",
+      "name": "Folio — Portfolio Builder for Creatives",
       "slug": "polsia-folio-10",
+      "description": "The portfolio builder that actually understands how video editors and full-stack devs work. Ship a showreel site in hours, not weeks.",
+      "description_fr": "Le créateur de portfolio qui comprend réellement comment fonctionnent les éditeurs vidéo et les développeurs full-stack. Expédiez un site showreel en quelques heures, et non en quelques semaines.",
+      "category": "Entertainment & Media",
       "website": "https://folio-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T00:20:42.251242+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:40.901859+00:00"
     },
     {
-      "name": "OpsPilot",
+      "name": "OpsPilot — Autonomous AI for Manufacturing Operations",
       "slug": "polsia-opspilot-42",
+      "description": "OpsPilot is an AI agent that monitors your plant floor 24/7, catches production problems before they cascade, and reports to your team — without dashboards or consultants.",
+      "description_fr": "OpsPilot est un agent d'IA qui surveille votre usine 24 heures sur 24, 7 jours sur 7, détecte les problèmes de production avant qu'ils ne se produisent et en rend compte à votre équipe, sans tableaux de bord ni consultants.",
+      "category": "AI & Machine Learning",
       "website": "https://opspilot-42.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T00:20:42.717447+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:42.634447+00:00"
     },
     {
-      "name": "Tradevane",
+      "name": "Tradevane — AI Outbound for Turkish Exporters",
       "slug": "polsia-tradevane-2",
+      "description": "Turkish manufacturers have spent decades mastering production. Now the world needs to know what you've built. Tradevane is the export sales team you never had to hire — working around the clock to fill your pipeline with buyers who are already looking for exactly what you make.",
+      "description_fr": "Les fabricants turcs ont passé des décennies à maîtriser la production. Le monde doit désormais savoir ce que vous avez construit. Tradevane est l'équipe de vente à l'exportation que vous n'avez jamais eu à embaucher : elle travaille 24 heures sur 24 pour remplir votre pipeline d'acheteurs qui recherchent déjà exactement ce que vous fabriquez.",
+      "category": "AI & Machine Learning",
       "website": "https://tradevane-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T00:20:43.111326+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:44.475225+00:00"
     },
     {
-      "name": "KangaOS",
+      "name": "KangaOS — Trust",
       "slug": "polsia-kangaos",
+      "description": "KangaOS was built to make trust the fastest thing in the room. Every score, every comparison, every data point — designed to give the Canadian cannabis market the transparency it deserves.",
+      "description_fr": "KangaOS a été conçu pour faire de la confiance la chose la plus rapide dans la pièce. Chaque score, chaque comparaison, chaque point de données – conçu pour donner au marché canadien du cannabis la transparence qu'il mérite.",
+      "category": "Other",
       "website": "https://kangaos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T00:20:43.365929+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:45.999074+00:00"
     },
     {
-      "name": "TripFolio",
+      "name": "TripFolio — AI",
       "slug": "polsia-tripfolio",
+      "description": "Upload your travel photos. TripFolio's AI selects, sequences, and designs a printed album you'll actually love.",
+      "description_fr": "Téléchargez vos photos de voyage. L'IA de TripFolio sélectionne, séquence et conçoit un album imprimé que vous allez vraiment adorer.",
+      "category": "AI & Machine Learning",
       "website": "https://tripfolio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T00:20:43.712536+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:47.683197+00:00"
     },
     {
-      "name": "VertiOS",
+      "name": "VertiOS — Autonomous Vertiport Operations",
       "slug": "polsia-vertios",
+      "description": "The AI agent that runs vertiport operations 24/7. Monitors flights, coordinates aircraft, tracks compliance, and reports to stakeholders — autonomously.",
+      "description_fr": "L'agent IA qui exécute les opérations de vertiport 24h/24 et 7j/7. Surveille les vols, coordonne les avions, assure le suivi de la conformité et rend compte aux parties prenantes, de manière autonome.",
+      "category": "AI & Machine Learning",
       "website": "https://vertios.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T00:20:44.122313+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:48.460750+00:00"
     },
     {
       "name": "CapStream",
@@ -162827,6 +162845,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-20T00:20:47.811423+00:00"
+    },
+    {
+      "name": "ContentPilot",
+      "slug": "polsia-contentpilot-36",
+      "website": "https://contentpilot-36.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T04:47:19.752577+00:00"
+    },
+    {
+      "name": "WorkHawk",
+      "slug": "polsia-workhawk-2",
+      "website": "https://workhawk-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T04:47:20.390272+00:00"
+    },
+    {
+      "name": "Stacksmith",
+      "slug": "polsia-stacksmith-13",
+      "website": "https://stacksmith-13.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-20T04:47:20.847565+00:00"
+    },
+    {
+      "name": "Playforge — AI Game Creation Studio",
+      "slug": "polsia-playforge-16",
+      "description": "Other AI game makers generate assets or prototypes. Playforge generates complete,\n          coherent game systems — mechanics, progression, AI-driven NPCs, and polished\n          presentation in one pass. No stitching together third-party tools.",
+      "description_fr": "D'autres créateurs de jeux d'IA génèrent des actifs ou des prototypes. Playforge génère des\n          systèmes de jeu cohérents - mécaniques, progression, PNJ pilotés par l'IA et finitions soignées\n          présentation en un seul passage. Pas d’assemblage d’outils tiers.",
+      "category": "AI & Machine Learning",
+      "website": "https://playforge-16.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:22.006636+00:00"
+    },
+    {
+      "name": "BlendOps — AI Agents for Acai Cafes",
+      "slug": "polsia-blendops",
+      "description": "BlendOps is the AI agent that handles the back of house — the ordering, scheduling, tracking, and marketing that eats your evenings and weekends. Built for acai and superfood cafes that want to grow without growing their workload.",
+      "description_fr": "BlendOps est l'agent IA qui gère l'arrière-plan : la commande, la planification, le suivi et le marketing qui occupent vos soirées et vos week-ends. Conçu pour les cafés d'açaï et de superaliments qui souhaitent se développer sans augmenter leur charge de travail.",
+      "category": "AI & Machine Learning",
+      "website": "https://blendops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:23.480453+00:00"
+    },
+    {
+      "name": "Kidpreneur — Kids Build Real Businesses",
+      "slug": "polsia-kidpreneur",
+      "description": "An educational PWA game that teaches kids aged 8-14 how to build and run their first business through interactive entrepreneurship quests.",
+      "description_fr": "Un jeu éducatif PWA qui enseigne aux enfants âgés de 8 à 14 ans comment créer et gérer leur première entreprise à travers des quêtes interactives sur l'entrepreneuriat.",
+      "category": "Education",
+      "website": "https://kidpreneur.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:24.389524+00:00"
+    },
+    {
+      "name": "TaxSentry — UAE Corporate Tax Compliance Agent",
+      "slug": "polsia-taxsentry",
+      "description": "The UAE introduced corporate tax in 2023. Most SMEs are navigating it with spreadsheets and annual会计师 visits. That gap — between what large firms have and what small businesses can afford — is where TaxSentry operates.",
+      "description_fr": "Les Émirats arabes unis ont introduit l'impôt sur les sociétés en 2023. La plupart des PME s'y retrouvent à l'aide de feuilles de calcul et de visites annuelles. Cet écart – entre ce dont disposent les grandes entreprises et ce que les petites entreprises peuvent se permettre – est le domaine dans lequel opère TaxSentry.",
+      "category": "Other",
+      "website": "https://taxsentry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:25.604996+00:00"
+    },
+    {
+      "name": "Buildbeat",
+      "slug": "polsia-buildbeat",
+      "description": "Buildbeat monitors your codebase around the clock, surfaces bugs, writes tests, and delivers a daily engineering digest. Ship faster, break less.",
+      "description_fr": "Buildbeat surveille votre base de code 24 heures sur 24, détecte les bogues, écrit des tests et fournit un résumé d'ingénierie quotidien. Expédiez plus vite, cassez moins.",
+      "category": "Other",
+      "website": "https://buildbeat.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:26.664302+00:00"
+    },
+    {
+      "name": "minimal.dev — Local",
+      "slug": "polsia-yrgos",
+      "description": "The tools you use to build matter as much as what you build. Every environment that spins up, every package that resolves, every build that passes — they should be identical everywhere, every time.",
+      "description_fr": "Les outils que vous utilisez pour construire comptent autant que ce que vous construisez. Chaque environnement qui tourne, chaque paquet qui se résout, chaque build qui passe, ils doivent être identiques partout, à chaque fois.",
+      "category": "Sustainability & Green",
+      "website": "https://yrgos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:28.301792+00:00"
+    },
+    {
+      "name": "WealthNode AI — Autonomous Wealth Prospecting",
+      "slug": "polsia-wealthnode-ai",
+      "description": "A cold call into a $5M net worth household is a 3% conversion rate. A warm introduction through a shared contact is 38%. WealthNode maps every connection in your sphere — alumni networks, board memberships, shared employers, civic affiliations — to find your shortest warm path to every target.",
+      "description_fr": "Un appel à froid auprès d’un foyer fortuné de 5 millions de dollars représente un taux de conversion de 3 %. Une introduction chaleureuse grâce à un contact partagé est de 38%. WealthNode cartographie toutes les connexions dans votre sphère – réseaux d'anciens élèves, adhésions à des conseils d'administration, employeurs partagés, affiliations civiques – pour trouver votre chemin le plus court vers chaque cible.",
+      "category": "AI & Machine Learning",
+      "website": "https://wealthnode-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-20T04:47:29.854877+00:00"
     }
   ]
 }
