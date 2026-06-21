@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T09:51:45.948509+00:00",
+  "last_updated": "2026-06-21T11:51:37.700612+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -163245,12 +163245,15 @@
       "scraped_at": "2026-06-20T12:19:30.065434+00:00"
     },
     {
-      "name": "LaunchOS",
+      "name": "LaunchOS — Run Your Whole Business with AI",
       "slug": "polsia-launchos-39",
+      "description": "LaunchOS is the AI operating system that builds, runs, and grows your business 24/7 — no team required.",
+      "description_fr": "LaunchOS est le système d'exploitation d'IA qui crée, gère et développe votre entreprise 24h/24 et 7j/7, sans aucune équipe.",
+      "category": "AI & Machine Learning",
       "website": "https://launchos-39.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T12:19:30.659106+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:24.320880+00:00"
     },
     {
       "name": "Signal Brief — Conservative Daily Intelligence",
@@ -164205,12 +164208,15 @@
       "scraped_at": "2026-06-21T05:15:23.030213+00:00"
     },
     {
-      "name": "Mindwear",
+      "name": "Mindwear — Your City, Your Tee, AI",
       "slug": "polsia-mindwear",
+      "description": "AI-powered custom t-shirt design that knows your city. Describe what you want, get a design made for your neighborhood, your pride, your story.",
+      "description_fr": "Conception de t-shirts personnalisés alimentés par l'IA qui connaissent votre ville. Décrivez ce que vous voulez, faites réaliser un design pour votre quartier, votre fierté, votre histoire.",
+      "category": "AI & Machine Learning",
       "website": "https://mindwear.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T09:03:53.588825+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:31.546409+00:00"
     },
     {
       "name": "SignalStack",
@@ -164221,20 +164227,26 @@
       "scraped_at": "2026-06-21T09:03:53.930193+00:00"
     },
     {
-      "name": "FlowForge",
+      "name": "FlowForge — Production",
       "slug": "polsia-flowforge-56",
+      "description": "Browse and deploy pre-built, production-ready n8n workflow templates. Built for enterprise teams that need automation without the blank canvas.",
+      "description_fr": "Parcourez et déployez des modèles de flux de travail n8n prédéfinis et prêts pour la production. Conçu pour les équipes d'entreprise qui ont besoin d'automatisation sans toile vierge.",
+      "category": "Productivity & Automation",
       "website": "https://flowforge-56.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T09:03:54.293487+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:33.319772+00:00"
     },
     {
-      "name": "Coast",
+      "name": "Coast — AI Property Manager for Short",
       "slug": "polsia-coast-hq",
+      "description": "Coast is the AI employee that runs your short-term rental portfolio 24/7 — autonomous guest messaging, dynamic pricing, channel sync, and daily progress reports.",
+      "description_fr": "Coast est l'employé IA qui gère votre portefeuille de locations à court terme 24h/24 et 7j/7 : messagerie client autonome, tarification dynamique, synchronisation des canaux et rapports de progression quotidiens.",
+      "category": "Travel & Hospitality",
       "website": "https://coast-hq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T09:03:54.664589+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:34.738982+00:00"
     },
     {
       "name": "DevDesk — Your AI Junior Developer",
@@ -164301,6 +164313,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-21T09:04:03.076280+00:00"
+    },
+    {
+      "name": "Lulu — Sleep, in a new light",
+      "slug": "polsia-luluos",
+      "description": "Lulu uses precise, rhythmic pulses of light delivered through your phone's camera flash. These patterns interact with your visual cortex and thalamic pathways, guiding your brain from beta-wave alertness through alpha into theta — the threshold state between waking and sleep.",
+      "description_fr": "Lulu utilise des impulsions de lumière précises et rythmées émises par le flash de l'appareil photo de votre téléphone. Ces modèles interagissent avec votre cortex visuel et vos voies thalamiques, guidant votre cerveau de la vigilance aux ondes bêta en passant par l'alpha vers le thêta – l'état seuil entre l'éveil et le sommeil.",
+      "category": "Other",
+      "website": "https://luluos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:36.396694+00:00"
+    },
+    {
+      "name": "PreOrg — AI",
+      "slug": "polsia-preorgos",
+      "description": "Upload your org chart, roster, and role documents. PreOrg identifies spans, layers, role clarity issues, and leadership capacity gaps through a proprietary ORG-FIT™ framework — analyzed by AI and signed off by a senior HR executive.",
+      "description_fr": "Téléchargez votre organigramme, votre liste et vos documents de rôle. PreOrg identifie les étendues, les couches, les problèmes de clarté des rôles et les lacunes en matière de capacité de leadership grâce à un cadre exclusif ORG-FIT™ — analysé par l'IA et approuvé par un cadre supérieur des ressources humaines.",
+      "category": "AI & Machine Learning",
+      "website": "https://preorgos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:00.840817+00:00"
+    },
+    {
+      "name": "PitchDeck — Autonomous Ad Campaign Agent",
+      "slug": "polsia-pitchdeck",
+      "description": "The gap between launch and optimize is where budgets disappear. PitchDeck closes that gap — running your campaigns from brief to report, adjusting in real time, reporting back every morning. Built for media teams who are done babysitting dashboards.",
+      "description_fr": "C’est dans l’écart entre le lancement et l’optimisation que les budgets disparaissent. PitchDeck comble cette lacune en exécutant vos campagnes du brief au rapport, en les ajustant en temps réel et en rendant compte chaque matin. Conçu pour les équipes médiatiques qui ont fini de garder des tableaux de bord.",
+      "category": "Marketing & Advertising",
+      "website": "https://pitchdeck.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:02.147400+00:00"
+    },
+    {
+      "name": "Kreasikil — Jasa Pembuatan Konten untuk UMKM Indonesia",
+      "slug": "polsia-kreasikil",
+      "description": "Mayoritas pelaku UMKM di Indonesia belum punya akses ke desain profesional. Mereka pakai template acak, foto seadanya, caption asal-asalan. Hasilnya? Akun bisnis terlihat murahan, dan peluang продаж terbuang.",
+      "description_fr": "Mayoritas pelaku UMKM di Indonesia belum punya demande à ke desain profesional. Modèle Mereka pakai acak, photo seadanya, légende asal-asalan. Hasilnya ? Akun bisnis terlihat murahan, and peluang продаж terbuang.",
+      "category": "AI & Machine Learning",
+      "website": "https://kreasikil.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:37.445650+00:00"
+    },
+    {
+      "name": "StrickOS",
+      "slug": "polsia-strickos",
+      "website": "https://strickos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T11:51:03.015354+00:00"
+    },
+    {
+      "name": "BookLine — AI Appointment",
+      "slug": "polsia-bookline-4",
+      "description": "BookLine turns missed calls, web leads, and DMs into booked appointments — automatically, around the clock. No receptionist, no gaps, no lost revenue.",
+      "description_fr": "BookLine transforme les appels manqués, les prospects Web et les DM en rendez-vous réservés, automatiquement, 24 heures sur 24. Pas de réceptionniste, pas de lacunes, pas de perte de revenus.",
+      "category": "AI & Machine Learning",
+      "website": "https://bookline-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:04.911518+00:00"
+    },
+    {
+      "name": "BrandCanvas — AI Creative Studio for Brands",
+      "slug": "polsia-brandcanvas-2",
+      "description": "BrandCanvas enforces your visual rules at generation — so every ad, asset, and campaign lands consistent, compliant, and ready to ship. No more off-brand outputs. No more revision loops.",
+      "description_fr": "BrandCanvas applique vos règles visuelles dès la génération, de sorte que chaque annonce, élément et campagne soit cohérent, conforme et prêt à être expédié. Fini les sorties hors marque. Fini les boucles de révision.",
+      "category": "AI & Machine Learning",
+      "website": "https://brandcanvas-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:06.793406+00:00"
+    },
+    {
+      "name": "Daima — Never Miss a Deadline",
+      "slug": "polsia-daima",
+      "description": "We built Daima because we watched brilliant lawyers and business owners lose sleep over deadlines they couldn't track in their heads — not because they were careless, but because the system was built against them. Daima is the fix.",
+      "description_fr": "Nous avons créé Daima parce que nous avons vu de brillants avocats et propriétaires d'entreprise perdre le sommeil à cause de délais qu'ils ne pouvaient pas suivre mentalement - non pas parce qu'ils étaient négligents, mais parce que le système avait été construit contre eux. Daima est la solution.",
+      "category": "Other",
+      "website": "https://daima.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:08.520756+00:00"
+    },
+    {
+      "name": "InitPic — Find Every Photo of Yourself at Events",
+      "slug": "polsia-initpicos",
+      "description": "One selfie matches you against every photo from your event. AI-powered photo matching for festivals, weddings, races, and concerts.",
+      "description_fr": "Un selfie vous compare à chaque photo de votre événement. Correspondance de photos alimentée par l'IA pour les festivals, les mariages, les courses et les concerts.",
+      "category": "AI & Machine Learning",
+      "website": "https://initpicos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:10.005849+00:00"
+    },
+    {
+      "name": "Niv — Your AI Social Media Employee",
+      "slug": "polsia-niv",
+      "description": "Niv is an AI agent that creates, schedules, and optimizes your social media — every day, every platform, on its own. You approve. It runs.",
+      "description_fr": "Niv est un agent d'IA qui crée, planifie et optimise vos réseaux sociaux, chaque jour, sur chaque plateforme. Vous approuvez. Ça marche.",
+      "category": "AI & Machine Learning",
+      "website": "https://niv.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T11:51:11.621660+00:00"
     }
   ]
 }
