@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T04:20:56.007551+00:00",
+  "last_updated": "2026-06-21T05:15:48.292931+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -163997,20 +163997,26 @@
       "scraped_at": "2026-06-20T22:53:23.287754+00:00"
     },
     {
-      "name": "CallCraft",
+      "name": "CallCraft — AI Receptionist for Local Service Businesses",
       "slug": "polsia-callcraft-7",
+      "description": "CallCraft answers every call for your HVAC, plumbing, or med spa business. 24/7 AI receptionist that books appointments, qualifies leads, and sends follow-up texts.",
+      "description_fr": "CallCraft répond à chaque appel pour votre entreprise de CVC, de plomberie ou de spa médical. Réceptionniste IA 24h/24 et 7j/7 qui prend des rendez-vous, qualifie les prospects et envoie des SMS de suivi.",
+      "category": "AI & Machine Learning",
       "website": "https://callcraft-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T00:03:21.563476+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T05:15:42.868780+00:00"
     },
     {
-      "name": "SovereignOS",
+      "name": "Sovereign — Software built for you. Not for everyone else.",
       "slug": "polsia-sovereignos-22",
+      "description": "We start by understanding your audience, your expertise, and the opportunity only you can own. Together we define exactly what to build, how to price it, and what success looks like. You walk away with a product brief and revenue model before anything is built.",
+      "description_fr": "Nous commençons par comprendre votre public, votre expertise et l'opportunité que vous seul pouvez posséder. Ensemble, nous définissons exactement ce qu'il faut construire, comment en fixer le prix et à quoi ressemble le succès. Vous repartez avec une description du produit et un modèle de revenus avant que quoi que ce soit ne soit construit.",
+      "category": "Software & SaaS",
       "website": "https://sovereignos-22.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T00:03:22.090584+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T05:15:44.745066+00:00"
     },
     {
       "name": "Stackr — AI Code Review That Never Sleeps",
@@ -164096,6 +164102,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-21T00:03:32.821752+00:00"
+    },
+    {
+      "name": "VentureIQ",
+      "slug": "polsia-ventureiq",
+      "website": "https://ventureiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T05:15:11.275316+00:00"
+    },
+    {
+      "name": "Pingly",
+      "slug": "polsia-pingly-6",
+      "description": "AI-powered WhatsApp automation. Autonomous lead qualification, 24/7 response, conversation analytics.",
+      "description_fr": "Automatisation WhatsApp basée sur l'IA. Qualification autonome des leads, réponse 24h/24 et 7j/7, analyse des conversations.",
+      "category": "AI & Machine Learning",
+      "website": "https://pingly-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T05:15:47.259332+00:00"
+    },
+    {
+      "name": "ProFound",
+      "slug": "polsia-profoundlocal",
+      "website": "https://profoundlocal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T05:15:12.455944+00:00"
+    },
+    {
+      "name": "Vardan — AI Agents for Ayurvedic Brands",
+      "slug": "polsia-vardan",
+      "description": "Chatbots answer questions. Vardan takes action. It monitors your Amazon and Flipkart listings, responds to reviews with domain knowledge, flags stock issues before they become stockouts, and adjusts pricing against competitors — while you sleep.",
+      "description_fr": "Les chatbots répondent aux questions. Vardan passe à l'action. Il surveille vos listes Amazon et Flipkart, répond aux avis avec une connaissance du domaine, signale les problèmes de stock avant qu'ils ne se transforment en rupture de stock et ajuste les prix par rapport aux concurrents - pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://vardan.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T05:15:14.616747+00:00"
+    },
+    {
+      "name": "Apex — AI Campaign Orchestration",
+      "slug": "polsia-apex-ai-30",
+      "description": "The average agency takes 3 days to adjust a campaign. Apex adjusts in real time. No approvals, no hand-offs, no slow Mondays. While your competitors wait for a report, Apex is already 40 minutes into a new optimization cycle.",
+      "description_fr": "L'agence prend en moyenne 3 jours pour ajuster une campagne. Apex s'ajuste en temps réel. Pas d'approbations, pas de transferts, pas de lundis lents. Pendant que vos concurrents attendent un rapport, Apex est déjà engagé dans un nouveau cycle d'optimisation depuis 40 minutes.",
+      "category": "AI & Machine Learning",
+      "website": "https://apex-ai-30.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T05:15:16.549348+00:00"
+    },
+    {
+      "name": "AutoForce",
+      "slug": "polsia-auto-force-2",
+      "website": "https://auto-force-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T05:15:17.277105+00:00"
+    },
+    {
+      "name": "Compilr — Algorithms that earn their cost",
+      "slug": "polsia-compilr-3",
+      "description": "Compilr is a marketplace for algorithms that beat the defaults. First product: a Go compiler that actually optimizes for runtime speed, not compilation speed.",
+      "description_fr": "Compilr est un marché pour les algorithmes qui battent les valeurs par défaut. Premier produit : un compilateur Go qui optimise réellement la vitesse d'exécution, pas la vitesse de compilation.",
+      "category": "E-Commerce & Retail",
+      "website": "https://compilr-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T05:15:19.078174+00:00"
+    },
+    {
+      "name": "ReelCraft — Short",
+      "slug": "polsia-reelcraft-58",
+      "description": "12–30 upload-ready TikTok and Instagram Reels per month. Captions, hashtags, posting-ready. No effort from your end.",
+      "description_fr": "12 à 30 bobines TikTok et Instagram prêtes à être téléchargées par mois. Légendes, hashtags, prêts à être publiés. Aucun effort de votre part.",
+      "category": "Other",
+      "website": "https://reelcraft-58.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T05:15:20.422089+00:00"
+    },
+    {
+      "name": "Lifted — Cannabis Streetwear",
+      "slug": "polsia-lifted-3",
+      "description": "Cannabis is mainstream now. The stigma is gone. Yet most \"stoner clothing\" still looks like a 1999 hemp necklace. Lifted exists for the modern smoker — someone who wants to look good whether they're at a dispensary, a rooftop brunch, or just living their life. Our clothes don't scream. They don't need to. If you know, you know.",
+      "description_fr": "Le cannabis est désormais courant. La stigmatisation a disparu. Pourtant, la plupart des « vêtements de stoner » ressemblent toujours à un collier de chanvre de 1999. Lifted existe pour le fumeur moderne – quelqu'un qui veut bien paraître, qu'il soit dans un dispensaire, un brunch sur le toit ou tout simplement en train de vivre sa vie. Nos vêtements ne crient pas. Ils n’en ont pas besoin. Si vous savez, vous savez.",
+      "category": "Other",
+      "website": "https://lifted-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T05:15:22.517184+00:00"
+    },
+    {
+      "name": "DiffWatch",
+      "slug": "polsia-diffwatch-3",
+      "website": "https://diffwatch-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T05:15:23.030213+00:00"
     }
   ]
 }
