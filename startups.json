@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T19:43:33.990100+00:00",
+  "last_updated": "2026-06-21T20:21:34.992041+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -164200,12 +164200,15 @@
       "scraped_at": "2026-06-21T05:15:22.517184+00:00"
     },
     {
-      "name": "DiffWatch",
+      "name": "DiffWatch — AI Code Review Agent",
       "slug": "polsia-diffwatch-3",
+      "description": "PR volume has grown 29% year-over-year because AI-assisted coding is generating more changes faster. Human reviewers cannot keep pace. The gap between what ships and what is actually safe to ship is growing. DiffWatch exists to close that gap — not by replacing human judgment, but by handling every review that would otherwise be a five-minute skim done before lunch.",
+      "description_fr": "Le volume des relations publiques a augmenté de 29 % d'une année sur l'autre, car le codage assisté par l'IA génère davantage de changements plus rapidement. Les évaluateurs humains ne peuvent pas suivre le rythme. L’écart entre ce qui est expédié et ce qui peut réellement être expédié en toute sécurité se creuse. DiffWatch existe pour combler cet écart – non pas en remplaçant le jugement humain, mais en gérant chaque examen qui autrement serait un survol de cinq minutes effectué avant le déjeuner.",
+      "category": "AI & Machine Learning",
       "website": "https://diffwatch-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T05:15:23.030213+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T20:21:21.618653+00:00"
     },
     {
       "name": "Mindwear — Your City, Your Tee, AI",
@@ -164739,34 +164742,46 @@
     {
       "name": "NachoOS",
       "slug": "polsia-nachoos",
+      "description": "That's the North Star. NachoOS is the operating layer that makes it achievable — tracking every metric, automating every process, and surfacing every opportunity between here and there.",
+      "description_fr": "C'est l'Étoile du Nord. NachoOS est la couche opérationnelle qui rend cet objectif réalisable : suivre chaque métrique, automatiser chaque processus et faire apparaître chaque opportunité entre ici et là.",
+      "category": "Other",
       "website": "https://nachoos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T18:52:41.676758+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T20:21:26.896696+00:00"
     },
     {
-      "name": "Mensa Bots OS",
+      "name": "Mensa Bots — AI That Works While You Sleep",
       "slug": "polsia-mensabotsos",
+      "description": "Smart automation with a human touch. Mensa Bots handles your lead generation and follow-ups 24/7 so you can focus on closing deals.",
+      "description_fr": "Automatisation intelligente avec une touche humaine. Mensa Bots gère votre génération de leads et votre suivi 24h/24 et 7j/7 afin que vous puissiez vous concentrer sur la conclusion de transactions.",
+      "category": "AI & Machine Learning",
       "website": "https://mensabotsos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T18:52:42.142348+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T20:21:28.662388+00:00"
     },
     {
-      "name": "MayanTechOS",
+      "name": "MayanTechOS — Agile Software Built for Enterprise",
       "slug": "polsia-mayantechos",
+      "description": "Custom software development, legacy modernization, and Oracle APEX solutions for enterprises that move fast.",
+      "description_fr": "Développement de logiciels personnalisés, modernisation des anciennes solutions et solutions Oracle APEX pour les entreprises qui évoluent rapidement.",
+      "category": "Software & SaaS",
       "website": "https://mayantechos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T18:52:42.494941+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T20:21:29.892588+00:00"
     },
     {
-      "name": "Vastra",
+      "name": "Vastra — Artisan Sourcing for Global Brands",
       "slug": "polsia-vastra-4",
+      "description": "The GI-tagged Kolhapuri chappal has been handcrafted since the 12th century. India's luxury brands source from here — but international buyers have no pipeline, no compliance support, no way to connect. The artisans earn ₹400 per pair. Prada charges ₹83,000 for the same idea.",
+      "description_fr": "Le chappal Kolhapuri étiqueté GI est fabriqué à la main depuis le 12ème siècle. Les marques de luxe indiennes s'approvisionnent ici, mais les acheteurs internationaux ne disposent d'aucun pipeline, d'aucune assistance en matière de conformité, d'aucun moyen de connexion. Les artisans gagnent 400 ₹ par paire. Prada facture 83 000 ₹ pour la même idée.",
+      "category": "Marketing & Advertising",
       "website": "https://vastra-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T18:52:42.780067+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T20:21:31.299355+00:00"
     },
     {
       "name": "Acquira",
@@ -164830,6 +164845,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-21T18:52:48.365862+00:00"
+    },
+    {
+      "name": "MindfullyOS",
+      "slug": "polsia-mindfullyos",
+      "website": "https://mindfullyos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T20:20:56.101176+00:00"
+    },
+    {
+      "name": "Meridian",
+      "slug": "polsia-meridian-ai-99",
+      "website": "https://meridian-ai-99.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T20:20:56.475235+00:00"
+    },
+    {
+      "name": "Auraic Digital",
+      "slug": "polsia-auraic-digital",
+      "website": "https://auraic-digital.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T20:20:57.093876+00:00"
+    },
+    {
+      "name": "AppointForge — Book More Meetings. Close More Deals.",
+      "slug": "polsia-appointforge-2",
+      "description": "We define your ideal customer profile, build prospect lists, and configure the full outbound infrastructure — email, LinkedIn, CRM, and sequence logic. You review and approve. We move fast.",
+      "description_fr": "Nous définissons votre profil client idéal, construisons des listes de prospects et configurons l'infrastructure sortante complète : e-mail, LinkedIn, CRM et logique de séquence. Vous examinez et approuvez. Nous avançons vite.",
+      "category": "Sales & CRM",
+      "website": "https://appointforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T20:21:34.325914+00:00"
+    },
+    {
+      "name": "IronThread",
+      "slug": "polsia-ironthread-2",
+      "website": "https://ironthread-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T20:20:58.281759+00:00"
+    },
+    {
+      "name": "CrewForce — On",
+      "slug": "polsia-crewforce-2",
+      "description": "Verified construction workers for contractors. Reliable crews, billed by the hour.",
+      "description_fr": "Ouvriers de la construction vérifiés pour les entrepreneurs. Des équipages fiables, facturés à l'heure.",
+      "category": "Other",
+      "website": "https://crewforce-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T20:20:59.275332+00:00"
+    },
+    {
+      "name": "PingCraft — Autonomous Outbound Sales Agent",
+      "slug": "polsia-pingcraft-4",
+      "description": "Your competitors are still building email templates, warming up domains, and manually chasing replies. PingCraft does all of it — autonomously — so you can focus on closing.",
+      "description_fr": "Vos concurrents continuent de créer des modèles d'e-mails, de préparer des domaines et de rechercher manuellement des réponses. PingCraft fait tout cela de manière autonome afin que vous puissiez vous concentrer sur la clôture.",
+      "category": "Sales & CRM",
+      "website": "https://pingcraft-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T20:21:00.639603+00:00"
+    },
+    {
+      "name": "Inboxr — AI inbox agent for business owners",
+      "slug": "polsia-inboxr-4",
+      "description": "Inboxr runs your company inbox autonomously. It triages, drafts, replies, and escalates — while you focus on what only you can do.",
+      "description_fr": "Inboxr gère la boîte de réception de votre entreprise de manière autonome. Il effectue le tri, la rédaction, les réponses et l'escalade, pendant que vous vous concentrez sur ce que vous seul pouvez faire.",
+      "category": "AI & Machine Learning",
+      "website": "https://inboxr-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T20:21:02.270097+00:00"
+    },
+    {
+      "name": "Grapple — AI Market Intelligence Agent",
+      "slug": "polsia-grapple",
+      "description": "Most founders find out about competitor moves two weeks too late — via Twitter, through a friend, or when they've already lost customers. Grapple exists to close that gap. It is the intelligence layer for founders who refuse to be surprised.",
+      "description_fr": "La plupart des fondateurs découvrent les déménagements des concurrents deux semaines trop tard – via Twitter, par l'intermédiaire d'un ami ou lorsqu'ils ont déjà perdu des clients. Grapple existe pour combler cet écart. C’est la couche d’intelligence des fondateurs qui refusent d’être surpris.",
+      "category": "AI & Machine Learning",
+      "website": "https://grapple.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T20:21:03.414701+00:00"
+    },
+    {
+      "name": "Hugarro",
+      "slug": "polsia-hugarro",
+      "website": "https://hugarro.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T20:21:03.896008+00:00"
     }
   ]
 }
