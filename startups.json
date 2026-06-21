@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T21:50:22.804617+00:00",
+  "last_updated": "2026-06-21T22:57:05.070524+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -164954,12 +164954,15 @@
       "scraped_at": "2026-06-21T21:50:20.235779+00:00"
     },
     {
-      "name": "ClipForge",
+      "name": "ReelForge — AI Short",
       "slug": "polsia-clipforge-8c9395",
+      "description": "Most agencies charge $5k–$15k/month and serve big brands. We built ReelForge for the businesses that actually need results — restaurants, salons, coaches, service businesses — who want real short-form content without the agency price tag.",
+      "description_fr": "La plupart des agences facturent entre 5 000 et 15 000 $/mois et servent de grandes marques. Nous avons créé ReelForge pour les entreprises qui ont réellement besoin de résultats (restaurants, salons, coachs, entreprises de services) et qui souhaitent un véritable contenu court sans le prix de l'agence.",
+      "category": "AI & Machine Learning",
       "website": "https://clipforge-8c9395.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T21:49:45.086324+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T22:57:01.484955+00:00"
     },
     {
       "name": "FlowForge",
@@ -165050,6 +165053,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-21T21:49:56.411669+00:00"
+    },
+    {
+      "name": "TechPulse",
+      "slug": "polsia-techpulse-ai-3",
+      "website": "https://techpulse-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T22:56:37.796171+00:00"
+    },
+    {
+      "name": "AmplifiaOS",
+      "slug": "polsia-amplifiaos",
+      "website": "https://amplifiaos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T22:56:38.080682+00:00"
+    },
+    {
+      "name": "HempTail",
+      "slug": "polsia-hemptail",
+      "description": "HempSeed-based dog food with no artificial ingredients, no allergens, and everything a dog actually needs to thrive.",
+      "description_fr": "Nourriture pour chien à base de graines de chanvre, sans ingrédients artificiels, sans allergènes et tout ce dont un chien a réellement besoin pour s'épanouir.",
+      "category": "Food & Beverage",
+      "website": "https://hemptail.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T22:57:03.549192+00:00"
+    },
+    {
+      "name": "LeadStack",
+      "slug": "polsia-leadstack-71",
+      "description": "Every site you build is an asset. It ranks. It generates leads. It sells them. Month after month, the traffic is free, the leads are exclusive, and the margins are yours. Unlike paid ads, you don’t stop spending when you stop paying. Unlike Angi, the leads don’t go to your competitor too.",
+      "description_fr": "Chaque site que vous créez est un atout. Cela classe. Cela génère des leads. Cela les vend. Mois après mois, le trafic est gratuit, les leads sont exclusifs et les marges vous appartiennent. Contrairement aux publicités payantes, vous n’arrêtez pas de dépenser lorsque vous arrêtez de payer. Contrairement à Angi, les leads ne vont pas également à votre concurrent.",
+      "category": "Marketing & Advertising",
+      "website": "https://leadstack-71.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T22:57:04.816079+00:00"
+    },
+    {
+      "name": "Pulse — Your Autonomous Social Media Agent",
+      "slug": "polsia-pulsecontent-2",
+      "description": "The algorithm rewards consistency. But between creating, replying, researching, and scheduling — managing a social presence is a full-time job. That's the job we're replacing.",
+      "description_fr": "L'algorithme récompense la cohérence. Mais entre la création, la réponse, la recherche et la planification, la gestion d'une présence sociale est un travail à temps plein. C'est le travail que nous remplaçons.",
+      "category": "Marketing & Advertising",
+      "website": "https://pulsecontent-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T22:56:40.711028+00:00"
+    },
+    {
+      "name": "Pingflow — Autonomous SDR, runs while you sleep",
+      "slug": "polsia-pingflow-25",
+      "description": "The AI agent that finds your prospects, sends the emails, handles the replies, and books the meeting — without you doing any of it.",
+      "description_fr": "L'agent IA qui trouve vos prospects, envoie les e-mails, gère les réponses et planifie la réunion, sans que vous fassiez quoi que ce soit.",
+      "category": "AI & Machine Learning",
+      "website": "https://pingflow-25.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T22:56:42.148914+00:00"
+    },
+    {
+      "name": "HustleStart — Real Service Businesses for SA Teens",
+      "slug": "polsia-hustlestart-2",
+      "description": "This platform is for the barbershop owner's kid, the girl running a WhatsApp group for her class, the boy flipping clothes from the market. You already have what you need. HustleStart shows you what to do with it.",
+      "description_fr": "Cette plateforme est destinée à l'enfant du propriétaire du salon de coiffure, à la fille qui dirige un groupe WhatsApp pour sa classe, au garçon qui retourne des vêtements au marché. Vous avez déjà ce dont vous avez besoin. HustleStart vous montre quoi en faire.",
+      "category": "Software & SaaS",
+      "website": "https://hustlestart-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T22:56:43.281009+00:00"
+    },
+    {
+      "name": "Nyika AI",
+      "slug": "polsia-nyika-ai",
+      "description": "No AI assistant has been built for Zimbabwe in its own languages. Until now. Nyika AI is trained to understand and respond in Shona, Ndebele, and English — because a national AI must work for everyone, in the language they think in.",
+      "description_fr": "Aucun assistant d'IA n'a été conçu pour le Zimbabwe dans ses propres langues. Jusqu'à maintenant. Nyika AI est formée pour comprendre et répondre en shona, en ndebele et en anglais, car une IA nationale doit fonctionner pour tout le monde, dans la langue dans laquelle ils pensent.",
+      "category": "AI & Machine Learning",
+      "website": "https://nyika-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T22:56:44.969996+00:00"
+    },
+    {
+      "name": "ApexWatch",
+      "slug": "polsia-apexwatch-208469",
+      "website": "https://apexwatch-208469.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T22:56:45.394673+00:00"
+    },
+    {
+      "name": "ShelfOps — AI That Runs Your CPG Retail Operations",
+      "slug": "polsia-shelfops-19",
+      "description": "The moment you land a retailer listing, the real work starts. Trade spend reconciliation. Distributor deduction disputes. Sell-through swings that nobody tells you about until the QBR. Most CPG founders spend 40% of their time on ops that should run itself. ShelfOps fixes that.",
+      "description_fr": "Dès que vous obtenez une fiche de détaillant, le vrai travail commence. Rapprochement des dépenses commerciales. Litiges en matière de déduction des distributeurs. Des fluctuations de vente dont personne ne vous parle avant le QBR. La plupart des fondateurs de CPG consacrent 40 % de leur temps à des opérations qui devraient s'exécuter elles-mêmes. ShelfOps corrige ce problème.",
+      "category": "AI & Machine Learning",
+      "website": "https://shelfops-19.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T22:56:46.657496+00:00"
     }
   ]
 }
