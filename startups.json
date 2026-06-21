@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T17:11:30.945082+00:00",
+  "last_updated": "2026-06-21T18:53:06.135568+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -164627,12 +164627,15 @@
       "scraped_at": "2026-06-21T15:41:30.509020+00:00"
     },
     {
-      "name": "GeneForge",
+      "name": "GeneForge — AI Agents for Genome Engineering",
       "slug": "polsia-geneforge",
+      "description": "GeneForge is an AI-native platform that autonomously runs CRISPR experiments 24/7. Your lab runs while you sleep.",
+      "description_fr": "GeneForge est une plateforme native d'IA qui exécute de manière autonome des expériences CRISPR 24h/24 et 7j/7. Votre laboratoire fonctionne pendant que vous dormez.",
+      "category": "AI & Machine Learning",
       "website": "https://geneforge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T17:10:53.033271+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T18:53:03.155670+00:00"
     },
     {
       "name": "DataPilot",
@@ -164646,12 +164649,15 @@
       "scraped_at": "2026-06-21T17:11:28.818419+00:00"
     },
     {
-      "name": "RealtyLensOS",
+      "name": "RealtyLens — AI Listing Prep for Real Estate Agents",
       "slug": "polsia-realtylensos",
+      "description": "The right place is more than beds, baths, and a price. Light, layout, commute, building feel, monthly costs, and timing all matter when a home actually fits.",
+      "description_fr": "Le bon endroit ne se résume pas à des lits, des bains et un prix. La lumière, l'agencement, les déplacements domicile-travail, l'ambiance du bâtiment, les coûts mensuels et le timing sont tous importants lorsqu'une maison s'adapte réellement.",
+      "category": "AI & Machine Learning",
       "website": "https://realtylensos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T17:10:54.106601+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T18:53:03.880515+00:00"
     },
     {
       "name": "PrismSite — AI Websites for Local Businesses",
@@ -164729,6 +164735,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-21T17:11:30.940878+00:00"
+    },
+    {
+      "name": "NachoOS",
+      "slug": "polsia-nachoos",
+      "website": "https://nachoos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T18:52:41.676758+00:00"
+    },
+    {
+      "name": "Mensa Bots OS",
+      "slug": "polsia-mensabotsos",
+      "website": "https://mensabotsos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T18:52:42.142348+00:00"
+    },
+    {
+      "name": "MayanTechOS",
+      "slug": "polsia-mayantechos",
+      "website": "https://mayantechos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T18:52:42.494941+00:00"
+    },
+    {
+      "name": "Vastra",
+      "slug": "polsia-vastra-4",
+      "website": "https://vastra-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T18:52:42.780067+00:00"
+    },
+    {
+      "name": "Acquira",
+      "slug": "polsia-acquira-5",
+      "website": "https://acquira-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T18:52:43.287695+00:00"
+    },
+    {
+      "name": "OpptR — AI Sales Agent That Works While You Sleep",
+      "slug": "polsia-opptr",
+      "description": "OpptR is an autonomous AI sales agent that prospects, qualifies, and books meetings — 24/7, without human intervention.",
+      "description_fr": "OpptR est un agent commercial autonome doté d'IA qui prospecte, qualifie et planifie des rendez-vous, 24h/24 et 7j/7, sans intervention humaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://opptr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T18:53:06.130196+00:00"
+    },
+    {
+      "name": "SkillAtlas — Your Skills, Mapped to Income",
+      "slug": "polsia-skillatlas-2",
+      "description": "AI analyzes your interests and skills to surface realistic income paths and businesses you can start.",
+      "description_fr": "L'IA analyse vos intérêts et vos compétences pour faire apparaître des chemins de revenus réalistes et des entreprises que vous pouvez démarrer.",
+      "category": "AI & Machine Learning",
+      "website": "https://skillatlas-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T18:52:44.717705+00:00"
+    },
+    {
+      "name": "ClaseIA — Tu estudio, potenciado con inteligencia artificial",
+      "slug": "polsia-claseia",
+      "description": "Plataforma de estudio con IA para estudiantes de secundaria y universidad en Latinoamerica. Convierte tus apuntes, PDFs y textos en resúmenes, explicaciones y preparación para exámenes.",
+      "description_fr": "Plateforme d'études avec IA pour les étudiants du secondaire et de l'université en Amérique latine. Convertissez vos points, PDF et textes en résumés, explications et préparation aux examens.",
+      "category": "Marketing & Advertising",
+      "website": "https://claseia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T18:52:45.650312+00:00"
+    },
+    {
+      "name": "Rep — AI Sales Development",
+      "slug": "polsia-rep-ai-5",
+      "description": "An AI SDR that works 24/7. Researches your prospects, qualifies leads, sends outreach, books demos, reports back.",
+      "description_fr": "Un AI SDR qui fonctionne 24h/24 et 7j/7. Recherche vos prospects, qualifie les prospects, envoie des messages de sensibilisation, réalise des démos et rend compte.",
+      "category": "Sales & CRM",
+      "website": "https://rep-ai-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T18:52:47.239773+00:00"
+    },
+    {
+      "name": "Hivi — Neighborhood Safety, AI",
+      "slug": "polsia-hivi-kenya",
+      "description": "Hivi is an AI agent that monitors threats, verifies alerts, and coordinates your Nairobi neighborhood's security response 24/7.",
+      "description_fr": "Hivi est un agent d'IA qui surveille les menaces, vérifie les alertes et coordonne la réponse de sécurité de votre quartier de Nairobi 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://hivi-kenya.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T18:52:48.365862+00:00"
     }
   ]
 }
