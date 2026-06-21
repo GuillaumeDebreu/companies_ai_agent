@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T20:21:34.992041+00:00",
+  "last_updated": "2026-06-21T21:50:22.804617+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -164847,28 +164847,37 @@
       "scraped_at": "2026-06-21T18:52:48.365862+00:00"
     },
     {
-      "name": "MindfullyOS",
+      "name": "MindfullyOS — Soft Living for Sensitive Women",
       "slug": "polsia-mindfullyos",
+      "description": "Mindfully Modern was built from a quiet exhaustion — the kind that looks fine from the outside. It teaches sensitive women that a regulated life is not a reward for finishing everything. It is the foundation that makes life feel livable.",
+      "description_fr": "Mindfully Modern a été construit à partir d’un épuisement silencieux – du genre qui semble bien de l’extérieur. Il enseigne aux femmes sensibles qu’une vie réglée n’est pas une récompense pour avoir tout terminé. C’est la fondation qui rend la vie vivable.",
+      "category": "Other",
       "website": "https://mindfullyos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T20:20:56.101176+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T21:50:15.154994+00:00"
     },
     {
-      "name": "Meridian",
+      "name": "Meridian — AI",
       "slug": "polsia-meridian-ai-99",
+      "description": "Meridian connects global companies with vetted Indian agencies and professionals through an AI agent that handles the entire hiring pipeline — sourcing, vetting, onboarding, and payment escrow.",
+      "description_fr": "Meridian connecte les entreprises mondiales avec des agences et des professionnels indiens sélectionnés par l'intermédiaire d'un agent IA qui gère l'ensemble du processus de recrutement : sourcing, vérification, intégration et dépôt de paiement.",
+      "category": "AI & Machine Learning",
       "website": "https://meridian-ai-99.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T20:20:56.475235+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T21:50:16.493592+00:00"
     },
     {
-      "name": "Auraic Digital",
+      "name": "SnipForge — Turn Long",
       "slug": "polsia-auraic-digital",
+      "description": "The creators who win in 2026 aren't the ones with the best content. They're the ones who know how to get that content in front of the right people, at scale, every single day. SnipForge is the team behind that strategy — AI-powered, human-polished, delivered weekly.",
+      "description_fr": "Les créateurs qui gagnent en 2026 ne sont pas ceux qui proposent le meilleur contenu. Ce sont eux qui savent comment présenter ce contenu aux bonnes personnes, à grande échelle, chaque jour. SnipForge est l'équipe derrière cette stratégie : basée sur l'IA, peaufinée par l'homme, livrée chaque semaine.",
+      "category": "AI & Machine Learning",
       "website": "https://auraic-digital.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T20:20:57.093876+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T21:50:17.884295+00:00"
     },
     {
       "name": "AppointForge — Book More Meetings. Close More Deals.",
@@ -164934,12 +164943,113 @@
       "scraped_at": "2026-06-21T20:21:03.414701+00:00"
     },
     {
-      "name": "Hugarro",
+      "name": "HugarroOS",
       "slug": "polsia-hugarro",
+      "description": "From lead capture to project delivery, your agency's operations run on a system that never drops the ball. No missed follow-ups. No lost context. Just work that moves.",
+      "description_fr": "De la capture de leads à la livraison du projet, les opérations de votre agence s'exécutent sur un système qui ne lâche jamais la balle. Aucun suivi manqué. Pas de contexte perdu. Juste un travail qui bouge.",
+      "category": "Marketing & Advertising",
       "website": "https://hugarro.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T21:50:20.235779+00:00"
+    },
+    {
+      "name": "ClipForge",
+      "slug": "polsia-clipforge-8c9395",
+      "website": "https://clipforge-8c9395.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-06-21T20:21:03.896008+00:00"
+      "scraped_at": "2026-06-21T21:49:45.086324+00:00"
+    },
+    {
+      "name": "FlowForge",
+      "slug": "polsia-flowforge-ai-4",
+      "website": "https://flowforge-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T21:49:45.630659+00:00"
+    },
+    {
+      "name": "Jobscape — Your AI Job Application Agent",
+      "slug": "polsia-jobscape",
+      "description": "An AI employee that applies to jobs on your behalf. While you sleep, Jobscape finds roles, crafts applications, and builds your pipeline.",
+      "description_fr": "Un employé d'IA qui postule à des emplois en votre nom. Pendant que vous dormez, Jobscape trouve des rôles, crée des applications et construit votre pipeline.",
+      "category": "AI & Machine Learning",
+      "website": "https://jobscape.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T21:50:22.183096+00:00"
+    },
+    {
+      "name": "RunPilot — ML Experiment Tracking",
+      "slug": "polsia-runpilot-4",
+      "description": "ML is an experimental discipline. The tool you use to track your work should move at the speed of your ideas — not require a DevOps degree to operate.",
+      "description_fr": "Le ML est une discipline expérimentale. L'outil que vous utilisez pour suivre votre travail doit évoluer au rythme de vos idées et ne nécessite pas de diplôme DevOps pour fonctionner.",
+      "category": "Other",
+      "website": "https://runpilot-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T21:49:48.023815+00:00"
+    },
+    {
+      "name": "YieldDaily",
+      "slug": "polsia-yielddaily",
+      "website": "https://yielddaily.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T21:49:48.551595+00:00"
+    },
+    {
+      "name": "OwnTop",
+      "slug": "polsia-owntop",
+      "website": "https://owntop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T21:49:49.059310+00:00"
+    },
+    {
+      "name": "KnexAI",
+      "slug": "polsia-knexai",
+      "description": "German SMBs face three wall after AI strategy workshop: legal requirements, expertise gaps, and no internal capacity to implement anything. They paid for clarity, got a roadmap, and still have zero AI running.",
+      "description_fr": "Les PME allemandes sont confrontées à trois obstacles après l'atelier sur la stratégie d'IA : les exigences légales, les lacunes en matière d'expertise et l'absence de capacité interne à mettre en œuvre quoi que ce soit. Ils ont payé pour la clarté, ont obtenu une feuille de route et n’ont toujours aucune IA en cours d’exécution.",
+      "category": "AI & Machine Learning",
+      "website": "https://knexai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T21:49:51.024887+00:00"
+    },
+    {
+      "name": "PromptPack — Claude Code setups that work on the first prompt",
+      "slug": "polsia-promptpack-2",
+      "description": "Done-for-you Claude Code and MCP setup packs. Tested, secure, ready to run. Installed, not explained.",
+      "description_fr": "Packs d'installation Claude Code et MCP faits pour vous. Testé, sécurisé, prêt à fonctionner. Installé, pas expliqué.",
+      "category": "Other",
+      "website": "https://promptpack-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T21:49:52.860545+00:00"
+    },
+    {
+      "name": "Stead",
+      "slug": "polsia-stead-re",
+      "description": "Stead is an AI agent that runs your real estate back office. Monitors every deal, reconciles your books, sends alerts when things slip. Works 24/7.",
+      "description_fr": "Stead est un agent IA qui gère votre back-office immobilier. Surveille chaque transaction, rapproche vos livres, envoie des alertes lorsque les choses glissent. Fonctionne 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://stead-re.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T21:49:54.663499+00:00"
+    },
+    {
+      "name": "DermPulse — AI",
+      "slug": "polsia-dermpulse",
+      "description": "DermPulse exists so one PA with a medical degree, a state license, and a vision can run a full-service dermatology practice without a staff of ten or a six-figure EHR contract. We automate the business. You run medicine.",
+      "description_fr": "DermPulse existe, donc un PA avec un diplôme en médecine, une licence d'État et une vision peut diriger un cabinet de dermatologie à service complet sans un effectif de dix personnes ni un contrat de DSE à six chiffres. Nous automatisons l'entreprise. Vous dirigez la médecine.",
+      "category": "AI & Machine Learning",
+      "website": "https://dermpulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T21:49:56.411669+00:00"
     }
   ]
 }
