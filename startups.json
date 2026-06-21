@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T05:15:48.292931+00:00",
+  "last_updated": "2026-06-21T09:04:21.638939+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -164104,12 +164104,15 @@
       "scraped_at": "2026-06-21T00:03:32.821752+00:00"
     },
     {
-      "name": "VentureIQ",
+      "name": "VentureIQ — AI",
       "slug": "polsia-ventureiq",
+      "description": "Most platforms match on sector and stage. We go deeper — analyzing investment theses, portfolio patterns, co-investor behavior, and deal flow signals. You get investors who are actually buying in your space.",
+      "description_fr": "La plupart des plateformes correspondent en termes de secteur et de scène. Nous allons plus loin en analysant les thèses d'investissement, les modèles de portefeuille, le comportement des co-investisseurs et les signaux de flux de transactions. Vous obtenez des investisseurs qui achètent réellement dans votre espace.",
+      "category": "AI & Machine Learning",
       "website": "https://ventureiq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T05:15:11.275316+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T09:04:19.834599+00:00"
     },
     {
       "name": "Pingly",
@@ -164200,6 +164203,104 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-06-21T05:15:23.030213+00:00"
+    },
+    {
+      "name": "Mindwear",
+      "slug": "polsia-mindwear",
+      "website": "https://mindwear.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T09:03:53.588825+00:00"
+    },
+    {
+      "name": "SignalStack",
+      "slug": "polsia-signalstack-ai",
+      "website": "https://signalstack-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T09:03:53.930193+00:00"
+    },
+    {
+      "name": "FlowForge",
+      "slug": "polsia-flowforge-56",
+      "website": "https://flowforge-56.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T09:03:54.293487+00:00"
+    },
+    {
+      "name": "Coast",
+      "slug": "polsia-coast-hq",
+      "website": "https://coast-hq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T09:03:54.664589+00:00"
+    },
+    {
+      "name": "DevDesk — Your AI Junior Developer",
+      "slug": "polsia-devdesk",
+      "description": "Every pull request gets a thorough first-pass review — bug detection, security flags, style enforcement, and cross-file context. No more waiting on overloaded seniors.",
+      "description_fr": "Chaque demande d'extraction fait l'objet d'un premier examen approfondi : détection de bogues, indicateurs de sécurité, application du style et contexte inter-fichiers. Fini l’attente de seniors surchargés.",
+      "category": "AI & Machine Learning",
+      "website": "https://devdesk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T09:03:56.632489+00:00"
+    },
+    {
+      "name": "Quantix — Autonomous Quant Research",
+      "slug": "polsia-quantix-2",
+      "description": "AI agents that run systematic quant research autonomously — monitoring markets, backtesting strategies, and reporting findings 24/7.",
+      "description_fr": "Des agents d'IA qui effectuent des recherches quantitatives systématiques de manière autonome – surveillant les marchés, effectuant des backtests de stratégies et rendant compte des résultats 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://quantix-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T09:03:58.494675+00:00"
+    },
+    {
+      "name": "PrimeAgent — AI Trading Agents for Banks",
+      "slug": "polsia-primeagent",
+      "description": "Most AI companies optimize for ARR. PrimeAgent optimizes for acquisition. Every agent we build is designed to be owned, deployed, and extended by the institution that buys it. Clean IP. Configurable architecture. Production-ready from the first tier.",
+      "description_fr": "La plupart des entreprises d'IA optimisent pour l'ARR. PrimeAgent optimise l'acquisition. Chaque agent que nous construisons est conçu pour être détenu, déployé et étendu par l'institution qui l'achète. IP propre. Architecture configurable. Prêt pour la production dès le premier niveau.",
+      "category": "AI & Machine Learning",
+      "website": "https://primeagent.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T09:04:00.193662+00:00"
+    },
+    {
+      "name": "Inflow — Autonomous Cold Outbound",
+      "slug": "polsia-inflow-outbound",
+      "description": "Cold outbound doesn't have to mean waking up at 5am to batch-send template emails. Inflow runs it — every day, every campaign, every follow-up — while you ship your product.",
+      "description_fr": "Les appels sortants à froid ne signifient pas nécessairement se réveiller à 5 heures du matin pour envoyer par lots des modèles d'e-mails. Inflow l'exécute – chaque jour, chaque campagne, chaque suivi – pendant que vous expédiez votre produit.",
+      "category": "Marketing & Advertising",
+      "website": "https://inflow-outbound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T09:04:01.096861+00:00"
+    },
+    {
+      "name": "LeakScore — Monthly Website Lead",
+      "slug": "polsia-leakscore",
+      "description": "LeakScore automatically scans your website every month and emails you a detailed report showing exactly where you're losing leads — and how to fix them.",
+      "description_fr": "LeakScore analyse automatiquement votre site Web chaque mois et vous envoie par e-mail un rapport détaillé indiquant exactement où vous perdez des prospects et comment y remédier.",
+      "category": "Marketing & Advertising",
+      "website": "https://leakscore.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T09:04:02.038934+00:00"
+    },
+    {
+      "name": "Sitelift — AI Accessibility Compliance Agent",
+      "slug": "polsia-sitelift-5",
+      "description": "Sitelift monitors your website 24/7, alerts you to accessibility regressions, and keeps you WCAG compliant — without a widget overlay.",
+      "description_fr": "Sitelift surveille votre site Web 24h/24 et 7j/7, vous alerte des régressions d'accessibilité et vous maintient conforme aux WCAG, sans superposition de widgets.",
+      "category": "AI & Machine Learning",
+      "website": "https://sitelift-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T09:04:03.076280+00:00"
     }
   ]
 }
