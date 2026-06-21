@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T22:53:43.357710+00:00",
+  "last_updated": "2026-06-21T00:03:51.028074+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -163910,12 +163910,15 @@
       "scraped_at": "2026-06-20T22:53:13.991324+00:00"
     },
     {
-      "name": "TrueCapOS",
+      "name": "TrueCap — Underwrite Rentals in 60 Seconds",
       "slug": "polsia-truecapos",
+      "description": "Spreadsheets break the first time you change a formula. TrueCap auto-fills rent from HUD, rate from FRED, and tax from your state's effective rate — you don't look anything up. Every number is pressure-tested by thousands of real investors. 60 seconds. No signup. Free forever.",
+      "description_fr": "Les feuilles de calcul se cassent la première fois que vous modifiez une formule. TrueCap remplit automatiquement le loyer à partir du HUD, le taux de FRED et les taxes à partir du taux effectif de votre état – vous ne recherchez rien. Chaque chiffre est testé par des milliers de vrais investisseurs. 60 secondes. Aucune inscription. Libre pour toujours.",
+      "category": "Travel & Hospitality",
       "website": "https://truecapos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-20T22:53:14.519653+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-21T00:03:48.363457+00:00"
     },
     {
       "name": "GeniusOS",
@@ -163992,6 +163995,107 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-06-20T22:53:23.287754+00:00"
+    },
+    {
+      "name": "CallCraft",
+      "slug": "polsia-callcraft-7",
+      "website": "https://callcraft-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T00:03:21.563476+00:00"
+    },
+    {
+      "name": "SovereignOS",
+      "slug": "polsia-sovereignos-22",
+      "website": "https://sovereignos-22.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T00:03:22.090584+00:00"
+    },
+    {
+      "name": "Stackr — AI Code Review That Never Sleeps",
+      "slug": "polsia-stackr-ai-7",
+      "description": "Stackr is an autonomous AI agent that reviews pull requests, writes tests, and monitors your codebase — 24/7, while you sleep.",
+      "description_fr": "Stackr est un agent d'IA autonome qui examine les demandes d'extraction, écrit des tests et surveille votre base de code, 24 heures sur 24, 7 jours sur 7, pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://stackr-ai-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T00:03:23.026961+00:00"
+    },
+    {
+      "name": "CogniCall — AI",
+      "slug": "polsia-cognicall",
+      "description": "CogniCall was built for the clinicians who know exactly what cognitive care should look like — and for the patients who've been waiting too long to receive it. Every missed call is a delayed diagnosis. Every voicemail is a closed door. We built CogniCall so neither happens again.",
+      "description_fr": "CogniCall a été conçu pour les cliniciens qui savent exactement à quoi devraient ressembler les soins cognitifs — et pour les patients qui attendent depuis trop longtemps pour les recevoir. Chaque appel manqué est un diagnostic tardif. Chaque message vocal est une porte fermée. Nous avons construit CogniCall pour que cela ne se reproduise plus.",
+      "category": "AI & Machine Learning",
+      "website": "https://cognicall.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T00:03:24.750528+00:00"
+    },
+    {
+      "name": "Critiq — AI Design Review Agent",
+      "slug": "polsia-critiq-4",
+      "description": "In most teams, a senior designer gates every major decision. They review work in fragments — between meetings, at the end of the day, on a Monday. The result: 3–7 day review cycles, inconsistent feedback, and junior designers who stop trusting their own judgment.",
+      "description_fr": "Dans la plupart des équipes, un designer senior prend en charge chaque décision importante. Ils examinent le travail par fragments – entre les réunions, en fin de journée, un lundi. Le résultat : des cycles de révision de 3 à 7 jours, des commentaires incohérents et des concepteurs juniors qui cessent de faire confiance à leur propre jugement.",
+      "category": "AI & Machine Learning",
+      "website": "https://critiq-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T00:03:26.157949+00:00"
+    },
+    {
+      "name": "Nassab",
+      "slug": "polsia-nassab-2",
+      "website": "https://nassab-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-21T00:03:26.593021+00:00"
+    },
+    {
+      "name": "ShortStack — Local Short",
+      "slug": "polsia-shortstack-21",
+      "description": "Every day you wait is a day they're winning. Local businesses with zero short-form video presence are invisible to the generation that discovers everything through their phone. ShortStack exists to change that — permanently, affordably, and without you lifting a finger.",
+      "description_fr": "Chaque jour que vous attendez est un jour où ils gagnent. Les entreprises locales sans présence vidéo courte sont invisibles pour la génération qui découvre tout via leur téléphone. ShortStack existe pour changer cela – de manière permanente, abordable et sans que vous leviez le petit doigt.",
+      "category": "Entertainment & Media",
+      "website": "https://shortstack-21.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T00:03:27.986583+00:00"
+    },
+    {
+      "name": "StoryForge — The AI Video Agent for Corporate Teams",
+      "slug": "polsia-storyforge-31",
+      "description": "Hiring a production team costs $80K+ per year. Freelancers are inconsistent. Agencies take weeks and charge thousands per project. Meanwhile, the demand for corporate video content has never been higher — every platform rewards the consistent, and penalizes the absent.",
+      "description_fr": "L'embauche d'une équipe de production coûte plus de 80 000 $ par an. Les pigistes sont incohérents. Les agences prennent des semaines et facturent des milliers par projet. Pendant ce temps, la demande de contenu vidéo d’entreprise n’a jamais été aussi élevée : chaque plateforme récompense les cohérents et pénalise les absents.",
+      "category": "AI & Machine Learning",
+      "website": "https://storyforge-31.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T00:03:29.647644+00:00"
+    },
+    {
+      "name": "Orbita — Your Inbox, Owned by AI",
+      "slug": "polsia-orbita-ai-7",
+      "description": "Orbita is your always-on inbox employee. It doesn't just help you process email — it owns the workflow. You set the rules, it runs 24/7, and you get a daily briefing on what mattered.",
+      "description_fr": "Orbita est votre employé permanent de la boîte de réception. Il ne vous aide pas seulement à traiter les e-mails : il gère le flux de travail. Vous fixez les règles, le système fonctionne 24h/24 et 7j/7 et vous recevez un briefing quotidien sur ce qui compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://orbita-ai-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T00:03:31.325049+00:00"
+    },
+    {
+      "name": "BeautylOS — Operating System for Beauty'L",
+      "slug": "polsia-beautylos",
+      "description": "Korea Art & Make-up Association sets the bar for the industry. Beauty'L holds it. BeautylOS ensures the business behind the bar runs so flawlessly that the bar keeps rising.",
+      "description_fr": "La Korea Art & Make-up Association fixe la barre pour l'industrie. Beauty'L le détient. BeautylOS veille à ce que les activités derrière le bar fonctionnent si parfaitement que la barre continue de monter.",
+      "category": "Other",
+      "website": "https://beautylos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-21T00:03:32.821752+00:00"
     }
   ]
 }
