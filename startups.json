@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T05:36:43.506793+00:00",
+  "last_updated": "2026-06-22T11:20:36.263612+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -164450,12 +164450,15 @@
       "scraped_at": "2026-06-21T13:48:59.293632+00:00"
     },
     {
-      "name": "LaunchDeck",
+      "name": "Launchdeck — AI builds and runs your micro",
       "slug": "polsia-launchdeck-90",
+      "description": "Launchdeck is an autonomous AI agent that builds, launches, and manages micro-SaaS products. Product, engineering, marketing, growth — all handled.",
+      "description_fr": "Launchdeck est un agent d'IA autonome qui crée, lance et gère des produits micro-SaaS. Produit, ingénierie, marketing, croissance – tout est géré.",
+      "category": "AI & Machine Learning",
       "website": "https://launchdeck-90.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-21T13:48:35.554494+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:21.989895+00:00"
     },
     {
       "name": "Πρωτοβουλία Νευροκοπίου — Μια Νέα Εποχή",
@@ -165296,28 +165299,37 @@
       "scraped_at": "2026-06-22T05:36:02.450706+00:00"
     },
     {
-      "name": "ManaOS",
+      "name": "ManaOS — AI SaaS Platform Operating System",
       "slug": "polsia-manaos-7",
+      "description": "The operating system for white-label AI SaaS platforms. Manage leads, track product performance, and run your AI reseller business from one place.",
+      "description_fr": "Le système d'exploitation pour les plateformes IA SaaS en marque blanche. Gérez les prospects, suivez les performances des produits et gérez votre activité de revendeur d'IA à partir d'un seul endroit.",
+      "category": "Software & SaaS",
       "website": "https://manaos-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-22T05:36:03.053860+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:27.043208+00:00"
     },
     {
-      "name": "Signal",
+      "name": "Signal — AI Agent for GitHub",
       "slug": "polsia-signal-ai-35",
+      "description": "Signal watches your GitHub repositories 24/7, summarizes what changed, and alerts you when it matters.",
+      "description_fr": "Signal surveille vos référentiels GitHub 24h/24 et 7j/7, résume ce qui a changé et vous alerte lorsque cela est important.",
+      "category": "AI & Machine Learning",
       "website": "https://signal-ai-35.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-22T05:36:03.587984+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:28.520011+00:00"
     },
     {
-      "name": "DogBottom",
+      "name": "DogBottom — Everyday underwear for dogs",
       "slug": "polsia-dogbottom",
+      "description": "Premium washable belly bands and dog underwear. Designed to actually look good, not look like a medical supply.",
+      "description_fr": "Bandes abdominales lavables de qualité supérieure et sous-vêtements pour chien. Conçu pour être vraiment beau, sans ressembler à un matériel médical.",
+      "category": "Health & Wellness",
       "website": "https://dogbottom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-22T05:36:04.149253+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:29.888699+00:00"
     },
     {
       "name": "FoundaHunt",
@@ -165342,12 +165354,15 @@
       "scraped_at": "2026-06-22T05:36:06.239363+00:00"
     },
     {
-      "name": "BubblebitOS",
+      "name": "BubblebitX — AI Automation & No",
       "slug": "polsia-bubblebitos",
+      "description": "Transform your business with AI thumbnail automation, business automation solutions, and no-code development. Built by BubblebitX — a remote-first tech lab from India.",
+      "description_fr": "Transformez votre entreprise grâce à l'automatisation des miniatures d'IA, aux solutions d'automatisation commerciale et au développement sans code. Construit par BubblebitX – un premier laboratoire technologique à distance en Inde.",
+      "category": "AI & Machine Learning",
       "website": "https://bubblebitos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-22T05:36:06.681585+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:30.966128+00:00"
     },
     {
       "name": "FollowLight — Know What Your Teen Is Into",
@@ -165359,6 +165374,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-22T05:36:08.461808+00:00"
+    },
+    {
+      "name": "EnergyOS",
+      "slug": "polsia-energyos-2",
+      "website": "https://energyos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T11:19:58.371960+00:00"
+    },
+    {
+      "name": "Kidato — Every Step Counts",
+      "slug": "polsia-kidato",
+      "description": "The step-by-step entrepreneurship platform taking young Africans from first skill to first income.",
+      "description_fr": "La plateforme d'entrepreneuriat étape par étape qui amène les jeunes Africains de la première compétence au premier revenu.",
+      "category": "Software & SaaS",
+      "website": "https://kidato.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:00.287180+00:00"
+    },
+    {
+      "name": "CodeSync — Autonomous Code Review Pipeline",
+      "slug": "polsia-codesync",
+      "description": "AI coding agents now generate over2 million pull requests per month. That is not a productivity problem — it is a coordination problem. Your review queue is drowning. PRs sit for days. Good work stalls because no one owns the process.",
+      "description_fr": "Les agents de codage IA génèrent désormais plus de 2 millions de requêtes pull par mois. Ce n’est pas un problème de productivité, c’est un problème de coordination. Votre file d’attente de révision se noie. Les PR restent assis pendant des jours. Le bon travail s’arrête parce que personne n’est propriétaire du processus.",
+      "category": "AI & Machine Learning",
+      "website": "https://codesync.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:01.609563+00:00"
+    },
+    {
+      "name": "MetricMind — Your AI Data Analyst",
+      "slug": "polsia-metricmind-ay",
+      "description": "MetricMind monitors your business metrics around the clock, surfaces anomalies before they become problems, and delivers executive-ready reports — without a single request from you.",
+      "description_fr": "MetricMind surveille les indicateurs de votre entreprise 24 heures sur 24, détecte les anomalies avant qu'elles ne deviennent des problèmes et fournit des rapports prêts à l'emploi des dirigeants, sans une seule demande de votre part.",
+      "category": "AI & Machine Learning",
+      "website": "https://metricmind-ay.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:03.258182+00:00"
+    },
+    {
+      "name": "ToyForge AI",
+      "slug": "polsia-toptoysfactory",
+      "description": "Every great AI toy brand needs a factory that understands both the intelligence and the craft. ToyForge AI is where silicon meets softness, where algorithms become companions, and where your next product goes from idea to inventory.",
+      "description_fr": "Chaque grande marque de jouets IA a besoin d’une usine qui comprend à la fois l’intelligence et l’artisanat. ToyForge AI est l'endroit où le silicium rencontre la douceur, où les algorithmes deviennent des compagnons et où votre prochain produit passe de l'idée à l'inventaire.",
+      "category": "AI & Machine Learning",
+      "website": "https://toptoysfactory.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:04.848016+00:00"
+    },
+    {
+      "name": "Brief — The Newsletter That Runs Itself",
+      "slug": "polsia-brief-news-2",
+      "description": "An AI agent that monitors sources, picks stories, writes copy, and sends your newsletter on schedule. No human bottleneck.",
+      "description_fr": "Un agent IA qui surveille les sources, sélectionne les articles, rédige des textes et envoie votre newsletter dans les délais. Aucun goulot d’étranglement humain.",
+      "category": "AI & Machine Learning",
+      "website": "https://brief-news-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:06.347001+00:00"
+    },
+    {
+      "name": "Alevra — Curated Algarve Experiences",
+      "slug": "polsia-alevra",
+      "description": "Alevra is a premium concierge: one point of contact, one invoice, one curated programme for your family or group. Private villas. Private boats. Private chefs. Private access. Families of 4 to 10, with budget above average, looking for something that actually feels premium — not a brochure with a luxury adjective.",
+      "description_fr": "Alevra est un concierge premium : un point de contact, une facture, un programme organisé pour votre famille ou votre groupe. Villas privées. Bateaux privés. Chefs privés. Accès privé. Familles de 4 à 10 personnes, avec un budget supérieur à la moyenne, à la recherche de quelque chose qui semble réellement haut de gamme – et non d'une brochure avec un adjectif de luxe.",
+      "category": "Finance & Fintech",
+      "website": "https://alevra.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:07.777104+00:00"
+    },
+    {
+      "name": "Seal — AI Automation for Local Service Businesses",
+      "slug": "polsia-seal",
+      "description": "The businesses that win aren't the ones with the best product. They're the ones that capture every opportunity and convert it efficiently. Seal exists to make sure you never lose another lead to a phone call that went to voicemail.",
+      "description_fr": "Les entreprises qui gagnent ne sont pas celles qui proposent le meilleur produit. Ce sont eux qui saisissent chaque opportunité et la convertissent efficacement. Seal existe pour vous assurer de ne jamais perdre un autre prospect à cause d'un appel téléphonique dirigé vers la messagerie vocale.",
+      "category": "AI & Machine Learning",
+      "website": "https://seal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:09.156046+00:00"
+    },
+    {
+      "name": "DomainScope — Market Intelligence at Domain Scale",
+      "slug": "polsia-scopeloopos",
+      "description": "9M+ domains categorized across 200+ markets. Enterprise-grade competitive intelligence for executives and investors.",
+      "description_fr": "Plus de 9 millions de domaines classés sur plus de 200 marchés. Veille concurrentielle de niveau entreprise pour les dirigeants et les investisseurs.",
+      "category": "Other",
+      "website": "https://scopeloopos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:11.577561+00:00"
+    },
+    {
+      "name": "CodemancersOS — AI",
+      "slug": "polsia-codemancersos",
+      "description": "Codemancers has been building for Flipkart, FanDuel, and Gojek since 2012. Now an autonomous AI runs the operations layer.",
+      "description_fr": "Codemancers construit pour Flipkart, FanDuel et Gojek depuis 2012. Désormais, une IA autonome gère la couche opérationnelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://codemancersos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T11:20:12.956947+00:00"
     }
   ]
 }
