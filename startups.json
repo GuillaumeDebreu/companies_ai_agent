@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T17:07:37.631589+00:00",
+  "last_updated": "2026-06-22T19:45:11.912652+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -165486,20 +165486,26 @@
       "scraped_at": "2026-06-22T11:20:12.956947+00:00"
     },
     {
-      "name": "Crocus",
+      "name": "Crocus — Daily Wisdom, Delivered",
       "slug": "polsia-crocus-ai",
+      "description": "Crocus was built on a simple conviction: the most important work a person does is the work of paying attention to their own life. Not optimizing it. Not improving it. Just noticing it, honestly, and with some tenderness.",
+      "description_fr": "Crocus est né d'une conviction simple : le travail le plus important qu'une personne accomplit est celui d'être attentif à sa propre vie. Ne pas l'optimiser. Ne pas l'améliorer. Je le remarque simplement, honnêtement et avec une certaine tendresse.",
+      "category": "Other",
       "website": "https://crocus-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-22T16:07:10.020598+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T19:45:08.135147+00:00"
     },
     {
       "name": "Stockr",
       "slug": "polsia-stockr-4",
+      "description": "Enterprise companies have supply chain teams watching their vendors around the clock. Small manufacturers have spreadsheets and hope. Stockr changes that.",
+      "description_fr": "Les entreprises disposent d'équipes de chaîne d'approvisionnement qui surveillent leurs fournisseurs 24 heures sur 24. Les petits fabricants ont des feuilles de calcul et de l'espoir. Stockr change cela.",
+      "category": "Logistics & Supply Chain",
       "website": "https://stockr-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-22T16:07:10.522285+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T19:45:09.821742+00:00"
     },
     {
       "name": "Run your web studio without the chaos.",
@@ -165582,6 +165588,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-22T16:07:18.037924+00:00"
+    },
+    {
+      "name": "TradeShift",
+      "slug": "polsia-tradeshift-8",
+      "website": "https://tradeshift-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T19:44:48.924462+00:00"
+    },
+    {
+      "name": "AdPulse",
+      "slug": "polsia-adpulse-ai-17",
+      "website": "https://adpulse-ai-17.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T19:44:49.462489+00:00"
+    },
+    {
+      "name": "AnswerBridge",
+      "slug": "polsia-answerbridge-6",
+      "website": "https://answerbridge-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T19:44:50.073862+00:00"
+    },
+    {
+      "name": "VulnAgent",
+      "slug": "polsia-vulnagent",
+      "website": "https://vulnagent.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T19:44:50.713072+00:00"
+    },
+    {
+      "name": "GroveIntel — Closed",
+      "slug": "polsia-groveintel",
+      "description": "Every pass through the loop generates verified cause-and-effect data. Every season compounds the asset. GroveIntel turns the orchard into an instrument — one that learns from every intervention, gets smarter with every cycle, and produces crop protection decisions no competitor can match.",
+      "description_fr": "Chaque passage dans la boucle génère des données de cause à effet vérifiées. Chaque saison accroît l’atout. GroveIntel transforme le verger en un instrument qui apprend de chaque intervention, devient plus intelligent à chaque cycle et prend des décisions en matière de protection des cultures qu'aucun concurrent ne peut égaler.",
+      "category": "Other",
+      "website": "https://groveintel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T19:44:53.054839+00:00"
+    },
+    {
+      "name": "Axiom — Autonomous Regulatory Compliance for SaMD",
+      "slug": "polsia-axiom-24",
+      "description": "The compliance tax is breaking SaMD teams. Every time a developer updates an algorithm, the risk file needs to change. Every time the risk file changes, the design controls need to be reviewed. Every time there's a review, there's a meeting, a sign-off, and a backlog. Axiom ends the loop — autonomous, continuous, always audit-ready.",
+      "description_fr": "La taxe de conformité brise les équipes SaMD. Chaque fois qu'un développeur met à jour un algorithme, le fichier de risques doit changer. Chaque fois que le dossier de risques change, les contrôles de conception doivent être revus. Chaque fois qu'il y a un examen, il y a une réunion, une approbation et un arriéré. Axiom termine la boucle : autonome, continu, toujours prêt pour l'audit.",
+      "category": "Other",
+      "website": "https://axiom-24.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T19:44:53.959807+00:00"
+    },
+    {
+      "name": "Sunbeam Sites — We Build It. We Host It. You Run Your Business.",
+      "slug": "polsia-sunbeamos",
+      "description": "Professional websites for accountants, lawyers, therapists, and other SMBs. We build, host, and maintain everything — you focus on what matters.",
+      "description_fr": "Sites Web professionnels pour comptables, avocats, thérapeutes et autres PME. Nous construisons, hébergeons et entretenons tout : vous vous concentrez sur ce qui compte.",
+      "category": "Software & SaaS",
+      "website": "https://sunbeamos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T19:44:55.163172+00:00"
+    },
+    {
+      "name": "LinguaForge — AI Conversations for Real Fluency",
+      "slug": "polsia-linguaforge-3",
+      "description": "Not vocabulary drills. Not grammar exercises.Actual conversations with an AI partner that guides you back when you drift — and shows you exactly where you improved.",
+      "description_fr": "Pas des exercices de vocabulaire. Pas d'exercices de grammaire. De véritables conversations avec un partenaire IA qui vous guide lorsque vous dérivez et vous montre exactement où vous vous êtes amélioré.",
+      "category": "AI & Machine Learning",
+      "website": "https://linguaforge-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T19:44:56.234289+00:00"
+    },
+    {
+      "name": "VerifyTV",
+      "slug": "polsia-verifytv",
+      "website": "https://verifytv.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T19:44:56.686945+00:00"
+    },
+    {
+      "name": "ShidaOS",
+      "slug": "polsia-shidaos",
+      "description": "ShidaOS powers agricultural training operations at scale — student tracking, curriculum management, automated SMS, and impact reporting for training organizations across Africa.",
+      "description_fr": "ShidaOS alimente les opérations de formation agricole à grande échelle : suivi des étudiants, gestion des programmes, SMS automatisés et rapports d'impact pour les organismes de formation à travers l'Afrique.",
+      "category": "Education",
+      "website": "https://shidaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T19:44:57.493101+00:00"
     }
   ]
 }
