@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T20:50:20.561636+00:00",
+  "last_updated": "2026-06-22T21:51:20.255818+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -165592,34 +165592,46 @@
     {
       "name": "TradeShift",
       "slug": "polsia-tradeshift-8",
+      "description": "General AI doesn't know a 3/4\" copper sweat fitting from a compression valve. TradeShift does. It learns your pricebook, your markup rules, your local codes, and your customers — and applies all of it, instantly.",
+      "description_fr": "General AI ne reconnaît pas un raccord en cuivre de 3/4\" d'une valve de compression. TradeShift le sait. Il apprend votre barème de prix, vos règles de majoration, vos codes locaux et vos clients - et applique tout cela instantanément.",
+      "category": "AI & Machine Learning",
       "website": "https://tradeshift-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-22T19:44:48.924462+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T21:51:14.336311+00:00"
     },
     {
-      "name": "AdPulse",
+      "name": "AdPulse — Autonomous Media Buying Agent",
       "slug": "polsia-adpulse-ai-17",
+      "description": "The $700M+ flowing into agentic ad startups in 2025 isn't hype — it's a correction. Brands are done paying agency retainers to have humans do work a machine can do better, faster, and without the 3pm meeting. The agent doesn't need sleep. It doesn't miss the Tuesday afternoon budget shift. It reads every signal, every auction, every CPM — simultaneously, forever.",
+      "description_fr": "Les plus de 700 millions de dollars investis dans les startups de publicité agentique en 2025 ne sont pas un battage publicitaire, c'est une correction. Les marques ont fini de payer des agences pour que les humains travaillent, une machine peut faire mieux, plus rapidement et sans la réunion de 15 heures. L'agent n'a pas besoin de dormir. Il ne manque pas le changement de budget de mardi après-midi. Il lit chaque signal, chaque enchère, chaque CPM, simultanément et pour toujours.",
+      "category": "Marketing & Advertising",
       "website": "https://adpulse-ai-17.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-22T19:44:49.462489+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T21:51:15.762287+00:00"
     },
     {
-      "name": "AnswerBridge",
+      "name": "AnswerBridge — AI Phone Receptionist for Small Business",
       "slug": "polsia-answerbridge-6",
+      "description": "The math is brutal. A single unanswered call in a service business can cost $200 to $1,200 in lost revenue. Most small businesses miss 62% of their inbound calls. That is not a phone problem — it is a revenue problem. AnswerBridge fixes it.",
+      "description_fr": "Le calcul est brutal. Un seul appel sans réponse dans une entreprise de services peut coûter entre 200 et 1 200 $ en perte de revenus. La plupart des petites entreprises manquent 62 % de leurs appels entrants. Ce n’est pas un problème de téléphone, c’est un problème de revenus. AnswerBridge le corrige.",
+      "category": "AI & Machine Learning",
       "website": "https://answerbridge-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-22T19:44:50.073862+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T21:51:17.575140+00:00"
     },
     {
       "name": "VulnAgent",
       "slug": "polsia-vulnagent",
+      "description": "There are great OWASP API security resources online. PortSwigger Academy, OWASP WebGoat, HackerOne — they're excellent. But they all assume you already know what you're doing. They're for people who already have a security background.For the developer who ships features and doesn't have time to become a security expert — there's nothing. Either you manually learn each vulnerability class, or you hope your security team catches things before production.VulnAgent fills that gap. It runs alongside your actual API, finds real vulnerabilities, and explains them in the context of your code — not a generic lab environment. Every finding is a lesson. Every lesson makes you better.",
+      "description_fr": "Il existe d'excellentes ressources en ligne sur la sécurité de l'API OWASP. PortSwigger Academy, OWASP WebGoat, HackerOne – ils sont excellents. Mais ils supposent tous que vous savez déjà ce que vous faites. Ils sont destinés aux personnes qui ont déjà une formation en sécurité. Pour le développeur qui propose des fonctionnalités et qui n'a pas le temps de devenir un expert en sécurité, il n'y a rien. Soit vous apprenez manuellement chaque classe de vulnérabilité, soit vous espérez que votre équipe de sécurité détecte les choses avant la production. VulnAgent comble cette lacune. Il fonctionne parallèlement à votre API actuelle, détecte les vulnérabilités réelles et les explique dans le contexte de votre code, et non dans un environnement de laboratoire générique. Chaque découverte est une leçon. Chaque leçon vous rend meilleur.",
+      "category": "Sustainability & Green",
       "website": "https://vulnagent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-22T19:44:50.713072+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T21:51:19.408522+00:00"
     },
     {
       "name": "GroveIntel — Closed",
@@ -165683,6 +165695,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-22T19:44:57.493101+00:00"
+    },
+    {
+      "name": "XtarifyOS",
+      "slug": "polsia-xtarifyos",
+      "website": "https://xtarifyos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T21:50:51.852577+00:00"
+    },
+    {
+      "name": "Recoverly",
+      "slug": "polsia-recoverly-3",
+      "description": "Recoverly automates debt recovery for businesses through WhatsApp. AI agents engage debtors, negotiate payment plans, and recover revenue — 24/7, at scale.",
+      "description_fr": "Recoverly automatise le recouvrement des dettes des entreprises via WhatsApp. Les agents IA engagent les débiteurs, négocient les plans de paiement et récupèrent les revenus, 24 heures sur 24 et 7 jours sur 7, à grande échelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://recoverly-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T21:50:53.705423+00:00"
+    },
+    {
+      "name": "Sublayer — The AI Agent Subscription Marketplace",
+      "slug": "polsia-sublayer-ai",
+      "description": "\"Every SaaS company has the same invisible churn problem. Their most engaged users are humans who open the app twice a week. Their most disengaged users are agents who need it every hour — but can't subscribe without a credit card, an OAuth flow, or a human to type in a password.\"",
+      "description_fr": "\"Chaque entreprise SaaS a le même problème de désabonnement invisible. Leurs utilisateurs les plus engagés sont des humains qui ouvrent l'application deux fois par semaine. Leurs utilisateurs les plus désengagés sont des agents qui en ont besoin toutes les heures, mais ne peuvent pas s'abonner sans carte de crédit, sans flux OAuth ou sans un humain pour saisir un mot de passe.\"",
+      "category": "AI & Machine Learning",
+      "website": "https://sublayer-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T21:50:54.782774+00:00"
+    },
+    {
+      "name": "RotaFlow — Autonomous Restaurant Operations",
+      "slug": "polsia-rotaflow-2",
+      "description": "The AI employee that runs your restaurant's backend operations 24/7. Inventory, scheduling, marketing, and vendor management — without human input.",
+      "description_fr": "L'employé IA qui gère les opérations backend de votre restaurant 24h/24 et 7j/7. Gestion des stocks, de la planification, du marketing et des fournisseurs, sans intervention humaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://rotaflow-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T21:50:55.981584+00:00"
+    },
+    {
+      "name": "SiteTested — Know Before You Build",
+      "slug": "polsia-sitetested",
+      "description": "But here's what hasn't caught up: the advice. Most homeowners entering this process are doing it for the first and only time. They trust the design-build firm to guide them. That firm has every incentive to close a deal — not to send you away when your property isn't ready.",
+      "description_fr": "Mais voici ce qui n'a pas rattrapé son retard : les conseils. La plupart des propriétaires qui s’engagent dans ce processus le font pour la première et unique fois. Ils font confiance au cabinet de conception-construction pour les guider. Cette entreprise a tout intérêt à conclure une transaction et non à vous renvoyer lorsque votre propriété n'est pas prête.",
+      "category": "Real Estate",
+      "website": "https://sitetested.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T21:50:56.991113+00:00"
+    },
+    {
+      "name": "LeadBridge — Crypto Broker Lead Generation Platform",
+      "slug": "polsia-leadbridge-51",
+      "description": "A dedicated advertising platform connecting crypto brokers with qualified clients. Get leads, not just referrals.",
+      "description_fr": "Une plateforme publicitaire dédiée connectant les courtiers en crypto avec des clients qualifiés. Obtenez des prospects, pas seulement des références.",
+      "category": "Marketing & Advertising",
+      "website": "https://leadbridge-51.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T21:50:58.274348+00:00"
+    },
+    {
+      "name": "Stratum Capital",
+      "slug": "polsia-stratum-capital",
+      "website": "https://stratum-capital.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T21:50:58.678083+00:00"
+    },
+    {
+      "name": "Nightshift — Your Portfolio Works While You Sleep",
+      "slug": "polsia-nightshift-dev-2",
+      "description": "You spent a week building it. It looks great. Then it just... sits there. Static HTML, maybe a few project screenshots, a link to your GitHub. Meanwhile, opportunities come and go while you're asleep, or at your day job, or anywhere else where you're not actively refreshing your own site.",
+      "description_fr": "Vous avez passé une semaine à le construire. Ça a l'air super. Ensuite, il reste là. HTML statique, peut-être quelques captures d'écran du projet, un lien vers votre GitHub. Pendant ce temps, les opportunités vont et viennent pendant que vous dormez, ou pendant votre travail quotidien, ou partout ailleurs où vous n'actualisez pas activement votre propre site.",
+      "category": "Other",
+      "website": "https://nightshift-dev-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T21:51:00.167582+00:00"
+    },
+    {
+      "name": "Listora — Listings That Actually Convert",
+      "slug": "polsia-listora-4",
+      "description": "Most listing underperformance isn't about price — it's about content. The description doesn't communicate value. The title doesn't surface in search. The photos don't build trust. We audit every element and fix what actually matters.",
+      "description_fr": "La plupart des sous-performances des annonces ne sont pas liées au prix, mais plutôt au contenu. La description ne communique pas de valeur. Le titre n'apparaît pas dans la recherche. Les photos ne créent pas de confiance. Nous auditons chaque élément et réparons ce qui compte réellement.",
+      "category": "Entertainment & Media",
+      "website": "https://listora-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T21:51:01.748107+00:00"
+    },
+    {
+      "name": "BonsaiOS — The Operating System for Adventure Builders",
+      "slug": "polsia-bonsai-os",
+      "description": "BonsaiOS is the all-in-one operating system for aerial adventure course builders — project pipeline, client management, inspection tracking, and R&D in one place.",
+      "description_fr": "BonsaiOS est le système d'exploitation tout-en-un destiné aux créateurs de parcours d'aventure aérienne : pipeline de projets, gestion des clients, suivi des inspections et R&D en un seul endroit.",
+      "category": "Sales & CRM",
+      "website": "https://bonsai-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T21:51:03.460051+00:00"
     }
   ]
 }
