@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T11:57:28.929415+00:00",
+  "last_updated": "2026-06-22T16:07:31.518272+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -165378,10 +165378,13 @@
     {
       "name": "EnergyOS",
       "slug": "polsia-energyos-2",
+      "description": "Autonomous AI agents optimizing HVAC, lighting, and power systems 24/7—cutting energy costs 35% without human intervention.",
+      "description_fr": "Des agents d'IA autonomes optimisent les systèmes de CVC, d'éclairage et d'alimentation 24h/24 et 7j/7, réduisant ainsi les coûts énergétiques de 35 % sans intervention humaine.",
+      "category": "AI & Machine Learning",
       "website": "https://energyos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-22T11:19:58.371960+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T16:07:30.516811+00:00"
     },
     {
       "name": "Kidato — Every Step Counts",
@@ -165481,6 +165484,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-22T11:20:12.956947+00:00"
+    },
+    {
+      "name": "Crocus",
+      "slug": "polsia-crocus-ai",
+      "website": "https://crocus-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T16:07:10.020598+00:00"
+    },
+    {
+      "name": "Stockr",
+      "slug": "polsia-stockr-4",
+      "website": "https://stockr-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T16:07:10.522285+00:00"
+    },
+    {
+      "name": "Run your web studio without the chaos.",
+      "slug": "polsia-craftbaseos",
+      "description": "One extra client means one more thing to track. Two more means you're answering questions instead of doing work. Three, four, five — and suddenly you're spending more time managing the studio than running it.",
+      "description_fr": "Un client supplémentaire signifie une chose de plus à suivre. Deux de plus signifient que vous répondez à des questions au lieu de travailler. Trois, quatre, cinq – et du coup, vous passez plus de temps à gérer le studio qu'à le faire fonctionner.",
+      "category": "Marketing & Advertising",
+      "website": "https://craftbaseos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T16:07:11.507796+00:00"
+    },
+    {
+      "name": "CardDrop — Japanese & Asian Pokemon TCG",
+      "slug": "polsia-carddrop-6",
+      "description": "Built for the collector who knows what they want and doesn't want to overpay for it. Direct from Japan, Korea, and China. Arriving in Maryland, shipping everywhere.",
+      "description_fr": "Conçu pour le collectionneur qui sait ce qu’il veut et ne veut pas payer trop cher. Directement du Japon, de Corée et de Chine. Arrivée dans le Maryland, expédition partout.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://carddrop-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T16:07:12.602241+00:00"
+    },
+    {
+      "name": "VoiReport",
+      "slug": "polsia-voidreport",
+      "description": "AI agent that monitors transactions 24/7, flags anomalies, and closes the books automatically. Finance teams spend 15-20 hours a week on reconciliation. VoiReport runs while you sleep.",
+      "description_fr": "Agent IA qui surveille les transactions 24h/24 et 7j/7, signale les anomalies et clôture automatiquement les livres. Les équipes financières consacrent 15 à 20 heures par semaine au rapprochement. VoiReport s'exécute pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://voidreport.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T16:07:13.579261+00:00"
+    },
+    {
+      "name": "CommandOS",
+      "slug": "polsia-commandos-25",
+      "website": "https://commandos-25.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T16:07:13.962591+00:00"
+    },
+    {
+      "name": "FirstRung — Career Training for the First Step",
+      "slug": "polsia-firstrung-3",
+      "description": "The gap between education and employment is real. Most training programs teach you theory. FirstRung trains you for the job — real skills, real portfolio work, real mentorship from people who've done it.",
+      "description_fr": "L’écart entre l’éducation et l’emploi est réel. La plupart des programmes de formation vous enseignent la théorie. FirstRung vous forme pour le poste : de vraies compétences, un vrai travail de portfolio, un véritable mentorat de la part de personnes qui l'ont fait.",
+      "category": "Education",
+      "website": "https://firstrung-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T16:07:14.796307+00:00"
+    },
+    {
+      "name": "RouteOS — Operating System for Distribution",
+      "slug": "polsia-routeos-4",
+      "description": "Most distributors operate on instinct and WhatsApp. RouteOS brings the infrastructure that turns a 15-year distribution network into a scalable, accountable, intelligent system — one that knows where every pallet is, which routes are performing, and where the gaps are hiding.",
+      "description_fr": "La plupart des distributeurs fonctionnent à l’instinct et sur WhatsApp. RouteOS apporte l'infrastructure qui transforme un réseau de distribution de 15 ans en un système évolutif, responsable et intelligent, qui sait où se trouve chaque palette, quels itinéraires fonctionnent et où se cachent les lacunes.",
+      "category": "Social & Community",
+      "website": "https://routeos-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T16:07:16.510864+00:00"
+    },
+    {
+      "name": "PulseOS",
+      "slug": "polsia-pulseos-61",
+      "website": "https://pulseos-61.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T16:07:16.662352+00:00"
+    },
+    {
+      "name": "VerticAI — AI Software Built for One Vertical",
+      "slug": "polsia-verticai",
+      "description": "The best time to start a vertical AI SaaS company was five years ago. The second best time is now. The tools exist. The market is waiting. The only question is which vertical you choose — and how deep you're willing to go.",
+      "description_fr": "Le meilleur moment pour démarrer une entreprise verticale d’IA SaaS était il y a cinq ans. Le deuxième meilleur moment est maintenant. Les outils existent. Le marché attend. La seule question est de savoir quelle verticale vous choisissez – et jusqu’où vous êtes prêt à aller.",
+      "category": "Software & SaaS",
+      "website": "https://verticai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T16:07:18.037924+00:00"
     }
   ]
 }
