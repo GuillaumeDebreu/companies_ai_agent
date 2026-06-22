@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T21:51:20.255818+00:00",
+  "last_updated": "2026-06-22T23:12:11.511086+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -165697,12 +165697,15 @@
       "scraped_at": "2026-06-22T19:44:57.493101+00:00"
     },
     {
-      "name": "XtarifyOS",
+      "name": "XtarifyOS — Operating System for Xtarify",
       "slug": "polsia-xtarifyos",
+      "description": "XtarifyOS runs your business autonomously. Product, engineering, marketing, growth — all handled by AI agents that ship daily progress.",
+      "description_fr": "XtarifyOS gère votre entreprise de manière autonome. Produit, ingénierie, marketing, croissance, le tout géré par des agents IA qui assurent les progrès quotidiens.",
+      "category": "AI & Machine Learning",
       "website": "https://xtarifyos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-22T21:50:51.852577+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-22T23:12:09.417259+00:00"
     },
     {
       "name": "Recoverly",
@@ -165799,6 +165802,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-22T21:51:03.460051+00:00"
+    },
+    {
+      "name": "PagePilot",
+      "slug": "polsia-pagepilot-253c51",
+      "website": "https://pagepilot-253c51.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T23:11:45.988806+00:00"
+    },
+    {
+      "name": "FractionalOS",
+      "slug": "polsia-fractionalos",
+      "website": "https://fractionalos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T23:11:46.502003+00:00"
+    },
+    {
+      "name": "Wellsmith",
+      "slug": "polsia-wellsmith",
+      "website": "https://wellsmith.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T23:11:47.077281+00:00"
+    },
+    {
+      "name": "QuickDeal — Any Property. Any Category. Fast.",
+      "slug": "polsia-quickdeal",
+      "description": "We make direct offers on any property type — residential, commercial, land, waterfront, and more. Speed and certainty for sellers. Off-market deals for buyers.",
+      "description_fr": "Nous faisons des offres directes sur tout type de propriété : résidentielle, commerciale, foncière, riveraine et plus encore. Rapidité et certitude pour les vendeurs. Offres hors marché pour les acheteurs.",
+      "category": "Real Estate",
+      "website": "https://quickdeal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T23:11:48.916077+00:00"
+    },
+    {
+      "name": "LaunchDeck",
+      "slug": "polsia-launchdeck-91",
+      "website": "https://launchdeck-91.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T23:11:49.394659+00:00"
+    },
+    {
+      "name": "Vantablack Games — AI",
+      "slug": "polsia-vantablack-games",
+      "description": "\"Most indie studios don't fail because their games are bad. They fail because founders burn out managing the work that isn't making games — marketing, community, operations, QA, dev ops, and the endless admin of running a business.\"",
+      "description_fr": "\"La plupart des studios indépendants n'échouent pas parce que leurs jeux sont mauvais. Ils échouent parce que les fondateurs s'épuisent à gérer le travail qui ne consiste pas à créer des jeux : le marketing, la communauté, les opérations, l'assurance qualité, les opérations de développement et l'administration sans fin de la gestion d'une entreprise.\"",
+      "category": "AI & Machine Learning",
+      "website": "https://vantablack-games.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T23:11:51.335004+00:00"
+    },
+    {
+      "name": "Brief",
+      "slug": "polsia-brief-ai-12",
+      "website": "https://brief-ai-12.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-22T23:11:51.829007+00:00"
+    },
+    {
+      "name": "ScaleOps",
+      "slug": "polsia-scaleops-ai-3",
+      "description": "Every manual task your team does is a ceiling on your growth. Competitor research, client reporting, campaign monitoring — these don't require human judgment. They require intelligence. ScaleOps builds that intelligence into your operations so your people focus on what only humans can do: strategy, creativity, and client relationships.",
+      "description_fr": "Chaque tâche manuelle effectuée par votre équipe constitue un plafond pour votre croissance. Recherche de concurrents, reporting client, suivi de campagne : tout cela ne nécessite pas de jugement humain. Ils ont besoin d'intelligence. ScaleOps intègre cette intelligence dans vos opérations afin que vos collaborateurs se concentrent sur ce que seuls les humains peuvent faire : la stratégie, la créativité et les relations clients.",
+      "category": "Marketing & Advertising",
+      "website": "https://scaleops-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T23:11:53.818961+00:00"
+    },
+    {
+      "name": "Syncly — Find People You Actually Fit With",
+      "slug": "polsia-align-3",
+      "description": "Syncly uses a 0-100% Compatibility Engine to match you on values, personality, lifestyle, and life goals — not just photos. Every card shows why you fit.",
+      "description_fr": "Syncly utilise un moteur de compatibilité de 0 à 100 % pour vous correspondre sur les valeurs, la personnalité, le style de vie et les objectifs de vie, pas seulement sur les photos. Chaque carte montre pourquoi vous correspondez.",
+      "category": "Other",
+      "website": "https://align-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T23:11:55.415813+00:00"
+    },
+    {
+      "name": "Spartel — Luxury Yacht Tenders, Tangier",
+      "slug": "polsia-nexerx",
+      "description": "The first luxury yacht tender shipyard at the Strait of Gibraltar. Dutch craftsmanship, built in Morocco.",
+      "description_fr": "Le premier chantier naval d'annexes pour yachts de luxe dans le détroit de Gibraltar. Artisanat hollandais, construit au Maroc.",
+      "category": "Other",
+      "website": "https://nexerx.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-22T23:11:57.221447+00:00"
     }
   ]
 }
