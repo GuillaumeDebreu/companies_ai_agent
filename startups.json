@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T20:37:19.855153+00:00",
+  "last_updated": "2026-06-23T22:03:26.250802+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -166652,12 +166652,101 @@
       "scraped_at": "2026-06-23T20:37:06.007968+00:00"
     },
     {
-      "name": "TurnFix",
+      "name": "TurnFix — Mobile Oil Change & Brake Service",
       "slug": "polsia-turnfix",
+      "description": "The shops are either expensive, inconvenient, or run by a guy with a van and no reviews.\n        Meanwhile, every other service in your life has been disrupted — groceries, rides, meals, laundry.\n        Your car is still waiting in line at Jiffy Lube.",
+      "description_fr": "Les magasins sont soit chers, peu pratiques, soit tenus par un gars avec une camionnette et sans avis.\n        Pendant ce temps, tous les autres services de votre vie ont été perturbés : les courses, les déplacements, les repas, la lessive.\n        Votre voiture fait toujours la queue chez Jiffy Lube.",
+      "category": "E-Commerce & Retail",
       "website": "https://turnfix.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-23T22:03:24.447855+00:00"
+    },
+    {
+      "name": "PredictEdge",
+      "slug": "polsia-predictedge-2",
+      "website": "https://predictedge-2.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-06-23T20:37:06.314715+00:00"
+      "scraped_at": "2026-06-23T22:03:07.656794+00:00"
+    },
+    {
+      "name": "LaunchPadOS",
+      "slug": "polsia-launchpados-89",
+      "website": "https://launchpados-89.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T22:03:07.883997+00:00"
+    },
+    {
+      "name": "HeyBobbinOS",
+      "slug": "polsia-heybobbin",
+      "website": "https://heybobbin.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T22:03:08.099663+00:00"
+    },
+    {
+      "name": "Launchr",
+      "slug": "polsia-launchr-2",
+      "website": "https://launchr-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T22:03:08.323165+00:00"
+    },
+    {
+      "name": "HighHeightsOS",
+      "slug": "polsia-highheightsos",
+      "description": "HHS is not a startup. It is an established creative enterprise with the client roster, production capability, and market position to scale into a major cultural force. The operating system is what makes that possible — without chaos, without overhead, without limits on what the team can focus on.",
+      "description_fr": "HHS n'est pas une startup. Il s’agit d’une entreprise créative établie avec une liste de clients, une capacité de production et une position sur le marché lui permettant de devenir une force culturelle majeure. C’est le système d’exploitation qui rend cela possible – sans chaos, sans frais généraux, sans limites sur ce sur quoi l’équipe peut se concentrer.",
+      "category": "Other",
+      "website": "https://highheightsos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-23T22:03:25.937696+00:00"
+    },
+    {
+      "name": "RestackOS",
+      "slug": "polsia-restackos",
+      "description": "AI-powered operating system running the backend of NaturalSleep.shop — autonomous growth, streamlined operations, and scalable sales.",
+      "description_fr": "Système d'exploitation basé sur l'IA exécutant le backend de NaturalSleep.shop : croissance autonome, opérations rationalisées et ventes évolutives.",
+      "category": "AI & Machine Learning",
+      "website": "https://restackos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-23T22:03:14.396678+00:00"
+    },
+    {
+      "name": "SiteLoop",
+      "slug": "polsia-siteloop-6",
+      "website": "https://siteloop-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T22:03:14.596364+00:00"
+    },
+    {
+      "name": "RenewalRights",
+      "slug": "polsia-renewalrights",
+      "website": "https://renewalrights.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T22:03:14.807560+00:00"
+    },
+    {
+      "name": "Lucia",
+      "slug": "polsia-lucia",
+      "website": "https://lucia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T22:03:14.993507+00:00"
+    },
+    {
+      "name": "SpaceFirst",
+      "slug": "polsia-spacefirst",
+      "website": "https://spacefirst.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T22:03:15.126828+00:00"
     }
   ]
 }
