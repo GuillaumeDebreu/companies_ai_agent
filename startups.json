@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T05:40:54.264354+00:00",
+  "last_updated": "2026-06-23T08:47:58.438377+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -165923,12 +165923,15 @@
       "scraped_at": "2026-06-23T01:24:29.821484+00:00"
     },
     {
-      "name": "FieldMind",
+      "name": "FieldMind — Autonomous Industrial Maintenance",
       "slug": "polsia-fieldmind-32",
+      "description": "Traditional SCADA shows you what happened. FieldMind tells you what to do about what's coming. It's the difference between watching your equipment fail and scheduling the repair before it costs you a production day.",
+      "description_fr": "Le SCADA traditionnel vous montre ce qui s'est passé. FieldMind vous indique quoi faire face à ce qui s'en vient. C'est la différence entre observer une panne de votre équipement et planifier la réparation avant qu'elle ne vous coûte une journée de production.",
+      "category": "Productivity & Automation",
       "website": "https://fieldmind-32.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-23T01:24:30.179076+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-23T08:47:55.431896+00:00"
     },
     {
       "name": "The Reclamation — Men's Mental Health Framework",
@@ -166049,12 +166052,15 @@
       "scraped_at": "2026-06-23T05:40:46.674281+00:00"
     },
     {
-      "name": "EnableIQ",
+      "name": "EnableIQ — Strategic AI Enablement for Enterprise Architects",
       "slug": "polsia-enableiq",
+      "description": "Prove ROI before you commit. EnableIQ drops atomic AI capability into your enterprise architecture program — from baseline to success, one module at a time.",
+      "description_fr": "Prouvez le retour sur investissement avant de vous engager. EnableIQ intègre la capacité d'IA atomique dans votre programme d'architecture d'entreprise, de la base au succès, un module à la fois.",
+      "category": "AI & Machine Learning",
       "website": "https://enableiq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-23T05:40:46.871277+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-23T08:47:57.610197+00:00"
     },
     {
       "name": "Wattline",
@@ -166063,6 +166069,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-06-23T05:40:47.060342+00:00"
+    },
+    {
+      "name": "BananirOS",
+      "slug": "polsia-bananiros-2",
+      "website": "https://bananiros-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T08:47:47.029051+00:00"
+    },
+    {
+      "name": "DuanFlix",
+      "slug": "polsia-duanflix",
+      "website": "https://duanflix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T08:47:47.276414+00:00"
+    },
+    {
+      "name": "AstraMindsOS",
+      "slug": "polsia-astramindsos",
+      "website": "https://astramindsos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T08:47:47.484508+00:00"
+    },
+    {
+      "name": "TuezdayOS",
+      "slug": "polsia-tuezdayos",
+      "website": "https://tuezdayos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T08:47:47.730530+00:00"
+    },
+    {
+      "name": "MTC OS",
+      "slug": "polsia-mtc-os",
+      "website": "https://mtc-os.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T08:47:47.966447+00:00"
+    },
+    {
+      "name": "BraaveOS",
+      "slug": "polsia-braaveos",
+      "website": "https://braaveos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T08:47:48.196904+00:00"
+    },
+    {
+      "name": "QuinbroOS",
+      "slug": "polsia-quinbros",
+      "website": "https://quinbros.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T08:47:48.477135+00:00"
+    },
+    {
+      "name": "FormatIQ",
+      "slug": "polsia-formatiq",
+      "website": "https://formatiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T08:47:48.645015+00:00"
+    },
+    {
+      "name": "EarthFit",
+      "slug": "polsia-earthfit",
+      "website": "https://earthfit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T08:47:48.870176+00:00"
+    },
+    {
+      "name": "StaenzelOS",
+      "slug": "polsia-staenzelos",
+      "website": "https://staenzelos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-23T08:47:49.137946+00:00"
     }
   ]
 }
