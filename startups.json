@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T09:32:20.746519+00:00",
+  "last_updated": "2026-06-24T11:20:12.979195+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -167136,20 +167136,26 @@
       "scraped_at": "2026-06-24T04:41:54.920255+00:00"
     },
     {
-      "name": "LingoAgent",
+      "name": "LingoAgent — AI Inbox Agent for Global Businesses",
       "slug": "polsia-lingoagent",
+      "description": "LingoAgent is the AI inbox agent that reads, drafts, and queues professional replies across any language — so your team only reviews and sends.",
+      "description_fr": "LingoAgent est l'agent de boîte de réception IA qui lit, rédige et met en file d'attente les réponses professionnelles dans n'importe quelle langue — afin que votre équipe se contente de réviser et d'envoyer.",
+      "category": "AI & Machine Learning",
       "website": "https://lingoagent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T08:15:31.322169+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T11:20:04.896639+00:00"
     },
     {
-      "name": "TraitOS",
+      "name": "TraitOS — The AI Operating System for Corporate Emotional Health",
       "slug": "polsia-trait-os",
+      "description": "Dharma Life Sciences spent a decade proving that trait skills are developable, measurable, and directly tied to organizational performance. TraitOS is that science, rebuilt as an autonomous AI operating system — running 24/7, with zero coach bottleneck, delivering measurable trait development across your entire organization.",
+      "description_fr": "Dharma Life Sciences a passé une décennie à prouver que les compétences liées aux traits de caractère sont développables, mesurables et directement liées à la performance organisationnelle. TraitOS est cette science, reconstruite comme un système d'exploitation d'IA autonome, fonctionnant 24h/24 et 7j/7, sans aucun goulot d'étranglement, permettant un développement de traits mesurables dans l'ensemble de votre organisation.",
+      "category": "AI & Machine Learning",
       "website": "https://trait-os.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T08:15:31.787776+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T11:20:06.740678+00:00"
     },
     {
       "name": "Cairn",
@@ -167179,12 +167185,15 @@
       "scraped_at": "2026-06-24T08:15:33.699229+00:00"
     },
     {
-      "name": "TinyNexOS",
+      "name": "TinyNex — The First AI Narrative for Your Best Friend",
       "slug": "polsia-tinynexos",
+      "description": "In a world where every device is listening, TinyNex makes a different promise: your dog's data belongs to your family, not a server farm. Every story generated stays on your device. We never see your pet. We never see your home.",
+      "description_fr": "Dans un monde où tous les appareils écoutent, TinyNex fait une promesse différente : les données de votre chien appartiennent à votre famille, pas à une batterie de serveurs. Chaque histoire générée reste sur votre appareil. Nous ne voyons jamais votre animal. Nous ne voyons jamais votre maison.",
+      "category": "AI & Machine Learning",
       "website": "https://tinynexos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T08:15:34.170123+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T11:20:09.057772+00:00"
     },
     {
       "name": "Epoch — AI Tooling for Robotics Developers",
@@ -167198,12 +167207,15 @@
       "scraped_at": "2026-06-24T08:15:35.436715+00:00"
     },
     {
-      "name": "Medivurs",
+      "name": "Medivurs — Medical Notes & Mind Maps from YouTube",
       "slug": "polsia-medivurs",
+      "description": "Paste any medical YouTube lecture. Get back structured notes and a mind map tailored for med school exams.",
+      "description_fr": "Collez n’importe quelle conférence médicale sur YouTube. Récupérez des notes structurées et une carte mentale adaptée aux examens des facultés de médecine.",
+      "category": "Health & Wellness",
       "website": "https://medivurs.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T08:15:35.776875+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T11:20:10.798116+00:00"
     },
     {
       "name": "nexaflow — AI Business Agent for African SMEs",
@@ -167226,6 +167238,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-24T08:15:38.086419+00:00"
+    },
+    {
+      "name": "AURIS",
+      "slug": "polsia-auris-watches",
+      "website": "https://auris-watches.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T11:19:38.538260+00:00"
+    },
+    {
+      "name": "AntaresOS",
+      "slug": "polsia-antaresos",
+      "website": "https://antaresos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T11:19:39.039842+00:00"
+    },
+    {
+      "name": "MarkThread — Print Your Story on Fabric",
+      "slug": "polsia-markthread",
+      "description": "MarkThread exists because good custom clothing should not require a bulk order, a graphic designer, or a two-week lead time. We built the service we wished existed when we were starting out — and we're making it available to anyone with a design and a reason to wear it.",
+      "description_fr": "MarkThread existe parce que de bons vêtements personnalisés ne devraient pas nécessiter une commande groupée, un graphiste ou un délai de livraison de deux semaines. Nous avons créé le service dont nous souhaitions exister à nos débuts – et nous le mettons à la disposition de toute personne ayant un design et une raison de le porter.",
+      "category": "Marketing & Advertising",
+      "website": "https://markthread.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T11:20:12.226485+00:00"
+    },
+    {
+      "name": "VilaFlow — AI Concierge for Lake Bled's Luxury Villas",
+      "slug": "polsia-vilaflow",
+      "description": "AI-powered 24/7 concierge service for luxury villa owners in the Lake Bled region. Handles guest communication, local recommendations, and booking coordination — without a human.",
+      "description_fr": "Service de conciergerie alimenté par l'IA 24h/24 et 7j/7 pour les propriétaires de villas de luxe dans la région du lac de Bled. Gère la communication avec les clients, les recommandations locales et la coordination des réservations, sans intervention humaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://vilaflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T11:19:40.490925+00:00"
+    },
+    {
+      "name": "OrbitLabs",
+      "slug": "polsia-orbitlabs-ai",
+      "description": "OrbitLabs exists because the operators who win aren't the ones who work hardest. They're the ones who know more. Every morning, before their competitors have opened a single tab, they already know what moved overnight and what to do about it.",
+      "description_fr": "OrbitLabs existe parce que les opérateurs qui gagnent ne sont pas ceux qui travaillent le plus dur. Ce sont eux qui en savent le plus. Chaque matin, avant que leurs concurrents n’ouvrent un seul onglet, ils savent déjà ce qui a bougé pendant la nuit et quoi faire à ce sujet.",
+      "category": "Other",
+      "website": "https://orbitlabs-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T11:19:41.893970+00:00"
+    },
+    {
+      "name": "BeatVault",
+      "slug": "polsia-beatvault-7",
+      "website": "https://beatvault-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T11:19:42.407208+00:00"
+    },
+    {
+      "name": "TumameOS",
+      "slug": "polsia-tumameos",
+      "website": "https://tumameos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T11:19:42.917709+00:00"
+    },
+    {
+      "name": "Aventix",
+      "slug": "polsia-aventix",
+      "website": "https://aventix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T11:19:43.292974+00:00"
+    },
+    {
+      "name": "Vestor — Intelligent Real Estate Investment",
+      "slug": "polsia-vestor-5",
+      "description": "Your investors receive personalized property briefs, progress reports, and pricing updates without you lifting a finger. Tone and content are tailored to their investment profile.",
+      "description_fr": "Vos investisseurs reçoivent des informations immobilières personnalisées, des rapports d'avancement et des mises à jour de prix sans que vous ayez à lever le petit doigt. Le ton et le contenu sont adaptés à leur profil d’investisseur.",
+      "category": "Real Estate",
+      "website": "https://vestor-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T11:19:45.018700+00:00"
+    },
+    {
+      "name": "Skedd — Autonomous Ticket Agent",
+      "slug": "polsia-skedd",
+      "description": "Skedd watches ticket inventory 24/7 and buys underpriced seats the moment they drop — before scalpers, before the rush, before you even hear about it.",
+      "description_fr": "Skedd surveille l'inventaire des billets 24 heures sur 24 et 7 jours sur 7 et achète des sièges sous-évalués dès qu'ils tombent – ​​avant les scalpers, avant la ruée, avant même que vous en entendiez parler.",
+      "category": "Other",
+      "website": "https://skedd.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T11:19:46.772693+00:00"
     }
   ]
 }
