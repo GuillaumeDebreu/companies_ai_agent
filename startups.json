@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T03:41:45.927810+00:00",
+  "last_updated": "2026-06-24T04:42:13.916841+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -166936,12 +166936,15 @@
       "scraped_at": "2026-06-24T00:15:45.289680+00:00"
     },
     {
-      "name": "ChiForge",
+      "name": "ChiForge — Chicago Youth Opportunities",
       "slug": "polsia-chiforge",
+      "description": "ChiForge is the platform that connects 16–25 year olds to the jobs, events, resources, and community opportunities that already exist across this city — and makes getting involved rewarding, not bureaucratic.",
+      "description_fr": "ChiForge est la plateforme qui connecte les 16 à 25 ans aux emplois, aux événements, aux ressources et aux opportunités communautaires qui existent déjà dans cette ville – et rend l'implication gratifiante et non bureaucratique.",
+      "category": "Software & SaaS",
       "website": "https://chiforge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T00:15:45.885167+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T04:42:06.789876+00:00"
     },
     {
       "name": "MouthBreaker — Wear the Truth",
@@ -166955,28 +166958,37 @@
       "scraped_at": "2026-06-24T00:16:15.059207+00:00"
     },
     {
-      "name": "ClearCommandOS",
+      "name": "ClearCommandOS — Operating System for Commercial Cleaning",
       "slug": "polsia-clearcommandos",
+      "description": "We specialize in recurring commercial janitorial contracts: office buildings, medical facilities, schools, churches, and light industrial spaces. When you need a clean that goes deeper, our one-time deep clean and post-construction final clean-up teams are ready to deliver.",
+      "description_fr": "Nous sommes spécialisés dans les contrats de conciergerie commerciale récurrents : immeubles de bureaux, installations médicales, écoles, églises et espaces industriels légers. Lorsque vous avez besoin d’un nettoyage plus profond, nos équipes de nettoyage en profondeur ponctuel et de nettoyage final après construction sont prêtes à vous le faire.",
+      "category": "Health & Wellness",
       "website": "https://clearcommandos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T00:15:46.968856+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T04:42:08.417512+00:00"
     },
     {
-      "name": "ResiFlow",
+      "name": "ResiFlow — Autonomous Student Housing Marketing",
       "slug": "polsia-resiflow",
+      "description": "ResiFlow is an autonomous AI agent that handles social content, event promotions, and leasing follow-up for student housing operators — 24/7, without a single human in the loop.",
+      "description_fr": "ResiFlow est un agent d'IA autonome qui gère le contenu social, les promotions d'événements et le suivi des baux pour les opérateurs de logements étudiants, 24h/24 et 7j/7, sans un seul humain dans la boucle.",
+      "category": "AI & Machine Learning",
       "website": "https://resiflow.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T00:15:47.508193+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T04:42:09.573649+00:00"
     },
     {
-      "name": "ComplyAgent",
+      "name": "ComplyAgent — AI Compliance for Fintech",
       "slug": "polsia-complyagent-2",
+      "description": "Autonomous AI compliance agents that monitor transactions 24/7, file SARs, and keep fintechs audit-ready around the clock.",
+      "description_fr": "Des agents de conformité IA autonomes qui surveillent les transactions 24 heures sur 24, 7 jours sur 7, déposent des DAS et maintiennent les fintechs prêtes à l'audit 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://complyagent-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T00:15:48.050697+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T04:42:11.294794+00:00"
     },
     {
       "name": "CloseIQ",
@@ -167015,6 +167027,95 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-06-24T00:15:51.989390+00:00"
+    },
+    {
+      "name": "LaunchpadOS",
+      "slug": "polsia-launchpados-91",
+      "website": "https://launchpados-91.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T04:41:47.968238+00:00"
+    },
+    {
+      "name": "KachgoOS",
+      "slug": "polsia-kachgoos",
+      "website": "https://kachgoos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T04:41:48.325965+00:00"
+    },
+    {
+      "name": "VantageGate",
+      "slug": "polsia-vantagegate",
+      "website": "https://vantagegate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T04:41:48.639460+00:00"
+    },
+    {
+      "name": "Nix",
+      "slug": "polsia-nix",
+      "website": "https://nix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T04:41:49.018486+00:00"
+    },
+    {
+      "name": "HarmonyForce",
+      "slug": "polsia-harmonyforce",
+      "website": "https://harmonyforce.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T04:41:49.373808+00:00"
+    },
+    {
+      "name": "HookSmart",
+      "slug": "polsia-hooksmart",
+      "website": "https://hooksmart.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T04:41:49.825622+00:00"
+    },
+    {
+      "name": "BullseyeOS — Precision Hiring for Tomorrow's Innovators",
+      "slug": "polsia-stavtech",
+      "description": "Traditional staffing firms match on keywords. RevenueLift understands your business context — compliance requirements, team dynamics, budget constraints — and finds you the partner that actually fits.",
+      "description_fr": "Les sociétés de recrutement traditionnelles correspondent à des mots-clés. RevenueLift comprend votre contexte commercial (exigences de conformité, dynamique d'équipe, contraintes budgétaires) et vous trouve le partenaire qui vous convient réellement.",
+      "category": "Other",
+      "website": "https://stavtech.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T04:41:51.529987+00:00"
+    },
+    {
+      "name": "DBPilot",
+      "slug": "polsia-dbpilot-3",
+      "website": "https://dbpilot-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T04:41:51.906012+00:00"
+    },
+    {
+      "name": "AchievementOS — Operating System for Achievement Educational Services",
+      "slug": "polsia-achievementos",
+      "description": "Every student who walks through your virtual door deserves an educator who isn't drowning in admin work. Every parent deserves to see their child's progress without asking. Every session deserves to be tracked, measured, and improved upon.",
+      "description_fr": "Chaque étudiant qui franchit votre porte virtuelle mérite un éducateur qui ne se noie pas dans le travail administratif. Chaque parent mérite de voir les progrès de son enfant sans le demander. Chaque session mérite d'être suivie, mesurée et améliorée.",
+      "category": "Education",
+      "website": "https://achievementos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T04:41:53.576476+00:00"
+    },
+    {
+      "name": "HashDrift — Browser & Server Mining for EPIC Cash",
+      "slug": "polsia-hashdrift",
+      "description": "HashDrift turns your browser into a miner and your server into a powerhouse. One platform, three algorithms, zero wasted compute. The future of EPIC Cash mining is accessible to everyone.",
+      "description_fr": "HashDrift transforme votre navigateur en mineur et votre serveur en centrale électrique. Une plateforme, trois algorithmes, zéro gaspillage de calcul. L’avenir du minage EPIC Cash est accessible à tous.",
+      "category": "Software & SaaS",
+      "website": "https://hashdrift.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T04:41:54.920255+00:00"
     }
   ]
 }
