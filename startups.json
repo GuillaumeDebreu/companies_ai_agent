@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T15:57:23.843780+00:00",
+  "last_updated": "2026-06-24T18:02:09.410483+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -167458,34 +167458,46 @@
     {
       "name": "B2BMotoren",
       "slug": "polsia-b2bmotoren",
+      "description": "AI-drevet leadgenerering til danske SMV'er — find, scorre og prioritér salgsleads med det samme.",
+      "description_fr": "Générer des leads par IA pour les SMV — trouver, sélectionner et prioriser les leads avec les mêmes.",
+      "category": "Sales & CRM",
       "website": "https://b2bmotoren.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T15:56:40.797090+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T18:01:56.980798+00:00"
     },
     {
-      "name": "TableFlip",
+      "name": "TableFlip — Social Media for Restaurants",
       "slug": "polsia-tableflip-2",
+      "description": "74% of diners choose a restaurant based on what they see on social media. That's not a trend — it's how restaurants are discovered now. The question isn't whether you need a presence. It's whether yours is working.",
+      "description_fr": "74 % des convives choisissent un restaurant en fonction de ce qu'ils voient sur les réseaux sociaux. Ce n'est pas une tendance, c'est la façon dont les restaurants sont découverts aujourd'hui. La question n’est pas de savoir si vous avez besoin d’une présence. Il s'agit de savoir si le vôtre fonctionne.",
+      "category": "Marketing & Advertising",
       "website": "https://tableflip-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T15:56:41.274060+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T18:01:58.462335+00:00"
     },
     {
       "name": "BrainStack",
       "slug": "polsia-brainstack-4",
+      "description": "BrainStack bouwt digitale AI-assistenten die repetitief werk overnemen voor KMO's. 25-75% minder werkdruk, gegarandeerd.",
+      "description_fr": "BrainStack utilise des assistants numériques pour le travail répétitif des KMO. 25 à 75 % de l'impression d'usine et de l'alimentation.",
+      "category": "AI & Machine Learning",
       "website": "https://brainstack-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T15:56:41.657571+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T18:02:00.215456+00:00"
     },
     {
-      "name": "RustCityOS",
+      "name": "RustCity Brandworks — End",
       "slug": "polsia-rustcityos",
+      "description": "Full-service graphic design and branding for businesses that mean business. Business cards, signs, decals, apparel, and brand strategy.",
+      "description_fr": "Service complet de conception graphique et de branding pour les entreprises sérieuses. Cartes de visite, panneaux, autocollants, vêtements et stratégie de marque.",
+      "category": "Marketing & Advertising",
       "website": "https://rustcityos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T15:56:42.024671+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T18:02:01.144094+00:00"
     },
     {
       "name": "GearStackOS — Autonomous IT Reseller Operations",
@@ -167541,6 +167553,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-24T15:56:53.286407+00:00"
+    },
+    {
+      "name": "Backbone",
+      "slug": "polsia-backbone-ai",
+      "website": "https://backbone-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T18:01:23.060187+00:00"
+    },
+    {
+      "name": "WrenchOps — Field Operations Platform for Mobile Mechanics",
+      "slug": "polsia-wrenchops-3",
+      "description": "Dispatch, inventory, invoicing, and scheduling — built for the crew on the road, not just the driver on the shoulder.",
+      "description_fr": "Répartition, inventaire, facturation et planification : conçus pour l'équipe sur la route, et pas seulement pour le conducteur sur l'épaule.",
+      "category": "Software & SaaS",
+      "website": "https://wrenchops-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T18:01:24.650895+00:00"
+    },
+    {
+      "name": "SankalpVerify",
+      "slug": "polsia-sankalpverify",
+      "website": "https://sankalpverify.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T18:01:30.223221+00:00"
+    },
+    {
+      "name": "RecruitFlow",
+      "slug": "polsia-recruitflow-ai",
+      "website": "https://recruitflow-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T18:01:30.762516+00:00"
+    },
+    {
+      "name": "FoundrOS — The Operating System for Serious Founders",
+      "slug": "polsia-foundr-os",
+      "description": "Stop managing your business in fragments. FoundrOS is the autonomous operating layer that runs your coaching practice end-to-end: leads, clients, content, and growth.",
+      "description_fr": "Arrêtez de gérer votre entreprise par fragments. FoundrOS est la couche opérationnelle autonome qui gère votre pratique de coaching de bout en bout : prospects, clients, contenu et croissance.",
+      "category": "Sales & CRM",
+      "website": "https://foundr-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T18:01:31.797366+00:00"
+    },
+    {
+      "name": "DeltacronOS — Your Agency, Autonomous",
+      "slug": "polsia-deltacronos",
+      "description": "Deltacron exists to help startups and SMBs make good ideas better and bring them to life. Since 2018, that mission has produced $3.5M in client funding raised, products shipped across North America, Europe, and Oceania, and a team that treats every build like it matters — because it does.",
+      "description_fr": "Deltacron existe pour aider les startups et les PME à améliorer les bonnes idées et à leur donner vie. Depuis 2018, cette mission a généré 3,5 millions de dollars de financement client, des produits expédiés en Amérique du Nord, en Europe et en Océanie, et une équipe qui traite chaque construction comme si elle était importante – parce que c'est le cas.",
+      "category": "Consulting & Services",
+      "website": "https://deltacronos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T18:02:08.736183+00:00"
+    },
+    {
+      "name": "PatchIn",
+      "slug": "polsia-patchin",
+      "website": "https://patchin.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T18:01:32.809478+00:00"
+    },
+    {
+      "name": "GreenRadar — Autonomous Climate Compliance",
+      "slug": "polsia-greenradar",
+      "description": "In 2010, FundApps showed that compliance automation could replace teams of lawyers doing the same work across firms. The same moment is coming for climate finance — and it's happening now.",
+      "description_fr": "En 2010, FundApps a montré que l’automatisation de la conformité pouvait remplacer les équipes d’avocats effectuant le même travail dans tous les cabinets. Le même moment arrive pour le financement climatique – et cela se produit maintenant.",
+      "category": "Sustainability & Green",
+      "website": "https://greenradar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T18:01:34.511919+00:00"
+    },
+    {
+      "name": "ImpactPulse",
+      "slug": "polsia-impactpulse-2",
+      "description": "AI-powered impact analytics for social enterprises — turning data into social change.",
+      "description_fr": "Analyse d'impact basée sur l'IA pour les entreprises sociales : transformer les données en changement social.",
+      "category": "AI & Machine Learning",
+      "website": "https://impactpulse-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T18:01:36.341639+00:00"
+    },
+    {
+      "name": "SkyLedgerOS",
+      "slug": "polsia-skyledgeros",
+      "website": "https://skyledgeros.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T18:01:36.836247+00:00"
     }
   ]
 }
