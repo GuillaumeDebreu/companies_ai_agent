@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T14:33:42.809517+00:00",
+  "last_updated": "2026-06-24T15:57:23.843780+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -167344,20 +167344,26 @@
       "scraped_at": "2026-06-24T11:19:46.772693+00:00"
     },
     {
-      "name": "Codeflow",
+      "name": "Codeflow — Your Senior Dev Who Never Sleeps",
       "slug": "polsia-codeflow-dev",
+      "description": "AI agent that reviews pull requests, writes tests, and fixes bugs autonomously. Your senior developer on autopilot.",
+      "description_fr": "Agent IA qui examine les demandes d'extraction, écrit des tests et corrige les bogues de manière autonome. Votre développeur senior en pilote automatique.",
+      "category": "AI & Machine Learning",
       "website": "https://codeflow-dev.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T13:32:27.130859+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T15:57:06.469772+00:00"
     },
     {
-      "name": "CramsBuild",
+      "name": "CramsBuild — Construction Built Right in Phoenix",
       "slug": "polsia-cramsbuild",
+      "description": "CramsBuild delivers precision garage door installation, entry systems, and smart home integration for residential and commercial clients across the Phoenix metro area.",
+      "description_fr": "CramsBuild fournit une installation précise de portes de garage, des systèmes d'entrée et une intégration de maison intelligente pour les clients résidentiels et commerciaux de la région métropolitaine de Phoenix.",
+      "category": "Other",
       "website": "https://cramsbuild.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T13:32:27.639680+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T15:57:08.150654+00:00"
     },
     {
       "name": "Staymate",
@@ -167395,12 +167401,15 @@
       "scraped_at": "2026-06-24T13:32:29.706286+00:00"
     },
     {
-      "name": "SiteFoundry",
+      "name": "SiteFoundry — AI Website Factory",
       "slug": "polsia-sitefoundry",
+      "description": "Our AI website generator runs on a proprietary prompt engine — refined over hundreds of builds — that produces clean, professional, launch-ready websites every time. No template reuse. No generic output. Every site is built specifically for your client's business type, location, and customers.",
+      "description_fr": "Notre générateur de sites Web IA fonctionne sur un moteur d’invite propriétaire – affiné au fil de centaines de versions – qui produit à chaque fois des sites Web propres, professionnels et prêts à être lancés. Aucune réutilisation du modèle. Aucune sortie générique. Chaque site est conçu spécifiquement pour le type d'entreprise, l'emplacement et les clients de votre client.",
+      "category": "AI & Machine Learning",
       "website": "https://sitefoundry.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T13:32:30.262401+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T15:57:10.569781+00:00"
     },
     {
       "name": "DripMint — AI Agents Working Around the Clock",
@@ -167434,6 +167443,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-24T13:32:35.212749+00:00"
+    },
+    {
+      "name": "Grain — AI Agents That Own Your Backlog",
+      "slug": "polsia-grain-ai-4",
+      "description": "Grain deploys AI agents that autonomously handle the operational work you keep deferring. Invoice follow-ups, client check-ins, payment chases. It works while you sleep.",
+      "description_fr": "Grain déploie des agents IA qui gèrent de manière autonome le travail opérationnel que vous continuez à reporter. Suivis des factures, check-ins clients, poursuites de paiement. Cela fonctionne pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://grain-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T15:57:12.124078+00:00"
+    },
+    {
+      "name": "B2BMotoren",
+      "slug": "polsia-b2bmotoren",
+      "website": "https://b2bmotoren.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T15:56:40.797090+00:00"
+    },
+    {
+      "name": "TableFlip",
+      "slug": "polsia-tableflip-2",
+      "website": "https://tableflip-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T15:56:41.274060+00:00"
+    },
+    {
+      "name": "BrainStack",
+      "slug": "polsia-brainstack-4",
+      "website": "https://brainstack-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T15:56:41.657571+00:00"
+    },
+    {
+      "name": "RustCityOS",
+      "slug": "polsia-rustcityos",
+      "website": "https://rustcityos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T15:56:42.024671+00:00"
+    },
+    {
+      "name": "GearStackOS — Autonomous IT Reseller Operations",
+      "slug": "polsia-gearstackos",
+      "description": "The system tracks every SKU against your sales history and supplier lead times. When stock dips below the reorder threshold, it alerts and initiates the quote process — before you even notice.",
+      "description_fr": "Le système suit chaque SKU par rapport à votre historique de ventes et aux délais de livraison des fournisseurs. Lorsque le stock descend en dessous du seuil de réapprovisionnement, il alerte et lance le processus de cotation – avant même que vous ne vous en rendiez compte.",
+      "category": "Sales & CRM",
+      "website": "https://gearstackos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T15:56:43.759718+00:00"
+    },
+    {
+      "name": "SubMind",
+      "slug": "polsia-submind",
+      "description": "Your AI guardian against unwanted subscription charges. SubMind monitors your recurring charges, trial periods, and billing cycles — automatically canceling unwanted trials before they convert.",
+      "description_fr": "Votre gardien IA contre les frais d'abonnement indésirables. SubMind surveille vos frais récurrents, vos périodes d'essai et vos cycles de facturation, annulant automatiquement les essais indésirables avant leur conversion.",
+      "category": "AI & Machine Learning",
+      "website": "https://submind.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T15:56:45.397212+00:00"
+    },
+    {
+      "name": "Parclose — AI",
+      "slug": "polsia-parclose",
+      "description": "When you hold the risk — you see the outcome. A software copilot reviews an SPA and disappears. Parclose binds the policy, processes the claim, and feeds that signal back into the underwriting model. Every accident year makes the next quote sharper.",
+      "description_fr": "Lorsque vous prenez le risque, vous voyez le résultat. Un copilote logiciel examine un SPA et disparaît. Parclose lie la police, traite la réclamation et réinjecte ce signal dans le modèle de souscription. Chaque année d’accident rend la citation suivante plus précise.",
+      "category": "AI & Machine Learning",
+      "website": "https://parclose.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T15:56:46.444990+00:00"
+    },
+    {
+      "name": "PaySentinel",
+      "slug": "polsia-paysentinel",
+      "description": "Autonomous invoice collection that never sleeps. AI-powered AR management for solo freelancers and independent contractors.",
+      "description_fr": "Une collecte de factures autonome qui ne dort jamais. Gestion de la RA basée sur l'IA pour les indépendants et les entrepreneurs indépendants.",
+      "category": "AI & Machine Learning",
+      "website": "https://paysentinel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T15:57:23.839006+00:00"
+    },
+    {
+      "name": "Oreca — Kitchen Appliances Made Better",
+      "slug": "polsia-orcaos-2",
+      "description": "Oreca manufactures and supplies kitchen chimneys, cooktops, and RO water purifiers across India — from Delhi to every Tier 2 city. We make kitchens work better.",
+      "description_fr": "Oreca fabrique et fournit des cheminées de cuisine, des tables de cuisson et des purificateurs d'eau RO dans toute l'Inde, de Delhi à toutes les villes de niveau 2. Nous améliorons le fonctionnement des cuisines.",
+      "category": "Food & Beverage",
+      "website": "https://orcaos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T15:56:53.286407+00:00"
     }
   ]
 }
