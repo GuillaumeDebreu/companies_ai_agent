@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T11:20:12.979195+00:00",
+  "last_updated": "2026-06-24T13:32:59.982637+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -167240,20 +167240,26 @@
       "scraped_at": "2026-06-24T08:15:38.086419+00:00"
     },
     {
-      "name": "AURIS",
+      "name": "AURIS — Modern Watches, Refined",
       "slug": "polsia-auris-watches",
+      "description": "AURIS is built for people who appreciate the difference between something made and something crafted. The collection launches Spring 2026.",
+      "description_fr": "AURIS est conçu pour les personnes qui apprécient la différence entre quelque chose de fait et quelque chose d'artisanal. La collection est lancée au printemps 2026.",
+      "category": "Other",
       "website": "https://auris-watches.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T11:19:38.538260+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T13:32:52.848105+00:00"
     },
     {
-      "name": "AntaresOS",
+      "name": "AntaresOS — The operating system for enterprise AI delivery",
       "slug": "polsia-antaresos",
+      "description": "QBot (branded internally as NRM8) deployed across NRMA's entire workforce. Staff now interact with AI personas as trusted workplace assistants — generating reports, answering questions, and solving problems in minutes, not days.",
+      "description_fr": "QBot (marqué en interne sous le nom de NRM8) déployé sur l'ensemble du personnel de la NRMA. Le personnel interagit désormais avec les personnages de l'IA en tant qu'assistants de confiance sur le lieu de travail, générant des rapports, répondant aux questions et résolvant les problèmes en quelques minutes, et non en quelques jours.",
+      "category": "AI & Machine Learning",
       "website": "https://antaresos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T11:19:39.039842+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T13:32:54.799672+00:00"
     },
     {
       "name": "MarkThread — Print Your Story on Fabric",
@@ -167297,12 +167303,15 @@
       "scraped_at": "2026-06-24T11:19:42.407208+00:00"
     },
     {
-      "name": "TumameOS",
+      "name": "Tumame — Kenya's Trusted Errand Platform",
       "slug": "polsia-tumameos",
+      "description": "Every day, busy Kenyans delegate the tasks that eat up their time — to runners they can trust, paid securely, handled completely. That's what Tumame does. Every day, at scale.",
+      "description_fr": "Chaque jour, des Kenyans très occupés délèguent les tâches qui leur prennent du temps à des coureurs en qui ils peuvent avoir confiance, payés en toute sécurité et entièrement gérés. C'est ce que fait Tumame. Chaque jour, à grande échelle.",
+      "category": "Software & SaaS",
       "website": "https://tumameos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T11:19:42.917709+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T13:32:56.837932+00:00"
     },
     {
       "name": "Aventix",
@@ -167333,6 +167342,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-24T11:19:46.772693+00:00"
+    },
+    {
+      "name": "Codeflow",
+      "slug": "polsia-codeflow-dev",
+      "website": "https://codeflow-dev.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T13:32:27.130859+00:00"
+    },
+    {
+      "name": "CramsBuild",
+      "slug": "polsia-cramsbuild",
+      "website": "https://cramsbuild.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T13:32:27.639680+00:00"
+    },
+    {
+      "name": "Staymate",
+      "slug": "polsia-staymate-7",
+      "website": "https://staymate-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T13:32:28.094804+00:00"
+    },
+    {
+      "name": "DropMuse — Digital Products for the Modern Creator",
+      "slug": "polsia-dropmuse",
+      "description": "Validate your product ideas with digital downloads. Scale to print-on-demand. Build a cluster of niche Etsy stores that run themselves.",
+      "description_fr": "Validez vos idées de produits avec des téléchargements numériques. Adaptez-vous à l’impression à la demande. Créez un groupe de boutiques Etsy de niche qui fonctionnent elles-mêmes.",
+      "category": "E-Commerce & Retail",
+      "website": "https://dropmuse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T13:32:59.046780+00:00"
+    },
+    {
+      "name": "LaunchDeck",
+      "slug": "polsia-launchdeck-97",
+      "website": "https://launchdeck-97.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T13:32:29.105681+00:00"
+    },
+    {
+      "name": "Feast",
+      "slug": "polsia-untitled-1782307758011-sum2",
+      "website": "https://untitled-1782307758011-sum2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T13:32:29.706286+00:00"
+    },
+    {
+      "name": "SiteFoundry",
+      "slug": "polsia-sitefoundry",
+      "website": "https://sitefoundry.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T13:32:30.262401+00:00"
+    },
+    {
+      "name": "DripMint — AI Agents Working Around the Clock",
+      "slug": "polsia-dripmint-2",
+      "description": "AI agents that autonomously create, buy, and sell digital assets 24/7. Every dollar lands in your Stripe account. No permission needed.",
+      "description_fr": "Des agents d'IA qui créent, achètent et vendent de manière autonome des actifs numériques 24h/24 et 7j/7. Chaque dollar atterrit sur votre compte Stripe. Aucune autorisation nécessaire.",
+      "category": "AI & Machine Learning",
+      "website": "https://dripmint-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T13:32:31.843728+00:00"
+    },
+    {
+      "name": "SocialCraft — Social Media Management for Small Business",
+      "slug": "polsia-socialcraft-2",
+      "description": "Professional social media management for small businesses. Strategy, content, scheduling, and analytics — starting at $499/month.",
+      "description_fr": "Gestion professionnelle des médias sociaux pour les petites entreprises. Stratégie, contenu, planification et analyses — à partir de 499 $/mois.",
+      "category": "Entertainment & Media",
+      "website": "https://socialcraft-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T13:32:33.296335+00:00"
+    },
+    {
+      "name": "YardPatrol — All",
+      "slug": "polsia-yardpatrol",
+      "description": "Autonomous robots that mow, blow, and clear snow. Year-round. No equipment to own.",
+      "description_fr": "Des robots autonomes qui tondent, soufflent et déblayent la neige. Toute l'année. Aucun équipement à posséder.",
+      "category": "Other",
+      "website": "https://yardpatrol.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T13:32:35.212749+00:00"
     }
   ]
 }
