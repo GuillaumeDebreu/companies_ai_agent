@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T20:02:14.156342+00:00",
+  "last_updated": "2026-06-24T21:41:10.743971+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -167683,10 +167683,13 @@
     {
       "name": "AmbientIQ",
       "slug": "polsia-ambientiq",
+      "description": "Turn buildings into self-managing, profitable assets with ambient AI intelligence.",
+      "description_fr": "Transformez les bâtiments en actifs rentables et autogérés grâce à l’intelligence artificielle ambiante.",
+      "category": "AI & Machine Learning",
       "website": "https://ambientiq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T20:01:19.067156+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T21:41:08.224543+00:00"
     },
     {
       "name": "Nudge — Behaviour Change, Powered by Science",
@@ -167702,10 +167705,13 @@
     {
       "name": "Lattice AI",
       "slug": "polsia-lattice-ai-2",
+      "description": "Autonomous AI agents that automate complex knowledge work for professional services firms — research, analysis, drafting, and review at scale.",
+      "description_fr": "Agents d'IA autonomes qui automatisent le travail de connaissances complexes pour les entreprises de services professionnels : recherche, analyse, rédaction et révision à grande échelle.",
+      "category": "AI & Machine Learning",
       "website": "https://lattice-ai-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T20:01:24.920815+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T21:41:09.329207+00:00"
     },
     {
       "name": "WebCraftOS — The Operating System for AR WebCrafts",
@@ -167758,6 +167764,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-24T20:01:30.433961+00:00"
+    },
+    {
+      "name": "UntitledOS",
+      "slug": "polsia-untitledos-2",
+      "website": "https://untitledos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T21:40:38.071702+00:00"
+    },
+    {
+      "name": "AtriumsOS",
+      "slug": "polsia-atriumsos",
+      "website": "https://atriumsos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T21:40:38.656185+00:00"
+    },
+    {
+      "name": "StackMark",
+      "slug": "polsia-stackmark-2",
+      "website": "https://stackmark-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T21:40:39.167384+00:00"
+    },
+    {
+      "name": "WreckOS — 24/7 Towing & Junk Car Removal, Hazleton PA",
+      "slug": "polsia-wreckos",
+      "description": "WreckOS runs WRECK Transport — flatbed towing, roadside assistance, and junk car pickup across the Hazleton area. Available any hour.",
+      "description_fr": "WreckOS gère WRECK Transport – remorquage à plat, assistance routière et ramassage de voitures indésirables dans la région de Hazleton. Disponible à toute heure.",
+      "category": "Other",
+      "website": "https://wreckos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T21:40:41.003054+00:00"
+    },
+    {
+      "name": "TaskFlow — Your AI Freelance Agent",
+      "slug": "polsia-taskflow-ai-10",
+      "description": "TaskFlow monitors clients, sends updates, chases payments, and assigns work — while you focus on billable hours.",
+      "description_fr": "TaskFlow surveille les clients, envoie des mises à jour, recherche les paiements et attribue le travail, pendant que vous vous concentrez sur les heures facturables.",
+      "category": "AI & Machine Learning",
+      "website": "https://taskflow-ai-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T21:40:41.954739+00:00"
+    },
+    {
+      "name": "ShieldStack — The Media Buyer's Command Center",
+      "slug": "polsia-shieldstack-3",
+      "description": "Operating system for media buyers running paid ads on client budgets. Guardrails, alerts, and reporting — everything runs itself from here.",
+      "description_fr": "Système d'exploitation pour les acheteurs de médias diffusant des publicités payantes sur les budgets des clients. Garde-fous, alertes et rapports : tout se déroule tout seul à partir de là.",
+      "category": "Marketing & Advertising",
+      "website": "https://shieldstack-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T21:40:43.184948+00:00"
+    },
+    {
+      "name": "WickWool — Craft Supplies for the Handmade Home",
+      "slug": "polsia-wickwool",
+      "description": "Curated macrame kits, wool yarn, and artisan home decor. Built for craft housewives who want to make beautiful things.",
+      "description_fr": "Kits de macramé sélectionnés, fils de laine et décoration artisanale. Conçu pour les ménagères artisanales qui veulent réaliser de belles choses.",
+      "category": "Sustainability & Green",
+      "website": "https://wickwool.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T21:40:44.138982+00:00"
+    },
+    {
+      "name": "Launchdeck — AI Landing Page Agent",
+      "slug": "polsia-launchdeck-98",
+      "description": "You hired a freelancer. They built a site. Three months later it looks dated, the copy is wrong, and you don't want to bother them to fix it. So it just sits there. Dragging. You needed a landing page — what you got was a static artifact. Launchdeck is different. It's not a builder you use. It's an employee that owns your landing page and works on it full time.",
+      "description_fr": "Vous avez embauché un pigiste. Ils ont construit un site. Trois mois plus tard, elle semble datée, la copie est erronée et vous ne voulez pas les déranger pour la réparer. Donc ça reste là. Traîner. Vous aviez besoin d'une page de destination – ce que vous obteniez était un artefact statique. Le Launchdeck est différent. Ce n'est pas un constructeur que vous utilisez. C'est un employé qui est propriétaire de votre page de destination et qui y travaille à temps plein.",
+      "category": "AI & Machine Learning",
+      "website": "https://launchdeck-98.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T21:40:45.911098+00:00"
+    },
+    {
+      "name": "Orbit — AI Ad Agent",
+      "slug": "polsia-orbit-ad-2",
+      "description": "Orbit is an AI agent that builds, launches, and optimizes your Meta and Google ad campaigns — without you lifting a finger after the first brief.",
+      "description_fr": "Orbit est un agent d'IA qui crée, lance et optimise vos campagnes publicitaires Meta et Google, sans que vous leviez le petit doigt après le premier brief.",
+      "category": "AI & Machine Learning",
+      "website": "https://orbit-ad-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T21:40:47.433939+00:00"
+    },
+    {
+      "name": "Strida — AI Sports Performance Coach",
+      "slug": "polsia-strida-ai",
+      "description": "Autonomous AI coach that monitors athletes daily, builds personalized training plans, and handles scout outreach — 24/7.",
+      "description_fr": "Coach IA autonome qui surveille quotidiennement les athlètes, élabore des plans d'entraînement personnalisés et gère la sensibilisation des scouts, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://strida-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T21:40:48.522052+00:00"
     }
   ]
 }
