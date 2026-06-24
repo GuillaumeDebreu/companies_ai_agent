@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T23:19:43.666024+00:00",
+  "last_updated": "2026-06-24T00:16:16.772993+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -166818,20 +166818,26 @@
       "scraped_at": "2026-06-23T22:03:15.126828+00:00"
     },
     {
-      "name": "Scout Automate",
+      "name": "Scout Automate — AI Automation for Service Businesses",
       "slug": "polsia-scout-automate",
+      "description": "The problem isn't the people. It's the systems. A solo dentist shouldn't need a full-time receptionist to compete with a clinic that has automated everything. That's the gap we're built to close.",
+      "description_fr": "Le problème, ce ne sont pas les gens. Ce sont les systèmes. Un dentiste solo ne devrait pas avoir besoin d’une réceptionniste à temps plein pour rivaliser avec une clinique qui a tout automatisé. C’est l’écart que nous sommes censés combler.",
+      "category": "AI & Machine Learning",
       "website": "https://scout-automate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-23T23:18:51.662743+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T00:16:09.895700+00:00"
     },
     {
       "name": "ClearMiles",
       "slug": "polsia-clearmiles",
+      "description": "Real talk about what cars are actually like to live with. No gearhead jargon. No sponsored gloss. Just what you need to know before you spend $48,000.",
+      "description_fr": "De vrais discours sur la façon dont les voitures sont réellement vécues. Pas de jargon de réducteur. Pas de gloss sponsorisé. Exactement ce que vous devez savoir avant de dépenser 48 000 $.",
+      "category": "Marketing & Advertising",
       "website": "https://clearmiles.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-23T23:18:52.115802+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T00:16:11.576181+00:00"
     },
     {
       "name": "TradeScout — AI Market Scouting Agent",
@@ -166845,12 +166851,15 @@
       "scraped_at": "2026-06-23T23:19:43.369688+00:00"
     },
     {
-      "name": "LumiFlowOS",
+      "name": "LuminaPay",
       "slug": "polsia-lumiflowos",
+      "description": "حوّل USDT وETH وBNB إلى بطاقة فيزا فورية. نظام آلي بالكامل، أمان مؤسسي، وأقل رسوم في السوق.",
+      "description_fr": "Il s'agit de l'USDT, de l'ETH et du BNB. نظام آلي بالكامل، أمان مؤسسي، وأقل رسوم في السوق.",
+      "category": "Other",
       "website": "https://lumiflowos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-23T23:18:52.983283+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-24T00:16:12.953489+00:00"
     },
     {
       "name": "AgentecOS — Operating System for Workflow Automation",
@@ -166917,6 +166926,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-23T23:19:01.230682+00:00"
+    },
+    {
+      "name": "Power Pulse",
+      "slug": "polsia-power-pulse",
+      "website": "https://power-pulse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T00:15:45.289680+00:00"
+    },
+    {
+      "name": "ChiForge",
+      "slug": "polsia-chiforge",
+      "website": "https://chiforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T00:15:45.885167+00:00"
+    },
+    {
+      "name": "MouthBreaker — Wear the Truth",
+      "slug": "polsia-mouthbreaker",
+      "description": "Our audience is anyone who's exhausted. Doesn't matter if you rage against the right or the left. If you're tired of the performance, you're here.",
+      "description_fr": "Notre public est composé de tous ceux qui sont épuisés. Peu importe que vous soyez en colère contre la droite ou contre la gauche. Si vous en avez marre du spectacle, vous êtes là.",
+      "category": "Other",
+      "website": "https://mouthbreaker.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T00:16:15.059207+00:00"
+    },
+    {
+      "name": "ClearCommandOS",
+      "slug": "polsia-clearcommandos",
+      "website": "https://clearcommandos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T00:15:46.968856+00:00"
+    },
+    {
+      "name": "ResiFlow",
+      "slug": "polsia-resiflow",
+      "website": "https://resiflow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T00:15:47.508193+00:00"
+    },
+    {
+      "name": "ComplyAgent",
+      "slug": "polsia-complyagent-2",
+      "website": "https://complyagent-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T00:15:48.050697+00:00"
+    },
+    {
+      "name": "CloseIQ",
+      "slug": "polsia-closeiq-13",
+      "website": "https://closeiq-13.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T00:15:48.600290+00:00"
+    },
+    {
+      "name": "NestIQOS",
+      "slug": "polsia-nestiqos",
+      "description": "Amazon is chaos. Boutique shops are slow. NestIQ sits in the gap, curating smart tech and wellness products people actually want. NestIQOS makes sure nothing slips through the cracks while you scale.",
+      "description_fr": "Amazon est le chaos. Les boutiques sont lentes. NestIQ se situe dans la brèche, en proposant des produits de technologie intelligente et de bien-être que les gens souhaitent réellement. NestIQOS veille à ce que rien ne passe entre les mailles du filet pendant votre évolution.",
+      "category": "E-Commerce & Retail",
+      "website": "https://nestiqos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T00:15:50.291231+00:00"
+    },
+    {
+      "name": "DeskOps — AI Agents for Coworking Operators",
+      "slug": "polsia-deskops-15",
+      "description": "Answers every inquiry — across email, web form, and SMS — within minutes. Handles booking changes, day pass extensions, tour scheduling, and common billing questions. Escalates nothing unless it's outside your policy.",
+      "description_fr": "Répond à toutes les demandes (par e-mail, formulaire Web et SMS) en quelques minutes. Gère les modifications de réservation, les extensions de pass journaliers, la planification des visites et les questions courantes sur la facturation. Ne fait rien remonter à moins que cela ne soit en dehors de votre politique.",
+      "category": "AI & Machine Learning",
+      "website": "https://deskops-15.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-24T00:15:51.405408+00:00"
+    },
+    {
+      "name": "ClarityIQ",
+      "slug": "polsia-clarityiq-3",
+      "website": "https://clarityiq-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-24T00:15:51.989390+00:00"
     }
   ]
 }
