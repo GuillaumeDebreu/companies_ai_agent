@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T14:35:31.551507+00:00",
+  "last_updated": "2026-06-25T15:46:00.842516+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -168399,12 +168399,15 @@
       "scraped_at": "2026-06-25T10:49:57.283780+00:00"
     },
     {
-      "name": "Tempo",
+      "name": "Tempo — Weekly product intelligence digests for SaaS founders",
       "slug": "polsia-tempo-3",
+      "description": "Tempo monitors your app store reviews, Reddit mentions, and forums, then writes you a narrative digest every Monday. The researcher you don't have to manage.",
+      "description_fr": "Tempo surveille les critiques de votre boutique d'applications, les mentions Reddit et les forums, puis vous rédige un résumé narratif tous les lundis. Le chercheur, vous n'avez pas à le gérer.",
+      "category": "Software & SaaS",
       "website": "https://tempo-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T13:08:29.447209+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-25T15:45:51.445223+00:00"
     },
     {
       "name": "MotoPilot — Autonomous Social Media for Motocross Athletes",
@@ -168445,12 +168448,15 @@
       "scraped_at": "2026-06-25T13:08:34.344350+00:00"
     },
     {
-      "name": "OrionEngineOS",
+      "name": "ORION — A Search Engine for Market History",
       "slug": "polsia-orionengineos",
+      "description": "ORION is a search engine for market history. Type any ticker, ratio, or date. It surfaces the windows that rhyme with today, the distribution of what followed, and tracks the call until it resolves.",
+      "description_fr": "ORION est un moteur de recherche sur l'historique du marché. Tapez n’importe quel ticker, ratio ou date. Il fait apparaître les fenêtres qui riment avec aujourd'hui, la distribution de ce qui a suivi et suit l'appel jusqu'à sa résolution.",
+      "category": "Other",
       "website": "https://orionengineos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T13:08:34.955549+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-25T15:45:53.487823+00:00"
     },
     {
       "name": "Lighthouse — AI Safety Agent",
@@ -168492,6 +168498,101 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-06-25T13:08:41.687512+00:00"
+    },
+    {
+      "name": "HolyUnion",
+      "slug": "polsia-holyunion",
+      "website": "https://holyunion.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T15:45:21.532845+00:00"
+    },
+    {
+      "name": "Wingman",
+      "slug": "polsia-wingman-dev",
+      "website": "https://wingman-dev.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T15:45:22.154435+00:00"
+    },
+    {
+      "name": "Shipsmith",
+      "slug": "polsia-shipsmith-7",
+      "website": "https://shipsmith-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T15:45:27.659526+00:00"
+    },
+    {
+      "name": "VELO",
+      "slug": "polsia-velo-3",
+      "website": "https://velo-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T15:45:28.074531+00:00"
+    },
+    {
+      "name": "TriageDesk — Structured Incident Triage for Modern Security Teams",
+      "slug": "polsia-triagedesk-2",
+      "description": "Audit-ready incident triage, compliance reporting, and multi-client workspace tooling for solo operators, SMBs, and security advisors. Built from Switzerland.",
+      "description_fr": "Triage des incidents prêt pour l'audit, reporting de conformité et outils d'espace de travail multi-clients pour les opérateurs individuels, les PME et les conseillers en sécurité. Construit en Suisse.",
+      "category": "Other",
+      "website": "https://triagedesk-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T15:45:30.120350+00:00"
+    },
+    {
+      "name": "Arcfield",
+      "slug": "polsia-arcfield-3",
+      "website": "https://arcfield-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T15:45:30.497611+00:00"
+    },
+    {
+      "name": "Shiftwave — The AI Sales Agent That Never Stops",
+      "slug": "polsia-shiftwave-ai",
+      "description": "A human SDR doing this manually: 40 hours of research, list building, and sequencing per week. Shiftwave does it continuously — and compounds. More signals detected, more accounts watched, more opportunities surfaced. The gap grows every month.",
+      "description_fr": "Un SDR humain faisant cela manuellement : 40 heures de recherche, de création de listes et de séquençage par semaine. Shiftwave le fait en continu – et compose. Plus de signaux détectés, plus de comptes surveillés, plus d'opportunités sont apparues. L’écart se creuse chaque mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://shiftwave-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T15:45:32.289845+00:00"
+    },
+    {
+      "name": "BoekBorg",
+      "slug": "polsia-boekborg",
+      "description": "BoekBorg is offline-first bookkeeping for Dutch SMEs and ZZP'ers. Set up in 48 hours, works when everything else is down.",
+      "description_fr": "BoekBorg est la première comptabilité hors ligne destinée aux PME et aux ZZP néerlandais. Installé en 48 heures, fonctionne lorsque tout le reste est en panne.",
+      "category": "Other",
+      "website": "https://boekborg.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T15:45:33.326052+00:00"
+    },
+    {
+      "name": "Stackflow — Autonomous AI Agents for Developers",
+      "slug": "polsia-stackflow-ai-9",
+      "description": "The developers winning in 2026 aren't the ones with the best autocomplete. They're the ones who gave themselves a team of agents that ship code around the clock.",
+      "description_fr": "Les développeurs gagnants en 2026 ne sont pas ceux qui disposent de la meilleure saisie semi-automatique. Ce sont eux qui se sont dotés d’une équipe d’agents qui expédient le code 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://stackflow-ai-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T15:45:34.299920+00:00"
+    },
+    {
+      "name": "FieldStack",
+      "slug": "polsia-fieldstack-31",
+      "description": "FieldStack isn't for enterprises with a CIO and a six-month implementation. It's for the landscaper who runs his own jobs, the cleaner who has two vans, the electrician who's growing. People who want help, not a manual to read.",
+      "description_fr": "FieldStack n'est pas destiné aux entreprises disposant d'un CIO et d'une mise en œuvre sur six mois. C'est pour le paysagiste qui gère son propre emploi, le nettoyeur qui possède deux camionnettes, l'électricien qui cultive. Des gens qui veulent de l'aide, pas un manuel à lire.",
+      "category": "Other",
+      "website": "https://fieldstack-31.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T15:45:35.501861+00:00"
     }
   ]
 }
