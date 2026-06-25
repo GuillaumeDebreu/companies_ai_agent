@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T20:02:16.778286+00:00",
+  "last_updated": "2026-06-25T20:06:23.865666+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -168609,10 +168609,13 @@
     {
       "name": "Amarillo Concerts",
       "slug": "polsia-amarillo-concerts",
+      "description": "Conciertos en vivo que conectan al Panhandle texano",
+      "description_fr": "Conciertos en vivo que conectan al Panhandle texano",
+      "category": "Other",
       "website": "https://amarillo-concerts.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T17:56:51.257204+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-25T20:06:18.896664+00:00"
     },
     {
       "name": "ScoopDrop",
@@ -168623,12 +168626,15 @@
       "scraped_at": "2026-06-25T17:56:52.300625+00:00"
     },
     {
-      "name": "CraftFrame",
+      "name": "CraftFrame — Custom Homes Built Smarter",
       "slug": "polsia-craftframe",
+      "description": "From ranch houses on acreage near Broken Bow to kitchen remodels in Antlers, CraftFrame handles custom homes and full-scale renovation across the Kiamichi region. We know the land, the clients, and what lasts here.",
+      "description_fr": "Des ranchs sur une superficie près de Broken Bow aux rénovations de cuisines à Antlers, CraftFrame gère les maisons personnalisées et la rénovation à grande échelle dans la région de Kiamichi. Nous connaissons le terrain, les clients et ce qui reste ici.",
+      "category": "Food & Beverage",
       "website": "https://craftframe.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T17:56:52.799780+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-25T20:06:20.619366+00:00"
     },
     {
       "name": "BaseRest — The Last Tent You'll Buy",
@@ -168653,12 +168659,15 @@
       "scraped_at": "2026-06-25T17:56:54.554145+00:00"
     },
     {
-      "name": "ExoPrimeOS",
+      "name": "ExoPrimeOS — Regenerative Skincare Operations",
       "slug": "polsia-exoprimeos",
+      "description": "The operating system for ExoPrime International, powering exosome skincare operations at scale.",
+      "description_fr": "Le système d'exploitation d'ExoPrime International, qui alimente les opérations de soins de la peau des exosomes à grande échelle.",
+      "category": "Other",
       "website": "https://exoprimeos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T17:56:55.344595+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-25T20:06:21.590205+00:00"
     },
     {
       "name": "Meridian",
@@ -168703,6 +168712,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-25T17:56:59.988039+00:00"
+    },
+    {
+      "name": "Outbound",
+      "slug": "polsia-outbound-ai-42",
+      "website": "https://outbound-ai-42.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T20:05:49.963051+00:00"
+    },
+    {
+      "name": "Meridian — Autonomous AI Compliance",
+      "slug": "polsia-meridian-ai-206f9d",
+      "description": "The EU AI Act requires that high-risk AI systems maintain logs of their decisions, enable human oversight, and produce audit trails on demand. If you're deploying agents in Europe — or selling to EU companies — compliance isn't optional. It's the price of entry.",
+      "description_fr": "La loi européenne sur l’IA exige que les systèmes d’IA à haut risque conservent des journaux de leurs décisions, permettent une surveillance humaine et produisent des pistes d’audit à la demande. Si vous déployez des agents en Europe ou si vous vendez à des entreprises européennes, la conformité n'est pas facultative. C'est le prix d'entrée.",
+      "category": "AI & Machine Learning",
+      "website": "https://meridian-ai-206f9d.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T20:05:51.300360+00:00"
+    },
+    {
+      "name": "GreenTrace — AI",
+      "slug": "polsia-greentraceos",
+      "description": "The operating system for sustainability consultancies. Automate ESG reporting, track client progress, and close more business with intelligent client management.",
+      "description_fr": "Le système d'exploitation pour les conseils en développement durable. Automatisez les rapports ESG, suivez les progrès des clients et concluez davantage d'affaires grâce à une gestion intelligente des clients.",
+      "category": "AI & Machine Learning",
+      "website": "https://greentraceos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T20:05:52.251928+00:00"
+    },
+    {
+      "name": "PipelineOps AI",
+      "slug": "polsia-pipelineops-ai",
+      "website": "https://pipelineops-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T20:05:52.550119+00:00"
+    },
+    {
+      "name": "$sim",
+      "slug": "polsia-sim",
+      "website": "https://sim.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T20:05:52.886201+00:00"
+    },
+    {
+      "name": "M.E.M.C — Make Every Moment Count",
+      "slug": "polsia-memcos",
+      "description": "M.E.M.C was born from the belief that ordinary days are worth extraordinary attention. Each piece is designed to make you stop — and make the most of whatever comes next. Not a brand about aesthetics alone. A brand about intention. The shirt you reach for on a hard day. The sticker that stays on your laptop forever. The mug that holds your morning ritual.",
+      "description_fr": "M.E.M.C est né de la conviction que les journées ordinaires méritent une attention extraordinaire. Chaque pièce est conçue pour vous faire arrêter et tirer le meilleur parti de ce qui va suivre. Ce n’est pas seulement une marque axée sur l’esthétique. Une marque qui parle d'intention. La chemise que vous portez lors d’une dure journée. L'autocollant qui reste pour toujours sur votre ordinateur portable. Le mug qui contient votre rituel matinal.",
+      "category": "Marketing & Advertising",
+      "website": "https://memcos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T20:05:54.598094+00:00"
+    },
+    {
+      "name": "RepriceIQ",
+      "slug": "polsia-repriceiq-2",
+      "description": "Win the Buy Box with AI-driven repricing that responds in milliseconds. Monitor competitors across Amazon, eBay, Walmart, and Google Shopping.",
+      "description_fr": "Gagnez la Buy Box avec une retarification basée sur l'IA qui répond en quelques millisecondes. Surveillez les concurrents sur Amazon, eBay, Walmart et Google Shopping.",
+      "category": "AI & Machine Learning",
+      "website": "https://repriceiq-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T20:06:23.862221+00:00"
+    },
+    {
+      "name": "YieldNode",
+      "slug": "polsia-yieldnode",
+      "description": "Most semiconductor fabs monitor their equipment with dashboards built for the 2000s. Engineers get batched reports twice a day, context is lost at shift change, and by the time an anomaly surfaces in a chart, the damage to yield is already done.",
+      "description_fr": "La plupart des usines de semi-conducteurs surveillent leurs équipements avec des tableaux de bord construits pour les années 2000. Les ingénieurs reçoivent des rapports groupés deux fois par jour, le contexte est perdu lors d'un changement d'équipe et au moment où une anomalie apparaît dans un graphique, les dommages au rendement sont déjà causés.",
+      "category": "Software & SaaS",
+      "website": "https://yieldnode.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T20:06:01.480236+00:00"
+    },
+    {
+      "name": "Elets Technomedia",
+      "slug": "polsia-elets-technomedia",
+      "description": "India's fastest-growing B2B media and events company powering knowledge exchange across governance, healthcare, education, and enterprise technology since 2003.",
+      "description_fr": "La société indienne de médias et d'événements B2B à la croissance la plus rapide, favorisant l'échange de connaissances dans les domaines de la gouvernance, des soins de santé, de l'éducation et des technologies d'entreprise depuis 2003.",
+      "category": "Health & Wellness",
+      "website": "https://elets-technomedia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T20:06:03.209970+00:00"
+    },
+    {
+      "name": "UrbanThreads — Streetwear for the Culture",
+      "slug": "polsia-urbanthreads",
+      "description": "Affordable African American-designed streetwear. Trending dropshipped pieces from $5 to $100. Built for the culture.",
+      "description_fr": "Un streetwear abordable de conception afro-américaine. Pièces tendance en dropshipping de 5 $ à 100 $. Construit pour la culture.",
+      "category": "Other",
+      "website": "https://urbanthreads.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T20:06:04.392413+00:00"
     }
   ]
 }
