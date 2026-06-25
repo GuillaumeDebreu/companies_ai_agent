@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T22:52:41.174258+00:00",
+  "last_updated": "2026-06-25T00:04:11.642546+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -167873,12 +167873,15 @@
       "scraped_at": "2026-06-24T21:40:48.522052+00:00"
     },
     {
-      "name": "SecondStepOS",
+      "name": "The Second Step — Reentry Ministry",
       "slug": "polsia-secondstepos",
+      "description": "A faith-rooted reentry ministry providing housing, employment, mentorship, and advocacy for returning citizens.",
+      "description_fr": "Un ministère de réintégration enraciné dans la foi offrant un logement, un emploi, un mentorat et un plaidoyer aux citoyens de retour.",
+      "category": "Education",
       "website": "https://secondstepos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-24T22:52:14.685282+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-25T00:04:10.380237+00:00"
     },
     {
       "name": "HomeHaven",
@@ -167972,6 +167975,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-24T22:52:23.090179+00:00"
+    },
+    {
+      "name": "Spaceflow",
+      "slug": "polsia-spaceflow-3",
+      "website": "https://spaceflow-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T00:03:39.917938+00:00"
+    },
+    {
+      "name": "ShipOS",
+      "slug": "polsia-shipos-13",
+      "website": "https://shipos-13.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T00:03:40.526842+00:00"
+    },
+    {
+      "name": "Threshold — Human",
+      "slug": "polsia-threshold-8",
+      "description": "Threshold is a coaching and retreat agency offering 1:1 coaching and immersive experiences built around human-centered transformation.",
+      "description_fr": "Threshold est une agence de coaching et de retraite proposant un coaching individuel et des expériences immersives construites autour d'une transformation centrée sur l'humain.",
+      "category": "Education",
+      "website": "https://threshold-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T00:03:46.198495+00:00"
+    },
+    {
+      "name": "OmniMatch — Matched by who you are",
+      "slug": "polsia-omnimatch",
+      "description": "Most platforms do one thing. OmniMatch does everything — because your career, your co-founder, your mentor, and your partner aren't separate problems. They're the same underlying problem: finding the right people who get you.",
+      "description_fr": "La plupart des plateformes font une chose. OmniMatch fait tout, parce que votre carrière, votre co-fondateur, votre mentor et votre partenaire ne sont pas des problèmes distincts. C'est le même problème sous-jacent : trouver les bonnes personnes qui vous comprennent.",
+      "category": "Software & SaaS",
+      "website": "https://omnimatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T00:03:47.829059+00:00"
+    },
+    {
+      "name": "SparkleOS",
+      "slug": "polsia-sparkleos-8",
+      "description": "\"Before SparkleOS, I was managing everything through text messages and sticky notes. Jobs would slip through the cracks. Now my whole team sees today's schedule at a glance — and my clients get automatic updates so they know we're on the way.\"",
+      "description_fr": "\"Avant SparkleOS, je gérais tout via des messages texte et des notes autocollantes. Les tâches passaient entre les mailles du filet. Désormais, toute mon équipe voit le planning du jour en un coup d'œil - et mes clients reçoivent des mises à jour automatiques pour savoir que nous sommes en route.\"",
+      "category": "Other",
+      "website": "https://sparkleos-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T00:03:49.613443+00:00"
+    },
+    {
+      "name": "CrewOps — Your AI Recruiting Agent",
+      "slug": "polsia-crewops-10",
+      "description": "CrewOps is an autonomous AI agent that sources, screens, schedules, and onboard candidates for your company — 24/7, without manual effort.",
+      "description_fr": "CrewOps est un agent d'IA autonome qui recherche, sélectionne, planifie et intègre les candidats pour votre entreprise, 24h/24 et 7j/7, sans effort manuel.",
+      "category": "AI & Machine Learning",
+      "website": "https://crewops-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T00:03:51.037207+00:00"
+    },
+    {
+      "name": "Daybrief — AI Agent for Your Workday",
+      "slug": "polsia-daybrief-9",
+      "description": "An autonomous AI agent that monitors your email, calendar, and tasks — then delivers a structured briefing every morning. No dashboards. No chatbots. Daily progress while you sleep.",
+      "description_fr": "Un agent IA autonome qui surveille vos e-mails, votre calendrier et vos tâches, puis fournit un briefing structuré chaque matin. Pas de tableaux de bord. Pas de chatbot. Progrès quotidien pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://daybrief-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T00:03:52.411964+00:00"
+    },
+    {
+      "name": "NextLevelOS — Build an athlete brand that lasts",
+      "slug": "polsia-nextlevelos-10",
+      "description": "Athletic careers are short. The athletes who thrive after sport are the ones who built something beyond their stats — a reputation, a voice, a legacy. That's not luck. It's a system.",
+      "description_fr": "Les carrières sportives sont courtes. Les athlètes qui prospèrent après le sport sont ceux qui ont construit quelque chose au-delà de leurs statistiques : une réputation, une voix, un héritage. Ce n'est pas de la chance. C'est un système.",
+      "category": "Marketing & Advertising",
+      "website": "https://nextlevelos-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T00:03:53.653911+00:00"
+    },
+    {
+      "name": "CodeFlow — Autonomous Code Review & Fix Agent",
+      "slug": "polsia-codeflow-1782345187238-2czi",
+      "description": "CodeFlow monitors your codebase 24/7, finds bugs, writes fixes, and opens PRs. An AI agent that works while you sleep.",
+      "description_fr": "CodeFlow surveille votre base de code 24h/24 et 7j/7, trouve les bogues, écrit des correctifs et ouvre les PR. Un agent IA qui travaille pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://codeflow-1782345187238-2czi.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T00:03:55.992870+00:00"
+    },
+    {
+      "name": "ShiftKit — WhatsApp Appointment Reminders for Pakistani Businesses",
+      "slug": "polsia-shiftkit-4",
+      "description": "Automated WhatsApp reminders so your clients never miss an appointment. Built for Pakistani service businesses — salons, clinics, tutors, mechanics.",
+      "description_fr": "Rappels WhatsApp automatisés pour que vos clients ne manquent jamais un rendez-vous. Conçu pour les entreprises de services pakistanaises : salons, cliniques, tuteurs, mécaniciens.",
+      "category": "Education",
+      "website": "https://shiftkit-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T00:03:56.804646+00:00"
     }
   ]
 }
