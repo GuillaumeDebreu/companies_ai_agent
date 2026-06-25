@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T09:24:05.684790+00:00",
+  "last_updated": "2026-06-25T10:50:10.832540+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -168196,12 +168196,15 @@
       "scraped_at": "2026-06-25T07:58:30.235191+00:00"
     },
     {
-      "name": "TaxGuard",
+      "name": "TaxGuard — Your AI GST Compliance Agent",
       "slug": "polsia-taxguard",
+      "description": "TaxGuard is an AI agent that monitors your GST compliance 24/7 — reconciles invoices, flags mismatches, and files returns automatically. No more missed deadlines, no more manual reconciliation.",
+      "description_fr": "TaxGuard est un agent d'IA qui surveille votre conformité à la TPS 24h/24 et 7j/7 : rapproche les factures, signale les incohérences et produit automatiquement les déclarations. Fini les délais manqués, plus de rapprochement manuel.",
+      "category": "AI & Machine Learning",
       "website": "https://taxguard.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T07:58:30.561907+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-25T10:50:09.848838+00:00"
     },
     {
       "name": "CasaFlow — Agente Inmobiliario con IA",
@@ -168290,6 +168293,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-25T07:58:41.385671+00:00"
+    },
+    {
+      "name": "EdgeList",
+      "slug": "polsia-edgelist",
+      "website": "https://edgelist.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T10:49:47.905118+00:00"
+    },
+    {
+      "name": "StackForge AI",
+      "slug": "polsia-stackforge-ai-2",
+      "website": "https://stackforge-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T10:49:48.346583+00:00"
+    },
+    {
+      "name": "Agentrio",
+      "slug": "polsia-agentrio",
+      "website": "https://agentrio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T10:49:48.814017+00:00"
+    },
+    {
+      "name": "Closure — Your AI Sales Agent for Indian B2B",
+      "slug": "polsia-closure-ai-3",
+      "description": "Closure finds Indian B2B leads, qualifies them via WhatsApp and email, and books meetings on your calendar. No sales team needed.",
+      "description_fr": "Closure trouve des prospects B2B indiens, les qualifie via WhatsApp et par e-mail, et planifie des réunions sur votre calendrier. Aucune équipe commerciale nécessaire.",
+      "category": "Sales & CRM",
+      "website": "https://closure-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T10:49:50.579531+00:00"
+    },
+    {
+      "name": "FormOS — Operating System for Creative Agencies",
+      "slug": "polsia-formos-3",
+      "description": "Outreach, personalization, follow-up sequences. Finds Berlin SMBs who need brand + SEO work and initiates contact — without you typing a single email.",
+      "description_fr": "Séquences de sensibilisation, de personnalisation, de suivi. Recherche les PME berlinoises qui ont besoin d'un travail de marque et de référencement et établit le contact, sans que vous tapiez un seul e-mail.",
+      "category": "Marketing & Advertising",
+      "website": "https://formos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T10:49:51.856468+00:00"
+    },
+    {
+      "name": "ToolStack — AI Agent Marketplace",
+      "slug": "polsia-toolstack-9",
+      "description": "Every tool you activate and every customer you refer earns you recurring commissions. Track everything in your partner dashboard — clicks, conversions, earnings, and tier progress.",
+      "description_fr": "Chaque outil que vous activez et chaque client que vous parrainez vous rapporte des commissions récurrentes. Suivez tout dans votre tableau de bord partenaire : clics, conversions, revenus et progression de niveau.",
+      "category": "AI & Machine Learning",
+      "website": "https://toolstack-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T10:49:52.731999+00:00"
+    },
+    {
+      "name": "Vectis — Ask Your Codebase Anything",
+      "slug": "polsia-vectis-ai-5",
+      "description": "Semantic code search that understands intent. Stop grepping, start talking to your codebase.",
+      "description_fr": "Recherche de code sémantique qui comprend l'intention. Arrêtez de chercher, commencez à parler à votre base de code.",
+      "category": "Other",
+      "website": "https://vectis-ai-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T10:49:53.896915+00:00"
+    },
+    {
+      "name": "PipelineIQ — Autonomous Outbound Sales",
+      "slug": "polsia-pipelineiq-31",
+      "description": "Hiring an SDR costs $60-80K. Tools stack up fast. Research eats your day. Sequences go unfollowed. Pipeline stalls not because your product is bad — but because nobody has the bandwidth to run outbound properly. Until now.",
+      "description_fr": "L'embauche d'un SDR coûte entre 60 et 80 000 $. Les outils s’empilent rapidement. La recherche mange votre journée. Les séquences ne sont pas suivies. Le pipeline ne s'arrête pas parce que votre produit est mauvais, mais parce que personne n'a la bande passante nécessaire pour fonctionner correctement. Jusqu'à maintenant.",
+      "category": "Sales & CRM",
+      "website": "https://pipelineiq-31.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T10:49:55.647811+00:00"
+    },
+    {
+      "name": "Luma",
+      "slug": "polsia-luma-ai-4",
+      "website": "https://luma-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T10:49:55.969424+00:00"
+    },
+    {
+      "name": "Nexus — The AI That Works Your Customer Experience",
+      "slug": "polsia-nexus-ai-31",
+      "description": "An autonomous AI agent that monitors every customer channel, triages issues, drafts responses, and escalates edge cases — 24/7, without human input.",
+      "description_fr": "Un agent d'IA autonome qui surveille chaque canal client, trie les problèmes, rédige des réponses et fait remonter les cas extrêmes, 24 heures sur 24 et 7 jours sur 7, sans intervention humaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://nexus-ai-31.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T10:49:57.283780+00:00"
     }
   ]
 }
