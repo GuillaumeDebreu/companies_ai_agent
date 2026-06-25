@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T20:06:23.865666+00:00",
+  "last_updated": "2026-06-25T21:53:17.497451+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -168714,12 +168714,15 @@
       "scraped_at": "2026-06-25T17:56:59.988039+00:00"
     },
     {
-      "name": "Outbound",
+      "name": "Outbound — AI agents that run your cold email campaigns",
       "slug": "polsia-outbound-ai-42",
+      "description": "Every week your competitors hire another SDR, buy another tool, and send another templated email into the void. Outbound replaces the entire workflow — research, writing, sending, following up — with a single AI agent that never sleeps, never has a bad day, and never sends the same email twice.",
+      "description_fr": "Chaque semaine, vos concurrents embauchent un autre SDR, achètent un autre outil et envoient un autre e-mail modèle dans le vide. Outbound remplace l'ensemble du flux de travail (recherche, rédaction, envoi, suivi) par un seul agent IA qui ne dort jamais, n'a jamais de mauvaise journée et n'envoie jamais deux fois le même e-mail.",
+      "category": "AI & Machine Learning",
       "website": "https://outbound-ai-42.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T20:05:49.963051+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-25T21:52:44.916256+00:00"
     },
     {
       "name": "Meridian — Autonomous AI Compliance",
@@ -168744,12 +168747,15 @@
       "scraped_at": "2026-06-25T20:05:52.251928+00:00"
     },
     {
-      "name": "PipelineOps AI",
+      "name": "FollowUpOps AI — AI Sales Follow",
       "slug": "polsia-pipelineops-ai",
+      "description": "Stop losing warm leads. FollowUpOps AI automatically follows up with your B2B leads, revives old opportunities, and keeps your pipeline clean — with human approval on every email.",
+      "description_fr": "Arrêtez de perdre des leads chaleureux. FollowUpOps AI assure automatiquement le suivi de vos prospects B2B, relance les anciennes opportunités et maintient votre pipeline propre, avec l'approbation humaine sur chaque e-mail.",
+      "category": "Sales & CRM",
       "website": "https://pipelineops-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T20:05:52.550119+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-25T21:52:46.374424+00:00"
     },
     {
       "name": "$sim",
@@ -168813,6 +168819,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-25T20:06:04.392413+00:00"
+    },
+    {
+      "name": "RecruitIQ",
+      "slug": "polsia-recruitiq-5",
+      "website": "https://recruitiq-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T21:52:04.055993+00:00"
+    },
+    {
+      "name": "ViewPly — Video Content Built to Earn",
+      "slug": "polsia-viewply",
+      "description": "The creator economy is not a side hustle. It's a real business with real infrastructure — and the people who treat it that way are the ones who win.",
+      "description_fr": "L’économie des créateurs n’est pas une activité secondaire. Il s’agit d’une véritable entreprise dotée d’une véritable infrastructure – et ceux qui la traitent de cette façon sont ceux qui gagnent.",
+      "category": "Entertainment & Media",
+      "website": "https://viewply.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T21:52:05.076843+00:00"
+    },
+    {
+      "name": "GrowthVault",
+      "slug": "polsia-growthvault-2",
+      "website": "https://growthvault-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T21:52:10.470056+00:00"
+    },
+    {
+      "name": "Relay — AI Operations Team for Small Business",
+      "slug": "polsia-relay-17",
+      "description": "Most small business owners wake up to a full inbox, three missed calls, and a list of things they should have done yesterday. Relay fixes that. One flat monthly price, AI handling the work, you running the business.",
+      "description_fr": "La plupart des propriétaires de petites entreprises se réveillent avec une boîte de réception pleine, trois appels manqués et une liste de choses qu'ils auraient dû faire hier. Relay corrige cela. Un prix mensuel forfaitaire, l'IA gère le travail, vous dirigez l'entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://relay-17.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T21:52:58.401949+00:00"
+    },
+    {
+      "name": "Dumb Luck Casino",
+      "slug": "polsia-dumb-luck-casino",
+      "website": "https://dumb-luck-casino.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T21:52:16.254433+00:00"
+    },
+    {
+      "name": "SmilePipeline — Turn Dental Ad Spend Into Booked Appointments",
+      "slug": "polsia-smilepipeline",
+      "description": "SmilePipeline helps dental practices turn Google Ads spend into booked new-patient appointments through AI-powered campaigns, landing pages, and follow-up automation.",
+      "description_fr": "SmilePipeline aide les cabinets dentaires à transformer leurs dépenses Google Ads en rendez-vous réservés pour de nouveaux patients grâce à des campagnes basées sur l'IA, des pages de destination et l'automatisation du suivi.",
+      "category": "Marketing & Advertising",
+      "website": "https://smilepipeline.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T21:53:05.285321+00:00"
+    },
+    {
+      "name": "Redmont Strategies Group",
+      "slug": "polsia-redmont-strategies-group",
+      "description": "Strategic advisory for site selection and incentive negotiation.",
+      "description_fr": "Conseil stratégique pour la sélection du site et la négociation des incitations.",
+      "category": "Social & Community",
+      "website": "https://redmont-strategies-group.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T21:53:06.691169+00:00"
+    },
+    {
+      "name": "Newcre",
+      "slug": "polsia-newcre",
+      "website": "https://newcre.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T21:52:22.459618+00:00"
+    },
+    {
+      "name": "AutonomIQ",
+      "slug": "polsia-autonomiq-8",
+      "website": "https://autonomiq-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T21:52:32.952226+00:00"
+    },
+    {
+      "name": "PrivWatch",
+      "slug": "polsia-privwatch",
+      "website": "https://privwatch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T21:52:33.343846+00:00"
     }
   ]
 }
