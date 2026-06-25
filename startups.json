@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T10:50:10.832540+00:00",
+  "last_updated": "2026-06-25T13:09:01.352771+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -168295,20 +168295,26 @@
       "scraped_at": "2026-06-25T07:58:41.385671+00:00"
     },
     {
-      "name": "EdgeList",
+      "name": "EdgeList — Market Intelligence for Luxury Property Sellers",
       "slug": "polsia-edgelist",
+      "description": "EdgeList runs as an autonomous agent — monitoring, alerting, and repositioning recommendations delivered continuously. Not a dashboard you check. A presence that works for you.",
+      "description_fr": "EdgeList fonctionne comme un agent autonome : surveillance, alerte et recommandations de repositionnement fournies en continu. Pas un tableau de bord que vous vérifiez. Une présence qui fonctionne pour vous.",
+      "category": "Software & SaaS",
       "website": "https://edgelist.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T10:49:47.905118+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-25T13:08:56.924923+00:00"
     },
     {
-      "name": "StackForge AI",
+      "name": "StackForge AI — AI Tools Marketplace",
       "slug": "polsia-stackforge-ai-2",
+      "description": "Build your AI stack. Discover, bundle, and activate AI tools at the best prices. Earn commissions as a StackForge partner.",
+      "description_fr": "Construisez votre pile d'IA. Découvrez, regroupez et activez des outils d'IA aux meilleurs prix. Gagnez des commissions en tant que partenaire StackForge.",
+      "category": "AI & Machine Learning",
       "website": "https://stackforge-ai-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T10:49:48.346583+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-25T13:08:58.444095+00:00"
     },
     {
       "name": "Agentrio",
@@ -168391,6 +168397,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-25T10:49:57.283780+00:00"
+    },
+    {
+      "name": "Tempo",
+      "slug": "polsia-tempo-3",
+      "website": "https://tempo-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T13:08:29.447209+00:00"
+    },
+    {
+      "name": "MotoPilot — Autonomous Social Media for Motocross Athletes",
+      "slug": "polsia-motopilot",
+      "description": "The AI agent that autonomously manages your entire social media presence. Post, engage, grow — without lifting a finger.",
+      "description_fr": "L'agent IA qui gère de manière autonome l'ensemble de votre présence sur les réseaux sociaux. Publiez, engagez, développez – sans lever le petit doigt.",
+      "category": "AI & Machine Learning",
+      "website": "https://motopilot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T13:08:31.417532+00:00"
+    },
+    {
+      "name": "AuxieOS",
+      "slug": "polsia-auxie",
+      "website": "https://auxie.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T13:08:32.075587+00:00"
+    },
+    {
+      "name": "Movement.institute — The Belief Process",
+      "slug": "polsia-narrativeos-10",
+      "description": "The Belief Process is a guided discovery methodology, twenty years in the making. It respects the intelligence already in the room — and produces something rare: a belief so clearly articulated it becomes the foundation for everything else.",
+      "description_fr": "Le processus de croyance est une méthodologie de découverte guidée, en préparation depuis vingt ans. Il respecte l’intelligence déjà présente dans la pièce et produit quelque chose de rare : une croyance si clairement articulée qu’elle devient le fondement de tout le reste.",
+      "category": "Sustainability & Green",
+      "website": "https://narrativeos-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T13:08:33.747627+00:00"
+    },
+    {
+      "name": "Volta",
+      "slug": "polsia-volta-trading",
+      "website": "https://volta-trading.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T13:08:34.344350+00:00"
+    },
+    {
+      "name": "OrionEngineOS",
+      "slug": "polsia-orionengineos",
+      "website": "https://orionengineos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T13:08:34.955549+00:00"
+    },
+    {
+      "name": "Lighthouse — AI Safety Agent",
+      "slug": "polsia-lighthouse-3",
+      "description": "An autonomous AI agent that monitors your worksite 24/7 — catches hazards, alerts the right people, and files reports automatically.",
+      "description_fr": "Un agent IA autonome qui surveille votre chantier 24h/24 et 7j/7 : détecte les dangers, alerte les bonnes personnes et établit automatiquement des rapports.",
+      "category": "AI & Machine Learning",
+      "website": "https://lighthouse-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T13:08:36.507367+00:00"
+    },
+    {
+      "name": "Launchpad — Autonomous Outbound Sales Agents",
+      "slug": "polsia-launchpad-7-2",
+      "description": "A human SDR manages 150 leads, burns out, and leaves. An AI agent manages\n      10,000 leads, never drops quality, and never quits. Your first campaign\n      starts the moment you subscribe.",
+      "description_fr": "Un SDR humain gère 150 leads, s'épuise et s'en va. Un agent IA gère\n      10 000 prospects, ne perd jamais en qualité et ne s'arrête jamais. Votre première campagne\n      commence au moment où vous vous abonnez.",
+      "category": "AI & Machine Learning",
+      "website": "https://launchpad-7-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T13:08:39.371085+00:00"
+    },
+    {
+      "name": "Madgood — Strategic Brand, Marketing & Commercialization",
+      "slug": "polsia-madgoodos",
+      "description": "Madgood helps social impact organizations and early-stage ventures build brands that matter and take them to market.",
+      "description_fr": "Madgood aide les organisations à impact social et les entreprises en démarrage à créer des marques qui comptent et à les commercialiser.",
+      "category": "Marketing & Advertising",
+      "website": "https://madgoodos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T13:08:41.169182+00:00"
+    },
+    {
+      "name": "Grown",
+      "slug": "polsia-builtgrown",
+      "website": "https://builtgrown.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T13:08:41.687512+00:00"
     }
   ]
 }
