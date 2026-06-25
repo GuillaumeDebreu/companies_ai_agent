@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T03:41:21.947141+00:00",
+  "last_updated": "2026-06-25T04:21:02.199591+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -167977,12 +167977,15 @@
       "scraped_at": "2026-06-24T22:52:23.090179+00:00"
     },
     {
-      "name": "Spaceflow",
+      "name": "Spaceflow — AI Agents for Coworking Operations",
       "slug": "polsia-spaceflow-3",
+      "description": "Spaceflow deploys autonomous AI agents that manage visitor check-ins, desk allocation, community engagement, and lead response — 24/7, without a human on the floor.",
+      "description_fr": "Spaceflow déploie des agents d'IA autonomes qui gèrent l'enregistrement des visiteurs, l'attribution des bureaux, l'engagement de la communauté et la réponse des dirigeants, 24 heures sur 24 et 7 jours sur 7, sans aucun humain sur le terrain.",
+      "category": "AI & Machine Learning",
       "website": "https://spaceflow-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T00:03:39.917938+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-25T04:20:58.512306+00:00"
     },
     {
       "name": "ShipOS",
@@ -168079,6 +168082,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-25T00:03:56.804646+00:00"
+    },
+    {
+      "name": "QuantOS — Performance Operating System",
+      "slug": "polsia-quantalis-llc",
+      "description": "Book a strategy call. We'll diagnose the constraint, define the target, and map the path. No fluff, no vague advice — just a system that works under pressure.",
+      "description_fr": "Réservez un appel stratégique. Nous diagnostiquerons la contrainte, définirons la cible et tracerons le chemin. Pas de superflu, pas de conseils vagues, juste un système qui fonctionne sous pression.",
+      "category": "Other",
+      "website": "https://quantalis-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T04:20:29.431510+00:00"
+    },
+    {
+      "name": "SilentSentinel",
+      "slug": "polsia-silentsentinel",
+      "website": "https://silentsentinel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T04:20:30.005567+00:00"
+    },
+    {
+      "name": "OutboundIQ",
+      "slug": "polsia-outboundiq-39",
+      "website": "https://outboundiq-39.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T04:20:30.535234+00:00"
+    },
+    {
+      "name": "FrameShip",
+      "slug": "polsia-frameship-2",
+      "website": "https://frameship-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T04:20:31.117463+00:00"
+    },
+    {
+      "name": "CopySignal",
+      "slug": "polsia-copysignal-2",
+      "website": "https://copysignal-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T04:20:31.721795+00:00"
+    },
+    {
+      "name": "StageLeft",
+      "slug": "polsia-stageleft-ai",
+      "website": "https://stageleft-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-25T04:20:32.211566+00:00"
+    },
+    {
+      "name": "BlastOps",
+      "slug": "polsia-blastops",
+      "description": "Run your whole pressure-washing business from your phone: quote from the sky, mix with confidence, and get paid the day you're done.",
+      "description_fr": "Gérez toute votre entreprise de lavage sous pression depuis votre téléphone : citez du ciel, mélangez en toute confiance et soyez payé le jour où vous avez terminé.",
+      "category": "Other",
+      "website": "https://blastops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T04:21:02.196405+00:00"
+    },
+    {
+      "name": "StackOps — Autonomous GCP Operations",
+      "slug": "polsia-stackops-19",
+      "description": "Your best engineers spend 30–40% of their time on infrastructure operations: babysitting dashboards, responding to alerts, resizing clusters, chasing cost spikes. That's not engineering. That's operations overhead.",
+      "description_fr": "Vos meilleurs ingénieurs consacrent 30 à 40 % de leur temps aux opérations de l'infrastructure : surveillance des tableaux de bord, réponse aux alertes, redimensionnement des clusters, gestion des hausses de coûts. Ce n'est pas de l'ingénierie. Ce sont les frais généraux des opérations.",
+      "category": "Software & SaaS",
+      "website": "https://stackops-19.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T04:20:34.733413+00:00"
+    },
+    {
+      "name": "WorkShift",
+      "slug": "polsia-workshift-hrms",
+      "description": "Most HR tools hide the daily view behind menus and tabs. WorkShift puts everything on one screen — live attendance, active tasks, who's in and who's out — designed to run on a mounted monitor at your desk.",
+      "description_fr": "La plupart des outils RH cachent la vue quotidienne derrière des menus et des onglets. WorkShift rassemble tout sur un seul écran : présence en direct, tâches actives, qui est présent et qui est absent, conçu pour fonctionner sur un moniteur monté sur votre bureau.",
+      "category": "Other",
+      "website": "https://workshift-hrms.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T04:20:36.333513+00:00"
+    },
+    {
+      "name": "Kapsular — AI Deal Flow Agent for HealthTech Investors",
+      "slug": "polsia-kapsular",
+      "description": "VC firms that move fastest win the best deals. Kapsular closes the gap between a startup raising and you knowing about it — often days before it appears in any database.",
+      "description_fr": "Les sociétés de capital-risque qui évoluent le plus rapidement remportent les meilleures offres. Kapsular comble l'écart entre la création d'une startup et le fait que vous en ayez connaissance, souvent plusieurs jours avant qu'elle n'apparaisse dans une base de données.",
+      "category": "AI & Machine Learning",
+      "website": "https://kapsular.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-25T04:20:38.171072+00:00"
     }
   ]
 }
