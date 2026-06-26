@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T03:52:04.222712+00:00",
+  "last_updated": "2026-06-26T05:53:24.236255+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -169038,20 +169038,26 @@
       "scraped_at": "2026-06-25T23:12:16.238818+00:00"
     },
     {
-      "name": "Vibrant",
+      "name": "Vibrant — Daily Intelligence for Black Men",
       "slug": "polsia-vibrant-media",
+      "description": "Vibrant is an AI agent that runs 24/7 — watching what mainstream media ignores, tracking what impacts your community, and sending a sharp daily briefing to your inbox. No spin. No filler. No human opinionated editors.",
+      "description_fr": "Vibrant est un agent d'IA qui fonctionne 24h/24 et 7j/7 : il surveille ce que les médias grand public ignorent, suit ce qui a un impact sur votre communauté et envoie un briefing quotidien précis dans votre boîte de réception. Pas de rotation. Pas de remplissage. Pas d’éditeurs humains opiniâtres.",
+      "category": "AI & Machine Learning",
       "website": "https://vibrant-media.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T01:31:04.117980+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T05:53:04.239752+00:00"
     },
     {
       "name": "ToolPin",
       "slug": "polsia-toolpin",
+      "description": "Pinpoint the best local deals on tools and coupons. ToolPin finds deals at Harbor Freight, Home Depot, and local tool stores near you.",
+      "description_fr": "Identifiez les meilleures offres locales sur les outils et les coupons. ToolPin trouve des offres chez Harbor Freight, Home Depot et dans les magasins d'outils locaux près de chez vous.",
+      "category": "E-Commerce & Retail",
       "website": "https://toolpin.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T01:31:04.294530+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T05:53:06.610632+00:00"
     },
     {
       "name": "FenceIQ",
@@ -169137,6 +169143,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-26T01:31:18.692147+00:00"
+    },
+    {
+      "name": "CreatorStack AI",
+      "slug": "polsia-creatorstack-ai",
+      "website": "https://creatorstack-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T05:52:30.484212+00:00"
+    },
+    {
+      "name": "AuralMatrix Records",
+      "slug": "polsia-auralmatrix-records",
+      "website": "https://auralmatrix-records.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T05:52:35.923440+00:00"
+    },
+    {
+      "name": "CapitalOS — Operating System for Investment Lending",
+      "slug": "polsia-capitalos-11",
+      "description": "One desk. Every program. Automated from application to close. CapitalOS handles the pipeline, the underwriting, and the funding — so you can focus on the deals that matter.",
+      "description_fr": "Un bureau. Chaque programme. Automatisé depuis l'application jusqu'à la fermeture. CapitalOS gère le pipeline, la souscription et le financement afin que vous puissiez vous concentrer sur les transactions qui comptent.",
+      "category": "Software & SaaS",
+      "website": "https://capitalos-11.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T05:52:37.583061+00:00"
+    },
+    {
+      "name": "Jim's Life Coaching",
+      "slug": "polsia-jims-life-coaching",
+      "website": "https://jims-life-coaching.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T05:52:42.944687+00:00"
+    },
+    {
+      "name": "VenueIQ",
+      "slug": "polsia-venueiq-6",
+      "description": "AI-powered event coordination that never sleeps. Monitor venue bookings, coordinate vendors, and deliver real-time occupancy insights around the clock.",
+      "description_fr": "Une coordination d'événements basée sur l'IA qui ne dort jamais. Surveillez les réservations de salles, coordonnez les fournisseurs et fournissez des informations sur l'occupation en temps réel 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://venueiq-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T05:53:24.234851+00:00"
+    },
+    {
+      "name": "KadavuRootOS — Single",
+      "slug": "polsia-kadavurootos",
+      "description": "Kadavu sits at the southern edge of Fiji's main island group, separated by the Lomaiviti Channel. Its volcanic origins — Nabukelevu volcano rises to 805 metres — give the soil a mineral richness that produces kava with a deeper, more complex flavor profile than most other Fijian islands. No banks. No major roads. Just rainforest, reef, and families who have been farming kava for generations.",
+      "description_fr": "Kadavu se trouve à l'extrémité sud du principal groupe d'îles des Fidji, séparé par le canal Lomaiviti. Ses origines volcaniques – le volcan Nabukelevu culmine à 805 mètres – confèrent au sol une richesse minérale qui produit un kava au profil aromatique plus profond et plus complexe que la plupart des autres îles fidjiennes. Pas de banques. Pas de routes principales. Juste une forêt tropicale, un récif et des familles qui cultivent du kava depuis des générations.",
+      "category": "Social & Community",
+      "website": "https://kadavurootos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T05:52:49.427292+00:00"
+    },
+    {
+      "name": "TuneVault",
+      "slug": "polsia-tunevault",
+      "description": "AI-Powered Oracle EBS Monitoring for DBAs — proactive diagnostics, automated remediation, and real-time insights for mission-critical Oracle environments.",
+      "description_fr": "Surveillance Oracle EBS basée sur l'IA pour les administrateurs de base de données : diagnostics proactifs, corrections automatisées et informations en temps réel pour les environnements Oracle critiques.",
+      "category": "AI & Machine Learning",
+      "website": "https://tunevault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T05:52:51.238961+00:00"
+    },
+    {
+      "name": "SustainWatch",
+      "slug": "polsia-sustainwatch",
+      "description": "AI-Powered Compliance Monitoring — detect regulatory gaps and flag potential violations before they result in penalties.",
+      "description_fr": "Surveillance de la conformité basée sur l'IA : détectez les lacunes réglementaires et signalez les violations potentielles avant qu'elles n'entraînent des sanctions.",
+      "category": "AI & Machine Learning",
+      "website": "https://sustainwatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T05:52:52.630947+00:00"
+    },
+    {
+      "name": "Kompliy — The Operating System for Construction Compliance",
+      "slug": "polsia-kompliyos",
+      "description": "Upload council inspection reports, subcontracts, and compliance documents. AI extracts every issue, clause risk, and requirement automatically.",
+      "description_fr": "Téléchargez les rapports d'inspection du conseil, les sous-traitants et les documents de conformité. L’IA extrait automatiquement chaque problème, risque de clause et exigence.",
+      "category": "AI & Machine Learning",
+      "website": "https://kompliyos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T05:52:53.487884+00:00"
+    },
+    {
+      "name": "Drift — Autonomous AI Study Agent for STEM",
+      "slug": "polsia-drift-study",
+      "description": "AI that monitors your STEM courses, generates practice problems, and pushes study campaigns before you fall behind.",
+      "description_fr": "Une IA qui surveille vos cours STEM, génère des problèmes de pratique et pousse les campagnes d'études avant que vous ne preniez du retard.",
+      "category": "AI & Machine Learning",
+      "website": "https://drift-study.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T05:52:54.329518+00:00"
     }
   ]
 }
