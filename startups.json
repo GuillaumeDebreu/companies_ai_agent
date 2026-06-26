@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T21:39:34.599876+00:00",
+  "last_updated": "2026-06-26T22:50:27.396678+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -169902,26 +169902,35 @@
     {
       "name": "OpsMind",
       "slug": "polsia-opsmind-1782509856595-i5j1",
+      "description": "AI agents that monitor, heal, and escalate intelligently — autonomous IT operations for enterprise infrastructure.",
+      "description_fr": "Des agents d'IA qui surveillent, corrigent et escaladent intelligemment — des opérations informatiques autonomes pour l'infrastructure d'entreprise.",
+      "category": "AI & Machine Learning",
       "website": "https://opsmind-1782509856595-i5j1.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T21:38:16.938290+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T22:50:03.223794+00:00"
     },
     {
       "name": "Epoch",
       "slug": "polsia-epoch-4",
+      "description": "Your new chapter starts at 30. A holistic personal development platform for men navigating the pivotal transition at 30 — combining wealth building, health optimization, and identity clarity.",
+      "description_fr": "Votre nouveau chapitre commence à 30 ans. Une plateforme de développement personnel holistique pour les hommes traversant la transition cruciale à 30 ans – combinant création de richesse, optimisation de la santé et clarté de l’identité.",
+      "category": "Software & SaaS",
       "website": "https://epoch-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T21:38:27.395686+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T22:50:04.477483+00:00"
     },
     {
       "name": "OrbitAI",
       "slug": "polsia-orbitai-5",
+      "description": "Autonomous AI agents running performance marketing 24/7. Real-time optimization across Google, Meta, and TikTok.",
+      "description_fr": "Agents IA autonomes exécutant un marketing de performance 24h/24 et 7j/7. Optimisation en temps réel sur Google, Meta et TikTok.",
+      "category": "AI & Machine Learning",
       "website": "https://orbitai-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T21:38:32.777700+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T22:50:05.491662+00:00"
     },
     {
       "name": "FilingPulse",
@@ -169937,10 +169946,13 @@
     {
       "name": "SceneCraft 3D",
       "slug": "polsia-scenecraft-3d",
+      "description": "Transform property videos into interactive 3D demos — no hardware required.",
+      "description_fr": "Transformez les vidéos immobilières en démos 3D interactives – aucun matériel requis.",
+      "category": "Real Estate",
       "website": "https://scenecraft-3d.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T21:38:43.397477+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T22:50:06.372739+00:00"
     },
     {
       "name": "ElectMetrics",
@@ -169996,6 +170008,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-26T21:38:48.847729+00:00"
+    },
+    {
+      "name": "ShieldForce Krav Maga",
+      "slug": "polsia-shieldforce-krav-maga",
+      "website": "https://shieldforce-krav-maga.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T22:49:26.724254+00:00"
+    },
+    {
+      "name": "PipelinePilot",
+      "slug": "polsia-pipelinepilot-7",
+      "website": "https://pipelinepilot-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T22:49:32.232068+00:00"
+    },
+    {
+      "name": "PitchLoop",
+      "slug": "polsia-pitchloop-1782514020352-5eb9",
+      "website": "https://pitchloop-1782514020352-5eb9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T22:49:37.772681+00:00"
+    },
+    {
+      "name": "QuestSelf",
+      "slug": "polsia-questself",
+      "website": "https://questself.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T22:49:43.107600+00:00"
+    },
+    {
+      "name": "Vigil",
+      "slug": "polsia-vigil-1782513919495-43a1",
+      "description": "Your autonomous guardian against billing waste and lost entitlements.",
+      "description_fr": "Votre gardien autonome contre le gaspillage de facturation et la perte de droits.",
+      "category": "Other",
+      "website": "https://vigil-1782513919495-43a1.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T22:49:44.068040+00:00"
+    },
+    {
+      "name": "LaunchStack AI",
+      "slug": "polsia-launchstack-ai",
+      "description": "AI-powered WordPress — built, launched, and optimized on autopilot. Professional websites for small businesses at a fraction of agency costs.",
+      "description_fr": "WordPress alimenté par l'IA – construit, lancé et optimisé sur pilote automatique. Sites Web professionnels pour petites entreprises à une fraction des frais d'agence.",
+      "category": "AI & Machine Learning",
+      "website": "https://launchstack-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T22:49:45.056047+00:00"
+    },
+    {
+      "name": "EnergieAgent",
+      "slug": "polsia-energieagent",
+      "description": "KI-gesteuerter Energiepass für Immobilien — automatisch, intelligent, rund um die Uhr.",
+      "description_fr": "KI-gesteuerter Energiepass für Immobilien — automatique, intelligent, géré par la montre.",
+      "category": "Other",
+      "website": "https://energieagent.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T22:49:45.822737+00:00"
+    },
+    {
+      "name": "Specter AI",
+      "slug": "polsia-specter-ai-4",
+      "description": "Autonomous AI agents that sell while you sleep. The B2B lead generation platform that replaces cold outreach agencies with always-on digital salespeople.",
+      "description_fr": "Des agents IA autonomes qui vendent pendant que vous dormez. La plateforme de génération de leads B2B qui remplace les agences de sensibilisation à froid par des vendeurs numériques toujours disponibles.",
+      "category": "Sales & CRM",
+      "website": "https://specter-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T22:49:47.056015+00:00"
+    },
+    {
+      "name": "BrandPulse",
+      "slug": "polsia-brandpulse-4",
+      "description": "AI-powered brand monitoring for creators who never miss a moment.",
+      "description_fr": "Surveillance de marque basée sur l'IA pour les créateurs qui ne manquent jamais un instant.",
+      "category": "AI & Machine Learning",
+      "website": "https://brandpulse-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T22:49:48.068083+00:00"
+    },
+    {
+      "name": "Warden.ai",
+      "slug": "polsia-wardenai-2",
+      "description": "24/7 AI moderation for safer multiplayer communities. Autonomous enforcement, real-time incident response, and detailed analytics for game studios.",
+      "description_fr": "Modération IA 24h/24 et 7j/7 pour des communautés multijoueurs plus sûres. Application autonome, réponse aux incidents en temps réel et analyses détaillées pour les studios de jeux.",
+      "category": "AI & Machine Learning",
+      "website": "https://wardenai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T22:49:48.883595+00:00"
     }
   ]
 }
