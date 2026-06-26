@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T22:50:27.396678+00:00",
+  "last_updated": "2026-06-26T23:52:43.720133+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -170012,18 +170012,24 @@
     {
       "name": "ShieldForce Krav Maga",
       "slug": "polsia-shieldforce-krav-maga",
+      "description": "Real-world self-defense. No fluff. Just results. Toronto-based martial arts studio for adults and young adults (14+).",
+      "description_fr": "Autodéfense dans le monde réel. Pas de peluches. Juste des résultats. Studio d'arts martiaux basé à Toronto pour adultes et jeunes adultes (14+).",
+      "category": "Other",
       "website": "https://shieldforce-krav-maga.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T22:49:26.724254+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T23:52:14.419060+00:00"
     },
     {
       "name": "PipelinePilot",
       "slug": "polsia-pipelinepilot-7",
+      "description": "AI-powered CRM discipline for real estate agents. Never let a lead slip through the cracks again.",
+      "description_fr": "Discipline CRM basée sur l'IA pour les agents immobiliers. Ne laissez plus jamais un fil passer entre les mailles du filet.",
+      "category": "Sales & CRM",
       "website": "https://pipelinepilot-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T22:49:32.232068+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T23:52:16.175043+00:00"
     },
     {
       "name": "PitchLoop",
@@ -170036,10 +170042,13 @@
     {
       "name": "QuestSelf",
       "slug": "polsia-questself",
+      "description": "Transform your life through psychological text adventures. An AI-powered personal development companion that turns inner growth into an immersive quest.",
+      "description_fr": "Transformez votre vie à travers des aventures textuelles psychologiques. Un compagnon de développement personnel alimenté par l'IA qui transforme la croissance intérieure en une quête immersive.",
+      "category": "AI & Machine Learning",
       "website": "https://questself.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T22:49:43.107600+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T23:52:17.678961+00:00"
     },
     {
       "name": "Vigil",
@@ -170106,6 +170115,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-26T22:49:48.883595+00:00"
+    },
+    {
+      "name": "SourceLight NZ",
+      "slug": "polsia-sourcelight-nz",
+      "website": "https://sourcelight-nz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T23:51:30.376239+00:00"
+    },
+    {
+      "name": "TrustEcho",
+      "slug": "polsia-trustecho",
+      "website": "https://trustecho.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T23:51:35.817566+00:00"
+    },
+    {
+      "name": "PlayMatrix",
+      "slug": "polsia-playmatrix",
+      "website": "https://playmatrix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T23:51:41.194406+00:00"
+    },
+    {
+      "name": "AssetSync",
+      "slug": "polsia-assetsync",
+      "website": "https://assetsync.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T23:51:51.497699+00:00"
+    },
+    {
+      "name": "Scoutly",
+      "slug": "polsia-scoutly-1782517664722-u270",
+      "description": "AI-powered freelance deal scout that monitors, negotiates, and alerts you only on high-value matches.",
+      "description_fr": "Un outil de recherche d'affaires indépendant alimenté par l'IA qui surveille, négocie et vous alerte uniquement sur les correspondances de grande valeur.",
+      "category": "AI & Machine Learning",
+      "website": "https://scoutly-1782517664722-u270.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T23:51:53.418339+00:00"
+    },
+    {
+      "name": "ChipOps AI",
+      "slug": "polsia-chipops-ai",
+      "description": "Autonomous supply chain intelligence for specialty chip manufacturers.",
+      "description_fr": "Intelligence autonome de la chaîne d’approvisionnement pour les fabricants de puces spécialisées.",
+      "category": "AI & Machine Learning",
+      "website": "https://chipops-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T23:51:54.468526+00:00"
+    },
+    {
+      "name": "AeroBite",
+      "slug": "polsia-aerobite",
+      "description": "Fast food, delivered by air. Autonomous drone delivery for restaurants and food platforms — reaching customers in minutes, not hours.",
+      "description_fr": "Restauration rapide, livrée par avion. Livraison autonome par drone pour les restaurants et les plateformes de restauration : atteignant les clients en quelques minutes, et non en quelques heures.",
+      "category": "Food & Beverage",
+      "website": "https://aerobite.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T23:51:55.915278+00:00"
+    },
+    {
+      "name": "TrendDigest",
+      "slug": "polsia-trenddigest",
+      "description": "Daily AI-curated news digests from Reddit, HN & Product Hunt. Stay informed about your niche without the scroll.",
+      "description_fr": "Résumés d'actualités quotidiens organisés par l'IA de Reddit, HN et Product Hunt. Restez informé de votre niche sans le parchemin.",
+      "category": "AI & Machine Learning",
+      "website": "https://trenddigest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T23:51:57.019847+00:00"
+    },
+    {
+      "name": "MonSitePro",
+      "slug": "polsia-monsitepro",
+      "description": "Sites vitrine clés en main pour TPE et artisans",
+      "description_fr": "Sites vitrine clés en main pour TPE et artisans",
+      "category": "Other",
+      "website": "https://monsitepro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T23:51:57.902208+00:00"
+    },
+    {
+      "name": "Business Boost",
+      "slug": "polsia-business-boost",
+      "description": "One dashboard for your entire small business — payments, social media, scheduling, accounting, and AI-powered replies.",
+      "description_fr": "Un seul tableau de bord pour l'ensemble de votre petite entreprise : paiements, réseaux sociaux, planification, comptabilité et réponses basées sur l'IA.",
+      "category": "Finance & Fintech",
+      "website": "https://business-boost.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T23:51:58.959771+00:00"
     }
   ]
 }
