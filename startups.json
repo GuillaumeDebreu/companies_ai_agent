@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T11:46:49.711696+00:00",
+  "last_updated": "2026-06-26T13:52:13.488792+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -169364,10 +169364,13 @@
     {
       "name": "Vivander Advisors",
       "slug": "polsia-vivander-advisors",
+      "description": "Helping businesses get discovered by AI search engines like ChatGPT, Gemini, and Perplexity.",
+      "description_fr": "Aider les entreprises à être découvertes par les moteurs de recherche d'IA tels que ChatGPT, Gemini et Perplexity.",
+      "category": "AI & Machine Learning",
       "website": "https://vivander-advisors.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T11:46:01.314666+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T13:51:55.591152+00:00"
     },
     {
       "name": "GenerationsOS",
@@ -169391,10 +169394,13 @@
     {
       "name": "GetYourPixel",
       "slug": "polsia-getyourpixel",
+      "description": "Buy your pixel. Paint the world's biggest collaborative canvas.",
+      "description_fr": "Achetez votre pixel. Peignez la plus grande toile collaborative au monde.",
+      "category": "Other",
       "website": "https://getyourpixel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T11:46:07.731546+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T13:51:57.629327+00:00"
     },
     {
       "name": "OrbitWatch — Never Miss a Market Signal",
@@ -169410,10 +169416,13 @@
     {
       "name": "Redazio",
       "slug": "polsia-redazio-2",
+      "description": "La tua redazione completamente autonoma, alimentata da AI. Pianificazione editoriale, scrittura, fact-checking e pubblicazione automatica.",
+      "description_fr": "Votre rédaction est complètement autonome, alimentée par l'IA. Planification éditoriale, rédaction, vérification des faits et publication automatique.",
+      "category": "AI & Machine Learning",
       "website": "https://redazio-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T11:46:14.118910+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T13:51:59.137592+00:00"
     },
     {
       "name": "FundForge — Autonomous Portfolio Intelligence",
@@ -169455,6 +169464,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-26T11:46:17.527795+00:00"
+    },
+    {
+      "name": "in-d.io",
+      "slug": "polsia-in-dio",
+      "website": "https://in-dio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T13:51:32.737197+00:00"
+    },
+    {
+      "name": "SkillBridge Security",
+      "slug": "polsia-skillbridge-security",
+      "website": "https://skillbridge-security.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T13:51:37.962742+00:00"
+    },
+    {
+      "name": "FrontierScale",
+      "slug": "polsia-frontierscale",
+      "website": "https://frontierscale.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T13:51:38.341920+00:00"
+    },
+    {
+      "name": "OutboundAI — Autonomous B2B Outbound",
+      "slug": "polsia-outboundai-57",
+      "description": "AI that researches prospects, crafts personalized cold email, and runs campaigns 24/7. Replace expensive agencies and SDRs.",
+      "description_fr": "Une IA qui recherche des prospects, crée des e-mails froids personnalisés et mène des campagnes 24h/24 et 7j/7. Remplacez les agences et les SDR coûteux.",
+      "category": "Sales & CRM",
+      "website": "https://outboundai-57.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T13:52:12.333037+00:00"
+    },
+    {
+      "name": "SiteForge — Industrial AI Platform",
+      "slug": "polsia-siteforge-100",
+      "description": "The Gulf is building at a scale and speed the world has never seen. NEOM alone will require managing data from thousands of sensors, cameras, and equipment across multi-site megaprojects. The traditional approach — siloed tools, manual inspections, delayed reports — was never designed for this. SiteForge is. We believe the industrial environments of the future should be able to see everything, predict everything, and act before anything goes wrong. That's what we're building toward. Module by module. Site by site.",
+      "description_fr": "Le Golfe se construit à une échelle et à une vitesse que le monde n’a jamais vues. NEOM à lui seul nécessitera la gestion des données provenant de milliers de capteurs, caméras et équipements sur des mégaprojets multisites. L’approche traditionnelle – outils cloisonnés, inspections manuelles, rapports différés – n’a jamais été conçue pour cela. SiteForge l'est. Nous pensons que les environnements industriels du futur devraient être capables de tout voir, de tout prévoir et d’agir avant que quelque chose ne se passe mal. C’est vers cela que nous travaillons. Module par module. Site par site.",
+      "category": "AI & Machine Learning",
+      "website": "https://siteforge-100.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T13:52:13.485499+00:00"
+    },
+    {
+      "name": "SpoolBin — Filament Inventory for 3D Printers",
+      "slug": "polsia-spoolbin",
+      "description": "A clean, hosted filament inventory manager for 3D printing enthusiasts. Track spools, scan QR codes, never run dry mid-print.",
+      "description_fr": "Un gestionnaire d'inventaire de filaments propre et hébergé pour les passionnés d'impression 3D. Suivez les bobines, scannez les codes QR, ne tarissez jamais en cours d'impression.",
+      "category": "Other",
+      "website": "https://spoolbin.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T13:51:40.945725+00:00"
+    },
+    {
+      "name": "Tecido — Clothing made to last",
+      "slug": "polsia-tedidoglobal",
+      "description": "We believe in buying less and buying better. Each Tecido piece is designed to work with what you already have, to layer into outfits that feel like you, and to stay in your wardrobe for a decade — not a season.",
+      "description_fr": "Nous croyons qu’il faut acheter moins et acheter mieux. Chaque pièce Tecido est conçue pour fonctionner avec ce que vous avez déjà, pour être superposée à des tenues qui vous ressemblent et pour rester dans votre garde-robe pendant une décennie, pas une saison.",
+      "category": "Other",
+      "website": "https://tedidoglobal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T13:51:42.897046+00:00"
+    },
+    {
+      "name": "Zoul — The Autonomous Restaurant",
+      "slug": "polsia-zoul",
+      "description": "An AI-native restaurant brand. Runs itself 24/7 — menus, orders, delivery, customer service. Built by Polsia.",
+      "description_fr": "Une marque de restauration native de l'IA. Fonctionne 24h/24 et 7j/7 : menus, commandes, livraison, service client. Construit par la Pologne.",
+      "category": "AI & Machine Learning",
+      "website": "https://zoul.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T13:51:44.527395+00:00"
+    },
+    {
+      "name": "SiteSentry — Your Web Ops Agent. Runs 24/7.",
+      "slug": "polsia-sitesentry-7",
+      "description": "Freelance web developers spend 2 to 4 hours every week doing something\n      that a well-programmed bot could do better: checking if client sites are up.\n      SiteSentry replaces that work with an AI agent that runs while you sleep,\n      catches problems the moment they happen, and tells you exactly what\n      needs your attention — in plain English, before 8am.",
+      "description_fr": "Les développeurs Web indépendants passent 2 à 4 heures chaque semaine à faire quelque chose\n      qu'un bot bien programmé pourrait faire mieux : vérifier si les sites clients sont opérationnels.\n      SiteSentry remplace ce travail par un agent IA qui s'exécute pendant que vous dormez,\n      détecte les problèmes au moment où ils surviennent et vous dit exactement quoi\n      a besoin de votre attention – en anglais simple, avant 8 heures du matin.",
+      "category": "AI & Machine Learning",
+      "website": "https://sitesentry-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T13:51:46.005118+00:00"
+    },
+    {
+      "name": "LensOS — GTM Intelligence",
+      "slug": "polsia-lensos-2",
+      "description": "Most B2B companies are invisible to the AI models their buyers use before Google. LensOS shows you exactly where you stand — across ChatGPT, Claude, Gemini, Perplexity — and which competitors are winning your citations.",
+      "description_fr": "La plupart des entreprises B2B sont invisibles aux modèles d’IA que leurs acheteurs utilisent avant Google. LensOS vous montre exactement où vous en êtes – sur ChatGPT, Claude, Gemini, Perplexity – et quels concurrents remportent vos citations.",
+      "category": "AI & Machine Learning",
+      "website": "https://lensos-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T13:51:47.312752+00:00"
     }
   ]
 }
