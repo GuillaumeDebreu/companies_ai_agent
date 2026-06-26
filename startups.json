@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T23:15:51.619253+00:00",
+  "last_updated": "2026-06-26T01:31:45.051576+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -168823,10 +168823,13 @@
     {
       "name": "RecruitIQ",
       "slug": "polsia-recruitiq-5",
+      "description": "AI-driven athletic recruiting platform that matches athletes with programs and auto-sends highlight clips to coaches.",
+      "description_fr": "Plateforme de recrutement sportif basée sur l'IA qui associe les athlètes à des programmes et envoie automatiquement des clips de moments forts aux entraîneurs.",
+      "category": "Software & SaaS",
       "website": "https://recruitiq-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T21:52:04.055993+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:35.544132+00:00"
     },
     {
       "name": "ViewPly — Video Content Built to Earn",
@@ -168864,10 +168867,13 @@
     {
       "name": "Dumb Luck Casino",
       "slug": "polsia-dumb-luck-casino",
+      "description": "Low-Cost Player Acquisition for iGaming via Rewarded Arbitrage",
+      "description_fr": "Acquisition de joueurs à faible coût pour iGaming via un arbitrage récompensé",
+      "category": "Entertainment & Media",
       "website": "https://dumb-luck-casino.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T21:52:16.254433+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:36.958972+00:00"
     },
     {
       "name": "SmilePipeline — Turn Dental Ad Spend Into Booked Appointments",
@@ -168902,26 +168908,35 @@
     {
       "name": "AutonomIQ",
       "slug": "polsia-autonomiq-8",
+      "description": "AI agents that build your software, humans that approve it.",
+      "description_fr": "Des agents IA qui construisent votre logiciel, des humains qui l'approuvent.",
+      "category": "AI & Machine Learning",
       "website": "https://autonomiq-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T21:52:32.952226+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:38.162362+00:00"
     },
     {
-      "name": "PrivWatch",
+      "name": "PrivWatch — Autonomous Privacy Compliance",
       "slug": "polsia-privwatch",
+      "description": "DSARs pile up in your inbox. Vendor spreadsheets go stale. Cookie banners drift out of compliance the moment someone ships a new feature. And every quarter, someone scrambles to prove you're covered before an audit.",
+      "description_fr": "Les DSAR s’accumulent dans votre boîte de réception. Les feuilles de calcul des fournisseurs deviennent obsolètes. Les bannières de cookies ne sont plus conformes dès que quelqu'un propose une nouvelle fonctionnalité. Et chaque trimestre, quelqu'un se démène pour prouver que vous êtes couvert avant un audit.",
+      "category": "Newsletter & Email",
       "website": "https://privwatch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T21:52:33.343846+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:39.322001+00:00"
     },
     {
-      "name": "Sendrift",
+      "name": "Sendrift — Cross",
       "slug": "polsia-sendrift-2",
+      "description": "Send money across Africa in seconds. Stablecoin-powered transfers that skip the bank and land directly in mobile money wallets.",
+      "description_fr": "Envoyez de l'argent à travers l'Afrique en quelques secondes. Transferts alimentés par Stablecoin qui évitent la banque et atterrissent directement dans les portefeuilles d'argent mobile.",
+      "category": "Finance & Fintech",
       "website": "https://sendrift-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T23:11:27.312505+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:40.350773+00:00"
     },
     {
       "name": "TwistSix",
@@ -168992,10 +169007,13 @@
     {
       "name": "COI Renewal Desk",
       "slug": "polsia-coi-renewal-desk",
+      "description": "Track vendor insurance. Flag problems. Never miss a renewal.",
+      "description_fr": "Suivez l’assurance du fournisseur. Signaler les problèmes. Ne manquez jamais un renouvellement.",
+      "category": "Other",
       "website": "https://coi-renewal-desk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-25T23:12:07.105872+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:42.245145+00:00"
     },
     {
       "name": "Artigianeria",
@@ -169018,6 +169036,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-25T23:12:16.238818+00:00"
+    },
+    {
+      "name": "Vibrant",
+      "slug": "polsia-vibrant-media",
+      "website": "https://vibrant-media.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T01:31:04.117980+00:00"
+    },
+    {
+      "name": "ToolPin",
+      "slug": "polsia-toolpin",
+      "website": "https://toolpin.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T01:31:04.294530+00:00"
+    },
+    {
+      "name": "FenceIQ",
+      "slug": "polsia-fencequote",
+      "website": "https://fencequote.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T01:31:05.321701+00:00"
+    },
+    {
+      "name": "Strides — AI Co",
+      "slug": "polsia-strides-ai-2",
+      "description": "Solo founders burn out trying to do everything themselves. The brands that make it are the ones that found leverage. Strides is that leverage — an AI that runs the operations your brand needs to grow, so you can do the work only you can do.",
+      "description_fr": "Les fondateurs solos s’épuisent en essayant de tout faire eux-mêmes. Les marques qui le fabriquent sont celles qui ont trouvé un levier. Strides est cet levier : une IA qui gère les opérations dont votre marque a besoin pour se développer, afin que vous puissiez faire le travail que vous seul pouvez faire.",
+      "category": "AI & Machine Learning",
+      "website": "https://strides-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:06.699438+00:00"
+    },
+    {
+      "name": "ReachGrid — Autonomous Outbound Sales Agent",
+      "slug": "polsia-reachgrid",
+      "description": "\"ReachGrid researches every target before writing a single word. Writes each message as if it was composed for them specifically. And runs the sequence without your SDR touching anything until the meeting is booked.\"",
+      "description_fr": "\"ReachGrid recherche chaque cible avant d'écrire un seul mot. Écrit chaque message comme s'il avait été composé spécifiquement pour eux. Et exécute la séquence sans que votre SDR ne touche quoi que ce soit jusqu'à ce que la réunion soit réservée.\"",
+      "category": "Sales & CRM",
+      "website": "https://reachgrid.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:08.485752+00:00"
+    },
+    {
+      "name": "SolSource Foods LLC",
+      "slug": "polsia-solsource-foods-llc",
+      "description": "Connecting US businesses with sustainable superfoods from Peru and Thailand.",
+      "description_fr": "Connecter les entreprises américaines aux superaliments durables du Pérou et de Thaïlande.",
+      "category": "Food & Beverage",
+      "website": "https://solsource-foods-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:09.348413+00:00"
+    },
+    {
+      "name": "Opsentinel",
+      "slug": "polsia-opsentinel",
+      "description": "Autonomous cloud infrastructure that monitors, heals, and evolves 24/7.",
+      "description_fr": "Infrastructure cloud autonome qui surveille, répare et évolue 24h/24 et 7j/7.",
+      "category": "Other",
+      "website": "https://opsentinel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:45.048235+00:00"
+    },
+    {
+      "name": "InboxIQ",
+      "slug": "polsia-inboxiq-1782437101699-t9wc",
+      "description": "Smart routing, zero overload. Unified AI assistant for knowledge workers that monitors emails, Slack, SMS, and calls to prioritize what demands immediate attention.",
+      "description_fr": "Routage intelligent, zéro surcharge. Assistant d'IA unifié pour les travailleurs du savoir qui surveille les e-mails, Slack, les SMS et les appels pour hiérarchiser ce qui nécessite une attention immédiate.",
+      "category": "AI & Machine Learning",
+      "website": "https://inboxiq-1782437101699-t9wc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:16.049772+00:00"
+    },
+    {
+      "name": "Qwestr — AI",
+      "slug": "polsia-qwestr",
+      "description": "If you spend three days chasing supplier quotes, you're doing procurement manually — and losing money every time. Qwestr gives you the leverage of a dedicated sourcing team without the overhead.",
+      "description_fr": "Si vous passez trois jours à rechercher des devis de fournisseurs, vous effectuez les achats manuellement et perdez de l'argent à chaque fois. Qwestr vous offre l'avantage d'une équipe d'approvisionnement dédiée sans les frais généraux.",
+      "category": "AI & Machine Learning",
+      "website": "https://qwestr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:17.100890+00:00"
+    },
+    {
+      "name": "ColorProof — The First Certified Color Library",
+      "slug": "polsia-colorproof",
+      "description": "ColorProof is an archive. Every certified color carries a unique Certificate ID, a verified owner, and a permanent provenance record — from discovery to collection.",
+      "description_fr": "ColorProof est une archive. Chaque couleur certifiée porte un identifiant de certificat unique, un propriétaire vérifié et un enregistrement permanent de provenance, de la découverte à la collection.",
+      "category": "Sustainability & Green",
+      "website": "https://colorproof.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T01:31:18.692147+00:00"
     }
   ]
 }
