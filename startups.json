@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T19:49:59.999872+00:00",
+  "last_updated": "2026-06-26T20:06:57.012436+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -169685,34 +169685,46 @@
     {
       "name": "ConsentOps",
       "slug": "polsia-consentops",
+      "description": "Autonomous first-party data pipelines for privacy-first advertising.",
+      "description_fr": "Pipelines de données autonomes de première partie pour une publicité axée sur la confidentialité.",
+      "category": "Marketing & Advertising",
       "website": "https://consentops.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T18:03:13.334071+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T20:06:11.643227+00:00"
     },
     {
       "name": "FoodBridge",
       "slug": "polsia-foodbridge",
+      "description": "The AI surplus broker for restaurants. Connect restaurants with surplus food suppliers, automate negotiation, scheduling, and compliance.",
+      "description_fr": "Le courtier de surplus d’IA pour les restaurants. Connectez les restaurants aux fournisseurs de produits alimentaires excédentaires, automatisez la négociation, la planification et la conformité.",
+      "category": "AI & Machine Learning",
       "website": "https://foodbridge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T18:03:18.590656+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T20:06:12.917830+00:00"
     },
     {
       "name": "DealScout",
       "slug": "polsia-dealscout-1782496935812-xv9i",
+      "description": "AI-powered deal flow agent for active acquirers, micro-PE funds, and solo buyers. Monitor marketplaces, score targets, and draft offers 24/7.",
+      "description_fr": "Agent de flux de transactions alimenté par l'IA pour les acquéreurs actifs, les fonds de micro-PE et les acheteurs individuels. Surveillez les marchés, marquez des objectifs et rédigez des offres 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://dealscout-1782496935812-xv9i.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T18:03:23.940041+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T20:06:13.777874+00:00"
     },
     {
       "name": "Vertex Capital",
       "slug": "polsia-vertex-capital-2",
+      "description": "AI-automated holding infrastructure for scaling and managing portfolio companies.",
+      "description_fr": "Infrastructure de détention automatisée par l'IA pour faire évoluer et gérer les sociétés de portefeuille.",
+      "category": "Software & SaaS",
       "website": "https://vertex-capital-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T18:03:29.281951+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-26T20:06:14.973380+00:00"
     },
     {
       "name": "PotentialIQ",
@@ -169779,6 +169791,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-26T18:03:56.613237+00:00"
+    },
+    {
+      "name": "Prebuilt Commerce",
+      "slug": "polsia-prebuilt-commerce",
+      "website": "https://prebuilt-commerce.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T20:05:13.249001+00:00"
+    },
+    {
+      "name": "Artflow AI",
+      "slug": "polsia-artflow-ai-4",
+      "website": "https://artflow-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T20:05:18.554936+00:00"
+    },
+    {
+      "name": "OrthoFlow",
+      "slug": "polsia-orthoflow-2",
+      "website": "https://orthoflow-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T20:05:23.819270+00:00"
+    },
+    {
+      "name": "Gray Matter Profits",
+      "slug": "polsia-gray-matter-profits",
+      "website": "https://gray-matter-profits.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T20:05:34.019554+00:00"
+    },
+    {
+      "name": "Clario Consulting",
+      "slug": "polsia-clario-consulting",
+      "website": "https://clario-consulting.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T20:05:44.256269+00:00"
+    },
+    {
+      "name": "WonderDrop",
+      "slug": "polsia-wonderdrop",
+      "website": "https://wonderdrop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-26T20:05:49.428604+00:00"
+    },
+    {
+      "name": "SharaSpot",
+      "slug": "polsia-sharaspot",
+      "description": "Inbox-first cold email platform for reliable B2B outreach. Intelligent sender rotation, 14-day warmup, and reply-aware sequences — 10x better inbox placement.",
+      "description_fr": "Plateforme de courrier électronique froid, première boîte de réception, pour une sensibilisation B2B fiable. Rotation intelligente des expéditeurs, préchauffage de 14 jours et séquences de réponse : placement 10 fois meilleur dans la boîte de réception.",
+      "category": "Sales & CRM",
+      "website": "https://sharaspot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T20:05:54.873241+00:00"
+    },
+    {
+      "name": "Decisiq",
+      "slug": "polsia-decisiq",
+      "description": "AI-powered real-time decisioning for consumer platforms at scale.",
+      "description_fr": "Prise de décision en temps réel basée sur l'IA pour les plateformes grand public à grande échelle.",
+      "category": "Software & SaaS",
+      "website": "https://decisiq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T20:05:55.435806+00:00"
+    },
+    {
+      "name": "GroundUp Ontario Fund",
+      "slug": "polsia-groundup-ontario-fund",
+      "description": "From tent cities to permanent homes — together. GroundUp Ontario Fund is a registered Ontario nonprofit dedicated to eliminating homelessness and tent encampments across the province.",
+      "description_fr": "Des villes de tentes aux maisons permanentes – ensemble. GroundUp Ontario Fund est un organisme à but non lucratif enregistré en Ontario qui se consacre à l'élimination des sans-abri et des campements de tentes dans toute la province.",
+      "category": "Other",
+      "website": "https://groundup-ontario-fund.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T20:05:56.337498+00:00"
+    },
+    {
+      "name": "Apex Circuit",
+      "slug": "polsia-apex-circuit",
+      "description": "The autonomous racing league that never sleeps.",
+      "description_fr": "La ligue de course autonome qui ne dort jamais.",
+      "category": "Other",
+      "website": "https://apex-circuit.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-26T20:05:57.265120+00:00"
     }
   ]
 }
