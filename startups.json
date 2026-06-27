@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T08:49:57.570843+00:00",
+  "last_updated": "2026-06-27T10:50:12.812801+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -170443,26 +170443,35 @@
     {
       "name": "Pact.ai",
       "slug": "polsia-pactai-2",
+      "description": "Autonomous AI agents that negotiate, manage, and enforce freelance contracts around the clock.",
+      "description_fr": "Des agents IA autonomes qui négocient, gèrent et appliquent des contrats indépendants 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://pactai-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T08:49:02.078922+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T10:49:59.098265+00:00"
     },
     {
       "name": "YorkEats",
       "slug": "polsia-yorkeats",
+      "description": "York's independent food & drink guide — discover local restaurants, bars, pubs, cafes, and fine dining across the historic city.",
+      "description_fr": "Guide indépendant de la gastronomie et des boissons de York : découvrez les restaurants, bars, pubs, cafés et restaurants gastronomiques locaux dans la ville historique.",
+      "category": "Food & Beverage",
       "website": "https://yorkeats.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T08:49:07.468228+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T10:50:00.658296+00:00"
     },
     {
       "name": "TalentOrbit",
       "slug": "polsia-talentorbit-2",
+      "description": "Always-on autonomous hiring for high-growth teams. AI talent operating system running 24/7 to source, match, and engage candidates at scale.",
+      "description_fr": "Recrutement autonome permanent pour les équipes à forte croissance. Système d'exploitation des talents IA fonctionnant 24h/24 et 7j/7 pour rechercher, jumeler et engager des candidats à grande échelle.",
+      "category": "AI & Machine Learning",
       "website": "https://talentorbit-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T08:49:12.897221+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T10:50:02.380210+00:00"
     },
     {
       "name": "SenseForce",
@@ -170540,6 +170549,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-27T08:49:27.383803+00:00"
+    },
+    {
+      "name": "OpsStack",
+      "slug": "polsia-opsstack-1782557332596-ta8g",
+      "website": "https://opsstack-1782557332596-ta8g.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T10:49:30.937974+00:00"
+    },
+    {
+      "name": "506EnergySave Ltd.",
+      "slug": "polsia-506energysave-ltd",
+      "website": "https://506energysave-ltd.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T10:49:36.381452+00:00"
+    },
+    {
+      "name": "Voicebip",
+      "slug": "polsia-voicebip",
+      "description": "Agentes de IA de voz nigerianos con regulación NCC, números +234 y soporte nativo en pidgin e idiomas locales.",
+      "description_fr": "Agents de l'IA de la voix nigériane avec la réglementation NCC, numéro +234 et support national en pidgin et langues locales.",
+      "category": "Other",
+      "website": "https://voicebip.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T10:49:37.407204+00:00"
+    },
+    {
+      "name": "ClipPulse",
+      "slug": "polsia-clippulse-5",
+      "website": "https://clippulse-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T10:49:37.686490+00:00"
+    },
+    {
+      "name": "NightScout",
+      "slug": "polsia-nightscout",
+      "description": "Your overnight community scout, delivering morning insights",
+      "description_fr": "Votre éclaireur communautaire du jour au lendemain, fournissant des informations matinales",
+      "category": "Social & Community",
+      "website": "https://nightscout.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T10:49:39.032952+00:00"
+    },
+    {
+      "name": "BE IN QSE",
+      "slug": "polsia-be-in-qse",
+      "description": "Conseil, audit et formation QSE : votre partenaire pour la certification ISO et l'excellence managériale.",
+      "description_fr": "Conseil, audit et formation QSE : votre partenaire pour la certification ISO et l'excellence managériale.",
+      "category": "Other",
+      "website": "https://be-in-qse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T10:49:40.158322+00:00"
+    },
+    {
+      "name": "Robotnik.world",
+      "slug": "polsia-robotnikworld",
+      "description": "Integrated frontier technology investment intelligence — tracking semiconductors, robotics, space, and critical materials across 253 public companies.",
+      "description_fr": "Intelligence intégrée en matière d’investissement dans les technologies de pointe – suivi des semi-conducteurs, de la robotique, de l’espace et des matériaux critiques dans 253 entreprises publiques.",
+      "category": "Finance & Fintech",
+      "website": "https://robotnikworld.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T10:49:42.038179+00:00"
+    },
+    {
+      "name": "ChainCanvas",
+      "slug": "polsia-chaincanvas-2",
+      "description": "Where Web3 complexity meets conversion copywriting. Premium whitepaper and litepaper writing for crypto protocols and blockchain projects.",
+      "description_fr": "Là où la complexité du Web3 rencontre la rédaction de conversion. Rédaction de livres blancs et de documents légers haut de gamme pour les protocoles cryptographiques et les projets blockchain.",
+      "category": "Finance & Fintech",
+      "website": "https://chaincanvas-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T10:49:43.779627+00:00"
+    },
+    {
+      "name": "Vantablade Living",
+      "slug": "polsia-vantablade-living",
+      "description": "Ultra-premium property management for discerning owners across Arizona’s most prestigious communities.",
+      "description_fr": "Gestion immobilière ultra-premium pour les propriétaires exigeants des communautés les plus prestigieuses de l'Arizona.",
+      "category": "Real Estate",
+      "website": "https://vantablade-living.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T10:49:44.824866+00:00"
+    },
+    {
+      "name": "Robin Doyle Performance Consulting",
+      "slug": "polsia-robin-doyle-performance-consulting",
+      "description": "Identity-first performance coaching for closers, executives, and founders. Using a proprietary Thought → Identity → Behaviour → Result methodology grounded in neuroplasticity.",
+      "description_fr": "Coaching de performance axé sur l'identité pour les fermetures, les dirigeants et les fondateurs. Utiliser une méthodologie exclusive Pensée → Identité → Comportement → Résultat fondée sur la neuroplasticité.",
+      "category": "Education",
+      "website": "https://robin-doyle-performance-consulting.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T10:49:45.727320+00:00"
     }
   ]
 }
