@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T08:37:32.951836+00:00",
+  "last_updated": "2026-06-27T08:49:57.570843+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -170333,18 +170333,24 @@
     {
       "name": "StormBridge AI",
       "slug": "polsia-stormbridge-ai",
+      "description": "Instant disaster recovery automation for small businesses. Continuously monitors federal disaster APIs to trigger SBA loans, insurance claims, and contractor outreach — the moment a disaster is declared.",
+      "description_fr": "Automatisation instantanée de la reprise après sinistre pour les petites entreprises. Surveille en permanence les API fédérales en cas de catastrophe pour déclencher des prêts SBA, des réclamations d'assurance et la sensibilisation des entrepreneurs, dès qu'une catastrophe est déclarée.",
+      "category": "AI & Machine Learning",
       "website": "https://stormbridge-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T06:08:50.263452+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T08:49:40.176483+00:00"
     },
     {
-      "name": "Race Star",
+      "name": "Team Racestar",
       "slug": "polsia-race-star",
+      "description": "Team Racestar — Vicecampioni Italiani CIV Supersport 300 · Wildcards Mondiali WSBK · Sviluppatori Ufficiali CFMOTO 675 SR-R.",
+      "description_fr": "Team Racestar — Vicecampioni Italiani CIV Supersport 300 · Wildcards Mondiali WSBK · Sviluppatori Ufficiali CFMOTO 675 SR-R.",
+      "category": "Other",
       "website": "https://race-star.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T06:08:55.762139+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T08:49:41.563203+00:00"
     },
     {
       "name": "Viking CNC LLC",
@@ -170433,6 +170439,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-27T06:09:10.562949+00:00"
+    },
+    {
+      "name": "Pact.ai",
+      "slug": "polsia-pactai-2",
+      "website": "https://pactai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T08:49:02.078922+00:00"
+    },
+    {
+      "name": "YorkEats",
+      "slug": "polsia-yorkeats",
+      "website": "https://yorkeats.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T08:49:07.468228+00:00"
+    },
+    {
+      "name": "TalentOrbit",
+      "slug": "polsia-talentorbit-2",
+      "website": "https://talentorbit-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T08:49:12.897221+00:00"
+    },
+    {
+      "name": "SenseForce",
+      "slug": "polsia-senseforce",
+      "description": "Always-on AI that monitors your environment and market — then acts. Cut holding costs by 20–50% while preventing stockouts.",
+      "description_fr": "Une IA toujours active qui surveille votre environnement et votre marché, puis agit. Réduisez les coûts de détention de 20 à 50 % tout en évitant les ruptures de stock.",
+      "category": "AI & Machine Learning",
+      "website": "https://senseforce.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T08:49:57.568560+00:00"
+    },
+    {
+      "name": "Aura Synthesis Labs",
+      "slug": "polsia-aura-synthesis-labs",
+      "description": "U.S.-Manufactured Research Peptides with Certified Purity.",
+      "description_fr": "Peptides de recherche fabriqués aux États-Unis avec une pureté certifiée.",
+      "category": "Other",
+      "website": "https://aura-synthesis-labs.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T08:49:20.779660+00:00"
+    },
+    {
+      "name": "Elevatix",
+      "slug": "polsia-elevatix-3",
+      "description": "Websites engineered to accelerate growth.",
+      "description_fr": "Des sites Web conçus pour accélérer la croissance.",
+      "category": "Other",
+      "website": "https://elevatix-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T08:49:21.827682+00:00"
+    },
+    {
+      "name": "FrameForge",
+      "slug": "polsia-frameforge-1782549682629-nyph",
+      "description": "On-demand AI motion graphics for brands — 24/7. Autonomous video production for marketing teams, agencies, and brands at scale.",
+      "description_fr": "Graphiques animés IA à la demande pour les marques – 24h/24 et 7j/7. Production vidéo autonome pour les équipes marketing, les agences et les marques à grande échelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://frameforge-1782549682629-nyph.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T08:49:23.403599+00:00"
+    },
+    {
+      "name": "DevPulse",
+      "slug": "polsia-devpulse-1782549730285-oviv",
+      "description": "Your developer presence, automatically updated and full of opportunities.",
+      "description_fr": "Votre présence développeur, automatiquement mise à jour et pleine d'opportunités.",
+      "category": "Other",
+      "website": "https://devpulse-1782549730285-oviv.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T08:49:24.371380+00:00"
+    },
+    {
+      "name": "PSF Collective",
+      "slug": "polsia-psf-collective",
+      "description": "Premium après padel lifestyle apparel — designed for life off the court.",
+      "description_fr": "Vêtements de style de vie après-padel haut de gamme — conçus pour la vie en dehors du terrain.",
+      "category": "Other",
+      "website": "https://psf-collective.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T08:49:25.540224+00:00"
+    },
+    {
+      "name": "iManage Forge",
+      "slug": "polsia-imanage-forge",
+      "description": "Custom iManage solutions that standard software can&apos;t deliver.",
+      "description_fr": "Solutions iManage personnalisées que les logiciels standards ne peuvent pas offrir.",
+      "category": "Software & SaaS",
+      "website": "https://imanage-forge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T08:49:27.383803+00:00"
     }
   ]
 }
