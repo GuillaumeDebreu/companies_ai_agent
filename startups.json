@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T23:52:43.720133+00:00",
+  "last_updated": "2026-06-27T02:29:14.844556+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -170119,10 +170119,13 @@
     {
       "name": "SourceLight NZ",
       "slug": "polsia-sourcelight-nz",
+      "description": "Premium LED installations at manufacturer prices — no middleman markups.",
+      "description_fr": "Installations LED haut de gamme aux prix du fabricant – pas de majorations intermédiaires.",
+      "category": "Other",
       "website": "https://sourcelight-nz.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T23:51:30.376239+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T02:28:56.375923+00:00"
     },
     {
       "name": "TrustEcho",
@@ -170143,10 +170146,13 @@
     {
       "name": "AssetSync",
       "slug": "polsia-assetsync",
+      "description": "Real-time asset visibility for modern enterprises.",
+      "description_fr": "Visibilité des actifs en temps réel pour les entreprises modernes.",
+      "category": "Other",
       "website": "https://assetsync.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T23:51:51.497699+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T02:28:58.866816+00:00"
     },
     {
       "name": "Scoutly",
@@ -170213,6 +170219,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-26T23:51:58.959771+00:00"
+    },
+    {
+      "name": "PortfolioPulse",
+      "slug": "polsia-portfoliopulse-2",
+      "website": "https://portfoliopulse-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T02:28:16.724418+00:00"
+    },
+    {
+      "name": "Remitrip",
+      "slug": "polsia-remitrip",
+      "website": "https://remitrip.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T02:28:22.226570+00:00"
+    },
+    {
+      "name": "SentinelIQ",
+      "slug": "polsia-sentineliq-1782527122330-q21b",
+      "website": "https://sentineliq-1782527122330-q21b.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T02:28:27.737540+00:00"
+    },
+    {
+      "name": "ABT Boron",
+      "slug": "polsia-advanced-barrier-lubrication-technology-pty-ltd",
+      "description": "Advanced Barrier Lubrication Technology — tecnología de lubricación con boro para reducir fricción, desgaste y costos en motores y maquinaria industrial.",
+      "description_fr": "Advanced Barrier Lubrication Technology — technologie de lubrification avec du bore pour réduire la friction, les déchets et les coûts des moteurs et des machines industrielles.",
+      "category": "Other",
+      "website": "https://advanced-barrier-lubrication-technology-pty-ltd.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T02:28:29.988783+00:00"
+    },
+    {
+      "name": "ShelfPulse",
+      "slug": "polsia-shelfpulse-4",
+      "description": "AI-powered inventory tracking that prevents stockouts before they happen.",
+      "description_fr": "Un suivi des stocks basé sur l'IA qui évite les ruptures de stock avant qu'elles ne surviennent.",
+      "category": "AI & Machine Learning",
+      "website": "https://shelfpulse-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T02:28:31.146533+00:00"
+    },
+    {
+      "name": "PennyPilot",
+      "slug": "polsia-pennypilot-7",
+      "description": "Your AI co-pilot for smarter daily spending.",
+      "description_fr": "Votre copilote IA pour des dépenses quotidiennes plus intelligentes.",
+      "category": "AI & Machine Learning",
+      "website": "https://pennypilot-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T02:28:32.468067+00:00"
+    },
+    {
+      "name": "OmniFlow",
+      "slug": "polsia-omniflow-2",
+      "description": "One source. Every channel. Always on.",
+      "description_fr": "Une source. Chaque chaîne. Toujours allumé.",
+      "category": "Other",
+      "website": "https://omniflow-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T02:28:34.455405+00:00"
+    },
+    {
+      "name": "TaskPilot AI",
+      "slug": "polsia-taskpilot-ai-3",
+      "description": "Your AI Operations Employee — Works While You Sleep. Autonomous AI that handles email, scheduling, invoicing, and CRM updates for small businesses.",
+      "description_fr": "Votre employé des opérations d'IA — travaille pendant que vous dormez. IA autonome qui gère les mises à jour des e-mails, de la planification, de la facturation et du CRM pour les petites entreprises.",
+      "category": "AI & Machine Learning",
+      "website": "https://taskpilot-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T02:28:36.184363+00:00"
+    },
+    {
+      "name": "AidStream",
+      "slug": "polsia-aidstream",
+      "description": "AI-powered scholarship discovery and one-click applications. Automate your path to funding with intelligent matching and auto-filled forms.",
+      "description_fr": "Découverte de bourses basée sur l'IA et applications en un clic. Automatisez votre cheminement vers le financement grâce à une correspondance intelligente et à des formulaires remplis automatiquement.",
+      "category": "AI & Machine Learning",
+      "website": "https://aidstream.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T02:28:37.954533+00:00"
+    },
+    {
+      "name": "CardScale",
+      "slug": "polsia-cardscale",
+      "description": "AI-powered pricing intelligence for the gift card resale market.",
+      "description_fr": "Intelligence tarifaire basée sur l'IA pour le marché de la revente de cartes-cadeaux.",
+      "category": "AI & Machine Learning",
+      "website": "https://cardscale.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T02:28:40.014789+00:00"
     }
   ]
 }
