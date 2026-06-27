@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T13:45:48.872698+00:00",
+  "last_updated": "2026-06-27T14:04:33.558010+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -170034,10 +170034,13 @@
     {
       "name": "PitchLoop",
       "slug": "polsia-pitchloop-1782514020352-5eb9",
+      "description": "Where world-class sales teams present, connect, and grow together.",
+      "description_fr": "Où des équipes commerciales de classe mondiale se présentent, se connectent et grandissent ensemble.",
+      "category": "Sales & CRM",
       "website": "https://pitchloop-1782514020352-5eb9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-26T22:49:37.772681+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T14:04:02.349671+00:00"
     },
     {
       "name": "QuestSelf",
@@ -170660,10 +170663,13 @@
     {
       "name": "NexusIQ",
       "slug": "polsia-nexusiq-1782561775483-7ape",
+      "description": "Autonomous hosting infrastructure — monitors, scales, and protects itself.",
+      "description_fr": "Infrastructure d'hébergement autonome : surveille, évolue et se protège.",
+      "category": "Other",
       "website": "https://nexusiq-1782561775483-7ape.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T12:02:57.895010+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T14:04:05.443803+00:00"
     },
     {
       "name": "Mahoney FC",
@@ -170760,6 +170766,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-27T12:03:18.141492+00:00"
+    },
+    {
+      "name": "Tambi",
+      "slug": "polsia-tambi",
+      "website": "https://tambi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T14:03:23.904618+00:00"
+    },
+    {
+      "name": "The Pick Up",
+      "slug": "polsia-the-pick-up",
+      "website": "https://the-pick-up.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T14:03:24.455301+00:00"
+    },
+    {
+      "name": "Memoria",
+      "slug": "polsia-memoria-1782568926436-db69",
+      "website": "https://memoria-1782568926436-db69.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T14:03:29.759168+00:00"
+    },
+    {
+      "name": "TransitPulse",
+      "slug": "polsia-transitpulse-2",
+      "website": "https://transitpulse-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T14:03:35.190140+00:00"
+    },
+    {
+      "name": "AutonomIQ",
+      "slug": "polsia-autonomiq-9",
+      "website": "https://autonomiq-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T14:03:40.585687+00:00"
+    },
+    {
+      "name": "Onda",
+      "slug": "polsia-onda-4",
+      "description": "Premium nanofiber cleaning cloths for UAE homes. Clean everything. Just add water.",
+      "description_fr": "Chiffons de nettoyage en nanofibres de qualité supérieure pour les maisons des Émirats arabes unis. Nettoyez tout. Ajoutez simplement de l'eau.",
+      "category": "Other",
+      "website": "https://onda-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T14:03:42.716496+00:00"
+    },
+    {
+      "name": "Wagr",
+      "slug": "polsia-wagr",
+      "website": "https://wagr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T14:03:48.083632+00:00"
+    },
+    {
+      "name": "Velocity AI",
+      "slug": "polsia-velocity-ai-1782568581007-vtdy",
+      "description": "AI-powered revenue acceleration for modern businesses.",
+      "description_fr": "Accélération des revenus grâce à l'IA pour les entreprises modernes.",
+      "category": "AI & Machine Learning",
+      "website": "https://velocity-ai-1782568581007-vtdy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T14:03:48.980307+00:00"
+    },
+    {
+      "name": "AutonomAI",
+      "slug": "polsia-untitled-1782568512482-vw6k",
+      "website": "https://untitled-1782568512482-vw6k.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T14:03:49.463574+00:00"
+    },
+    {
+      "name": "PulseIQ",
+      "slug": "polsia-pulseiq-1782568473217-s4j2",
+      "description": "AI-powered 24/7 brand monitoring and intelligence. Track every mention across social media, forums, reviews, news, and AI-generated responses.",
+      "description_fr": "Surveillance et intelligence de la marque alimentées par l'IA 24h/24 et 7j/7. Suivez chaque mention sur les réseaux sociaux, les forums, les avis, les actualités et les réponses générées par l'IA.",
+      "category": "Marketing & Advertising",
+      "website": "https://pulseiq-1782568473217-s4j2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T14:03:50.359508+00:00"
     }
   ]
 }
