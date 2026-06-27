@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T03:35:02.429976+00:00",
+  "last_updated": "2026-06-27T06:09:39.287016+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -170223,26 +170223,35 @@
     {
       "name": "PortfolioPulse",
       "slug": "polsia-portfoliopulse-2",
+      "description": "Always-on AI that monitors, rebalances, and reports—hands-free investing.",
+      "description_fr": "Une IA toujours active qui surveille, rééquilibre et génère des rapports : investissement mains libres.",
+      "category": "AI & Machine Learning",
       "website": "https://portfoliopulse-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T02:28:16.724418+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T06:09:25.535938+00:00"
     },
     {
       "name": "Remitrip",
       "slug": "polsia-remitrip",
+      "description": "Your authorized IRCTC partner for easy train ticket booking and instant refunds.",
+      "description_fr": "Votre partenaire IRCTC agréé pour une réservation facile de billets de train et des remboursements instantanés.",
+      "category": "Travel & Hospitality",
       "website": "https://remitrip.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T02:28:22.226570+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T06:09:27.529626+00:00"
     },
     {
       "name": "SentinelIQ",
       "slug": "polsia-sentineliq-1782527122330-q21b",
+      "description": "AI agents monitoring your leads 24/7, routing only high-intent prospects to sales.",
+      "description_fr": "Des agents IA surveillent vos prospects 24h/24 et 7j/7, acheminant uniquement les prospects à forte intention vers les ventes.",
+      "category": "Sales & CRM",
       "website": "https://sentineliq-1782527122330-q21b.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T02:28:27.737540+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T06:09:28.777518+00:00"
     },
     {
       "name": "ABT Boron",
@@ -170320,6 +170329,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-27T02:28:40.014789+00:00"
+    },
+    {
+      "name": "StormBridge AI",
+      "slug": "polsia-stormbridge-ai",
+      "website": "https://stormbridge-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T06:08:50.263452+00:00"
+    },
+    {
+      "name": "Race Star",
+      "slug": "polsia-race-star",
+      "website": "https://race-star.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T06:08:55.762139+00:00"
+    },
+    {
+      "name": "Viking CNC LLC",
+      "slug": "polsia-viking-cnc-llc",
+      "description": "Open-source CNC machine plans for makers. Detailed plans, step-by-step guides, and comprehensive instructions to build your own CNC machine from scratch.",
+      "description_fr": "Plans de machines CNC open source pour les fabricants. Des plans détaillés, des guides étape par étape et des instructions complètes pour construire votre propre machine CNC à partir de zéro.",
+      "category": "Other",
+      "website": "https://viking-cnc-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T06:08:57.546830+00:00"
+    },
+    {
+      "name": "Cryptimple",
+      "slug": "polsia-cryptimple",
+      "description": "Simplifying cryptocurrency for everyone. Manage, track, and grow your digital asset investments with a platform built for everyday users.",
+      "description_fr": "Simplifier la crypto-monnaie pour tout le monde. Gérez, suivez et développez vos investissements en actifs numériques avec une plateforme conçue pour les utilisateurs quotidiens.",
+      "category": "Finance & Fintech",
+      "website": "https://cryptimple.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T06:08:58.685004+00:00"
+    },
+    {
+      "name": "SyncPilot",
+      "slug": "polsia-syncpilot-8",
+      "description": "Autonomous sync licensing — running 24/7 to land your music in every frame.",
+      "description_fr": "Licence de synchronisation autonome : fonctionnant 24h/24 et 7j/7 pour diffuser votre musique dans chaque image.",
+      "category": "Entertainment & Media",
+      "website": "https://syncpilot-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T06:09:00.032508+00:00"
+    },
+    {
+      "name": "APISentinel",
+      "slug": "polsia-apisentinel",
+      "description": "24/7 autonomous AI that tests, monitors, and fixes broken API integrations across your SaaS stack.",
+      "description_fr": "Une IA autonome 24h/24 et 7j/7 qui teste, surveille et corrige les intégrations d'API défectueuses dans votre pile SaaS.",
+      "category": "Software & SaaS",
+      "website": "https://apisentinel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T06:09:05.811000+00:00"
+    },
+    {
+      "name": "Googolplex Capital Group L.L.C.",
+      "slug": "polsia-googolplex-capital-group-llc",
+      "description": "Invest in the future of disability inclusion through Web3 and blockchain innovation.",
+      "description_fr": "Investissez dans l’avenir de l’inclusion des personnes handicapées grâce à l’innovation Web3 et blockchain.",
+      "category": "Software & SaaS",
+      "website": "https://googolplex-capital-group-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T06:09:06.642873+00:00"
+    },
+    {
+      "name": "VigiServe",
+      "slug": "polsia-vigiserve",
+      "description": "AI agents that predict server failures before they happen — 24/7 health monitoring built for South African SMEs.",
+      "description_fr": "Des agents d'IA qui prédisent les pannes de serveur avant qu'elles ne se produisent : surveillance de l'état de santé 24h/24 et 7j/7 conçue pour les PME sud-africaines.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigiserve.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T06:09:07.988097+00:00"
+    },
+    {
+      "name": "Vantix",
+      "slug": "polsia-vantix-5",
+      "description": "AI-powered inventory intelligence for supply chain teams. Stop chasing stockouts — let your inventory manage itself.",
+      "description_fr": "Intelligence d'inventaire basée sur l'IA pour les équipes de chaîne d'approvisionnement. Arrêtez de courir après les ruptures de stock : laissez votre inventaire se gérer tout seul.",
+      "category": "AI & Machine Learning",
+      "website": "https://vantix-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T06:09:09.461712+00:00"
+    },
+    {
+      "name": "VenueFlow",
+      "slug": "polsia-venueflow-2",
+      "description": "Operations software built by hospitality operators, for hospitality operators. All-in-one scheduling, inventory, KDS, and workforce management.",
+      "description_fr": "Logiciel d'exploitation conçu par des opérateurs hôteliers, pour des opérateurs hôteliers. Planification, inventaire, KDS et gestion des effectifs tout-en-un.",
+      "category": "Software & SaaS",
+      "website": "https://venueflow-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T06:09:10.562949+00:00"
     }
   ]
 }
