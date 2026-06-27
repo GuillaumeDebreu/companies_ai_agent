@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T14:04:33.558010+00:00",
+  "last_updated": "2026-06-27T15:37:02.925864+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -170770,42 +170770,57 @@
     {
       "name": "Tambi",
       "slug": "polsia-tambi",
+      "description": "Where Senegal Works — the mobile-first recruitment platform connecting Senegalese talent with employers across agriculture, telecoms, finance, construction, renewable energy, and technology.",
+      "description_fr": "Where Sénégal Works - la plateforme de recrutement mobile qui connecte les talents sénégalais avec des employeurs dans les domaines de l'agriculture, des télécommunications, de la finance, de la construction, des énergies renouvelables et de la technologie.",
+      "category": "Sustainability & Green",
       "website": "https://tambi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T14:03:23.904618+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T15:36:17.200563+00:00"
     },
     {
       "name": "The Pick Up",
       "slug": "polsia-the-pick-up",
+      "description": "We deliver anything to anyone, anywhere. A unified delivery and commerce platform — hot shot trucking, passenger transport, neighbor-to-neighbor logistics, and last-mile delivery in one app.",
+      "description_fr": "Nous livrons n'importe quoi à n'importe qui, n'importe où. Une plate-forme de livraison et de commerce unifiée : camionnage à chaud, transport de passagers, logistique de voisin à voisin et livraison du dernier kilomètre dans une seule application.",
+      "category": "Logistics & Supply Chain",
       "website": "https://the-pick-up.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T14:03:24.455301+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T15:36:18.928568+00:00"
     },
     {
       "name": "Memoria",
       "slug": "polsia-memoria-1782568926436-db69",
+      "description": "Your digital life, perfectly indexed and remembered. An AI-powered memory system that understands context, temporal patterns, and semantic relationships across your entire digital existence.",
+      "description_fr": "Votre vie numérique, parfaitement indexée et mémorisée. Un système de mémoire alimenté par l'IA qui comprend le contexte, les modèles temporels et les relations sémantiques tout au long de votre existence numérique.",
+      "category": "AI & Machine Learning",
       "website": "https://memoria-1782568926436-db69.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T14:03:29.759168+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T15:36:20.828602+00:00"
     },
     {
       "name": "TransitPulse",
       "slug": "polsia-transitpulse-2",
+      "description": "AI-powered transit reliability that eliminates service gaps before they happen.",
+      "description_fr": "Une fiabilité des transports en commun basée sur l'IA qui élimine les interruptions de service avant qu'elles ne surviennent.",
+      "category": "AI & Machine Learning",
       "website": "https://transitpulse-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T14:03:35.190140+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T15:36:22.442576+00:00"
     },
     {
       "name": "AutonomIQ",
       "slug": "polsia-autonomiq-9",
+      "description": "AI agents that run IT consulting engagements from brief to proposal.",
+      "description_fr": "Agents IA qui gèrent des missions de conseil informatique, du brief à la proposition.",
+      "category": "AI & Machine Learning",
       "website": "https://autonomiq-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T14:03:40.585687+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T15:36:23.533653+00:00"
     },
     {
       "name": "Onda",
@@ -170821,10 +170836,13 @@
     {
       "name": "Wagr",
       "slug": "polsia-wagr",
+      "description": "Nutrition tailored to your pet's nature. Premium, personalized pet food subscriptions crafted from whole ingredients.",
+      "description_fr": "Alimentation adaptée à la nature de votre animal. Abonnements à des aliments pour animaux de compagnie haut de gamme et personnalisés, fabriqués à partir d'ingrédients entiers.",
+      "category": "Health & Wellness",
       "website": "https://wagr.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T14:03:48.083632+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T15:36:25.694093+00:00"
     },
     {
       "name": "Velocity AI",
@@ -170855,6 +170873,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-27T14:03:50.359508+00:00"
+    },
+    {
+      "name": "MaintainHQ",
+      "slug": "polsia-maintainhq",
+      "website": "https://maintainhq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T15:35:21.287939+00:00"
+    },
+    {
+      "name": "Reclaim",
+      "slug": "polsia-reclaim-7",
+      "website": "https://reclaim-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T15:35:26.898075+00:00"
+    },
+    {
+      "name": "Honest AI",
+      "slug": "polsia-honest-ai",
+      "website": "https://honest-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T15:35:32.474577+00:00"
+    },
+    {
+      "name": "Hazell Electrical Services",
+      "slug": "polsia-hazell-electrical-services",
+      "website": "https://hazell-electrical-services.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T15:35:37.953216+00:00"
+    },
+    {
+      "name": "TillväxtPartner",
+      "slug": "polsia-tillvxtpartner",
+      "description": "AI-driven reklambyrå som automatiskt hittar företag i behov av tillväxt.",
+      "description_fr": "Une simulation basée sur l'IA d'un appel automatique pour le suivi des commandes.",
+      "category": "AI & Machine Learning",
+      "website": "https://tillvxtpartner.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T15:36:50.494529+00:00"
+    },
+    {
+      "name": "Meros",
+      "slug": "polsia-meros-2",
+      "website": "https://meros-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T15:35:49.090669+00:00"
+    },
+    {
+      "name": "ClipAgent",
+      "slug": "polsia-clipagent",
+      "description": "AI agents working 24/7 to fill your barbershop schedule, reduce no-shows, and retain clients.",
+      "description_fr": "Des agents IA travaillant 24h/24 et 7j/7 pour remplir le planning de votre salon de coiffure, réduire les non-présentations et fidéliser les clients.",
+      "category": "AI & Machine Learning",
+      "website": "https://clipagent.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T15:36:57.572993+00:00"
+    },
+    {
+      "name": "Sledujdesky.cz",
+      "slug": "polsia-sledujdeskycz",
+      "description": "AI sledování úředních desek s interaktivní mapou pro investory, reality a řemeslníky.",
+      "description_fr": "AI sledování úředních bureau s interaktivní mapou pro investisseurs, réalité a řemeslníky.",
+      "category": "AI & Machine Learning",
+      "website": "https://sledujdeskycz.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T15:35:55.710172+00:00"
+    },
+    {
+      "name": "CleanBin UK",
+      "slug": "polsia-cleanbin-uk",
+      "description": "Professional wheelie bin cleaning with eco-conscious practices. Fully compliant with Environment Agency regulations. Serving homes and businesses across the United Kingdom.",
+      "description_fr": "Nettoyage professionnel des poubelles avec des pratiques respectueuses de l'environnement. Entièrement conforme aux réglementations de l'Agence pour l'environnement. Au service des foyers et des entreprises à travers le Royaume-Uni.",
+      "category": "Sustainability & Green",
+      "website": "https://cleanbin-uk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T15:35:57.027403+00:00"
+    },
+    {
+      "name": "PerformIQ",
+      "slug": "polsia-performiq-3",
+      "website": "https://performiq-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T15:36:02.504015+00:00"
     }
   ]
 }
