@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T19:22:21.749113+00:00",
+  "last_updated": "2026-06-27T20:13:08.193755+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -171215,10 +171215,13 @@
     {
       "name": "Swipeify",
       "slug": "polsia-swipeify",
+      "description": "All-in-one payment processing with rates up to 40% lower than competitors.",
+      "description_fr": "Traitement des paiements tout-en-un avec des tarifs jusqu'à 40 % inférieurs à ceux des concurrents.",
+      "category": "Finance & Fintech",
       "website": "https://swipeify.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T18:56:30.883859+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T20:12:44.422382+00:00"
     },
     {
       "name": "VigilOps",
@@ -171231,18 +171234,24 @@
     {
       "name": "Vantabl AI",
       "slug": "polsia-vantabl-ai",
+      "description": "Your autonomous competitive intelligence agent — watches, decides, acts.",
+      "description_fr": "Votre agent de veille concurrentielle autonome : veille, décide, agit.",
+      "category": "AI & Machine Learning",
       "website": "https://vantabl-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T18:56:46.499880+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T20:12:46.444026+00:00"
     },
     {
       "name": "RankVault",
       "slug": "polsia-rankvault-2",
+      "description": "Own the leads. Rent the asset. RankVault builds and rents niche websites that generate exclusive leads for local service businesses.",
+      "description_fr": "Possédez les prospects. Louez l'actif. RankVault crée et loue des sites Web de niche qui génèrent des prospects exclusifs pour les entreprises de services locales.",
+      "category": "Sales & CRM",
       "website": "https://rankvault-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T18:56:51.788149+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T20:12:47.683727+00:00"
     },
     {
       "name": "EnrollIQ",
@@ -171256,20 +171265,26 @@
       "scraped_at": "2026-06-27T18:58:01.133409+00:00"
     },
     {
-      "name": "Collecting More Treasure",
+      "name": "ToyFolio",
       "slug": "polsia-collecting-more-treasure",
+      "description": "Turn your toy collection into a tracked investment portfolio. Real-time valuations, price history, and portfolio analytics for serious collectors.",
+      "description_fr": "Transformez votre collection de jouets en un portefeuille d'investissement suivi. Évaluations en temps réel, historique des prix et analyses de portefeuille pour les collectionneurs sérieux.",
+      "category": "Finance & Fintech",
       "website": "https://collecting-more-treasure.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T18:57:02.595997+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T20:12:48.905799+00:00"
     },
     {
       "name": "FitLoop",
       "slug": "polsia-fitloop-2",
+      "description": "AI-powered custom tailoring, always perfectly fit.",
+      "description_fr": "Une confection personnalisée basée sur l'IA, toujours parfaitement ajustée.",
+      "category": "AI & Machine Learning",
       "website": "https://fitloop-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T18:57:08.187282+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T20:12:49.930585+00:00"
     },
     {
       "name": "Galka Farms",
@@ -171292,6 +171307,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-27T18:57:11.987888+00:00"
+    },
+    {
+      "name": "ADR Recovery Network",
+      "slug": "polsia-adr-recovery-network",
+      "website": "https://adr-recovery-network.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T20:12:01.833873+00:00"
+    },
+    {
+      "name": "Syncwise AI",
+      "slug": "polsia-syncwise-ai",
+      "description": "AI-Powered Autonomous Scheduling for Service Businesses",
+      "description_fr": "Planification autonome basée sur l'IA pour les entreprises de services",
+      "category": "AI & Machine Learning",
+      "website": "https://syncwise-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T20:12:55.817568+00:00"
+    },
+    {
+      "name": "Community Dialogue NYC",
+      "slug": "polsia-community-dialogue-nyc",
+      "description": "Empowering North Brooklyn through community dialogue, mental health support, and food security.",
+      "description_fr": "Autonomiser North Brooklyn grâce au dialogue communautaire, au soutien en matière de santé mentale et à la sécurité alimentaire.",
+      "category": "Health & Wellness",
+      "website": "https://community-dialogue-nyc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T20:12:56.414396+00:00"
+    },
+    {
+      "name": "StarForge AI",
+      "slug": "polsia-starforge-ai-2",
+      "website": "https://starforge-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T20:12:18.186291+00:00"
+    },
+    {
+      "name": "Sathers Auctions",
+      "slug": "polsia-sathers-auctions",
+      "description": "Family-owned online estate auctions serving Northern California since 2004.",
+      "description_fr": "Ventes immobilières en ligne familiales au service de la Californie du Nord depuis 2004.",
+      "category": "Other",
+      "website": "https://sathers-auctions.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T20:12:19.053642+00:00"
+    },
+    {
+      "name": "NordicDrop",
+      "slug": "polsia-nordicdrop",
+      "website": "https://nordicdrop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T20:12:24.337768+00:00"
+    },
+    {
+      "name": "Friendly Solutions Corp",
+      "slug": "polsia-friendly-solutions-corp",
+      "description": "Your trusted IT partner with predictable costs and enterprise-grade security. Managed IT services for small and medium businesses since 2001.",
+      "description_fr": "Votre partenaire informatique de confiance avec des coûts prévisibles et une sécurité de niveau entreprise. Services informatiques gérés pour petites et moyennes entreprises depuis 2001.",
+      "category": "Other",
+      "website": "https://friendly-solutions-corp.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T20:12:25.745102+00:00"
+    },
+    {
+      "name": "Subwise",
+      "slug": "polsia-subwise-9",
+      "description": "The AI watching your subscriptions so you don&apos;t have to.",
+      "description_fr": "L'IA surveille vos abonnements pour que vous n'ayez pas à le faire.",
+      "category": "AI & Machine Learning",
+      "website": "https://subwise-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T20:13:08.192293+00:00"
+    },
+    {
+      "name": "ResolveAI",
+      "slug": "polsia-resolveai-3",
+      "description": "24/7 AI support that learns from your business and never takes a day off.",
+      "description_fr": "Une assistance IA 24h/24 et 7j/7 qui apprend de votre entreprise et ne prend jamais un jour de congé.",
+      "category": "AI & Machine Learning",
+      "website": "https://resolveai-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T20:12:31.762701+00:00"
+    },
+    {
+      "name": "Urban Xteriors",
+      "slug": "polsia-urban-xteriors",
+      "description": "Custom exteriors and sheds built for Houston climate. LP SmartSide siding, custom sheds, patios, pergolas, and more — crafted for Houston's heat, humidity, and storm conditions.",
+      "description_fr": "Extérieurs et hangars personnalisés construits pour le climat de Houston. Revêtement LP SmartSide, cabanons personnalisés, patios, pergolas et plus encore – conçus pour les conditions de chaleur, d'humidité et de tempête de Houston.",
+      "category": "Sustainability & Green",
+      "website": "https://urban-xteriors.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T20:12:32.583210+00:00"
     }
   ]
 }
