@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T17:48:55.324543+00:00",
+  "last_updated": "2026-06-27T18:58:06.814145+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -171097,18 +171097,24 @@
     {
       "name": "Electrify Bike Co.",
       "slug": "polsia-electrify-bike-co",
+      "description": "DIY e-bike conversion kits from mid-drive motor experts. CYC Motors, Bafang, and Tongsheng — everything you need to electrify your ride.",
+      "description_fr": "Kits de conversion DIY pour vélo électrique proposés par des experts en moteurs à entraînement central. CYC Motors, Bafang et Tongsheng : tout ce dont vous avez besoin pour électrifier votre véhicule.",
+      "category": "Other",
       "website": "https://electrify-bike-co.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T17:47:32.506619+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T18:57:24.980100+00:00"
     },
     {
       "name": "Red Eye Marketing",
       "slug": "polsia-red-eye-marketing",
+      "description": "Digital tools, web design, and automations for local businesses in Great Falls, MT.",
+      "description_fr": "Outils numériques, conception de sites Web et automatisations pour les entreprises locales à Great Falls, MT.",
+      "category": "Marketing & Advertising",
       "website": "https://red-eye-marketing.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T17:47:38.028296+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T18:57:26.578092+00:00"
     },
     {
       "name": "OGS",
@@ -171146,10 +171152,13 @@
     {
       "name": "ShouldBuy",
       "slug": "polsia-shouldbuy",
+      "description": "AI-powered product analysis before you buy. Get instant breakdowns on pricing, alternatives, pros and cons — and shop with confidence.",
+      "description_fr": "Analyse de produits basée sur l'IA avant d'acheter. Obtenez des informations instantanées sur les prix, les alternatives, les avantages et les inconvénients, et achetez en toute confiance.",
+      "category": "AI & Machine Learning",
       "website": "https://shouldbuy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-27T17:47:55.853594+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-27T18:57:28.117891+00:00"
     },
     {
       "name": "Bourelly Group",
@@ -171194,6 +171203,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-27T17:48:05.367584+00:00"
+    },
+    {
+      "name": "ResolveIT",
+      "slug": "polsia-resolveit-2",
+      "website": "https://resolveit-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T18:56:25.503136+00:00"
+    },
+    {
+      "name": "Swipeify",
+      "slug": "polsia-swipeify",
+      "website": "https://swipeify.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T18:56:30.883859+00:00"
+    },
+    {
+      "name": "VigilOps",
+      "slug": "polsia-vigilops-6",
+      "website": "https://vigilops-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T18:56:41.167995+00:00"
+    },
+    {
+      "name": "Vantabl AI",
+      "slug": "polsia-vantabl-ai",
+      "website": "https://vantabl-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T18:56:46.499880+00:00"
+    },
+    {
+      "name": "RankVault",
+      "slug": "polsia-rankvault-2",
+      "website": "https://rankvault-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T18:56:51.788149+00:00"
+    },
+    {
+      "name": "EnrollIQ",
+      "slug": "polsia-enrolliq-2",
+      "description": "AI-powered enrollment automation that guides students from application to orientation — 24/7.",
+      "description_fr": "Automatisation des inscriptions basée sur l'IA qui guide les étudiants de la candidature à l'orientation, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://enrolliq-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T18:58:01.133409+00:00"
+    },
+    {
+      "name": "Collecting More Treasure",
+      "slug": "polsia-collecting-more-treasure",
+      "website": "https://collecting-more-treasure.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T18:57:02.595997+00:00"
+    },
+    {
+      "name": "FitLoop",
+      "slug": "polsia-fitloop-2",
+      "website": "https://fitloop-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-27T18:57:08.187282+00:00"
+    },
+    {
+      "name": "Galka Farms",
+      "slug": "polsia-galka-farms",
+      "description": "Premium microgreens and gourmet mushrooms grown for Atlanta's top chefs and home kitchens.",
+      "description_fr": "Micropousses et champignons gastronomiques de qualité supérieure cultivés pour les meilleurs chefs et cuisines familiales d'Atlanta.",
+      "category": "Food & Beverage",
+      "website": "https://galka-farms.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T18:57:10.177140+00:00"
+    },
+    {
+      "name": "TradeSync",
+      "slug": "polsia-tradesync-3",
+      "description": "AI-powered EDI integration for modern trading partner networks. Transform how your business manages Electronic Data Interchange operations.",
+      "description_fr": "Intégration EDI basée sur l'IA pour les réseaux de partenaires commerciaux modernes. Transformez la façon dont votre entreprise gère les opérations d’échange de données informatisées.",
+      "category": "AI & Machine Learning",
+      "website": "https://tradesync-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-27T18:57:11.987888+00:00"
     }
   ]
 }
