@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T20:01:45.187774+00:00",
+  "last_updated": "2026-06-28T21:15:13.467743+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -172723,10 +172723,13 @@
     {
       "name": "CargoFide",
       "slug": "polsia-cargofide",
+      "description": "Operator-Built Logistics Control Tower for Indian Freight Operations. Real-time shipment tracking, automated document workflows, and unified visibility across 50+ trade lanes.",
+      "description_fr": "Tour de contrôle logistique construite par l'opérateur pour les opérations de fret indiennes. Suivi des expéditions en temps réel, flux de documents automatisés et visibilité unifiée sur plus de 50 voies commerciales.",
+      "category": "Logistics & Supply Chain",
       "website": "https://cargofide.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T20:00:23.722747+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T21:14:40.799605+00:00"
     },
     {
       "name": "TrustPulse AI",
@@ -172739,10 +172742,13 @@
     {
       "name": "NetSentinel AI",
       "slug": "polsia-netsentinel-ai",
+      "description": "Autonomous network intelligence for flawless mobile connectivity.",
+      "description_fr": "Intelligence réseau autonome pour une connectivité mobile sans faille.",
+      "category": "AI & Machine Learning",
       "website": "https://netsentinel-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T20:00:34.573793+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T21:14:42.782126+00:00"
     },
     {
       "name": "SnapFix",
@@ -172769,10 +172775,13 @@
     {
       "name": "OdooBridge Canada",
       "slug": "polsia-odoobridge-canada",
+      "description": "Odoo implementation and managed services for Canadian SMBs — set up right, supported consistently.",
+      "description_fr": "Implémentation et services gérés d'Odoo pour les PME canadiennes – correctement configurés et pris en charge de manière cohérente.",
+      "category": "Other",
       "website": "https://odoobridge-canada.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T20:00:50.650542+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T21:14:44.126588+00:00"
     },
     {
       "name": "Compass Rural Intelligence",
@@ -172817,6 +172826,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-28T20:01:01.256098+00:00"
+    },
+    {
+      "name": "Milton Martial Arts World",
+      "slug": "polsia-milton-martial-arts-world",
+      "website": "https://milton-martial-arts-world.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T21:13:58.144310+00:00"
+    },
+    {
+      "name": "Outbound.ai",
+      "slug": "polsia-outboundai-1782681137836-icua",
+      "website": "https://outboundai-1782681137836-icua.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T21:14:03.359534+00:00"
+    },
+    {
+      "name": "RateWarp",
+      "slug": "polsia-ratewarp",
+      "website": "https://ratewarp.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T21:14:08.677743+00:00"
+    },
+    {
+      "name": "CraveOps",
+      "slug": "polsia-craveops",
+      "description": "All-in-one AI for food trucks and caterers. Orders, inventory, scheduling — 24/7.",
+      "description_fr": "IA tout-en-un pour les food trucks et les traiteurs. Commandes, inventaire, planification – 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://craveops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T21:15:01.339421+00:00"
+    },
+    {
+      "name": "Signature Piece",
+      "slug": "polsia-signature-piece",
+      "description": "Authenticated preloved luxury handbags, curated for confident buyers and sellers.",
+      "description_fr": "Sacs à main de luxe authentifiés, sélectionnés pour les acheteurs et les vendeurs confiants.",
+      "category": "Other",
+      "website": "https://signature-piece.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T21:15:03.036564+00:00"
+    },
+    {
+      "name": "PolyPrism",
+      "slug": "polsia-polyprism",
+      "website": "https://polyprism.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T21:14:24.512538+00:00"
+    },
+    {
+      "name": "ReviewIQ",
+      "slug": "polsia-reviewiq-9",
+      "description": "AI-powered review responses that sound like your brand. Monitor App Store and Google Play reviews, draft personalized responses in your brand voice, and flag urgent issues before they escalate.",
+      "description_fr": "Des réponses aux avis basées sur l'IA qui ressemblent à votre marque. Surveillez les avis sur l'App Store et Google Play, rédigez des réponses personnalisées avec la voix de votre marque et signalez les problèmes urgents avant qu'ils ne dégénèrent.",
+      "category": "AI & Machine Learning",
+      "website": "https://reviewiq-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T21:14:26.051132+00:00"
+    },
+    {
+      "name": "OrbitIQ",
+      "slug": "polsia-orbitiq-7",
+      "description": "AI agents that never sleep, campaigns that never stop optimizing.",
+      "description_fr": "Des agents d'IA qui ne dorment jamais, des campagnes qui ne cessent d'être optimisées.",
+      "category": "AI & Machine Learning",
+      "website": "https://orbitiq-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T21:14:27.553919+00:00"
+    },
+    {
+      "name": "BlockIQ",
+      "slug": "polsia-blockiq-2",
+      "description": "Standups inteligentes sin reuniones. Preguntas inteligentes vía Slack o Teams, briefings diarios y elevación automática de bloqueos críticos.",
+      "description_fr": "Standups intelligents sans réunions. Questions intelligentes via Slack ou Teams, journaux de briefings et élévation automatique des blocages critiques.",
+      "category": "Other",
+      "website": "https://blockiq-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T21:14:29.089019+00:00"
+    },
+    {
+      "name": "Axon",
+      "slug": "polsia-axon-1782680958585-9eaq",
+      "website": "https://axon-1782680958585-9eaq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T21:14:34.554856+00:00"
     }
   ]
 }
