@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T11:24:52.137054+00:00",
+  "last_updated": "2026-06-28T12:55:18.690907+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -172097,18 +172097,24 @@
     {
       "name": "LifeTwin",
       "slug": "polsia-lifetwin",
+      "description": "Die digitale Plattform für vernetzte Gesundheitsversorgung — Terminbuchung, Patientenverwaltung und Abrechnung für Gesundheitsberufe.",
+      "description_fr": "Die Digitale Plattform für vernetzte Gesundheitsversorgung — Terminbuchung, Patientenverwaltung und Abrechnung für Gesundheitsberufe.",
+      "category": "Health & Wellness",
       "website": "https://lifetwin.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T11:23:47.979571+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T12:54:50.641815+00:00"
     },
     {
       "name": "TrayLoop",
       "slug": "polsia-trayloop",
+      "description": "AI-driven autonomous replenishment for surgical instrument trays and loaner kits.",
+      "description_fr": "Réapprovisionnement autonome piloté par l'IA pour les plateaux d'instruments chirurgicaux et les kits de prêt.",
+      "category": "AI & Machine Learning",
       "website": "https://trayloop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T11:23:53.412461+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T12:54:52.168214+00:00"
     },
     {
       "name": "VigilanceAI",
@@ -172175,6 +172181,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-28T11:24:10.510139+00:00"
+    },
+    {
+      "name": "Servian.ai",
+      "slug": "polsia-servianai",
+      "website": "https://servianai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T12:54:04.941218+00:00"
+    },
+    {
+      "name": "OpsForce",
+      "slug": "polsia-opsforce-2",
+      "website": "https://opsforce-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T12:54:10.302318+00:00"
+    },
+    {
+      "name": "BrandSentinel",
+      "slug": "polsia-brandsentinel",
+      "website": "https://brandsentinel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T12:54:15.633034+00:00"
+    },
+    {
+      "name": "Monday Edu",
+      "slug": "polsia-monday-edu",
+      "description": "AI-Powered Adaptive Learning for Modern Education",
+      "description_fr": "Apprentissage adaptatif basé sur l'IA pour l'éducation moderne",
+      "category": "Education",
+      "website": "https://monday-edu.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T12:54:17.348092+00:00"
+    },
+    {
+      "name": "ViralForge AI",
+      "slug": "polsia-viralforge-ai-2",
+      "website": "https://viralforge-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T12:54:22.782755+00:00"
+    },
+    {
+      "name": "ArbEdge",
+      "slug": "polsia-arbedge-5",
+      "description": "AI agents that monitor competitors and auto-reprice across marketplaces, surfacing arbitrage windows in real time.",
+      "description_fr": "Des agents d'IA qui surveillent les concurrents et réactualisent automatiquement les prix sur les marchés, faisant apparaître des fenêtres d'arbitrage en temps réel.",
+      "category": "AI & Machine Learning",
+      "website": "https://arbedge-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T12:55:13.503538+00:00"
+    },
+    {
+      "name": "FurniMate",
+      "slug": "polsia-furnimate",
+      "description": "AI-powered showroom concierge that matches shoppers to furniture and books consultations automatically.",
+      "description_fr": "Concierge de showroom alimenté par l'IA qui associe automatiquement les acheteurs aux consultations de meubles et de livres.",
+      "category": "AI & Machine Learning",
+      "website": "https://furnimate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T12:54:29.181207+00:00"
+    },
+    {
+      "name": "DeckFlow",
+      "slug": "polsia-deckflow-4",
+      "website": "https://deckflow-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T12:54:34.661267+00:00"
+    },
+    {
+      "name": "ClearPath Analytics",
+      "slug": "polsia-clearpath-analytics",
+      "description": "AI-powered business intelligence for growing companies.",
+      "description_fr": "Intelligence économique basée sur l'IA pour les entreprises en croissance.",
+      "category": "AI & Machine Learning",
+      "website": "https://clearpath-analytics.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T12:54:38.245401+00:00"
+    },
+    {
+      "name": "Il Circolo",
+      "slug": "polsia-il-circolo",
+      "description": "Accesso esclusivo al lusso, senza il peso del possesso.",
+      "description_fr": "Accès exclusif au luxe, sans le poids du propriétaire.",
+      "category": "Other",
+      "website": "https://il-circolo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T12:54:40.102794+00:00"
     }
   ]
 }
