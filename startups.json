@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T16:01:27.292046+00:00",
+  "last_updated": "2026-06-28T17:23:38.271235+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -172405,18 +172405,24 @@
     {
       "name": "VIZ",
       "slug": "polsia-viz",
+      "description": "AI-powered mental visualization training for athletes. Train your mind like you train your body.",
+      "description_fr": "Entraînement à la visualisation mentale alimenté par l'IA pour les athlètes. Entraînez votre esprit comme vous entraînez votre corps.",
+      "category": "AI & Machine Learning",
       "website": "https://viz.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T16:00:04.268334+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T17:23:10.617931+00:00"
     },
     {
       "name": "Dad Strength",
       "slug": "polsia-dad-strength",
+      "description": "Real nutrition for real life. Made by dads, built for everyone.",
+      "description_fr": "Une vraie nutrition pour la vraie vie. Fabriqué par des papas, conçu pour tout le monde.",
+      "category": "Marketing & Advertising",
       "website": "https://dad-strength.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T16:00:04.879557+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T17:23:11.852234+00:00"
     },
     {
       "name": "Everbook AI",
@@ -172429,18 +172435,24 @@
     {
       "name": "AgentFlow",
       "slug": "polsia-agentflow-1782662228455-hwzp",
+      "description": "AI-powered CRM built for modern real estate agents",
+      "description_fr": "CRM basé sur l'IA conçu pour les agents immobiliers modernes",
+      "category": "AI & Machine Learning",
       "website": "https://agentflow-1782662228455-hwzp.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T16:00:15.614006+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T17:23:13.411215+00:00"
     },
     {
       "name": "OnlyChat AI",
       "slug": "polsia-onlychat-ai",
+      "description": "AI-powered 24/7 chat automation for OnlyFans creators and agencies. Automate fan conversations, engage followers, and drive PPV sales.",
+      "description_fr": "Automatisation du chat 24h/24 et 7j/7 basée sur l'IA pour les créateurs et les agences OnlyFans. Automatisez les conversations avec les fans, engagez vos abonnés et stimulez les ventes PPV.",
+      "category": "AI & Machine Learning",
       "website": "https://onlychat-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T16:00:20.985090+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T17:23:15.268254+00:00"
     },
     {
       "name": "Axiom",
@@ -172489,10 +172501,108 @@
     {
       "name": "Adptiv",
       "slug": "polsia-adptiv",
+      "description": "AI-powered fitness coaching that adapts to your body in real time. Built by kinesiologists, grounded in peer-reviewed research.",
+      "description_fr": "Un coaching fitness basé sur l'IA qui s'adapte à votre corps en temps réel. Construit par des kinésiologues, fondé sur des recherches évaluées par des pairs.",
+      "category": "AI & Machine Learning",
       "website": "https://adptiv.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T17:23:17.132094+00:00"
+    },
+    {
+      "name": "PRPulse",
+      "slug": "polsia-prpulse",
+      "website": "https://prpulse.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-06-28T16:00:39.160622+00:00"
+      "scraped_at": "2026-06-28T17:22:40.700423+00:00"
+    },
+    {
+      "name": "Aetheris Intelligence",
+      "slug": "polsia-aetheris-intelligence",
+      "website": "https://aetheris-intelligence.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T17:22:46.079998+00:00"
+    },
+    {
+      "name": "SpotCast",
+      "slug": "polsia-spotcast-2",
+      "website": "https://spotcast-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T17:22:51.452380+00:00"
+    },
+    {
+      "name": "Mars Investigations, LLC",
+      "slug": "polsia-mars-investigations-llc",
+      "website": "https://mars-investigations-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T17:22:52.148896+00:00"
+    },
+    {
+      "name": "Velocia",
+      "slug": "polsia-velocia-2",
+      "website": "https://velocia-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T17:22:57.569506+00:00"
+    },
+    {
+      "name": "LocalRoot Ventures",
+      "slug": "polsia-localroot-ventures",
+      "description": "Community investment firm deploying capital into local businesses, early-stage startups, and community-driven collaborations.",
+      "description_fr": "Entreprise d'investissement communautaire déployant des capitaux dans des entreprises locales, des startups en démarrage et des collaborations communautaires.",
+      "category": "Software & SaaS",
+      "website": "https://localroot-ventures.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T17:22:59.382216+00:00"
+    },
+    {
+      "name": "TrendzzPrime",
+      "slug": "polsia-trendzzprime",
+      "description": "Unique designs, made fresh for you — European POD apparel, accessories, and gifts.",
+      "description_fr": "Des designs uniques, créés pour vous : vêtements, accessoires et cadeaux européens POD.",
+      "category": "Other",
+      "website": "https://trendzzprime.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T17:23:00.934161+00:00"
+    },
+    {
+      "name": "KHL Pressure Washing",
+      "slug": "polsia-khl-pressure-washing",
+      "description": "Family-run pressure washing serving Brighton and Hove. Professional exterior cleaning for driveways, patios, walls and pathways.",
+      "description_fr": "Lavage sous pression familial desservant Brighton et Hove. Nettoyage extérieur professionnel des allées, terrasses, murs et allées.",
+      "category": "Other",
+      "website": "https://khl-pressure-washing.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T17:23:02.002269+00:00"
+    },
+    {
+      "name": "PriceEdge",
+      "slug": "polsia-priceedge-1782666962365-zbeo",
+      "description": "AI-powered repricing across LATAM marketplaces — stay competitive, protect margins, automate.",
+      "description_fr": "Retarification basée sur l'IA sur les marchés LATAM : restez compétitif, protégez les marges, automatisez.",
+      "category": "AI & Machine Learning",
+      "website": "https://priceedge-1782666962365-zbeo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T17:23:04.090308+00:00"
+    },
+    {
+      "name": "CupFlora",
+      "slug": "polsia-cupflora",
+      "description": "Probiotic care built for your cup. Gentle, pH-balanced hygiene for menstrual cup users.",
+      "description_fr": "Des soins probiotiques conçus pour votre tasse. Hygiène douce et au pH équilibré pour les utilisatrices de coupe menstruelle.",
+      "category": "Other",
+      "website": "https://cupflora.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T17:23:04.998530+00:00"
     }
   ]
 }
