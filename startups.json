@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T09:38:33.777592+00:00",
+  "last_updated": "2026-06-28T11:24:52.137054+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -171968,50 +171968,68 @@
     {
       "name": "NexRep",
       "slug": "polsia-nexrep-3",
+      "description": "Autonomous AI agents that research, personalize, and book meetings around the clock.",
+      "description_fr": "Des agents d'IA autonomes qui recherchent, personnalisent et planifient des réunions 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://nexrep-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T09:37:00.115680+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:20.857849+00:00"
     },
     {
       "name": "LabLoop AI",
       "slug": "polsia-labloop-ai",
+      "description": "Autonomous mobile testing lab operations — zero manual oversight. AI agents orchestrate phlebotomist scheduling, sample logistics, compliance reporting, and real-time turnaround monitoring around the clock.",
+      "description_fr": "Opérations de laboratoire de tests mobiles autonomes – aucune surveillance manuelle. Les agents IA orchestrent la planification des phlébotomistes, la logistique des échantillons, les rapports de conformité et la surveillance des délais d'exécution en temps réel, 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://labloop-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T09:37:05.539303+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:21.886456+00:00"
     },
     {
       "name": "Hlunea Beauty",
       "slug": "polsia-hlunea-beauty",
+      "description": "Curated beauty essentials with global delivery.",
+      "description_fr": "Des essentiels de beauté sélectionnés avec une livraison mondiale.",
+      "category": "Logistics & Supply Chain",
       "website": "https://hlunea-beauty.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T09:37:10.868829+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:22.746913+00:00"
     },
     {
       "name": "ContentLoop",
       "slug": "polsia-contentloop-1782639233314-kx8z",
+      "description": "Your daily creative engine for viral TikToks and Reels. AI-powered trend drops, personalized video ideas, and one-click content — tuned to what is actually blowing up right now.",
+      "description_fr": "Votre moteur créatif quotidien pour les TikToks et Reels viraux. Des baisses de tendance basées sur l'IA, des idées de vidéos personnalisées et du contenu en un clic, adaptés à ce qui explose réellement en ce moment.",
+      "category": "Entertainment & Media",
       "website": "https://contentloop-1782639233314-kx8z.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T09:37:16.273746+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:23.564559+00:00"
     },
     {
       "name": "Urban Goose Limited",
       "slug": "polsia-urban-goose-limited",
+      "description": "Where world-class barbering meets gallery-inspired luxury. Premium barber services in Newmarket, Auckland.",
+      "description_fr": "Où le barbier de classe mondiale rencontre le luxe inspiré des galeries. Services de barbier haut de gamme à Newmarket, Auckland.",
+      "category": "Other",
       "website": "https://urban-goose-limited.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T09:37:21.819704+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:24.637560+00:00"
     },
     {
       "name": "OptiFlow AI",
       "slug": "polsia-optiflow-ai-3",
+      "description": "AI-powered automation that scales your business. Custom chatbots, workflows, and AI-driven processes that eliminate repetitive tasks.",
+      "description_fr": "Une automatisation basée sur l'IA qui fait évoluer votre entreprise. Chatbots personnalisés, flux de travail et processus basés sur l'IA qui éliminent les tâches répétitives.",
+      "category": "AI & Machine Learning",
       "website": "https://optiflow-ai-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T09:37:27.282498+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:25.916408+00:00"
     },
     {
       "name": "Keen",
@@ -172056,6 +172074,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-28T09:37:40.649303+00:00"
+    },
+    {
+      "name": "Websubstanz",
+      "slug": "polsia-websubstanz",
+      "website": "https://websubstanz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T11:23:37.225927+00:00"
+    },
+    {
+      "name": "DrupSentinel",
+      "slug": "polsia-drupsentinel",
+      "description": "AI agents that keep Drupal running — no humans required. Autonomous monitoring, updates, and security for Drupal sites.",
+      "description_fr": "Des agents d'IA qui assurent le fonctionnement de Drupal — aucun humain n'est requis. Surveillance autonome, mises à jour et sécurité pour les sites Drupal.",
+      "category": "AI & Machine Learning",
+      "website": "https://drupsentinel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:34.671883+00:00"
+    },
+    {
+      "name": "LifeTwin",
+      "slug": "polsia-lifetwin",
+      "website": "https://lifetwin.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T11:23:47.979571+00:00"
+    },
+    {
+      "name": "TrayLoop",
+      "slug": "polsia-trayloop",
+      "website": "https://trayloop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T11:23:53.412461+00:00"
+    },
+    {
+      "name": "VigilanceAI",
+      "slug": "polsia-vigilanceai-2",
+      "description": "Autonomous AI agents that monitor financial networks, fix vulnerabilities, and automate compliance around the clock.",
+      "description_fr": "Des agents d'IA autonomes qui surveillent les réseaux financiers, corrigent les vulnérabilités et automatisent la conformité 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigilanceai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:46.016221+00:00"
+    },
+    {
+      "name": "Leg@cy Support",
+      "slug": "polsia-legcy-support",
+      "description": "Empowering independence through NDIS-registered in-home disability and aged care support across Australia.",
+      "description_fr": "Renforcer l'indépendance grâce au soutien à domicile pour les personnes handicapées et aux personnes âgées enregistré au NDIS dans toute l'Australie.",
+      "category": "Other",
+      "website": "https://legcy-support.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:01.051804+00:00"
+    },
+    {
+      "name": "AmplifyAI",
+      "slug": "polsia-amplifyai",
+      "description": "AI-Powered Marketing That Delivers Results",
+      "description_fr": "Un marketing basé sur l'IA qui produit des résultats",
+      "category": "AI & Machine Learning",
+      "website": "https://amplifyai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:03.439117+00:00"
+    },
+    {
+      "name": "CreatorForge",
+      "slug": "polsia-creatorforge-6",
+      "description": "AI-powered production studio for adult content creators. Automate video, image, and interactive content generation at scale.",
+      "description_fr": "Studio de production alimenté par l'IA pour les créateurs de contenu pour adultes. Automatisez la génération de vidéos, d’images et de contenu interactif à grande échelle.",
+      "category": "Entertainment & Media",
+      "website": "https://creatorforge-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:04.214546+00:00"
+    },
+    {
+      "name": "RatePulse",
+      "slug": "polsia-ratepulse-3",
+      "description": "AI agents that watch competitor APIs so you never miss a pricing shift.",
+      "description_fr": "Des agents IA qui surveillent les API des concurrents afin que vous ne manquiez jamais un changement de prix.",
+      "category": "AI & Machine Learning",
+      "website": "https://ratepulse-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:52.136274+00:00"
+    },
+    {
+      "name": "AlertWire",
+      "slug": "polsia-alertwire",
+      "description": "Real-time threat briefings for newsrooms. AI-powered OSINT that transforms unstructured intelligence into verified, journalist-ready content.",
+      "description_fr": "Briefings sur les menaces en temps réel pour les rédactions. OSINT basé sur l'IA qui transforme les renseignements non structurés en contenu vérifié et prêt pour les journalistes.",
+      "category": "AI & Machine Learning",
+      "website": "https://alertwire.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T11:24:10.510139+00:00"
     }
   ]
 }
