@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T14:49:15.986574+00:00",
+  "last_updated": "2026-06-28T16:01:27.292046+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -172295,42 +172295,57 @@
     {
       "name": "Negoti",
       "slug": "polsia-negoti",
+      "description": "AI-powered bulk purchasing agent that monitors and negotiates deals for you.",
+      "description_fr": "Agent d'achat en gros alimenté par l'IA qui surveille et négocie les offres pour vous.",
+      "category": "AI & Machine Learning",
       "website": "https://negoti.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T14:47:40.166410+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T16:00:50.858806+00:00"
     },
     {
       "name": "PivotIQ",
       "slug": "polsia-pivotiq-3",
+      "description": "Autonomous AI agent for continuous strategy monitoring and real-time pivots.",
+      "description_fr": "Agent IA autonome pour une surveillance continue de la stratégie et des pivots en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://pivotiq-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T14:47:40.650034+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T16:00:52.022283+00:00"
     },
     {
       "name": "RoboSentinel",
       "slug": "polsia-robosentinel",
+      "description": "Autonomous AI agents ensuring robot fleet uptime — 24/7 monitoring, predictive maintenance, and self-healing for hospital and warehouse environments.",
+      "description_fr": "Agents d'IA autonomes garantissant la disponibilité de la flotte de robots : surveillance 24h/24 et 7j/7, maintenance prédictive et auto-réparation pour les environnements hospitaliers et d'entrepôts.",
+      "category": "AI & Machine Learning",
       "website": "https://robosentinel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T14:47:45.820743+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T16:00:54.103325+00:00"
     },
     {
       "name": "IngredientIQ",
       "slug": "polsia-ingredientiq",
+      "description": "AI-powered inventory management for small restaurants. Eliminate manual stock tracking, prevent costly stockouts, and reduce food waste by 23%.",
+      "description_fr": "Gestion des stocks basée sur l'IA pour les petits restaurants. Éliminez le suivi manuel des stocks, évitez les ruptures de stock coûteuses et réduisez le gaspillage alimentaire de 23 %.",
+      "category": "Food & Beverage",
       "website": "https://ingredientiq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T14:47:51.196024+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T16:00:55.058546+00:00"
     },
     {
       "name": "Spin City Laundromat",
       "slug": "polsia-spin-city-laundromat",
+      "description": "Your neighborhood full-service laundry hub in South San Jose — walk-in, wash-and-fold, and next-day pickup & delivery.",
+      "description_fr": "Votre centre de blanchisserie à service complet de quartier dans le sud de San Jose - sans rendez-vous, lavage et pliage, ainsi que ramassage et livraison le lendemain.",
+      "category": "Logistics & Supply Chain",
       "website": "https://spin-city-laundromat.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T14:47:56.639683+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T16:00:56.622779+00:00"
     },
     {
       "name": "Kwetu Wellness",
@@ -172346,10 +172361,13 @@
     {
       "name": "Ambrella Nexus",
       "slug": "polsia-ambrella-nexus",
+      "description": "Unified AV and Communications Infrastructure for Enterprise",
+      "description_fr": "Infrastructure audiovisuelle et de communication unifiée pour les entreprises",
+      "category": "Other",
       "website": "https://ambrella-nexus.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T14:48:07.298362+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T16:00:57.831138+00:00"
     },
     {
       "name": "Keystone Bridge Ventures",
@@ -172383,6 +172401,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-28T14:49:15.985343+00:00"
+    },
+    {
+      "name": "VIZ",
+      "slug": "polsia-viz",
+      "website": "https://viz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T16:00:04.268334+00:00"
+    },
+    {
+      "name": "Dad Strength",
+      "slug": "polsia-dad-strength",
+      "website": "https://dad-strength.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T16:00:04.879557+00:00"
+    },
+    {
+      "name": "Everbook AI",
+      "slug": "polsia-everbook-ai",
+      "website": "https://everbook-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T16:00:10.241190+00:00"
+    },
+    {
+      "name": "AgentFlow",
+      "slug": "polsia-agentflow-1782662228455-hwzp",
+      "website": "https://agentflow-1782662228455-hwzp.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T16:00:15.614006+00:00"
+    },
+    {
+      "name": "OnlyChat AI",
+      "slug": "polsia-onlychat-ai",
+      "website": "https://onlychat-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T16:00:20.985090+00:00"
+    },
+    {
+      "name": "Axiom",
+      "slug": "polsia-axiom-1782662167631-o2rj",
+      "description": "Your AI chief of staff — works while you sleep.",
+      "description_fr": "Votre chef d'état-major de l'IA travaille pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://axiom-1782662167631-o2rj.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T16:01:20.406809+00:00"
+    },
+    {
+      "name": "DropOps AI",
+      "slug": "polsia-dropops-ai",
+      "description": "AI-powered dropshipping store management for Shopify — build, manage, and scale your store with advanced AI.",
+      "description_fr": "Gestion de boutique dropshipping basée sur l'IA pour Shopify : créez, gérez et faites évoluer votre boutique avec une IA avancée.",
+      "category": "E-Commerce & Retail",
+      "website": "https://dropops-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T16:01:21.875408+00:00"
+    },
+    {
+      "name": "Aurora Sound Labs",
+      "slug": "polsia-aurora-sound-labs",
+      "description": "Autonomous ambient and cinematic music, running 24/7. AI-driven composition, production, and licensing for creators.",
+      "description_fr": "Musique d'ambiance et cinématique autonome, fonctionnant 24h/24 et 7j/7. Composition, production et licence basées sur l'IA pour les créateurs.",
+      "category": "AI & Machine Learning",
+      "website": "https://aurora-sound-labs.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T16:00:32.844462+00:00"
+    },
+    {
+      "name": "ArcMind",
+      "slug": "polsia-arcmind",
+      "description": "Intelligent welding optimization for zero-defect manufacturing",
+      "description_fr": "Optimisation intelligente du soudage pour une fabrication zéro défaut",
+      "category": "Other",
+      "website": "https://arcmind.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T16:00:33.602494+00:00"
+    },
+    {
+      "name": "Adptiv",
+      "slug": "polsia-adptiv",
+      "website": "https://adptiv.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T16:00:39.160622+00:00"
     }
   ]
 }
