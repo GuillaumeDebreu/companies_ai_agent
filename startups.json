@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T19:22:20.312015+00:00",
+  "last_updated": "2026-06-28T20:01:45.187774+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -172619,18 +172619,24 @@
     {
       "name": "VigilHub",
       "slug": "polsia-vigilhub",
+      "description": "24/7 autonomous AI agent for GitHub—review PRs, write tests, catch vulnerabilities, report to Slack.",
+      "description_fr": "Agent d'IA autonome 24h/24 et 7j/7 pour GitHub : examinez les PR, rédigez des tests, détectez les vulnérabilités et faites rapport à Slack.",
+      "category": "AI & Machine Learning",
       "website": "https://vigilhub.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T18:41:42.079078+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T20:01:08.613678+00:00"
     },
     {
       "name": "RivalPulse",
       "slug": "polsia-rivalpulse-1782672063892-mlav",
+      "description": "Autonomous competitive intelligence, running 24/7. AI-powered monitoring of rival pricing, product launches, and customer sentiment — with real-time alerts and AI-generated recommended responses.",
+      "description_fr": "Une veille concurrentielle autonome, opérationnelle 24h/24 et 7j/7. Surveillance basée sur l'IA des prix des concurrents, des lancements de produits et du sentiment des clients, avec des alertes en temps réel et des réponses recommandées générées par l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://rivalpulse-1782672063892-mlav.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T18:41:42.602741+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T20:01:09.703991+00:00"
     },
     {
       "name": "HoneyBee",
@@ -172643,26 +172649,35 @@
     {
       "name": "BarkPortrait Stickers",
       "slug": "polsia-barkportrait-stickers",
+      "description": "Premium breed-specific stickers in 5 iconic poses. Celebrate your dog with professionally illustrated, weather-resistant vinyl stickers.",
+      "description_fr": "Autocollants premium spécifiques à la race dans 5 poses emblématiques. Célébrez votre chien avec des autocollants en vinyle résistants aux intempéries, illustrés par des professionnels.",
+      "category": "Other",
       "website": "https://barkportrait-stickers.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T18:41:53.363829+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T20:01:11.323529+00:00"
     },
     {
       "name": "Regula AI",
       "slug": "polsia-regula-ai-4",
+      "description": "Autonomous crypto compliance that anticipates regulatory change before it happens.",
+      "description_fr": "Conformité cryptographique autonome qui anticipe les changements réglementaires avant qu’ils ne surviennent.",
+      "category": "AI & Machine Learning",
       "website": "https://regula-ai-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T18:41:58.772470+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T20:01:12.238157+00:00"
     },
     {
-      "name": "Aqua Clear-Mn",
+      "name": "Aqua Clear",
       "slug": "polsia-aqua-clear-mn",
+      "description": "Lakefront reclaimed. Professional aquatic weed removal for northern Minnesota lakes — SCUBA-based root extraction, chemical-free, DNR compliant.",
+      "description_fr": "Bord du lac récupéré. Élimination professionnelle des mauvaises herbes aquatiques pour les lacs du nord du Minnesota — Extraction des racines par plongée sous-marine, sans produits chimiques, conforme au DNR.",
+      "category": "Other",
       "website": "https://aqua-clear-mn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T18:42:04.111578+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T20:01:13.944243+00:00"
     },
     {
       "name": "Harpeth Talent",
@@ -172675,10 +172690,13 @@
     {
       "name": "SentymentHub",
       "slug": "polsia-sentymenthub",
+      "description": "Twój portfel giełdowy w jednym miejscu — z analizą sentymentu social media w czasie rzeczywistym.",
+      "description_fr": "Deux portfels offerts avec jednym miejscu — pour analyser les sentiments des médias sociaux avec des statistiques intéressantes.",
+      "category": "Marketing & Advertising",
       "website": "https://sentymenthub.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-28T18:42:14.872147+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-28T20:01:15.726709+00:00"
     },
     {
       "name": "StudySync",
@@ -172701,6 +172719,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-28T18:42:21.509993+00:00"
+    },
+    {
+      "name": "CargoFide",
+      "slug": "polsia-cargofide",
+      "website": "https://cargofide.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T20:00:23.722747+00:00"
+    },
+    {
+      "name": "TrustPulse AI",
+      "slug": "polsia-trustpulse-ai",
+      "website": "https://trustpulse-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T20:00:29.122904+00:00"
+    },
+    {
+      "name": "NetSentinel AI",
+      "slug": "polsia-netsentinel-ai",
+      "website": "https://netsentinel-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T20:00:34.573793+00:00"
+    },
+    {
+      "name": "SnapFix",
+      "slug": "polsia-snapfix-5",
+      "description": "Snap a photo of any vehicle problem and get an instant AI diagnosis — what broke, why it matters, and how to fix it.",
+      "description_fr": "Prenez une photo de n'importe quel problème de véhicule et obtenez un diagnostic instantané de l'IA : ce qui est cassé, pourquoi c'est important et comment le réparer.",
+      "category": "AI & Machine Learning",
+      "website": "https://snapfix-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T20:01:33.331744+00:00"
+    },
+    {
+      "name": "DesignForge",
+      "slug": "polsia-designforge-2",
+      "description": "AI Design Studio, Always On — autonomous creative production at machine speed.",
+      "description_fr": "AI Design Studio, Always On – production créative autonome à la vitesse de la machine.",
+      "category": "AI & Machine Learning",
+      "website": "https://designforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T20:01:38.052888+00:00"
+    },
+    {
+      "name": "OdooBridge Canada",
+      "slug": "polsia-odoobridge-canada",
+      "website": "https://odoobridge-canada.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-28T20:00:50.650542+00:00"
+    },
+    {
+      "name": "Compass Rural Intelligence",
+      "slug": "polsia-compass-rural-intelligence",
+      "description": "AI-powered business intelligence for rural entrepreneurs. 24/7 AI agents that monitor KPIs, generate reports, and automate advisory tasks for SMBs with limited staff.",
+      "description_fr": "Intelligence économique basée sur l'IA pour les entrepreneurs ruraux. Agents d'IA 24h/24 et 7j/7 qui surveillent les KPI, génèrent des rapports et automatisent les tâches de conseil pour les PME disposant d'un personnel limité.",
+      "category": "AI & Machine Learning",
+      "website": "https://compass-rural-intelligence.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T20:00:51.987506+00:00"
+    },
+    {
+      "name": "PriceEdge",
+      "slug": "polsia-priceedge-1782676555953-awuo",
+      "description": "Automated competitor monitoring and pricing optimization for e-commerce retailers. Stay competitive, protect margins, and capture market opportunities — 15-40x faster than manual methods.",
+      "description_fr": "Surveillance automatisée des concurrents et optimisation des prix pour les détaillants de commerce électronique. Restez compétitif, protégez vos marges et saisissez les opportunités du marché – 15 à 40 fois plus rapide que les méthodes manuelles.",
+      "category": "E-Commerce & Retail",
+      "website": "https://priceedge-1782676555953-awuo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T20:01:45.186882+00:00"
+    },
+    {
+      "name": "CommitScore",
+      "slug": "polsia-commitscore",
+      "description": "Turn recruiting visibility into NIL value before you sign.",
+      "description_fr": "Transformez la visibilité du recrutement en valeur NIL avant de signer.",
+      "category": "Other",
+      "website": "https://commitscore.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T20:00:59.384376+00:00"
+    },
+    {
+      "name": "TouralMática",
+      "slug": "polsia-touralmtica",
+      "description": "Mercado de comida local con IA 24/7 — pedidos, inventario y logística automatizados.",
+      "description_fr": "Marché de produits locaux avec IA 24h/24 et 7j/7 — commandes, inventaire et logistique automatisés.",
+      "category": "Other",
+      "website": "https://touralmtica.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-28T20:01:01.256098+00:00"
     }
   ]
 }
