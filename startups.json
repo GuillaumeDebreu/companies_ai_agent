@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T11:02:22.461853+00:00",
+  "last_updated": "2026-06-29T11:50:08.084517+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -173267,18 +173267,24 @@
     {
       "name": "KidRound",
       "slug": "polsia-kidround",
+      "description": "One briefing instead of twelve apps — your family AI-powered logistics hub. Automate pickups, appointments, and coverage swaps.",
+      "description_fr": "Un briefing au lieu de douze applications : votre centre logistique familial alimenté par l'IA. Automatisez les ramassages, les rendez-vous et les échanges de couverture.",
+      "category": "AI & Machine Learning",
       "website": "https://kidround.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T06:42:20.821441+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-29T11:49:31.182852+00:00"
     },
     {
       "name": "Signalkeeper",
       "slug": "polsia-signalkeeper",
+      "description": "Real-time competitor intelligence, delivered daily.",
+      "description_fr": "Des informations sur les concurrents en temps réel, fournies quotidiennement.",
+      "category": "Other",
       "website": "https://signalkeeper.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T06:42:26.068245+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-29T11:49:32.131473+00:00"
     },
     {
       "name": "Teknova",
@@ -173294,26 +173300,35 @@
     {
       "name": "PriceEdge",
       "slug": "polsia-priceedge-1782715062177-hfrn",
+      "description": "AI-powered 24/7 repricing that keeps you profitable and competitive.",
+      "description_fr": "Une retarification 24h/24 et 7j/7 basée sur l'IA qui vous permet de rester rentable et compétitif.",
+      "category": "AI & Machine Learning",
       "website": "https://priceedge-1782715062177-hfrn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T06:42:32.984371+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-29T11:49:33.252971+00:00"
     },
     {
       "name": "CodePulse",
       "slug": "polsia-codepulse-1782715043553-jbvw",
+      "description": "AI-Powered Automated Code Review, Fix & Health Monitoring Platform",
+      "description_fr": "Plateforme automatisée de révision, de correction et de surveillance de l'état de code alimentée par l'IA",
+      "category": "Software & SaaS",
       "website": "https://codepulse-1782715043553-jbvw.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T06:42:38.438275+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-29T11:49:34.481278+00:00"
     },
     {
       "name": "FlowOps AI",
       "slug": "polsia-flowops-ai-1782714982064-u6eu",
+      "description": "AI-Powered Automation for Local Businesses — automate operations, cut overhead, and scale without adding headcount.",
+      "description_fr": "Automatisation basée sur l'IA pour les entreprises locales : automatisez les opérations, réduisez les frais généraux et évoluez sans ajouter d'effectifs.",
+      "category": "AI & Machine Learning",
       "website": "https://flowops-ai-1782714982064-u6eu.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T06:42:43.661530+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-29T11:49:36.180419+00:00"
     },
     {
       "name": "CompeteIQ",
@@ -173358,6 +173373,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-29T06:42:52.773413+00:00"
+    },
+    {
+      "name": "OpsStack",
+      "slug": "polsia-opsstack-1782733688246-8wlm",
+      "website": "https://opsstack-1782733688246-8wlm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-29T11:48:49.974380+00:00"
+    },
+    {
+      "name": "PricePulse AI",
+      "slug": "polsia-pricepulse-ai-6",
+      "website": "https://pricepulse-ai-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-29T11:48:55.537432+00:00"
+    },
+    {
+      "name": "CompeteIQ",
+      "slug": "polsia-competeiq-1782733623213-14bf",
+      "website": "https://competeiq-1782733623213-14bf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-29T11:49:00.914737+00:00"
+    },
+    {
+      "name": "EprenCapitalGroup",
+      "slug": "polsia-eprencapitalgroup",
+      "website": "https://eprencapitalgroup.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-29T11:49:06.332934+00:00"
+    },
+    {
+      "name": "Grain & Frame Coffee",
+      "slug": "polsia-grain-frame-coffee",
+      "website": "https://grain-frame-coffee.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-29T11:49:16.882240+00:00"
+    },
+    {
+      "name": "ReStockAI",
+      "slug": "polsia-restockai-5",
+      "description": "AI-powered inventory replenishment that never sleeps — keeping small retailers in stock, never overstocked.",
+      "description_fr": "Un réapprovisionnement des stocks alimenté par l'IA qui ne dort jamais : gardant les petits détaillants en stock, jamais en surstock.",
+      "category": "AI & Machine Learning",
+      "website": "https://restockai-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-29T11:49:18.483836+00:00"
+    },
+    {
+      "name": "PodOS",
+      "slug": "polsia-podos-3",
+      "description": "Your AI-powered podcast operating system — from booking to publishing, fully automated.",
+      "description_fr": "Votre système d'exploitation de podcast alimenté par l'IA — de la réservation à la publication, entièrement automatisé.",
+      "category": "AI & Machine Learning",
+      "website": "https://podos-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-29T11:49:19.858125+00:00"
+    },
+    {
+      "name": "DealBridge",
+      "slug": "polsia-dealbridge-1782733180190-5iep",
+      "description": "Turn off-market deals into profitable wholesale transactions — without owning the property.",
+      "description_fr": "Transformez les transactions hors marché en transactions de gros rentables, sans posséder la propriété.",
+      "category": "Real Estate",
+      "website": "https://dealbridge-1782733180190-5iep.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-29T11:49:21.724636+00:00"
+    },
+    {
+      "name": "Selli.io",
+      "slug": "polsia-selliio",
+      "description": "Partner tecnologico per PMI italiane: software su misura, codice tuo.",
+      "description_fr": "Partenaire technologique du PMI italien : logiciel sur mesure, code tuo.",
+      "category": "Software & SaaS",
+      "website": "https://selliio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-29T11:49:23.100489+00:00"
+    },
+    {
+      "name": "Bee Real Honey",
+      "slug": "polsia-bee-real-honey",
+      "description": "Premium British honey from family-run hives in South Wales.",
+      "description_fr": "Miel britannique de qualité supérieure provenant de ruches familiales du sud du Pays de Galles.",
+      "category": "Other",
+      "website": "https://bee-real-honey.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-29T11:49:24.193671+00:00"
     }
   ]
 }
