@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T11:50:08.084517+00:00",
+  "last_updated": "2026-06-29T15:22:15.226198+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -173377,42 +173377,57 @@
     {
       "name": "OpsStack",
       "slug": "polsia-opsstack-1782733688246-8wlm",
+      "description": "Systems integration and consulting for agencies ready to operationalise their growth.",
+      "description_fr": "Intégration de systèmes et conseil pour les agences prêtes à opérationnaliser leur croissance.",
+      "category": "Consulting & Services",
       "website": "https://opsstack-1782733688246-8wlm.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T11:48:49.974380+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-29T15:21:22.892337+00:00"
     },
     {
       "name": "PricePulse AI",
       "slug": "polsia-pricepulse-ai-6",
+      "description": "AI-powered competitor pricing intelligence that automatically reprices your products and forecasts profit impact.",
+      "description_fr": "Des informations sur les prix des concurrents basées sur l'IA qui redéfinissent automatiquement le prix de vos produits et prévoient l'impact sur les bénéfices.",
+      "category": "AI & Machine Learning",
       "website": "https://pricepulse-ai-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T11:48:55.537432+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-29T15:21:23.821928+00:00"
     },
     {
       "name": "CompeteIQ",
       "slug": "polsia-competeiq-1782733623213-14bf",
+      "description": "AI agents that track competitor prices and auto-reprice your listings across marketplaces — in real time.",
+      "description_fr": "Des agents IA qui suivent les prix des concurrents et retarifient automatiquement vos annonces sur les marchés, en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://competeiq-1782733623213-14bf.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T11:49:00.914737+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-29T15:21:25.028667+00:00"
     },
     {
       "name": "EprenCapitalGroup",
       "slug": "polsia-eprencapitalgroup",
+      "description": "Connecting motivated sellers with smart investors through data-driven real estate wholesaling.",
+      "description_fr": "Connecter des vendeurs motivés avec des investisseurs intelligents grâce à la vente en gros de biens immobiliers basée sur les données.",
+      "category": "Software & SaaS",
       "website": "https://eprencapitalgroup.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T11:49:06.332934+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-29T15:21:26.233603+00:00"
     },
     {
       "name": "Grain & Frame Coffee",
       "slug": "polsia-grain-frame-coffee",
+      "description": "Craft-roasted single-origin coffee, sourced with intention. Small-batch roasted to order for peak freshness.",
+      "description_fr": "Café d'origine unique torréfié artisanalement, sourcé avec intention. Torréfié en petits lots sur commande pour une fraîcheur maximale.",
+      "category": "Food & Beverage",
       "website": "https://grain-frame-coffee.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T11:49:16.882240+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-29T15:21:27.095116+00:00"
     },
     {
       "name": "ReStockAI",
@@ -173468,6 +173483,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-29T11:49:24.193671+00:00"
+    },
+    {
+      "name": "TyTe Hosting",
+      "slug": "polsia-tyte-hosting",
+      "website": "https://tyte-hosting.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-29T15:20:34.911374+00:00"
+    },
+    {
+      "name": "Validation Studio",
+      "slug": "polsia-validation-studio",
+      "website": "https://validation-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-29T15:20:35.468399+00:00"
+    },
+    {
+      "name": "ClaimSentry AI",
+      "slug": "polsia-claimsentry-ai",
+      "website": "https://claimsentry-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-29T15:20:40.774746+00:00"
+    },
+    {
+      "name": "Golden Hour",
+      "slug": "polsia-golden-hour-2",
+      "website": "https://golden-hour-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-29T15:20:46.228368+00:00"
+    },
+    {
+      "name": "Acacia Green Technologies",
+      "slug": "polsia-acacia-green-technologies",
+      "description": "Smart building technology for a greener hospitality sector. London-based end-to-end services for intelligent in-room TV, IPTV infrastructure, and IoT-driven environmental systems.",
+      "description_fr": "Technologie de bâtiment intelligent pour un secteur hôtelier plus vert. Services de bout en bout basés à Londres pour la télévision intelligente dans les chambres, l'infrastructure IPTV et les systèmes environnementaux basés sur l'IoT.",
+      "category": "Sustainability & Green",
+      "website": "https://acacia-green-technologies.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-29T15:21:53.527028+00:00"
+    },
+    {
+      "name": "CRELoop",
+      "slug": "polsia-creloop",
+      "description": "Automated commercial real estate wholesaling from discovery to close.",
+      "description_fr": "Vente en gros automatisée d'immobilier commercial, de la découverte à la clôture.",
+      "category": "Real Estate",
+      "website": "https://creloop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-29T15:21:54.648119+00:00"
+    },
+    {
+      "name": "TrustPulse",
+      "slug": "polsia-trustpulse-2",
+      "description": "Real-time contractor trust scores that detect red flags before you hire.",
+      "description_fr": "Scores de confiance des entrepreneurs en temps réel qui détectent les signaux d’alarme avant votre embauche.",
+      "category": "Other",
+      "website": "https://trustpulse-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-29T15:21:59.548574+00:00"
+    },
+    {
+      "name": "NAVITEC SERVICES Sp. z o.o.",
+      "slug": "polsia-navitec-services-sp-z-oo",
+      "website": "https://navitec-services-sp-z-oo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-29T15:21:07.485657+00:00"
+    },
+    {
+      "name": "SubPilot",
+      "slug": "polsia-subpilot-4",
+      "website": "https://subpilot-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-29T15:21:12.900335+00:00"
+    },
+    {
+      "name": "VelocityStack",
+      "slug": "polsia-velocitystack-7",
+      "website": "https://velocitystack-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-29T15:21:18.133074+00:00"
     }
   ]
 }
