@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T23:43:49.629100+00:00",
+  "last_updated": "2026-06-30T01:52:47.297628+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -174029,36 +174029,48 @@
       "scraped_at": "2026-06-29T22:42:05.950727+00:00"
     },
     {
-      "name": "Vigil.dev",
+      "name": "VulnPR",
       "slug": "polsia-vigildev",
+      "description": "Automated vulnerability scanning with AI-powered patch generation and one-click PR creation.",
+      "description_fr": "Analyse automatisée des vulnérabilités avec génération de correctifs basée sur l'IA et création de PR en un clic.",
+      "category": "AI & Machine Learning",
       "website": "https://vigildev.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T23:42:55.194267+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-30T01:52:21.192022+00:00"
     },
     {
       "name": "PURE",
       "slug": "polsia-pure",
+      "description": "Autonomous Arabian breeding management meets global bloodstock intelligence.",
+      "description_fr": "La gestion autonome de l’élevage arabe rencontre l’intelligence mondiale des stocks de sang.",
+      "category": "Other",
       "website": "https://pure.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T23:43:00.542293+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-30T01:52:22.160641+00:00"
     },
     {
-      "name": "CortexNEXUS",
+      "name": "Polsia App",
       "slug": "polsia-cortexnexus",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
       "website": "https://cortexnexus.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T23:43:05.855387+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-30T01:52:22.774662+00:00"
     },
     {
       "name": "The Junk Majors",
       "slug": "polsia-the-junk-majors",
+      "description": "Orange County student-powered junk removal. Fast, reliable furniture disposal, estate cleanouts, and yard waste removal.",
+      "description_fr": "Suppression des déchets par les étudiants du comté d'Orange. Élimination rapide et fiable des meubles, nettoyage du domaine et élimination des déchets de jardin.",
+      "category": "Education",
       "website": "https://the-junk-majors.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T23:43:06.202497+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-30T01:52:24.413706+00:00"
     },
     {
       "name": "EvolveSkin",
@@ -174096,10 +174108,13 @@
     {
       "name": "BizOps AI",
       "slug": "polsia-bizops-ai",
+      "description": "Round-the-clock AI-powered back-office automation for Pakistani small businesses.",
+      "description_fr": "Automatisation du back-office 24 heures sur 24, alimentée par l'IA, pour les petites entreprises pakistanaises.",
+      "category": "AI & Machine Learning",
       "website": "https://bizops-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T23:43:14.815911+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-30T01:52:25.165973+00:00"
     },
     {
       "name": "CareLoop",
@@ -174122,6 +174137,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-29T23:43:16.969812+00:00"
+    },
+    {
+      "name": "UpStack",
+      "slug": "polsia-upstack",
+      "website": "https://upstack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T01:51:47.169503+00:00"
+    },
+    {
+      "name": "Ciampion Graphics",
+      "slug": "polsia-ciampion-graphics",
+      "website": "https://ciampion-graphics.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T01:51:52.541280+00:00"
+    },
+    {
+      "name": "Surprise Me",
+      "slug": "polsia-surprise-me",
+      "description": "Dynamic field force optimization for logistics. Turn unpredictable demand into competitive advantage.",
+      "description_fr": "Optimisation dynamique des forces de terrain pour la logistique. Transformez une demande imprévisible en avantage concurrentiel.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://surprise-me.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T01:52:37.007955+00:00"
+    },
+    {
+      "name": "CloseStack",
+      "slug": "polsia-closestack-5",
+      "website": "https://closestack-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T01:52:03.266889+00:00"
+    },
+    {
+      "name": "Vero Logistics",
+      "slug": "polsia-vero-logistics",
+      "description": "Smart courier services built for modern business needs",
+      "description_fr": "Des services de messagerie intelligents conçus pour les besoins des entreprises modernes",
+      "category": "Logistics & Supply Chain",
+      "website": "https://vero-logistics.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T01:52:04.807527+00:00"
+    },
+    {
+      "name": "FoamBoost",
+      "slug": "polsia-foamboost",
+      "website": "https://foamboost.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T01:52:10.177239+00:00"
+    },
+    {
+      "name": "LearnSentry",
+      "slug": "polsia-learnsentry",
+      "description": "AI-powered learning guardian that never sleeps — continuous assessment, real-time analytics, and proactive tutoring intervention before gaps become failures.",
+      "description_fr": "Gardien de l'apprentissage alimenté par l'IA qui ne dort jamais : évaluation continue, analyses en temps réel et intervention de tutorat proactive avant que les lacunes ne se transforment en échecs.",
+      "category": "Education",
+      "website": "https://learnsentry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T01:52:12.037736+00:00"
+    },
+    {
+      "name": "AgentStack",
+      "slug": "polsia-agentstack-1782783935468-xsup",
+      "description": "Build, launch, and run micro-SaaS products on full autopilot.",
+      "description_fr": "Créez, lancez et exécutez des produits micro-SaaS en pilote automatique complet.",
+      "category": "Software & SaaS",
+      "website": "https://agentstack-1782783935468-xsup.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T01:52:13.522118+00:00"
+    },
+    {
+      "name": "Threshold",
+      "slug": "polsia-threshold-10",
+      "description": "Three paths. One blueprint to $20K/month. Learn to build a scalable service business through proven models: high-ticket agency, local rank-and-rent, and fractional executive consulting.",
+      "description_fr": "Trois chemins. Un plan à 20 000 $/mois. Apprenez à créer une entreprise de services évolutive grâce à des modèles éprouvés : agence à prix élevé, classement et loyer locaux et conseil fractionné aux dirigeants.",
+      "category": "Consulting & Services",
+      "website": "https://threshold-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T01:52:15.004049+00:00"
+    },
+    {
+      "name": "Polsia App",
+      "slug": "polsia-localops-ai-1782783745138-p3x0",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
+      "website": "https://localops-ai-1782783745138-p3x0.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T01:52:15.659942+00:00"
     }
   ]
 }
