@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T09:38:40.914465+00:00",
+  "last_updated": "2026-06-30T09:58:05.893093+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -174251,10 +174251,13 @@
     {
       "name": "Alertwise",
       "slug": "polsia-alertwise",
+      "description": "Intelligent email alerts that learn and adapt to you. AI-powered desktop notifications that evolve with your workflow.",
+      "description_fr": "Des alertes e-mail intelligentes qui apprennent et s'adaptent à vous. Notifications de bureau basées sur l'IA qui évoluent avec votre flux de travail.",
+      "category": "AI & Machine Learning",
       "website": "https://alertwise.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-30T06:04:13.873021+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-30T09:58:05.890870+00:00"
     },
     {
       "name": "Polsia App",
@@ -174354,6 +174357,105 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-30T06:04:26.482487+00:00"
+    },
+    {
+      "name": "RevNation",
+      "slug": "polsia-revnation-3",
+      "description": "Australia's global vehicle marketplace — connect with verified international sellers and browse vehicles from Japan, UK, US and Europe with full landed cost transparency.",
+      "description_fr": "Le marché mondial des véhicules en Australie : connectez-vous avec des vendeurs internationaux vérifiés et parcourez les véhicules du Japon, du Royaume-Uni, des États-Unis et d'Europe avec une transparence totale des coûts au débarquement.",
+      "category": "E-Commerce & Retail",
+      "website": "https://revnation-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T09:57:50.912141+00:00"
+    },
+    {
+      "name": "Polsia App",
+      "slug": "polsia-sinners-faith",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
+      "website": "https://sinners-faith.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T09:57:51.466793+00:00"
+    },
+    {
+      "name": "Perpetual AI",
+      "slug": "polsia-perpetual-ai",
+      "description": "Where every customer journey becomes a test. An autonomous experimentation platform that continuously monitors digital touchpoints, detects friction, generates hypotheses, executes A/B tests, and delivers optimization insights — around the clock.",
+      "description_fr": "Où chaque parcours client devient un test. Une plateforme d'expérimentation autonome qui surveille en permanence les points de contact numériques, détecte les frictions, génère des hypothèses, exécute des tests A/B et fournit des informations d'optimisation, 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://perpetual-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T09:57:53.051761+00:00"
+    },
+    {
+      "name": "Getclout",
+      "slug": "polsia-getclout",
+      "description": "AI-Powered Social Media Growth Platform — instant delivery across Instagram, TikTok, YouTube, and 10+ more platforms.",
+      "description_fr": "Plateforme de croissance des médias sociaux alimentée par l'IA : livraison instantanée sur Instagram, TikTok, YouTube et plus de 10 autres plateformes.",
+      "category": "Software & SaaS",
+      "website": "https://getclout.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T09:57:53.982758+00:00"
+    },
+    {
+      "name": "VoxAfrika",
+      "slug": "polsia-voxafrika-2",
+      "description": "Authentic African voice AI for global content — translate and localize video into African languages with voice synthesis, subtitle timing, and cultural adaptation.",
+      "description_fr": "IA vocale africaine authentique pour un contenu mondial : traduisez et localisez la vidéo dans les langues africaines avec la synthèse vocale, la synchronisation des sous-titres et l'adaptation culturelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://voxafrika-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T09:57:55.907120+00:00"
+    },
+    {
+      "name": "Elevate Health & Performance",
+      "slug": "polsia-elevate-health-performance",
+      "description": "Your complete fitness and nutrition subscription. Premium meal delivery combined with expert coaching — all in one membership.",
+      "description_fr": "Votre abonnement complet fitness et nutrition. Livraison de repas haut de gamme combinée à un coaching expert, le tout dans un seul abonnement.",
+      "category": "Health & Wellness",
+      "website": "https://elevate-health-performance.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T09:57:56.827494+00:00"
+    },
+    {
+      "name": "Union Bay AI",
+      "slug": "polsia-union-bay-ai",
+      "description": "AI automation for Canadian service businesses — capturing leads, booking appointments, and following up 24/7.",
+      "description_fr": "Automatisation de l'IA pour les entreprises de services canadiennes : capture de prospects, prise de rendez-vous et suivi 24 heures sur 24, 7 jours sur 7.",
+      "category": "AI & Machine Learning",
+      "website": "https://union-bay-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T09:57:58.487523+00:00"
+    },
+    {
+      "name": "Carlcorp",
+      "slug": "polsia-carlcorp",
+      "description": "Women-led sustainable investing with ESG and impact focus.",
+      "description_fr": "Investissement durable dirigé par des femmes et axé sur l’ESG et l’impact.",
+      "category": "Other",
+      "website": "https://carlcorp.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T09:58:00.125134+00:00"
+    },
+    {
+      "name": "Polsia App",
+      "slug": "polsia-priceedge-1782812666835-h4fx",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
+      "website": "https://priceedge-1782812666835-h4fx.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T09:58:00.529418+00:00"
     }
   ]
 }
