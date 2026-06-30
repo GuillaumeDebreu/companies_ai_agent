@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T14:47:52.605606+00:00",
+  "last_updated": "2026-06-30T16:59:16.831123+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -174568,28 +174568,37 @@
       "scraped_at": "2026-06-30T12:18:31.635417+00:00"
     },
     {
-      "name": "FreshTrack",
+      "name": "Polsia App",
       "slug": "polsia-freshtrack",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
       "website": "https://freshtrack.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-30T14:46:40.589877+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-30T16:58:17.506594+00:00"
     },
     {
       "name": "Vertiscraft Studio",
       "slug": "polsia-vertiscraft-studio",
+      "description": "Nature carved into vertical concrete — art that transforms walls, fireplaces, and outdoor living spaces.",
+      "description_fr": "La nature sculptée dans le béton vertical – un art qui transforme les murs, les cheminées et les espaces de vie extérieurs.",
+      "category": "Other",
       "website": "https://vertiscraft-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-30T14:46:45.993935+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-30T16:58:18.493145+00:00"
     },
     {
       "name": "VigilOps",
       "slug": "polsia-vigilops-1782830632776-5y82",
+      "description": "Autonomous AI agents that monitor your cloud, heal itself, and scale intelligently — escalating only when human intervention is required.",
+      "description_fr": "Des agents d'IA autonomes qui surveillent votre cloud, s'auto-réparent et évoluent intelligemment, n'évoluant que lorsqu'une intervention humaine est requise.",
+      "category": "AI & Machine Learning",
       "website": "https://vigilops-1782830632776-5y82.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-30T14:46:51.528612+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-30T16:58:20.151465+00:00"
     },
     {
       "name": "SponsorPulse",
@@ -174616,10 +174625,13 @@
     {
       "name": "SentinelOps",
       "slug": "polsia-sentinelops-1782830597815-ztrx",
+      "description": "AI agents that monitor, fix, and protect your repositories 24/7.",
+      "description_fr": "Des agents IA qui surveillent, réparent et protègent vos référentiels 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://sentinelops-1782830597815-ztrx.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-30T14:46:59.061231+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-30T16:58:21.465969+00:00"
     },
     {
       "name": "Holy Tide",
@@ -174635,10 +174647,13 @@
     {
       "name": "Officine Vivaldi",
       "slug": "polsia-officine-vivaldi",
+      "description": "Noleggio e restauro di caravan Airstream e mezzi su ruota d’eccezione in Europa.",
+      "description_fr": "Noleggio et restauro di caravan Airstream et mezzi su ruota d'eccezione en Europe.",
+      "category": "AI & Machine Learning",
       "website": "https://officine-vivaldi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-30T14:47:06.160310+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-30T16:58:22.911042+00:00"
     },
     {
       "name": "Braik",
@@ -174661,6 +174676,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-30T14:47:52.604271+00:00"
+    },
+    {
+      "name": "MorrowFlow",
+      "slug": "polsia-morrowflow",
+      "website": "https://morrowflow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T16:57:19.834818+00:00"
+    },
+    {
+      "name": "SiteRevive",
+      "slug": "polsia-siterevive-2",
+      "website": "https://siterevive-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T16:57:25.312590+00:00"
+    },
+    {
+      "name": "VelocityStack",
+      "slug": "polsia-velocitystack-8",
+      "website": "https://velocitystack-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T16:57:30.765737+00:00"
+    },
+    {
+      "name": "CloudPilot",
+      "slug": "polsia-cloudpilot-8",
+      "website": "https://cloudpilot-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T16:57:36.187838+00:00"
+    },
+    {
+      "name": "CoachStack",
+      "slug": "polsia-coachstack",
+      "website": "https://coachstack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T16:57:41.529934+00:00"
+    },
+    {
+      "name": "Prontos",
+      "slug": "polsia-prontos",
+      "website": "https://prontos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T16:57:46.880030+00:00"
+    },
+    {
+      "name": "Peakwave",
+      "slug": "polsia-peakwave",
+      "website": "https://peakwave.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T16:57:52.090393+00:00"
+    },
+    {
+      "name": "ZeroTrace",
+      "slug": "polsia-zerotrace-2",
+      "website": "https://zerotrace-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T16:57:57.402999+00:00"
+    },
+    {
+      "name": "SoloStack",
+      "slug": "polsia-solostack-1782838411181-t4a9",
+      "website": "https://solostack-1782838411181-t4a9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T16:58:02.752673+00:00"
+    },
+    {
+      "name": "NexusPulse",
+      "slug": "polsia-nexuspulse",
+      "website": "https://nexuspulse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T16:58:08.223316+00:00"
     }
   ]
 }
