@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T09:58:05.893093+00:00",
+  "last_updated": "2026-06-30T12:18:57.889796+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -173924,10 +173924,13 @@
     {
       "name": "SiteLoop",
       "slug": "polsia-siteloop-8",
+      "description": "Autonomous AI agents that monitor, fix, and optimize your website 24/7.",
+      "description_fr": "Des agents d'IA autonomes qui surveillent, corrigent et optimisent votre site Web 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://siteloop-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-06-29T22:41:31.325429+00:00"
+      "status": "live",
+      "scraped_at": "2026-06-30T12:18:35.528682+00:00"
     },
     {
       "name": "Lakou Antenor",
@@ -174456,6 +174459,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-06-30T09:58:00.529418+00:00"
+    },
+    {
+      "name": "CostLoop",
+      "slug": "polsia-costloop",
+      "website": "https://costloop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T12:18:05.826651+00:00"
+    },
+    {
+      "name": "SyncBridge",
+      "slug": "polsia-syncbridge-3",
+      "description": "AI-powered matching platform connecting specialized data analysts with fintech and healthcare enterprises.",
+      "description_fr": "Plateforme de mise en relation alimentée par l'IA connectant des analystes de données spécialisés avec des entreprises de technologie financière et de soins de santé.",
+      "category": "Health & Wellness",
+      "website": "https://syncbridge-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T12:18:06.881997+00:00"
+    },
+    {
+      "name": "Kept",
+      "slug": "polsia-kept-3",
+      "website": "https://kept-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T12:18:12.229956+00:00"
+    },
+    {
+      "name": "FlowMind",
+      "slug": "polsia-flowmind-7",
+      "description": "Autonomous AI agents that continuously automate, execute, and optimize business workflows.",
+      "description_fr": "Agents d'IA autonomes qui automatisent, exécutent et optimisent en continu les flux de travail métier.",
+      "category": "AI & Machine Learning",
+      "website": "https://flowmind-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T12:18:47.057782+00:00"
+    },
+    {
+      "name": "Polsia App",
+      "slug": "polsia-viddix-ai",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
+      "website": "https://viddix-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T12:18:18.036239+00:00"
+    },
+    {
+      "name": "APEX GRADE",
+      "slug": "polsia-apex-grading",
+      "website": "https://apex-grading.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T12:18:18.514296+00:00"
+    },
+    {
+      "name": "Recoup",
+      "slug": "polsia-recoup-1782821445423-qd93",
+      "description": "AI-powered subscription manager that identifies and cancels unused recurring charges, then reinvests every dollar saved into your financial goals.",
+      "description_fr": "Gestionnaire d'abonnements alimenté par l'IA qui identifie et annule les frais récurrents inutilisés, puis réinvestit chaque dollar économisé dans vos objectifs financiers.",
+      "category": "AI & Machine Learning",
+      "website": "https://recoup-1782821445423-qd93.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T12:18:20.518530+00:00"
+    },
+    {
+      "name": "DataBridge",
+      "slug": "polsia-databridge-2",
+      "website": "https://databridge-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T12:18:25.888315+00:00"
+    },
+    {
+      "name": "Vigilant.ai",
+      "slug": "polsia-vigilantai-3",
+      "website": "https://vigilantai-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-06-30T12:18:31.264310+00:00"
+    },
+    {
+      "name": "Polsia App",
+      "slug": "polsia-equicomply",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
+      "website": "https://equicomply.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-06-30T12:18:31.635417+00:00"
     }
   ]
 }
