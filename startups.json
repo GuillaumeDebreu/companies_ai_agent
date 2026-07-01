@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T14:39:02.662993+00:00",
+  "last_updated": "2026-07-01T16:01:55.249397+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -175534,50 +175534,68 @@
     {
       "name": "TechScribe",
       "slug": "polsia-techscribe",
+      "description": "AI-powered content for engineering companies.",
+      "description_fr": "Contenu basé sur l'IA pour les sociétés d'ingénierie.",
+      "category": "AI & Machine Learning",
       "website": "https://techscribe.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T13:20:39.004757+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T16:01:10.442201+00:00"
     },
     {
       "name": "B&Co",
       "slug": "polsia-bco",
+      "description": "Elite management agency helping streaming and OnlyFans creators build consistent £2K–£5K monthly income through proven systems and full-stack support.",
+      "description_fr": "Agence de gestion d'élite qui aide les créateurs de streaming et d'OnlyFans à générer un revenu mensuel constant de 2 000 £ à 5 000 £ grâce à des systèmes éprouvés et un support complet.",
+      "category": "Consulting & Services",
       "website": "https://bco.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T13:20:44.219484+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T16:01:11.751563+00:00"
     },
     {
       "name": "DepWatch",
       "slug": "polsia-depwatch-2",
+      "description": "AI-powered dependency upgrades with changelog intelligence and risk scoring.",
+      "description_fr": "Mises à niveau des dépendances basées sur l'IA avec informations sur les journaux de modifications et notation des risques.",
+      "category": "AI & Machine Learning",
       "website": "https://depwatch-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T13:20:49.574800+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T16:01:13.481869+00:00"
     },
     {
       "name": "DelivIQ",
       "slug": "polsia-deliviq",
+      "description": "AI-powered consulting delivery that keeps projects on track and teams never missing a deadline.",
+      "description_fr": "Une prestation de conseil basée sur l'IA qui maintient les projets sur la bonne voie et permet aux équipes de ne jamais manquer une date limite.",
+      "category": "AI & Machine Learning",
       "website": "https://deliviq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T13:20:54.934952+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T16:01:15.061066+00:00"
     },
     {
       "name": "ServerMind",
       "slug": "polsia-servermind-3",
+      "description": "Autonomous AI agents that run, scale, and protect your Roblox games.",
+      "description_fr": "Des agents d'IA autonomes qui exécutent, font évoluer et protègent vos jeux Roblox.",
+      "category": "AI & Machine Learning",
       "website": "https://servermind-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T13:21:00.327178+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T16:01:16.790796+00:00"
     },
     {
       "name": "RegulateHub",
       "slug": "polsia-regulatehub",
+      "description": "Hvor forældre til neurodivergente børn finder ro — sammen.",
+      "description_fr": "Hvor forældre til neurodivergente born finder ro — sammen.",
+      "category": "Other",
       "website": "https://regulatehub.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T13:21:05.757443+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T16:01:17.961378+00:00"
     },
     {
       "name": "Beatkeep",
@@ -175622,6 +175640,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-01T13:21:18.049642+00:00"
+    },
+    {
+      "name": "The Five Things",
+      "slug": "polsia-the-five-things",
+      "website": "https://the-five-things.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T16:00:19.324598+00:00"
+    },
+    {
+      "name": "Vontage",
+      "slug": "polsia-vontage-2",
+      "website": "https://vontage-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T16:00:24.799440+00:00"
+    },
+    {
+      "name": "BidForge",
+      "slug": "polsia-bidforge-1782921483447-7n7r",
+      "website": "https://bidforge-1782921483447-7n7r.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T16:00:30.287635+00:00"
+    },
+    {
+      "name": "AfriComply",
+      "slug": "polsia-africomply",
+      "website": "https://africomply.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T16:00:35.547619+00:00"
+    },
+    {
+      "name": "LabSentri",
+      "slug": "polsia-labsentri",
+      "website": "https://labsentri.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T16:00:40.927488+00:00"
+    },
+    {
+      "name": "CareSync AI",
+      "slug": "polsia-caresync-ai-5",
+      "website": "https://caresync-ai-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T16:00:46.303678+00:00"
+    },
+    {
+      "name": "AnswerForce",
+      "slug": "polsia-answerforce-1782921353034-lsp6",
+      "website": "https://answerforce-1782921353034-lsp6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T16:00:51.764704+00:00"
+    },
+    {
+      "name": "AdPulse",
+      "slug": "polsia-adpulse-1782921276407-0c0d",
+      "description": "Autonomous ad optimization for small businesses — AI-powered campaign management across Meta, Google, TikTok, and Microsoft Ads.",
+      "description_fr": "Optimisation autonome des publicités pour les petites entreprises : gestion de campagnes basée sur l'IA sur Meta, Google, TikTok et Microsoft Ads.",
+      "category": "Marketing & Advertising",
+      "website": "https://adpulse-1782921276407-0c0d.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T16:00:53.451849+00:00"
+    },
+    {
+      "name": "YardLink",
+      "slug": "polsia-yardlink-2",
+      "description": "AI receptionist for construction supply yards — every call captured, every opportunity turned into revenue.",
+      "description_fr": "Réceptionniste IA pour les chantiers de construction : chaque appel capturé, chaque opportunité transformée en revenus.",
+      "category": "AI & Machine Learning",
+      "website": "https://yardlink-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T16:00:54.886566+00:00"
+    },
+    {
+      "name": "Vocable.ai",
+      "slug": "polsia-vocableai",
+      "description": "AI-powered platform that generates 30 days of multi-channel content with one click.",
+      "description_fr": "Plateforme basée sur l'IA qui génère 30 jours de contenu multicanal en un seul clic.",
+      "category": "AI & Machine Learning",
+      "website": "https://vocableai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T16:00:56.604817+00:00"
     }
   ]
 }
