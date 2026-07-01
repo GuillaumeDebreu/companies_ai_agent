@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T10:34:29.619060+00:00",
+  "last_updated": "2026-07-01T13:22:08.795378+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -175424,18 +175424,24 @@
     {
       "name": "Auto Elite 60",
       "slug": "polsia-auto-elite-60",
+      "description": "Northamptonshire's specialist VW Transporter garage for diagnostics, repairs, and conversions. DSG servicing, cambelt replacements, camper conversions, and suspension upgrades.",
+      "description_fr": "Garage spécialisé VW Transporter du Northamptonshire pour les diagnostics, les réparations et les conversions. Entretien DSG, remplacements de courroies de distribution, conversions de camping-car et mises à niveau de suspension.",
+      "category": "Other",
       "website": "https://auto-elite-60.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T10:33:05.788458+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T13:21:31.644690+00:00"
     },
     {
       "name": "FieldStack",
       "slug": "polsia-fieldstack-1782901800776-pg7p",
+      "description": "AI that builds your complete estimate while you are still talking to the client. CRM, accounting, timekeeping, and project management for contractors.",
+      "description_fr": "Une IA qui construit votre estimation complète pendant que vous parlez encore au client. CRM, comptabilité, gestion du temps et gestion de projet pour les entrepreneurs.",
+      "category": "AI & Machine Learning",
       "website": "https://fieldstack-1782901800776-pg7p.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T10:33:11.166944+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T13:21:32.605846+00:00"
     },
     {
       "name": "Rent",
@@ -175451,10 +175457,13 @@
     {
       "name": "RegulateAI",
       "slug": "polsia-regulateai-2",
+      "description": "AI-powered legal documents that stay current as regulations change.",
+      "description_fr": "Des documents juridiques basés sur l'IA qui restent à jour à mesure que les réglementations évoluent.",
+      "category": "AI & Machine Learning",
       "website": "https://regulateai-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T10:33:27.005919+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T13:21:33.789939+00:00"
     },
     {
       "name": "Floor Xpo",
@@ -175481,10 +175490,13 @@
     {
       "name": "Little Bud",
       "slug": "polsia-little-bud",
+      "description": "Curated Chinese baby & mother essentials without the markup.",
+      "description_fr": "Des essentiels chinois pour bébés et mères, sans balisage.",
+      "category": "Other",
       "website": "https://little-bud.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T10:33:36.370474+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T13:21:34.850879+00:00"
     },
     {
       "name": "PartnerPulse",
@@ -175518,6 +175530,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-01T10:33:41.717666+00:00"
+    },
+    {
+      "name": "TechScribe",
+      "slug": "polsia-techscribe",
+      "website": "https://techscribe.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T13:20:39.004757+00:00"
+    },
+    {
+      "name": "B&Co",
+      "slug": "polsia-bco",
+      "website": "https://bco.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T13:20:44.219484+00:00"
+    },
+    {
+      "name": "DepWatch",
+      "slug": "polsia-depwatch-2",
+      "website": "https://depwatch-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T13:20:49.574800+00:00"
+    },
+    {
+      "name": "DelivIQ",
+      "slug": "polsia-deliviq",
+      "website": "https://deliviq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T13:20:54.934952+00:00"
+    },
+    {
+      "name": "ServerMind",
+      "slug": "polsia-servermind-3",
+      "website": "https://servermind-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T13:21:00.327178+00:00"
+    },
+    {
+      "name": "RegulateHub",
+      "slug": "polsia-regulatehub",
+      "website": "https://regulatehub.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T13:21:05.757443+00:00"
+    },
+    {
+      "name": "Beatkeep",
+      "slug": "polsia-beatkeep",
+      "description": "Your autonomous music release command center — AI that never sleeps.",
+      "description_fr": "Votre centre de commande autonome de diffusion de musique – une IA qui ne dort jamais.",
+      "category": "AI & Machine Learning",
+      "website": "https://beatkeep.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T13:22:07.498497+00:00"
+    },
+    {
+      "name": "ScholarWatch",
+      "slug": "polsia-scholarwatch",
+      "description": "AI-powered early warning for student success. Monitor attendance, grades, and behavior to identify at-risk students before issues escalate.",
+      "description_fr": "Alerte précoce basée sur l'IA pour la réussite des étudiants. Surveillez l'assiduité, les notes et le comportement pour identifier les élèves à risque avant que les problèmes ne dégénèrent.",
+      "category": "AI & Machine Learning",
+      "website": "https://scholarwatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T13:22:08.794230+00:00"
+    },
+    {
+      "name": "BudapestUncorked",
+      "slug": "polsia-budapestuncorked",
+      "description": "AI-curated hidden Budapest, discovered and verified around the clock.",
+      "description_fr": "Budapest cachée organisée par l'IA, découverte et vérifiée 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://budapestuncorked.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T13:21:17.179426+00:00"
+    },
+    {
+      "name": "Artisteo",
+      "slug": "polsia-artisteo",
+      "description": "Wyszukaj i zarezerwuj artystów na każde wydarzenie – bez pośredników, w jednym miejscu.",
+      "description_fr": "Wyszukaj et zarezerwuj artystów na każde wydarzenie – bez pośrednikow, w jednym miejscu.",
+      "category": "Other",
+      "website": "https://artisteo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T13:21:18.049642+00:00"
     }
   ]
 }
