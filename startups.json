@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T20:13:31.416441+00:00",
+  "last_updated": "2026-07-01T21:51:08.715721+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -175855,10 +175855,13 @@
     {
       "name": "Preservo",
       "slug": "polsia-preservo",
+      "description": "Your home's autonomous guardian—predicts failures, schedules repairs, and handles claims before disaster strikes.",
+      "description_fr": "Le gardien autonome de votre maison : prédit les pannes, planifie les réparations et gère les réclamations avant qu'une catastrophe ne survienne.",
+      "category": "Other",
       "website": "https://preservo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T20:11:57.403164+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T21:50:26.708479+00:00"
     },
     {
       "name": "Nexus",
@@ -175879,18 +175882,24 @@
     {
       "name": "VitaNova Integrative",
       "slug": "polsia-vitanova-integrative",
+      "description": "Kết nối hành trình điều trị ung thư với các giải pháp tích hợp tự nhiên, không xâm lấn.",
+      "description_fr": "Vous n'aurez plus qu'à vous occuper de votre sujet, et ce, à coup sûr.",
+      "category": "Other",
       "website": "https://vitanova-integrative.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T20:11:58.745029+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T21:50:33.288344+00:00"
     },
     {
       "name": "AnswerIQ",
       "slug": "polsia-answeriq-1782936545247-9rhf",
+      "description": "AI receptionist that answers every call, qualifies leads, and books appointments 24/7.",
+      "description_fr": "Réceptionniste IA qui répond à chaque appel, qualifie les prospects et prend rendez-vous 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://answeriq-1782936545247-9rhf.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T20:12:04.119287+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T21:50:34.052133+00:00"
     },
     {
       "name": "Chapter One",
@@ -175925,10 +175934,13 @@
     {
       "name": "DealBridge",
       "slug": "polsia-dealbridge-1782936516876-8025",
+      "description": "Matching sellers with qualified buyers. A boutique networking service that connects real estate sellers with motivated buyers through a targeted, relationship-driven approach.",
+      "description_fr": "Mettre en relation des vendeurs avec des acheteurs qualifiés. Un service de réseautage boutique qui met en relation des vendeurs immobiliers avec des acheteurs motivés grâce à une approche ciblée et axée sur les relations.",
+      "category": "Real Estate",
       "website": "https://dealbridge-1782936516876-8025.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T20:12:21.784291+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T21:50:35.803592+00:00"
     },
     {
       "name": "Salaam Compliance",
@@ -175940,6 +175952,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-01T20:12:23.469717+00:00"
+    },
+    {
+      "name": "CoreBridge Development",
+      "slug": "polsia-corebridge-development",
+      "website": "https://corebridge-development.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T21:49:30.663957+00:00"
+    },
+    {
+      "name": "Vivisol Portugal",
+      "slug": "polsia-vivisol-portugal",
+      "website": "https://vivisol-portugal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T21:49:36.034042+00:00"
+    },
+    {
+      "name": "PrintYourDuck",
+      "slug": "polsia-printyourduck",
+      "website": "https://printyourduck.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T21:49:41.440819+00:00"
+    },
+    {
+      "name": "Core Peptide Solutions",
+      "slug": "polsia-core-peptide-solutions",
+      "website": "https://core-peptide-solutions.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T21:49:46.821699+00:00"
+    },
+    {
+      "name": "RS Bookkeeping and Accounting Ltd",
+      "slug": "polsia-rs-bookkeeping-and-accounting-ltd",
+      "website": "https://rs-bookkeeping-and-accounting-ltd.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T21:49:52.352511+00:00"
+    },
+    {
+      "name": "Mojo",
+      "slug": "polsia-mojo",
+      "website": "https://mojo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T21:49:57.728901+00:00"
+    },
+    {
+      "name": "LineCalc",
+      "slug": "polsia-linecalc",
+      "description": "Precise dry utilities cost estimates in minutes, not hours.",
+      "description_fr": "Estimations précises des coûts des services publics secs en quelques minutes et non en quelques heures.",
+      "category": "Other",
+      "website": "https://linecalc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T21:49:58.448220+00:00"
+    },
+    {
+      "name": "Midwest Meridian Travel",
+      "slug": "polsia-midwest-meridian-travel",
+      "description": "Your hometown gateway to the world—personalized travel planning rooted in Midwest expertise.",
+      "description_fr": "La porte d'entrée de votre ville natale vers le monde : une planification de voyage personnalisée ancrée dans l'expertise du Midwest.",
+      "category": "Travel & Hospitality",
+      "website": "https://midwest-meridian-travel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T21:49:59.417938+00:00"
+    },
+    {
+      "name": "StormStack",
+      "slug": "polsia-stormstack-3",
+      "description": "24/7 AI dispatch for rooftop contractors. Answer every lead, capture every claim, dispatch the right crew instantly.",
+      "description_fr": "Répartition IA 24h/24 et 7j/7 pour les entrepreneurs en toiture. Répondez à chaque piste, capturez chaque réclamation, envoyez instantanément la bonne équipe.",
+      "category": "AI & Machine Learning",
+      "website": "https://stormstack-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T21:50:00.380565+00:00"
+    },
+    {
+      "name": "AppSentinel",
+      "slug": "polsia-appsentinel",
+      "description": "AI-powered ASO agent that monitors, adapts, and optimizes your app listings 24/7.",
+      "description_fr": "Agent ASO alimenté par l'IA qui surveille, adapte et optimise vos listes d'applications 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://appsentinel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T21:51:08.714707+00:00"
     }
   ]
 }
