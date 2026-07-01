@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T09:49:51.154349+00:00",
+  "last_updated": "2026-07-01T10:34:29.619060+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -175320,34 +175320,46 @@
     {
       "name": "RepriceIQ",
       "slug": "polsia-repriceiq-1782887941642-icw0",
+      "description": "Daily AI repricing that keeps you competitive while protecting your margins.",
+      "description_fr": "Une retarification quotidienne par l'IA qui vous permet de rester compétitif tout en protégeant vos marges.",
+      "category": "AI & Machine Learning",
       "website": "https://repriceiq-1782887941642-icw0.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T06:40:45.515356+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T10:33:51.141582+00:00"
     },
     {
       "name": "KÉDI",
       "slug": "polsia-kdi",
+      "description": "L'art du cuir, l'élégance du quotidien. Maroquinerie premium artisanale pour ceux qui cherchent l'authenticité et la distinction.",
+      "description_fr": "L'art du cuir, l'élégance du quotidien. Maroquinerie premium artisanale pour ceux qui recherchent l'authenticité et la distinction.",
+      "category": "Other",
       "website": "https://kdi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T06:40:50.870792+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T10:33:52.856652+00:00"
     },
     {
       "name": "CompoundEdge",
       "slug": "polsia-compoundedge-2",
+      "description": "Automated trading tools for retail investors seeking consistent algorithmic strategies.",
+      "description_fr": "Outils de trading automatisés pour les investisseurs particuliers à la recherche de stratégies algorithmiques cohérentes.",
+      "category": "Finance & Fintech",
       "website": "https://compoundedge-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T06:40:56.170015+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T10:33:53.956378+00:00"
     },
     {
       "name": "OpsMind",
       "slug": "polsia-opsmind-1782887851675-ek5k",
+      "description": "24/7 AI Operations Command Center for Multi-Location Businesses",
+      "description_fr": "Centre de commandement des opérations IA 24h/24 et 7j/7 pour les entreprises multisites",
+      "category": "AI & Machine Learning",
       "website": "https://opsmind-1782887851675-ek5k.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T06:41:01.590322+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T10:33:55.782454+00:00"
     },
     {
       "name": "ForestWatch AI",
@@ -175408,6 +175420,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-01T06:41:12.278416+00:00"
+    },
+    {
+      "name": "Auto Elite 60",
+      "slug": "polsia-auto-elite-60",
+      "website": "https://auto-elite-60.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T10:33:05.788458+00:00"
+    },
+    {
+      "name": "FieldStack",
+      "slug": "polsia-fieldstack-1782901800776-pg7p",
+      "website": "https://fieldstack-1782901800776-pg7p.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T10:33:11.166944+00:00"
+    },
+    {
+      "name": "Rent",
+      "slug": "polsia-rent-radarde",
+      "description": "Wohnungssuche in Deutschland — schnell und unkompliziert. Finde passende Mietwohnungen in ganz Deutschland.",
+      "description_fr": "Wohnungssuche in Deutschland — schnell und unkompliziert. Finde passende Mietwohnungen in ganz Deutschland.",
+      "category": "Real Estate",
+      "website": "https://rent-radarde.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T10:34:13.962515+00:00"
+    },
+    {
+      "name": "RegulateAI",
+      "slug": "polsia-regulateai-2",
+      "website": "https://regulateai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T10:33:27.005919+00:00"
+    },
+    {
+      "name": "Floor Xpo",
+      "slug": "polsia-floor-xpo",
+      "description": "Your one-stop flooring and remodeling destination in Houston — carpet, hardwood, LVP, laminate, tile, countertops, and full installation.",
+      "description_fr": "Votre destination unique en matière de revêtement de sol et de rénovation à Houston : moquette, bois franc, LVP, stratifié, carrelage, comptoirs et installation complète.",
+      "category": "Other",
+      "website": "https://floor-xpo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T10:33:28.989952+00:00"
+    },
+    {
+      "name": "Genieserve",
+      "slug": "polsia-genieserve",
+      "description": "Your 24/7 AI receptionist for trades and small business. Never miss another call — every inquiry answered, triaged, and texted to you instantly.",
+      "description_fr": "Votre réceptionniste IA 24h/24 et 7j/7 pour les métiers et les petites entreprises. Ne manquez jamais un autre appel : chaque demande est répondue, triée et envoyée par SMS instantanément.",
+      "category": "AI & Machine Learning",
+      "website": "https://genieserve.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T10:33:30.861721+00:00"
+    },
+    {
+      "name": "Little Bud",
+      "slug": "polsia-little-bud",
+      "website": "https://little-bud.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T10:33:36.370474+00:00"
+    },
+    {
+      "name": "PartnerPulse",
+      "slug": "polsia-partnerpulse-7",
+      "description": "AI-powered partnership intelligence for banking teams",
+      "description_fr": "Intelligence partenariale basée sur l'IA pour les équipes bancaires",
+      "category": "AI & Machine Learning",
+      "website": "https://partnerpulse-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T10:33:37.547178+00:00"
+    },
+    {
+      "name": "NimbleStack AI",
+      "slug": "polsia-nimblestack-ai",
+      "description": "AI automation built for small business. Eliminate repetitive tasks with intelligent chatbots, booking systems, email sequences, and CRM integrations — starting under $500/month.",
+      "description_fr": "Automatisation de l'IA conçue pour les petites entreprises. Éliminez les tâches répétitives grâce aux chatbots intelligents, aux systèmes de réservation, aux séquences d'e-mails et aux intégrations CRM, à partir de moins de 500 $/mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://nimblestack-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T10:33:39.601958+00:00"
+    },
+    {
+      "name": "BrokenGold",
+      "slug": "polsia-brokengold",
+      "description": "Trade gold with institutional-grade execution. Deep analysis on monetary history, fiat currency flaws, and the case for sound money.",
+      "description_fr": "Négociez de l’or avec une exécution de qualité institutionnelle. Analyse approfondie de l’histoire monétaire, des défauts de la monnaie fiduciaire et des arguments en faveur d’une monnaie saine.",
+      "category": "Other",
+      "website": "https://brokengold.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T10:33:41.717666+00:00"
     }
   ]
 }
