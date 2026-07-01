@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T16:01:55.249397+00:00",
+  "last_updated": "2026-07-01T18:08:59.042964+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -175644,10 +175644,13 @@
     {
       "name": "The Five Things",
       "slug": "polsia-the-five-things",
+      "description": "Five ideas, discoveries, and observations — curated weekly.",
+      "description_fr": "Cinq idées, découvertes et observations – organisées chaque semaine.",
+      "category": "Other",
       "website": "https://the-five-things.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T16:00:19.324598+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T18:08:09.509068+00:00"
     },
     {
       "name": "Vontage",
@@ -175660,34 +175663,46 @@
     {
       "name": "BidForge",
       "slug": "polsia-bidforge-1782921483447-7n7r",
+      "description": "AI agent that autonomously discovers, drafts, and tracks government bids",
+      "description_fr": "Agent IA qui découvre, rédige et suit de manière autonome les offres gouvernementales",
+      "category": "AI & Machine Learning",
       "website": "https://bidforge-1782921483447-7n7r.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T16:00:30.287635+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T18:08:11.640557+00:00"
     },
     {
       "name": "AfriComply",
       "slug": "polsia-africomply",
+      "description": "AI-powered trade compliance monitoring for African businesses navigating AfCFTA.",
+      "description_fr": "Surveillance de la conformité commerciale basée sur l’IA pour les entreprises africaines naviguant dans la ZLECAf.",
+      "category": "AI & Machine Learning",
       "website": "https://africomply.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T16:00:35.547619+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T18:08:12.900749+00:00"
     },
     {
       "name": "LabSentri",
       "slug": "polsia-labsentri",
+      "description": "Autonomous AI agents ensuring your lab equipment never misses a beat. Predictive calibration, compliance-ready audit trails, and 24/7 operational readiness for GxP environments.",
+      "description_fr": "Des agents IA autonomes garantissant que votre équipement de laboratoire ne manque jamais un rythme. Étalonnage prédictif, pistes d'audit prêtes pour la conformité et préparation opérationnelle 24h/24 et 7j/7 pour les environnements GxP.",
+      "category": "AI & Machine Learning",
       "website": "https://labsentri.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T16:00:40.927488+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T18:08:14.110112+00:00"
     },
     {
       "name": "CareSync AI",
       "slug": "polsia-caresync-ai-5",
+      "description": "Autonomous patient engagement that never sleeps, never misses a follow-up.",
+      "description_fr": "Un engagement patient autonome qui ne dort jamais, ne manque jamais un suivi.",
+      "category": "AI & Machine Learning",
       "website": "https://caresync-ai-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T16:00:46.303678+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-01T18:08:15.296012+00:00"
     },
     {
       "name": "AnswerForce",
@@ -175729,6 +175744,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-01T16:00:56.604817+00:00"
+    },
+    {
+      "name": "Genshin Guide",
+      "slug": "polsia-genshin-guide",
+      "website": "https://genshin-guide.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T18:07:10.080588+00:00"
+    },
+    {
+      "name": "Delta Hub Media",
+      "slug": "polsia-delta-hub-media",
+      "website": "https://delta-hub-media.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T18:07:15.628989+00:00"
+    },
+    {
+      "name": "GhostOps AI",
+      "slug": "polsia-ghostops-ai",
+      "website": "https://ghostops-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T18:07:21.174143+00:00"
+    },
+    {
+      "name": "Herb n Vibez Botanics",
+      "slug": "polsia-herb-n-vibez-botanics",
+      "website": "https://herb-n-vibez-botanics.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T18:07:26.686847+00:00"
+    },
+    {
+      "name": "Actusmart",
+      "slug": "polsia-actusmart",
+      "description": "L'intelligence actuarielle amplifiée, à la vitesse et au coût de vos ambitions.",
+      "description_fr": "L'intelligence actuarielle amplifiée, à la vitesse et au coût de vos ambitions.",
+      "category": "Other",
+      "website": "https://actusmart.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T18:08:40.958663+00:00"
+    },
+    {
+      "name": "Sygnius Labs",
+      "slug": "polsia-sygnius-labs",
+      "description": "Rugged edge instruments turning low-level physical signals into automated decisions.",
+      "description_fr": "Des instruments de pointe robustes transformant des signaux physiques de bas niveau en décisions automatisées.",
+      "category": "Other",
+      "website": "https://sygnius-labs.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T18:08:42.691993+00:00"
+    },
+    {
+      "name": "ContractIQ",
+      "slug": "polsia-contractiq-2",
+      "website": "https://contractiq-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T18:07:43.060519+00:00"
+    },
+    {
+      "name": "SmokeStack Consulting",
+      "slug": "polsia-smokestack-consulting",
+      "website": "https://smokestack-consulting.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T18:07:48.480963+00:00"
+    },
+    {
+      "name": "PriceWatch Pro",
+      "slug": "polsia-pricewatch-pro",
+      "description": "Real-time AI procurement intelligence that identifies savings and flags renegotiation opportunities.",
+      "description_fr": "Des renseignements IA en temps réel sur les achats qui identifient les économies et signalent les opportunités de renégociation.",
+      "category": "AI & Machine Learning",
+      "website": "https://pricewatch-pro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-01T18:07:50.010462+00:00"
+    },
+    {
+      "name": "MaterialNexus",
+      "slug": "polsia-materialnexus",
+      "website": "https://materialnexus.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-01T18:07:55.556713+00:00"
     }
   ]
 }
