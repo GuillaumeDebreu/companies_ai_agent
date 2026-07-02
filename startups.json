@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T22:33:52.796449+00:00",
+  "last_updated": "2026-07-02T23:43:19.537458+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -177239,58 +177239,79 @@
     {
       "name": "AuctoEdge",
       "slug": "polsia-auctoedge",
+      "description": "Autonomous AI bidding for classic and exotic car collectors. AI-powered agents monitor auctions across Barrett-Jackson, RM Sotheby’s, Bring a Trailer, and more to execute bids in real-time.",
+      "description_fr": "Enchères IA autonomes pour les collectionneurs de voitures classiques et exotiques. Des agents basés sur l'IA surveillent les enchères chez Barrett-Jackson, RM Sotheby's, Bring a Trailer et bien d'autres pour exécuter les enchères en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://auctoedge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T22:31:56.486967+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T23:42:40.143027+00:00"
     },
     {
       "name": "ServiceOps AI",
       "slug": "polsia-serviceops-ai-5",
+      "description": "Autonomous 24/7 service management — zero missed calls, zero staffing costs.",
+      "description_fr": "Gestion autonome des services 24h/24 et 7j/7 : zéro appel manqué, zéro frais de personnel.",
+      "category": "AI & Machine Learning",
       "website": "https://serviceops-ai-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T22:31:57.006154+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T23:42:41.405292+00:00"
     },
     {
       "name": "MakerMint",
       "slug": "polsia-makermint-3",
+      "description": "Unique 3D Printed & Laser-Cut Merchandise for Home and Gifts. Distinctive custom manufacturing for home decor, wall art, and bespoke gifts.",
+      "description_fr": "Marchandise unique imprimée en 3D et découpée au laser pour la maison et les cadeaux. Fabrication personnalisée distinctive pour la décoration intérieure, l’art mural et les cadeaux sur mesure.",
+      "category": "E-Commerce & Retail",
       "website": "https://makermint-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T22:32:02.541488+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T23:42:43.265463+00:00"
     },
     {
       "name": "CreatorBridge",
       "slug": "polsia-creatorbridge-1783031379824-dgfi",
+      "description": "Connecting brands with micro and macro creators for high-impact, compliant campaigns.",
+      "description_fr": "Connecter les marques avec des créateurs micro et macro pour des campagnes conformes et à fort impact.",
+      "category": "Marketing & Advertising",
       "website": "https://creatorbridge-1783031379824-dgfi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T22:32:07.926473+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T23:42:44.443984+00:00"
     },
     {
       "name": "CalBrief",
       "slug": "polsia-calbrief",
+      "description": "Draft winning proposals from your client’s calendar and inbox.",
+      "description_fr": "Rédigez des propositions gagnantes à partir du calendrier et de la boîte de réception de votre client.",
+      "category": "Newsletter & Email",
       "website": "https://calbrief.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T22:32:13.248392+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T23:42:45.693187+00:00"
     },
     {
       "name": "FrameOS",
       "slug": "polsia-frameos-1783031296183-8cd3",
+      "description": "Build homes twice as fast at 20% lower cost. The full-stack modular housing platform combining AI-powered design automation, intelligent procurement, and precision manufacturing.",
+      "description_fr": "Construisez des maisons deux fois plus vite à un coût 20 % inférieur. La plate-forme de logement modulaire complète combinant l'automatisation de la conception basée sur l'IA, l'approvisionnement intelligent et la fabrication de précision.",
+      "category": "Software & SaaS",
       "website": "https://frameos-1783031296183-8cd3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T22:32:18.679935+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T23:42:47.673875+00:00"
     },
     {
       "name": "CompanionCore",
       "slug": "polsia-companioncore",
+      "description": "24/7 AI agents for senior companion care — wellness calls, medication reminders, visit scheduling, and family reports.",
+      "description_fr": "Agents IA 24h/24 et 7j/7 pour les soins aux personnes âgées : appels de bien-être, rappels de médicaments, planification des visites et rapports familiaux.",
+      "category": "AI & Machine Learning",
       "website": "https://companioncore.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T22:32:24.042389+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T23:42:49.057889+00:00"
     },
     {
       "name": "CareCompass",
@@ -177303,10 +177324,13 @@
     {
       "name": "JS Web Creations",
       "slug": "polsia-js-web-creations",
+      "description": "Custom websites for local service businesses—crafted without templates, priced for startups.",
+      "description_fr": "Sites Web personnalisés pour les entreprises de services locales, créés sans modèles et tarifés pour les startups.",
+      "category": "Other",
       "website": "https://js-web-creations.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T22:32:34.716488+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T23:42:50.836365+00:00"
     },
     {
       "name": "CreativePulse",
@@ -177318,6 +177342,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-02T22:32:35.304267+00:00"
+    },
+    {
+      "name": "Lumin Digital",
+      "slug": "polsia-lumin-digital",
+      "website": "https://lumin-digital.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T23:41:40.114763+00:00"
+    },
+    {
+      "name": "PMD Interviews",
+      "slug": "polsia-pmd-interviews",
+      "website": "https://pmd-interviews.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T23:41:40.782032+00:00"
+    },
+    {
+      "name": "VenueOps",
+      "slug": "polsia-venueops",
+      "website": "https://venueops.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T23:41:46.290190+00:00"
+    },
+    {
+      "name": "ShopVance AI",
+      "slug": "polsia-shopvance-ai",
+      "website": "https://shopvance-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T23:41:51.594570+00:00"
+    },
+    {
+      "name": "StatesRecruiter",
+      "slug": "polsia-statesrecruiter",
+      "website": "https://statesrecruiter.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T23:41:57.225986+00:00"
+    },
+    {
+      "name": "ClearIt Junk Removal",
+      "slug": "polsia-clearit-junk-removal",
+      "description": "Fast, eco-friendly junk removal for the Washington DC metro area. Same-day service, transparent pricing starting at $99.",
+      "description_fr": "Enlèvement rapide et écologique des déchets pour la région métropolitaine de Washington DC. Service le jour même, tarification transparente à partir de 99 $.",
+      "category": "Real Estate",
+      "website": "https://clearit-junk-removal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T23:43:18.769891+00:00"
+    },
+    {
+      "name": "Ardor",
+      "slug": "polsia-ardor",
+      "description": "Premium sensual massage essentials — massage oils, candles, creams, and aromatherapy for intimacy and connection.",
+      "description_fr": "Essentiels du massage sensuel haut de gamme : huiles de massage, bougies, crèmes et aromathérapie pour l'intimité et la connexion.",
+      "category": "Health & Wellness",
+      "website": "https://ardor.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T23:42:03.740632+00:00"
+    },
+    {
+      "name": "Wavecaster",
+      "slug": "polsia-wavecaster",
+      "description": "Your AI surf coach for perfect gear, every session.",
+      "description_fr": "Votre coach de surf IA pour un équipement parfait, à chaque session.",
+      "category": "AI & Machine Learning",
+      "website": "https://wavecaster.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T23:43:19.536433+00:00"
+    },
+    {
+      "name": "RestoreMotion Oncology Fitness",
+      "slug": "polsia-restoremotion-oncology-fitness",
+      "description": "Expert exercise coaching through every stage of cancer recovery.",
+      "description_fr": "Coaching d'exercices experts à chaque étape de la guérison du cancer.",
+      "category": "E-Commerce & Retail",
+      "website": "https://restoremotion-oncology-fitness.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T23:42:10.209493+00:00"
+    },
+    {
+      "name": "Subwise",
+      "slug": "polsia-subwise-1783035235972-zt1j",
+      "description": "Never pay for what you don&apos;t use.",
+      "description_fr": "Ne payez jamais pour ce que vous n'utilisez pas.",
+      "category": "Other",
+      "website": "https://subwise-1783035235972-zt1j.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T23:42:11.500152+00:00"
     }
   ]
 }
