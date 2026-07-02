@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T16:53:09.180849+00:00",
+  "last_updated": "2026-07-02T18:23:36.135618+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -176819,18 +176819,24 @@
     {
       "name": "MailSentinel",
       "slug": "polsia-mailsentinel",
+      "description": "Your tireless 24/7 inbox guardian. Autonomous AI that monitors, prioritizes, drafts replies, and escalates critical issues — so nothing important ever falls through the cracks.",
+      "description_fr": "Votre gardien infatigable de la boîte de réception 24h/24 et 7j/7. Une IA autonome qui surveille, hiérarchise, rédige des réponses et fait remonter les problèmes critiques, afin que rien d'important ne passe entre les mailles du filet.",
+      "category": "AI & Machine Learning",
       "website": "https://mailsentinel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T16:51:09.328557+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T18:22:55.362640+00:00"
     },
     {
       "name": "ScentSync",
       "slug": "polsia-scentsync",
+      "description": "Your AI-smart fragrance subscription that learns and ships personalized aromatherapy blends monthly.",
+      "description_fr": "Votre abonnement aux parfums intelligents par l'IA qui apprend et expédie chaque mois des mélanges d'aromathérapie personnalisés.",
+      "category": "AI & Machine Learning",
       "website": "https://scentsync.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T16:51:14.689770+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T18:22:56.141573+00:00"
     },
     {
       "name": "The Saaauce Station",
@@ -176843,42 +176849,57 @@
     {
       "name": "Nodus",
       "slug": "polsia-nodus-3",
+      "description": "Your personal AI command center for business and life — powered by a tree of intelligent agents.",
+      "description_fr": "Votre centre de commande personnel d'IA pour les affaires et la vie, alimenté par une arborescence d'agents intelligents.",
+      "category": "AI & Machine Learning",
       "website": "https://nodus-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T16:51:25.448281+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T18:22:58.246734+00:00"
     },
     {
       "name": "DriftLens",
       "slug": "polsia-driftlens",
+      "description": "Autonomous pipeline monitoring that detects drift, fixes failures, and prevents downtime.",
+      "description_fr": "Surveillance autonome des pipelines qui détecte les dérives, corrige les pannes et évite les temps d'arrêt.",
+      "category": "Sales & CRM",
       "website": "https://driftlens.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T16:51:30.818001+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T18:22:59.074298+00:00"
     },
     {
       "name": "ClearAegis",
       "slug": "polsia-clearaegis",
+      "description": "Veteran-Led CMMC 2.0 Readiness for Defense Contractors",
+      "description_fr": "Préparation CMMC 2.0 dirigée par des vétérans pour les entrepreneurs de la défense",
+      "category": "Other",
       "website": "https://clearaegis.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T16:51:36.295281+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T18:23:00.074695+00:00"
     },
     {
       "name": "Graft",
       "slug": "polsia-graft-6",
+      "description": "AI-powered relationship intelligence that keeps your professional network warm and active.",
+      "description_fr": "Une intelligence relationnelle basée sur l’IA qui maintient votre réseau professionnel chaleureux et actif.",
+      "category": "AI & Machine Learning",
       "website": "https://graft-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T16:51:41.744699+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T18:23:00.809901+00:00"
     },
     {
       "name": "CloudForge",
       "slug": "polsia-cloudforge-3",
+      "description": "Intelligent cloud tools for modern engineering teams.",
+      "description_fr": "Des outils cloud intelligents pour les équipes d'ingénierie modernes.",
+      "category": "Other",
       "website": "https://cloudforge-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T16:51:47.008597+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T18:23:01.661130+00:00"
     },
     {
       "name": "Briefly",
@@ -176894,10 +176915,102 @@
     {
       "name": "Responde.ai",
       "slug": "polsia-respondeai-2",
+      "description": "IA que responde seus clientes 24/7, qualifica leads e fecha vendas. Automação inteligente para imobiliárias, clínicas, escritórios e e-commerces.",
+      "description_fr": "Je réponds à nos clients 24 heures sur 24, 7 jours sur 7, avec des prospects qualifiés et des demandes de vente. Automatisation intelligente pour les immeubles, les cliniques, les bureaux et les commerces électroniques.",
+      "category": "AI & Machine Learning",
       "website": "https://respondeai-2.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T18:23:03.077671+00:00"
+    },
+    {
+      "name": "MathPath AI",
+      "slug": "polsia-mathpath-ai",
+      "website": "https://mathpath-ai.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-02T16:51:57.500163+00:00"
+      "scraped_at": "2026-07-02T18:22:04.960875+00:00"
+    },
+    {
+      "name": "Veyra",
+      "slug": "polsia-veyra-3",
+      "website": "https://veyra-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T18:22:05.426033+00:00"
+    },
+    {
+      "name": "DublinPulse",
+      "slug": "polsia-dublinpulse",
+      "website": "https://dublinpulse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T18:22:10.662736+00:00"
+    },
+    {
+      "name": "PrecisionDocs.ai",
+      "slug": "polsia-precisiondocsai",
+      "website": "https://precisiondocsai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T18:22:15.864705+00:00"
+    },
+    {
+      "name": "Lucid",
+      "slug": "polsia-lucid-2",
+      "website": "https://lucid-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T18:22:21.244405+00:00"
+    },
+    {
+      "name": "BrandMend",
+      "slug": "polsia-brandmend",
+      "website": "https://brandmend.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T18:22:26.623173+00:00"
+    },
+    {
+      "name": "ContentLoop AI",
+      "slug": "polsia-contentloop-ai-4",
+      "description": "Autonomous AI agents running your content studio 24/7.",
+      "description_fr": "Des agents IA autonomes qui gèrent votre studio de contenu 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://contentloop-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T18:23:30.776698+00:00"
+    },
+    {
+      "name": "Flowiq",
+      "slug": "polsia-flowiq-1783016301345-5y7j",
+      "website": "https://flowiq-1783016301345-5y7j.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T18:22:37.510573+00:00"
+    },
+    {
+      "name": "ThermaPulse",
+      "slug": "polsia-thermapulse",
+      "description": "AI-driven insulation intelligence for smarter, greener buildings.",
+      "description_fr": "Intelligence d’isolation basée sur l’IA pour des bâtiments plus intelligents et plus écologiques.",
+      "category": "AI & Machine Learning",
+      "website": "https://thermapulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T18:22:38.197984+00:00"
+    },
+    {
+      "name": "Southwest Mechanical Services, Inc.",
+      "slug": "polsia-southwest-mechanical-services-inc",
+      "description": "San Diego commercial HVAC contractor — installation, maintenance, repair, and 24/7 emergency support for businesses across San Diego County. C-20 licensed, 40+ years serving healthcare, education, government, and more.",
+      "description_fr": "Entrepreneur CVC commercial de San Diego — installation, maintenance, réparation et assistance d'urgence 24h/24 et 7j/7 pour les entreprises du comté de San Diego. Licence C-20, plus de 40 ans au service des soins de santé, de l'éducation, du gouvernement et plus encore.",
+      "category": "Health & Wellness",
+      "website": "https://southwest-mechanical-services-inc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T18:22:39.131846+00:00"
     }
   ]
 }
