@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T03:41:52.394988+00:00",
+  "last_updated": "2026-07-02T04:36:28.730010+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -176176,42 +176176,57 @@
     {
       "name": "DentaCall",
       "slug": "polsia-dentacall-2",
+      "description": "AI receptionist that fills your dental calendar and stops missed calls.",
+      "description_fr": "Réceptionniste IA qui remplit votre calendrier dentaire et arrête les appels manqués.",
+      "category": "AI & Machine Learning",
       "website": "https://dentacall-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T00:16:38.515972+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T04:35:38.125859+00:00"
     },
     {
       "name": "Thrïve",
       "slug": "polsia-thrve",
+      "description": "Science-backed supplements for every stage of a woman’s life.",
+      "description_fr": "Des suppléments scientifiques pour chaque étape de la vie d’une femme.",
+      "category": "Other",
       "website": "https://thrve.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T00:16:43.911107+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T04:35:39.136222+00:00"
     },
     {
       "name": "PipelineAI",
       "slug": "polsia-pipelineai-6",
+      "description": "Autonomous AI agent that monitors pipelines 24/7, negotiates deals, and predicts revenue — replacing manual SDR work.",
+      "description_fr": "Agent d'IA autonome qui surveille les pipelines 24 heures sur 24 et 7 jours sur 7, négocie des accords et prédit les revenus, remplaçant le travail manuel SDR.",
+      "category": "AI & Machine Learning",
       "website": "https://pipelineai-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T00:16:49.301346+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T04:35:40.270531+00:00"
     },
     {
       "name": "CodePulse",
       "slug": "polsia-codepulse-1782951272480-d3dk",
+      "description": "AI-powered code review that monitors every pull request around the clock — catching bugs, anti-patterns, and security issues before they reach production.",
+      "description_fr": "Examen du code basé sur l'IA qui surveille chaque demande d'extraction 24 heures sur 24, détectant les bugs, les anti-modèles et les problèmes de sécurité avant qu'ils n'atteignent la production.",
+      "category": "AI & Machine Learning",
       "website": "https://codepulse-1782951272480-d3dk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T00:16:54.663198+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T04:35:41.950302+00:00"
     },
     {
       "name": "TBDO",
       "slug": "polsia-tbdo",
+      "description": "Unified Business Services for the Modern Enterprise",
+      "description_fr": "Services commerciaux unifiés pour l'entreprise moderne",
+      "category": "Other",
       "website": "https://tbdo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T00:17:00.047677+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T04:35:43.087500+00:00"
     },
     {
       "name": "Aurelia AI",
@@ -176227,10 +176242,13 @@
     {
       "name": "SeatIQ",
       "slug": "polsia-seatiq",
+      "description": "Autonomous SaaS license optimization to eliminate waste",
+      "description_fr": "Optimisation des licences SaaS autonomes pour éliminer le gaspillage",
+      "category": "Software & SaaS",
       "website": "https://seatiq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T00:17:10.790998+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T04:35:44.032630+00:00"
     },
     {
       "name": "ZenithTools",
@@ -176246,10 +176264,13 @@
     {
       "name": "FreightMind",
       "slug": "polsia-freightmind-8",
+      "description": "The autonomous freight coordinator for small operators. AI-powered logistics that schedules, routes, and reports on freight operations 24/7.",
+      "description_fr": "Le coordinateur de fret autonome pour les petits opérateurs. Une logistique basée sur l'IA qui planifie, achemine et rend compte des opérations de fret 24h/24 et 7j/7.",
+      "category": "Logistics & Supply Chain",
       "website": "https://freightmind-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T00:17:31.575054+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T04:35:45.299687+00:00"
     },
     {
       "name": "GatherTrip",
@@ -176261,6 +176282,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-02T00:17:33.042671+00:00"
+    },
+    {
+      "name": "RankCraft",
+      "slug": "polsia-rankcraft-8",
+      "website": "https://rankcraft-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T04:34:33.422924+00:00"
+    },
+    {
+      "name": "CreatorOS",
+      "slug": "polsia-creatoros-1782966835969-7sux",
+      "website": "https://creatoros-1782966835969-7sux.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T04:34:33.970553+00:00"
+    },
+    {
+      "name": "Momentum AI",
+      "slug": "polsia-momentum-ai-10",
+      "description": "Launch, operate, and scale AI-powered micro-SaaS businesses for profit.",
+      "description_fr": "Lancez, exploitez et faites évoluer des entreprises micro-SaaS basées sur l'IA dans un but lucratif.",
+      "category": "AI & Machine Learning",
+      "website": "https://momentum-ai-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T04:34:35.479387+00:00"
+    },
+    {
+      "name": "Glitchwreck",
+      "slug": "polsia-glitchwreck",
+      "website": "https://glitchwreck.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T04:34:40.974730+00:00"
+    },
+    {
+      "name": "BidForge",
+      "slug": "polsia-bidforge-1782966599196-jsj1",
+      "website": "https://bidforge-1782966599196-jsj1.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T04:34:46.565275+00:00"
+    },
+    {
+      "name": "AskMags AI",
+      "slug": "polsia-askmags-ai",
+      "website": "https://askmags-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T04:34:51.938694+00:00"
+    },
+    {
+      "name": "Verdant Atelier",
+      "slug": "polsia-verdant-atelier",
+      "website": "https://verdant-atelier.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T04:34:57.408674+00:00"
+    },
+    {
+      "name": "SportFlow AI",
+      "slug": "polsia-sportflow-ai",
+      "website": "https://sportflow-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T04:35:02.789014+00:00"
+    },
+    {
+      "name": "Lifeworks Family & Youth Psychiatry",
+      "slug": "polsia-lifeworks-family-youth-psychiatry",
+      "website": "https://lifeworks-family-youth-psychiatry.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T04:35:08.341017+00:00"
+    },
+    {
+      "name": "ThreadHype",
+      "slug": "polsia-threadhype",
+      "description": "AI-crafted tees & hoodies for every hot topic — one fresh design per theme.",
+      "description_fr": "Des t-shirts et des sweats à capuche conçus par l'IA pour chaque sujet d'actualité – un nouveau design par thème.",
+      "category": "AI & Machine Learning",
+      "website": "https://threadhype.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T04:35:09.421959+00:00"
     }
   ]
 }
