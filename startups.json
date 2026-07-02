@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T14:03:34.107797+00:00",
+  "last_updated": "2026-07-02T14:56:59.547576+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -176646,10 +176646,13 @@
     {
       "name": "Ecommerceagent",
       "slug": "polsia-ecommerceagent",
+      "description": "AI-powered ecommerce automation through conversational commands.",
+      "description_fr": "Automatisation du commerce électronique basée sur l'IA via des commandes conversationnelles.",
+      "category": "AI & Machine Learning",
       "website": "https://ecommerceagent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T12:31:12.319426+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T14:56:19.990469+00:00"
     },
     {
       "name": "Roastd",
@@ -176662,34 +176665,138 @@
     {
       "name": "ClosetCare",
       "slug": "polsia-closetcare",
+      "description": "Your personal laundry and wardrobe concierge — at home. Trained professionals bring full wardrobe care to your doorstep.",
+      "description_fr": "Votre concierge personnel de blanchisserie et de garde-robe – à la maison. Des professionnels qualifiés apportent un soin complet à votre garde-robe.",
+      "category": "Other",
       "website": "https://closetcare.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T12:31:13.064258+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T14:56:21.277173+00:00"
     },
     {
       "name": "ScaleFrame",
       "slug": "polsia-scaleframe-3",
+      "description": "The DTC Scaling Framework — from £1M to £5M and beyond.",
+      "description_fr": "Le cadre de mise à l'échelle DTC — de 1 million £ à 5 millions £ et au-delà.",
+      "category": "Other",
       "website": "https://scaleframe-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T12:31:13.629217+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T14:56:22.454783+00:00"
     },
     {
       "name": "ElevateStack Digital",
       "slug": "polsia-elevatestack-digital",
+      "description": "Tech-powered digital products built for women, scaled on autopilot.",
+      "description_fr": "Produits numériques technologiques conçus pour les femmes, mis à l'échelle sur pilote automatique.",
+      "category": "Other",
       "website": "https://elevatestack-digital.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-02T12:31:14.162430+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T14:56:24.259006+00:00"
     },
     {
       "name": "TechElevate",
       "slug": "polsia-techelevate",
+      "description": "Independent technology advisory for Australian businesses. Vendor-neutral IT strategy, digital transformation, and cybersecurity consulting.",
+      "description_fr": "Conseil technologique indépendant pour les entreprises australiennes. Stratégie informatique neutre vis-à-vis des fournisseurs, transformation numérique et conseil en cybersécurité.",
+      "category": "Consulting & Services",
       "website": "https://techelevate.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T14:56:25.186959+00:00"
+    },
+    {
+      "name": "LeBloom by Tata Shifrin",
+      "slug": "polsia-lebloom-by-tata-shifrin",
+      "website": "https://lebloom-by-tata-shifrin.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-02T12:31:15.022572+00:00"
+      "scraped_at": "2026-07-02T14:55:24.139094+00:00"
+    },
+    {
+      "name": "Meldr.de",
+      "slug": "polsia-meldrde",
+      "website": "https://meldrde.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T14:55:29.514937+00:00"
+    },
+    {
+      "name": "PermitPulse",
+      "slug": "polsia-permitpulse-6",
+      "website": "https://permitpulse-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T14:55:34.891543+00:00"
+    },
+    {
+      "name": "CasePulse AI",
+      "slug": "polsia-casepulse-ai-2",
+      "description": "Autonomous legal intelligence that monitors every federal and state docket 24/7 — flagging precedent-setting cases and delivering instant briefing summaries.",
+      "description_fr": "Une intelligence juridique autonome qui surveille chaque dossier fédéral et étatique 24 heures sur 24, 7 jours sur 7, en signalant les cas créant un précédent et en fournissant des résumés instantanés.",
+      "category": "AI & Machine Learning",
+      "website": "https://casepulse-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T14:56:42.522307+00:00"
+    },
+    {
+      "name": "Thread & Honor",
+      "slug": "polsia-thread-honor",
+      "website": "https://thread-honor.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T14:55:45.573436+00:00"
+    },
+    {
+      "name": "Cortify",
+      "slug": "polsia-cortify",
+      "description": "Strategic execution intelligence for enterprise operations. Bridge the gap between strategic planning and day-to-day execution.",
+      "description_fr": "Intelligence d’exécution stratégique pour les opérations d’entreprise. Comblez le fossé entre la planification stratégique et l’exécution quotidienne.",
+      "category": "Other",
+      "website": "https://cortify.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T14:56:48.917068+00:00"
+    },
+    {
+      "name": "Stockly",
+      "slug": "polsia-stockly-1783003846949-i7qr",
+      "description": "AI-powered inventory restocking that monitors stock levels, auto-places reorders, and surfaces only the exceptions that need your attention.",
+      "description_fr": "Réapprovisionnement des stocks alimenté par l'IA qui surveille les niveaux de stock, passe automatiquement les commandes et ne fait apparaître que les exceptions qui nécessitent votre attention.",
+      "category": "AI & Machine Learning",
+      "website": "https://stockly-1783003846949-i7qr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T14:55:52.133317+00:00"
+    },
+    {
+      "name": "CloudPilot AI",
+      "slug": "polsia-cloudpilot-ai-8",
+      "website": "https://cloudpilot-ai-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T14:55:57.419169+00:00"
+    },
+    {
+      "name": "LuckyDrop",
+      "slug": "polsia-luckydrop-2",
+      "website": "https://luckydrop-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T14:56:02.717096+00:00"
+    },
+    {
+      "name": "NearFront",
+      "slug": "polsia-nearfront",
+      "description": "AI-powered local SEO for multi-location brands dominating Google Maps and AI Overviews.",
+      "description_fr": "SEO local alimenté par l'IA pour les marques multi-sites dominant Google Maps et AI Overviews.",
+      "category": "AI & Machine Learning",
+      "website": "https://nearfront.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T14:56:04.366677+00:00"
     }
   ]
 }
