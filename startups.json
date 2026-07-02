@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T22:59:37.035685+00:00",
+  "last_updated": "2026-07-02T00:18:48.888516+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -176066,26 +176066,35 @@
     {
       "name": "Pocket Tactics",
       "slug": "polsia-pocket-tactics",
+      "description": "Precision footbags crafted for players who think a move ahead.",
+      "description_fr": "Des footbags de précision conçus pour les joueurs qui pensent aller de l'avant.",
+      "category": "Other",
       "website": "https://pocket-tactics.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T22:58:22.998743+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T00:17:59.588175+00:00"
     },
     {
       "name": "Vigilant AI",
       "slug": "polsia-vigilant-ai-1782946598642-mrti",
+      "description": "Autonomous anomaly detection and real-time threat briefings for naval operators.",
+      "description_fr": "Détection autonome des anomalies et briefings sur les menaces en temps réel pour les opérateurs navals.",
+      "category": "AI & Machine Learning",
       "website": "https://vigilant-ai-1782946598642-mrti.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T22:58:28.359075+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T00:18:00.442655+00:00"
     },
     {
       "name": "Buildwise",
       "slug": "polsia-buildwise-4",
+      "description": "Stop debugging pipelines. Start shipping faster.",
+      "description_fr": "Arrêtez de déboguer les pipelines. Commencez à expédier plus rapidement.",
+      "category": "Sales & CRM",
       "website": "https://buildwise-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T22:58:33.793495+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T00:18:01.520729+00:00"
     },
     {
       "name": "CarProof",
@@ -176101,18 +176110,24 @@
     {
       "name": "Capital Research",
       "slug": "polsia-capital-research",
+      "description": "Independent equity research for the disciplined investor.",
+      "description_fr": "Recherche d'actions indépendante pour l'investisseur discipliné.",
+      "category": "Software & SaaS",
       "website": "https://capital-research.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T22:58:35.489588+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T00:18:03.061197+00:00"
     },
     {
       "name": "Subtract",
       "slug": "polsia-subtract-9",
+      "description": "AI-powered SaaS management that monitors, optimizes, and negotiates your software subscriptions — stopping waste before it drains your budget.",
+      "description_fr": "Une gestion SaaS basée sur l'IA qui surveille, optimise et négocie vos abonnements logiciels, éliminant ainsi le gaspillage avant qu'il n'épuise votre budget.",
+      "category": "Software & SaaS",
       "website": "https://subtract-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T22:58:40.711126+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-02T00:18:04.574965+00:00"
     },
     {
       "name": "Prestige Acquisitions",
@@ -176157,6 +176172,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-01T22:58:44.528211+00:00"
+    },
+    {
+      "name": "DentaCall",
+      "slug": "polsia-dentacall-2",
+      "website": "https://dentacall-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T00:16:38.515972+00:00"
+    },
+    {
+      "name": "Thrïve",
+      "slug": "polsia-thrve",
+      "website": "https://thrve.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T00:16:43.911107+00:00"
+    },
+    {
+      "name": "PipelineAI",
+      "slug": "polsia-pipelineai-6",
+      "website": "https://pipelineai-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T00:16:49.301346+00:00"
+    },
+    {
+      "name": "CodePulse",
+      "slug": "polsia-codepulse-1782951272480-d3dk",
+      "website": "https://codepulse-1782951272480-d3dk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T00:16:54.663198+00:00"
+    },
+    {
+      "name": "TBDO",
+      "slug": "polsia-tbdo",
+      "website": "https://tbdo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T00:17:00.047677+00:00"
+    },
+    {
+      "name": "Aurelia AI",
+      "slug": "polsia-aurelia-ai",
+      "description": "The AI operating system for modern service businesses. Consolidate lead generation, CRM, email outreach, invoicing, contracts, and AI advice into one platform.",
+      "description_fr": "Le système d’exploitation IA pour les entreprises de services modernes. Regroupez la génération de leads, le CRM, la diffusion par e-mail, la facturation, les contrats et les conseils en matière d'IA sur une seule plateforme.",
+      "category": "Sales & CRM",
+      "website": "https://aurelia-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T00:18:32.378653+00:00"
+    },
+    {
+      "name": "SeatIQ",
+      "slug": "polsia-seatiq",
+      "website": "https://seatiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T00:17:10.790998+00:00"
+    },
+    {
+      "name": "ZenithTools",
+      "slug": "polsia-zenithtools",
+      "description": "Three focused tools. One simple subscription. Zero complexity.",
+      "description_fr": "Trois outils ciblés. Un simple abonnement. Zéro complexité.",
+      "category": "Other",
+      "website": "https://zenithtools.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T00:18:38.653953+00:00"
+    },
+    {
+      "name": "FreightMind",
+      "slug": "polsia-freightmind-8",
+      "website": "https://freightmind-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-02T00:17:31.575054+00:00"
+    },
+    {
+      "name": "GatherTrip",
+      "slug": "polsia-gathertrip",
+      "description": "Group trips designed around your celebration — AI-powered itinerary planning for reunions, milestone birthdays, bachelorette parties, and anniversary trips.",
+      "description_fr": "Voyages de groupe conçus autour de votre célébration : planification d'itinéraires basée sur l'IA pour les réunions, les anniversaires marquants, les enterrements de vie de jeune fille et les voyages d'anniversaire.",
+      "category": "AI & Machine Learning",
+      "website": "https://gathertrip.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-02T00:17:33.042671+00:00"
     }
   ]
 }
