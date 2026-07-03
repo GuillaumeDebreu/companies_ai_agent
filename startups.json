@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T16:55:49.401271+00:00",
+  "last_updated": "2026-07-03T18:13:01.377002+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -178104,34 +178104,46 @@
     {
       "name": "TapQuote",
       "slug": "polsia-tapquote",
+      "description": "Quotes & invoices in 60 seconds — from your phone. Built for UK plumbers and electricians.",
+      "description_fr": "Devis et factures en 60 secondes, depuis votre téléphone. Conçu pour les plombiers et électriciens britanniques.",
+      "category": "Finance & Fintech",
       "website": "https://tapquote.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T16:53:46.779217+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T18:12:26.027809+00:00"
     },
     {
       "name": "DokumentZero",
       "slug": "polsia-dokumentzero",
+      "description": "Dokumenty AI w sekundę, zero śladów w systemie. Automatyczne generowanie dokumentów z pełną zgodnością z RODO.",
+      "description_fr": "Documentation AI w seconde, zéro śladów w systemie. Documents générés automatiquement par les utilisateurs de RODO.",
+      "category": "AI & Machine Learning",
       "website": "https://dokumentzero.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T16:53:52.329969+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T18:12:27.495101+00:00"
     },
     {
       "name": "PlanPulse",
       "slug": "polsia-planpulse-3",
+      "description": "Real-time planning alerts for property developers and investors. Monitor 300+ UK local authorities and get instant notifications on matching applications.",
+      "description_fr": "Alertes de planification en temps réel pour les promoteurs immobiliers et les investisseurs. Surveillez plus de 300 autorités locales britanniques et recevez des notifications instantanées sur les applications correspondantes.",
+      "category": "Real Estate",
       "website": "https://planpulse-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T16:53:57.705976+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T18:12:28.483054+00:00"
     },
     {
       "name": "BidNest",
       "slug": "polsia-bidnest",
+      "description": "Round-the-clock AI agents that bid on government contracts for micro-businesses, automatically.",
+      "description_fr": "Des agents IA 24 heures sur 24 qui soumissionnent automatiquement sur les contrats gouvernementaux pour les micro-entreprises.",
+      "category": "AI & Machine Learning",
       "website": "https://bidnest.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T16:54:03.338763+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T18:12:30.009372+00:00"
     },
     {
       "name": "BridgeCare Athens",
@@ -178147,18 +178159,24 @@
     {
       "name": "PlaySignal",
       "slug": "polsia-playsignal-4",
+      "description": "Turn player behavior into actionable game design — automatically. AI-powered analytics for indie game studios.",
+      "description_fr": "Transformez automatiquement le comportement des joueurs en une conception de jeu exploitable. Analyses basées sur l'IA pour les studios de jeux indépendants.",
+      "category": "AI & Machine Learning",
       "website": "https://playsignal-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T16:54:14.170902+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T18:12:31.659457+00:00"
     },
     {
       "name": "Nexellia AI",
       "slug": "polsia-nexellia-ai",
+      "description": "Strategic AI consulting for transformative business outcomes.",
+      "description_fr": "Conseil stratégique en IA pour des résultats commerciaux transformateurs.",
+      "category": "AI & Machine Learning",
       "website": "https://nexellia-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T16:54:19.726353+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T18:12:33.292669+00:00"
     },
     {
       "name": "Vante",
@@ -178189,6 +178207,101 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-07-03T16:54:32.685173+00:00"
+    },
+    {
+      "name": "Tech Odyssey",
+      "slug": "polsia-tech-odyssey",
+      "website": "https://tech-odyssey.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T18:11:30.668031+00:00"
+    },
+    {
+      "name": "ScoutLoop",
+      "slug": "polsia-scoutloop-3",
+      "website": "https://scoutloop-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T18:11:36.028703+00:00"
+    },
+    {
+      "name": "Authentify",
+      "slug": "polsia-authentify-2",
+      "website": "https://authentify-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T18:11:41.348232+00:00"
+    },
+    {
+      "name": "Everest by daVinci Alliance",
+      "slug": "polsia-everest-by-davinci-alliance",
+      "website": "https://everest-by-davinci-alliance.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T18:11:46.650355+00:00"
+    },
+    {
+      "name": "OperIQ",
+      "slug": "polsia-operiq-2",
+      "website": "https://operiq-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T18:11:52.156062+00:00"
+    },
+    {
+      "name": "PledgePath",
+      "slug": "polsia-pledgepath",
+      "description": "Master pledge loans. Build credit. Succeed.",
+      "description_fr": "Prêts de gage principal. Construisez du crédit. Réussir.",
+      "category": "Other",
+      "website": "https://pledgepath.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-03T18:11:53.567101+00:00"
+    },
+    {
+      "name": "BidBridge",
+      "slug": "polsia-bidbridge-5",
+      "description": "Your specialist guide to winning government contracts. End-to-end support for small businesses navigating federal procurement.",
+      "description_fr": "Votre guide spécialisé pour remporter des marchés publics. Un soutien de bout en bout pour les petites entreprises qui gèrent les marchés publics fédéraux.",
+      "category": "Other",
+      "website": "https://bidbridge-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-03T18:11:55.407724+00:00"
+    },
+    {
+      "name": "Verba Run",
+      "slug": "polsia-verba-run",
+      "description": "AI-powered voice productivity for macOS — from dictation to done.",
+      "description_fr": "Productivité vocale basée sur l'IA pour macOS — de la dictée à la fin.",
+      "category": "AI & Machine Learning",
+      "website": "https://verba-run.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-03T18:13:01.375878+00:00"
+    },
+    {
+      "name": "Wenoll.nl",
+      "slug": "polsia-wenollnl",
+      "description": "Erkende dealer van hoogwaardige zuurstof-rebreathersystemen voor noodsituaties. WS100, WS200 en WS120 voor duiknootsituaties, brandweer en reddingsoperaties.",
+      "description_fr": "Erkende dealer van hoogwaardige zuurstof-rebreathersystemen voor noodsituaties. WS100, WS200 et WS120 pour des situations difficiles, des marques et des opérations de redding.",
+      "category": "Marketing & Advertising",
+      "website": "https://wenollnl.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-03T18:12:02.390144+00:00"
+    },
+    {
+      "name": "CodePulse",
+      "slug": "polsia-codepulse-1783101770154-764b",
+      "description": "Autonomous AI agent keeping your GitHub portfolio healthy",
+      "description_fr": "Agent IA autonome gardant votre portefeuille GitHub sain",
+      "category": "AI & Machine Learning",
+      "website": "https://codepulse-1783101770154-764b.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-03T18:12:03.595747+00:00"
     }
   ]
 }
