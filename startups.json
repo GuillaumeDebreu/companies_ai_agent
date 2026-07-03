@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T20:54:29.855625+00:00",
+  "last_updated": "2026-07-03T22:03:31.296314+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -177616,10 +177616,13 @@
     {
       "name": "ReviewSentinel",
       "slug": "polsia-untitled-1783054612045-1yo2",
+      "description": "AI-powered review monitoring for Google, Yelp & Facebook. Draft personalized responses in your brand voice, detect fake reviews, and never miss a critical complaint.",
+      "description_fr": "Surveillance des avis basée sur l'IA pour Google, Yelp et Facebook. Rédigez des réponses personnalisées avec la voix de votre marque, détectez les faux avis et ne manquez jamais une plainte critique.",
+      "category": "AI & Machine Learning",
       "website": "https://untitled-1783054612045-1yo2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T05:03:03.599131+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T22:02:25.449759+00:00"
     },
     {
       "name": "CompeteIQ",
@@ -177712,10 +177715,13 @@
     {
       "name": "EventPulse",
       "slug": "polsia-eventpulse-2",
+      "description": "Real-time AI-driven event recommendations, delivered to you.",
+      "description_fr": "Des recommandations d'événements en temps réel basées sur l'IA, qui vous sont fournies.",
+      "category": "AI & Machine Learning",
       "website": "https://eventpulse-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T08:23:27.146153+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T22:02:27.090705+00:00"
     },
     {
       "name": "Unli Prison Call",
@@ -178428,18 +178434,24 @@
     {
       "name": "VigilAI",
       "slug": "polsia-vigilai-1783111865612-q8is",
+      "description": "Autonomous ML model health monitoring with self-healing capabilities.",
+      "description_fr": "Surveillance autonome de l’état du modèle ML avec capacités d’auto-réparation.",
+      "category": "AI & Machine Learning",
       "website": "https://vigilai-1783111865612-q8is.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T20:52:47.683041+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T22:02:31.597606+00:00"
     },
     {
       "name": "GuidancePath",
       "slug": "polsia-guidancepath",
+      "description": "Therapy and coaching, reimagined for modern life. Connect with licensed therapists and certified coaches through a flexible, subscription-based platform designed for modern schedules.",
+      "description_fr": "Thérapie et coaching, réinventés pour la vie moderne. Connectez-vous avec des thérapeutes agréés et des coachs certifiés via une plate-forme flexible par abonnement conçue pour les horaires modernes.",
+      "category": "Software & SaaS",
       "website": "https://guidancepath.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T20:52:53.202239+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T22:02:32.775278+00:00"
     },
     {
       "name": "CashNest AI",
@@ -178452,18 +178464,24 @@
     {
       "name": "Andes Pulse",
       "slug": "polsia-andes-pulse",
+      "description": "Elevating Peru's urban talent onto the world stage.",
+      "description_fr": "Élever les talents urbains du Pérou sur la scène mondiale.",
+      "category": "Other",
       "website": "https://andes-pulse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T20:53:04.191686+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T22:02:35.200003+00:00"
     },
     {
       "name": "Synca",
       "slug": "polsia-synca",
+      "description": "Your AI chief of staff — autonomous scheduling so you never miss what matters.",
+      "description_fr": "Votre chef de cabinet en IA : planification autonome pour ne jamais manquer ce qui compte.",
+      "category": "AI & Machine Learning",
       "website": "https://synca.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T20:53:09.668245+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T22:02:36.252508+00:00"
     },
     {
       "name": "Vantage",
@@ -178516,6 +178534,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-03T20:54:29.854210+00:00"
+    },
+    {
+      "name": "PropEase Hub",
+      "slug": "polsia-propease-hub",
+      "website": "https://propease-hub.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T22:01:15.553295+00:00"
+    },
+    {
+      "name": "HOMIT",
+      "slug": "polsia-homit",
+      "website": "https://homit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T22:01:21.074076+00:00"
+    },
+    {
+      "name": "Custom GC Apps",
+      "slug": "polsia-custom-gc-apps",
+      "website": "https://custom-gc-apps.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T22:01:26.617741+00:00"
+    },
+    {
+      "name": "Proof",
+      "slug": "polsia-proof-9",
+      "website": "https://proof-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T22:01:32.157402+00:00"
+    },
+    {
+      "name": "Inspiroware",
+      "slug": "polsia-inspiroware",
+      "website": "https://inspiroware.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T22:01:37.756310+00:00"
+    },
+    {
+      "name": "Traveltype",
+      "slug": "polsia-traveltype",
+      "website": "https://traveltype.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T22:01:43.163992+00:00"
+    },
+    {
+      "name": "TaleMatrix",
+      "slug": "polsia-talematrix",
+      "website": "https://talematrix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T22:01:48.720162+00:00"
+    },
+    {
+      "name": "StockPilot",
+      "slug": "polsia-stockpilot-1783115933321-fx1h",
+      "website": "https://stockpilot-1783115933321-fx1h.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T22:01:59.250180+00:00"
+    },
+    {
+      "name": "Cup of Accountabili'Tea",
+      "slug": "polsia-cup-of-accountabilitea",
+      "website": "https://cup-of-accountabilitea.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T22:02:04.577627+00:00"
+    },
+    {
+      "name": "Rently",
+      "slug": "polsia-rently-2",
+      "website": "https://rently-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T22:02:09.886794+00:00"
     }
   ]
 }
