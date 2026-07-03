@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T15:26:17.494139+00:00",
+  "last_updated": "2026-07-03T16:55:49.401271+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -178008,10 +178008,13 @@
     {
       "name": "DetailOS",
       "slug": "polsia-detailos-10",
+      "description": "Autonomous mobile detailing powered by AI agents. Scale your mobile car wash and detailing business with zero human intervention.",
+      "description_fr": "Détails mobiles autonomes alimentés par des agents IA. Faites évoluer votre entreprise mobile de lavage de voiture et d'esthétique sans aucune intervention humaine.",
+      "category": "AI & Machine Learning",
       "website": "https://detailos-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T15:24:26.856716+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T16:55:03.812019+00:00"
     },
     {
       "name": "StockPulse AI",
@@ -178024,42 +178027,57 @@
     {
       "name": "CoastEdge",
       "slug": "polsia-coastedge",
+      "description": "The autonomous command center for coastal vacation rentals.",
+      "description_fr": "Le centre de commandement autonome des locations de vacances côtières.",
+      "category": "Travel & Hospitality",
       "website": "https://coastedge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T15:24:28.014532+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T16:55:06.498571+00:00"
     },
     {
       "name": "PipPulse Academy",
       "slug": "polsia-pippulse-academy",
+      "description": "Master the markets with transparent trading education and signals.",
+      "description_fr": "Maîtrisez les marchés avec une formation et des signaux commerciaux transparents.",
+      "category": "Finance & Fintech",
       "website": "https://pippulse-academy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T15:24:33.383337+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T16:55:08.382571+00:00"
     },
     {
       "name": "Syncraft AI",
       "slug": "polsia-syncraft-ai",
+      "description": "Autonomous content operations for brands that move at the speed of markets.",
+      "description_fr": "Opérations de contenu autonomes pour les marques qui évoluent au rythme des marchés.",
+      "category": "AI & Machine Learning",
       "website": "https://syncraft-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T15:24:38.766914+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T16:55:09.444733+00:00"
     },
     {
       "name": "Vest",
       "slug": "polsia-vest-4",
+      "description": "Your 24/7 AI agent that saves and invests your spare change automatically.",
+      "description_fr": "Votre agent IA 24h/24 et 7j/7 qui enregistre et investit automatiquement votre monnaie de rechange.",
+      "category": "AI & Machine Learning",
       "website": "https://vest-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T15:24:44.142930+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T16:55:12.266437+00:00"
     },
     {
       "name": "BulkPulse AI",
       "slug": "polsia-bulkpulse-ai",
+      "description": "Autonomous predictive maintenance for cement plants and heavy industry. AI-powered sensor monitoring that detects anomalies and schedules repairs before failures occur.",
+      "description_fr": "Maintenance prédictive autonome pour les cimenteries et l'industrie lourde. Surveillance des capteurs alimentée par l'IA qui détecte les anomalies et planifie les réparations avant que les pannes ne surviennent.",
+      "category": "AI & Machine Learning",
       "website": "https://bulkpulse-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T15:24:49.584329+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T16:55:13.395736+00:00"
     },
     {
       "name": "Tic fahodie",
@@ -178082,6 +178100,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-03T15:26:17.493035+00:00"
+    },
+    {
+      "name": "TapQuote",
+      "slug": "polsia-tapquote",
+      "website": "https://tapquote.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T16:53:46.779217+00:00"
+    },
+    {
+      "name": "DokumentZero",
+      "slug": "polsia-dokumentzero",
+      "website": "https://dokumentzero.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T16:53:52.329969+00:00"
+    },
+    {
+      "name": "PlanPulse",
+      "slug": "polsia-planpulse-3",
+      "website": "https://planpulse-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T16:53:57.705976+00:00"
+    },
+    {
+      "name": "BidNest",
+      "slug": "polsia-bidnest",
+      "website": "https://bidnest.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T16:54:03.338763+00:00"
+    },
+    {
+      "name": "BridgeCare Athens",
+      "slug": "polsia-bridgecare-athens",
+      "description": "Bridging language barriers to healthcare for migrants in Athens. Medical interpretation, document assistance, and administrative navigation at Evangelismos and Laiko hospitals.",
+      "description_fr": "Combler les barrières linguistiques en matière de soins de santé pour les migrants à Athènes. Interprétation médicale, assistance documentaire et navigation administrative dans les hôpitaux Evangelismos et Laiko.",
+      "category": "Health & Wellness",
+      "website": "https://bridgecare-athens.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-03T16:55:36.240949+00:00"
+    },
+    {
+      "name": "PlaySignal",
+      "slug": "polsia-playsignal-4",
+      "website": "https://playsignal-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T16:54:14.170902+00:00"
+    },
+    {
+      "name": "Nexellia AI",
+      "slug": "polsia-nexellia-ai",
+      "website": "https://nexellia-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T16:54:19.726353+00:00"
+    },
+    {
+      "name": "Vante",
+      "slug": "polsia-vante",
+      "description": "Where Street Meets Supreme. Luxury streetwear at the intersection of urban culture and high-end fashion.",
+      "description_fr": "Où la rue rencontre le suprême. Un streetwear de luxe à l'intersection de la culture urbaine et de la mode haut de gamme.",
+      "category": "Other",
+      "website": "https://vante.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-03T16:54:21.810965+00:00"
+    },
+    {
+      "name": "Qiyam",
+      "slug": "polsia-qiyam",
+      "description": "Your Hijri-native productivity companion, anchored in the five daily prayers. Plan tasks, goals, and schedules around salah — without sacrificing productivity.",
+      "description_fr": "Votre compagnon de productivité natif de l'Hégire, ancré dans les cinq prières quotidiennes. Planifiez les tâches, les objectifs et les plannings autour de Salah, sans sacrifier la productivité.",
+      "category": "Productivity & Automation",
+      "website": "https://qiyam.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-03T16:55:49.017397+00:00"
+    },
+    {
+      "name": "LaunchQueue",
+      "slug": "polsia-launchqueue",
+      "website": "https://launchqueue.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T16:54:32.685173+00:00"
     }
   ]
 }
