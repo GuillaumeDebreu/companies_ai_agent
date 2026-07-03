@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T19:24:34.471881+00:00",
+  "last_updated": "2026-07-03T19:52:39.806989+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -175872,10 +175872,13 @@
     {
       "name": "Nexus",
       "slug": "polsia-nexus-1782936699136-xhio",
+      "description": "Your autonomous professional network, working 24/7.",
+      "description_fr": "Votre réseau professionnel autonome, opérationnel 24h/24 et 7j/7.",
+      "category": "Social & Community",
       "website": "https://nexus-1782936699136-xhio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-01T20:11:57.864675+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T19:51:35.628476+00:00"
     },
     {
       "name": "CatchCraft",
@@ -178211,34 +178214,46 @@
     {
       "name": "Tech Odyssey",
       "slug": "polsia-tech-odyssey",
+      "description": "Your Portal to Next-Gen Gaming. Curated tech, gaming gear, and accessories for the modern enthusiast.",
+      "description_fr": "Votre portail vers le jeu de nouvelle génération. Technologie, équipement de jeu et accessoires sélectionnés pour les passionnés de modernité.",
+      "category": "Entertainment & Media",
       "website": "https://tech-odyssey.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T18:11:30.668031+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T19:51:58.135822+00:00"
     },
     {
       "name": "ScoutLoop",
       "slug": "polsia-scoutloop-3",
+      "description": "Autonomous AI agents that find, vet, and hire remote contractors for you 24/7.",
+      "description_fr": "Des agents IA autonomes qui trouvent, sélectionnent et embauchent des sous-traitants à distance pour vous 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://scoutloop-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T18:11:36.028703+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T19:51:59.662171+00:00"
     },
     {
       "name": "Authentify",
       "slug": "polsia-authentify-2",
+      "description": "AI-powered influencer fraud detection at a price every brand can afford.",
+      "description_fr": "Détection de la fraude des influenceurs basée sur l'IA à un prix abordable pour toutes les marques.",
+      "category": "Marketing & Advertising",
       "website": "https://authentify-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T18:11:41.348232+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T19:52:01.866816+00:00"
     },
     {
       "name": "Everest by daVinci Alliance",
       "slug": "polsia-everest-by-davinci-alliance",
+      "description": "The finishing layer for top-1% SAT and ACT scores. Adaptive test prep for high-achievers targeting 1500+ SAT or 34+ ACT.",
+      "description_fr": "La couche de finition pour les meilleurs 1 % des scores SAT et ACT. Préparation aux tests adaptatifs pour les plus performants ciblant 1 500+ SAT ou 34+ ACT.",
+      "category": "Other",
       "website": "https://everest-by-davinci-alliance.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-03T18:11:46.650355+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-03T19:52:02.984447+00:00"
     },
     {
       "name": "OperIQ",
@@ -178302,6 +178317,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-03T18:12:03.595747+00:00"
+    },
+    {
+      "name": "GreatnessLoop",
+      "slug": "polsia-greatnessloop",
+      "website": "https://greatnessloop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T19:50:49.849838+00:00"
+    },
+    {
+      "name": "Sumnote",
+      "slug": "polsia-sumnote",
+      "website": "https://sumnote.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T19:50:55.117304+00:00"
+    },
+    {
+      "name": "SupplySentinel AI",
+      "slug": "polsia-supplysentinel-ai",
+      "website": "https://supplysentinel-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T19:51:05.657696+00:00"
+    },
+    {
+      "name": "ComplianceBridge",
+      "slug": "polsia-compliancebridge",
+      "website": "https://compliancebridge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T19:51:11.067718+00:00"
+    },
+    {
+      "name": "NexusAI",
+      "slug": "polsia-nexusai-1783108076198-tsnb",
+      "website": "https://nexusai-1783108076198-tsnb.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T19:51:16.545085+00:00"
+    },
+    {
+      "name": "Vintage X",
+      "slug": "polsia-vintage-x",
+      "description": "Africa's integrated experiential ecosystem.",
+      "description_fr": "L’écosystème expérientiel intégré de l’Afrique.",
+      "category": "Sustainability & Green",
+      "website": "https://vintage-x.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-03T19:52:36.192356+00:00"
+    },
+    {
+      "name": "TruthSeeker",
+      "slug": "polsia-truthseeker",
+      "description": "Uncover the truth behind every profile. Verify identities and uncover hidden connections across dating apps and social media before meeting in person.",
+      "description_fr": "Découvrez la vérité derrière chaque profil. Vérifiez les identités et découvrez les connexions cachées sur les applications de rencontres et les réseaux sociaux avant de vous rencontrer en personne.",
+      "category": "Social & Community",
+      "website": "https://truthseeker.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-03T19:52:38.281249+00:00"
+    },
+    {
+      "name": "PermitPal",
+      "slug": "polsia-permitpal-2",
+      "description": "AI-powered permit assistance for contractors, tradespeople, and homeowners.",
+      "description_fr": "Assistance en matière de permis basée sur l'IA pour les entrepreneurs, les artisans et les propriétaires.",
+      "category": "AI & Machine Learning",
+      "website": "https://permitpal-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-03T19:52:39.450463+00:00"
+    },
+    {
+      "name": "BuildSight",
+      "slug": "polsia-buildsight-2",
+      "description": "AI-powered 24/7 construction livestreaming — continuous safety monitoring, automated compliance detection, and intelligent content generation for job sites.",
+      "description_fr": "Diffusion en direct de la construction 24h/24 et 7j/7 grâce à l'IA : surveillance continue de la sécurité, détection automatisée de la conformité et génération de contenu intelligent pour les chantiers.",
+      "category": "Entertainment & Media",
+      "website": "https://buildsight-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-03T19:51:34.117689+00:00"
+    },
+    {
+      "name": "AgentFlow",
+      "slug": "polsia-agentflow-1783107946882-2ud6",
+      "website": "https://agentflow-1783107946882-2ud6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-03T19:51:34.520245+00:00"
     }
   ]
 }
