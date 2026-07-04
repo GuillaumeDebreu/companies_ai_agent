@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T13:35:34.597079+00:00",
+  "last_updated": "2026-07-04T14:15:31.398443+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -179311,34 +179311,46 @@
     {
       "name": "Beleaev Caviar & Gourmet",
       "slug": "polsia-beleaev-caviar-gourmet",
+      "description": "London's trusted source for premium caviar and fine food since 2015.",
+      "description_fr": "La source de confiance de Londres en matière de caviar haut de gamme et de produits gastronomiques depuis 2015.",
+      "category": "Food & Beverage",
       "website": "https://beleaev-caviar-gourmet.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T12:36:34.665506+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T14:14:32.067547+00:00"
     },
     {
       "name": "RestoBridge",
       "slug": "polsia-restobridge",
+      "description": "AI-Powered Inventory Intelligence for Restaurants. Monitor stock levels, auto-negotiate restocking orders, and detect price anomalies in real time.",
+      "description_fr": "Intelligence d'inventaire basée sur l'IA pour les restaurants. Surveillez les niveaux de stock, négociez automatiquement les commandes de réapprovisionnement et détectez les anomalies de prix en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://restobridge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T12:36:39.971032+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T14:14:33.561332+00:00"
     },
     {
       "name": "VéraPure",
       "slug": "polsia-vrapure",
+      "description": "La détergence végétale qui respect l'environnement et votre intérieur.",
+      "description_fr": "La détergence végétale qui respecte l'environnement et votre intérieur.",
+      "category": "Other",
       "website": "https://vrapure.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T12:36:41.805937+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T14:14:34.330699+00:00"
     },
     {
       "name": "CompeteIQ",
       "slug": "polsia-competeiq-1783168497865-oxe2",
+      "description": "Autonomous AI agents that monitor competitor prices and reprice 24/7 to protect your margins.",
+      "description_fr": "Des agents IA autonomes qui surveillent les prix des concurrents et modifient les prix 24h/24 et 7j/7 pour protéger vos marges.",
+      "category": "AI & Machine Learning",
       "website": "https://competeiq-1783168497865-oxe2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T12:36:52.281803+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T14:14:35.036984+00:00"
     },
     {
       "name": "Monaco List",
@@ -179351,10 +179363,13 @@
     {
       "name": "Honest",
       "slug": "polsia-honest-2",
+      "description": "Real connections without the pretending. Verified identities that eliminate catfishing and build authentic connections from the start.",
+      "description_fr": "De vraies connexions sans faire semblant. Des identités vérifiées qui éliminent la pêche au chat et établissent des connexions authentiques dès le départ.",
+      "category": "Other",
       "website": "https://honest-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T12:37:03.006755+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T14:14:41.420659+00:00"
     },
     {
       "name": "Crescendo",
@@ -179370,10 +179385,13 @@
     {
       "name": "AI Automation Agency",
       "slug": "polsia-ai-automation-agency-2",
+      "description": "AI-powered automation for Australian tradies and small businesses — cut admin, win more jobs, reclaim your evenings.",
+      "description_fr": "Automatisation basée sur l'IA pour les commerces et les petites entreprises australiennes : supprimez les tâches administratives, gagnez plus d'emplois, récupérez vos soirées.",
+      "category": "AI & Machine Learning",
       "website": "https://ai-automation-agency-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T12:37:13.580407+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T14:14:42.881141+00:00"
     },
     {
       "name": "DMSentinel",
@@ -179396,6 +179414,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-04T12:37:17.768629+00:00"
+    },
+    {
+      "name": "BreathBridge",
+      "slug": "polsia-breathbridge",
+      "website": "https://breathbridge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T14:13:37.268777+00:00"
+    },
+    {
+      "name": "QuoteEdge",
+      "slug": "polsia-quoteedge",
+      "website": "https://quoteedge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T14:13:37.866466+00:00"
+    },
+    {
+      "name": "SentinelOps",
+      "slug": "polsia-sentinelops-1783174357915-sqr1",
+      "website": "https://sentinelops-1783174357915-sqr1.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T14:13:38.422724+00:00"
+    },
+    {
+      "name": "AutoScale Affiliates",
+      "slug": "polsia-autoscale-affiliates",
+      "website": "https://autoscale-affiliates.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T14:13:38.899986+00:00"
+    },
+    {
+      "name": "EvacFlow",
+      "slug": "polsia-evacflow",
+      "website": "https://evacflow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T14:13:39.392967+00:00"
+    },
+    {
+      "name": "Cloud649.ca",
+      "slug": "polsia-cloud649ca",
+      "website": "https://cloud649ca.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T14:13:44.904789+00:00"
+    },
+    {
+      "name": "Finaeva",
+      "slug": "polsia-finaeva",
+      "website": "https://finaeva.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T14:13:50.280241+00:00"
+    },
+    {
+      "name": "DecentralizedF.I.R.E.",
+      "slug": "polsia-decentralizedfire",
+      "website": "https://decentralizedfire.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T14:13:55.572099+00:00"
+    },
+    {
+      "name": "MyBridge.Loans",
+      "slug": "polsia-mybridgeloans",
+      "website": "https://mybridgeloans.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T14:14:00.944326+00:00"
+    },
+    {
+      "name": "Synterra AI",
+      "slug": "polsia-synterra-ai",
+      "website": "https://synterra-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T14:14:06.405696+00:00"
     }
   ]
 }
