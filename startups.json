@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T21:08:33.216262+00:00",
+  "last_updated": "2026-07-04T22:11:31.668588+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -180075,34 +180075,46 @@
     {
       "name": "Tiber Advisory",
       "slug": "polsia-tiber-advisory-2",
+      "description": "AI-powered talent intelligence for clinical-stage biotech compliance.",
+      "description_fr": "Intelligence des talents alimentée par l’IA pour la conformité biotechnologique au stade clinique.",
+      "category": "AI & Machine Learning",
       "website": "https://tiber-advisory-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T21:06:57.674220+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T22:10:37.396291+00:00"
     },
     {
       "name": "IQ AI",
       "slug": "polsia-iq-ai",
+      "description": "Custom software and AI automation for ambitious Australian businesses.",
+      "description_fr": "Logiciels personnalisés et automatisation de l'IA pour les entreprises australiennes ambitieuses.",
+      "category": "AI & Machine Learning",
       "website": "https://iq-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T21:07:08.114546+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T22:10:39.125328+00:00"
     },
     {
       "name": "SureBot",
       "slug": "polsia-surebot",
+      "description": "Reliable AI receptionists for local businesses — set it and forget it.",
+      "description_fr": "Des réceptionnistes IA fiables pour les entreprises locales : configurez-le et oubliez-le.",
+      "category": "AI & Machine Learning",
       "website": "https://surebot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T21:07:13.547541+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T22:10:40.449383+00:00"
     },
     {
       "name": "InfraSelf",
       "slug": "polsia-infraself",
+      "description": "Autonomous cloud infrastructure that detects, heals, and scales itself.",
+      "description_fr": "Infrastructure cloud autonome qui détecte, répare et évolue automatiquement.",
+      "category": "Other",
       "website": "https://infraself.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T21:07:18.917791+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T22:10:41.930777+00:00"
     },
     {
       "name": "LITEC Shield Care",
@@ -180166,6 +180178,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-04T21:07:26.821134+00:00"
+    },
+    {
+      "name": "GlowRate",
+      "slug": "polsia-glowrate",
+      "website": "https://glowrate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T22:09:36.358474+00:00"
+    },
+    {
+      "name": "Wolfe Rehab",
+      "slug": "polsia-wolfe-rehab",
+      "website": "https://wolfe-rehab.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T22:09:42.003066+00:00"
+    },
+    {
+      "name": "AutomateIQ",
+      "slug": "polsia-automateiq-1783202925649-1f21",
+      "website": "https://automateiq-1783202925649-1f21.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T22:09:42.474769+00:00"
+    },
+    {
+      "name": "MarginMind",
+      "slug": "polsia-marginmind-1783202844656-r9t1",
+      "website": "https://marginmind-1783202844656-r9t1.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T22:09:47.934375+00:00"
+    },
+    {
+      "name": "TrailOps AI",
+      "slug": "polsia-trailops-ai",
+      "website": "https://trailops-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T22:09:48.600902+00:00"
+    },
+    {
+      "name": "ReviewPilot",
+      "slug": "polsia-reviewpilot-1783202868409-nbyb",
+      "website": "https://reviewpilot-1783202868409-nbyb.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T22:09:54.012386+00:00"
+    },
+    {
+      "name": "RoamPulse AI",
+      "slug": "polsia-roampulse-ai",
+      "website": "https://roampulse-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T22:09:59.507721+00:00"
+    },
+    {
+      "name": "RecordRoll",
+      "slug": "polsia-recordroll",
+      "website": "https://recordroll.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T22:10:05.006019+00:00"
+    },
+    {
+      "name": "GridOps AI",
+      "slug": "polsia-gridops-ai-9",
+      "website": "https://gridops-ai-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T22:10:10.312880+00:00"
+    },
+    {
+      "name": "Polished",
+      "slug": "polsia-polished-3",
+      "website": "https://polished-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T22:10:15.639569+00:00"
     }
   ]
 }
