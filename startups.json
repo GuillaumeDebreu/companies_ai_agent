@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T11:14:52.061671+00:00",
+  "last_updated": "2026-07-04T12:38:31.405729+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -179201,26 +179201,35 @@
     {
       "name": "AgentSync",
       "slug": "polsia-agentsync-2",
+      "description": "Build and deploy autonomous AI agents for the modern enterprise.",
+      "description_fr": "Créez et déployez des agents d’IA autonomes pour l’entreprise moderne.",
+      "category": "AI & Machine Learning",
       "website": "https://agentsync-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T11:13:28.477311+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T12:37:45.092421+00:00"
     },
     {
       "name": "RepoSentinel",
       "slug": "polsia-reposentinel-7",
+      "description": "Your 24/7 AI teammate that autonomously manages GitHub repositories — triages issues, merges qualified PRs, runs tests, and alerts your team.",
+      "description_fr": "Votre coéquipier IA 24h/24 et 7j/7 qui gère de manière autonome les référentiels GitHub : trie les problèmes, fusionne les PR qualifiés, exécute des tests et alerte votre équipe.",
+      "category": "AI & Machine Learning",
       "website": "https://reposentinel-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T11:13:34.109478+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T12:37:46.362242+00:00"
     },
     {
-      "name": "MarginMind",
+      "name": "ÈCLORA",
       "slug": "polsia-marginmind-1783163467518-dqy6",
+      "description": "Personalized fragrances crafted by AI, blended for you alone.",
+      "description_fr": "Des parfums personnalisés créés par l'IA, mélangés pour vous seul.",
+      "category": "AI & Machine Learning",
       "website": "https://marginmind-1783163467518-dqy6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T11:13:39.552156+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T12:37:47.360381+00:00"
     },
     {
       "name": "RepriceAI",
@@ -179298,6 +179307,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-04T11:13:59.974377+00:00"
+    },
+    {
+      "name": "Beleaev Caviar & Gourmet",
+      "slug": "polsia-beleaev-caviar-gourmet",
+      "website": "https://beleaev-caviar-gourmet.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T12:36:34.665506+00:00"
+    },
+    {
+      "name": "RestoBridge",
+      "slug": "polsia-restobridge",
+      "website": "https://restobridge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T12:36:39.971032+00:00"
+    },
+    {
+      "name": "VéraPure",
+      "slug": "polsia-vrapure",
+      "website": "https://vrapure.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T12:36:41.805937+00:00"
+    },
+    {
+      "name": "CompeteIQ",
+      "slug": "polsia-competeiq-1783168497865-oxe2",
+      "website": "https://competeiq-1783168497865-oxe2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T12:36:52.281803+00:00"
+    },
+    {
+      "name": "Monaco List",
+      "slug": "polsia-monaco-list",
+      "website": "https://monaco-list.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T12:36:57.533466+00:00"
+    },
+    {
+      "name": "Honest",
+      "slug": "polsia-honest-2",
+      "website": "https://honest-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T12:37:03.006755+00:00"
+    },
+    {
+      "name": "Crescendo",
+      "slug": "polsia-crescendo-1783168351479-7av6",
+      "description": "The AI-powered operating system for music schools",
+      "description_fr": "Le système d'exploitation basé sur l'IA pour les écoles de musique",
+      "category": "AI & Machine Learning",
+      "website": "https://crescendo-1783168351479-7av6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T12:38:26.115454+00:00"
+    },
+    {
+      "name": "AI Automation Agency",
+      "slug": "polsia-ai-automation-agency-2",
+      "website": "https://ai-automation-agency-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T12:37:13.580407+00:00"
+    },
+    {
+      "name": "DMSentinel",
+      "slug": "polsia-dmsentinel",
+      "description": "AI-powered continuous security auditing for document management systems. Detect permission leaks, compliance violations, and ethical wall breaches before data breaches occur.",
+      "description_fr": "Audit de sécurité continu basé sur l'IA pour les systèmes de gestion de documents. Détectez les fuites d’autorisations, les violations de conformité et les violations du mur éthique avant que les violations de données ne se produisent.",
+      "category": "AI & Machine Learning",
+      "website": "https://dmsentinel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T12:37:15.933319+00:00"
+    },
+    {
+      "name": "PersistPath",
+      "slug": "polsia-persistpath",
+      "description": "Autonomous AI agents that guide community college students from enrollment through completion.",
+      "description_fr": "Des agents d'IA autonomes qui guident les étudiants des collèges communautaires depuis leur inscription jusqu'à leur achèvement.",
+      "category": "AI & Machine Learning",
+      "website": "https://persistpath.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T12:37:17.768629+00:00"
     }
   ]
 }
