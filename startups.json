@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T04:48:18.046194+00:00",
+  "last_updated": "2026-07-04T07:34:07.978962+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -178877,42 +178877,57 @@
     {
       "name": "RideAdapt",
       "slug": "polsia-rideadapt",
+      "description": "AI-powered real-time cycling route optimizer. Continuous weather, traffic, and fitness-aware routing that adapts as you ride.",
+      "description_fr": "Optimiseur d'itinéraires cyclables en temps réel alimenté par l'IA. Un itinéraire continu adapté à la météo, au trafic et à la forme physique qui s'adapte à mesure que vous roulez.",
+      "category": "AI & Machine Learning",
       "website": "https://rideadapt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T04:46:23.968337+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T07:33:17.065927+00:00"
     },
     {
       "name": "TenderMint",
       "slug": "polsia-tendermint-3",
+      "description": "AI-powered auto-bidding for Indian SMBs on government contracts. TenderMint monitors GeM, CPPP, IREPS and state portals — automatically finding and bidding on relevant tenders so founders can stop searching and start winning.",
+      "description_fr": "Enchères automatiques basées sur l'IA pour les PME indiennes sur les contrats gouvernementaux. TenderMint surveille GeM, CPPP, IREPS et les portails d'État – recherche et soumissionne automatiquement sur les appels d'offres pertinents afin que les fondateurs puissent arrêter de chercher et commencer à gagner.",
+      "category": "AI & Machine Learning",
       "website": "https://tendermint-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T04:46:34.420704+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T07:33:20.523309+00:00"
     },
     {
       "name": "Selex Systems",
       "slug": "polsia-selex-systems",
+      "description": "Autonomous Infrastructure Intelligence — Predict Failures, Prevent Downtime.",
+      "description_fr": "Intelligence d'infrastructure autonome : prédisez les pannes et évitez les temps d'arrêt.",
+      "category": "Other",
       "website": "https://selex-systems.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T04:46:39.678318+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T07:33:21.549095+00:00"
     },
     {
       "name": "BrandFluent",
       "slug": "polsia-brandfluent",
+      "description": "Your personal brand's 24/7 AI agent across Reddit, HN, forums, and social media.",
+      "description_fr": "Agent IA 24h/24 et 7j/7 de votre marque personnelle sur Reddit, HN, les forums et les réseaux sociaux.",
+      "category": "AI & Machine Learning",
       "website": "https://brandfluent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T04:46:45.075158+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T07:33:22.516662+00:00"
     },
     {
       "name": "Chatifica",
       "slug": "polsia-chatifica",
+      "description": "All-in-One WhatsApp Business API Platform for Modern Businesses — automate conversations, sync your sales pipeline, and consolidate fragmented workflows into one suite.",
+      "description_fr": "Plateforme API WhatsApp Business tout-en-un pour les entreprises modernes : automatisez les conversations, synchronisez votre pipeline de ventes et consolidez les flux de travail fragmentés en une seule suite.",
+      "category": "Software & SaaS",
       "website": "https://chatifica.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T04:46:50.586658+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T07:33:23.596188+00:00"
     },
     {
       "name": "CreatorMetrics",
@@ -178939,10 +178954,13 @@
     {
       "name": "CloseIQ",
       "slug": "polsia-closeiq-1783139853155-62xr",
+      "description": "Real-time AI negotiation coaching for sales teams that close more.",
+      "description_fr": "Coaching de négociation par IA en temps réel pour les équipes commerciales qui ferment davantage.",
+      "category": "AI & Machine Learning",
       "website": "https://closeiq-1783139853155-62xr.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T04:47:06.368597+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T07:33:24.782355+00:00"
     },
     {
       "name": "PassMarket",
@@ -178965,6 +178983,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-04T04:47:09.063008+00:00"
+    },
+    {
+      "name": "Pink Pressure Fitness",
+      "slug": "polsia-pink-pressure-fitness",
+      "website": "https://pink-pressure-fitness.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T07:32:17.513441+00:00"
+    },
+    {
+      "name": "Pactflow",
+      "slug": "polsia-pactflow-4",
+      "website": "https://pactflow-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T07:32:23.063561+00:00"
+    },
+    {
+      "name": "DistressedHub",
+      "slug": "polsia-distressedhub",
+      "website": "https://distressedhub.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T07:32:28.653789+00:00"
+    },
+    {
+      "name": "RepairPilot",
+      "slug": "polsia-repairpilot-2",
+      "website": "https://repairpilot-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T07:32:34.099269+00:00"
+    },
+    {
+      "name": "AesthetiCore",
+      "slug": "polsia-aestheticore",
+      "description": "Turnkey systems, not advice. A done-for-you revenue, pricing, SOP, and patient-conversion operating system for physician-owned aesthetic practices.",
+      "description_fr": "Des systèmes clé en main, pas des conseils. Un système d'exploitation conçu pour vous en matière de revenus, de tarification, de SOP et de conversion des patients pour les cabinets esthétiques appartenant à des médecins.",
+      "category": "Health & Wellness",
+      "website": "https://aestheticore.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T07:32:35.275575+00:00"
+    },
+    {
+      "name": "CompeteIQ",
+      "slug": "polsia-competeiq-1783150063944-y5ip",
+      "website": "https://competeiq-1783150063944-y5ip.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T07:32:40.731649+00:00"
+    },
+    {
+      "name": "BatiChat",
+      "slug": "polsia-batichat",
+      "description": "Your WhatsApp shop assistant — auto-replies, orders, and alerts 24/7.",
+      "description_fr": "Votre assistant commercial WhatsApp : réponses automatiques, commandes et alertes 24h/24 et 7j/7.",
+      "category": "E-Commerce & Retail",
+      "website": "https://batichat.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T07:32:41.571494+00:00"
+    },
+    {
+      "name": "Tenir 5 Projects",
+      "slug": "polsia-tenir-5-projects",
+      "website": "https://tenir-5-projects.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T07:32:52.044154+00:00"
+    },
+    {
+      "name": "ArbiterAI",
+      "slug": "polsia-arbiterai-2",
+      "description": "Autonomous portfolio management for crypto, NFTs, and alternative assets.",
+      "description_fr": "Gestion de portefeuille autonome pour les crypto-monnaies, les NFT et les actifs alternatifs.",
+      "category": "AI & Machine Learning",
+      "website": "https://arbiterai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T07:32:53.851188+00:00"
+    },
+    {
+      "name": "StitchCode",
+      "slug": "polsia-stitchcode",
+      "website": "https://stitchcode.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T07:32:59.370264+00:00"
     }
   ]
 }
