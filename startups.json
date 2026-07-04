@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T16:39:37.020523+00:00",
+  "last_updated": "2026-07-04T17:43:53.737552+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -179638,42 +179638,57 @@
     {
       "name": "WildWatch AI",
       "slug": "polsia-wildwatch-ai",
+      "description": "Smart wildlife monitoring that protects your land and livestock around the clock.",
+      "description_fr": "Surveillance intelligente de la faune qui protège vos terres et votre bétail 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://wildwatch-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T16:37:39.323358+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T17:43:33.946771+00:00"
     },
     {
       "name": "Spark",
       "slug": "polsia-spark-7",
+      "description": "AI-powered social media management for growing businesses. Consistent, data-backed campaigns across Instagram, Facebook, LinkedIn, and more—all within a fixed monthly budget.",
+      "description_fr": "Gestion des médias sociaux basée sur l'IA pour les entreprises en croissance. Campagnes cohérentes et basées sur des données sur Instagram, Facebook, LinkedIn et plus encore, le tout dans le cadre d'un budget mensuel fixe.",
+      "category": "Marketing & Advertising",
       "website": "https://spark-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T16:37:44.635741+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T17:43:35.148188+00:00"
     },
     {
       "name": "FuelDrop",
       "slug": "polsia-fueldrop-2",
+      "description": "Fuel delivered to your vehicle while you stay parked.",
+      "description_fr": "Carburant livré à votre véhicule pendant que vous restez garé.",
+      "category": "Other",
       "website": "https://fueldrop-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T16:37:50.028040+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T17:43:36.096744+00:00"
     },
     {
       "name": "PhytoSync",
       "slug": "polsia-phytosync",
+      "description": "Autonomous AI agents for plant bioreactor monitoring, predictive harvest, and adaptive bioprocess control.",
+      "description_fr": "Agents d'IA autonomes pour la surveillance des bioréacteurs végétaux, la récolte prédictive et le contrôle adaptatif des bioprocédés.",
+      "category": "AI & Machine Learning",
       "website": "https://phytosync.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T16:37:55.262318+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T17:43:37.059290+00:00"
     },
     {
       "name": "Frequency Master",
       "slug": "polsia-frequency-master",
+      "description": "AI-powered spectrum analysis for precise audio mastering.",
+      "description_fr": "Analyse du spectre basée sur l'IA pour un mastering audio précis.",
+      "category": "AI & Machine Learning",
       "website": "https://frequency-master.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T16:38:00.511549+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T17:43:39.025772+00:00"
     },
     {
       "name": "Gentry Social",
@@ -179711,10 +179726,13 @@
     {
       "name": "Synkr",
       "slug": "polsia-synkr",
+      "description": "Infrastructure that heals itself while you sleep. Autonomous AI agents that monitor, diagnose, and self-heal PCs and servers 24/7.",
+      "description_fr": "Une infrastructure qui se guérit pendant que vous dormez. Agents d'IA autonomes qui surveillent, diagnostiquent et réparent automatiquement les PC et les serveurs 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://synkr.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T16:38:26.878780+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T17:43:40.197901+00:00"
     },
     {
       "name": "AUSINES",
@@ -179726,6 +179744,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-04T16:38:28.820859+00:00"
+    },
+    {
+      "name": "ClauseFlow",
+      "slug": "polsia-clauseflow-6",
+      "website": "https://clauseflow-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T17:42:39.340361+00:00"
+    },
+    {
+      "name": "ZipBridge",
+      "slug": "polsia-zipbridge",
+      "website": "https://zipbridge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T17:42:44.573589+00:00"
+    },
+    {
+      "name": "SourceFlow",
+      "slug": "polsia-sourceflow-1783186705668-2ry5",
+      "description": "Autonomous procurement and inventory for SMBs. AI-powered operations that monitor stock, initiate reorders, and negotiate supplier pricing around the clock.",
+      "description_fr": "Approvisionnement et inventaire autonomes pour les PME. Des opérations basées sur l'IA qui surveillent les stocks, lancent des réapprovisionnements et négocient les prix des fournisseurs 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://sourceflow-1783186705668-2ry5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T17:43:52.334926+00:00"
+    },
+    {
+      "name": "AlphaWatch",
+      "slug": "polsia-alphawatch-3",
+      "description": "AI-powered SEC filing anomaly detection and investor alerts.",
+      "description_fr": "Détection des anomalies de dépôt auprès de la SEC et alertes aux investisseurs grâce à l'IA.",
+      "category": "AI & Machine Learning",
+      "website": "https://alphawatch-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T17:42:56.514345+00:00"
+    },
+    {
+      "name": "clientpulse",
+      "slug": "polsia-clientpulse-19",
+      "description": "ClientPulse is built for the way you actually work — fast, solo, and always on the move. No enterprise features. No setup headaches. Just a clean way to keep your clients informed and your reputation intact.",
+      "description_fr": "ClientPulse est conçu pour votre façon de travailler réellement : rapide, solo et toujours en mouvement. Aucune fonctionnalité d'entreprise. Aucun problème de configuration. Juste une façon simple de tenir vos clients informés et de préserver votre réputation.",
+      "category": "Other",
+      "website": "https://clientpulse-19.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T17:43:53.735960+00:00"
+    },
+    {
+      "name": "ScopeKeeper",
+      "slug": "polsia-scopekeeper",
+      "description": "Stop scope creep before it costs you thousands. AI-powered protection for freelancers.",
+      "description_fr": "Arrêtez la dérive de la portée avant que cela ne vous coûte des milliers de dollars. Protection basée sur l'IA pour les indépendants.",
+      "category": "AI & Machine Learning",
+      "website": "https://scopekeeper.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T17:42:57.999451+00:00"
+    },
+    {
+      "name": "NutriBot",
+      "slug": "polsia-nutribot",
+      "description": "Kalori- ja makrojälgimine otse Telegramis. Toidukorrad piltidena, häältana või tekstina — AI arvutab kalorid ja makrod automaatselt.",
+      "description_fr": "Kalorija makrojälgimine otse Telegramis. Toidukorrad piltidena, häältana või tekstina — AI arvutab calorid ja makrod automaatselt.",
+      "category": "AI & Machine Learning",
+      "website": "https://nutribot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T17:42:59.350289+00:00"
+    },
+    {
+      "name": "Businestry",
+      "slug": "polsia-businestry",
+      "description": "Houston's practical path to business structure, credit, and capital. Expert guidance through LLC formation, business credit building, and capital access.",
+      "description_fr": "Le chemin pratique de Houston vers la structure de l'entreprise, le crédit et le capital. Conseils d'experts à travers la création d'une LLC, le renforcement du crédit commercial et l'accès au capital.",
+      "category": "Software & SaaS",
+      "website": "https://businestry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T17:43:00.641253+00:00"
+    },
+    {
+      "name": "SpiritWatch",
+      "slug": "polsia-spiritwatch",
+      "description": "AI-powered guardian for spiritual and metaphysical communities — monitoring misinformation, scams, and cult-like patterns 24/7.",
+      "description_fr": "Gardien alimenté par l'IA pour les communautés spirituelles et métaphysiques — surveillant la désinformation, les escroqueries et les schémas sectaires 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://spiritwatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T17:43:02.029764+00:00"
+    },
+    {
+      "name": "ZipBrief",
+      "slug": "polsia-zipbrief",
+      "description": "AI-curated micro-market intelligence for small CRE investors. Weekly briefings on zoning changes, deal activity, and market shifts in your zip codes.",
+      "description_fr": "Intelligence micro-marché organisée par l’IA pour les petits investisseurs en CRE. Briefings hebdomadaires sur les changements de zonage, l'activité des transactions et les évolutions du marché dans vos codes postaux.",
+      "category": "AI & Machine Learning",
+      "website": "https://zipbrief.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T17:43:03.152661+00:00"
     }
   ]
 }
