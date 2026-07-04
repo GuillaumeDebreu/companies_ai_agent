@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T09:49:12.047406+00:00",
+  "last_updated": "2026-07-04T11:14:52.061671+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -179091,50 +179091,68 @@
     {
       "name": "Dredani",
       "slug": "polsia-dredani",
+      "description": "Rzemieślnicze meble z litego dębu dla koneserów.",
+      "description_fr": "Rzemieślnicze meble z litego dębu dla koneserów.",
+      "category": "Other",
       "website": "https://dredani.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T09:47:29.343659+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T11:14:26.766611+00:00"
     },
     {
       "name": "ThoughtForge AI",
       "slug": "polsia-thoughtforge-ai",
+      "description": "Transform your expertise into influential words. AI-powered ghostwriting with human editorial refinement for founders, executives, and creators.",
+      "description_fr": "Transformez votre expertise en mots influents. Écriture fantôme basée sur l'IA avec un raffinement éditorial humain pour les fondateurs, les dirigeants et les créateurs.",
+      "category": "AI & Machine Learning",
       "website": "https://thoughtforge-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T09:47:34.598545+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T11:14:28.320639+00:00"
     },
     {
       "name": "Monolith IQ",
       "slug": "polsia-monolith-iq",
+      "description": "Autonomous AI infrastructure that watches, fixes, and scales itself — zero human intervention required.",
+      "description_fr": "Infrastructure d'IA autonome qui surveille, corrige et évolue elle-même — aucune intervention humaine n'est requise.",
+      "category": "AI & Machine Learning",
       "website": "https://monolith-iq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T09:47:39.966584+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T11:14:30.109645+00:00"
     },
     {
       "name": "Briefwise",
       "slug": "polsia-briefwise-2",
+      "description": "From scattered feeds to publish-ready briefs, every morning. AI-powered content monitoring, summarization, and briefing generation for creators and community builders.",
+      "description_fr": "Des flux dispersés aux résumés prêts à être publiés, chaque matin. Surveillance, synthèse et génération de briefings de contenu basés sur l'IA pour les créateurs et les bâtisseurs de communauté.",
+      "category": "AI & Machine Learning",
       "website": "https://briefwise-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T09:47:45.190244+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T11:14:31.218794+00:00"
     },
     {
       "name": "Listwise",
       "slug": "polsia-listwise-10",
+      "description": "AI repricing that never sleeps — automatic repricing, inventory sync, and relisting across eBay, Poshmark, Mercari, Depop, Grailed, and more.",
+      "description_fr": "Une retarification IA qui ne dort jamais : retarification automatique, synchronisation des stocks et remise en vente sur eBay, Poshmark, Mercari, Depop, Grailed, etc.",
+      "category": "AI & Machine Learning",
       "website": "https://listwise-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T09:47:50.560950+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T11:14:33.185313+00:00"
     },
     {
       "name": "VostokSentinel",
       "slug": "polsia-vostoksentinel",
+      "description": "Zaawansowany screening sankcyjny i weryfikacja podmiotów wschodnioeuropejskich.",
+      "description_fr": "Zaawansowany dépistage sankcyjny i weryfikacja podmiotów wschodnioeuropejskich.",
+      "category": "Other",
       "website": "https://vostoksentinel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T09:47:55.936357+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T11:14:34.649511+00:00"
     },
     {
       "name": "Blue Door",
@@ -179179,6 +179197,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-04T09:48:05.418338+00:00"
+    },
+    {
+      "name": "AgentSync",
+      "slug": "polsia-agentsync-2",
+      "website": "https://agentsync-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T11:13:28.477311+00:00"
+    },
+    {
+      "name": "RepoSentinel",
+      "slug": "polsia-reposentinel-7",
+      "website": "https://reposentinel-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T11:13:34.109478+00:00"
+    },
+    {
+      "name": "MarginMind",
+      "slug": "polsia-marginmind-1783163467518-dqy6",
+      "website": "https://marginmind-1783163467518-dqy6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T11:13:39.552156+00:00"
+    },
+    {
+      "name": "RepriceAI",
+      "slug": "polsia-repriceai-8",
+      "description": "Autonomous AI repricing to outcompete rivals 24/7.",
+      "description_fr": "Retarification de l'IA autonome pour surpasser ses concurrents 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://repriceai-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T11:14:52.060388+00:00"
+    },
+    {
+      "name": "Clausewise",
+      "slug": "polsia-clausewise-5",
+      "description": "24/7 AI contract intelligence that monitors, negotiates, and renews vendor contracts — cutting costs and ensuring compliance.",
+      "description_fr": "Une intelligence contractuelle IA 24h/24 et 7j/7 qui surveille, négocie et renouvelle les contrats des fournisseurs, réduisant ainsi les coûts et garantissant la conformité.",
+      "category": "AI & Machine Learning",
+      "website": "https://clausewise-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T11:13:51.451880+00:00"
+    },
+    {
+      "name": "Real Job Offers",
+      "slug": "polsia-real-job-offers",
+      "description": "Offres d'emploi, sans intermédiaires. Les meilleures opportunités, en direct des pages carrières des entreprises.",
+      "description_fr": "Offres d'emploi, sans intermédiaires. Les meilleures opportunités, en direct des pages carrières des entreprises.",
+      "category": "Other",
+      "website": "https://real-job-offers.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T11:13:52.693059+00:00"
+    },
+    {
+      "name": "StudySync AI",
+      "slug": "polsia-studysync-ai-2",
+      "description": "Your 24/7 AI study coach — built for curious minds. Autonomous habit tracking, adaptive spaced repetition, and gentle accountability nudges.",
+      "description_fr": "Votre coach d'études en IA 24h/24 et 7j/7, conçu pour les esprits curieux. Suivi autonome des habitudes, répétition espacée adaptative et petits coups de pouce en matière de responsabilité.",
+      "category": "AI & Machine Learning",
+      "website": "https://studysync-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T11:13:54.581003+00:00"
+    },
+    {
+      "name": "ReviewSentinel",
+      "slug": "polsia-reviewsentinel-6",
+      "description": "Never miss a review. Protect your reputation. Grow your business.",
+      "description_fr": "Ne manquez jamais une critique. Protégez votre réputation. Développez votre entreprise.",
+      "category": "Other",
+      "website": "https://reviewsentinel-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T11:13:56.019972+00:00"
+    },
+    {
+      "name": "RevisionLoop",
+      "slug": "polsia-revisionloop",
+      "description": "Autonomous revision cycles. Zero lost versions.",
+      "description_fr": "Cycles de révision autonomes. Zéro version perdue.",
+      "category": "Other",
+      "website": "https://revisionloop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T11:13:57.914837+00:00"
+    },
+    {
+      "name": "LexiTriage",
+      "slug": "polsia-lexitriage",
+      "description": "Your 24/7 Bilingual Legal Intake Assistant — AI-powered case classification, urgency flagging, and response drafting in flawless Spanish or English.",
+      "description_fr": "Votre assistant d'accueil juridique bilingue 24h/24 et 7j/7 : classification des cas basée sur l'IA, signalement d'urgence et rédaction de réponses dans un espagnol ou un anglais impeccable.",
+      "category": "AI & Machine Learning",
+      "website": "https://lexitriage.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T11:13:59.974377+00:00"
     }
   ]
 }
