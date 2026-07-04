@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T17:43:53.737552+00:00",
+  "last_updated": "2026-07-04T18:44:24.854853+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -179748,18 +179748,24 @@
     {
       "name": "ClauseFlow",
       "slug": "polsia-clauseflow-6",
+      "description": "Always-On AI Contract Review",
+      "description_fr": "Examen permanent des contrats d'IA",
+      "category": "AI & Machine Learning",
       "website": "https://clauseflow-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T17:42:39.340361+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T18:43:54.781909+00:00"
     },
     {
       "name": "ZipBridge",
       "slug": "polsia-zipbridge",
+      "description": "Bridging the delivery gap for underserved communities. Fast, reliable parcel delivery powered by AI routing and a network of independent drivers.",
+      "description_fr": "Combler le déficit de prestation pour les communautés mal desservies. Livraison de colis rapide et fiable grâce au routage IA et à un réseau de chauffeurs indépendants.",
+      "category": "AI & Machine Learning",
       "website": "https://zipbridge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-04T17:42:44.573589+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-04T18:43:56.628028+00:00"
     },
     {
       "name": "SourceFlow",
@@ -179848,6 +179854,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-04T17:43:03.152661+00:00"
+    },
+    {
+      "name": "Civix",
+      "slug": "polsia-civix-2",
+      "website": "https://civix-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T18:42:50.446723+00:00"
+    },
+    {
+      "name": "Field & Furl",
+      "slug": "polsia-field-furl",
+      "website": "https://field-furl.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T18:42:56.024493+00:00"
+    },
+    {
+      "name": "Dream Angels Home Care, LLC",
+      "slug": "polsia-dream-angels-home-care-llc",
+      "website": "https://dream-angels-home-care-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T18:43:01.495981+00:00"
+    },
+    {
+      "name": "SightStream",
+      "slug": "polsia-sightstream",
+      "website": "https://sightstream.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T18:43:07.055684+00:00"
+    },
+    {
+      "name": "OpsOS",
+      "slug": "polsia-opsos-6",
+      "website": "https://opsos-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-04T18:43:12.665031+00:00"
+    },
+    {
+      "name": "Silent Sound Journey",
+      "slug": "polsia-silent-sound-journey",
+      "description": "Where silence meets sound — immersive wellness journeys for deep transformation",
+      "description_fr": "Là où le silence rencontre le son : des voyages de bien-être immersifs pour une transformation profonde",
+      "category": "Health & Wellness",
+      "website": "https://silent-sound-journey.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T18:43:13.450947+00:00"
+    },
+    {
+      "name": "SocialPilot",
+      "slug": "polsia-socialpilot-3",
+      "description": "Run complete social media campaigns on autopilot — no human input needed.",
+      "description_fr": "Exécutez des campagnes complètes sur les réseaux sociaux en pilote automatique – aucune intervention humaine n'est nécessaire.",
+      "category": "Marketing & Advertising",
+      "website": "https://socialpilot-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T18:43:14.687150+00:00"
+    },
+    {
+      "name": "OrbitHire",
+      "slug": "polsia-orbithire",
+      "description": "AI-powered autonomous recruitment, 24/7. Source, screen, schedule, and follow up — continuously.",
+      "description_fr": "Recrutement autonome alimenté par l'IA, 24h/24 et 7j/7. Source, écran, planification et suivi – en continu.",
+      "category": "AI & Machine Learning",
+      "website": "https://orbithire.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T18:43:16.409720+00:00"
+    },
+    {
+      "name": "CashLens",
+      "slug": "polsia-cashlens-3",
+      "description": "Your AI financial guardian, live in Telegram and Slack.",
+      "description_fr": "Votre tuteur financier IA, vivez dans Telegram et Slack.",
+      "category": "AI & Machine Learning",
+      "website": "https://cashlens-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T18:44:24.853935+00:00"
+    },
+    {
+      "name": "SubPilot",
+      "slug": "polsia-subpilot-8",
+      "description": "Your AI copilot that cuts SaaS waste automatically — monitors your stack, cancels unused subscriptions, and delivers daily savings reports.",
+      "description_fr": "Votre copilote d'IA qui réduit automatiquement le gaspillage SaaS : surveille votre pile, annule les abonnements inutilisés et fournit des rapports d'économies quotidiens.",
+      "category": "AI & Machine Learning",
+      "website": "https://subpilot-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-04T18:43:22.905120+00:00"
     }
   ]
 }
