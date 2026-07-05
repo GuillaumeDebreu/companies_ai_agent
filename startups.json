@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T08:53:51.250798+00:00",
+  "last_updated": "2026-07-05T10:00:00.403642+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -180619,50 +180619,68 @@
     {
       "name": "Nexwork",
       "slug": "polsia-nexwork-2",
+      "description": "Fluid product development at the speed of AI.",
+      "description_fr": "Développement de produits fluide à la vitesse de l’IA.",
+      "category": "AI & Machine Learning",
       "website": "https://nexwork-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T07:46:07.968419+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T09:59:37.547334+00:00"
     },
     {
-      "name": "FemmeAItron",
+      "name": "Clarion",
       "slug": "polsia-femmeaitron",
+      "description": "Your private AI coaching companion for gender identity exploration. A warm, judgment-free space to explore, reflect, and grow — at your own pace.",
+      "description_fr": "Votre compagnon de coaching privé en IA pour l'exploration de l'identité de genre. Un espace chaleureux et sans jugement pour explorer, réfléchir et grandir, à votre rythme.",
+      "category": "AI & Machine Learning",
       "website": "https://femmeaitron.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T07:46:13.490127+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T09:59:39.340457+00:00"
     },
     {
       "name": "StoryForge AI",
       "slug": "polsia-storyforge-ai-6",
+      "description": "End-to-end AI film production from script to screen. Transform concepts into polished, professional-quality movies with cutting-edge AI video generation.",
+      "description_fr": "Production de films IA de bout en bout, du scénario à l'écran. Transformez les concepts en films raffinés de qualité professionnelle grâce à la génération vidéo IA de pointe.",
+      "category": "AI & Machine Learning",
       "website": "https://storyforge-ai-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T07:46:18.941287+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T09:59:40.650249+00:00"
     },
     {
       "name": "SmartStack AI",
       "slug": "polsia-smartstack-ai-3",
+      "description": "AI automation built for small business growth. Chatbots, workflow automation, and content systems that reclaim hours every week.",
+      "description_fr": "Automatisation de l'IA conçue pour la croissance des petites entreprises. Chatbots, automatisation des flux de travail et systèmes de contenu qui récupèrent des heures chaque semaine.",
+      "category": "AI & Machine Learning",
       "website": "https://smartstack-ai-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T07:46:24.286640+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T09:59:42.358937+00:00"
     },
     {
       "name": "Ironwood Spirits & Brewing",
       "slug": "polsia-ironwood-spirits-brewing",
+      "description": "Small-batch spirits, world-class brews, Texas soul. Craft brewery and distillery in Texas.",
+      "description_fr": "Spiritueux en petites quantités, bières de classe mondiale, âme texane. Brasserie et distillerie artisanale au Texas.",
+      "category": "Other",
       "website": "https://ironwood-spirits-brewing.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T07:46:29.919352+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T09:59:43.498547+00:00"
     },
     {
       "name": "EverWell AI",
       "slug": "polsia-everwell-ai",
+      "description": "Your autonomous daily health agent — acts for you, so you don’t have to.",
+      "description_fr": "Votre agent de santé autonome au quotidien, agit pour vous, pour que vous n’ayez pas à le faire.",
+      "category": "AI & Machine Learning",
       "website": "https://everwell-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T07:46:35.505950+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T09:59:44.591115+00:00"
     },
     {
       "name": "Nest.ai",
@@ -180707,6 +180725,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-05T07:46:40.879294+00:00"
+    },
+    {
+      "name": "MediScan AI",
+      "slug": "polsia-mediscan-ai",
+      "website": "https://mediscan-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T09:58:48.706815+00:00"
+    },
+    {
+      "name": "CoatLogic",
+      "slug": "polsia-coatlogic-2",
+      "website": "https://coatlogic-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T09:58:54.085284+00:00"
+    },
+    {
+      "name": "CreativeForge",
+      "slug": "polsia-creativeforge-2",
+      "description": "The AI creative agency that books clients, creates branded content, and handles revisions — 24/7, fully autonomous.",
+      "description_fr": "L'agence créative IA qui réserve des clients, crée du contenu de marque et gère les révisions – 24h/24 et 7j/7, entièrement autonome.",
+      "category": "AI & Machine Learning",
+      "website": "https://creativeforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T09:58:55.834213+00:00"
+    },
+    {
+      "name": "GridMind AI",
+      "slug": "polsia-gridmind-ai",
+      "website": "https://gridmind-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T09:59:01.265958+00:00"
+    },
+    {
+      "name": "ALDA",
+      "slug": "polsia-alda",
+      "description": "European streetwear. Timeless, quality-focused clothing for those who value authenticity over trends. Limited drops, oversized silhouettes, heavyweight fabrics.",
+      "description_fr": "Le streetwear européen. Des vêtements intemporels et de qualité pour ceux qui privilégient l'authenticité aux tendances. Drops limités, silhouettes oversize, tissus épais.",
+      "category": "Other",
+      "website": "https://alda.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T09:59:02.853003+00:00"
+    },
+    {
+      "name": "ShiftMind",
+      "slug": "polsia-shiftmind-7",
+      "description": "AI that adapts to how you actually work. ShiftMind silently learns your natural patterns and builds a personalized productivity system around how you genuinely operate.",
+      "description_fr": "Une IA qui s'adapte à votre façon de travailler réellement. ShiftMind apprend silencieusement vos schémas naturels et construit un système de productivité personnalisé autour de votre véritable façon de fonctionner.",
+      "category": "AI & Machine Learning",
+      "website": "https://shiftmind-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T09:59:04.543023+00:00"
+    },
+    {
+      "name": "PracticeGuard",
+      "slug": "polsia-practiceguard",
+      "description": "Enterprise-grade compliance monitoring for small healthcare practices. Stay ahead of HIPAA, state regulations, and payer requirements — without the cost of a full-time compliance officer.",
+      "description_fr": "Surveillance de la conformité de niveau entreprise pour les petits cabinets de soins de santé. Gardez une longueur d'avance sur la HIPAA, les réglementations nationales et les exigences des payeurs, sans avoir à faire appel à un responsable de la conformité à temps plein.",
+      "category": "Health & Wellness",
+      "website": "https://practiceguard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T09:59:06.181591+00:00"
+    },
+    {
+      "name": "VERUM",
+      "slug": "polsia-verum-2",
+      "description": "100 fundadores. Nunca reeditado. Streetwear premium de edición ultra-limitada desde la Unión Europea.",
+      "description_fr": "100 fondateurs. Nunca réédité. Streetwear premium, édition ultra-limitée de l'Union européenne.",
+      "category": "Other",
+      "website": "https://verum-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T09:59:08.233853+00:00"
+    },
+    {
+      "name": "CivicPulse",
+      "slug": "polsia-civicpulse-1783245107901-fckc",
+      "description": "Real-time civic issue intelligence for responsive local government. AI-powered issue detection, routing, and resolution tracking.",
+      "description_fr": "Intelligence civique en temps réel pour un gouvernement local réactif. Détection, routage et suivi des résolutions basés sur l'IA.",
+      "category": "AI & Machine Learning",
+      "website": "https://civicpulse-1783245107901-fckc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T09:59:10.217368+00:00"
+    },
+    {
+      "name": "ProactiveMD",
+      "slug": "polsia-proactivemd",
+      "description": "Your always-on AI health companion that prevents disease before it starts.",
+      "description_fr": "Votre compagnon de santé IA toujours actif qui prévient les maladies avant qu'elles ne surviennent.",
+      "category": "AI & Machine Learning",
+      "website": "https://proactivemd.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T09:59:11.652861+00:00"
     }
   ]
 }
