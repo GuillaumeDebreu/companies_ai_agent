@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T10:00:00.403642+00:00",
+  "last_updated": "2026-07-05T11:44:23.869600+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -180729,18 +180729,24 @@
     {
       "name": "MediScan AI",
       "slug": "polsia-mediscan-ai",
+      "description": "Your medication, explained instantly with AI. Scan medicine packages and get clear explanations of what each medication is for, how to take it correctly, and potential side effects.",
+      "description_fr": "Votre médicament, expliqué instantanément avec l'IA. Scannez les emballages de médicaments et obtenez des explications claires sur l'utilité de chaque médicament, comment le prendre correctement et les effets secondaires potentiels.",
+      "category": "AI & Machine Learning",
       "website": "https://mediscan-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T09:58:48.706815+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T11:43:43.778416+00:00"
     },
     {
       "name": "CoatLogic",
       "slug": "polsia-coatlogic-2",
+      "description": "AI procurement agents that autonomously manage powder coating inventory — monitoring stock, tracking supplier pricing, and executing reorders within defined risk tolerances.",
+      "description_fr": "Agents d'approvisionnement IA qui gèrent de manière autonome les stocks de revêtements en poudre – surveillant les stocks, suivant les prix des fournisseurs et exécutant les réapprovisionnements dans les limites de tolérances de risque définies.",
+      "category": "AI & Machine Learning",
       "website": "https://coatlogic-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T09:58:54.085284+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T11:43:45.711873+00:00"
     },
     {
       "name": "CreativeForge",
@@ -180756,10 +180762,13 @@
     {
       "name": "GridMind AI",
       "slug": "polsia-gridmind-ai",
+      "description": "Autonomous energy trading agents for spot-market arbitrage and 24/7 portfolio optimization.",
+      "description_fr": "Agents de trading d'énergie autonomes pour l'arbitrage sur le marché au comptant et l'optimisation de portefeuille 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://gridmind-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T09:59:01.265958+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T11:43:47.850584+00:00"
     },
     {
       "name": "ALDA",
@@ -180826,6 +180835,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-05T09:59:11.652861+00:00"
+    },
+    {
+      "name": "ArcSight AI",
+      "slug": "polsia-arcsight-ai",
+      "website": "https://arcsight-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T11:42:35.794187+00:00"
+    },
+    {
+      "name": "MarginMind",
+      "slug": "polsia-marginmind-1783251734838-343u",
+      "website": "https://marginmind-1783251734838-343u.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T11:42:36.177063+00:00"
+    },
+    {
+      "name": "TransParent PoliticKing",
+      "slug": "polsia-transparent-politicking",
+      "website": "https://transparent-politicking.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T11:42:41.644646+00:00"
+    },
+    {
+      "name": "AviateOps AI",
+      "slug": "polsia-aviateops-ai",
+      "website": "https://aviateops-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T11:42:47.020075+00:00"
+    },
+    {
+      "name": "Emmène.com",
+      "slug": "polsia-emmnecom",
+      "website": "https://emmnecom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T11:42:52.289678+00:00"
+    },
+    {
+      "name": "LinguaForge",
+      "slug": "polsia-linguaforge-4",
+      "website": "https://linguaforge-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T11:42:57.725046+00:00"
+    },
+    {
+      "name": "HitchHub",
+      "slug": "polsia-hitchhub",
+      "description": "Self-sufficient compact camping trailers for the modern explorer",
+      "description_fr": "Caravanes de camping compactes et autonomes pour l'explorateur moderne",
+      "category": "Other",
+      "website": "https://hitchhub.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T11:44:20.808336+00:00"
+    },
+    {
+      "name": "TalentRadar",
+      "slug": "polsia-talentradar-1783251548930-q1e4",
+      "description": "Autonomous AI agents that discover rising talent before anyone else.",
+      "description_fr": "Des agents d'IA autonomes qui découvrent les talents émergents avant tout le monde.",
+      "category": "AI & Machine Learning",
+      "website": "https://talentradar-1783251548930-q1e4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T11:44:22.351154+00:00"
+    },
+    {
+      "name": "Kwanza AI",
+      "slug": "polsia-kwanza-ai",
+      "description": "Intelligent compliance automation for South African financial services. Autonomous AI agents for KYC, AML, FSCA reporting, and PoPIA controls.",
+      "description_fr": "Automatisation intelligente de la conformité pour les services financiers sud-africains. Agents d'IA autonomes pour les contrôles KYC, AML, FSCA et PoPIA.",
+      "category": "AI & Machine Learning",
+      "website": "https://kwanza-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T11:44:23.266465+00:00"
+    },
+    {
+      "name": "BuildPilot",
+      "slug": "polsia-buildpilot-1783251461738-quf5",
+      "description": "Autonomous AI project management for construction — runs 24/7 without a manager in the loop.",
+      "description_fr": "Gestion de projet d'IA autonome pour la construction : fonctionne 24 heures sur 24, 7 jours sur 7, sans responsable au courant.",
+      "category": "AI & Machine Learning",
+      "website": "https://buildpilot-1783251461738-quf5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T11:44:23.868310+00:00"
     }
   ]
 }
