@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T21:45:41.310744+00:00",
+  "last_updated": "2026-07-05T22:44:55.431442+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -181704,26 +181704,35 @@
     {
       "name": "ClauseWatch",
       "slug": "polsia-clausewatch-1783287715468-2ml3",
+      "description": "Autonomous document monitoring with AI-powered extraction and real-time alerting.",
+      "description_fr": "Surveillance autonome des documents avec extraction basée sur l'IA et alertes en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://clausewatch-1783287715468-2ml3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T21:43:15.181538+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T22:43:44.919425+00:00"
     },
     {
       "name": "BookLaunchbox",
       "slug": "polsia-booklaunchbox",
+      "description": "All-in-one pre-order and sales platform for authors.",
+      "description_fr": "Plateforme tout-en-un de précommande et de vente pour les auteurs.",
+      "category": "Software & SaaS",
       "website": "https://booklaunchbox.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T21:43:25.623955+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T22:43:45.874490+00:00"
     },
     {
       "name": "YourDay",
       "slug": "polsia-yourday-2",
+      "description": "Your personal city concierge, texting you what to do next.",
+      "description_fr": "Votre concierge personnel de la ville, vous envoyant un SMS sur la marche à suivre.",
+      "category": "Other",
       "website": "https://yourday-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T21:43:26.103427+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T22:43:46.957296+00:00"
     },
     {
       "name": "Soko AI",
@@ -181739,18 +181748,24 @@
     {
       "name": "Vestro",
       "slug": "polsia-vestro-3",
+      "description": "Autonomous AI agents that run your property operations 24/7.",
+      "description_fr": "Des agents IA autonomes qui gèrent vos opérations immobilières 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://vestro-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T21:43:42.015277+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T22:43:47.556451+00:00"
     },
     {
-      "name": "The Duck and Cover",
+      "name": "The Golf Atelier",
       "slug": "polsia-the-duck-and-cover",
+      "description": "Private Simulators. Pro Fittings. Everything Golf.",
+      "description_fr": "Simulateurs privés. Raccords professionnels. Tout le golf.",
+      "category": "Other",
       "website": "https://the-duck-and-cover.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T21:43:47.382553+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T22:43:49.192070+00:00"
     },
     {
       "name": "Automata",
@@ -181763,10 +181778,13 @@
     {
       "name": "KAIBIGAN.AI",
       "slug": "polsia-kaibiganai",
+      "description": "Your Friendly AI Automation Ally. Filipino-owned automation agency helping MSMEs reclaim time with AI-powered workflows.",
+      "description_fr": "Votre allié convivial en matière d’automatisation de l’IA. Agence d'automatisation appartenant à des Philippines qui aide les MPME à gagner du temps grâce à des flux de travail basés sur l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://kaibiganai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T21:43:58.262762+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T22:43:50.446868+00:00"
     },
     {
       "name": "ServicePilot AI",
@@ -181779,10 +181797,96 @@
     {
       "name": "OpsPilot",
       "slug": "polsia-opspilot-1783287565609-ohvg",
+      "description": "AI-powered corrective task automation for franchise chains. Monitor inventory, scheduling, and feedback — assign corrective tasks before issues escalate.",
+      "description_fr": "Automatisation des tâches correctives basée sur l'IA pour les chaînes de franchise. Surveillez l'inventaire, la planification et les commentaires : attribuez des tâches correctives avant que les problèmes ne s'aggravent.",
+      "category": "Productivity & Automation",
       "website": "https://opspilot-1783287565609-ohvg.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T22:43:56.568557+00:00"
+    },
+    {
+      "name": "V-Med",
+      "slug": "polsia-v-med",
+      "website": "https://v-med.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-05T21:44:08.893382+00:00"
+      "scraped_at": "2026-07-05T22:42:21.528812+00:00"
+    },
+    {
+      "name": "Zambezi Tech Hub",
+      "slug": "polsia-zambezi-tech-hub",
+      "website": "https://zambezi-tech-hub.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T22:42:27.091571+00:00"
+    },
+    {
+      "name": "Opswise",
+      "slug": "polsia-opswise-3",
+      "website": "https://opswise-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T22:42:37.373791+00:00"
+    },
+    {
+      "name": "YardPod Studios",
+      "slug": "polsia-yardpod-studios",
+      "website": "https://yardpod-studios.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T22:42:42.726664+00:00"
+    },
+    {
+      "name": "ProofStack",
+      "slug": "polsia-proofstack-1783291209207-8vyc",
+      "website": "https://proofstack-1783291209207-8vyc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T22:42:48.081347+00:00"
+    },
+    {
+      "name": "The Backyard Studio Co.",
+      "slug": "polsia-the-backyard-studio-co",
+      "website": "https://the-backyard-studio-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T22:42:53.480841+00:00"
+    },
+    {
+      "name": "OpsMind",
+      "slug": "polsia-opsmind-1783291203874-1jxd",
+      "website": "https://opsmind-1783291203874-1jxd.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T22:42:58.825104+00:00"
+    },
+    {
+      "name": "SpecSync",
+      "slug": "polsia-specsync",
+      "website": "https://specsync.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T22:43:09.121077+00:00"
+    },
+    {
+      "name": "Rating Ready Academy",
+      "slug": "polsia-rating-ready-academy",
+      "website": "https://rating-ready-academy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T22:43:14.397618+00:00"
+    },
+    {
+      "name": "ApprovalPilot",
+      "slug": "polsia-approvalpilot",
+      "description": "AI-powered loan underwriting that closes deals faster. Real-time document monitoring, automated compliance, and 24/7 processing for mortgage brokers and lenders.",
+      "description_fr": "Une souscription de prêts basée sur l'IA qui permet de conclure des transactions plus rapidement. Surveillance des documents en temps réel, conformité automatisée et traitement 24h/24 et 7j/7 pour les courtiers et les prêteurs hypothécaires.",
+      "category": "AI & Machine Learning",
+      "website": "https://approvalpilot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T22:44:55.430542+00:00"
     }
   ]
 }
