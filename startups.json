@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T14:47:07.267667+00:00",
+  "last_updated": "2026-07-05T15:56:20.808574+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -181056,34 +181056,46 @@
     {
       "name": "HypothesisHub",
       "slug": "polsia-hypothesishub",
+      "description": "Connect your data to the questions waiting to be answered.",
+      "description_fr": "Connectez vos données aux questions en attente de réponse.",
+      "category": "Other",
       "website": "https://hypothesishub.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T14:45:07.394080+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T15:55:37.199288+00:00"
     },
     {
       "name": "Noleggio Verde",
       "slug": "polsia-noleggio-verde",
+      "description": "Piante verdi in ufficio, zero pensieri per te. Servizio completo di noleggio piante per uffici e spazi di lavoro in tutta Italia.",
+      "description_fr": "Piante verdi in ufficio, zéro pensée pour toi. Servizio completo di noleggio piante per uffici e spazi di lavoro in tutta Italia.",
+      "category": "Other",
       "website": "https://noleggio-verde.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T14:45:13.006522+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T15:55:38.537951+00:00"
     },
     {
       "name": "VigilOps",
       "slug": "polsia-vigilops-1783262596617-ul62",
+      "description": "Autonomous cloud operations that silence the noise and page you only when it matters.",
+      "description_fr": "Des opérations cloud autonomes qui réduisent le bruit et vous appellent uniquement lorsque cela compte.",
+      "category": "Other",
       "website": "https://vigilops-1783262596617-ul62.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T14:45:18.557906+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T15:55:39.692477+00:00"
     },
     {
       "name": "ClipRoute",
       "slug": "polsia-cliproute-2",
+      "description": "The AI brain behind on-demand mobile barbering",
+      "description_fr": "Le cerveau de l’IA derrière le barbier mobile à la demande",
+      "category": "AI & Machine Learning",
       "website": "https://cliproute-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T14:45:24.028211+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T15:55:40.588806+00:00"
     },
     {
       "name": "Missed Call Responder Service",
@@ -181096,10 +181108,13 @@
     {
       "name": "Gilded Glow Beauty",
       "slug": "polsia-gilded-glow-beauty",
+      "description": "Premium hair bundles, skin & body care for the modern woman.",
+      "description_fr": "Faisceaux de cheveux haut de gamme, soins de la peau et du corps pour la femme moderne.",
+      "category": "Other",
       "website": "https://gilded-glow-beauty.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T14:45:35.023702+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T15:55:42.021861+00:00"
     },
     {
       "name": "ReMake Commons CIC",
@@ -181115,10 +181130,13 @@
     {
       "name": "DualCanvas",
       "slug": "polsia-dualcanvas",
+      "description": "Where AI and human artistry find their distinct audiences — with full transparency.",
+      "description_fr": "Où l’IA et le talent artistique humain trouvent leurs publics distincts – en toute transparence.",
+      "category": "AI & Machine Learning",
       "website": "https://dualcanvas.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T14:45:45.761321+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T15:55:42.824418+00:00"
     },
     {
       "name": "SnapPulse",
@@ -181141,6 +181159,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-05T14:45:49.727894+00:00"
+    },
+    {
+      "name": "Evergrow",
+      "slug": "polsia-evergrow-2",
+      "website": "https://evergrow-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T15:54:38.092428+00:00"
+    },
+    {
+      "name": "Refresh Body Studio",
+      "slug": "polsia-refresh-body-studio",
+      "website": "https://refresh-body-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T15:54:38.599728+00:00"
+    },
+    {
+      "name": "Seam",
+      "slug": "polsia-seam-2",
+      "website": "https://seam-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T15:54:43.909702+00:00"
+    },
+    {
+      "name": "Moehnke Industries Inc.",
+      "slug": "polsia-moehnke-industries-inc",
+      "website": "https://moehnke-industries-inc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T15:54:49.365591+00:00"
+    },
+    {
+      "name": "FlowBridge AI",
+      "slug": "polsia-flowbridge-ai",
+      "website": "https://flowbridge-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T15:54:54.747855+00:00"
+    },
+    {
+      "name": "Nexus",
+      "slug": "polsia-nexus-1783266740470-svxs",
+      "description": "Your autonomous productivity agent — schedules, follows up, and reports back.",
+      "description_fr": "Votre agent de productivité autonome : planifie, assure le suivi et rend compte.",
+      "category": "Productivity & Automation",
+      "website": "https://nexus-1783266740470-svxs.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T15:56:10.225536+00:00"
+    },
+    {
+      "name": "KitchenTable CEO",
+      "slug": "polsia-kitchentable-ceo",
+      "website": "https://kitchentable-ceo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T15:55:05.758774+00:00"
+    },
+    {
+      "name": "VERA",
+      "slug": "polsia-vera-5",
+      "description": "The intelligent colleague that transforms how professional wedding planners work.",
+      "description_fr": "Le collègue intelligent qui transforme la façon dont travaillent les organisateurs de mariages professionnels.",
+      "category": "Other",
+      "website": "https://vera-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T15:55:06.523345+00:00"
+    },
+    {
+      "name": "墨创空间",
+      "slug": "polsia-company-234893",
+      "website": "https://company-234893.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T15:55:11.941327+00:00"
+    },
+    {
+      "name": "Externalisation.ch",
+      "slug": "polsia-externalisationch",
+      "description": "Votre partenaire suisse pour externaliser vos opérations sans compromis. Cadre stratégique, sélection rigoureuse, pilotage continu.",
+      "description_fr": "Votre partenaire suisse pour externaliser vos opérations sans compromis. Cadre stratégique, sélection rigoureuse, pilotage continu.",
+      "category": "Other",
+      "website": "https://externalisationch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T15:55:12.560452+00:00"
     }
   ]
 }
