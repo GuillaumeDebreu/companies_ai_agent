@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T04:35:57.463040+00:00",
+  "last_updated": "2026-07-05T07:47:49.235476+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -180509,34 +180509,46 @@
     {
       "name": "Shieldmind AI",
       "slug": "polsia-shieldmind-ai",
+      "description": "Autonomous AI agents that hunt, detect, and neutralize network threats in real-time — no human required.",
+      "description_fr": "Des agents d'IA autonomes qui traquent, détectent et neutralisent les menaces réseau en temps réel, sans intervention humaine.",
+      "category": "AI & Machine Learning",
       "website": "https://shieldmind-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T04:34:03.834513+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T07:47:08.001858+00:00"
     },
     {
       "name": "CourtCraft",
       "slug": "polsia-courtcraft-3",
+      "description": "Engineered for the Court, Built for You. AI-powered basketball sneakers tailored to your foot, your game, and the planet.",
+      "description_fr": "Conçu pour la cour, construit pour vous. Des baskets de basket alimentées par l'IA et adaptées à votre pied, à votre jeu et à la planète.",
+      "category": "AI & Machine Learning",
       "website": "https://courtcraft-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T04:34:14.071484+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T07:47:09.461710+00:00"
     },
     {
       "name": "SubGuard",
       "slug": "polsia-subguard-3",
+      "description": "Stop overpaying. Start disputing automatically.",
+      "description_fr": "Arrêtez de payer trop cher. Commencez à contester automatiquement.",
+      "category": "Other",
       "website": "https://subguard-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T04:34:24.567976+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T07:47:11.331117+00:00"
     },
     {
       "name": "VoltEdge",
       "slug": "polsia-voltedge-9",
+      "description": "AI-powered EV fleet management for small operators — maximize battery life, cut charging costs, optimize routes.",
+      "description_fr": "Gestion de flotte de véhicules électriques basée sur l'IA pour les petits opérateurs : maximisez la durée de vie de la batterie, réduisez les coûts de recharge et optimisez les itinéraires.",
+      "category": "AI & Machine Learning",
       "website": "https://voltedge-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T04:34:29.809270+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T07:47:13.376083+00:00"
     },
     {
       "name": "Vaylo",
@@ -180552,10 +180564,13 @@
     {
       "name": "Dentry",
       "slug": "polsia-dentry",
+      "description": "The AI revenue system for Australian dental and cosmetic clinics.",
+      "description_fr": "Le système de revenus de l'IA pour les cliniques dentaires et cosmétiques australiennes.",
+      "category": "AI & Machine Learning",
       "website": "https://dentry.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T04:34:36.566237+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T07:47:16.006710+00:00"
     },
     {
       "name": "Stratos AI",
@@ -180600,6 +180615,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-05T04:34:43.810481+00:00"
+    },
+    {
+      "name": "Nexwork",
+      "slug": "polsia-nexwork-2",
+      "website": "https://nexwork-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T07:46:07.968419+00:00"
+    },
+    {
+      "name": "FemmeAItron",
+      "slug": "polsia-femmeaitron",
+      "website": "https://femmeaitron.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T07:46:13.490127+00:00"
+    },
+    {
+      "name": "StoryForge AI",
+      "slug": "polsia-storyforge-ai-6",
+      "website": "https://storyforge-ai-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T07:46:18.941287+00:00"
+    },
+    {
+      "name": "SmartStack AI",
+      "slug": "polsia-smartstack-ai-3",
+      "website": "https://smartstack-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T07:46:24.286640+00:00"
+    },
+    {
+      "name": "Ironwood Spirits & Brewing",
+      "slug": "polsia-ironwood-spirits-brewing",
+      "website": "https://ironwood-spirits-brewing.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T07:46:29.919352+00:00"
+    },
+    {
+      "name": "EverWell AI",
+      "slug": "polsia-everwell-ai",
+      "website": "https://everwell-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T07:46:35.505950+00:00"
+    },
+    {
+      "name": "Nest.ai",
+      "slug": "polsia-nestai-2",
+      "description": "AI agents negotiate, book, and resolve disputes for home services — 24/7.",
+      "description_fr": "Les agents AI négocient, réservent et résolvent les litiges pour les services à domicile – 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://nestai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T07:46:37.062830+00:00"
+    },
+    {
+      "name": "K.I.T.T. Trading System",
+      "slug": "polsia-kitt-trading-system",
+      "description": "Your AI-powered trading command center with FIRE scoring intelligence. Score stocks, identify sniper entries, and detect explosive runners.",
+      "description_fr": "Votre centre de commande commercial alimenté par l'IA avec l'intelligence de notation FIRE. Marquez les actions, identifiez les entrées de tireurs d'élite et détectez les coureurs explosifs.",
+      "category": "AI & Machine Learning",
+      "website": "https://kitt-trading-system.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T07:46:38.159697+00:00"
+    },
+    {
+      "name": "Two Sisters CBD",
+      "slug": "polsia-two-sisters-cbd",
+      "description": "Small-batch, women-owned CBD crafted with care for you and your pets.",
+      "description_fr": "Du CBD en petits lots appartenant à des femmes, conçu avec soin pour vous et vos animaux de compagnie.",
+      "category": "Other",
+      "website": "https://two-sisters-cbd.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T07:46:39.544104+00:00"
+    },
+    {
+      "name": "CodeSentry",
+      "slug": "polsia-codesentry-10",
+      "description": "24/7 automated code reviews for GitHub pull requests. AI-powered code review that monitors repositories, reviews PRs, and reports issues in real time.",
+      "description_fr": "Révisions de code automatisées 24h/24 et 7j/7 pour les demandes d'extraction GitHub. Révision de code basée sur l'IA qui surveille les référentiels, examine les PR et signale les problèmes en temps réel.",
+      "category": "AI & Machine Learning",
+      "website": "https://codesentry-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T07:46:40.879294+00:00"
     }
   ]
 }
