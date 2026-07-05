@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T17:13:13.016114+00:00",
+  "last_updated": "2026-07-05T18:18:51.706205+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -181281,34 +181281,46 @@
     {
       "name": "SecuSystem",
       "slug": "polsia-secusystem",
+      "description": "Solutions de sécurité pour les commerces et PPE en Suisse Romande.",
+      "description_fr": "Solutions de sécurité pour les commerces et EPI en Suisse Romande.",
+      "category": "Other",
       "website": "https://secusystem.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T17:11:32.127934+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T18:18:11.672656+00:00"
     },
     {
       "name": "Name Your Niche",
       "slug": "polsia-name-your-niche",
+      "description": "Custom niche research reports for handmade and print-on-demand sellers. Find your niche, understand your buyer, and launch with confidence.",
+      "description_fr": "Rapports de recherche de niche personnalisés pour les vendeurs de produits artisanaux et d'impression à la demande. Trouvez votre niche, comprenez votre acheteur et lancez-vous en toute confiance.",
+      "category": "Other",
       "website": "https://name-your-niche.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T17:11:37.526435+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T18:18:13.498045+00:00"
     },
     {
       "name": "VoyageIQ",
       "slug": "polsia-voyageiq-4",
+      "description": "AI automation for travel businesses. Reduce manual workload, accelerate response times, and reclaim revenue with intelligent workflow automation.",
+      "description_fr": "Automatisation de l'IA pour les entreprises de voyages. Réduisez la charge de travail manuelle, accélérez les temps de réponse et récupérez des revenus grâce à l’automatisation intelligente des flux de travail.",
+      "category": "AI & Machine Learning",
       "website": "https://voyageiq-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T17:11:42.833777+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T18:18:14.402620+00:00"
     },
     {
-      "name": "AI Nexus",
+      "name": "AgentDeploy",
       "slug": "polsia-ai-nexus-2",
+      "description": "Deploy an AI support agent for your business in minutes.",
+      "description_fr": "Déployez un agent de support IA pour votre entreprise en quelques minutes.",
+      "category": "AI & Machine Learning",
       "website": "https://ai-nexus-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T17:11:53.280832+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T18:18:15.353515+00:00"
     },
     {
       "name": "AgentNexus",
@@ -181346,10 +181358,13 @@
     {
       "name": "Relay",
       "slug": "polsia-relay-1783271134806-7sw5",
+      "description": "Your AI that never sleeps, never misses a beat. Always-on monitoring for email, calendar, and tasks.",
+      "description_fr": "Votre IA qui ne dort jamais, ne manque jamais un rythme. Surveillance permanente des e-mails, du calendrier et des tâches.",
+      "category": "AI & Machine Learning",
       "website": "https://relay-1783271134806-7sw5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T17:12:02.103529+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T18:18:16.539558+00:00"
     },
     {
       "name": "RefiPilot",
@@ -181361,6 +181376,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-05T17:12:03.080821+00:00"
+    },
+    {
+      "name": "Subwise",
+      "slug": "polsia-subwise-1783275390973-w4vj",
+      "website": "https://subwise-1783275390973-w4vj.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T18:17:02.736564+00:00"
+    },
+    {
+      "name": "VigilOS",
+      "slug": "polsia-vigilos-1783275380831-lb3k",
+      "website": "https://vigilos-1783275380831-lb3k.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T18:17:08.184307+00:00"
+    },
+    {
+      "name": "Business Academy Africa",
+      "slug": "polsia-business-academy-africa",
+      "website": "https://business-academy-africa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T18:17:13.453081+00:00"
+    },
+    {
+      "name": "SignalEdge",
+      "slug": "polsia-signaledge-1783275276613-muwp",
+      "website": "https://signaledge-1783275276613-muwp.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T18:17:18.773115+00:00"
+    },
+    {
+      "name": "Joker Jeans",
+      "slug": "polsia-joker-jeans",
+      "website": "https://joker-jeans.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T18:17:24.051848+00:00"
+    },
+    {
+      "name": "Reachwyse",
+      "slug": "polsia-reachwyse",
+      "website": "https://reachwyse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T18:17:29.496124+00:00"
+    },
+    {
+      "name": "PromptVault",
+      "slug": "polsia-promptvault-9",
+      "description": "Premium AI prompts for creators, businesses, and educators",
+      "description_fr": "Invites d'IA premium pour les créateurs, les entreprises et les enseignants",
+      "category": "AI & Machine Learning",
+      "website": "https://promptvault-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T18:18:49.745156+00:00"
+    },
+    {
+      "name": "Verdant",
+      "slug": "polsia-verdant-10",
+      "description": "A lifestyle brand for mindful consumers. Curated collections across home, personal care, and pet essentials — built on clean ingredients, ethical sourcing, and beautiful design.",
+      "description_fr": "Une marque lifestyle pour les consommateurs conscients. Des collections organisées comprenant des produits essentiels pour la maison, les soins personnels et les animaux de compagnie, construites sur des ingrédients propres, un approvisionnement éthique et un design magnifique.",
+      "category": "Marketing & Advertising",
+      "website": "https://verdant-10.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T18:18:51.005582+00:00"
+    },
+    {
+      "name": "Hobbs Peak Designs",
+      "slug": "polsia-hobbs-peak-designs",
+      "description": "Custom headwear and branded apparel crafted with hometown care in West Georgia.",
+      "description_fr": "Des couvre-chefs personnalisés et des vêtements de marque fabriqués avec le soin de notre ville natale de Géorgie occidentale.",
+      "category": "Marketing & Advertising",
+      "website": "https://hobbs-peak-designs.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T18:17:41.004858+00:00"
+    },
+    {
+      "name": "CompeteIQ",
+      "slug": "polsia-competeiq-1783275129297-gcv9",
+      "description": "Real-time competitor intelligence for founders and small teams.",
+      "description_fr": "Veille concurrentielle en temps réel pour les fondateurs et les petites équipes.",
+      "category": "Other",
+      "website": "https://competeiq-1783275129297-gcv9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-05T18:18:51.704835+00:00"
     }
   ]
 }
