@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T11:44:23.869600+00:00",
+  "last_updated": "2026-07-05T12:57:26.688182+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -180839,34 +180839,46 @@
     {
       "name": "ArcSight AI",
       "slug": "polsia-arcsight-ai",
+      "description": "AI-powered weld inspection that never sleeps — real-time defect detection, classification, and compliance reporting.",
+      "description_fr": "Inspection des soudures basée sur l'IA qui ne dort jamais : détection des défauts, classification et rapports de conformité en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://arcsight-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T11:42:35.794187+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T12:56:28.515898+00:00"
     },
     {
       "name": "MarginMind",
       "slug": "polsia-marginmind-1783251734838-343u",
+      "description": "AI agents that reprice your products to protect margins in real time.",
+      "description_fr": "Des agents IA qui modifient le prix de vos produits pour protéger les marges en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://marginmind-1783251734838-343u.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T11:42:36.177063+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T12:56:29.248331+00:00"
     },
     {
       "name": "TransParent PoliticKing",
       "slug": "polsia-transparent-politicking",
+      "description": "Authentic political commentary without the gatekeepers.",
+      "description_fr": "Commentaire politique authentique sans les gardiens.",
+      "category": "Real Estate",
       "website": "https://transparent-politicking.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T11:42:41.644646+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T12:56:30.746896+00:00"
     },
     {
       "name": "AviateOps AI",
       "slug": "polsia-aviateops-ai",
+      "description": "Autonomous AI agents for aviation operations workflows. 25–35% productivity gains for airlines, charter operators, and FBOs.",
+      "description_fr": "Agents IA autonomes pour les flux de travail des opérations aériennes. Gains de productivité de 25 à 35 % pour les compagnies aériennes, les opérateurs charter et les FBO.",
+      "category": "AI & Machine Learning",
       "website": "https://aviateops-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T11:42:47.020075+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T12:56:32.176343+00:00"
     },
     {
       "name": "Emmène.com",
@@ -180879,10 +180891,13 @@
     {
       "name": "LinguaForge",
       "slug": "polsia-linguaforge-4",
+      "description": "Master any language through AI-powered conversations. Practice real-world dialogues that adapt to your level — from ordering coffee to negotiating deals.",
+      "description_fr": "Maîtrisez n'importe quelle langue grâce à des conversations basées sur l'IA. Pratiquez des dialogues réels qui s'adaptent à votre niveau, de la commande de café à la négociation d'accords.",
+      "category": "AI & Machine Learning",
       "website": "https://linguaforge-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T11:42:57.725046+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-05T12:56:33.922496+00:00"
     },
     {
       "name": "HitchHub",
@@ -180927,6 +180942,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-05T11:44:23.868310+00:00"
+    },
+    {
+      "name": "Vaultex",
+      "slug": "polsia-vaultex-8",
+      "website": "https://vaultex-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T12:55:15.077956+00:00"
+    },
+    {
+      "name": "AlpineBase",
+      "slug": "polsia-alpinebase",
+      "website": "https://alpinebase.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T12:55:20.556502+00:00"
+    },
+    {
+      "name": "ReviewSentinel",
+      "slug": "polsia-reviewsentinel-8",
+      "website": "https://reviewsentinel-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T12:55:25.932493+00:00"
+    },
+    {
+      "name": "AgentOps",
+      "slug": "polsia-agentops-1783256049861-hoqz",
+      "website": "https://agentops-1783256049861-hoqz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T12:55:31.201165+00:00"
+    },
+    {
+      "name": "BillSwoop",
+      "slug": "polsia-billswoop",
+      "website": "https://billswoop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T12:55:36.601611+00:00"
+    },
+    {
+      "name": "TH Young Capital",
+      "slug": "polsia-th-young-capital",
+      "website": "https://th-young-capital.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T12:55:41.961959+00:00"
+    },
+    {
+      "name": "CarbonNexus",
+      "slug": "polsia-carbonnexus-2",
+      "website": "https://carbonnexus-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T12:55:47.285762+00:00"
+    },
+    {
+      "name": "HELLO",
+      "slug": "polsia-hello",
+      "website": "https://hello.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T12:55:52.720376+00:00"
+    },
+    {
+      "name": "Apex Chrono",
+      "slug": "polsia-apex-chrono",
+      "website": "https://apex-chrono.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T12:55:58.005128+00:00"
+    },
+    {
+      "name": "MeU",
+      "slug": "polsia-meu",
+      "website": "https://meu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-05T12:56:03.226978+00:00"
     }
   ]
 }
