@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T03:39:41.222399+00:00",
+  "last_updated": "2026-07-06T06:08:05.271228+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -182020,28 +182020,37 @@
       "scraped_at": "2026-07-05T23:47:26.235927+00:00"
     },
     {
-      "name": "CrawfordSuiteSeats",
+      "name": "InboxChief",
       "slug": "polsia-crawfordsuiteseats",
+      "description": "Your autonomous email executive, working 24/7. AI-powered email management that learns your workflow, drafts personalized responses, and ensures no critical message goes unanswered.",
+      "description_fr": "Votre responsable de messagerie autonome, travaillant 24h/24 et 7j/7. Gestion des e-mails basée sur l'IA qui apprend votre flux de travail, rédige des réponses personnalisées et garantit qu'aucun message critique ne reste sans réponse.",
+      "category": "Newsletter & Email",
       "website": "https://crawfordsuiteseats.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-06T01:28:19.085015+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T06:07:53.073949+00:00"
     },
     {
       "name": "Warbach Coffee",
       "slug": "polsia-warbach-coffee",
+      "description": "Crafted for the Journey, Roasted for Your Home.",
+      "description_fr": "Conçu pour le voyage, rôti pour votre maison.",
+      "category": "Food & Beverage",
       "website": "https://warbach-coffee.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-06T01:28:24.579445+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T06:07:54.692740+00:00"
     },
     {
       "name": "PrestigeScale",
       "slug": "polsia-prestigescale",
+      "description": "AI-powered virtual showrooms for high-ticket luxury products. Build autonomous affiliate income with premium brands.",
+      "description_fr": "Salles d'exposition virtuelles alimentées par l'IA pour les produits de luxe coûteux. Générez des revenus d'affiliation autonomes avec des marques premium.",
+      "category": "AI & Machine Learning",
       "website": "https://prestigescale.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-06T01:28:30.107075+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T06:07:56.323577+00:00"
     },
     {
       "name": "ReelMint",
@@ -182055,12 +182064,15 @@
       "scraped_at": "2026-07-06T01:30:03.070218+00:00"
     },
     {
-      "name": "Bed-Stuy Art House TV",
+      "name": "Bed",
       "slug": "polsia-bed-stuy-art-house-tv",
+      "description": "Short-form stories. Big Black voices. A streaming network for independent Black creators delivering bite-sized original content across comedy, documentary, dance, poetry, and scripted formats.",
+      "description_fr": "Histoires courtes. De grandes voix noires. Un réseau de streaming pour les créateurs noirs indépendants proposant du contenu original de petite taille dans des formats de comédie, documentaire, danse, poésie et scénarisé.",
+      "category": "Entertainment & Media",
       "website": "https://bed-stuy-art-house-tv.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-06T01:28:46.290260+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T06:07:57.940300+00:00"
     },
     {
       "name": "Vertex Capital Management LLC",
@@ -182116,6 +182128,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-06T01:28:53.692212+00:00"
+    },
+    {
+      "name": "PromptForge",
+      "slug": "polsia-promptforge-1783317914228-t8fa",
+      "website": "https://promptforge-1783317914228-t8fa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T06:06:50.815642+00:00"
+    },
+    {
+      "name": "Nexus",
+      "slug": "polsia-nexus-1783317870052-wcjh",
+      "website": "https://nexus-1783317870052-wcjh.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T06:06:51.353820+00:00"
+    },
+    {
+      "name": "TARS",
+      "slug": "polsia-tars",
+      "description": "AI-powered autonomous social content for real estate professionals.",
+      "description_fr": "Contenu social autonome alimenté par l'IA pour les professionnels de l'immobilier.",
+      "category": "AI & Machine Learning",
+      "website": "https://tars.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T06:08:04.482476+00:00"
+    },
+    {
+      "name": "Nexus",
+      "slug": "polsia-nexus-1783317734429-hrzv",
+      "description": "Your AI agent that works in the background, decides for you.",
+      "description_fr": "Votre agent IA qui travaille en arrière-plan décide pour vous.",
+      "category": "AI & Machine Learning",
+      "website": "https://nexus-1783317734429-hrzv.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T06:06:58.374244+00:00"
+    },
+    {
+      "name": "CleanSlate",
+      "slug": "polsia-cleanslate-1783317743495-avnx",
+      "description": "AI-powered autonomous privacy guardian that continuously removes your data from broker sites.",
+      "description_fr": "Gardien de la confidentialité autonome alimenté par l'IA qui supprime en permanence vos données des sites de courtiers.",
+      "category": "AI & Machine Learning",
+      "website": "https://cleanslate-1783317743495-avnx.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T06:08:05.269466+00:00"
+    },
+    {
+      "name": "Flowstate Digital",
+      "slug": "polsia-flowstate-digital",
+      "description": "Agencia de automatización con IA para PYME y startups. Ahorra tiempo, genera leads y posiciona tu negocio en la era.",
+      "description_fr": "Agence d'automatisation avec IA pour PYME et startups. Maintenant, les genres mènent et positionnent votre entreprise à l'époque.",
+      "category": "Sales & CRM",
+      "website": "https://flowstate-digital.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T06:07:05.385176+00:00"
+    },
+    {
+      "name": "ContentForce",
+      "slug": "polsia-contentforce-4",
+      "description": "Exclusive AI-powered YouTube production for Jansma VIP.",
+      "description_fr": "Production YouTube exclusive basée sur l'IA pour Jansma VIP.",
+      "category": "AI & Machine Learning",
+      "website": "https://contentforce-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T06:07:06.535931+00:00"
+    },
+    {
+      "name": "PlayMakers Hub",
+      "slug": "polsia-playmakers-hub",
+      "description": "Where addictive play meets brilliant inventions. Discover toys and inventions that spark creativity and deliver endless hours of challenge.",
+      "description_fr": "Où le jeu addictif rencontre des inventions brillantes. Découvrez des jouets et des inventions qui stimulent la créativité et offrent des heures de défi sans fin.",
+      "category": "Other",
+      "website": "https://playmakers-hub.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T06:07:08.025653+00:00"
+    },
+    {
+      "name": "Pet Guardian Pack",
+      "slug": "polsia-pet-guardian-pack",
+      "description": "Your pet's care, clearly organized. Printable and personalized pet care organization packets for pet owners, families, pet sitters, and travelers.",
+      "description_fr": "Les soins de votre animal, clairement organisés. Paquets d'organisation de soins pour animaux de compagnie imprimables et personnalisés pour les propriétaires d'animaux, les familles, les gardiens d'animaux et les voyageurs.",
+      "category": "Travel & Hospitality",
+      "website": "https://pet-guardian-pack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T06:07:09.226705+00:00"
+    },
+    {
+      "name": "Orbit",
+      "slug": "polsia-orbit-1783317376693-ztum",
+      "description": "Planning built for how your brain actually works.",
+      "description_fr": "Planification conçue pour le fonctionnement réel de votre cerveau.",
+      "category": "Other",
+      "website": "https://orbit-1783317376693-ztum.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T06:07:11.246751+00:00"
     }
   ]
 }
