@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T23:48:58.679947+00:00",
+  "last_updated": "2026-07-06T01:30:13.586532+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -181915,50 +181915,68 @@
     {
       "name": "TechWatch AI",
       "slug": "polsia-techwatch-ai",
+      "description": "Intelligent IT monitoring and automation for businesses that cannot afford downtime.",
+      "description_fr": "Surveillance et automatisation informatiques intelligentes pour les entreprises qui ne peuvent pas se permettre des temps d'arrêt.",
+      "category": "AI & Machine Learning",
       "website": "https://techwatch-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T23:46:31.228845+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T01:29:26.689233+00:00"
     },
     {
       "name": "NexoTrade",
       "slug": "polsia-nexotrade",
+      "description": "Autonomous AI agents matching LATAM businesses around the clock.",
+      "description_fr": "Agents IA autonomes correspondant aux entreprises LATAM 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://nexotrade.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T23:46:41.718634+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T01:29:27.842286+00:00"
     },
     {
       "name": "AIVENTOR",
       "slug": "polsia-aiventor",
+      "description": "The autonomous AI consulting pipeline — from lead to invoice, without the humans.",
+      "description_fr": "Le pipeline autonome de conseil en IA — du prospect à la facture, sans les humains.",
+      "category": "AI & Machine Learning",
       "website": "https://aiventor.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T23:46:51.958058+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T01:29:29.297393+00:00"
     },
     {
       "name": "Rise Pouches",
       "slug": "polsia-rise-pouches",
+      "description": "Premium nicotine-free, tobacco-free oral pouches engineered for clean energy and mental clarity. Elevate without compromise.",
+      "description_fr": "Sachets buccaux de qualité supérieure, sans nicotine et sans tabac, conçus pour une énergie propre et une clarté mentale. Élevez-vous sans compromis.",
+      "category": "Other",
       "website": "https://rise-pouches.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T23:46:57.217293+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T01:29:31.275866+00:00"
     },
     {
       "name": "VoltExpress",
       "slug": "polsia-voltexpress",
+      "description": "La recharge express qui vient a vous. Service de recharge mobile d'urgence pour vehicules electriques — intervention en moins de 20 minutes.",
+      "description_fr": "La recharge express qui vient à vous. Service de recharge mobile d'urgence pour véhicules électriques — intervention en moins de 20 minutes.",
+      "category": "Other",
       "website": "https://voltexpress.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T23:47:02.400929+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T01:29:33.154104+00:00"
     },
     {
       "name": "StockPulse",
       "slug": "polsia-stockpulse-1783295072342-ov8k",
+      "description": "Autonomous inventory reconciliation across every warehouse.",
+      "description_fr": "Rapprochement autonome des stocks dans chaque entrepôt.",
+      "category": "Sustainability & Green",
       "website": "https://stockpulse-1783295072342-ov8k.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-05T23:47:07.798511+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T01:29:34.604041+00:00"
     },
     {
       "name": "CircuitStack",
@@ -182000,6 +182018,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-05T23:47:26.235927+00:00"
+    },
+    {
+      "name": "CrawfordSuiteSeats",
+      "slug": "polsia-crawfordsuiteseats",
+      "website": "https://crawfordsuiteseats.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T01:28:19.085015+00:00"
+    },
+    {
+      "name": "Warbach Coffee",
+      "slug": "polsia-warbach-coffee",
+      "website": "https://warbach-coffee.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T01:28:24.579445+00:00"
+    },
+    {
+      "name": "PrestigeScale",
+      "slug": "polsia-prestigescale",
+      "website": "https://prestigescale.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T01:28:30.107075+00:00"
+    },
+    {
+      "name": "ReelMint",
+      "slug": "polsia-reelmint-6",
+      "description": "AI-powered marketing campaigns in 90 seconds — 47 deliverables, one click.",
+      "description_fr": "Campagnes marketing basées sur l'IA en 90 secondes : 47 livrables, un clic.",
+      "category": "Marketing & Advertising",
+      "website": "https://reelmint-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T01:30:03.070218+00:00"
+    },
+    {
+      "name": "Bed-Stuy Art House TV",
+      "slug": "polsia-bed-stuy-art-house-tv",
+      "website": "https://bed-stuy-art-house-tv.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T01:28:46.290260+00:00"
+    },
+    {
+      "name": "Vertex Capital Management LLC",
+      "slug": "polsia-vertex-capital-management-llc",
+      "description": "Precision-Driven Investing for the Modern Portfolio",
+      "description_fr": "Investissement axé sur la précision pour le portefeuille moderne",
+      "category": "Software & SaaS",
+      "website": "https://vertex-capital-management-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T01:28:48.209212+00:00"
+    },
+    {
+      "name": "Cognify",
+      "slug": "polsia-cognify-9",
+      "description": "Your knowledge, always working. An always-on AI agent that silently monitors your documents, notes, and emails — continuously building a living knowledge graph.",
+      "description_fr": "Vos connaissances, toujours à l'œuvre. Un agent IA toujours actif qui surveille silencieusement vos documents, notes et e-mails, créant ainsi un graphique de connaissances évolutif.",
+      "category": "AI & Machine Learning",
+      "website": "https://cognify-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T01:28:49.622307+00:00"
+    },
+    {
+      "name": "Pinnacle Advance Solutions LLC",
+      "slug": "polsia-pinnacle-advance-solutions-llc",
+      "description": "Building Visions, Shaping The Future. General contracting for commercial and residential construction across Snohomish County and the Pacific Northwest.",
+      "description_fr": "Construire des visions, façonner l’avenir. Entreprise générale pour la construction commerciale et résidentielle dans le comté de Snohomish et le nord-ouest du Pacifique.",
+      "category": "Software & SaaS",
+      "website": "https://pinnacle-advance-solutions-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T01:28:50.683885+00:00"
+    },
+    {
+      "name": "StarSlumber",
+      "slug": "polsia-starslumber",
+      "description": "Sleep with the stars, officially. Premium body pillows and dakimakura featuring officially licensed celebrity artwork.",
+      "description_fr": "Couchez avec les stars, officiellement. Oreillers de corps et dakimakura haut de gamme présentant des œuvres d'art de célébrités sous licence officielle.",
+      "category": "Other",
+      "website": "https://starslumber.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T01:28:52.659056+00:00"
+    },
+    {
+      "name": "ListingScout AI",
+      "slug": "polsia-listingscout-ai",
+      "description": "Autonomous listing intelligence that works while you sleep. AI agents monitor MLS feeds, match properties to clients, and handle follow-ups 24/7.",
+      "description_fr": "Intelligence de liste autonome qui fonctionne pendant que vous dormez. Les agents IA surveillent les flux MLS, font correspondre les propriétés aux clients et gèrent les suivis 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://listingscout-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T01:28:53.692212+00:00"
     }
   ]
 }
