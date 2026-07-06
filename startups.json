@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T21:04:30.095938+00:00",
+  "last_updated": "2026-07-06T22:25:18.755600+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -182673,10 +182673,13 @@
     {
       "name": "BidForge",
       "slug": "polsia-bidforge-1783371744599-wkve",
+      "description": "AI-powered procurement monitoring and proposal drafting — running 24/7 so you never miss a contract.",
+      "description_fr": "Surveillance des achats et rédaction de propositions basées sur l'IA, fonctionnant 24h/24 et 7j/7 pour ne jamais manquer un contrat.",
+      "category": "AI & Machine Learning",
       "website": "https://bidforge-1783371744599-wkve.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-06T21:02:57.110183+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T22:24:26.560221+00:00"
     },
     {
       "name": "SGTransport",
@@ -182689,34 +182692,46 @@
     {
       "name": "UtilityLens",
       "slug": "polsia-utilitylens",
+      "description": "AI-powered utility bill analysis that uncovers savings.",
+      "description_fr": "Analyse des factures de services publics basée sur l'IA qui révèle des économies.",
+      "category": "AI & Machine Learning",
       "website": "https://utilitylens.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-06T21:03:02.805019+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T22:24:33.410738+00:00"
     },
     {
       "name": "RepoPilot",
       "slug": "polsia-repopilot-10",
+      "description": "AI agents that continuously test, debug, and refactor your code in real-time.",
+      "description_fr": "Des agents d'IA qui testent, déboguent et refactorisent en permanence votre code en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://repopilot-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-06T21:03:03.289616+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T22:24:34.685274+00:00"
     },
     {
       "name": "SkyGator Aerial Imaging, LLC",
       "slug": "polsia-skygator-aerial-imaging-llc",
+      "description": "Southeast Texas FAA Part 107 certified drone pilots delivering aerial photography, thermal inspections, and mapping.",
+      "description_fr": "Pilotes de drones certifiés FAA Part 107 du sud-est du Texas fournissant des photographies aériennes, des inspections thermiques et des cartographies.",
+      "category": "Other",
       "website": "https://skygator-aerial-imaging-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-06T21:03:08.518000+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T22:24:36.060031+00:00"
     },
     {
-      "name": "ONE",
+      "name": "StockPortfolio.One",
       "slug": "polsia-stockportfolio",
+      "description": "Dividend tracking and income optimization for focused investors",
+      "description_fr": "Suivi des dividendes et optimisation des revenus pour les investisseurs ciblés",
+      "category": "Other",
       "website": "https://stockportfolio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-06T21:03:09.050060+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T22:24:37.382034+00:00"
     },
     {
       "name": "Cognify",
@@ -182732,10 +182747,13 @@
     {
       "name": "TreadOps",
       "slug": "polsia-treadops-2",
+      "description": "Autonomous tire health monitoring, service scheduling, and technician dispatch in one platform.",
+      "description_fr": "Surveillance autonome de l’état des pneus, planification des services et répartition des techniciens sur une seule plateforme.",
+      "category": "Software & SaaS",
       "website": "https://treadops-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-06T21:03:15.859464+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-06T22:24:38.691361+00:00"
     },
     {
       "name": "AnswerIQ",
@@ -182758,6 +182776,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-06T21:03:17.952759+00:00"
+    },
+    {
+      "name": "Legendary Beat Production",
+      "slug": "polsia-legendary-beat-production",
+      "website": "https://legendary-beat-production.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T22:23:23.954574+00:00"
+    },
+    {
+      "name": "Security Underground",
+      "slug": "polsia-security-underground",
+      "website": "https://security-underground.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T22:23:24.447855+00:00"
+    },
+    {
+      "name": "Marcus Bacher",
+      "slug": "polsia-marcus-bacher",
+      "website": "https://marcus-bacher.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T22:23:24.956945+00:00"
+    },
+    {
+      "name": "Fantasy Foods",
+      "slug": "polsia-fantasy-foods",
+      "website": "https://fantasy-foods.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T22:23:25.454145+00:00"
+    },
+    {
+      "name": "ResponseStack",
+      "slug": "polsia-responsestack-2",
+      "website": "https://responsestack-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T22:23:31.075840+00:00"
+    },
+    {
+      "name": "Marengo AI Agency",
+      "slug": "polsia-marengo-ai-agency",
+      "website": "https://marengo-ai-agency.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T22:23:36.401250+00:00"
+    },
+    {
+      "name": "AcePutt",
+      "slug": "polsia-aceputt",
+      "website": "https://aceputt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T22:23:36.859459+00:00"
+    },
+    {
+      "name": "Apex Private Aviation",
+      "slug": "polsia-apex-private-aviation",
+      "website": "https://apex-private-aviation.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T22:23:42.252156+00:00"
+    },
+    {
+      "name": "Uni-Mates Chess Academy",
+      "slug": "polsia-uni-mates-chess-academy",
+      "website": "https://uni-mates-chess-academy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-06T22:23:52.790576+00:00"
+    },
+    {
+      "name": "ContentBridge AI",
+      "slug": "polsia-contentbridge-ai-2",
+      "description": "Automated social media content that converts followers into customers.",
+      "description_fr": "Contenu automatisé des réseaux sociaux qui convertit les abonnés en clients.",
+      "category": "AI & Machine Learning",
+      "website": "https://contentbridge-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-06T22:25:18.754812+00:00"
     }
   ]
 }
