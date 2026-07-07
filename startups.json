@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T05:31:08.542442+00:00",
+  "last_updated": "2026-07-07T08:53:11.815785+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -183104,10 +183104,13 @@
     {
       "name": "FlowAI",
       "slug": "polsia-flowai-5",
+      "description": "All-in-one AI automation for service businesses. Handle support, booking, and follow-ups — no staff required.",
+      "description_fr": "Automatisation de l'IA tout-en-un pour les entreprises de services. Gérez l’assistance, les réservations et les suivis – aucun personnel n’est requis.",
+      "category": "AI & Machine Learning",
       "website": "https://flowai-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T05:29:08.954042+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T08:52:22.870274+00:00"
     },
     {
       "name": "TaskIQ",
@@ -183118,36 +183121,48 @@
       "scraped_at": "2026-07-07T05:29:09.550648+00:00"
     },
     {
-      "name": "Theridion",
+      "name": "Theridion Networks",
       "slug": "polsia-theridion",
+      "description": "Internet rápido y confiable en Nuevo Laredo. Planes residenciales y empresariales sin trucos.",
+      "description_fr": "Internet rapide et fiable à Nuevo Laredo. Avions résidentiels et commerciaux sans trucos.",
+      "category": "Social & Community",
       "website": "https://theridion.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T05:29:15.018781+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T08:52:25.463532+00:00"
     },
     {
       "name": "NexaFlow",
       "slug": "polsia-nexaflow-1783401892268-2x60",
+      "description": "AIで、SaaSの次のステップへ。pricingスタジオ、AIプロダクト、NexaFlowで企業のDXを加速します。",
+      "description_fr": "Service AI, Service SaaS, Service de tarification, Service AI, NexaFlow et DX.",
+      "category": "Software & SaaS",
       "website": "https://nexaflow-1783401892268-2x60.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T05:29:20.344273+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T08:52:27.217139+00:00"
     },
     {
       "name": "KontenCerdas",
       "slug": "polsia-kontencerdas",
+      "description": "AI pen kalender konten & posting otomatis untuk bisnis kecil Indonesia.",
+      "description_fr": "AI pen kalender konten & posting otomatis pour bisnis kecil Indonesia.",
+      "category": "AI & Machine Learning",
       "website": "https://kontencerdas.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T05:29:25.853985+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T08:52:29.091842+00:00"
     },
     {
       "name": "BreezePod",
       "slug": "polsia-breezepod",
+      "description": "The all-in-one shower pod that dries you in 3 minutes—no towels needed. Built-in body dryer, hand dryer, phone dock. For hotels, spas, gyms, and modern homes.",
+      "description_fr": "La capsule de douche tout-en-un qui vous sèche en 3 minutes, sans avoir besoin de serviettes. Sèche-corps, sèche-mains, station d'accueil téléphonique intégrés. Pour les hôtels, les spas, les salles de sport et les maisons modernes.",
+      "category": "Travel & Hospitality",
       "website": "https://breezepod.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T05:29:31.404080+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T08:52:31.094927+00:00"
     },
     {
       "name": "AU Investment Solutions",
@@ -183163,18 +183178,24 @@
     {
       "name": "SwiftShine Mobile Detailing",
       "slug": "polsia-swiftshine-mobile-detailing",
+      "description": "Professional car detailing that comes to you in the Dallas-Fort Worth metro.",
+      "description_fr": "Des services d'esthétique automobile professionnels qui viennent à vous dans le métro Dallas-Fort Worth.",
+      "category": "Other",
       "website": "https://swiftshine-mobile-detailing.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T05:29:38.554019+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T08:52:32.149310+00:00"
     },
     {
       "name": "PipelineIQ",
       "slug": "polsia-pipelineiq-1783401629622-kmm2",
+      "description": "Autonomous prospecting and lead qualification that fills your pipeline. AI-powered outreach across email and LinkedIn, real-time pipeline health reporting, and seamless CRM integration.",
+      "description_fr": "Prospection autonome et qualification de leads qui remplit votre pipeline. Une diffusion basée sur l'IA via la messagerie électronique et LinkedIn, des rapports sur l'état du pipeline en temps réel et une intégration CRM transparente.",
+      "category": "Sales & CRM",
       "website": "https://pipelineiq-1783401629622-kmm2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T05:29:44.050777+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T08:52:33.706407+00:00"
     },
     {
       "name": "OneStack",
@@ -183186,6 +183207,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-07T05:29:45.291257+00:00"
+    },
+    {
+      "name": "Nexus AI",
+      "slug": "polsia-nexus-ai-1783414258707-bkpf",
+      "website": "https://nexus-ai-1783414258707-bkpf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T08:51:16.146361+00:00"
+    },
+    {
+      "name": "BrandSentinel",
+      "slug": "polsia-brandsentinel-8",
+      "website": "https://brandsentinel-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T08:51:21.690165+00:00"
+    },
+    {
+      "name": "Theoris-Agency",
+      "slug": "polsia-theoris-agency",
+      "website": "https://theoris-agency.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T08:51:27.288159+00:00"
+    },
+    {
+      "name": "RPM Studio Racing",
+      "slug": "polsia-rpm-studio-racing",
+      "website": "https://rpm-studio-racing.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T08:51:32.690314+00:00"
+    },
+    {
+      "name": "LeadPilot",
+      "slug": "polsia-leadpilot-1783413843425-hddz",
+      "website": "https://leadpilot-1783413843425-hddz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T08:51:38.223192+00:00"
+    },
+    {
+      "name": "LUXORA MEDIA",
+      "slug": "polsia-luxora-media",
+      "description": "Premium digital content and marketing agency. Transform audience attention into measurable revenue with short-form video, AI content, and performance advertising.",
+      "description_fr": "Agence de contenu numérique et de marketing haut de gamme. Transformez l'attention du public en revenus mesurables grâce à des vidéos courtes, du contenu IA et de la publicité à la performance.",
+      "category": "Entertainment & Media",
+      "website": "https://luxora-media.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-07T08:51:39.670727+00:00"
+    },
+    {
+      "name": "AutoFoundry",
+      "slug": "polsia-autofoundry-2",
+      "website": "https://autofoundry-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T08:51:45.033801+00:00"
+    },
+    {
+      "name": "Polsia App",
+      "slug": "polsia-goithauai",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
+      "website": "https://goithauai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-07T08:51:46.118781+00:00"
+    },
+    {
+      "name": "Uncle Rich Investment Cc",
+      "slug": "polsia-uncle-rich-investment-cc",
+      "description": "Building wealth through strategic investments in Namibia.",
+      "description_fr": "Créer de la richesse grâce à des investissements stratégiques en Namibie.",
+      "category": "Finance & Fintech",
+      "website": "https://uncle-rich-investment-cc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-07T08:51:47.568588+00:00"
+    },
+    {
+      "name": "ReconSync",
+      "slug": "polsia-reconsync-3",
+      "website": "https://reconsync-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T08:51:52.969223+00:00"
     }
   ]
 }
