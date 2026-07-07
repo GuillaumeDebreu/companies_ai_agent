@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T11:40:45.041852+00:00",
+  "last_updated": "2026-07-07T13:54:24.784850+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -183321,10 +183321,13 @@
     {
       "name": "EverFi",
       "slug": "polsia-everfi",
+      "description": "Your finances on autopilot, 24/7. Fully autonomous AI that categorizes spending, detects anomalies, negotiates bills, and invests your spare change — hands-free.",
+      "description_fr": "Vos finances en pilote automatique, 24h/24 et 7j/7. Une IA entièrement autonome qui catégorise les dépenses, détecte les anomalies, négocie les factures et investit votre petite monnaie, en mains libres.",
+      "category": "AI & Machine Learning",
       "website": "https://everfi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T11:38:42.768070+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T13:53:17.106986+00:00"
     },
     {
       "name": "Ximus",
@@ -183337,10 +183340,13 @@
     {
       "name": "ArbEdge AI",
       "slug": "polsia-arbedge-ai",
+      "description": "Real-time arbitrage across European sportsbooks, powered by AI",
+      "description_fr": "Arbitrage en temps réel sur les paris sportifs européens, optimisé par l'IA",
+      "category": "AI & Machine Learning",
       "website": "https://arbedge-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T11:38:53.775311+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T13:53:18.518132+00:00"
     },
     {
       "name": "FieldScan Pro",
@@ -183353,10 +183359,13 @@
     {
       "name": "NicheStack",
       "slug": "polsia-nichestack-1783424156992-dhcl",
+      "description": "The automated POD engine that researches, creates, and sells across every major marketplace.",
+      "description_fr": "Le moteur POD automatisé qui recherche, crée et vend sur tous les principaux marchés.",
+      "category": "E-Commerce & Retail",
       "website": "https://nichestack-1783424156992-dhcl.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T11:39:04.827696+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T13:53:20.346612+00:00"
     },
     {
       "name": "Scalegrity",
@@ -183372,10 +183381,13 @@
     {
       "name": "Steve's Family Diner",
       "slug": "polsia-steves-family-diner",
+      "description": "Home of the Best Fried Chicken in town. Family-owned American diner on South Washington Avenue, Titusville, FL — serving breakfast, burgers, seafood, steaks, and home-cooked daily specials since day one.",
+      "description_fr": "Maison du meilleur poulet frit de la ville. Restaurant américain familial sur South Washington Avenue, Titusville, FL – servant le petit-déjeuner, des hamburgers, des fruits de mer, des steaks et des plats du jour faits maison depuis le premier jour.",
+      "category": "Food & Beverage",
       "website": "https://steves-family-diner.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T11:39:15.771310+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T13:53:22.149418+00:00"
     },
     {
       "name": "TalentIA",
@@ -183409,6 +183421,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-07T11:39:24.813883+00:00"
+    },
+    {
+      "name": "SarfAI",
+      "slug": "polsia-sarfai",
+      "website": "https://sarfai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T13:52:01.606449+00:00"
+    },
+    {
+      "name": "CreatorStack MENA",
+      "slug": "polsia-creatorstack-mena",
+      "website": "https://creatorstack-mena.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T13:52:01.979319+00:00"
+    },
+    {
+      "name": "SwitchForce Energy",
+      "slug": "polsia-switchforce-energy",
+      "website": "https://switchforce-energy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T13:52:07.350409+00:00"
+    },
+    {
+      "name": "CodeSentinel",
+      "slug": "polsia-codesentinel-1783432195126-hz85",
+      "website": "https://codesentinel-1783432195126-hz85.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T13:52:17.593928+00:00"
+    },
+    {
+      "name": "Ranked",
+      "slug": "polsia-ranked",
+      "website": "https://ranked.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T13:52:18.027901+00:00"
+    },
+    {
+      "name": "VoidSage",
+      "slug": "polsia-voidsage",
+      "website": "https://voidsage.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T13:52:28.342046+00:00"
+    },
+    {
+      "name": "Linka",
+      "slug": "polsia-linka",
+      "website": "https://linka.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T13:52:38.843167+00:00"
+    },
+    {
+      "name": "AutoBuy",
+      "slug": "polsia-autobuy",
+      "website": "https://autobuy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T13:52:44.220032+00:00"
+    },
+    {
+      "name": "Eli Pixler Films",
+      "slug": "polsia-eli-pixler-films",
+      "website": "https://eli-pixler-films.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T13:52:49.601016+00:00"
+    },
+    {
+      "name": "Clearafi",
+      "slug": "polsia-clearafi",
+      "website": "https://clearafi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T13:52:49.995852+00:00"
     }
   ]
 }
