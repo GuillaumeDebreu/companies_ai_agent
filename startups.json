@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T21:57:40.378906+00:00",
+  "last_updated": "2026-07-07T23:05:37.410580+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -183853,18 +183853,24 @@
     {
       "name": "EquiAlert",
       "slug": "polsia-equialert",
+      "description": "24/7 AI monitoring of Singapore equities with automated alerts and paper portfolio tracking.",
+      "description_fr": "Surveillance IA 24h/24 et 7j/7 des actions de Singapour avec alertes automatisées et suivi du portefeuille papier.",
+      "category": "AI & Machine Learning",
       "website": "https://equialert.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T21:55:18.513461+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T23:04:34.499401+00:00"
     },
     {
       "name": "AgentOS",
       "slug": "polsia-agentos-1783461267780-asvc",
+      "description": "AI agents that automate your entire business.",
+      "description_fr": "Des agents IA qui automatisent l'ensemble de votre entreprise.",
+      "category": "AI & Machine Learning",
       "website": "https://agentos-1783461267780-asvc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T21:55:23.968646+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T23:04:36.092825+00:00"
     },
     {
       "name": "Opsmind AI",
@@ -183877,58 +183883,159 @@
     {
       "name": "GaVi",
       "slug": "polsia-gavi",
+      "description": "MADE TO MATCH — Calzature artigianali italiane per coppie.",
+      "description_fr": "FAIT POUR ASSORTIR — Calzature artigianali italienne par coppie.",
+      "category": "Other",
       "website": "https://gavi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T21:55:34.791704+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T23:04:37.735698+00:00"
     },
     {
       "name": "Proxiate",
       "slug": "polsia-proxiate",
+      "description": "Technology venture in development.",
+      "description_fr": "Entreprise technologique en développement.",
+      "category": "Other",
       "website": "https://proxiate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T21:55:40.092051+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T23:04:39.063318+00:00"
     },
     {
       "name": "The Estate Hub",
       "slug": "polsia-the-estate-hub",
+      "description": "Warszawski ekspert w nieruchomościach premium. Sprzedaż, wynajem i zarządzanie najmem w segmencie premium.",
+      "description_fr": "Warszawski ekspert w nieruchomościach premium. Sprzedaż, wynajem et zarządzanie najmem w segment premium.",
+      "category": "Other",
       "website": "https://the-estate-hub.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T21:55:45.467782+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T23:04:40.301918+00:00"
     },
     {
       "name": "ReScale",
       "slug": "polsia-rescale",
+      "description": "The fully autonomous pre-owned electronics storefront.",
+      "description_fr": "La vitrine d'électronique d'occasion entièrement autonome.",
+      "category": "E-Commerce & Retail",
       "website": "https://rescale.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T21:55:51.025633+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T23:04:41.255599+00:00"
     },
     {
       "name": "TradeFlow Digital",
       "slug": "polsia-tradeflow-digital",
+      "description": "Measurable growth for trades businesses. Dominate local search, manage Google Local Service Ads, generate reviews, and turn social media into qualified leads.",
+      "description_fr": "Croissance mesurable pour les entreprises artisanales. Dominez la recherche locale, gérez les annonces de services locaux Google, générez des avis et transformez les réseaux sociaux en prospects qualifiés.",
+      "category": "Marketing & Advertising",
       "website": "https://tradeflow-digital.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T21:55:56.480457+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T23:04:41.820739+00:00"
     },
     {
       "name": "NicheStack",
       "slug": "polsia-nichestack-1783461043053-2pex",
+      "description": "Launch dropshipping stores built to scale.",
+      "description_fr": "Lancez des magasins dropshipping conçus à grande échelle.",
+      "category": "E-Commerce & Retail",
       "website": "https://nichestack-1783461043053-2pex.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T21:56:01.917863+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T23:04:43.354962+00:00"
     },
     {
       "name": "AlphaSync",
       "slug": "polsia-alphasync-2",
+      "description": "Autonomous AI trading agents that execute, learn, and report in real time.",
+      "description_fr": "Agents de trading IA autonomes qui exécutent, apprennent et génèrent des rapports en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://alphasync-2.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-07T23:04:44.259198+00:00"
+    },
+    {
+      "name": "Nexaflow",
+      "slug": "polsia-nexaflow-1783465416523-i7cw",
+      "website": "https://nexaflow-1783465416523-i7cw.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-07T21:56:07.455135+00:00"
+      "scraped_at": "2026-07-07T23:03:39.264722+00:00"
+    },
+    {
+      "name": "BuildSentinel",
+      "slug": "polsia-buildsentinel-3",
+      "website": "https://buildsentinel-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T23:03:39.579731+00:00"
+    },
+    {
+      "name": "VigilHealth",
+      "slug": "polsia-vigilhealth-5",
+      "website": "https://vigilhealth-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T23:03:40.071931+00:00"
+    },
+    {
+      "name": "ThermaEdge",
+      "slug": "polsia-thermaedge",
+      "website": "https://thermaedge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T23:03:45.565986+00:00"
+    },
+    {
+      "name": "FundSage",
+      "slug": "polsia-fundsage-2",
+      "website": "https://fundsage-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T23:03:45.961179+00:00"
+    },
+    {
+      "name": "Hunger AI Automation",
+      "slug": "polsia-hunger-ai-automation",
+      "website": "https://hunger-ai-automation.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T23:03:51.227847+00:00"
+    },
+    {
+      "name": "Stitch",
+      "slug": "polsia-stitch-3",
+      "website": "https://stitch-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T23:03:51.573780+00:00"
+    },
+    {
+      "name": "FieldFlow AI",
+      "slug": "polsia-fieldflow-ai-1783465169926-v4lj",
+      "website": "https://fieldflow-ai-1783465169926-v4lj.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T23:03:56.977736+00:00"
+    },
+    {
+      "name": "RegWatch AI",
+      "slug": "polsia-regwatch-ai-4",
+      "website": "https://regwatch-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T23:04:02.405320+00:00"
+    },
+    {
+      "name": "ResearchForge",
+      "slug": "polsia-researchforge-2",
+      "website": "https://researchforge-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T23:04:07.808677+00:00"
     }
   ]
 }
