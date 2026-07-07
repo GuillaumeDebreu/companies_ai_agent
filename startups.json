@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T03:31:15.420115+00:00",
+  "last_updated": "2026-07-07T05:31:08.542442+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -182994,34 +182994,46 @@
     {
       "name": "Current Pour Brewing Co.",
       "slug": "polsia-current-pour-brewing-co",
+      "description": "Crafted with conviction, poured with community. Small-batch ales and lagers brewed for people who value quality over quantity.",
+      "description_fr": "Conçu avec conviction, versé avec la communauté. Bières et bières blondes en petits lots brassées pour les personnes qui privilégient la qualité à la quantité.",
+      "category": "Real Estate",
       "website": "https://current-pour-brewing-co.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T01:21:48.293410+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T05:30:14.808092+00:00"
     },
     {
       "name": "UptimAI",
       "slug": "polsia-uptimai",
+      "description": "Autonomous API monitoring that files bugs and alerts teams the moment services go down.",
+      "description_fr": "Surveillance d'API autonome qui enregistre les bugs et alerte les équipes dès que les services tombent en panne.",
+      "category": "Software & SaaS",
       "website": "https://uptimai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T01:21:53.726604+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T05:30:16.674782+00:00"
     },
     {
       "name": "Synthex",
       "slug": "polsia-synthex-1783387198638-8l3c",
+      "description": "The autonomous operating system for modern enterprises.",
+      "description_fr": "Le système d'exploitation autonome pour les entreprises modernes.",
+      "category": "Other",
       "website": "https://synthex-1783387198638-8l3c.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T01:21:59.021796+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T05:30:18.197827+00:00"
     },
     {
       "name": "Mitolife",
       "slug": "polsia-mitolife",
+      "description": "Science-backed cellular health for energy, detox & longevity.",
+      "description_fr": "Santé cellulaire fondée sur la science pour l'énergie, la détox et la longévité.",
+      "category": "Health & Wellness",
       "website": "https://mitolife.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T01:22:04.542913+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T05:30:19.232372+00:00"
     },
     {
       "name": "Polsia App",
@@ -183037,34 +183049,46 @@
     {
       "name": "Screenshot Court",
       "slug": "polsia-screenshot-court",
+      "description": "Your AI court for text message drama. Upload a screenshot, get a verdict.",
+      "description_fr": "Votre tribunal d'IA pour les drames par SMS. Téléchargez une capture d'écran, obtenez un verdict.",
+      "category": "AI & Machine Learning",
       "website": "https://screenshot-court.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T01:22:20.470861+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T05:30:20.245860+00:00"
     },
     {
       "name": "SupplySentinel",
       "slug": "polsia-supplysentinel",
+      "description": "Autonomous AI agents watching supplier performance 24/7 — flagging risk and triggering renegotiations so furniture brands never miss a delivery.",
+      "description_fr": "Des agents d'IA autonomes surveillent les performances des fournisseurs 24h/24 et 7j/7, signalant les risques et déclenchant des renégociations afin que les marques de meubles ne manquent jamais une livraison.",
+      "category": "AI & Machine Learning",
       "website": "https://supplysentinel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T01:22:30.967509+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T05:30:21.632148+00:00"
     },
     {
       "name": "RiseStack",
       "slug": "polsia-risestack-3",
+      "description": "Turn your retail management skills into a tech career—no coding required.",
+      "description_fr": "Transformez vos compétences en gestion de vente au détail en une carrière technologique, sans aucun codage requis.",
+      "category": "E-Commerce & Retail",
       "website": "https://risestack-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T01:22:36.246911+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T05:30:23.769477+00:00"
     },
     {
       "name": "Oliver Planter Boxes",
       "slug": "polsia-oliver-planter-boxes",
+      "description": "Handcrafted planter boxes for gardens, patios, and indoor spaces.",
+      "description_fr": "Jardinières fabriquées à la main pour jardins, terrasses et espaces intérieurs.",
+      "category": "Other",
       "website": "https://oliver-planter-boxes.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T01:22:41.619465+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T05:30:25.000168+00:00"
     },
     {
       "name": "Favored Co.",
@@ -183076,6 +183100,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-07T01:24:20.607120+00:00"
+    },
+    {
+      "name": "FlowAI",
+      "slug": "polsia-flowai-5",
+      "website": "https://flowai-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T05:29:08.954042+00:00"
+    },
+    {
+      "name": "TaskIQ",
+      "slug": "polsia-taskiq",
+      "website": "https://taskiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T05:29:09.550648+00:00"
+    },
+    {
+      "name": "Theridion",
+      "slug": "polsia-theridion",
+      "website": "https://theridion.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T05:29:15.018781+00:00"
+    },
+    {
+      "name": "NexaFlow",
+      "slug": "polsia-nexaflow-1783401892268-2x60",
+      "website": "https://nexaflow-1783401892268-2x60.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T05:29:20.344273+00:00"
+    },
+    {
+      "name": "KontenCerdas",
+      "slug": "polsia-kontencerdas",
+      "website": "https://kontencerdas.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T05:29:25.853985+00:00"
+    },
+    {
+      "name": "BreezePod",
+      "slug": "polsia-breezepod",
+      "website": "https://breezepod.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T05:29:31.404080+00:00"
+    },
+    {
+      "name": "AU Investment Solutions",
+      "slug": "polsia-au-investment-solutions",
+      "description": "Spiritual memoirs and philosophical works exploring heritage, identity, and self-discovery through Haitian roots and ancestral wisdom.",
+      "description_fr": "Mémoires spirituelles et ouvrages philosophiques explorant le patrimoine, l'identité et la découverte de soi à travers les racines haïtiennes et la sagesse ancestrale.",
+      "category": "Finance & Fintech",
+      "website": "https://au-investment-solutions.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-07T05:29:32.999225+00:00"
+    },
+    {
+      "name": "SwiftShine Mobile Detailing",
+      "slug": "polsia-swiftshine-mobile-detailing",
+      "website": "https://swiftshine-mobile-detailing.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T05:29:38.554019+00:00"
+    },
+    {
+      "name": "PipelineIQ",
+      "slug": "polsia-pipelineiq-1783401629622-kmm2",
+      "website": "https://pipelineiq-1783401629622-kmm2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T05:29:44.050777+00:00"
+    },
+    {
+      "name": "OneStack",
+      "slug": "polsia-onestack-2",
+      "description": "The all-in-one growth platform for small businesses. Build websites, automate conversations, and scale operations — all from one place.",
+      "description_fr": "La plateforme de croissance tout-en-un pour les petites entreprises. Créez des sites Web, automatisez les conversations et faites évoluer les opérations, le tout à partir d'un seul endroit.",
+      "category": "Software & SaaS",
+      "website": "https://onestack-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-07T05:29:45.291257+00:00"
     }
   ]
 }
