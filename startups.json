@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T20:30:03.168410+00:00",
+  "last_updated": "2026-07-07T21:57:40.378906+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -183754,42 +183754,57 @@
     {
       "name": "FreshYield",
       "slug": "polsia-freshyield",
+      "description": "AI-powered production planning and scheduling for food businesses. Reduce waste, optimize labor, and align output with demand.",
+      "description_fr": "Planification et ordonnancement de la production basés sur l'IA pour les entreprises alimentaires. Réduisez le gaspillage, optimisez la main d’œuvre et alignez la production sur la demande.",
+      "category": "AI & Machine Learning",
       "website": "https://freshyield.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T20:27:41.509570+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T21:56:37.316497+00:00"
     },
     {
       "name": "ScholarScout",
       "slug": "polsia-scholarscout-2",
+      "description": "Your AI-powered research radar that never sleeps. Stay ahead with personalized discovery of papers, grants, and collaborations.",
+      "description_fr": "Votre radar de recherche alimenté par l'IA qui ne dort jamais. Gardez une longueur d'avance grâce à la découverte personnalisée des articles, des subventions et des collaborations.",
+      "category": "AI & Machine Learning",
       "website": "https://scholarscout-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T20:27:46.986202+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T21:56:38.389892+00:00"
     },
     {
       "name": "Rhythm",
       "slug": "polsia-rhythm-2",
+      "description": "Your day, intelligently reshuffled by how you actually live.",
+      "description_fr": "Votre journée, intelligemment repensée par votre façon de vivre réellement.",
+      "category": "Other",
       "website": "https://rhythm-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T20:27:52.355603+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T21:56:39.374157+00:00"
     },
     {
       "name": "Thea",
       "slug": "polsia-thea",
+      "description": "A board where who you want to become meets what you can afford.",
+      "description_fr": "Un conseil d'administration où celui que vous voulez devenir correspond à ce que vous pouvez vous permettre.",
+      "category": "Sustainability & Green",
       "website": "https://thea.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T20:27:57.815351+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T21:56:40.443472+00:00"
     },
     {
       "name": "Wagglebee",
       "slug": "polsia-wagglebee",
+      "description": "Activity-based communication for secure, collaborative teamwork.",
+      "description_fr": "Communication basée sur les activités pour un travail d'équipe sécurisé et collaboratif.",
+      "category": "Other",
       "website": "https://wagglebee.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T20:28:03.268936+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T21:56:41.841446+00:00"
     },
     {
       "name": "OpsPilot",
@@ -183805,26 +183820,115 @@
     {
       "name": "Subwise",
       "slug": "polsia-subwise-1783455937318-3j40",
+      "description": "Your AI copilot for subscription savings — monitors, cancels, and negotiates rates automatically.",
+      "description_fr": "Votre copilote IA pour les économies d'abonnement : surveille, annule et négocie automatiquement les tarifs.",
+      "category": "AI & Machine Learning",
       "website": "https://subwise-1783455937318-3j40.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T20:28:14.448253+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T21:56:43.248026+00:00"
     },
     {
       "name": "Full Partner Inc.",
       "slug": "polsia-full-partner-inc",
+      "description": "The all-in-one business platform that unifies your tools, data, and AI into one connected system.",
+      "description_fr": "La plateforme commerciale tout-en-un qui unifie vos outils, vos données et votre IA en un seul système connecté.",
+      "category": "AI & Machine Learning",
       "website": "https://full-partner-inc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-07T20:28:29.767395+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-07T21:56:45.395514+00:00"
     },
     {
       "name": "MeeShip.in",
       "slug": "polsia-meeshipin",
+      "description": "AI-powered image optimization that cuts Meesho shipping costs by ₹30–50 per order.",
+      "description_fr": "Optimisation d'image basée sur l'IA qui réduit les frais d'expédition de Meesho de 30 à 50 ₹ par commande.",
+      "category": "AI & Machine Learning",
       "website": "https://meeshipin.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-07T21:56:46.336429+00:00"
+    },
+    {
+      "name": "EquiAlert",
+      "slug": "polsia-equialert",
+      "website": "https://equialert.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-07T20:28:35.102368+00:00"
+      "scraped_at": "2026-07-07T21:55:18.513461+00:00"
+    },
+    {
+      "name": "AgentOS",
+      "slug": "polsia-agentos-1783461267780-asvc",
+      "website": "https://agentos-1783461267780-asvc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T21:55:23.968646+00:00"
+    },
+    {
+      "name": "Opsmind AI",
+      "slug": "polsia-opsmind-ai-7",
+      "website": "https://opsmind-ai-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T21:55:29.330886+00:00"
+    },
+    {
+      "name": "GaVi",
+      "slug": "polsia-gavi",
+      "website": "https://gavi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T21:55:34.791704+00:00"
+    },
+    {
+      "name": "Proxiate",
+      "slug": "polsia-proxiate",
+      "website": "https://proxiate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T21:55:40.092051+00:00"
+    },
+    {
+      "name": "The Estate Hub",
+      "slug": "polsia-the-estate-hub",
+      "website": "https://the-estate-hub.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T21:55:45.467782+00:00"
+    },
+    {
+      "name": "ReScale",
+      "slug": "polsia-rescale",
+      "website": "https://rescale.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T21:55:51.025633+00:00"
+    },
+    {
+      "name": "TradeFlow Digital",
+      "slug": "polsia-tradeflow-digital",
+      "website": "https://tradeflow-digital.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T21:55:56.480457+00:00"
+    },
+    {
+      "name": "NicheStack",
+      "slug": "polsia-nichestack-1783461043053-2pex",
+      "website": "https://nichestack-1783461043053-2pex.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T21:56:01.917863+00:00"
+    },
+    {
+      "name": "AlphaSync",
+      "slug": "polsia-alphasync-2",
+      "website": "https://alphasync-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-07T21:56:07.455135+00:00"
     }
   ]
 }
