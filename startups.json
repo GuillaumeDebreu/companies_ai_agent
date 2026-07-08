@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T03:45:30.332793+00:00",
+  "last_updated": "2026-07-08T06:19:26.156812+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -184168,42 +184168,57 @@
     {
       "name": "LokalSpot",
       "slug": "polsia-lokalspot",
+      "description": "Hyperlokale Werbeflächen für dein Viertel.",
+      "description_fr": "Hyperlokale Werbeflächen für dein Viertel.",
+      "category": "Other",
       "website": "https://lokalspot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T03:43:24.853055+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T06:18:24.951598+00:00"
     },
     {
       "name": "ReelBridge",
       "slug": "polsia-reelbridge-3",
+      "description": "Professional clip campaigns that bridge creators and clippers at scale.",
+      "description_fr": "Campagnes de clips professionnels qui relient les créateurs et les clippers à grande échelle.",
+      "category": "Marketing & Advertising",
       "website": "https://reelbridge-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T03:43:25.385075+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T06:18:26.687656+00:00"
     },
     {
       "name": "Heliosphere",
       "slug": "polsia-heliosphere",
+      "description": "Autonomous solar asset intelligence from inspection to optimization.",
+      "description_fr": "Intelligence autonome sur les actifs solaires, de l’inspection à l’optimisation.",
+      "category": "Sustainability & Green",
       "website": "https://heliosphere.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T03:43:25.916875+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T06:18:28.298267+00:00"
     },
     {
       "name": "Clearflow",
       "slug": "polsia-clearflow-1783482078964-dd9h",
+      "description": "Autonomous payment reconciliation and tax reminders for freelancers.",
+      "description_fr": "Rapprochement autonome des paiements et rappels fiscaux pour les indépendants.",
+      "category": "Finance & Fintech",
       "website": "https://clearflow-1783482078964-dd9h.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T03:43:31.254152+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T06:18:29.310807+00:00"
     },
     {
       "name": "RivalIQ",
       "slug": "polsia-rivaliq-4",
+      "description": "Real-time competitor intelligence, automated. AI-powered monitoring for SaaS teams.",
+      "description_fr": "Veille concurrentielle en temps réel, automatisée. Surveillance basée sur l'IA pour les équipes SaaS.",
+      "category": "Software & SaaS",
       "website": "https://rivaliq-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T03:43:36.576840+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T06:18:31.090174+00:00"
     },
     {
       "name": "Lucky Lure",
@@ -184241,18 +184256,104 @@
     {
       "name": "Not found",
       "slug": "polsia-not-found-3",
+      "description": "Information unavailable",
+      "description_fr": "Informations indisponibles",
+      "category": "Other",
       "website": "https://not-found-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T03:43:57.840475+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T06:18:32.136659+00:00"
     },
     {
       "name": "Aria",
       "slug": "polsia-aria-9",
+      "description": "Your autonomous AI productivity engine.",
+      "description_fr": "Votre moteur de productivité IA autonome.",
+      "category": "AI & Machine Learning",
       "website": "https://aria-9.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-08T06:18:33.236955+00:00"
+    },
+    {
+      "name": "NotifyBridge",
+      "slug": "polsia-notifybridge",
+      "website": "https://notifybridge.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-08T03:44:03.295529+00:00"
+      "scraped_at": "2026-07-08T06:17:06.973371+00:00"
+    },
+    {
+      "name": "Animora Studio",
+      "slug": "polsia-animora-studio",
+      "website": "https://animora-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T06:17:07.450708+00:00"
+    },
+    {
+      "name": "WagenCheck",
+      "slug": "polsia-wagencheck",
+      "website": "https://wagencheck.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T06:17:08.076265+00:00"
+    },
+    {
+      "name": "ComposeKit",
+      "slug": "polsia-composekit",
+      "website": "https://composekit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T06:17:13.404627+00:00"
+    },
+    {
+      "name": "FlowForge",
+      "slug": "polsia-flowforge-1783491372633-wg5h",
+      "website": "https://flowforge-1783491372633-wg5h.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T06:17:18.749077+00:00"
+    },
+    {
+      "name": "Connector",
+      "slug": "polsia-connector",
+      "website": "https://connector.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T06:17:24.206697+00:00"
+    },
+    {
+      "name": "Clarity",
+      "slug": "polsia-clarity-9",
+      "website": "https://clarity-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T06:17:29.672528+00:00"
+    },
+    {
+      "name": "DOC HUB",
+      "slug": "polsia-doc-hub",
+      "website": "https://doc-hub.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T06:17:35.196223+00:00"
+    },
+    {
+      "name": "PaperPulse",
+      "slug": "polsia-paperpulse-4",
+      "website": "https://paperpulse-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T06:17:40.576537+00:00"
+    },
+    {
+      "name": "All Pieces Fit",
+      "slug": "polsia-all-pieces-fit",
+      "website": "https://all-pieces-fit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T06:17:45.800198+00:00"
     }
   ]
 }
