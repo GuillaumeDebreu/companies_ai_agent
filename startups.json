@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T08:30:25.742257+00:00",
+  "last_updated": "2026-07-08T09:04:48.848912+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -184278,66 +184278,90 @@
     {
       "name": "NotifyBridge",
       "slug": "polsia-notifybridge",
+      "description": "Умная приоритизация и маршрутизация уведомлений с Amazon, eBay и Etsy в единый поток.",
+      "description_fr": "Il y a des priorités et des ventes en cours sur Amazon, eBay et Etsy dans les magasins populaires.",
+      "category": "Other",
       "website": "https://notifybridge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T06:17:06.973371+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T09:03:23.446347+00:00"
     },
     {
       "name": "Animora Studio",
       "slug": "polsia-animora-studio",
+      "description": "AI-powered 2D animation studio cho kênh YouTube toàn cầu. Giảm thời gian sản xuất từ hàng giờ xuống chưa đến 10 phút mỗi video.",
+      "description_fr": "Le studio d'animation 2D alimenté par l'IA utilise YouTube sur YouTube. Je vais vous proposer une vidéo de 10 minutes.",
+      "category": "AI & Machine Learning",
       "website": "https://animora-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T06:17:07.450708+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T09:03:25.508657+00:00"
     },
     {
       "name": "WagenCheck",
       "slug": "polsia-wagencheck",
+      "description": "Professionelle Kfz-Checklisten für Schrauber, Azubis und Autobesitzer.",
+      "description_fr": "Liste de contrôle professionnelle Kfz pour Schrauber, Azubis et Autobesitzer.",
+      "category": "Other",
       "website": "https://wagencheck.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T06:17:08.076265+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T09:03:27.046233+00:00"
     },
     {
       "name": "ComposeKit",
       "slug": "polsia-composekit",
+      "description": "Build websites from composable blocks — reuse everything, code never.",
+      "description_fr": "Créez des sites Web à partir de blocs composables : réutilisez tout, ne codez jamais.",
+      "category": "Other",
       "website": "https://composekit.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T06:17:13.404627+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T09:03:28.846326+00:00"
     },
     {
       "name": "FlowForge",
       "slug": "polsia-flowforge-1783491372633-wg5h",
+      "description": "Compose agent pipelines. Stay compliance-ready.",
+      "description_fr": "Composez des pipelines d’agents. Restez prêt à vous conformer.",
+      "category": "Sales & CRM",
       "website": "https://flowforge-1783491372633-wg5h.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T06:17:18.749077+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T09:03:30.177709+00:00"
     },
     {
       "name": "Connector",
       "slug": "polsia-connector",
+      "description": "Sync your property management software, even without an API",
+      "description_fr": "Synchronisez votre logiciel de gestion immobilière, même sans API",
+      "category": "Software & SaaS",
       "website": "https://connector.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T06:17:24.206697+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T09:03:32.463098+00:00"
     },
     {
       "name": "Clarity",
       "slug": "polsia-clarity-9",
+      "description": "Understand your phone habits. Improve your focus. Reclaim your time.",
+      "description_fr": "Comprenez vos habitudes téléphoniques. Améliorez votre concentration. Récupérez votre temps.",
+      "category": "Other",
       "website": "https://clarity-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T06:17:29.672528+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T09:03:34.420749+00:00"
     },
     {
       "name": "DOC HUB",
       "slug": "polsia-doc-hub",
+      "description": "AI-powered document creation for professionals who need more time and fewer deadlines.",
+      "description_fr": "Création de documents basée sur l'IA pour les professionnels qui ont besoin de plus de temps et de moins de délais.",
+      "category": "AI & Machine Learning",
       "website": "https://doc-hub.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-08T06:17:35.196223+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-08T09:03:36.384207+00:00"
     },
     {
       "name": "PaperPulse",
@@ -184350,10 +184374,93 @@
     {
       "name": "All Pieces Fit",
       "slug": "polsia-all-pieces-fit",
+      "description": "Empowering children with autism through personalized ABA therapy and skill-building for independent, meaningful lives.",
+      "description_fr": "Donner aux enfants autistes les moyens d’agir grâce à une thérapie ABA personnalisée et au développement de compétences pour une vie indépendante et pleine de sens.",
+      "category": "Health & Wellness",
       "website": "https://all-pieces-fit.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-08T09:03:39.145217+00:00"
+    },
+    {
+      "name": "Kim Counsel",
+      "slug": "polsia-kim-counsel",
+      "website": "https://kim-counsel.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-08T06:17:45.800198+00:00"
+      "scraped_at": "2026-07-08T09:02:02.278882+00:00"
+    },
+    {
+      "name": "ReviewPulse",
+      "slug": "polsia-reviewpulse-1783501283905-ws9r",
+      "website": "https://reviewpulse-1783501283905-ws9r.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T09:02:02.908455+00:00"
+    },
+    {
+      "name": "MicroStack AI",
+      "slug": "polsia-microstack-ai",
+      "website": "https://microstack-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T09:02:13.460036+00:00"
+    },
+    {
+      "name": "Sana Sana Retreat",
+      "slug": "polsia-sana-sana-retreat",
+      "website": "https://sana-sana-retreat.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T09:02:14.006606+00:00"
+    },
+    {
+      "name": "FestVibes",
+      "slug": "polsia-festvibes",
+      "website": "https://festvibes.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T09:02:19.573278+00:00"
+    },
+    {
+      "name": "Signature Rescue",
+      "slug": "polsia-signature-rescue",
+      "website": "https://signature-rescue.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T09:02:20.094234+00:00"
+    },
+    {
+      "name": "Gigs.ai",
+      "slug": "polsia-gigsai",
+      "website": "https://gigsai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T09:02:20.749090+00:00"
+    },
+    {
+      "name": "SmashCode",
+      "slug": "polsia-smashcode",
+      "website": "https://smashcode.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T09:02:26.217708+00:00"
+    },
+    {
+      "name": "Stoneform Academy",
+      "slug": "polsia-stoneform-academy",
+      "website": "https://stoneform-academy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T09:02:31.604991+00:00"
+    },
+    {
+      "name": "BandScout",
+      "slug": "polsia-bandscout",
+      "website": "https://bandscout.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-08T09:02:42.132870+00:00"
     }
   ]
 }
