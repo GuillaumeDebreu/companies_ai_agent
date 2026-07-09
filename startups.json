@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T15:12:15.911502+00:00",
+  "last_updated": "2026-07-09T16:50:01.388372+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -185844,12 +185844,15 @@
       "scraped_at": "2026-07-09T14:15:38.143007+00:00"
     },
     {
-      "name": "MassFlowOS",
+      "name": "MassFlowOS — Operating System for Mass & Mass",
       "slug": "polsia-massflowos",
+      "description": "Wilson built Mass & Mass from nothing. 10 years of showing up, estimating, managing crews, and chasing down leads. MassFlowOS doesn't replace that — it removes everything except the part that matters: the craft.",
+      "description_fr": "Wilson a construit Mass & Mass à partir de rien. 10 ans à se présenter, à estimer, à gérer des équipes et à traquer des leads. MassFlowOS ne remplace pas cela : il supprime tout sauf la partie qui compte : l'artisanat.",
+      "category": "Sales & CRM",
       "website": "https://massflowos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T14:15:38.578064+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T16:49:05.289097+00:00"
     },
     {
       "name": "PrintBaseOS",
@@ -185860,12 +185863,15 @@
       "scraped_at": "2026-07-09T14:15:39.091230+00:00"
     },
     {
-      "name": "DishplayOS",
+      "name": "SignalBoard — Restaurant Digital Signage",
       "slug": "polsia-dishplayos",
+      "description": "Cloud-based digital signage for restaurants. Update every screen across every location in seconds. No hardware, no service calls.",
+      "description_fr": "Affichage numérique basé sur le cloud pour les restaurants. Mettez à jour chaque écran sur chaque emplacement en quelques secondes. Pas de matériel, pas d'appels de service.",
+      "category": "Food & Beverage",
       "website": "https://dishplayos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T14:15:39.515596+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T16:49:06.951228+00:00"
     },
     {
       "name": "FieldLens",
@@ -185917,6 +185923,95 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-07-09T14:15:42.415599+00:00"
+    },
+    {
+      "name": "ZEMID – Zentrum für Mittelstand und Digitalisierung GmbH",
+      "slug": "polsia-zemid-zentrum-fr-mittelstand-und-digitalisierung-g",
+      "website": "https://zemid-zentrum-fr-mittelstand-und-digitalisierung-g.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T16:45:46.592987+00:00"
+    },
+    {
+      "name": "desplega.ai",
+      "slug": "polsia-desplegaai",
+      "website": "https://desplegaai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T16:45:47.148695+00:00"
+    },
+    {
+      "name": "BridgeOps Consulting",
+      "slug": "polsia-bridgeops-consulting",
+      "website": "https://bridgeops-consulting.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T16:45:52.509499+00:00"
+    },
+    {
+      "name": "HookDrop",
+      "slug": "polsia-hookdrop-3",
+      "website": "https://hookdrop-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T16:45:53.004415+00:00"
+    },
+    {
+      "name": "SourceEdge",
+      "slug": "polsia-sourceedge-2",
+      "website": "https://sourceedge-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T16:45:53.575741+00:00"
+    },
+    {
+      "name": "Backyard Bounce N Slide",
+      "slug": "polsia-backyard-bounce-n-slide",
+      "description": "York, PA's trusted source for bounce house and party rentals",
+      "description_fr": "York, la source fiable de Pennsylvanie pour la location de maisons gonflables et de fêtes",
+      "category": "Travel & Hospitality",
+      "website": "https://backyard-bounce-n-slide.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-09T16:49:48.807591+00:00"
+    },
+    {
+      "name": "GhostScan",
+      "slug": "polsia-ghostscan-2",
+      "website": "https://ghostscan-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T16:46:04.496696+00:00"
+    },
+    {
+      "name": "DentaScribe AI",
+      "slug": "polsia-dentascribe-ai",
+      "website": "https://dentascribe-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T16:46:10.067120+00:00"
+    },
+    {
+      "name": "TaxScale OS",
+      "slug": "polsia-taxscale-os",
+      "description": "The AI-powered operating system for growing tax and accounting firms.",
+      "description_fr": "Le système d'exploitation basé sur l'IA pour les cabinets fiscaux et comptables en croissance.",
+      "category": "AI & Machine Learning",
+      "website": "https://taxscale-os.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-09T16:50:00.347936+00:00"
+    },
+    {
+      "name": "FoundrBrief",
+      "slug": "polsia-foundrbrief",
+      "description": "Daily AI briefings on metrics, competitors, and investors for mom-founded startups.",
+      "description_fr": "Briefings quotidiens sur l'IA sur les indicateurs, les concurrents et les investisseurs pour les startups fondées par des mères.",
+      "category": "AI & Machine Learning",
+      "website": "https://foundrbrief.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-09T16:50:01.387324+00:00"
     }
   ]
 }
