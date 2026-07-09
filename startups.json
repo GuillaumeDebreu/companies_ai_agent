@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T03:24:18.523781+00:00",
+  "last_updated": "2026-07-09T05:14:16.887160+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -185466,10 +185466,13 @@
     {
       "name": "Edna Labs",
       "slug": "polsia-edna-labs",
+      "description": "Your voice, talking to your customers — at the moment it matters most. AI-powered voice feedback for DTC founders, independent designers, and artists.",
+      "description_fr": "Votre voix, parler à vos clients – c'est le moment le plus important. Commentaires vocaux basés sur l'IA pour les fondateurs de DTC, les designers indépendants et les artistes.",
+      "category": "AI & Machine Learning",
       "website": "https://edna-labs.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T01:15:24.988542+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T05:12:43.213430+00:00"
     },
     {
       "name": "Inkborne Studios",
@@ -185506,18 +185509,24 @@
     {
       "name": "AllFieldsPro",
       "slug": "polsia-allfieldspro",
+      "description": "The all-in-one youth sports platform built for every role, every sport, every field.",
+      "description_fr": "La plateforme sportive tout-en-un pour les jeunes, conçue pour chaque rôle, chaque sport, chaque domaine.",
+      "category": "Software & SaaS",
       "website": "https://allfieldspro.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T01:15:51.873132+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T05:13:06.190306+00:00"
     },
     {
       "name": "ShopFlow AI",
       "slug": "polsia-shopflow-ai",
+      "description": "AI automation built for repair shops, trucking fleets, and the trades. 24/7 AI customer service, automated booking, and smart follow-up — purpose-built for the shop floor.",
+      "description_fr": "Automatisation de l'IA conçue pour les ateliers de réparation, les flottes de camions et les métiers. Service client IA 24h/24 et 7j/7, réservation automatisée et suivi intelligent, spécialement conçus pour l'atelier.",
+      "category": "AI & Machine Learning",
       "website": "https://shopflow-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T01:15:57.253115+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T05:13:08.188948+00:00"
     },
     {
       "name": "PageStage",
@@ -185534,6 +185543,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-07-09T01:16:08.002878+00:00"
+    },
+    {
+      "name": "PartsFInd",
+      "slug": "polsia-partsfind",
+      "website": "https://partsfind.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T05:10:39.841432+00:00"
+    },
+    {
+      "name": "Aevora",
+      "slug": "polsia-aevora",
+      "website": "https://aevora.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T05:10:45.180806+00:00"
+    },
+    {
+      "name": "Rayuqi",
+      "slug": "polsia-rayuqi",
+      "website": "https://rayuqi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T05:10:50.451032+00:00"
+    },
+    {
+      "name": "AgentBay",
+      "slug": "polsia-agentbay-3",
+      "website": "https://agentbay-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T05:10:55.967612+00:00"
+    },
+    {
+      "name": "Honeymoon.com",
+      "slug": "polsia-honeymooncom",
+      "website": "https://honeymooncom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T05:11:01.306898+00:00"
+    },
+    {
+      "name": "FlowForge AI",
+      "slug": "polsia-flowforge-ai-1783573630239-zhd2",
+      "website": "https://flowforge-ai-1783573630239-zhd2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T05:11:06.656107+00:00"
+    },
+    {
+      "name": "RacePilot AI",
+      "slug": "polsia-racepilot-ai",
+      "website": "https://racepilot-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T05:11:12.109503+00:00"
+    },
+    {
+      "name": "ClearHaul PDX",
+      "slug": "polsia-clearhaul-pdx",
+      "website": "https://clearhaul-pdx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T05:11:17.403908+00:00"
+    },
+    {
+      "name": "Williamstown Epoxy Floors",
+      "slug": "polsia-williamstown-epoxy-floors",
+      "website": "https://williamstown-epoxy-floors.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T05:11:22.806856+00:00"
+    },
+    {
+      "name": "Velour",
+      "slug": "polsia-velour-9",
+      "website": "https://velour-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T05:11:33.306451+00:00"
     }
   ]
 }
