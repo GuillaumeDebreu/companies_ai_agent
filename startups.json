@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T19:47:47.465481+00:00",
+  "last_updated": "2026-07-09T20:30:35.254593+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -186034,10 +186034,13 @@
     {
       "name": "TradeMind",
       "slug": "polsia-trademind-3",
+      "description": "Your calls answered, quotes sent, invoices chased — all on autopilot. The flat-fee managed admin service built for UK sole-trader tradespeople.",
+      "description_fr": "Vos appels répondus, devis envoyés, factures recherchées, le tout en pilote automatique. Le service d'administration géré à forfait conçu pour les artisans indépendants du Royaume-Uni.",
+      "category": "Finance & Fintech",
       "website": "https://trademind-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T18:31:15.305739+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T20:29:36.615055+00:00"
     },
     {
       "name": "Apex Ventures Studio",
@@ -186050,66 +186053,170 @@
     {
       "name": "ShiftSync",
       "slug": "polsia-shiftsync-8",
+      "description": "AI-powered API change tracking, migration guides, and compatibility adapters for development teams.",
+      "description_fr": "Suivi des modifications d'API basé sur l'IA, guides de migration et adaptateurs de compatibilité pour les équipes de développement.",
+      "category": "Software & SaaS",
       "website": "https://shiftsync-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T18:31:21.262488+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T20:29:38.119956+00:00"
     },
     {
       "name": "MillionIdea",
       "slug": "polsia-millionidea",
+      "description": "AI-powered startup idea generation for ambitious founders.",
+      "description_fr": "Génération d'idées de startup basée sur l'IA pour les fondateurs ambitieux.",
+      "category": "AI & Machine Learning",
       "website": "https://millionidea.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T18:31:26.663661+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T20:29:39.483172+00:00"
     },
     {
       "name": "Relaybox",
       "slug": "polsia-relaybox-3",
+      "description": "Relaybox is an AI email agent that autonomously handles your inbox — extracting actionable items, making decisions based on your preferences, and delivering a clear daily digest.",
+      "description_fr": "Relaybox est un agent de messagerie IA qui gère de manière autonome votre boîte de réception : il extrait des éléments exploitables, prend des décisions en fonction de vos préférences et fournit un résumé quotidien clair.",
+      "category": "AI & Machine Learning",
       "website": "https://relaybox-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T18:31:27.200926+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T20:29:41.172076+00:00"
     },
     {
       "name": "Terminus",
       "slug": "polsia-terminus",
+      "description": "AI deal sourcing that never sleeps — so you never miss the right deal.",
+      "description_fr": "Une recherche de transactions par l'IA qui ne dort jamais, pour que vous ne manquiez jamais la bonne affaire.",
+      "category": "AI & Machine Learning",
       "website": "https://terminus.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T18:31:27.731664+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T20:29:42.159172+00:00"
     },
     {
       "name": "PlaySeed Studio",
       "slug": "polsia-playseed-studio",
+      "description": "Your game ideas, professionally built — no coding required.",
+      "description_fr": "Vos idées de jeux, conçues par des professionnels – aucun codage requis.",
+      "category": "Other",
       "website": "https://playseed-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T18:31:28.238108+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T20:29:43.090431+00:00"
     },
     {
       "name": "NeuronFlow",
       "slug": "polsia-neuronflow-2",
+      "description": "AI-powered workflows that save businesses 20+ hours every week.",
+      "description_fr": "Des flux de travail basés sur l'IA qui font gagner aux entreprises plus de 20 heures chaque semaine.",
+      "category": "AI & Machine Learning",
       "website": "https://neuronflow-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T18:31:28.784971+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T20:29:44.308722+00:00"
     },
     {
       "name": "Tale & Tail Coffee",
       "slug": "polsia-tale-tail-coffee",
+      "description": "Premium coffee with purpose — every cup fuels a happy ending.",
+      "description_fr": "Un café de qualité supérieure avec un but : chaque tasse alimente une fin heureuse.",
+      "category": "Food & Beverage",
       "website": "https://tale-tail-coffee.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T18:31:29.289233+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T20:29:45.436748+00:00"
     },
     {
       "name": "TeamForge Cyprus",
       "slug": "polsia-teamforge-cyprus",
+      "description": "Immersive teambuilding for tech & fintech teams across Europe.",
+      "description_fr": "Teambuilding immersif pour les équipes tech et fintech à travers l'Europe.",
+      "category": "Finance & Fintech",
       "website": "https://teamforge-cyprus.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-09T20:29:46.547097+00:00"
+    },
+    {
+      "name": "RavenWolf LLC",
+      "slug": "polsia-ravenwolf-llc",
+      "website": "https://ravenwolf-llc.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-09T18:31:29.794376+00:00"
+      "scraped_at": "2026-07-09T20:26:22.549852+00:00"
+    },
+    {
+      "name": "RispondiOra",
+      "slug": "polsia-rispondiora",
+      "website": "https://rispondiora.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T20:26:27.960153+00:00"
+    },
+    {
+      "name": "Rebel Regalia",
+      "slug": "polsia-rebel-regalia",
+      "website": "https://rebel-regalia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T20:26:28.454646+00:00"
+    },
+    {
+      "name": "King Contractor Agency",
+      "slug": "polsia-king-contractor-agency",
+      "website": "https://king-contractor-agency.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T20:26:28.958323+00:00"
+    },
+    {
+      "name": "Outbound",
+      "slug": "polsia-outbound-8",
+      "website": "https://outbound-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T20:26:34.265865+00:00"
+    },
+    {
+      "name": "FetchNow",
+      "slug": "polsia-fetchnow",
+      "website": "https://fetchnow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T20:26:34.757111+00:00"
+    },
+    {
+      "name": "NicheStack AI",
+      "slug": "polsia-nichestack-ai-3",
+      "website": "https://nichestack-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T20:26:35.805842+00:00"
+    },
+    {
+      "name": "Perpetua",
+      "slug": "polsia-perpetua-1783628503393-4bn9",
+      "website": "https://perpetua-1783628503393-4bn9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T20:26:41.162828+00:00"
+    },
+    {
+      "name": "Asset.ops",
+      "slug": "polsia-assetops",
+      "website": "https://assetops.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T20:26:46.556228+00:00"
+    },
+    {
+      "name": "NicheDrop",
+      "slug": "polsia-nichedrop-2",
+      "website": "https://nichedrop-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T20:26:52.024293+00:00"
     }
   ]
 }
