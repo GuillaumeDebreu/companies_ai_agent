@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T16:50:01.388372+00:00",
+  "last_updated": "2026-07-09T18:35:43.176556+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -185925,28 +185925,37 @@
       "scraped_at": "2026-07-09T14:15:42.415599+00:00"
     },
     {
-      "name": "ZEMID – Zentrum für Mittelstand und Digitalisierung GmbH",
+      "name": "ZEMID",
       "slug": "polsia-zemid-zentrum-fr-mittelstand-und-digitalisierung-g",
+      "description": "Zentrum für Mittelstand und Digitalisierung GmbH — Digitale Transformation und regulatorische Compliance für den gehobenen Mittelstand.",
+      "description_fr": "Zentrum für Mittelstand und Digitalisierung GmbH — Transformation numérique et conformité réglementaire pour le grand stand.",
+      "category": "Other",
       "website": "https://zemid-zentrum-fr-mittelstand-und-digitalisierung-g.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T16:45:46.592987+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T18:34:18.003291+00:00"
     },
     {
       "name": "desplega.ai",
       "slug": "polsia-desplegaai",
+      "description": "Automated end-to-end testing without scripting — AI-powered QA for developers and teams.",
+      "description_fr": "Tests automatisés de bout en bout sans script : assurance qualité basée sur l'IA pour les développeurs et les équipes.",
+      "category": "AI & Machine Learning",
       "website": "https://desplegaai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T16:45:47.148695+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T18:34:19.247371+00:00"
     },
     {
       "name": "BridgeOps Consulting",
       "slug": "polsia-bridgeops-consulting",
+      "description": "Independent operations expertise helping mid-market companies modernize logistics, supply chain, and warehouse automation.",
+      "description_fr": "Une expertise opérationnelle indépendante aidant les entreprises de taille moyenne à moderniser la logistique, la chaîne d'approvisionnement et l'automatisation des entrepôts.",
+      "category": "Logistics & Supply Chain",
       "website": "https://bridgeops-consulting.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T16:45:52.509499+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T18:34:20.408827+00:00"
     },
     {
       "name": "HookDrop",
@@ -185959,10 +185968,13 @@
     {
       "name": "SourceEdge",
       "slug": "polsia-sourceedge-2",
+      "description": "AI-powered procurement intelligence that monitors prices, tracks contracts, and auto-renegotiates savings.",
+      "description_fr": "Des renseignements sur les achats basés sur l'IA qui surveillent les prix, suivent les contrats et renégocient automatiquement les économies.",
+      "category": "AI & Machine Learning",
       "website": "https://sourceedge-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T16:45:53.575741+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T18:34:22.234420+00:00"
     },
     {
       "name": "Backyard Bounce N Slide",
@@ -185978,18 +185990,24 @@
     {
       "name": "GhostScan",
       "slug": "polsia-ghostscan-2",
+      "description": "AI-powered account discovery, cancellation, and breach monitoring. Find forgotten subscriptions draining your wallet and stop credential-stuffing attacks before they happen.",
+      "description_fr": "Découverte, annulation et surveillance des violations de compte basées sur l'IA. Trouvez les abonnements oubliés qui drainent votre portefeuille et stoppez les attaques de type credential stuffing avant qu'elles ne se produisent.",
+      "category": "AI & Machine Learning",
       "website": "https://ghostscan-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T16:46:04.496696+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T18:34:23.097074+00:00"
     },
     {
       "name": "DentaScribe AI",
       "slug": "polsia-dentascribe-ai",
+      "description": "AI-powered clinical documentation for modern dental practices.",
+      "description_fr": "Documentation clinique basée sur l'IA pour les cabinets dentaires modernes.",
+      "category": "AI & Machine Learning",
       "website": "https://dentascribe-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T16:46:10.067120+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T18:34:23.929737+00:00"
     },
     {
       "name": "TaxScale OS",
@@ -186012,6 +186030,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-09T16:50:01.387324+00:00"
+    },
+    {
+      "name": "TradeMind",
+      "slug": "polsia-trademind-3",
+      "website": "https://trademind-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T18:31:15.305739+00:00"
+    },
+    {
+      "name": "Apex Ventures Studio",
+      "slug": "polsia-apex-ventures-studio",
+      "website": "https://apex-ventures-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T18:31:15.818408+00:00"
+    },
+    {
+      "name": "ShiftSync",
+      "slug": "polsia-shiftsync-8",
+      "website": "https://shiftsync-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T18:31:21.262488+00:00"
+    },
+    {
+      "name": "MillionIdea",
+      "slug": "polsia-millionidea",
+      "website": "https://millionidea.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T18:31:26.663661+00:00"
+    },
+    {
+      "name": "Relaybox",
+      "slug": "polsia-relaybox-3",
+      "website": "https://relaybox-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T18:31:27.200926+00:00"
+    },
+    {
+      "name": "Terminus",
+      "slug": "polsia-terminus",
+      "website": "https://terminus.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T18:31:27.731664+00:00"
+    },
+    {
+      "name": "PlaySeed Studio",
+      "slug": "polsia-playseed-studio",
+      "website": "https://playseed-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T18:31:28.238108+00:00"
+    },
+    {
+      "name": "NeuronFlow",
+      "slug": "polsia-neuronflow-2",
+      "website": "https://neuronflow-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T18:31:28.784971+00:00"
+    },
+    {
+      "name": "Tale & Tail Coffee",
+      "slug": "polsia-tale-tail-coffee",
+      "website": "https://tale-tail-coffee.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T18:31:29.289233+00:00"
+    },
+    {
+      "name": "TeamForge Cyprus",
+      "slug": "polsia-teamforge-cyprus",
+      "website": "https://teamforge-cyprus.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T18:31:29.794376+00:00"
     }
   ]
 }
