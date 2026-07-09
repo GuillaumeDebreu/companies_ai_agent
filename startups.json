@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T09:41:04.340613+00:00",
+  "last_updated": "2026-07-09T11:41:36.986358+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -185639,10 +185639,13 @@
     {
       "name": "CredentialOS",
       "slug": "polsia-credentialos-2",
+      "description": "Autonomous credential intelligence for AI agents and SaaS stacks. Replace static passwords with policy-bound, just-in-time credentials that adapt in real time.",
+      "description_fr": "Intelligence d’identification autonome pour les agents IA et les piles SaaS. Remplacez les mots de passe statiques par des informations d'identification juste-à-temps, liées à des politiques, qui s'adaptent en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://credentialos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T08:50:06.717546+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T11:40:55.687634+00:00"
     },
     {
       "name": "InjectPen",
@@ -185658,18 +185661,24 @@
     {
       "name": "AppForge",
       "slug": "polsia-appforge-1783586921478-u7ws",
+      "description": "Turn your ideas into Android apps—no coding needed.",
+      "description_fr": "Transformez vos idées en applications Android, sans aucun codage nécessaire.",
+      "category": "Other",
       "website": "https://appforge-1783586921478-u7ws.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T08:50:22.548116+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T11:40:56.781920+00:00"
     },
     {
       "name": "SortStack",
       "slug": "polsia-sortstack",
+      "description": "AI-powered resume categorization — upload once, instantly route every applicant to the right job.",
+      "description_fr": "Catégorisation des CV basée sur l'IA : téléchargez-les une seule fois et orientez instantanément chaque candidat vers le bon emploi.",
+      "category": "AI & Machine Learning",
       "website": "https://sortstack.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T08:50:33.043750+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-09T11:40:58.000059+00:00"
     },
     {
       "name": "Designer Duo",
@@ -185730,6 +185739,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-09T08:50:44.741275+00:00"
+    },
+    {
+      "name": "AdPulse AI",
+      "slug": "polsia-adpulse-ai-1783597061130-w6h0",
+      "website": "https://adpulse-ai-1783597061130-w6h0.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T11:38:16.843398+00:00"
+    },
+    {
+      "name": "Brandloom",
+      "slug": "polsia-brandloom-2",
+      "website": "https://brandloom-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T11:38:22.215598+00:00"
+    },
+    {
+      "name": "Vigilant AI",
+      "slug": "polsia-vigilant-ai-1783596945007-ixo5",
+      "description": "Autonomous defense intelligence agents that monitor global technology developments and alert contractors to emerging opportunities.",
+      "description_fr": "Des agents autonomes du renseignement de défense qui surveillent les développements technologiques mondiaux et alertent les sous-traitants des opportunités émergentes.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigilant-ai-1783596945007-ixo5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-09T11:41:20.308362+00:00"
+    },
+    {
+      "name": "Vestry",
+      "slug": "polsia-vestry-1783596897474-lz3f",
+      "website": "https://vestry-1783596897474-lz3f.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T11:38:32.920663+00:00"
+    },
+    {
+      "name": "TwoKey",
+      "slug": "polsia-twokey",
+      "website": "https://twokey.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T11:38:33.369286+00:00"
+    },
+    {
+      "name": "The Feels Apparel",
+      "slug": "polsia-the-feels-apparel",
+      "website": "https://the-feels-apparel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T11:38:33.967623+00:00"
+    },
+    {
+      "name": "Townsend AI Works",
+      "slug": "polsia-townsend-ai-works",
+      "website": "https://townsend-ai-works.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T11:38:39.421492+00:00"
+    },
+    {
+      "name": "ContractWatch AI",
+      "slug": "polsia-contractwatch-ai",
+      "description": "24/7 AI monitoring for small business government contract opportunities.",
+      "description_fr": "Surveillance de l'IA 24h/24 et 7j/7 pour les opportunités de contrats gouvernementaux avec les petites entreprises.",
+      "category": "AI & Machine Learning",
+      "website": "https://contractwatch-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-09T11:38:40.551923+00:00"
+    },
+    {
+      "name": "HackForge",
+      "slug": "polsia-hackforge-5",
+      "description": "AI-powered cybersecurity knowledge that updates itself in real time.",
+      "description_fr": "Des connaissances en cybersécurité basées sur l'IA qui se mettent à jour en temps réel.",
+      "category": "AI & Machine Learning",
+      "website": "https://hackforge-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-09T11:38:41.638333+00:00"
+    },
+    {
+      "name": "LetsInnovate",
+      "slug": "polsia-letsinnovate",
+      "website": "https://letsinnovate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-09T11:38:47.000424+00:00"
     }
   ]
 }
