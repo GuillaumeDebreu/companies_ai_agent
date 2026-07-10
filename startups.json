@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T09:36:55.175692+00:00",
+  "last_updated": "2026-07-10T11:35:17.737316+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -185593,10 +185593,13 @@
     {
       "name": "FlowForge AI",
       "slug": "polsia-flowforge-ai-1783573630239-zhd2",
+      "description": "AI-powered automation that runs your business while you focus on growing it.",
+      "description_fr": "Une automatisation basée sur l'IA qui gère votre entreprise pendant que vous vous concentrez sur sa croissance.",
+      "category": "AI & Machine Learning",
       "website": "https://flowforge-ai-1783573630239-zhd2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-09T05:11:06.656107+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T11:34:15.190916+00:00"
     },
     {
       "name": "RacePilot AI",
@@ -186685,18 +186688,24 @@
     {
       "name": "PrivateStack",
       "slug": "polsia-privatestack",
+      "description": "Launch your own brand empire without the manufacturing headaches. Source winning products, sell through viral social channels, and build a sustainable brand.",
+      "description_fr": "Lancez votre propre empire de marque sans les soucis de fabrication. Trouvez des produits gagnants, vendez via des réseaux sociaux viraux et construisez une marque durable.",
+      "category": "Marketing & Advertising",
       "website": "https://privatestack.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T08:37:17.187707+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T11:35:02.203695+00:00"
     },
     {
       "name": "Amra",
       "slug": "polsia-amra",
+      "description": "Bangladeshi Heritage. Islamic Soul. Premium t-shirts celebrating Islamic calligraphy infused with traditional Bangladeshi motifs.",
+      "description_fr": "Patrimoine bangladais. Âme islamique. Des t-shirts haut de gamme célébrant la calligraphie islamique imprégnée de motifs traditionnels bangladais.",
+      "category": "Other",
       "website": "https://amra.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T08:37:17.593585+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T11:35:04.189779+00:00"
     },
     {
       "name": "BidForge",
@@ -186785,6 +186794,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-10T08:40:55.093310+00:00"
+    },
+    {
+      "name": "AdAlchemist",
+      "slug": "polsia-adalchemist",
+      "website": "https://adalchemist.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T11:32:31.060801+00:00"
+    },
+    {
+      "name": "Assadura.ai",
+      "slug": "polsia-assaduraai",
+      "website": "https://assaduraai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T11:32:36.592049+00:00"
+    },
+    {
+      "name": "PromptPack Studios",
+      "slug": "polsia-promptpack-studios",
+      "description": "Curated, genre-specific prompt templates that help musicians and content creators produce professional-quality AI-generated music.",
+      "description_fr": "Des modèles d'invites sélectionnés et spécifiques à un genre qui aident les musiciens et les créateurs de contenu à produire de la musique générée par l'IA de qualité professionnelle.",
+      "category": "Entertainment & Media",
+      "website": "https://promptpack-studios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T11:35:17.159815+00:00"
+    },
+    {
+      "name": "SourceIQ",
+      "slug": "polsia-sourceiq-1783682908527-g1it",
+      "description": "Autonomous AI agents that source, negotiate, and fulfill wholesale orders 24/7.",
+      "description_fr": "Des agents d'IA autonomes qui recherchent, négocient et exécutent les commandes en gros 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://sourceiq-1783682908527-g1it.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T11:32:48.422440+00:00"
+    },
+    {
+      "name": "Bold Money Co",
+      "slug": "polsia-bold-money-co",
+      "description": "Monetization tools for bold creators.",
+      "description_fr": "Outils de monétisation pour les créateurs audacieux.",
+      "category": "Other",
+      "website": "https://bold-money-co.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T11:32:49.907201+00:00"
+    },
+    {
+      "name": "ReconSync AI",
+      "slug": "polsia-reconsync-ai-3",
+      "website": "https://reconsync-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T11:32:50.698007+00:00"
+    },
+    {
+      "name": "Autocode",
+      "slug": "polsia-autocode",
+      "description": "Autonomous CI/CD — bugs fixed, performance optimized, always deployment-ready.",
+      "description_fr": "CI/CD autonome : bugs corrigés, performances optimisées, toujours prêt à être déployé.",
+      "category": "Other",
+      "website": "https://autocode.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T11:32:51.889575+00:00"
+    },
+    {
+      "name": "Widgetly.co",
+      "slug": "polsia-widgetlyco",
+      "description": "Professionelle Widgets zur Erweiterung von Notion-Seiten – Zeitverfolgung, KPI-Dashboards, PayPal-Buttons und mehr.",
+      "description_fr": "Widgets professionnels pour l'utilisation des pages de notions – Analyse du temps, tableaux de bord KPI, boutons PayPal et plus encore.",
+      "category": "Software & SaaS",
+      "website": "https://widgetlyco.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T11:32:53.528527+00:00"
+    },
+    {
+      "name": "FixMate",
+      "slug": "polsia-fixmate-8",
+      "description": "Home repairs made fast and simple — book vetted handymen in minutes, not days.",
+      "description_fr": "Les réparations domiciliaires sont simples et rapides : réservez des services à des bricoleurs agréés en quelques minutes, et non en quelques jours.",
+      "category": "Other",
+      "website": "https://fixmate-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T11:32:54.612697+00:00"
+    },
+    {
+      "name": "ProcesSchoenen",
+      "slug": "polsia-processchoenen",
+      "description": "Processgerichte schoenmode voor de perfecte pasvorm.",
+      "description_fr": "Mode de sélection du processus pour un passvorm parfait.",
+      "category": "Other",
+      "website": "https://processchoenen.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T11:32:55.675231+00:00"
     }
   ]
 }
