@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T19:38:02.334073+00:00",
+  "last_updated": "2026-07-10T20:54:25.321122+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -187235,18 +187235,24 @@
     {
       "name": "EngageIQ",
       "slug": "polsia-engageiq-4",
+      "description": "Autonomous AI that continuously optimizes your email, SMS, and WhatsApp marketing in real time.",
+      "description_fr": "Une IA autonome qui optimise en permanence votre marketing par e-mail, SMS et WhatsApp en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://engageiq-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T19:35:15.282609+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T20:54:06.591629+00:00"
     },
     {
       "name": "The Lived Word",
       "slug": "polsia-the-lived-word",
+      "description": "Original, uplifting words for the world to wear, share, and live by.",
+      "description_fr": "Des mots originaux et édifiants que le monde peut porter, partager et vivre.",
+      "category": "Other",
       "website": "https://the-lived-word.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T19:35:15.835385+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T20:54:07.633051+00:00"
     },
     {
       "name": "Aguaflow",
@@ -187262,10 +187268,13 @@
     {
       "name": "ShiftGenius",
       "slug": "polsia-shiftgenius-2",
+      "description": "Autonomous AI scheduling, training, and performance tracking for retail shift workers.",
+      "description_fr": "Planification, formation et suivi des performances par IA autonome pour les travailleurs postés du commerce de détail.",
+      "category": "AI & Machine Learning",
       "website": "https://shiftgenius-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T19:35:23.324485+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T20:54:08.405913+00:00"
     },
     {
       "name": "Partaaf",
@@ -187332,6 +187341,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-10T19:35:47.523454+00:00"
+    },
+    {
+      "name": "Spark AI Studio",
+      "slug": "polsia-spark-ai-studio",
+      "website": "https://spark-ai-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T20:51:38.036234+00:00"
+    },
+    {
+      "name": "AIEmployee",
+      "slug": "polsia-aiemployee",
+      "website": "https://aiemployee.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T20:51:43.456221+00:00"
+    },
+    {
+      "name": "CelestialMapa",
+      "slug": "polsia-celestialmapa",
+      "description": "Donde las estrellas encuentran su destino en el tarot — un mazo de tarot astrológico que fusiona la sabiduría ancestral con el simbolismo del Arcanum Mayor.",
+      "description_fr": "Voici les étoiles qui rencontrent votre destin dans le tarot — un jeu de tarot astrologique qui fusionne la sabidurie ancestrale avec le symbole de l'Arcane Majeur.",
+      "category": "Other",
+      "website": "https://celestialmapa.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T20:54:20.195379+00:00"
+    },
+    {
+      "name": "FemmeWealth",
+      "slug": "polsia-femmewealth",
+      "description": "Plain-language AI investing built for women and minorities.",
+      "description_fr": "L'investissement dans l'IA en langage simple est conçu pour les femmes et les minorités.",
+      "category": "AI & Machine Learning",
+      "website": "https://femmewealth.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T20:54:21.663502+00:00"
+    },
+    {
+      "name": "Adressa.cz",
+      "slug": "polsia-adressacz",
+      "description": "Find trusted local service professionals across the Czech Republic. Discover electricians, plumbers, dentists, movers, and more in 25 cities.",
+      "description_fr": "Trouvez des professionnels de service locaux de confiance dans toute la République tchèque. Découvrez des électriciens, des plombiers, des dentistes, des déménageurs et bien plus encore dans 25 villes.",
+      "category": "Other",
+      "website": "https://adressacz.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T20:54:22.588471+00:00"
+    },
+    {
+      "name": "RetailSentinel",
+      "slug": "polsia-retailsentinel-2",
+      "description": "Autonomous AI agents protecting multi-site retail networks around the clock.",
+      "description_fr": "Des agents d'IA autonomes protégeant les réseaux de vente au détail multi-sites 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://retailsentinel-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T20:54:23.087161+00:00"
+    },
+    {
+      "name": "Circle",
+      "slug": "polsia-circle",
+      "description": "Your next relationship starts with a friend's introduction. A dating app where friends play matchmaker through a trusted network.",
+      "description_fr": "Votre prochaine relation commence par la présentation d'un ami. Une application de rencontres où des amis jouent aux entremetteurs via un réseau de confiance.",
+      "category": "Social & Community",
+      "website": "https://circle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T20:54:23.981164+00:00"
+    },
+    {
+      "name": "CertiFlow",
+      "slug": "polsia-certiflow-2",
+      "description": "Supervision et renouvellement automatisé des certificats SSL/TLS par des agents IA.",
+      "description_fr": "Supervision et renouvellement automatisé des certificats SSL/TLS par des agents IA.",
+      "category": "Other",
+      "website": "https://certiflow-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T20:54:25.318885+00:00"
+    },
+    {
+      "name": "PracticeSafe",
+      "slug": "polsia-practicesafe",
+      "description": "AI-powered compliance for small healthcare practices. Automatically track license renewals, staff certifications, and required trainings.",
+      "description_fr": "Conformité basée sur l'IA pour les petits cabinets de soins de santé. Suivez automatiquement les renouvellements de licence, les certifications du personnel et les formations requises.",
+      "category": "Health & Wellness",
+      "website": "https://practicesafe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T20:52:16.775463+00:00"
+    },
+    {
+      "name": "Trade Academy",
+      "slug": "polsia-trade-academy",
+      "description": "AI-powered trading discipline for the next generation of traders.",
+      "description_fr": "Discipline de trading basée sur l'IA pour la prochaine génération de traders.",
+      "category": "AI & Machine Learning",
+      "website": "https://trade-academy.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T20:52:17.917403+00:00"
     }
   ]
 }
