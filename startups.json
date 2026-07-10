@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T05:10:14.642885+00:00",
+  "last_updated": "2026-07-10T08:40:55.095825+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -186575,26 +186575,35 @@
     {
       "name": "StorySprout Books",
       "slug": "polsia-storysprout-books",
+      "description": "Growing young minds, one story at a time. Children's books that spark creativity and learning ages 0–12.",
+      "description_fr": "Faire grandir de jeunes esprits, une histoire à la fois. Des livres pour enfants qui stimulent la créativité et l'apprentissage de 0 à 12 ans.",
+      "category": "Education",
       "website": "https://storysprout-books.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T05:06:15.640356+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T08:40:33.441238+00:00"
     },
     {
       "name": "TributeCraft",
       "slug": "polsia-tributecraft",
+      "description": "Build lasting online memorials for the ones you love.",
+      "description_fr": "Créez des monuments commémoratifs en ligne durables pour ceux que vous aimez.",
+      "category": "Other",
       "website": "https://tributecraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T05:06:26.138412+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T08:40:34.148331+00:00"
     },
     {
       "name": "Vigilant Space",
       "slug": "polsia-vigilant-space",
+      "description": "Autonomous AI collision avoidance for the mega-constellation era. Continuous orbital debris monitoring, probabilistic risk assessment, and autonomous maneuver execution for LEO operators.",
+      "description_fr": "Évitement autonome des collisions par l’IA à l’ère des méga-constellations. Surveillance continue des débris orbitaux, évaluation probabiliste des risques et exécution de manœuvres autonomes pour les opérateurs LEO.",
+      "category": "AI & Machine Learning",
       "website": "https://vigilant-space.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T05:06:31.808554+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T08:40:35.728811+00:00"
     },
     {
       "name": "LeadGuard Pro",
@@ -186654,10 +186663,13 @@
     {
       "name": "VELUX AI",
       "slug": "polsia-velux-ai",
+      "description": "The hyperreal luxury lifestyle virtual influencer.",
+      "description_fr": "L'influenceur virtuel de style de vie de luxe hyperréaliste.",
+      "category": "AI & Machine Learning",
       "website": "https://velux-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T05:07:09.556958+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T08:40:38.178189+00:00"
     },
     {
       "name": "Pave",
@@ -186669,6 +186681,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-10T05:07:11.318256+00:00"
+    },
+    {
+      "name": "PrivateStack",
+      "slug": "polsia-privatestack",
+      "website": "https://privatestack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T08:37:17.187707+00:00"
+    },
+    {
+      "name": "Amra",
+      "slug": "polsia-amra",
+      "website": "https://amra.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T08:37:17.593585+00:00"
+    },
+    {
+      "name": "BidForge",
+      "slug": "polsia-bidforge-1783672600362-rzir",
+      "description": "AI agents that autonomously monitor, match, and bid on government contracts 24/7.",
+      "description_fr": "Des agents d'IA qui surveillent, associent et soumissionnent de manière autonome sur les contrats gouvernementaux 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://bidforge-1783672600362-rzir.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T08:40:49.333797+00:00"
+    },
+    {
+      "name": "LogPrime",
+      "slug": "polsia-logprime",
+      "description": "Die digital-native Agentur für Logistik-Immobilien.",
+      "description_fr": "L'agence numérique native pour l'immobilier logistique.",
+      "category": "Other",
+      "website": "https://logprime.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T08:40:50.742501+00:00"
+    },
+    {
+      "name": "Vigil",
+      "slug": "polsia-vigil-1783672576117-7783",
+      "description": "Your always-on AI financial guardian",
+      "description_fr": "Votre gardien financier IA toujours actif",
+      "category": "AI & Machine Learning",
+      "website": "https://vigil-1783672576117-7783.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T08:40:51.306781+00:00"
+    },
+    {
+      "name": "PostPad",
+      "slug": "polsia-postpad-3",
+      "description": "Plan 30 days of social media content in one hour.",
+      "description_fr": "Planifiez 30 jours de contenu sur les réseaux sociaux en une heure.",
+      "category": "Marketing & Advertising",
+      "website": "https://postpad-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T08:40:52.205281+00:00"
+    },
+    {
+      "name": "VaultGuard",
+      "slug": "polsia-vaultguard-4",
+      "description": "AI-powered protection that continuously monitors breaches, automates data deletion requests, and keeps your privacy.",
+      "description_fr": "Une protection basée sur l'IA qui surveille en permanence les violations, automatise les demandes de suppression de données et préserve votre confidentialité.",
+      "category": "AI & Machine Learning",
+      "website": "https://vaultguard-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T08:40:52.995667+00:00"
+    },
+    {
+      "name": "ModIA",
+      "slug": "polsia-modia",
+      "description": "L'intelligenza artificiale che trasforma i trend in collezioni.",
+      "description_fr": "L'intelligence artificielle qui transforme la tendance des collections.",
+      "category": "Other",
+      "website": "https://modia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T08:40:53.984533+00:00"
+    },
+    {
+      "name": "StokCerdas",
+      "slug": "polsia-stokcerdas",
+      "description": "Platform AI manajemen inventaris e-commerce 24/7 — otomatis memonitor stok, mengisi ulang dari distributor, dan menganalisis profitabilitas real-time.",
+      "description_fr": "Plateforme d'IA pour la gestion d'inventaire du commerce électronique 24h/24 et 7j/7 — surveillance automatique du stock, gestion du distributeur et gestion de la rentabilité en temps réel.",
+      "category": "AI & Machine Learning",
+      "website": "https://stokcerdas.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T08:38:01.478406+00:00"
+    },
+    {
+      "name": "OsteoAI",
+      "slug": "polsia-osteoai",
+      "description": "Twój osobisty asystent rehabilitacji osteopatycznej — dostępny 24/7 między wizytami u terapeuty.",
+      "description_fr": "Deux systèmes de réadaptation ostéopathique — un service 24h/24 et 7j/7 pour votre thérapie.",
+      "category": "AI & Machine Learning",
+      "website": "https://osteoai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T08:40:55.093310+00:00"
     }
   ]
 }
