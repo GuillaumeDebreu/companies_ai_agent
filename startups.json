@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T19:28:36.977948+00:00",
+  "last_updated": "2026-07-10T19:38:02.334073+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -187125,10 +187125,13 @@
     {
       "name": "VANT Capital",
       "slug": "polsia-vant-capital",
+      "description": "Plataforma de inversión inmobiliaria con IA para oportunidades off-market.",
+      "description_fr": "Plateforme d'inversion immobilière avec IA pour opportunités hors marché.",
+      "category": "Software & SaaS",
       "website": "https://vant-capital.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T17:55:04.283915+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T19:37:37.449528+00:00"
     },
     {
       "name": "TSU Pies",
@@ -187177,10 +187180,13 @@
     {
       "name": "Sellix",
       "slug": "polsia-sellix",
+      "description": "Ship faster, collect smarter.",
+      "description_fr": "Expédiez plus rapidement, collectez plus intelligemment.",
+      "category": "Other",
       "website": "https://sellix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T17:55:26.793250+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T19:37:39.085746+00:00"
     },
     {
       "name": "Nomad Asset Collective",
@@ -187225,6 +187231,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-10T17:55:35.178875+00:00"
+    },
+    {
+      "name": "EngageIQ",
+      "slug": "polsia-engageiq-4",
+      "website": "https://engageiq-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T19:35:15.282609+00:00"
+    },
+    {
+      "name": "The Lived Word",
+      "slug": "polsia-the-lived-word",
+      "website": "https://the-lived-word.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T19:35:15.835385+00:00"
+    },
+    {
+      "name": "Aguaflow",
+      "slug": "polsia-aguaflow",
+      "description": "Autonomous distribution intelligence for artisanal spirits.",
+      "description_fr": "Intelligence de distribution autonome pour les spiritueux artisanaux.",
+      "category": "Other",
+      "website": "https://aguaflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T19:37:51.152873+00:00"
+    },
+    {
+      "name": "ShiftGenius",
+      "slug": "polsia-shiftgenius-2",
+      "website": "https://shiftgenius-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T19:35:23.324485+00:00"
+    },
+    {
+      "name": "Partaaf",
+      "slug": "polsia-partaaf",
+      "description": "B2B industrial parts marketplace connecting verified manufacturers and suppliers.",
+      "description_fr": "Marché B2B de pièces industrielles reliant des fabricants et des fournisseurs vérifiés.",
+      "category": "E-Commerce & Retail",
+      "website": "https://partaaf.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T19:37:57.892242+00:00"
+    },
+    {
+      "name": "Pricepilot",
+      "slug": "polsia-pricepilot-1783711993421-c1uo",
+      "description": "Automatische Preisoptimierung gegen Wettbewerber in Echtzeit.",
+      "description_fr": "Automatische Preisoptimierung gegen Wettbewerber in Echtzeit.",
+      "category": "Other",
+      "website": "https://pricepilot-1783711993421-c1uo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T19:37:59.145294+00:00"
+    },
+    {
+      "name": "Pease Doors",
+      "slug": "polsia-pease-doors",
+      "description": "Modernizing the door industry with quality products and competitive pricing.",
+      "description_fr": "Moderniser l'industrie des portes avec des produits de qualité et des prix compétitifs.",
+      "category": "Other",
+      "website": "https://pease-doors.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T19:38:00.450650+00:00"
+    },
+    {
+      "name": "Competify",
+      "slug": "polsia-competify-3",
+      "description": "Turn competitor moves into your next winning response. AI-powered competitive intelligence that monitors, detects, and drafts — so your team always responds first.",
+      "description_fr": "Transformez les mouvements de vos concurrents en votre prochaine réponse gagnante. Une veille concurrentielle basée sur l'IA qui surveille, détecte et rédige pour que votre équipe réponde toujours en premier.",
+      "category": "AI & Machine Learning",
+      "website": "https://competify-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T19:38:02.332644+00:00"
+    },
+    {
+      "name": "Ayala Studio LLC",
+      "slug": "polsia-ayala-studio-llc",
+      "description": "Operations and sound work for conscious business.",
+      "description_fr": "Des opérations et un travail solide pour une entreprise consciente.",
+      "category": "Other",
+      "website": "https://ayala-studio-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T19:35:45.849626+00:00"
+    },
+    {
+      "name": "Hydro Fourrage Sud",
+      "slug": "polsia-hydro-fourrage-sud",
+      "description": "Fourrage vert hydroponique premium pour l'elevage au Maroc. Plus de 2000 kg/jour, 90% d'economie d'eau.",
+      "description_fr": "Fourrage vert hydroponique premium pour l'élevage au Maroc. Plus de 2000 kg/jour, 90% d'économie d'eau.",
+      "category": "Sustainability & Green",
+      "website": "https://hydro-fourrage-sud.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T19:35:47.523454+00:00"
     }
   ]
 }
