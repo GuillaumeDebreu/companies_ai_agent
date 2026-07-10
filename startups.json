@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T20:54:25.321122+00:00",
+  "last_updated": "2026-07-10T21:56:04.652273+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -187345,18 +187345,24 @@
     {
       "name": "Spark AI Studio",
       "slug": "polsia-spark-ai-studio",
+      "description": "AI-powered content for local businesses that want to grow.",
+      "description_fr": "Contenu basé sur l'IA pour les entreprises locales qui souhaitent se développer.",
+      "category": "AI & Machine Learning",
       "website": "https://spark-ai-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T20:51:38.036234+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T21:55:40.563587+00:00"
     },
     {
       "name": "AIEmployee",
       "slug": "polsia-aiemployee",
+      "description": "Your AI employee handles calls, scheduling, and billing — 24/7.",
+      "description_fr": "Votre employé IA gère les appels, la planification et la facturation – 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://aiemployee.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-10T20:51:43.456221+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-10T21:55:42.071305+00:00"
     },
     {
       "name": "CelestialMapa",
@@ -187445,6 +187451,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-10T20:52:17.917403+00:00"
+    },
+    {
+      "name": "OpsBridge Consulting",
+      "slug": "polsia-opsbridge-consulting",
+      "website": "https://opsbridge-consulting.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T21:53:34.345479+00:00"
+    },
+    {
+      "name": "MomentumAI",
+      "slug": "polsia-momentumai-5",
+      "website": "https://momentumai-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T21:53:34.782173+00:00"
+    },
+    {
+      "name": "Ando Care",
+      "slug": "polsia-ando-care",
+      "website": "https://ando-care.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-10T21:53:40.178761+00:00"
+    },
+    {
+      "name": "Ópalo Prime",
+      "slug": "polsia-palo-prime",
+      "description": "Ecosistema IA de ultra lujo para bienes raíces premium en México",
+      "description_fr": "Ecosistema IA de ultra luxe pour les biens naturels premium au Mexique",
+      "category": "Sustainability & Green",
+      "website": "https://palo-prime.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T21:56:04.651605+00:00"
+    },
+    {
+      "name": "FlowGuard",
+      "slug": "polsia-flowguard-5",
+      "description": "Självläkande datapipliner med AI – dygnet runt, utan avbrott.",
+      "description_fr": "Il existe un pipeline de données avec IA – Dygnet Runt, Utan Avbrott.",
+      "category": "AI & Machine Learning",
+      "website": "https://flowguard-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T21:53:47.164923+00:00"
+    },
+    {
+      "name": "CaseScribe AI",
+      "slug": "polsia-casescribe-ai-2",
+      "description": "AI-powered police report writing that cuts admin time in half.",
+      "description_fr": "Rédaction de rapports de police basée sur l'IA qui réduit de moitié le temps d'administration.",
+      "category": "AI & Machine Learning",
+      "website": "https://casescribe-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T21:53:48.120547+00:00"
+    },
+    {
+      "name": "ÚčtoBot",
+      "slug": "polsia-tobot",
+      "description": "Automatizovaný účtovný asistent, ktorý nepretržite sleduje vaše faktúry a chráni finančné zdravie vášho podniku.",
+      "description_fr": "Automatizovaný účtovný assistent, ktorý nepretržite sleduje vaše faktúry a chráni finančné zdravie vašho podniku.",
+      "category": "Other",
+      "website": "https://tobot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T21:53:49.531766+00:00"
+    },
+    {
+      "name": "ApexAI",
+      "slug": "polsia-apexai-5",
+      "description": "Intelligent outdoor coordination that monitors, adapts, and protects your crew.",
+      "description_fr": "Coordination extérieure intelligente qui surveille, adapte et protège votre équipage.",
+      "category": "AI & Machine Learning",
+      "website": "https://apexai-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T21:53:50.357268+00:00"
+    },
+    {
+      "name": "QuantumPulse",
+      "slug": "polsia-quantumpulse-3",
+      "description": "Real-time quantum competitive intelligence on autopilot. Autonomous AI monitoring of global quantum computing research, patents, and publications.",
+      "description_fr": "Veille concurrentielle quantique en temps réel sur pilote automatique. Surveillance autonome par l'IA de la recherche, des brevets et des publications mondiales en informatique quantique.",
+      "category": "AI & Machine Learning",
+      "website": "https://quantumpulse-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T21:53:51.291155+00:00"
+    },
+    {
+      "name": "Mister Faceless",
+      "slug": "polsia-mister-faceless",
+      "description": "Helping Dads escape the 9-5 by building income with digital products.",
+      "description_fr": "Aider les papas à échapper au 9-5 en générant des revenus grâce aux produits numériques.",
+      "category": "Other",
+      "website": "https://mister-faceless.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-10T21:53:52.189259+00:00"
     }
   ]
 }
