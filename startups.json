@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T10:48:22.786965+00:00",
+  "last_updated": "2026-07-11T11:39:40.999810+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -188213,10 +188213,13 @@
     {
       "name": "CCA Integrations",
       "slug": "polsia-cca-integrations",
+      "description": "Deploy AI chatbots on any website in minutes. A white-label conversational AI platform for online stores, service businesses, and SaaS.",
+      "description_fr": "Déployez des chatbots IA sur n’importe quel site Web en quelques minutes. Une plateforme d'IA conversationnelle en marque blanche pour les boutiques en ligne, les entreprises de services et les SaaS.",
+      "category": "AI & Machine Learning",
       "website": "https://cca-integrations.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T10:46:55.658184+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T11:39:25.358299+00:00"
     },
     {
       "name": "SignalIQ",
@@ -188254,10 +188257,13 @@
     {
       "name": "VigilOps",
       "slug": "polsia-vigilops-1783766477342-4dlo",
+      "description": "Autonomous AI agents that monitor your GitHub repos 24/7 — automatically detecting issues, conflicts, and vulnerabilities before they escalate.",
+      "description_fr": "Des agents d'IA autonomes qui surveillent vos dépôts GitHub 24h/24 et 7j/7, détectant automatiquement les problèmes, les conflits et les vulnérabilités avant qu'ils ne s'aggravent.",
+      "category": "AI & Machine Learning",
       "website": "https://vigilops-1783766477342-4dlo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T10:47:09.317673+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T11:39:26.556580+00:00"
     },
     {
       "name": "Court Myth",
@@ -188273,10 +188279,13 @@
     {
       "name": "WaveGuard AI",
       "slug": "polsia-waveguard-ai",
+      "description": "AI-powered lifeguard staffing for UK pools. Intelligent shift scheduling, real-time worker matching, and multi-location dispatch.",
+      "description_fr": "Personnel de sauveteurs alimenté par l'IA pour les piscines britanniques. Planification intelligente des équipes, mise en relation des travailleurs en temps réel et répartition multi-sites.",
+      "category": "AI & Machine Learning",
       "website": "https://waveguard-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T10:47:16.737821+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T11:39:27.689944+00:00"
     },
     {
       "name": "VigilantCap",
@@ -188310,6 +188319,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-11T10:47:21.765305+00:00"
+    },
+    {
+      "name": "Returnloop",
+      "slug": "polsia-returnloop-3",
+      "website": "https://returnloop-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T11:38:40.501361+00:00"
+    },
+    {
+      "name": "SyncPulse",
+      "slug": "polsia-syncpulse-2",
+      "website": "https://syncpulse-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T11:38:45.797466+00:00"
+    },
+    {
+      "name": "Polsia 2.0",
+      "slug": "polsia-polsia-20",
+      "description": "Autonomous AI company operations, rebuilt for reliability. Run your business 24/7 with AI agents serving as CEO, Engineer, and Growth Manager.",
+      "description_fr": "Opérations d'entreprise d'IA autonomes, reconstruites pour plus de fiabilité. Gérez votre entreprise 24h/24 et 7j/7 avec des agents IA agissant en tant que PDG, ingénieur et responsable de la croissance.",
+      "category": "AI & Machine Learning",
+      "website": "https://polsia-20.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T11:39:39.368828+00:00"
+    },
+    {
+      "name": "RTLWatch",
+      "slug": "polsia-rtlwatch",
+      "description": "Autonomous AI agents that monitor RTL designs 24/7, detecting violations and filing self-correcting pull requests.",
+      "description_fr": "Des agents d'IA autonomes qui surveillent les conceptions RTL 24h/24 et 7j/7, détectant les violations et déposant des demandes d'extraction auto-correctives.",
+      "category": "AI & Machine Learning",
+      "website": "https://rtlwatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T11:38:53.139033+00:00"
+    },
+    {
+      "name": "IronShield Coatings & Restoration",
+      "slug": "polsia-ironshield-coatings-restoration",
+      "description": "Rust removal and powder coating that protects vehicles, fleets, and industrial parts with lasting durability.",
+      "description_fr": "Élimination de la rouille et revêtement en poudre qui protègent les véhicules, les flottes et les pièces industrielles avec une durabilité durable.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://ironshield-coatings-restoration.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T11:39:40.998635+00:00"
+    },
+    {
+      "name": "Sentinelle IA",
+      "slug": "polsia-sentinelle-ia-2",
+      "description": "Vos agents IA autonomes veillent 24h/24 sur votre marché.",
+      "description_fr": "Vos agents IA autonomes veillent 24h/24 sur votre marché.",
+      "category": "Other",
+      "website": "https://sentinelle-ia-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T11:38:59.519711+00:00"
+    },
+    {
+      "name": "DentaFlow AI",
+      "slug": "polsia-dentaflow-ai",
+      "description": "AI automation for dental practices that run smoother, cost less, and scale without chaos.",
+      "description_fr": "Automatisation de l'IA pour les cabinets dentaires qui fonctionnent plus facilement, coûtent moins cher et évoluent sans chaos.",
+      "category": "AI & Machine Learning",
+      "website": "https://dentaflow-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T11:39:01.005789+00:00"
+    },
+    {
+      "name": "VergunWijs",
+      "slug": "polsia-vergunwijs",
+      "description": "AI-gestuurde vergunningsmonitoring voor Nederlandse bouwprojecten. Signaleer dreigende termijnoverschrijdingen en voorkom kostbare vertragingen.",
+      "description_fr": "Surveillance de la gestion des gestes de l'IA pour les projets de développement néerlandais. Signaleer trois termijnoverschrijdingen en voorkom kostbare vertragingen.",
+      "category": "AI & Machine Learning",
+      "website": "https://vergunwijs.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T11:39:02.584681+00:00"
+    },
+    {
+      "name": "BrownsPro",
+      "slug": "polsia-brownspro",
+      "description": "Professional Solutions for Every Need — quality services tailored to client needs across the United States.",
+      "description_fr": "Des solutions professionnelles pour chaque besoin : des services de qualité adaptés aux besoins des clients à travers les États-Unis.",
+      "category": "Other",
+      "website": "https://brownspro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T11:39:03.707114+00:00"
+    },
+    {
+      "name": "FluxDrop",
+      "slug": "polsia-fluxdrop-2",
+      "description": "Automatisiertes Dropshipping mit KI – ohne Lagerhaltung, rund um die Uhr.",
+      "description_fr": "Dropshipping automatisé avec KI – sans stockage, pour une heure.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://fluxdrop-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T11:39:05.142533+00:00"
     }
   ]
 }
