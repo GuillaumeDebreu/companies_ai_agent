@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T07:57:27.181011+00:00",
+  "last_updated": "2026-07-11T08:10:26.195743+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -187889,18 +187889,24 @@
     {
       "name": "Airona",
       "slug": "polsia-airona",
+      "description": "Always-on AI for autonomous Linux maintenance. Continuous compliance, automated remediation, and 24/7 system health — without constant operator oversight.",
+      "description_fr": "IA toujours active pour une maintenance Linux autonome. Conformité continue, correction automatisée et santé du système 24h/24 et 7j/7, sans surveillance constante de l'opérateur.",
+      "category": "AI & Machine Learning",
       "website": "https://airona.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T06:00:09.594725+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T08:09:49.368743+00:00"
     },
     {
       "name": "Raystrat Systems",
       "slug": "polsia-raystrat-systems",
+      "description": "AI Automation for Enterprise Transformation — helping businesses modernize operations and scale through intelligent automation.",
+      "description_fr": "AI Automation for Enterprise Transformation : aider les entreprises à moderniser leurs opérations et à évoluer grâce à une automatisation intelligente.",
+      "category": "AI & Machine Learning",
       "website": "https://raystrat-systems.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T06:00:15.029140+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T08:09:50.598344+00:00"
     },
     {
       "name": "PawScan AI",
@@ -187986,6 +187992,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-11T06:00:32.000688+00:00"
+    },
+    {
+      "name": "MeetIQ",
+      "slug": "polsia-meetiq-2",
+      "website": "https://meetiq-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T08:08:22.173354+00:00"
+    },
+    {
+      "name": "Formed",
+      "slug": "polsia-formed",
+      "description": "Sculpture that transforms how you live. Original three-dimensional art from independent sculptors, crafted from eco-conscious materials.",
+      "description_fr": "Une sculpture qui transforme votre façon de vivre. Art tridimensionnel original réalisé par des sculpteurs indépendants, fabriqué à partir de matériaux respectueux de l'environnement.",
+      "category": "Sustainability & Green",
+      "website": "https://formed.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T08:10:02.890877+00:00"
+    },
+    {
+      "name": "FastPipe",
+      "slug": "polsia-fastpipe",
+      "description": "Instant outreach, qualified leads, scheduled showings — AI-powered lead response for real estate teams.",
+      "description_fr": "Sensibilisation instantanée, prospects qualifiés, visites programmées : réponse aux prospects basée sur l'IA pour les équipes immobilières.",
+      "category": "Sales & CRM",
+      "website": "https://fastpipe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T08:10:03.684778+00:00"
+    },
+    {
+      "name": "CryptoJarvis AI",
+      "slug": "polsia-cryptojarvis-ai",
+      "website": "https://cryptojarvis-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T08:08:38.125653+00:00"
+    },
+    {
+      "name": "Echo Learning Initiative",
+      "slug": "polsia-echo-learning-initiative",
+      "website": "https://echo-learning-initiative.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T08:08:43.647799+00:00"
+    },
+    {
+      "name": "The Mental Caddie",
+      "slug": "polsia-the-mental-caddie",
+      "website": "https://the-mental-caddie.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T08:08:53.948895+00:00"
+    },
+    {
+      "name": "PrintLoop",
+      "slug": "polsia-printloop",
+      "description": "Autonomous AI for 3D-printed electric vehicle manufacturing. Monitor, optimize, and orchestrate printing production 24/7.",
+      "description_fr": "IA autonome pour la fabrication de véhicules électriques imprimés en 3D. Surveillez, optimisez et orchestrez la production d’impression 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://printloop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T08:08:55.589828+00:00"
+    },
+    {
+      "name": "DealPilot AI",
+      "slug": "polsia-dealpilot-ai-8",
+      "description": "Autonomous AI investment matching for Southeast Asian startups — working 24/7 to connect founders with the right investors.",
+      "description_fr": "Correspondance autonome des investissements en IA pour les startups d'Asie du Sud-Est – travaillant 24h/24 et 7j/7 pour mettre en relation les fondateurs avec les bons investisseurs.",
+      "category": "AI & Machine Learning",
+      "website": "https://dealpilot-ai-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T08:10:26.194916+00:00"
+    },
+    {
+      "name": "LinguaPlate",
+      "slug": "polsia-linguaplate",
+      "description": "Breaking language and allergy barriers at every table.",
+      "description_fr": "Briser les barrières linguistiques et allergiques à chaque table.",
+      "category": "Other",
+      "website": "https://linguaplate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T08:09:02.278711+00:00"
+    },
+    {
+      "name": "Auditions Manager",
+      "slug": "polsia-auditions-manager",
+      "description": "Gestión digital de castings para teatros, productoras y organizaciones artísticas.",
+      "description_fr": "Gestion numérique des castings pour les théâtres, producteurs et organisations artistiques.",
+      "category": "Other",
+      "website": "https://auditions-manager.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T08:09:03.839673+00:00"
     }
   ]
 }
