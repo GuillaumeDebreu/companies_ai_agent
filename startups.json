@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T09:49:15.230566+00:00",
+  "last_updated": "2026-07-11T10:48:22.786965+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -188114,18 +188114,24 @@
     {
       "name": "BuildPilot",
       "slug": "polsia-buildpilot-1783763190345-g4gf",
+      "description": "From first call to finished project — your AI runs the build.",
+      "description_fr": "Du premier appel au projet terminé, votre IA exécute la construction.",
+      "category": "AI & Machine Learning",
       "website": "https://buildpilot-1783763190345-g4gf.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T09:47:51.592824+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T10:48:03.809630+00:00"
     },
     {
       "name": "ResolveAI",
       "slug": "polsia-resolveai-1783763182126-5yz8",
+      "description": "AI support that actually ships. Deploy a 24/7 intelligent agent across email, chat, and social channels in days—not months.",
+      "description_fr": "Prise en charge de l'IA réellement livrée. Déployez un agent intelligent 24h/24 et 7j/7 sur les e-mails, les chats et les réseaux sociaux en quelques jours, et non en quelques mois.",
+      "category": "AI & Machine Learning",
       "website": "https://resolveai-1783763182126-5yz8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T09:47:56.929918+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T10:48:05.379033+00:00"
     },
     {
       "name": "Verso",
@@ -188203,6 +188209,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-11T09:48:14.362757+00:00"
+    },
+    {
+      "name": "CCA Integrations",
+      "slug": "polsia-cca-integrations",
+      "website": "https://cca-integrations.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T10:46:55.658184+00:00"
+    },
+    {
+      "name": "SignalIQ",
+      "slug": "polsia-signaliq-1783766668577-4zui",
+      "description": "Continuous competitor intelligence, automated daily.",
+      "description_fr": "Veille continue sur la concurrence, automatisée quotidiennement.",
+      "category": "Other",
+      "website": "https://signaliq-1783766668577-4zui.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T10:48:11.970539+00:00"
+    },
+    {
+      "name": "Vestrix",
+      "slug": "polsia-vestrix-1783766557071-sis3",
+      "description": "Autonomous AI that discovers startups, spots niches, and flags deals — 24/7.",
+      "description_fr": "Une IA autonome qui découvre les startups, repère les niches et signale les transactions, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://vestrix-1783766557071-sis3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T10:47:02.899809+00:00"
+    },
+    {
+      "name": "Docuflow",
+      "slug": "polsia-docuflow-2",
+      "description": "AI-powered documents for small businesses, freelancers, and agencies. Draft contracts, proposals, NDAs, and more in seconds.",
+      "description_fr": "Documents basés sur l'IA pour les petites entreprises, les indépendants et les agences. Rédigez des contrats, des propositions, des NDA et bien plus encore en quelques secondes.",
+      "category": "AI & Machine Learning",
+      "website": "https://docuflow-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T10:47:04.011341+00:00"
+    },
+    {
+      "name": "VigilOps",
+      "slug": "polsia-vigilops-1783766477342-4dlo",
+      "website": "https://vigilops-1783766477342-4dlo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T10:47:09.317673+00:00"
+    },
+    {
+      "name": "Court Myth",
+      "slug": "polsia-court-myth",
+      "description": "Where hoops meets legend. Basketball streetwear fusing raw street culture with anime-inspired aesthetics.",
+      "description_fr": "Où les cerceaux rencontrent la légende. Un streetwear de basket-ball fusionnant la culture de la rue brute avec une esthétique inspirée de l'anime.",
+      "category": "Other",
+      "website": "https://court-myth.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T10:47:11.299826+00:00"
+    },
+    {
+      "name": "WaveGuard AI",
+      "slug": "polsia-waveguard-ai",
+      "website": "https://waveguard-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T10:47:16.737821+00:00"
+    },
+    {
+      "name": "VigilantCap",
+      "slug": "polsia-vigilantcap",
+      "description": "AI-powered loan portfolio intelligence that spots risk before it becomes a problem.",
+      "description_fr": "Des informations sur les portefeuilles de prêts basées sur l'IA qui détectent les risques avant qu'ils ne deviennent un problème.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigilantcap.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T10:47:18.729654+00:00"
+    },
+    {
+      "name": "IntakeCare",
+      "slug": "polsia-intakecare",
+      "description": "Your AI front desk, always on. IntakeCare automates patient intake, appointment reminders, and follow-up messaging around the clock.",
+      "description_fr": "Votre réception IA, toujours active. IntakeCare automatise l'accueil des patients, les rappels de rendez-vous et les messages de suivi 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://intakecare.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T10:47:20.392939+00:00"
+    },
+    {
+      "name": "SentinelOSS",
+      "slug": "polsia-sentineloss",
+      "description": "24/7 autonomous patch intelligence that earns maintainer trust.",
+      "description_fr": "Des informations sur les correctifs autonomes 24h/24 et 7j/7 qui gagnent la confiance des responsables.",
+      "category": "Other",
+      "website": "https://sentineloss.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T10:47:21.765305+00:00"
     }
   ]
 }
