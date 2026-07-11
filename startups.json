@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T19:34:49.936926+00:00",
+  "last_updated": "2026-07-11T20:26:48.505576+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -189087,66 +189087,90 @@
     {
       "name": "AllHands",
       "slug": "polsia-allhands-2",
+      "description": "Your dedicated team, every task. Complete transparency about who handles each job — a single accountable human team for any request.",
+      "description_fr": "Votre équipe dévouée, chaque tâche. Une transparence totale sur qui gère chaque tâche : une seule équipe humaine responsable de toute demande.",
+      "category": "Other",
       "website": "https://allhands-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T19:32:51.814683+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T20:26:11.884232+00:00"
     },
     {
       "name": "SilverStream",
       "slug": "polsia-silverstream",
+      "description": "Voice-first smart TV for seniors, with family-powered remote support.",
+      "description_fr": "Téléviseur intelligent doté de la première voix pour les seniors, avec assistance à distance familiale.",
+      "category": "Other",
       "website": "https://silverstream.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T19:32:57.177998+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T20:26:13.378722+00:00"
     },
     {
       "name": "VolPilot AI",
       "slug": "polsia-volpilot-ai",
+      "description": "Real-time autonomous monitoring of EMEA equity volatility surfaces and arbitrage detection.",
+      "description_fr": "Surveillance autonome en temps réel des surfaces de volatilité des actions EMEA et détection des arbitrages.",
+      "category": "AI & Machine Learning",
       "website": "https://volpilot-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T19:33:02.549973+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T20:26:14.663034+00:00"
     },
     {
       "name": "Half Price Roof LLC",
       "slug": "polsia-half-price-roof-llc",
+      "description": "Professional roofing with honest, volume-driven pricing across six states.",
+      "description_fr": "Toiture professionnelle avec des tarifs honnêtes et axés sur le volume dans six États.",
+      "category": "Other",
       "website": "https://half-price-roof-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T19:33:07.862943+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T20:26:16.563404+00:00"
     },
     {
       "name": "NicheStack",
       "slug": "polsia-nichestack-1783798296181-f0ly",
+      "description": "Purpose-built software for underserved service businesses.",
+      "description_fr": "Logiciel spécialement conçu pour les entreprises de services mal desservies.",
+      "category": "Software & SaaS",
       "website": "https://nichestack-1783798296181-f0ly.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T19:33:13.305494+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T20:26:18.072877+00:00"
     },
     {
       "name": "Faceless Studios",
       "slug": "polsia-faceless-studios",
+      "description": "AI-powered faceless YouTube channels that generate passive income on autopilot.",
+      "description_fr": "Chaînes YouTube sans visage alimentées par l'IA qui génèrent des revenus passifs sur pilote automatique.",
+      "category": "AI & Machine Learning",
       "website": "https://faceless-studios.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T19:33:18.826235+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T20:26:19.226631+00:00"
     },
     {
       "name": "ServePulse",
       "slug": "polsia-servepulse",
+      "description": "Autonomous AI agents handle your orders, kitchen, and insights — end to end.",
+      "description_fr": "Des agents IA autonomes gèrent vos commandes, votre cuisine et vos informations de bout en bout.",
+      "category": "AI & Machine Learning",
       "website": "https://servepulse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T19:33:23.846703+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T20:26:20.412374+00:00"
     },
     {
       "name": "DocCraft AI",
       "slug": "polsia-doccraft-ai",
+      "description": "Create perfect business documents with guided AI conversations.",
+      "description_fr": "Créez des documents professionnels parfaits grâce à des conversations guidées par l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://doccraft-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T19:33:29.166442+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T20:26:21.737928+00:00"
     },
     {
       "name": "PriceSentinel",
@@ -189169,6 +189193,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-11T19:33:35.969705+00:00"
+    },
+    {
+      "name": "CoPackSource",
+      "slug": "polsia-copacksource",
+      "website": "https://copacksource.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T20:25:18.485252+00:00"
+    },
+    {
+      "name": "ApexVest AI",
+      "slug": "polsia-apexvest-ai",
+      "website": "https://apexvest-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T20:25:23.904478+00:00"
+    },
+    {
+      "name": "StackVault",
+      "slug": "polsia-stackvault-5",
+      "website": "https://stackvault-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T20:25:29.496991+00:00"
+    },
+    {
+      "name": "VITALIS",
+      "slug": "polsia-vitalis",
+      "description": "Performance Wear Meets Botanical Wellness — premium athletic apparel and science-backed herbal supplements for the modern active individual.",
+      "description_fr": "Performance Wear rencontre le bien-être botanique : des vêtements de sport haut de gamme et des suppléments à base de plantes scientifiquement soutenus pour l'individu actif moderne.",
+      "category": "Health & Wellness",
+      "website": "https://vitalis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T20:26:39.864161+00:00"
+    },
+    {
+      "name": "VitalStats Mobile",
+      "slug": "polsia-vitalstats-mobile",
+      "description": "On-demand health & wellness testing delivered to your location. DNA testing, drug screening, phlebotomy, and more.",
+      "description_fr": "Tests de santé et de bien-être à la demande livrés chez vous. Tests ADN, dépistage de drogues, phlébotomie, etc.",
+      "category": "Health & Wellness",
+      "website": "https://vitalstats-mobile.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T20:26:41.393200+00:00"
+    },
+    {
+      "name": "MoonFire & Shadow Bar",
+      "slug": "polsia-moonfire-shadow-bar",
+      "website": "https://moonfire-shadow-bar.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T20:25:45.658675+00:00"
+    },
+    {
+      "name": "Vigil",
+      "slug": "polsia-vigil-1783801315249-tbs2",
+      "description": "Your always-on AI email guardian. Vigil monitors your inbox 24/7, classifies urgent messages, drafts contextual replies in your voice, and escalates critical matters so nothing important slips through.",
+      "description_fr": "Votre gardien de messagerie IA toujours actif. Vigil surveille votre boîte de réception 24h/24 et 7j/7, classe les messages urgents, rédige des réponses contextuelles avec votre voix et fait remonter les problèmes critiques afin que rien d'important ne passe.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigil-1783801315249-tbs2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T20:26:48.504327+00:00"
+    },
+    {
+      "name": "Coodesh",
+      "slug": "polsia-coodesh",
+      "description": "Plataforma de avaliação de habilidades para devs e talentos tech no Brasil",
+      "description_fr": "Plateforme de validation des compétences pour les développeurs et talents technologiques au Brésil",
+      "category": "Other",
+      "website": "https://coodesh.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T20:25:52.718525+00:00"
+    },
+    {
+      "name": "SaaScribe",
+      "slug": "polsia-saascribe",
+      "description": "Fixed-price SEO content editing for SaaS companies.",
+      "description_fr": "Édition de contenu SEO à prix fixe pour les entreprises SaaS.",
+      "category": "Software & SaaS",
+      "website": "https://saascribe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T20:25:54.103439+00:00"
+    },
+    {
+      "name": "PriceSync",
+      "slug": "polsia-pricesync-2",
+      "description": "AI-powered competitor pricing intelligence that acts in real time.",
+      "description_fr": "Des renseignements sur les prix des concurrents alimentés par l'IA qui agissent en temps réel.",
+      "category": "AI & Machine Learning",
+      "website": "https://pricesync-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T20:25:55.168078+00:00"
     }
   ]
 }
