@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T15:16:51.656845+00:00",
+  "last_updated": "2026-07-11T16:13:42.262208+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -188658,26 +188658,35 @@
     {
       "name": "PropertyCareUK",
       "slug": "polsia-propertycareuk",
+      "description": "24/7 emergency property maintenance with certified engineers across London and Kent.",
+      "description_fr": "Entretien immobilier d'urgence 24h/24 et 7j/7 avec des ingénieurs certifiés à Londres et dans le Kent.",
+      "category": "Real Estate",
       "website": "https://propertycareuk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T15:15:37.803245+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T16:13:22.806946+00:00"
     },
     {
       "name": "TaskFleet",
       "slug": "polsia-taskfleet",
+      "description": "Connect with verified professionals to solve any problem, instantly.",
+      "description_fr": "Connectez-vous avec des professionnels vérifiés pour résoudre n’importe quel problème, instantanément.",
+      "category": "Logistics & Supply Chain",
       "website": "https://taskfleet.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T15:15:43.381839+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T16:13:24.397728+00:00"
     },
     {
       "name": "StrataPulse",
       "slug": "polsia-stratapulse-2",
+      "description": "Autonomous AI agents that continuously monitor and protect public infrastructure — detecting structural weaknesses before they become catastrophes.",
+      "description_fr": "Des agents d'IA autonomes qui surveillent et protègent en permanence les infrastructures publiques, détectant les faiblesses structurelles avant qu'elles ne se transforment en catastrophes.",
+      "category": "AI & Machine Learning",
       "website": "https://stratapulse-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T15:15:48.784745+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T16:13:25.981266+00:00"
     },
     {
       "name": "Aura Health Journey",
@@ -188744,6 +188753,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-11T15:16:02.335617+00:00"
+    },
+    {
+      "name": "CoconutTrade",
+      "slug": "polsia-coconuttrade",
+      "website": "https://coconuttrade.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T16:12:42.763526+00:00"
+    },
+    {
+      "name": "Amplifio",
+      "slug": "polsia-amplifio",
+      "website": "https://amplifio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T16:12:53.045904+00:00"
+    },
+    {
+      "name": "Tatsu",
+      "slug": "polsia-tatsu",
+      "description": "All-in-one productivity for Slack teams. Task assignments, follow-up reminders, scheduled polls, async discussions, and workflow templates — without leaving Slack.",
+      "description_fr": "Productivité tout-en-un pour les équipes Slack. Affectations de tâches, rappels de suivi, sondages programmés, discussions asynchrones et modèles de workflow, sans quitter Slack.",
+      "category": "Productivity & Automation",
+      "website": "https://tatsu.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T16:13:42.261506+00:00"
+    },
+    {
+      "name": "EveryNest",
+      "slug": "polsia-everynest",
+      "description": "Curated everyday essentials for your home — from clothing and footwear to electronics, home appliances, and pet supplies.",
+      "description_fr": "Des essentiels du quotidien pour votre maison, des vêtements et chaussures aux appareils électroniques, appareils électroménagers et fournitures pour animaux de compagnie.",
+      "category": "Other",
+      "website": "https://everynest.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T16:12:59.933184+00:00"
+    },
+    {
+      "name": "MailFlow",
+      "slug": "polsia-mailflow-8",
+      "description": "Professional email automation for growing small businesses. We design, implement, and manage automated email sequences so you can focus on your business.",
+      "description_fr": "Automatisation professionnelle de la messagerie électronique pour les petites entreprises en croissance. Nous concevons, mettons en œuvre et gérons des séquences d'e-mails automatisées afin que vous puissiez vous concentrer sur votre entreprise.",
+      "category": "Productivity & Automation",
+      "website": "https://mailflow-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T16:13:00.883147+00:00"
+    },
+    {
+      "name": "StokBekçi",
+      "slug": "polsia-stokbeki",
+      "description": "Uyanık envanter yönetimi asistanınız",
+      "description_fr": "Uyanık envanter yönetimi asistanınız",
+      "category": "Other",
+      "website": "https://stokbeki.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T16:13:02.564858+00:00"
+    },
+    {
+      "name": "StockMind",
+      "slug": "polsia-stockmind-1783786033723-0o0u",
+      "description": "AI-powered inventory monitoring and automated procurement. Always in stock. Always on time.",
+      "description_fr": "Surveillance des stocks basée sur l'IA et approvisionnement automatisé. Toujours en stock. Toujours à l'heure.",
+      "category": "AI & Machine Learning",
+      "website": "https://stockmind-1783786033723-0o0u.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T16:13:03.790835+00:00"
+    },
+    {
+      "name": "aiponge",
+      "slug": "polsia-aiponge",
+      "description": "Your memories, transformed into personalized songs.",
+      "description_fr": "Vos souvenirs, transformés en chansons personnalisées.",
+      "category": "Other",
+      "website": "https://aiponge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T16:13:05.134289+00:00"
+    },
+    {
+      "name": "VelocityWealth",
+      "slug": "polsia-velocitywealth",
+      "description": "A practical, step-by-step roadmap for entrepreneurs starting with limited capital who want to build $2 million in passive income assets.",
+      "description_fr": "Une feuille de route pratique, étape par étape, pour les entrepreneurs commençant avec un capital limité et souhaitant créer 2 millions de dollars d'actifs à revenus passifs.",
+      "category": "Software & SaaS",
+      "website": "https://velocitywealth.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T16:13:06.023254+00:00"
+    },
+    {
+      "name": "Omnara",
+      "slug": "polsia-omnara",
+      "description": "Your AI receptionist and website — all in one platform. Omnara handles calls, chat, and appointments 24/7 for local service businesses.",
+      "description_fr": "Votre réceptionniste IA et votre site Web, le tout sur une seule plateforme. Omnara gère les appels, les discussions et les rendez-vous 24h/24 et 7j/7 pour les entreprises de services locales.",
+      "category": "AI & Machine Learning",
+      "website": "https://omnara.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T16:13:07.056018+00:00"
     }
   ]
 }
