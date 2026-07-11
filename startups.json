@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T20:26:48.505576+00:00",
+  "last_updated": "2026-07-11T21:24:19.108436+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -189197,26 +189197,35 @@
     {
       "name": "CoPackSource",
       "slug": "polsia-copacksource",
+      "description": "Cite-backed supplement contract manufacturer directory & data API. 150+ verified co-packer listings with USDA Organic, NSF GMP, kosher, and gluten-free certifications.",
+      "description_fr": "Répertoire des fabricants sous contrat de suppléments et API de données soutenus par des citations. Plus de 150 listes de co-emballeurs vérifiées avec les certifications USDA Organic, NSF GMP, casher et sans gluten.",
+      "category": "Software & SaaS",
       "website": "https://copacksource.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T20:25:18.485252+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T21:23:57.431651+00:00"
     },
     {
       "name": "ApexVest AI",
       "slug": "polsia-apexvest-ai",
+      "description": "AI-powered autonomous wholesale real estate deal execution — surface distressed assets at 30–70% below market value and execute the full pipeline end-to-end.",
+      "description_fr": "Exécution autonome de transactions immobilières de gros, alimentée par l'IA : identifiez les actifs en difficulté à 30 à 70 % en dessous de la valeur marchande et exécutez l'ensemble du pipeline de bout en bout.",
+      "category": "AI & Machine Learning",
       "website": "https://apexvest-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T20:25:23.904478+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T21:23:59.190313+00:00"
     },
     {
       "name": "StackVault",
       "slug": "polsia-stackvault-5",
+      "description": "Premium digital templates, spreadsheets, and AI prompt packs for modern professionals.",
+      "description_fr": "Modèles numériques haut de gamme, feuilles de calcul et packs d'invites d'IA pour les professionnels modernes.",
+      "category": "AI & Machine Learning",
       "website": "https://stackvault-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T20:25:29.496991+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T21:24:00.249099+00:00"
     },
     {
       "name": "VITALIS",
@@ -189243,10 +189252,13 @@
     {
       "name": "MoonFire & Shadow Bar",
       "slug": "polsia-moonfire-shadow-bar",
+      "description": "Handcrafted cocktails, unforgettable events — wherever the crowd gathers. Premium mobile cocktail service for weddings, corporate events, and celebrations across the UK.",
+      "description_fr": "Des cocktails artisanaux, des événements inoubliables, partout où la foule se rassemble. Service de cocktails mobiles haut de gamme pour les mariages, les événements d'entreprise et les célébrations à travers le Royaume-Uni.",
+      "category": "Other",
       "website": "https://moonfire-shadow-bar.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T20:25:45.658675+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T21:24:01.495654+00:00"
     },
     {
       "name": "Vigil",
@@ -189291,6 +189303,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-11T20:25:55.168078+00:00"
+    },
+    {
+      "name": "VigilAIt",
+      "slug": "polsia-vigilait",
+      "website": "https://vigilait.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T21:23:14.549488+00:00"
+    },
+    {
+      "name": "Reinvention Reset",
+      "slug": "polsia-reinvention-reset",
+      "website": "https://reinvention-reset.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T21:23:19.858970+00:00"
+    },
+    {
+      "name": "CacaoSentinel",
+      "slug": "polsia-cacaosentinel",
+      "website": "https://cacaosentinel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T21:23:25.494524+00:00"
+    },
+    {
+      "name": "IdeaForge",
+      "slug": "polsia-ideaforge-8",
+      "description": "AI-powered idea engine that never sleeps. Transform interests, skills, and market observations into structured startup concepts — 24/7.",
+      "description_fr": "Moteur d'idées alimenté par l'IA qui ne dort jamais. Transformez vos intérêts, vos compétences et vos observations du marché en concepts de startup structurés, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://ideaforge-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T21:24:18.367455+00:00"
+    },
+    {
+      "name": "Ray Abernathy Stage Hypnosis",
+      "slug": "polsia-ray-abernathy-stage-hypnosis",
+      "description": "Zero-risk school fundraisers that turn out the crowd and split the revenue at the door.",
+      "description_fr": "Des collectes de fonds scolaires sans risque qui attirent la foule et répartissent les revenus à la porte.",
+      "category": "Other",
+      "website": "https://ray-abernathy-stage-hypnosis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T21:24:19.107255+00:00"
+    },
+    {
+      "name": "RepuPulse",
+      "slug": "polsia-repupulse",
+      "description": "AI-звіти з відгуків — щотижневі рекомендації для управління репутацією малого бізнесу",
+      "description_fr": "AI-звіти з відгуків — щотижневі рекомендації для управління репутацією малого бізнесу",
+      "category": "AI & Machine Learning",
+      "website": "https://repupulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T21:23:37.729359+00:00"
+    },
+    {
+      "name": "Postwise AI",
+      "slug": "polsia-postwise-ai-3",
+      "description": "Your social media on autopilot. Automated content, posting, and analytics for small businesses.",
+      "description_fr": "Vos réseaux sociaux en pilote automatique. Contenu, publication et analyses automatisés pour les petites entreprises.",
+      "category": "AI & Machine Learning",
+      "website": "https://postwise-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T21:23:39.010920+00:00"
+    },
+    {
+      "name": "Duchess Dolls",
+      "slug": "polsia-duchess-dolls",
+      "description": "Premium Lifelike Companions — Where Quality Meets Connection",
+      "description_fr": "Compagnons réalistes haut de gamme – Là où la qualité rencontre la connexion",
+      "category": "Other",
+      "website": "https://duchess-dolls.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T21:23:40.053290+00:00"
+    },
+    {
+      "name": "BridgeAI",
+      "slug": "polsia-bridgeai-6",
+      "description": "AI consulting for the businesses that need it most.",
+      "description_fr": "Conseil en IA pour les entreprises qui en ont le plus besoin.",
+      "category": "AI & Machine Learning",
+      "website": "https://bridgeai-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T21:23:41.273573+00:00"
+    },
+    {
+      "name": "Nyansa AI",
+      "slug": "polsia-nyansa-ai",
+      "description": "Intelligent tools built for the Black business community.",
+      "description_fr": "Des outils intelligents conçus pour la communauté des affaires noire.",
+      "category": "AI & Machine Learning",
+      "website": "https://nyansa-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T21:23:42.403179+00:00"
     }
   ]
 }
