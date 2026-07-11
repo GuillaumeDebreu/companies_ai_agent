@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T03:38:41.489674+00:00",
+  "last_updated": "2026-07-11T06:01:33.329247+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -187779,10 +187779,13 @@
     {
       "name": "StarSite Solutions",
       "slug": "polsia-starsite-solutions",
+      "description": "Complete site solutions from setup to cleanup. Portable restroom rentals, pressure washing, dumpster services, and clean-outs for construction and property maintenance.",
+      "description_fr": "Solutions complètes de site, de la configuration au nettoyage. Location de toilettes portables, lavage sous pression, services de bennes à ordures et nettoyages pour la construction et l'entretien de la propriété.",
+      "category": "Real Estate",
       "website": "https://starsite-solutions.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T03:37:11.381619+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T06:01:17.378623+00:00"
     },
     {
       "name": "Hood Cards",
@@ -187882,6 +187885,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-11T03:37:24.448593+00:00"
+    },
+    {
+      "name": "Airona",
+      "slug": "polsia-airona",
+      "website": "https://airona.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T06:00:09.594725+00:00"
+    },
+    {
+      "name": "Raystrat Systems",
+      "slug": "polsia-raystrat-systems",
+      "website": "https://raystrat-systems.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T06:00:15.029140+00:00"
+    },
+    {
+      "name": "PawScan AI",
+      "slug": "polsia-pawscan-ai",
+      "description": "Instant AI dermatology diagnoses for your pet — no $500 office visit required.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
+      "website": "https://pawscan-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T06:00:17.069178+00:00"
+    },
+    {
+      "name": "SchönheitsLotse",
+      "slug": "polsia-schnheitslotse",
+      "description": "Die innovative Vermittlungsplattform für ästhetische Medizin in Deutschland.",
+      "description_fr": "La plateforme innovante Vermittlungsplattform für ästhetische Medizin en Allemagne.",
+      "category": "Other",
+      "website": "https://schnheitslotse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T06:00:18.817992+00:00"
+    },
+    {
+      "name": "TrendPulse AI",
+      "slug": "polsia-trendpulse-ai-5",
+      "description": "Agenți inteligenți care survează piața și te alertează în timp real.",
+      "description_fr": "Les agents intelligents veillent à ce que la situation soit surveillée et à vous alerter en temps réel.",
+      "category": "AI & Machine Learning",
+      "website": "https://trendpulse-ai-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T06:00:20.600101+00:00"
+    },
+    {
+      "name": "Tribbel",
+      "slug": "polsia-tribbel",
+      "description": "A place to find your community and like-minded people everywhere.",
+      "description_fr": "Un endroit pour trouver votre communauté et des personnes partageant les mêmes idées partout.",
+      "category": "Social & Community",
+      "website": "https://tribbel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T06:00:22.183759+00:00"
+    },
+    {
+      "name": "TurnKey Prime",
+      "slug": "polsia-turnkey-prime",
+      "website": "https://turnkey-prime.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T06:00:27.537665+00:00"
+    },
+    {
+      "name": "FarmForge",
+      "slug": "polsia-farmforge-2",
+      "description": "Build digital tools that empower smallholder farmers.",
+      "description_fr": "Créez des outils numériques qui responsabilisent les petits exploitants agricoles.",
+      "category": "Other",
+      "website": "https://farmforge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T06:00:29.351144+00:00"
+    },
+    {
+      "name": "BakeProof",
+      "slug": "polsia-bakeproof",
+      "description": "AI-powered seasonal packaging collections for artisan bakeries.",
+      "description_fr": "Collections d'emballages saisonniers alimentés par l'IA pour les boulangeries artisanales.",
+      "category": "AI & Machine Learning",
+      "website": "https://bakeproof.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T06:00:30.624694+00:00"
+    },
+    {
+      "name": "Clipstack",
+      "slug": "polsia-clipstack-1783748957624-o60s",
+      "description": "Fresh short-form video ads on subscription, powered by real creators.",
+      "description_fr": "De nouvelles publicités vidéo courtes sur abonnement, alimentées par de vrais créateurs.",
+      "category": "Marketing & Advertising",
+      "website": "https://clipstack-1783748957624-o60s.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T06:00:32.000688+00:00"
     }
   ]
 }
