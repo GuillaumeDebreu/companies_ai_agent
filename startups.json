@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T13:21:22.804677+00:00",
+  "last_updated": "2026-07-11T14:12:17.503371+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -188433,26 +188433,35 @@
     {
       "name": "BugSentinel",
       "slug": "polsia-bugsentinel-4",
+      "description": "Autonomous bug detection that files actionable issues for you.",
+      "description_fr": "Détection autonome des bogues qui enregistre les problèmes exploitables pour vous.",
+      "category": "Other",
       "website": "https://bugsentinel-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T12:39:25.882871+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T14:11:29.761094+00:00"
     },
     {
       "name": "SubMatrix AI",
       "slug": "polsia-submatrix-ai",
+      "description": "Localizzazione video autonoma, continua, senza intervento umano.",
+      "description_fr": "Localisation vidéo autonome, continue, sans intervention humaine.",
+      "category": "AI & Machine Learning",
       "website": "https://submatrix-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T12:39:31.331601+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T14:11:31.344240+00:00"
     },
     {
       "name": "UNBROKEN Artist OS",
       "slug": "polsia-unbroken-artist-os",
+      "description": "Turn unfinished songs into complete release campaigns. The private Artist Release Command Center for independent artists.",
+      "description_fr": "Transformez des chansons inachevées en campagnes de sortie complètes. Le centre de commande privé Artist Release pour les artistes indépendants.",
+      "category": "Marketing & Advertising",
       "website": "https://unbroken-artist-os.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T12:39:36.890354+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-11T14:11:33.070624+00:00"
     },
     {
       "name": "360 Talk Therapy",
@@ -188530,6 +188539,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-11T12:39:45.174357+00:00"
+    },
+    {
+      "name": "PrivacyPulse",
+      "slug": "polsia-privacypulse-3",
+      "website": "https://privacypulse-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T14:10:15.143839+00:00"
+    },
+    {
+      "name": "DentFlow",
+      "slug": "polsia-dentflow-5",
+      "website": "https://dentflow-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T14:10:25.335318+00:00"
+    },
+    {
+      "name": "Champion AI",
+      "slug": "polsia-champion-ai",
+      "website": "https://champion-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T14:10:35.830637+00:00"
+    },
+    {
+      "name": "Relay AI",
+      "slug": "polsia-relay-ai-1783778899936-iddz",
+      "website": "https://relay-ai-1783778899936-iddz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T14:10:46.326492+00:00"
+    },
+    {
+      "name": "Neema Styles",
+      "slug": "polsia-neema-styles",
+      "website": "https://neema-styles.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-11T14:10:51.608662+00:00"
+    },
+    {
+      "name": "Vigil",
+      "slug": "polsia-vigil-1783778882984-nkst",
+      "description": "Your AI agent for subscription savings and account security.",
+      "description_fr": "Votre agent IA pour les économies d'abonnement et la sécurité des comptes.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigil-1783778882984-nkst.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T14:12:15.728100+00:00"
+    },
+    {
+      "name": "OvalFlow Algeria",
+      "slug": "polsia-ovalflow-algeria",
+      "description": "Precision Oval Ventilation Ducts for Algeria’s Modern Construction Era",
+      "description_fr": "Conduits de ventilation ovales de précision pour l’ère de la construction moderne en Algérie",
+      "category": "Other",
+      "website": "https://ovalflow-algeria.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T14:12:16.347037+00:00"
+    },
+    {
+      "name": "Zero Labs Automotive",
+      "slug": "polsia-zero-labs-automotive",
+      "description": "Pioneering premium electrification for the world's most iconic vehicles.",
+      "description_fr": "Une électrification premium pionnière pour les véhicules les plus emblématiques du monde.",
+      "category": "Other",
+      "website": "https://zero-labs-automotive.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T14:12:17.502359+00:00"
+    },
+    {
+      "name": "Mr Grain",
+      "slug": "polsia-mr-grain",
+      "description": "Australia's Direct Source for Premium Pakistani Basmati Rice",
+      "description_fr": "La source directe d'Australie pour le riz basmati pakistanais de qualité supérieure",
+      "category": "Other",
+      "website": "https://mr-grain.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T14:11:09.252550+00:00"
+    },
+    {
+      "name": "Velaay",
+      "slug": "polsia-velaay",
+      "description": "India's digital gateway to luxury yacht experiences on the open sea — discover, compare, and book mid-range yachts across Goa, Kerala, Mumbai, Chennai, and beyond.",
+      "description_fr": "La passerelle numérique de l'Inde vers des expériences de yachts de luxe en haute mer : découvrez, comparez et réservez des yachts de milieu de gamme à Goa, Kerala, Mumbai, Chennai et au-delà.",
+      "category": "Other",
+      "website": "https://velaay.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-11T14:11:11.144989+00:00"
     }
   ]
 }
