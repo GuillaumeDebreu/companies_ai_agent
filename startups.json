@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T14:14:58.388464+00:00",
+  "last_updated": "2026-07-12T15:28:29.857639+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -190396,20 +190396,26 @@
       "scraped_at": "2026-07-12T12:39:49.308550+00:00"
     },
     {
-      "name": "Sahara Magic Morocco Travel Agency",
+      "name": "Sahara Magic Morocco",
       "slug": "polsia-sahara-magic-morocco-travel-agency",
+      "description": "Circuits privés et camps de luxe dans le Sahara marocain. Expériences désertiques authentiques à Merzouga et Erg Chebbi.",
+      "description_fr": "Circuits privés et camps de luxe dans le Sahara marocain. Expériences désertiques authentiques à Merzouga et Erg Chebbi.",
+      "category": "Other",
       "website": "https://sahara-magic-morocco-travel-agency.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T14:14:04.957633+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T15:27:44.460329+00:00"
     },
     {
       "name": "HomeAtPeace",
       "slug": "polsia-homeatpeace",
+      "description": "Professional home support services — cleaning, meal preparation, senior companionship, and family assistance for busy households.",
+      "description_fr": "Services professionnels de soutien à domicile – nettoyage, préparation des repas, accompagnement des personnes âgées et aide familiale pour les ménages occupés.",
+      "category": "Food & Beverage",
       "website": "https://homeatpeace.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T14:14:10.361649+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T15:27:45.415437+00:00"
     },
     {
       "name": "PulseIQ",
@@ -190495,6 +190501,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-12T14:14:26.645800+00:00"
+    },
+    {
+      "name": "SocialPulse",
+      "slug": "polsia-socialpulse-5",
+      "website": "https://socialpulse-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T15:26:40.182871+00:00"
+    },
+    {
+      "name": "BriefIQ",
+      "slug": "polsia-briefiq-1783869962252-cudv",
+      "website": "https://briefiq-1783869962252-cudv.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T15:26:45.600534+00:00"
+    },
+    {
+      "name": "Hivemile",
+      "slug": "polsia-hivemile",
+      "website": "https://hivemile.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T15:26:51.114195+00:00"
+    },
+    {
+      "name": "LicenseMind",
+      "slug": "polsia-licensemind-2",
+      "website": "https://licensemind-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T15:26:56.493655+00:00"
+    },
+    {
+      "name": "Norvella Intelligence",
+      "slug": "polsia-norvella-intelligence",
+      "website": "https://norvella-intelligence.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T15:27:01.865937+00:00"
+    },
+    {
+      "name": "DesignSentinel",
+      "slug": "polsia-designsentinel-2",
+      "description": "Your round-the-clock AI design critic for sustainability and accessibility.",
+      "description_fr": "Votre critique 24 heures sur 24 en matière de conception d'IA en matière de durabilité et d'accessibilité.",
+      "category": "AI & Machine Learning",
+      "website": "https://designsentinel-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T15:28:18.349084+00:00"
+    },
+    {
+      "name": "Verklighetsfabriken",
+      "slug": "polsia-verklighetsfabriken",
+      "website": "https://verklighetsfabriken.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T15:27:17.603334+00:00"
+    },
+    {
+      "name": "Aegis",
+      "slug": "polsia-aegis-9",
+      "website": "https://aegis-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T15:27:23.037800+00:00"
+    },
+    {
+      "name": "Lorryman",
+      "slug": "polsia-lorryman",
+      "description": "Track any truck in real time — no GPS hardware needed. Instant freight visibility across India via FASTag infrastructure.",
+      "description_fr": "Suivez n’importe quel camion en temps réel – aucun matériel GPS n’est nécessaire. Visibilité instantanée du fret à travers l'Inde via l'infrastructure FASTag.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://lorryman.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T15:28:29.856431+00:00"
+    },
+    {
+      "name": "CuratedClose",
+      "slug": "polsia-curatedclose",
+      "description": "AI-curated intimate lifestyle products, shipped with absolute discretion.",
+      "description_fr": "Produits de style de vie intime sélectionnés par l'IA, expédiés avec une discrétion absolue.",
+      "category": "AI & Machine Learning",
+      "website": "https://curatedclose.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T15:27:29.183284+00:00"
     }
   ]
 }
