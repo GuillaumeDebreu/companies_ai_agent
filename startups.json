@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T08:19:42.462312+00:00",
+  "last_updated": "2026-07-12T08:55:56.428389+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -189851,10 +189851,13 @@
     {
       "name": "Prestige House Nieruchomości",
       "slug": "polsia-prestige-house-nieruchomoci",
+      "description": "Luksusowe nieruchomości w sercu Trójmiasta",
+      "description_fr": "Luksusowe nieruchomości w sercu Trójmiasta",
+      "category": "Other",
       "website": "https://prestige-house-nieruchomoci.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T06:42:57.332871+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T08:55:32.051772+00:00"
     },
     {
       "name": "PixelForge AI",
@@ -189867,10 +189870,13 @@
     {
       "name": "Meriveikko",
       "slug": "polsia-meriveikko",
+      "description": "Tekoälypohjainen polttoaineoptimointi meriliikenteelle.",
+      "description_fr": "Tekoälypohjainen polttoaineoptimointi meriliikenteelle.",
+      "category": "Other",
       "website": "https://meriveikko.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T06:43:08.106138+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T08:55:33.421362+00:00"
     },
     {
       "name": "LocalHub",
@@ -189948,6 +189954,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-12T06:43:17.913697+00:00"
+    },
+    {
+      "name": "HomeFlow Pro",
+      "slug": "polsia-homeflow-pro",
+      "website": "https://homeflow-pro.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T08:54:45.094255+00:00"
+    },
+    {
+      "name": "BeatSync",
+      "slug": "polsia-beatsync-4",
+      "website": "https://beatsync-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T08:54:50.611469+00:00"
+    },
+    {
+      "name": "autoprof",
+      "slug": "polsia-autoprof",
+      "website": "https://autoprof.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T08:54:56.091994+00:00"
+    },
+    {
+      "name": "Syntara",
+      "slug": "polsia-syntara-5",
+      "description": "AI-powered automation and software for high-growth verticals.",
+      "description_fr": "Automatisation et logiciels basés sur l'IA pour les secteurs verticaux à forte croissance.",
+      "category": "Software & SaaS",
+      "website": "https://syntara-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T08:55:50.033166+00:00"
+    },
+    {
+      "name": "AuditEdge",
+      "slug": "polsia-auditedge",
+      "website": "https://auditedge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T08:55:06.741763+00:00"
+    },
+    {
+      "name": "OpalSpec",
+      "slug": "polsia-opalspec",
+      "description": "Custom-cut opals, crafted to your exact vision.",
+      "description_fr": "Opales taillées sur mesure, fabriquées selon votre vision exacte.",
+      "category": "Other",
+      "website": "https://opalspec.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T08:55:56.427310+00:00"
+    },
+    {
+      "name": "QALIA",
+      "slug": "polsia-qalia",
+      "description": "Your AI agent, trained on your business before the first call. For wealth management advisors, insurance brokers, and service firms.",
+      "description_fr": "Votre agent IA, formé sur votre métier avant le premier appel. Pour les conseillers en gestion de patrimoine, les courtiers d'assurance et les sociétés de services.",
+      "category": "AI & Machine Learning",
+      "website": "https://qalia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T08:55:13.185937+00:00"
+    },
+    {
+      "name": "BuzzDrop",
+      "slug": "polsia-buzzdrop-2",
+      "description": "AI finds trending products, automates your dropshipping profit.",
+      "description_fr": "L'IA trouve les produits tendance et automatise vos bénéfices en dropshipping.",
+      "category": "AI & Machine Learning",
+      "website": "https://buzzdrop-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T08:55:14.313401+00:00"
+    },
+    {
+      "name": "Axiom Ventures",
+      "slug": "polsia-axiom-ventures-3",
+      "description": "Autonomous venture intelligence — building, operating and scaling digital businesses with AI-native execution.",
+      "description_fr": "Intelligence de risque autonome : créer, exploiter et faire évoluer des entreprises numériques avec une exécution native de l'IA.",
+      "category": "AI & Machine Learning",
+      "website": "https://axiom-ventures-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T08:55:15.095088+00:00"
+    },
+    {
+      "name": "DeFiPilot",
+      "slug": "polsia-defipilot",
+      "description": "Autonomous AI crypto wealth management — rebalances 24/7, reports daily.",
+      "description_fr": "Gestion autonome de patrimoine cryptographique par IA – rééquilibre 24h/24 et 7j/7, rapporte quotidiennement.",
+      "category": "AI & Machine Learning",
+      "website": "https://defipilot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T08:55:16.574416+00:00"
     }
   ]
 }
