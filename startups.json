@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T08:55:56.428389+00:00",
+  "last_updated": "2026-07-12T10:35:29.583031+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -189958,26 +189958,35 @@
     {
       "name": "HomeFlow Pro",
       "slug": "polsia-homeflow-pro",
+      "description": "AI-driven HVAC, renovations, and preventative maintenance for modern homes.",
+      "description_fr": "CVC, rénovations et maintenance préventive pilotés par l'IA pour les maisons modernes.",
+      "category": "AI & Machine Learning",
       "website": "https://homeflow-pro.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T08:54:45.094255+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T10:35:08.452946+00:00"
     },
     {
       "name": "BeatSync",
       "slug": "polsia-beatsync-4",
+      "description": "Distribuisci e analizza i tuoi beat su tutti i social in un click.",
+      "description_fr": "Distribuez et analysez votre rythme sur tous les réseaux sociaux en un clic.",
+      "category": "Social & Community",
       "website": "https://beatsync-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T08:54:50.611469+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T10:35:09.523932+00:00"
     },
     {
-      "name": "autoprof",
+      "name": "Autoprof",
       "slug": "polsia-autoprof",
+      "description": "AI agent teams that help university research labs run smarter.",
+      "description_fr": "Des équipes d'agents IA qui aident les laboratoires de recherche universitaires à fonctionner plus intelligemment.",
+      "category": "AI & Machine Learning",
       "website": "https://autoprof.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T08:54:56.091994+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T10:35:10.819561+00:00"
     },
     {
       "name": "Syntara",
@@ -189993,10 +190002,13 @@
     {
       "name": "AuditEdge",
       "slug": "polsia-auditedge",
+      "description": "Explainable AI compliance for algorithmic trading firms. Auto-generate audit-ready reports and explainability documentation on demand.",
+      "description_fr": "Conformité explicable de l’IA pour les sociétés de trading algorithmique. Générez automatiquement des rapports prêts à l'audit et des documents d'explicabilité sur demande.",
+      "category": "AI & Machine Learning",
       "website": "https://auditedge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T08:55:06.741763+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T10:35:11.790206+00:00"
     },
     {
       "name": "OpalSpec",
@@ -190052,6 +190064,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-12T08:55:16.574416+00:00"
+    },
+    {
+      "name": "NexaPulse",
+      "slug": "polsia-nexapulse",
+      "website": "https://nexapulse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T10:34:20.794673+00:00"
+    },
+    {
+      "name": "VitaSync",
+      "slug": "polsia-vitasync-8",
+      "website": "https://vitasync-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T10:34:26.317672+00:00"
+    },
+    {
+      "name": "Valendis",
+      "slug": "polsia-valendis",
+      "description": "Strategy-aware portfolio intelligence for self-directed investors with complex books.",
+      "description_fr": "Intelligence de portefeuille stratégique pour les investisseurs autonomes disposant de livres complexes.",
+      "category": "Other",
+      "website": "https://valendis.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T10:35:23.496141+00:00"
+    },
+    {
+      "name": "SignalNexus",
+      "slug": "polsia-signalnexus-2",
+      "description": "Piattaforma SaaS AI per il monitoraggio macroeconomico e la rilevazione di correlazioni mercato-eventi in tempo reale.",
+      "description_fr": "Formez une IA SaaS pour la surveillance macroéconomique et la corrélation avec les événements commerciaux en temps réel.",
+      "category": "AI & Machine Learning",
+      "website": "https://signalnexus-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T10:35:24.326210+00:00"
+    },
+    {
+      "name": "Fortis AI",
+      "slug": "polsia-fortis-ai",
+      "description": "AI-gedreven automatiseringsoplossingen voor de Europese defensiesector.",
+      "description_fr": "L'IA a même automatisé l'automatisation du secteur de la défense européenne.",
+      "category": "AI & Machine Learning",
+      "website": "https://fortis-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T10:34:43.021230+00:00"
+    },
+    {
+      "name": "Fahm Industrial Development",
+      "slug": "polsia-fahm-industrial-development",
+      "description": "Engineering solutions and technical services for the oil, gas, and petrochemical industry.",
+      "description_fr": "Solutions d'ingénierie et services techniques pour l'industrie pétrolière, gazière et pétrochimique.",
+      "category": "Other",
+      "website": "https://fahm-industrial-development.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T10:34:44.184867+00:00"
+    },
+    {
+      "name": "SilverPaw",
+      "slug": "polsia-silverpaw",
+      "description": "Naturally supporting your senior dog's mobility.",
+      "description_fr": "Soutenir naturellement la mobilité de votre chien senior.",
+      "category": "Other",
+      "website": "https://silverpaw.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T10:34:45.106258+00:00"
+    },
+    {
+      "name": "PitchForge",
+      "slug": "polsia-pitchforge-1783852057881-xd1s",
+      "description": "AI-powered pitch decks built for investor success.",
+      "description_fr": "Des pitch decks basés sur l'IA, conçus pour la réussite des investisseurs.",
+      "category": "AI & Machine Learning",
+      "website": "https://pitchforge-1783852057881-xd1s.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T10:34:45.995246+00:00"
+    },
+    {
+      "name": "Bullion Candle Co.",
+      "slug": "polsia-bullion-candle-co",
+      "website": "https://bullion-candle-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T10:34:51.442107+00:00"
+    },
+    {
+      "name": "VendStack",
+      "slug": "polsia-vendstack-7",
+      "description": "Autonomous ecommerce operations across all your marketplaces.",
+      "description_fr": "Opérations de commerce électronique autonomes sur toutes vos places de marché.",
+      "category": "E-Commerce & Retail",
+      "website": "https://vendstack-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T10:34:52.225989+00:00"
     }
   ]
 }
