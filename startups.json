@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T22:27:14.263442+00:00",
+  "last_updated": "2026-07-12T23:28:58.836416+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -191266,26 +191266,35 @@
     {
       "name": "AxelGuard",
       "slug": "polsia-axelguard",
+      "description": "Vigilância regulatória autônoma com agentes de IA operando 24/7.",
+      "description_fr": "Vigilância regulatória autônoma com agentes de IA operando 24/7.",
+      "category": "Other",
       "website": "https://axelguard.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T22:26:01.553316+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T23:28:34.834521+00:00"
     },
     {
       "name": "PulsarOps",
       "slug": "polsia-pulsarops-3",
+      "description": "Autonomous AI agents that detect API outages, auto-ticket issues, and alert your team — continuously, without human intervention.",
+      "description_fr": "Des agents d'IA autonomes qui détectent les pannes d'API, les problèmes de tickets automatiques et alertent votre équipe, en continu, sans intervention humaine.",
+      "category": "AI & Machine Learning",
       "website": "https://pulsarops-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T22:26:06.943645+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T23:28:36.385989+00:00"
     },
     {
       "name": "SuReal",
       "slug": "polsia-sureal",
+      "description": "Sustainable building and ESG consultancy for forward-thinking organizations.",
+      "description_fr": "Conseil en construction durable et ESG pour les organisations avant-gardistes.",
+      "category": "Other",
       "website": "https://sureal.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T22:26:12.249848+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T23:28:37.416282+00:00"
     },
     {
       "name": "Threshold Studios",
@@ -191363,6 +191372,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-12T22:26:29.187291+00:00"
+    },
+    {
+      "name": "Axiom Defense",
+      "slug": "polsia-axiom-defense-2",
+      "website": "https://axiom-defense-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T23:27:46.906823+00:00"
+    },
+    {
+      "name": "ClassPulse",
+      "slug": "polsia-classpulse-6",
+      "website": "https://classpulse-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T23:27:52.541477+00:00"
+    },
+    {
+      "name": "Fix My Leak",
+      "slug": "polsia-fix-my-leak",
+      "website": "https://fix-my-leak.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T23:27:58.168656+00:00"
+    },
+    {
+      "name": "EquiMind",
+      "slug": "polsia-equimind",
+      "website": "https://equimind.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T23:28:03.545041+00:00"
+    },
+    {
+      "name": "CompeteIQ",
+      "slug": "polsia-competeiq-1783898658502-kyc4",
+      "description": "Continuous competitive intelligence. Actionable strategic briefings for GTM teams, product strategists, and pricing managers.",
+      "description_fr": "Veille concurrentielle continue. Briefings stratégiques exploitables pour les équipes GTM, les stratèges produits et les responsables des prix.",
+      "category": "Other",
+      "website": "https://competeiq-1783898658502-kyc4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T23:28:05.383819+00:00"
+    },
+    {
+      "name": "Synthesis Studio",
+      "slug": "polsia-synthesis-studio",
+      "description": "Where scattered ideas converge into unforgettable brand experiences.",
+      "description_fr": "Où les idées dispersées convergent vers des expériences de marque inoubliables.",
+      "category": "Marketing & Advertising",
+      "website": "https://synthesis-studio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T23:28:06.197166+00:00"
+    },
+    {
+      "name": "Kinly",
+      "slug": "polsia-kinly-2",
+      "description": "Alertas inteligentes de segurança de voo com privacidade total.",
+      "description_fr": "Alertes intelligentes de sécurité pour votre vie privée totale.",
+      "category": "Other",
+      "website": "https://kinly-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T23:28:07.586897+00:00"
+    },
+    {
+      "name": "TEPcare",
+      "slug": "polsia-tepcare",
+      "description": "Your digital companion through total joint replacement recovery",
+      "description_fr": "Votre compagnon numérique pour la récupération totale d'une arthroplastie",
+      "category": "Sustainability & Green",
+      "website": "https://tepcare.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T23:28:08.729530+00:00"
+    },
+    {
+      "name": "Resolvr AI",
+      "slug": "polsia-resolvr-ai-5",
+      "description": "AI agents that never sleep — handling every inquiry, routing what matters.",
+      "description_fr": "Des agents IA qui ne dorment jamais : ils traitent chaque demande et acheminent ce qui compte.",
+      "category": "AI & Machine Learning",
+      "website": "https://resolvr-ai-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T23:28:09.593711+00:00"
+    },
+    {
+      "name": "Glow & Fringe",
+      "slug": "polsia-glow-fringe",
+      "description": "Social media mastery for lash artists and candle makers.",
+      "description_fr": "Maîtrise des médias sociaux pour les artistes de cils et les fabricants de bougies.",
+      "category": "Marketing & Advertising",
+      "website": "https://glow-fringe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T23:28:11.634340+00:00"
     }
   ]
 }
