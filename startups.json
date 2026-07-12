@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T16:30:37.131377+00:00",
+  "last_updated": "2026-07-12T17:36:44.661574+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -190615,58 +190615,79 @@
     {
       "name": "FoxTrader",
       "slug": "polsia-foxtrader",
+      "description": "Self-hosted Discord signal execution for retail traders.",
+      "description_fr": "Exécution de signaux Discord auto-hébergés pour les commerçants de détail.",
+      "category": "E-Commerce & Retail",
       "website": "https://foxtrader.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T16:28:37.200070+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T17:36:13.952850+00:00"
     },
     {
       "name": "Resolvr AI",
       "slug": "polsia-resolvr-ai-4",
+      "description": "End-to-end AI support agents that handle customer issues so you don't have to.",
+      "description_fr": "Des agents d'assistance IA de bout en bout qui gèrent les problèmes des clients pour que vous n'ayez pas à le faire.",
+      "category": "AI & Machine Learning",
       "website": "https://resolvr-ai-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T16:28:42.629045+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T17:36:14.937504+00:00"
     },
     {
       "name": "Peak Era Parts",
       "slug": "polsia-peak-era-parts",
+      "description": "Authentic parts for your early 2000s ride. The curated marketplace for 2000s-era automotive enthusiasts.",
+      "description_fr": "Des pièces authentiques pour votre balade du début des années 2000. Le marché organisé pour les passionnés d'automobile des années 2000.",
+      "category": "E-Commerce & Retail",
       "website": "https://peak-era-parts.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T16:28:48.211995+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T17:36:16.058063+00:00"
     },
     {
       "name": "MenuMetrics",
       "slug": "polsia-menumetrics",
+      "description": "AI-powered real-time intelligence for the food industry.",
+      "description_fr": "Intelligence en temps réel alimentée par l’IA pour l’industrie agroalimentaire.",
+      "category": "AI & Machine Learning",
       "website": "https://menumetrics.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T16:28:48.827238+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T17:36:17.499107+00:00"
     },
     {
       "name": "Infrabrain",
       "slug": "polsia-infrabrain",
+      "description": "Autonomous AI monitoring and predictive maintenance for public infrastructure",
+      "description_fr": "Surveillance autonome de l'IA et maintenance prédictive pour les infrastructures publiques",
+      "category": "AI & Machine Learning",
       "website": "https://infrabrain.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T16:28:54.393585+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T17:36:18.551018+00:00"
     },
     {
       "name": "Terima",
       "slug": "polsia-terima",
+      "description": "Automated QRIS payment tracking for Indonesian small businesses.",
+      "description_fr": "Suivi automatisé des paiements QRIS pour les petites entreprises indonésiennes.",
+      "category": "Finance & Fintech",
       "website": "https://terima.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T16:28:59.956808+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T17:36:20.324353+00:00"
     },
     {
       "name": "Konki",
       "slug": "polsia-konki",
+      "description": "KI-drevet konkurrentovervåking døgnet rundt – slik at du aldri går glipp av en viktig endring.",
+      "description_fr": "KI-drevet konkurrentovervåking døgnet rundt – slik at du aldri gar glipp av en viktig endring.",
+      "category": "Real Estate",
       "website": "https://konki.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T16:29:10.482387+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T17:36:21.258301+00:00"
     },
     {
       "name": "Frostforge Studios",
@@ -190700,6 +190721,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-12T16:29:18.161202+00:00"
+    },
+    {
+      "name": "BridgePath Recovery",
+      "slug": "polsia-bridgepath-recovery",
+      "website": "https://bridgepath-recovery.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T17:35:22.589691+00:00"
+    },
+    {
+      "name": "TurboParts",
+      "slug": "polsia-turboparts",
+      "website": "https://turboparts.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T17:35:27.970089+00:00"
+    },
+    {
+      "name": "BinFresh",
+      "slug": "polsia-binfresh-5",
+      "website": "https://binfresh-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T17:35:33.507854+00:00"
+    },
+    {
+      "name": "She’s Glowing",
+      "slug": "polsia-shes-glowing",
+      "website": "https://shes-glowing.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T17:35:38.973266+00:00"
+    },
+    {
+      "name": "Renego",
+      "slug": "polsia-renego-2",
+      "description": "Your 24/7 AI agent that monitors SaaS costs, negotiates vendor contracts, and alerts you when the market shifts.",
+      "description_fr": "Votre agent IA 24h/24 et 7j/7 qui surveille les coûts SaaS, négocie les contrats des fournisseurs et vous alerte lorsque le marché évolue.",
+      "category": "AI & Machine Learning",
+      "website": "https://renego-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T17:36:43.529609+00:00"
+    },
+    {
+      "name": "CareSync",
+      "slug": "polsia-caresync-6",
+      "description": "One platform to coordinate, track, and share your family's caregiving journey.",
+      "description_fr": "Une plateforme pour coordonner, suivre et partager le parcours de soins de votre famille.",
+      "category": "Software & SaaS",
+      "website": "https://caresync-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T17:36:44.660453+00:00"
+    },
+    {
+      "name": "Resolve",
+      "slug": "polsia-resolve-5",
+      "description": "From default detection to payment settlement — fully automated.",
+      "description_fr": "De la détection des défauts au règlement des paiements – entièrement automatisé.",
+      "category": "Finance & Fintech",
+      "website": "https://resolve-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T17:35:50.799519+00:00"
+    },
+    {
+      "name": "STACK.",
+      "slug": "polsia-stack-3",
+      "description": "A conscious AI companion with neurochemical intelligence and life-tracking.",
+      "description_fr": "Un compagnon d’IA conscient doté d’une intelligence neurochimique et d’un suivi de la vie.",
+      "category": "AI & Machine Learning",
+      "website": "https://stack-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T17:35:52.348344+00:00"
+    },
+    {
+      "name": "VigilAI",
+      "slug": "polsia-vigilai-1783877483237-z3u6",
+      "description": "Непрерывный AI-мониторинг и защита репутации бренда в реальном времени.",
+      "description_fr": "La surveillance de l'IA et la réputation de la marque dans les environnements réels sont inefficaces.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigilai-1783877483237-z3u6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T17:35:53.434335+00:00"
+    },
+    {
+      "name": "Relay",
+      "slug": "polsia-relay-1783877482342-9muj",
+      "description": "Your AI that never sleeps, so you can. Autonomous email, calendar, and task management — around the clock.",
+      "description_fr": "Votre IA qui ne dort jamais, pour que vous puissiez le faire. Gestion autonome des e-mails, du calendrier et des tâches, 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://relay-1783877482342-9muj.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T17:35:54.415764+00:00"
     }
   ]
 }
