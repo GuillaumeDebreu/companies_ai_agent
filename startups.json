@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T23:13:54.521325+00:00",
+  "last_updated": "2026-07-12T00:12:59.632540+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -189527,34 +189527,46 @@
     {
       "name": "StrategicPulse",
       "slug": "polsia-strategicpulse",
+      "description": "Autonomous competitive intelligence briefings for executive decision-making.",
+      "description_fr": "Briefings autonomes de veille concurrentielle pour la prise de décision des dirigeants.",
+      "category": "Other",
       "website": "https://strategicpulse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T23:12:23.937950+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T00:12:42.825136+00:00"
     },
     {
       "name": "ItemLoop",
       "slug": "polsia-itemloop",
+      "description": "Dein 24/7-KI-Handelsbot für virtuelle Spielgegenstände.",
+      "description_fr": "Ce robot de vente KI 24h/24 et 7j/7 pour les supports de jeux virtuels.",
+      "category": "Other",
       "website": "https://itemloop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T23:12:34.260429+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T00:12:43.898932+00:00"
     },
     {
       "name": "CareOps Canada",
       "slug": "polsia-careops-canada",
+      "description": "Remote admin support built for Canadian home care agencies. Virtual intake, scheduling, documentation, and referral workflow management by trained staff who understand Canadian regulatory requirements.",
+      "description_fr": "Support administratif à distance conçu pour les agences canadiennes de soins à domicile. Gestion virtuelle du flux de travail d'admission, de planification, de documentation et de référence par un personnel qualifié qui comprend les exigences réglementaires canadiennes.",
+      "category": "Productivity & Automation",
       "website": "https://careops-canada.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T23:12:44.754759+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T00:12:44.747289+00:00"
     },
     {
       "name": "FitKit",
       "slug": "polsia-fitkit-2",
+      "description": "AI-powered bespoke tailoring, 24/7 — no appointments, no salespeople. Custom-fitted clothing delivered from measurement to door.",
+      "description_fr": "Couture sur mesure basée sur l'IA, 24 heures sur 24, 7 jours sur 7 — sans rendez-vous, sans vendeur. Vêtements sur mesure livrés de la mesure à la porte.",
+      "category": "AI & Machine Learning",
       "website": "https://fitkit-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-11T23:12:50.179811+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T00:12:45.753818+00:00"
     },
     {
       "name": "Fuseloader.io",
@@ -189621,6 +189633,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-11T23:13:03.260271+00:00"
+    },
+    {
+      "name": "AmpGuard",
+      "slug": "polsia-ampguard",
+      "website": "https://ampguard.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T00:12:12.246619+00:00"
+    },
+    {
+      "name": "PatchPilot",
+      "slug": "polsia-patchpilot-1783815060846-qpb0",
+      "website": "https://patchpilot-1783815060846-qpb0.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T00:12:12.886542+00:00"
+    },
+    {
+      "name": "Clearform",
+      "slug": "polsia-clearform-4",
+      "website": "https://clearform-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T00:12:13.794478+00:00"
+    },
+    {
+      "name": "VisuaFlow AI",
+      "slug": "polsia-visuaflow-ai",
+      "website": "https://visuaflow-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T00:12:14.400918+00:00"
+    },
+    {
+      "name": "WorkflowIQ",
+      "slug": "polsia-workflowiq-6",
+      "website": "https://workflowiq-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T00:12:15.168627+00:00"
+    },
+    {
+      "name": "PartRun",
+      "slug": "polsia-partrun",
+      "website": "https://partrun.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T00:12:15.710315+00:00"
+    },
+    {
+      "name": "CostPilot",
+      "slug": "polsia-costpilot-10",
+      "website": "https://costpilot-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T00:12:16.377950+00:00"
+    },
+    {
+      "name": "RMLUZ",
+      "slug": "polsia-rmluz",
+      "website": "https://rmluz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T00:12:16.978377+00:00"
+    },
+    {
+      "name": "Eli's Photography",
+      "slug": "polsia-elis-photography",
+      "website": "https://elis-photography.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T00:12:22.580833+00:00"
+    },
+    {
+      "name": "Nexory",
+      "slug": "polsia-nexory",
+      "website": "https://nexory.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T00:12:28.139110+00:00"
     }
   ]
 }
