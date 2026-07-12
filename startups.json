@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T19:07:08.168984+00:00",
+  "last_updated": "2026-07-12T19:47:29.831929+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -190832,10 +190832,13 @@
     {
       "name": "FitSync AI",
       "slug": "polsia-fitsync-ai",
+      "description": "AI-driven 24/7 client monitoring, auto-adjusted plans, and weekly insights for fitness coaches.",
+      "description_fr": "Surveillance des clients 24h/24 et 7j/7 basée sur l'IA, plans ajustés automatiquement et informations hebdomadaires pour les coachs fitness.",
+      "category": "AI & Machine Learning",
       "website": "https://fitsync-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T18:33:37.219967+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T19:46:47.573514+00:00"
     },
     {
       "name": "LexPulse",
@@ -190848,34 +190851,46 @@
     {
       "name": "RiftLab",
       "slug": "polsia-riftlab",
+      "description": "Your 24/7 AI League of Legends coach for smarter play. Analyze match replays, track performance trends, and get personalized coaching insights powered by machine learning.",
+      "description_fr": "Votre coach IA League of Legends 24h/24 et 7j/7 pour un jeu plus intelligent. Analysez les rediffusions de matchs, suivez les tendances de performances et obtenez des informations de coaching personnalisées optimisées par l'apprentissage automatique.",
+      "category": "AI & Machine Learning",
       "website": "https://riftlab.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T18:33:48.204141+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T19:46:53.542532+00:00"
     },
     {
       "name": "Impuls",
       "slug": "polsia-impuls-4",
+      "description": "Dein KI-gestütztes Morgen-Briefing für relevante Markt- und Branchen-News.",
+      "description_fr": "Dein KI-gestütztes Morgen-Briefing für pertinente Markt- und Branchen-News.",
+      "category": "Other",
       "website": "https://impuls-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T18:33:53.519616+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T19:46:54.654761+00:00"
     },
     {
       "name": "Vantage",
       "slug": "polsia-vantage-1783881100601-cl1o",
+      "description": "Premium private hire, professionally licensed.",
+      "description_fr": "Location privée haut de gamme, sous licence professionnelle.",
+      "category": "Other",
       "website": "https://vantage-1783881100601-cl1o.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T18:33:58.942789+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T19:46:56.298098+00:00"
     },
     {
       "name": "Opus AI",
       "slug": "polsia-opus-ai-3",
+      "description": "The autonomous AI record label that scouts, manages, and grows your roster around the clock.",
+      "description_fr": "Le label autonome doté d'IA qui recherche, gère et développe votre liste 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://opus-ai-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T18:34:04.422077+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T19:46:57.521744+00:00"
     },
     {
       "name": "BidOps AI",
@@ -190917,6 +190932,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-12T18:34:22.800724+00:00"
+    },
+    {
+      "name": "FlowIQ",
+      "slug": "polsia-flowiq-1783885506880-oc2m",
+      "website": "https://flowiq-1783885506880-oc2m.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T19:45:37.516376+00:00"
+    },
+    {
+      "name": "Pedro Vasquez Construction and Design",
+      "slug": "polsia-pedro-vasquez-construction-and-design",
+      "website": "https://pedro-vasquez-construction-and-design.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T19:45:42.895877+00:00"
+    },
+    {
+      "name": "Roman Concrete USA",
+      "slug": "polsia-roman-concrete-usa",
+      "website": "https://roman-concrete-usa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T19:45:48.193815+00:00"
+    },
+    {
+      "name": "Whaley Construction Group",
+      "slug": "polsia-whaley-construction-group",
+      "description": "DFW's trusted local roofing experts — protecting your home without the storm-chaser tactics.",
+      "description_fr": "Les experts en toiture locaux de confiance de DFW — protègent votre maison sans les tactiques des chasseurs de tempêtes.",
+      "category": "Social & Community",
+      "website": "https://whaley-construction-group.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T19:47:14.646019+00:00"
+    },
+    {
+      "name": "ClipIt AI",
+      "slug": "polsia-clipit-ai-2",
+      "website": "https://clipit-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T19:45:58.942105+00:00"
+    },
+    {
+      "name": "ReelForge AI",
+      "slug": "polsia-reelforge-ai-7",
+      "description": "Turn hours of content into viral short-form videos on autopilot.",
+      "description_fr": "Transformez des heures de contenu en vidéos virales courtes sur pilote automatique.",
+      "category": "AI & Machine Learning",
+      "website": "https://reelforge-ai-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T19:47:21.786766+00:00"
+    },
+    {
+      "name": "Business information unavailable",
+      "slug": "polsia-business-information-unavailable-2",
+      "website": "https://business-information-unavailable-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T19:46:09.953680+00:00"
+    },
+    {
+      "name": "ArtistaOS",
+      "slug": "polsia-artistaos",
+      "description": "El gerente de IA que gestiona toda tu carrera musical de forma autónoma.",
+      "description_fr": "Le directeur de IA qui gère toute votre carrière musicale de forme autonome.",
+      "category": "Real Estate",
+      "website": "https://artistaos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T19:47:27.672428+00:00"
+    },
+    {
+      "name": "PriceEdge",
+      "slug": "polsia-priceedge-1783885391308-uwgu",
+      "description": "Autonomous AI agents that continuously monitor, reprice, and optimize your marketplace margins.",
+      "description_fr": "Des agents d'IA autonomes qui surveillent, réévaluent et optimisent en permanence vos marges sur le marché.",
+      "category": "AI & Machine Learning",
+      "website": "https://priceedge-1783885391308-uwgu.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T19:47:28.551472+00:00"
+    },
+    {
+      "name": "Kataloger",
+      "slug": "polsia-kataloger",
+      "description": "AI agent pro automatickou tvorbu a distribuci produktových katalogů.",
+      "description_fr": "Agent AI pour le lancement automatique du catalogue de produits distribués.",
+      "category": "AI & Machine Learning",
+      "website": "https://kataloger.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T19:47:29.830706+00:00"
     }
   ]
 }
