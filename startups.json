@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T20:32:30.374249+00:00",
+  "last_updated": "2026-07-12T21:28:40.305410+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -191046,50 +191046,68 @@
     {
       "name": "Fitness Beast",
       "slug": "polsia-fitness-beast",
+      "description": "Unleash the Beast Within — personal training, strength & conditioning, healthy meal prep delivery, and bold athletic apparel.",
+      "description_fr": "Libérez la bête qui sommeille en vous : entraînement personnel, musculation et conditionnement physique, préparation de repas sains et vêtements de sport audacieux.",
+      "category": "Health & Wellness",
       "website": "https://fitness-beast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T20:30:22.077245+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T21:28:04.684861+00:00"
     },
     {
       "name": "Anbudsvakt",
       "slug": "polsia-anbudsvakt",
+      "description": "Få relevante anbudsmuligheter levert før konkurrentene oppdager dem.",
+      "description_fr": "Il s'agit d'un levier d'équilibrage pertinent pour les opérations simultanées.",
+      "category": "Real Estate",
       "website": "https://anbudsvakt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T20:30:32.380830+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T21:28:06.614729+00:00"
     },
     {
       "name": "Christión LLC",
       "slug": "polsia-christin-llc",
+      "description": "Enterprise consulting and advisory services.",
+      "description_fr": "Services de conseil et de conseil aux entreprises.",
+      "category": "Consulting & Services",
       "website": "https://christin-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T20:30:37.735810+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T21:28:08.475528+00:00"
     },
     {
       "name": "SocialMind AI",
       "slug": "polsia-socialmind-ai-5",
+      "description": "AI agents that run your social media so you don't have to.",
+      "description_fr": "Des agents IA qui gèrent vos réseaux sociaux pour que vous n'ayez pas à le faire.",
+      "category": "AI & Machine Learning",
       "website": "https://socialmind-ai-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T20:30:38.256581+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T21:28:10.146951+00:00"
     },
     {
       "name": "PartBridge AI",
       "slug": "polsia-partbridge-ai",
+      "description": "Autonomous AI sourcing and negotiation for auto parts procurement. Match, negotiate, and fulfill parts across fragmented supplier inventories — 24/7.",
+      "description_fr": "Sourcing et négociation autonomes d'IA pour l'approvisionnement en pièces automobiles. Faites correspondre, négociez et exécutez les pièces dans des inventaires de fournisseurs fragmentés, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://partbridge-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T20:30:43.621728+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T21:28:11.274358+00:00"
     },
     {
       "name": "CrewStack",
       "slug": "polsia-crewstack-1783888163419-uabl",
+      "description": "Daily ops for contractors who mean business.",
+      "description_fr": "Opérations quotidiennes pour les entrepreneurs sérieux.",
+      "category": "Other",
       "website": "https://crewstack-1783888163419-uabl.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-12T20:30:49.030867+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-12T21:28:13.071411+00:00"
     },
     {
       "name": "Monetix",
@@ -191134,6 +191152,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-12T20:31:16.011316+00:00"
+    },
+    {
+      "name": "joeboymedia",
+      "slug": "polsia-joeboymedia",
+      "website": "https://joeboymedia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T21:27:09.280847+00:00"
+    },
+    {
+      "name": "Velox AI",
+      "slug": "polsia-velox-ai-1783891593818-1l8k",
+      "website": "https://velox-ai-1783891593818-1l8k.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T21:27:14.669018+00:00"
+    },
+    {
+      "name": "Nexus Commerce",
+      "slug": "polsia-nexus-commerce-3",
+      "website": "https://nexus-commerce-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T21:27:19.977310+00:00"
+    },
+    {
+      "name": "LaunchForge",
+      "slug": "polsia-launchforge-1783891488903-hneq",
+      "website": "https://launchforge-1783891488903-hneq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T21:27:30.232187+00:00"
+    },
+    {
+      "name": "Modern Biz Mindset",
+      "slug": "polsia-modern-biz-mindset",
+      "website": "https://modern-biz-mindset.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-12T21:27:30.659867+00:00"
+    },
+    {
+      "name": "AgentFlow",
+      "slug": "polsia-agentflow-1783891319251-hkfk",
+      "description": "Repetitive work handled. Recurring revenue earned.",
+      "description_fr": "Travail répétitif géré. Revenus récurrents gagnés.",
+      "category": "Other",
+      "website": "https://agentflow-1783891319251-hkfk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T21:27:32.523142+00:00"
+    },
+    {
+      "name": "Vertex AI",
+      "slug": "polsia-vertex-ai-7",
+      "description": "Autonomous trading operations, powered by specialized AI agents.",
+      "description_fr": "Opérations de trading autonomes, alimentées par des agents d'IA spécialisés.",
+      "category": "AI & Machine Learning",
+      "website": "https://vertex-ai-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T21:27:33.066046+00:00"
+    },
+    {
+      "name": "Human First Growth",
+      "slug": "polsia-human-first-growth",
+      "description": "Healthcare growth through authentic relationships. A professional development platform for healthcare leaders and community outreach professionals.",
+      "description_fr": "Croissance des soins de santé grâce à des relations authentiques. Une plateforme de développement professionnel pour les leaders de la santé et les professionnels de la sensibilisation communautaire.",
+      "category": "Sales & CRM",
+      "website": "https://human-first-growth.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T21:27:34.027942+00:00"
+    },
+    {
+      "name": "TrendNest",
+      "slug": "polsia-trendnest-5",
+      "description": "Trending home finds, everywhere you scroll. Discover top-performing home goods curated from across social platforms.",
+      "description_fr": "Des trouvailles tendance pour la maison, partout où vous faites défiler. Découvrez les articles pour la maison les plus performants sélectionnés sur toutes les plateformes sociales.",
+      "category": "Software & SaaS",
+      "website": "https://trendnest-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T21:27:35.119925+00:00"
+    },
+    {
+      "name": "Rekindle AI",
+      "slug": "polsia-rekindle-ai-2",
+      "description": "Win back your lost customers with AI — guaranteed or you don't pay.",
+      "description_fr": "Récupérez vos clients perdus grâce à l’IA – c’est garanti ou vous ne payez pas.",
+      "category": "AI & Machine Learning",
+      "website": "https://rekindle-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-12T21:27:36.929530+00:00"
     }
   ]
 }
