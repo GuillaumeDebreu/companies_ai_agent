@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T22:38:29.939704+00:00",
+  "last_updated": "2026-07-13T23:36:14.727306+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -192571,10 +192571,13 @@
     {
       "name": "BitForge",
       "slug": "polsia-bitforge-3",
+      "description": "Custom ASIC mining management software and SRE consulting for maximum uptime.",
+      "description_fr": "Logiciel de gestion minière ASIC personnalisé et conseil SRE pour une disponibilité maximale.",
+      "category": "Software & SaaS",
       "website": "https://bitforge-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T22:37:33.312841+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T23:35:46.158668+00:00"
     },
     {
       "name": "CompeteIQ",
@@ -192674,6 +192677,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-13T22:37:56.347159+00:00"
+    },
+    {
+      "name": "FormaIQ",
+      "slug": "polsia-formaiq",
+      "website": "https://formaiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T23:34:49.323293+00:00"
+    },
+    {
+      "name": "RadarIQ",
+      "slug": "polsia-radariq-4",
+      "website": "https://radariq-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T23:34:54.618640+00:00"
+    },
+    {
+      "name": "CallPath",
+      "slug": "polsia-callpath-3",
+      "website": "https://callpath-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T23:35:00.005356+00:00"
+    },
+    {
+      "name": "ConceptForge",
+      "slug": "polsia-conceptforge",
+      "website": "https://conceptforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T23:35:05.440375+00:00"
+    },
+    {
+      "name": "AIAssist",
+      "slug": "polsia-aiassist",
+      "description": "AI Customer Support for Small Business — Zero Tech Skills Required",
+      "description_fr": "Support client IA pour les petites entreprises – Aucune compétence technique requise",
+      "category": "AI & Machine Learning",
+      "website": "https://aiassist.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T23:36:08.545714+00:00"
+    },
+    {
+      "name": "CloudPilot",
+      "slug": "polsia-cloudpilot-u6nv1w",
+      "website": "https://cloudpilot-u6nv1w.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T23:35:16.055424+00:00"
+    },
+    {
+      "name": "CardPeak Consulting",
+      "slug": "polsia-cardpeak-consulting",
+      "description": "Expert sports card consulting to maximize your collection's value.",
+      "description_fr": "Conseil d'experts en cartes de sport pour maximiser la valeur de votre collection.",
+      "category": "Consulting & Services",
+      "website": "https://cardpeak-consulting.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T23:36:14.726133+00:00"
+    },
+    {
+      "name": "SaaSWise",
+      "slug": "polsia-saaswise",
+      "description": "AI agents negotiate your SaaS subscriptions — autonomous procurement for small businesses.",
+      "description_fr": "Les agents IA négocient vos abonnements SaaS : un approvisionnement autonome pour les petites entreprises.",
+      "category": "AI & Machine Learning",
+      "website": "https://saaswise.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T23:35:22.771271+00:00"
+    },
+    {
+      "name": "Miyagi",
+      "slug": "polsia-miyagi",
+      "description": "AI that empowers receptionists to stay fully present with callers.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
+      "website": "https://miyagi.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T23:35:24.195025+00:00"
+    },
+    {
+      "name": "TRUEFFORT",
+      "slug": "polsia-trueffort",
+      "description": "Plataforma de medición y monitoreo de productividad para equipos de trabajo remoto, híbrido y presencial.",
+      "description_fr": "Plateforme de médecine et de surveillance de la productivité pour les équipes de travail à distance, hybride et présentiel.",
+      "category": "Marketing & Advertising",
+      "website": "https://trueffort.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T23:35:25.499831+00:00"
     }
   ]
 }
