@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T02:53:33.995434+00:00",
+  "last_updated": "2026-07-13T04:45:13.957066+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -191494,18 +191494,24 @@
     {
       "name": "A11yWatch",
       "slug": "polsia-a11ywatch",
+      "description": "AI-powered 24/7 WCAG compliance monitoring with automatic code patches that fix accessibility issues before they impact.",
+      "description_fr": "Surveillance de la conformité WCAG 24h/24 et 7j/7, basée sur l'IA, avec des correctifs de code automatiques qui résolvent les problèmes d'accessibilité avant qu'ils n'impactent.",
+      "category": "AI & Machine Learning",
       "website": "https://a11ywatch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T01:07:19.103251+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T04:44:58.746647+00:00"
     },
     {
       "name": "Hunter Legion",
       "slug": "polsia-hunter-legion",
+      "description": "Streetwear-inspired clothing celebrating Newcastle Knights pride. Born in the Hunter, bred for the Blue & Red.",
+      "description_fr": "Des vêtements d'inspiration streetwear célébrant la fierté des Newcastle Knights. Né dans le Hunter, élevé pour le Bleu et le Rouge.",
+      "category": "Other",
       "website": "https://hunter-legion.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T01:07:24.441483+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T04:44:59.913972+00:00"
     },
     {
       "name": "Viralize",
@@ -191518,18 +191524,24 @@
     {
       "name": "Dice & Pages",
       "slug": "polsia-dice-pages",
+      "description": "Where RPG collectors trade dice, guides, and everything in between.",
+      "description_fr": "Où les collectionneurs de RPG échangent des dés, des guides et tout le reste.",
+      "category": "Other",
       "website": "https://dice-pages.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T01:07:35.177616+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T04:45:01.124060+00:00"
     },
     {
       "name": "CopilotBridge",
       "slug": "polsia-copilotbridge",
+      "description": "Autonomous AI agent network that ports open-source coding tools to GitHub Copilot's Models API.",
+      "description_fr": "Réseau d'agents d'IA autonome qui transfère les outils de codage open source vers l'API Models de GitHub Copilot.",
+      "category": "AI & Machine Learning",
       "website": "https://copilotbridge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T01:07:40.613719+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T04:45:02.378288+00:00"
     },
     {
       "name": "Ghosts of War Media",
@@ -191574,6 +191586,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-13T01:07:49.745149+00:00"
+    },
+    {
+      "name": "toma racing",
+      "slug": "polsia-toma-racing",
+      "website": "https://toma-racing.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T04:44:18.790284+00:00"
+    },
+    {
+      "name": "PostForge",
+      "slug": "polsia-postforge-1783917614914-0611",
+      "website": "https://postforge-1783917614914-0611.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T04:44:24.173655+00:00"
+    },
+    {
+      "name": "ZEUZ",
+      "slug": "polsia-zeuz",
+      "description": "Automated compliance across every jurisdiction, in one platform.",
+      "description_fr": "Conformité automatisée dans toutes les juridictions, sur une seule plateforme.",
+      "category": "Software & SaaS",
+      "website": "https://zeuz.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T04:45:13.955251+00:00"
+    },
+    {
+      "name": "Scout",
+      "slug": "polsia-scout-1783917489733-93qt",
+      "description": "AI-powered competitive monitoring for startup founders.",
+      "description_fr": "Surveillance concurrentielle basée sur l'IA pour les fondateurs de startups.",
+      "category": "AI & Machine Learning",
+      "website": "https://scout-1783917489733-93qt.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T04:44:30.463373+00:00"
+    },
+    {
+      "name": "Apex Sports Group",
+      "slug": "polsia-apex-sports-group",
+      "description": "Elevating Athlete Brands in the New Era of NIL",
+      "description_fr": "Élever les marques d’athlètes dans la nouvelle ère du NIL",
+      "category": "Marketing & Advertising",
+      "website": "https://apex-sports-group.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T04:44:32.228725+00:00"
+    },
+    {
+      "name": "VigilOps",
+      "slug": "polsia-vigilops-1783917345549-tj2s",
+      "description": "Autonomous AI security agents that monitor, patch, and protect your code repositories 24/7.",
+      "description_fr": "Des agents de sécurité IA autonomes qui surveillent, corrigent et protègent vos référentiels de code 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigilops-1783917345549-tj2s.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T04:44:33.238909+00:00"
+    },
+    {
+      "name": "ReviewGuard",
+      "slug": "polsia-reviewguard-3",
+      "description": "AI-powered review management that never sleeps, so you never miss a customer voice.",
+      "description_fr": "Une gestion des avis basée sur l'IA qui ne dort jamais, pour que vous ne manquiez jamais la voix d'un client.",
+      "category": "AI & Machine Learning",
+      "website": "https://reviewguard-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T04:44:34.441793+00:00"
+    },
+    {
+      "name": "Lepton & Quark",
+      "slug": "polsia-lepton-quark",
+      "description": "Consultoría estratégica de transformación e innovación empresarial.",
+      "description_fr": "Consultation stratégique de transformation et d'innovation entrepreneuriale.",
+      "category": "Other",
+      "website": "https://lepton-quark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T04:44:35.479345+00:00"
+    },
+    {
+      "name": "BreathCore Wellness",
+      "slug": "polsia-breathcore-wellness",
+      "description": "Transform your foundation through the power of breath. Mobile physical therapy and respiratory muscle training delivered to your home in the California Bay Area.",
+      "description_fr": "Transformez vos fondations grâce au pouvoir de la respiration. Physiothérapie mobile et entraînement des muscles respiratoires livrés à votre domicile dans la région de la baie de Californie.",
+      "category": "Health & Wellness",
+      "website": "https://breathcore-wellness.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T04:44:36.097965+00:00"
+    },
+    {
+      "name": "ClaimKeeper",
+      "slug": "polsia-claimkeeper-2",
+      "description": "Warranties tracked. Recalls caught. Never miss a repair opportunity or a dangerous recall in your home.",
+      "description_fr": "Garanties suivies. Rappels capturés. Ne manquez jamais une opportunité de réparation ou un rappel dangereux dans votre maison.",
+      "category": "Other",
+      "website": "https://claimkeeper-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T04:44:37.793403+00:00"
     }
   ]
 }
