@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T21:39:38.513012+00:00",
+  "last_updated": "2026-07-13T22:38:29.939704+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -192461,18 +192461,24 @@
     {
       "name": "LocalFlow AI",
       "slug": "polsia-localflow-ai-rip2rs",
+      "description": "AI automation that books appointments and converts leads for local service businesses.",
+      "description_fr": "Automatisation de l'IA qui prend des rendez-vous et convertit les prospects pour les entreprises de services locales.",
+      "category": "AI & Machine Learning",
       "website": "https://localflow-ai-rip2rs.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T21:38:13.277981+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T22:38:19.353931+00:00"
     },
     {
       "name": "neuRysiek",
       "slug": "polsia-neurysiek",
+      "description": "Pionierzy GEO i social media marketingu w Polsce",
+      "description_fr": "Pionierzy GEO et le marketing des médias sociaux en Pologne",
+      "category": "Marketing & Advertising",
       "website": "https://neurysiek.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T21:38:18.649508+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T22:38:20.420413+00:00"
     },
     {
       "name": "SkinActiv",
@@ -192532,10 +192538,13 @@
     {
       "name": "DevWatch",
       "slug": "polsia-devwatch-3",
+      "description": "Autonomous AI agents that monitor your CI/CD, detect regressions, and file bugs before you do.",
+      "description_fr": "Des agents d'IA autonomes qui surveillent votre CI/CD, détectent les régressions et signalent les bogues avant vous.",
+      "category": "AI & Machine Learning",
       "website": "https://devwatch-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T21:38:43.487075+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T22:38:21.398970+00:00"
     },
     {
       "name": "AutomateIQ",
@@ -192551,10 +192560,120 @@
     {
       "name": "The Hotspot",
       "slug": "polsia-the-hotspot",
+      "description": "Planeamento de eventos corporativos com proposta completa em 24 horas.",
+      "description_fr": "Planification des événements corporatifs proposé dans les 24 heures.",
+      "category": "Other",
       "website": "https://the-hotspot.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T22:38:22.258553+00:00"
+    },
+    {
+      "name": "BitForge",
+      "slug": "polsia-bitforge-3",
+      "website": "https://bitforge-3.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-13T21:38:49.871148+00:00"
+      "scraped_at": "2026-07-13T22:37:33.312841+00:00"
+    },
+    {
+      "name": "CompeteIQ",
+      "slug": "polsia-competeiq-qtft78",
+      "description": "Autonomous competitor monitoring and real-time repricing for marketplace sellers.",
+      "description_fr": "Surveillance autonome des concurrents et retarification en temps réel pour les vendeurs du marché.",
+      "category": "E-Commerce & Retail",
+      "website": "https://competeiq-qtft78.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T22:38:28.369363+00:00"
+    },
+    {
+      "name": "Autonomo",
+      "slug": "polsia-autonomo-o93cmu",
+      "description": "Autonomous AI agents that run your ecommerce business 24/7.",
+      "description_fr": "Des agents IA autonomes qui gèrent votre entreprise de commerce électronique 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://autonomo-o93cmu.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T22:38:29.061774+00:00"
+    },
+    {
+      "name": "EchoYou",
+      "slug": "polsia-echoyou",
+      "description": "Your AI twin that attends meetings, responds to messages, and represents you when you can't.",
+      "description_fr": "Votre jumeau IA qui assiste aux réunions, répond aux messages et vous représente lorsque vous ne pouvez pas.",
+      "category": "AI & Machine Learning",
+      "website": "https://echoyou.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T22:37:46.032171+00:00"
+    },
+    {
+      "name": "MarginMind",
+      "slug": "polsia-marginmind-dqn038",
+      "description": "Autonomous AI repricing that protects your margins. Monitor competitors, adjust prices instantly, and get daily digests of pricing changes and profitability shifts.",
+      "description_fr": "Une retarification autonome par IA qui protège vos marges. Surveillez les concurrents, ajustez les prix instantanément et obtenez des résumés quotidiens des changements de prix et des changements de rentabilité.",
+      "category": "AI & Machine Learning",
+      "website": "https://marginmind-dqn038.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T22:38:29.937718+00:00"
+    },
+    {
+      "name": "Imagify AI",
+      "slug": "polsia-imagify-ai",
+      "description": "Turn your imagination into viral videos in minutes.",
+      "description_fr": "Transformez votre imagination en vidéos virales en quelques minutes.",
+      "category": "AI & Machine Learning",
+      "website": "https://imagify-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T22:37:52.105973+00:00"
+    },
+    {
+      "name": "ThreadCraft AI",
+      "slug": "polsia-threadcraft-ai-2",
+      "description": "AI-powered fashion design and production for micro-brands. Launch designs that resonate, automate production, and scale without holding inventory.",
+      "description_fr": "Conception et production de mode basées sur l'IA pour les micro-marques. Lancez des conceptions qui résonnent, automatisez la production et évoluez sans détenir de stock.",
+      "category": "AI & Machine Learning",
+      "website": "https://threadcraft-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T22:37:53.007719+00:00"
+    },
+    {
+      "name": "VentaIQ",
+      "slug": "polsia-ventaiq-3",
+      "description": "VentaIQ is your 24/7 AI sales employee — qualifies leads, nurtures prospects, and hands off ready buyers.",
+      "description_fr": "VentaIQ est votre employé commercial IA 24h/24 et 7j/7 : qualifie les prospects, nourrit les prospects et confie les acheteurs prêts.",
+      "category": "Sales & CRM",
+      "website": "https://ventaiq-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T22:37:53.977711+00:00"
+    },
+    {
+      "name": "Ella Wayne",
+      "slug": "polsia-ella-wayne",
+      "description": "Online store — currently offline. Reach us at ella-wayne@polsia.app",
+      "description_fr": "Boutique en ligne – actuellement hors ligne. Contactez-nous à ella-wayne@polsia.app",
+      "category": "E-Commerce & Retail",
+      "website": "https://ella-wayne.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T22:37:55.130602+00:00"
+    },
+    {
+      "name": "BLIGHT",
+      "slug": "polsia-blight",
+      "description": "Mobile headlight restoration serving Huntington Beach & Orange County. Professional-grade UV ceramic coating — no shop visit required.",
+      "description_fr": "Restauration de phares mobiles desservant Huntington Beach et le comté d'Orange. Revêtement céramique UV de qualité professionnelle – aucune visite en atelier requise.",
+      "category": "E-Commerce & Retail",
+      "website": "https://blight.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T22:37:56.347159+00:00"
     }
   ]
 }
