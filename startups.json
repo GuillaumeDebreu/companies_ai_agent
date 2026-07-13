@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T16:09:58.515707+00:00",
+  "last_updated": "2026-07-13T18:07:01.802195+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -192030,10 +192030,13 @@
     {
       "name": "AudioSift",
       "slug": "polsia-audiosift",
+      "description": "AI-powered sample intelligence that monitors your library 24/7.",
+      "description_fr": "Des exemples d’intelligence alimentés par l’IA qui surveillent votre bibliothèque 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://audiosift.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T16:07:54.331365+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T18:06:09.193263+00:00"
     },
     {
       "name": "Remediant",
@@ -192046,42 +192049,57 @@
     {
       "name": "Codeforge",
       "slug": "polsia-codeforge-vwve2c",
+      "description": "Maßgeschneiderte Softwareentwicklung und skalierbare Cloud-Produkte für Unternehmen.",
+      "description_fr": "Logiciels de grande envergure et produits Cloud skalierbare pour les entreprises.",
+      "category": "Software & SaaS",
       "website": "https://codeforge-vwve2c.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T16:08:05.596957+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T18:06:15.953106+00:00"
     },
     {
       "name": "HackMesh",
       "slug": "polsia-hackmesh",
+      "description": "Find your team. Build your hack. HackMesh connects solo hackers with complementary teammates worldwide through AI-powered matchmaking.",
+      "description_fr": "Trouvez votre équipe. Construisez votre hack. HackMesh connecte des hackers solos avec des coéquipiers complémentaires dans le monde entier grâce à un matchmaking basé sur l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://hackmesh.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T16:08:10.969276+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T18:06:17.096650+00:00"
     },
     {
       "name": "Aurum Wealth AI",
       "slug": "polsia-aurum-wealth-ai",
+      "description": "Autonomous AI wealth management for high-net-worth individuals.",
+      "description_fr": "Gestion de patrimoine autonome par IA pour les particuliers fortunés.",
+      "category": "AI & Machine Learning",
       "website": "https://aurum-wealth-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T16:08:16.538681+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T18:06:18.479995+00:00"
     },
     {
       "name": "BluWave FX",
       "slug": "polsia-bluwave-fx",
+      "description": "The transparent forex signals community — every trade journaled, every result published.",
+      "description_fr": "La communauté transparente des signaux forex : chaque transaction journalisée, chaque résultat publié.",
+      "category": "Real Estate",
       "website": "https://bluwave-fx.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T16:08:27.089626+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T18:06:19.622626+00:00"
     },
     {
       "name": "CareSync AI",
       "slug": "polsia-caresync-ai-8",
+      "description": "Intelligent in‑home care coordination that connects agencies, caregivers, and families.",
+      "description_fr": "Coordination intelligente des soins à domicile qui relie les agences, les soignants et les familles.",
+      "category": "AI & Machine Learning",
       "website": "https://caresync-ai-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T16:08:37.585394+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T18:06:20.951020+00:00"
     },
     {
       "name": "Wave Realty LLC",
@@ -192115,6 +192133,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-13T16:08:46.113316+00:00"
+    },
+    {
+      "name": "CoopAlerta",
+      "slug": "polsia-coopalerta",
+      "website": "https://coopalerta.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T18:05:07.862752+00:00"
+    },
+    {
+      "name": "ClauseWise",
+      "slug": "polsia-clausewise-9",
+      "website": "https://clausewise-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T18:05:13.275947+00:00"
+    },
+    {
+      "name": "LeadPulse",
+      "slug": "polsia-leadpulse-wksx0a",
+      "website": "https://leadpulse-wksx0a.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T18:05:18.669996+00:00"
+    },
+    {
+      "name": "RevenueBridge AI",
+      "slug": "polsia-revenuebridge-ai",
+      "website": "https://revenuebridge-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T18:05:24.191432+00:00"
+    },
+    {
+      "name": "SiteMedic",
+      "slug": "polsia-sitemedic-2",
+      "website": "https://sitemedic-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T18:05:29.734524+00:00"
+    },
+    {
+      "name": "DentalBoost",
+      "slug": "polsia-dentalboost",
+      "description": "Marketing digital que convierte búsquedas en pacientes para clínicas dentales.",
+      "description_fr": "Marketing numérique qui convierte les patients aux cliniques dentaires.",
+      "category": "Marketing & Advertising",
+      "website": "https://dentalboost.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T18:06:49.284487+00:00"
+    },
+    {
+      "name": "BidSprint",
+      "slug": "polsia-bidsprint-4",
+      "description": "Win government contracts while you focus on your business.",
+      "description_fr": "Gagnez des contrats gouvernementaux tout en vous concentrant sur votre entreprise.",
+      "category": "Other",
+      "website": "https://bidsprint-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T18:06:50.868377+00:00"
+    },
+    {
+      "name": "ForgeStack",
+      "slug": "polsia-forgestack-hsdcvg",
+      "website": "https://forgestack-hsdcvg.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T18:05:45.789876+00:00"
+    },
+    {
+      "name": "DentConvert",
+      "slug": "polsia-dentconvert",
+      "website": "https://dentconvert.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T18:05:51.145119+00:00"
+    },
+    {
+      "name": "FoundrStack",
+      "slug": "polsia-foundrstack",
+      "description": "Autonomous agents build, provision, and monetize your micro-SaaS — no team required.",
+      "description_fr": "Des agents autonomes créent, provisionnent et monétisent votre micro-SaaS – aucune équipe n'est requise.",
+      "category": "Software & SaaS",
+      "website": "https://foundrstack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T18:05:52.962905+00:00"
     }
   ]
 }
