@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T19:24:19.715123+00:00",
+  "last_updated": "2026-07-13T19:46:21.242095+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -192137,42 +192137,57 @@
     {
       "name": "CoopAlerta",
       "slug": "polsia-coopalerta",
+      "description": "Plataforma de monitoreo inteligente 24/7 para cooperativas de ahorro y crédito. Automatiza el análisis de riesgo crediticio, cumplimiento normativo y alertas tempranas de insolvencia.",
+      "description_fr": "Plateforme de surveillance intelligente 24h/24 et 7j/7 pour les coopératives d'épargne et de crédit. Automatisez l'analyse du risque de crédit, en complétant les normes et les alertes temporaires d'insolvabilité.",
+      "category": "Other",
       "website": "https://coopalerta.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T18:05:07.862752+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T19:45:39.778209+00:00"
     },
     {
       "name": "ClauseWise",
       "slug": "polsia-clausewise-9",
+      "description": "AI contract review built for freelancers — catch risky clauses before you sign.",
+      "description_fr": "Examen des contrats par l'IA conçu pour les indépendants : détectez les clauses risquées avant de signer.",
+      "category": "AI & Machine Learning",
       "website": "https://clausewise-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T18:05:13.275947+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T19:45:41.287009+00:00"
     },
     {
       "name": "LeadPulse",
       "slug": "polsia-leadpulse-wksx0a",
+      "description": "AI-driven lead intelligence that works while you sleep. Continuous monitoring, intelligent qualification, and automated outreach for real estate professionals.",
+      "description_fr": "Une intelligence des leads basée sur l'IA qui fonctionne pendant que vous dormez. Surveillance continue, qualification intelligente et sensibilisation automatisée pour les professionnels de l'immobilier.",
+      "category": "Sales & CRM",
       "website": "https://leadpulse-wksx0a.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T18:05:18.669996+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T19:45:42.340484+00:00"
     },
     {
       "name": "RevenueBridge AI",
       "slug": "polsia-revenuebridge-ai",
+      "description": "Recover Every Call. Capture Every Lead. Grow on Autopilot.",
+      "description_fr": "Récupérez chaque appel. Capturez chaque prospect. Développez-vous en pilote automatique.",
+      "category": "AI & Machine Learning",
       "website": "https://revenuebridge-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T18:05:24.191432+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T19:45:43.254387+00:00"
     },
     {
       "name": "SiteMedic",
       "slug": "polsia-sitemedic-2",
+      "description": "AI agents that automatically detect, diagnose, and repair website issues before you even know they exist.",
+      "description_fr": "Des agents IA qui détectent, diagnostiquent et réparent automatiquement les problèmes de sites Web avant même que vous sachiez qu'ils existent.",
+      "category": "AI & Machine Learning",
       "website": "https://sitemedic-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T18:05:29.734524+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T19:45:44.400759+00:00"
     },
     {
       "name": "DentalBoost",
@@ -192199,18 +192214,24 @@
     {
       "name": "ForgeStack",
       "slug": "polsia-forgestack-hsdcvg",
+      "description": "Autonomous AI agents that code, test, and deploy while you sleep.",
+      "description_fr": "Des agents d'IA autonomes qui codent, testent et se déploient pendant que vous dormez.",
+      "category": "AI & Machine Learning",
       "website": "https://forgestack-hsdcvg.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T18:05:45.789876+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T19:45:45.692238+00:00"
     },
     {
       "name": "DentConvert",
       "slug": "polsia-dentconvert",
+      "description": "Facebook advertising exclusively for dental practices and DSOs — fill chairs with new patients through targeted, measurable ad campaigns.",
+      "description_fr": "Publicité Facebook exclusivement destinée aux cabinets dentaires et aux DSO : remplissez les fauteuils de nouveaux patients grâce à des campagnes publicitaires ciblées et mesurables.",
+      "category": "Marketing & Advertising",
       "website": "https://dentconvert.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T18:05:51.145119+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T19:45:46.924810+00:00"
     },
     {
       "name": "FoundrStack",
@@ -192222,6 +192243,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-13T18:05:52.962905+00:00"
+    },
+    {
+      "name": "Iron Stallion Motors",
+      "slug": "polsia-iron-stallion-motors",
+      "website": "https://iron-stallion-motors.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T19:44:43.652893+00:00"
+    },
+    {
+      "name": "MentionIQ",
+      "slug": "polsia-mentioniq-aj694i",
+      "website": "https://mentioniq-aj694i.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T19:44:53.946602+00:00"
+    },
+    {
+      "name": "CrateIQ",
+      "slug": "polsia-crateiq-2",
+      "website": "https://crateiq-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T19:44:59.294705+00:00"
+    },
+    {
+      "name": "CommissionFlow",
+      "slug": "polsia-commissionflow-2",
+      "website": "https://commissionflow-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T19:45:04.641113+00:00"
+    },
+    {
+      "name": "AEROSIFT",
+      "slug": "polsia-aerosift",
+      "website": "https://aerosift.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T19:45:09.864009+00:00"
+    },
+    {
+      "name": "AI, wat wil?",
+      "slug": "polsia-ai-wat-wil",
+      "description": "AI-automatisering voor het MKB, stap voor stap naar meetbare resultaten.",
+      "description_fr": "Automatisation de l'IA pour le MKB, étape avant étape pour rencontrer les résultats.",
+      "category": "AI & Machine Learning",
+      "website": "https://ai-wat-wil.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T19:46:21.241175+00:00"
+    },
+    {
+      "name": "TrailerBucks",
+      "slug": "polsia-trailerbucks",
+      "description": "Earn rewards watching movie previews in your spare time.",
+      "description_fr": "Gagnez des récompenses en regardant des avant-premières de films pendant votre temps libre.",
+      "category": "Other",
+      "website": "https://trailerbucks.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T19:45:16.727907+00:00"
+    },
+    {
+      "name": "Evergrow",
+      "slug": "polsia-evergrow-3",
+      "description": "Automatic wealth, always working.",
+      "description_fr": "Richesse automatique, toujours fonctionnelle.",
+      "category": "Other",
+      "website": "https://evergrow-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T19:45:17.454316+00:00"
+    },
+    {
+      "name": "МагазиныИзраиля",
+      "slug": "polsia-company-259154",
+      "description": "Единый каталог всех израильских магазинов — находите и покупайте у местных продавцов",
+      "description_fr": "Catalogue complet de tous les magazines israéliens — recherchez et achetez vos principaux fournisseurs",
+      "category": "Other",
+      "website": "https://company-259154.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T19:45:18.870169+00:00"
+    },
+    {
+      "name": "PatchPatrol",
+      "slug": "polsia-patchpatrol-4",
+      "description": "24/7 autonomous vulnerability monitoring and patch filing for GitHub repositories.",
+      "description_fr": "Surveillance autonome des vulnérabilités et dépôt de correctifs 24h/24 et 7j/7 pour les référentiels GitHub.",
+      "category": "Other",
+      "website": "https://patchpatrol-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T19:45:19.293268+00:00"
     }
   ]
 }
