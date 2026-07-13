@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T14:36:17.518022+00:00",
+  "last_updated": "2026-07-13T16:09:58.515707+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -191920,34 +191920,46 @@
     {
       "name": "RateFlow",
       "slug": "polsia-rateflow-2",
+      "description": "SMS review requests that turn restaurant guests into Google reviewers.",
+      "description_fr": "Demandes d'avis par SMS qui transforment les clients du restaurant en évaluateurs Google.",
+      "category": "Food & Beverage",
       "website": "https://rateflow-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T13:33:07.388322+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T16:09:03.040335+00:00"
     },
     {
       "name": "Agilix",
       "slug": "polsia-agilix",
+      "description": "L'IA agentique au service de vos projets logiciels — automatisez la gestion, libérez les équipes.",
+      "description_fr": "L'IA agentique au service de vos projets logiciels — automatisez la gestion, libérez les équipes.",
+      "category": "Other",
       "website": "https://agilix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T13:33:12.942060+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T16:09:04.992547+00:00"
     },
     {
       "name": "ReBloom Rentals",
       "slug": "polsia-rebloom-rentals",
+      "description": "Premium silk floral rentals for weddings and events — without the luxury price tag.",
+      "description_fr": "Location de fleurs en soie haut de gamme pour les mariages et les événements — sans le prix du luxe.",
+      "category": "Travel & Hospitality",
       "website": "https://rebloom-rentals.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T13:33:18.574303+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T16:09:06.504607+00:00"
     },
     {
       "name": "CreatorOS",
       "slug": "polsia-creatoros-uz814m",
+      "description": "The AI-powered workspace for OnlyFans creators. Automate outreach, schedule content, and grow your income with AI-driven chat automation and real-time analytics.",
+      "description_fr": "L'espace de travail alimenté par l'IA pour les créateurs OnlyFans. Automatisez la sensibilisation, planifiez le contenu et augmentez vos revenus grâce à l'automatisation du chat basée sur l'IA et aux analyses en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://creatoros-uz814m.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-13T13:33:28.913067+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-13T16:09:08.835655+00:00"
     },
     {
       "name": "Simuluj.to",
@@ -192014,6 +192026,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-13T13:33:45.728241+00:00"
+    },
+    {
+      "name": "AudioSift",
+      "slug": "polsia-audiosift",
+      "website": "https://audiosift.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T16:07:54.331365+00:00"
+    },
+    {
+      "name": "Remediant",
+      "slug": "polsia-remediant-3",
+      "website": "https://remediant-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T16:07:59.996007+00:00"
+    },
+    {
+      "name": "Codeforge",
+      "slug": "polsia-codeforge-vwve2c",
+      "website": "https://codeforge-vwve2c.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T16:08:05.596957+00:00"
+    },
+    {
+      "name": "HackMesh",
+      "slug": "polsia-hackmesh",
+      "website": "https://hackmesh.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T16:08:10.969276+00:00"
+    },
+    {
+      "name": "Aurum Wealth AI",
+      "slug": "polsia-aurum-wealth-ai",
+      "website": "https://aurum-wealth-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T16:08:16.538681+00:00"
+    },
+    {
+      "name": "BluWave FX",
+      "slug": "polsia-bluwave-fx",
+      "website": "https://bluwave-fx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T16:08:27.089626+00:00"
+    },
+    {
+      "name": "CareSync AI",
+      "slug": "polsia-caresync-ai-8",
+      "website": "https://caresync-ai-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-13T16:08:37.585394+00:00"
+    },
+    {
+      "name": "Wave Realty LLC",
+      "slug": "polsia-wave-realty-llc",
+      "description": "Full-cycle real estate investment and development in Philadelphia.",
+      "description_fr": "Investissement et développement immobilier à cycle complet à Philadelphie.",
+      "category": "Finance & Fintech",
+      "website": "https://wave-realty-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T16:09:58.515011+00:00"
+    },
+    {
+      "name": "ShieldWatch",
+      "slug": "polsia-shieldwatch",
+      "description": "Detect and report coordinated bot campaigns against your community.",
+      "description_fr": "Détectez et signalez les campagnes de robots coordonnées contre votre communauté.",
+      "category": "Marketing & Advertising",
+      "website": "https://shieldwatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T16:08:45.102119+00:00"
+    },
+    {
+      "name": "IronSite Equipment",
+      "slug": "polsia-ironsite-equipment",
+      "description": "Heavy machinery and construction bin rentals for projects that demand reliability.",
+      "description_fr": "Location de machinerie lourde et de bacs de construction pour les projets qui exigent de la fiabilité.",
+      "category": "Travel & Hospitality",
+      "website": "https://ironsite-equipment.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-13T16:08:46.113316+00:00"
     }
   ]
 }
