@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T08:06:41.650178+00:00",
+  "last_updated": "2026-07-14T08:37:50.866494+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -193011,50 +193011,68 @@
     {
       "name": "PhytoSense",
       "slug": "polsia-phytosense",
+      "description": "Autonomous AI crop health monitoring — disease detection and treatment recommendations for modern agriculture.",
+      "description_fr": "Surveillance autonome de la santé des cultures par l'IA – détection des maladies et recommandations de traitement pour l'agriculture moderne.",
+      "category": "AI & Machine Learning",
       "website": "https://phytosense.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T06:26:09.301097+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T08:37:29.091541+00:00"
     },
     {
       "name": "DeployMind",
       "slug": "polsia-deploymind-3",
+      "description": "Autonomous CI/CD intelligence that detects failures, suggests fixes, and scales resources around the clock.",
+      "description_fr": "Intelligence CI/CD autonome qui détecte les pannes, suggère des correctifs et fait évoluer les ressources 24 heures sur 24.",
+      "category": "Other",
       "website": "https://deploymind-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T06:26:09.866946+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T08:37:30.181810+00:00"
     },
     {
       "name": "Pricepulse",
       "slug": "polsia-pricepulse-lo879p",
+      "description": "Real-time repricing that keeps you one step ahead. AI-powered competitor monitoring and automatic price adjustments for multi-channel retailers.",
+      "description_fr": "Une retarification en temps réel qui vous donne une longueur d'avance. Surveillance des concurrents basée sur l'IA et ajustements automatiques des prix pour les détaillants multicanaux.",
+      "category": "AI & Machine Learning",
       "website": "https://pricepulse-lo879p.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T06:26:10.433661+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T08:37:31.367138+00:00"
     },
     {
       "name": "SyncCast",
       "slug": "polsia-synccast",
+      "description": "Your AI co-host, live on every episode. SyncCast joins recordings to suggest talking points, field Q&A in real time, and auto-produce clips and transcripts.",
+      "description_fr": "Votre co-animateur IA, en direct sur chaque épisode. SyncCast rejoint les enregistrements pour suggérer des points de discussion, répondre aux questions et réponses en temps réel et produire automatiquement des clips et des transcriptions.",
+      "category": "AI & Machine Learning",
       "website": "https://synccast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T06:26:10.983158+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T08:37:33.007180+00:00"
     },
     {
       "name": "TruckStack",
       "slug": "polsia-truckstack-2",
+      "description": "Inventory and permit management built for food truck operators.",
+      "description_fr": "Gestion des stocks et des permis conçue pour les opérateurs de food trucks.",
+      "category": "Food & Beverage",
       "website": "https://truckstack-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T06:26:16.356884+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T08:37:34.312723+00:00"
     },
     {
       "name": "Wellington Residential",
       "slug": "polsia-wellington-residential",
+      "description": "Trusted residential property sales across the Wellington region",
+      "description_fr": "Ventes de propriétés résidentielles de confiance dans la région de Wellington",
+      "category": "Sales & CRM",
       "website": "https://wellington-residential.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T06:26:21.707520+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T08:37:35.132374+00:00"
     },
     {
       "name": "PermitPilot",
@@ -193099,6 +193117,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-14T06:26:26.648303+00:00"
+    },
+    {
+      "name": "VelocityDrop",
+      "slug": "polsia-velocitydrop",
+      "website": "https://velocitydrop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T08:36:54.084962+00:00"
+    },
+    {
+      "name": "ServicePro Digital",
+      "slug": "polsia-servicepro-digital",
+      "description": "First call wins. We make sure it's you. Digital marketing for home service contractors — dominate your market with local SEO, targeted PPC, and optimized lead capture.",
+      "description_fr": "Le premier appel l’emporte. Nous nous assurons que c'est bien vous. Marketing numérique pour les entrepreneurs en services à domicile : dominez votre marché avec un référencement local, un PPC ciblé et une capture de leads optimisée.",
+      "category": "Marketing & Advertising",
+      "website": "https://servicepro-digital.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T08:36:54.992988+00:00"
+    },
+    {
+      "name": "Grease",
+      "slug": "polsia-grease-ai",
+      "description": "Voice-first AI diagnostics for professional auto shops. Pocket Mechanic delivers plain-English root-cause diagnoses in under 2 minutes.",
+      "description_fr": "Diagnostics IA vocaux pour les ateliers automobiles professionnels. Pocket Mechanic fournit des diagnostics des causes profondes en anglais simple en moins de 2 minutes.",
+      "category": "AI & Machine Learning",
+      "website": "https://grease-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T08:36:55.930282+00:00"
+    },
+    {
+      "name": "CommitWatch",
+      "slug": "polsia-commitwatch-3",
+      "description": "AI-powered repository monitoring with breaking change detection",
+      "description_fr": "Surveillance des référentiels basée sur l'IA avec détection des modifications avec rupture",
+      "category": "AI & Machine Learning",
+      "website": "https://commitwatch-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T08:36:56.697885+00:00"
+    },
+    {
+      "name": "ClearanceWatch",
+      "slug": "polsia-clearancewatch",
+      "description": "AI-powered security compliance monitoring for government clearance audits.",
+      "description_fr": "Surveillance de la conformité de sécurité basée sur l'IA pour les audits d'habilitation gouvernementaux.",
+      "category": "AI & Machine Learning",
+      "website": "https://clearancewatch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T08:36:57.468188+00:00"
+    },
+    {
+      "name": "Apex Agents",
+      "slug": "polsia-apex-agents-2",
+      "description": "Autonomous AI agents that trade, sell, and report around the clock.",
+      "description_fr": "Des agents d'IA autonomes qui négocient, vendent et rendent compte 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://apex-agents-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T08:36:58.784906+00:00"
+    },
+    {
+      "name": "CompassContent",
+      "slug": "polsia-compasscontent",
+      "description": "Turn outdoor keywords into rankings, content, and real growth. AI-powered SEO and content intelligence for survival and outdoor creators.",
+      "description_fr": "Transformez les mots-clés extérieurs en classements, en contenu et en croissance réelle. SEO et intelligence de contenu basés sur l'IA pour les créateurs de survie et de plein air.",
+      "category": "AI & Machine Learning",
+      "website": "https://compasscontent.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T08:36:59.859250+00:00"
+    },
+    {
+      "name": "AlphaVest",
+      "slug": "polsia-alphavest-2",
+      "description": "AI-powered investment research that translates Wall Street analysis into daily briefings for everyday investors.",
+      "description_fr": "Recherche d'investissement basée sur l'IA qui traduit l'analyse de Wall Street en briefings quotidiens pour les investisseurs de tous les jours.",
+      "category": "AI & Machine Learning",
+      "website": "https://alphavest-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T08:37:00.939274+00:00"
+    },
+    {
+      "name": "Equiphaire",
+      "slug": "polsia-equiphaire",
+      "description": "Your trusted gateway to European sport horses.",
+      "description_fr": "Votre porte d'entrée de confiance vers les chevaux de sport européens.",
+      "category": "Other",
+      "website": "https://equiphaire.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T08:37:02.738139+00:00"
+    },
+    {
+      "name": "MoodMap",
+      "slug": "polsia-moodmap",
+      "website": "https://moodmap.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T08:37:08.110894+00:00"
     }
   ]
 }
