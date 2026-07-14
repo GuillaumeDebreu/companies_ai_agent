@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T11:53:46.744507+00:00",
+  "last_updated": "2026-07-14T13:22:44.368746+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -193338,18 +193338,24 @@
     {
       "name": "Novaflow",
       "slug": "polsia-novaflow-3",
+      "description": "Professional used cooking oil collection and aggregation service in Thane & Mumbai — free pickup, instant payment, FSSAI RUCO compliance.",
+      "description_fr": "Service professionnel de collecte et d'agrégation d'huiles de cuisson usagées à Thane et Mumbai — ramassage gratuit, paiement instantané, conformité FSSAI RUCO.",
+      "category": "AI & Machine Learning",
       "website": "https://novaflow-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T11:52:35.512964+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T13:22:12.933396+00:00"
     },
     {
       "name": "PlugBoard",
       "slug": "polsia-plugboard",
+      "description": "Connecting independent producers with playlist curators. A marketplace for beat, instrumental, and remix placement.",
+      "description_fr": "Connecter des producteurs indépendants avec des conservateurs de playlists. Un marché pour le placement de rythmes, d'instruments et de remix.",
+      "category": "E-Commerce & Retail",
       "website": "https://plugboard.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T11:52:41.111192+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T13:22:14.220531+00:00"
     },
     {
       "name": "Vincente.shop",
@@ -193438,6 +193444,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-14T11:52:59.984373+00:00"
+    },
+    {
+      "name": "NicheForge",
+      "slug": "polsia-nicheforge-9",
+      "website": "https://nicheforge-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T13:21:09.531405+00:00"
+    },
+    {
+      "name": "FlowSync",
+      "slug": "polsia-flowsync-wyz07r",
+      "website": "https://flowsync-wyz07r.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T13:21:14.959210+00:00"
+    },
+    {
+      "name": "PrijsWijs",
+      "slug": "polsia-prijswijs",
+      "website": "https://prijswijs.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T13:21:20.335835+00:00"
+    },
+    {
+      "name": "GridBrain",
+      "slug": "polsia-gridbrain",
+      "website": "https://gridbrain.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T13:21:25.873638+00:00"
+    },
+    {
+      "name": "FluxMed",
+      "slug": "polsia-fluxmed",
+      "description": "Autonomous AI agents that continuously monitor, categorize, and act on medical data — around the clock.",
+      "description_fr": "Des agents d'IA autonomes qui surveillent, catégorisent et agissent en permanence sur les données médicales, 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://fluxmed.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T13:22:37.871166+00:00"
+    },
+    {
+      "name": "MythForge",
+      "slug": "polsia-mythforge-3",
+      "website": "https://mythforge-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T13:21:36.757228+00:00"
+    },
+    {
+      "name": "ThePrintersHeaven",
+      "slug": "polsia-theprintersheaven",
+      "description": "Vintage botaniske print-on-demand produkter for natur- og miljøbevisste forbrukere",
+      "description_fr": "Produit d'impression à la demande botanique vintage pour natur- og miljøbevisste forbrukere",
+      "category": "Other",
+      "website": "https://theprintersheaven.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T13:22:44.367776+00:00"
+    },
+    {
+      "name": "AutoWP",
+      "slug": "polsia-autowp",
+      "description": "AI-drevet WordPress-drift uten manuell inngripen. Automatisk sikkerhet, backup, SEO og skalerbarhet i én plattform.",
+      "description_fr": "L'intelligence artificielle dérive de WordPress à l'aide d'une poignée manuelle. Sauvegarde automatique, sauvegarde, référencement et mise à niveau sur la plateforme.",
+      "category": "AI & Machine Learning",
+      "website": "https://autowp.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T13:21:43.589334+00:00"
+    },
+    {
+      "name": "TestoPrime",
+      "slug": "polsia-testoprime",
+      "description": "Natural testosterone support engineered for peak male vitality.",
+      "description_fr": "Support naturel de testostérone conçu pour une vitalité masculine maximale.",
+      "category": "Other",
+      "website": "https://testoprime.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T13:21:44.525067+00:00"
+    },
+    {
+      "name": "Build & Bloom Freedom",
+      "slug": "polsia-build-bloom-freedom",
+      "description": "Turn your homeschool wisdom into digital products that earn while you're home.",
+      "description_fr": "Transformez la sagesse de votre école à la maison en produits numériques qui gagnent de l'argent pendant que vous êtes à la maison.",
+      "category": "Other",
+      "website": "https://build-bloom-freedom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T13:21:45.942539+00:00"
     }
   ]
 }
