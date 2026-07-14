@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T16:38:54.082422+00:00",
+  "last_updated": "2026-07-14T17:47:38.198888+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -193673,34 +193673,46 @@
     {
       "name": "LeaseLoop",
       "slug": "polsia-leaseloop-6",
+      "description": "24/7 AI agents running your rental portfolio on autopilot. Triaging tenant requests, dispatching vetted contractors, and tracking every dollar — all while you sleep.",
+      "description_fr": "Des agents IA 24h/24 et 7j/7 gèrent votre portefeuille de location sur pilote automatique. Triez les demandes des locataires, répartissez les sous-traitants sélectionnés et suivez chaque dollar, tout cela pendant que vous dormez.",
+      "category": "AI & Machine Learning",
       "website": "https://leaseloop-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T16:37:11.952221+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T17:47:04.310243+00:00"
     },
     {
       "name": "Atelio",
       "slug": "polsia-atelio-5",
+      "description": "L'agent IA qui exécute vraiment le travail des artisans et ateliers.",
+      "description_fr": "L'agent IA qui exécute vraiment le travail des artisans et ateliers.",
+      "category": "Other",
       "website": "https://atelio-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T16:37:17.345471+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T17:47:05.704945+00:00"
     },
     {
       "name": "Hearthstone Commons",
       "slug": "polsia-hearthstone-commons",
+      "description": "Affordable, dignified senior living in an intimate 10-resident micro-home.",
+      "description_fr": "Une vie pour personnes âgées abordable et digne dans une micro-maison intime de 10 résidents.",
+      "category": "Other",
       "website": "https://hearthstone-commons.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T16:37:22.897928+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T17:47:06.692238+00:00"
     },
     {
       "name": "SlabVault",
       "slug": "polsia-slabvault-3",
+      "description": "Digital PSA mystery packs — ship the slab home or cash out at 90% of fair market value.",
+      "description_fr": "Packs mystères PSA numériques : expédiez la dalle à la maison ou encaissez à 90 % de sa juste valeur marchande.",
+      "category": "Other",
       "website": "https://slabvault-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T16:37:28.336222+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T17:47:08.558120+00:00"
     },
     {
       "name": "1cycles",
@@ -193713,18 +193725,24 @@
     {
       "name": "Repbrief",
       "slug": "polsia-repbrief",
+      "description": "Every review, mention, and ticket — drafted, approved, summarized daily. Repbrief is the AI reputation copilot that turns noisy customer signals into on-brand replies your team approves before they go live.",
+      "description_fr": "Chaque avis, mention et ticket – rédigé, approuvé, résumé quotidiennement. Repbrief est le copilote de réputation de l'IA qui transforme les signaux bruyants des clients en réponses conformes à la marque que votre équipe approuve avant leur mise en ligne.",
+      "category": "AI & Machine Learning",
       "website": "https://repbrief.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T16:37:34.242257+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T17:47:10.168834+00:00"
     },
     {
       "name": "FluxoTheta",
       "slug": "polsia-fluxotheta",
+      "description": "Newsletter educacional em português sobre venda de opções e geração de fluxo mensal de renda via theta decay.",
+      "description_fr": "Bulletin éducatif en português sur la vente d'options et la génération de flux mensuels de rendu via la désintégration thêta.",
+      "category": "Newsletter & Email",
       "website": "https://fluxotheta.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T16:37:39.692170+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T17:47:11.149226+00:00"
     },
     {
       "name": "Aventiqo",
@@ -193747,6 +193765,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-14T16:38:54.081099+00:00"
+    },
+    {
+      "name": "Nightshift",
+      "slug": "polsia-nightshift-w0zyc6",
+      "website": "https://nightshift-w0zyc6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T17:46:14.327502+00:00"
+    },
+    {
+      "name": "Solven",
+      "slug": "polsia-solven-2",
+      "website": "https://solven-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T17:46:24.827053+00:00"
+    },
+    {
+      "name": "Deliroute",
+      "slug": "polsia-deliroute",
+      "description": "LatAm-focused last-mile routing that learns from every stop. Optimize delivery routes, slash ETAs, and build routing intelligence with every run.",
+      "description_fr": "Un itinéraire du dernier kilomètre axé sur l'Amérique latine et qui apprend de chaque arrêt. Optimisez les itinéraires de livraison, réduisez les ETA et développez des informations de routage à chaque passage.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://deliroute.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T17:47:32.827121+00:00"
+    },
+    {
+      "name": "Sunny Sprout",
+      "slug": "polsia-sunny-sprout",
+      "website": "https://sunny-sprout.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T17:46:35.733232+00:00"
+    },
+    {
+      "name": "Atelier Bona",
+      "slug": "polsia-atelier-bona",
+      "description": "Engineering-grade AI agents for European operators who outgrew no-code.",
+      "description_fr": "Agents IA de niveau ingénierie pour les opérateurs européens qui ont dépassé le no-code.",
+      "category": "AI & Machine Learning",
+      "website": "https://atelier-bona.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T17:46:37.152435+00:00"
+    },
+    {
+      "name": "Winner Academy of Communication",
+      "slug": "polsia-winner-academy-of-communication",
+      "description": "Learn English a Bit, But Daily — Start Small, Achieve Big. Free bite-sized lessons for Sri Lankan students, job seekers, and aspiring professionals.",
+      "description_fr": "Apprenez l'anglais un peu, mais quotidiennement - Commencez petit, réalisez grand. De petites leçons gratuites pour les étudiants sri-lankais, les demandeurs d'emploi et les aspirants professionnels.",
+      "category": "Education",
+      "website": "https://winner-academy-of-communication.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T17:46:38.197828+00:00"
+    },
+    {
+      "name": "Aevum",
+      "slug": "polsia-aevum-5",
+      "description": "Always-on clinical intelligence for therapy practices. Real-time risk alerting, automated ops, and HIPAA-aware session notes — built for solo therapists and small-group private practices.",
+      "description_fr": "Intelligence clinique toujours active pour les pratiques thérapeutiques. Alertes de risque en temps réel, opérations automatisées et notes de séance conformes à la HIPAA — conçues pour les thérapeutes solo et les cabinets privés en petits groupes.",
+      "category": "Health & Wellness",
+      "website": "https://aevum-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T17:46:39.248515+00:00"
+    },
+    {
+      "name": "LustrePro",
+      "slug": "polsia-lustrepro",
+      "description": "Plateforme SaaS de réservation pour le detailing automobile haut de gamme à domicile en Tunisie.",
+      "description_fr": "Plateforme SaaS de réservation pour le détaillant automobile haut de gamme à domicile en Tunisie.",
+      "category": "Software & SaaS",
+      "website": "https://lustrepro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T17:46:40.254893+00:00"
+    },
+    {
+      "name": "Fieldmind",
+      "slug": "polsia-fieldmind-jouq2g",
+      "description": "Autonomous AI operator for KNX and BACnet buildings.",
+      "description_fr": "Opérateur IA autonome pour les bâtiments KNX et BACnet.",
+      "category": "AI & Machine Learning",
+      "website": "https://fieldmind-jouq2g.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T17:46:41.515894+00:00"
+    },
+    {
+      "name": "Patchline",
+      "slug": "polsia-patchline-3",
+      "description": "Your always-on AI gaming-ops agent on Discord.",
+      "description_fr": "Votre agent d'opérations de jeu IA toujours actif sur Discord.",
+      "category": "AI & Machine Learning",
+      "website": "https://patchline-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T17:46:43.518950+00:00"
     }
   ]
 }
