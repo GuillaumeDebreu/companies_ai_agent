@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T04:12:55.896559+00:00",
+  "last_updated": "2026-07-14T06:27:26.725963+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -192901,34 +192901,46 @@
     {
       "name": "CodeSentinel",
       "slug": "polsia-codesentinel-a6mktl",
+      "description": "Autonomous AI code review that watches every PR, writes fixes, and keeps your metrics flowing.",
+      "description_fr": "Examen autonome du code d'IA qui surveille chaque PR, écrit des correctifs et maintient vos métriques en flux.",
+      "category": "AI & Machine Learning",
       "website": "https://codesentinel-a6mktl.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T04:11:43.571631+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T06:26:46.995907+00:00"
     },
     {
       "name": "FloorPilot",
       "slug": "polsia-floorpilot-a0m9yi",
+      "description": "Autonomous AI agents that run your flooring business 24/7.",
+      "description_fr": "Des agents IA autonomes qui gèrent votre entreprise de revêtements de sol 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://floorpilot-a0m9yi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T04:11:48.799521+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T06:26:48.073121+00:00"
     },
     {
       "name": "Floos Real Estate",
       "slug": "polsia-floos-real-estate",
+      "description": "Dubai's trusted partner for off-plan, resale, and rental property investments. Access over 100 luxury listings with 4.8/5 client rating.",
+      "description_fr": "Le partenaire de confiance de Dubaï pour les investissements immobiliers sur plan, en revente et en location. Accédez à plus de 100 annonces de luxe avec une note client de 4,8/5.",
+      "category": "Real Estate",
       "website": "https://floos-real-estate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T04:11:54.067668+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T06:26:49.437297+00:00"
     },
     {
       "name": "LootDeck PH",
       "slug": "polsia-lootdeck-ph",
+      "description": "Affordable Game Credits & Account Services — Filipino-Gamer Trusted. Get discounted diamonds, crystals, and professional boosting services.",
+      "description_fr": "Crédits de jeu et services de compte abordables – Philippins-Gamer Trust. Bénéficiez de diamants, de cristaux et de services de boosting professionnels à prix réduit.",
+      "category": "Other",
       "website": "https://lootdeck-ph.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T04:11:59.339950+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T06:26:50.148437+00:00"
     },
     {
       "name": "UptimeAgent",
@@ -192995,6 +193007,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-14T04:12:11.808389+00:00"
+    },
+    {
+      "name": "PhytoSense",
+      "slug": "polsia-phytosense",
+      "website": "https://phytosense.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T06:26:09.301097+00:00"
+    },
+    {
+      "name": "DeployMind",
+      "slug": "polsia-deploymind-3",
+      "website": "https://deploymind-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T06:26:09.866946+00:00"
+    },
+    {
+      "name": "Pricepulse",
+      "slug": "polsia-pricepulse-lo879p",
+      "website": "https://pricepulse-lo879p.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T06:26:10.433661+00:00"
+    },
+    {
+      "name": "SyncCast",
+      "slug": "polsia-synccast",
+      "website": "https://synccast.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T06:26:10.983158+00:00"
+    },
+    {
+      "name": "TruckStack",
+      "slug": "polsia-truckstack-2",
+      "website": "https://truckstack-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T06:26:16.356884+00:00"
+    },
+    {
+      "name": "Wellington Residential",
+      "slug": "polsia-wellington-residential",
+      "website": "https://wellington-residential.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T06:26:21.707520+00:00"
+    },
+    {
+      "name": "PermitPilot",
+      "slug": "polsia-permitpilot-e6d32e",
+      "description": "AI-powered permit automation for construction professionals. Automate applications, track status, and stay compliant — from hours of paperwork to minutes.",
+      "description_fr": "Automatisation des permis basée sur l'IA pour les professionnels de la construction. Automatisez les applications, suivez leur statut et restez conforme, depuis des heures de paperasse jusqu'à quelques minutes.",
+      "category": "AI & Machine Learning",
+      "website": "https://permitpilot-e6d32e.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T06:26:23.186733+00:00"
+    },
+    {
+      "name": "Nouwd",
+      "slug": "polsia-nouwd",
+      "description": "Building digital experiences for modern audiences.",
+      "description_fr": "Créer des expériences numériques pour les publics modernes.",
+      "category": "Other",
+      "website": "https://nouwd.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T06:26:23.876834+00:00"
+    },
+    {
+      "name": "Polsia",
+      "slug": "polsia-polsia-boekzh",
+      "description": "AI agents that run your company for solo founders. Deploy a complete virtual team — engineering, marketing, sales, support — 24/7.",
+      "description_fr": "Agents IA qui gèrent votre entreprise pour les fondateurs solo. Déployez une équipe virtuelle complète – ingénierie, marketing, ventes, support – 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://polsia-boekzh.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T06:26:25.312899+00:00"
+    },
+    {
+      "name": "PulseMetrics",
+      "slug": "polsia-pulsemetrics-5",
+      "description": "AI-powered training optimization and injury prevention for amateur athletes.",
+      "description_fr": "Optimisation de l’entraînement et prévention des blessures grâce à l’IA pour les athlètes amateurs.",
+      "category": "AI & Machine Learning",
+      "website": "https://pulsemetrics-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T06:26:26.648303+00:00"
     }
   ]
 }
