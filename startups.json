@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T08:37:50.866494+00:00",
+  "last_updated": "2026-07-14T10:25:02.392462+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -193121,10 +193121,13 @@
     {
       "name": "VelocityDrop",
       "slug": "polsia-velocitydrop",
+      "description": "Millisecond-speed AI monitoring and auto-purchase for limited-edition product drops. Never miss a drop again.",
+      "description_fr": "Surveillance de l'IA à la milliseconde et achat automatique pour les produits en édition limitée. Ne manquez plus jamais une goutte.",
+      "category": "AI & Machine Learning",
       "website": "https://velocitydrop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T08:36:54.084962+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T10:24:22.826994+00:00"
     },
     {
       "name": "ServicePro Digital",
@@ -193221,6 +193224,101 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-07-14T08:37:08.110894+00:00"
+    },
+    {
+      "name": "Yalabo",
+      "slug": "polsia-yalabo",
+      "website": "https://yalabo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T10:23:24.604284+00:00"
+    },
+    {
+      "name": "Wildman Deaf Services",
+      "slug": "polsia-wildman-deaf-services",
+      "website": "https://wildman-deaf-services.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T10:23:30.189840+00:00"
+    },
+    {
+      "name": "Arbisync",
+      "slug": "polsia-arbisync",
+      "website": "https://arbisync.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T10:23:35.614588+00:00"
+    },
+    {
+      "name": "CaseKey AI",
+      "slug": "polsia-casekey-ai",
+      "website": "https://casekey-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T10:23:41.032971+00:00"
+    },
+    {
+      "name": "Cobber",
+      "slug": "polsia-cobber",
+      "description": "Mates helping mates move second-hand furniture. Connect with drivers who have utes, vans and trailers — and get your bulky buys delivered.",
+      "description_fr": "Des amis aident leurs amis à déplacer des meubles d'occasion. Connectez-vous avec des conducteurs qui possèdent des utilitaires, des fourgonnettes et des remorques et faites livrer vos achats volumineux.",
+      "category": "Sustainability & Green",
+      "website": "https://cobber.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T10:24:56.097008+00:00"
+    },
+    {
+      "name": "NexusIQ",
+      "slug": "polsia-nexusiq-nf4ocm",
+      "website": "https://nexusiq-nf4ocm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T10:23:51.789820+00:00"
+    },
+    {
+      "name": "SAI Vault",
+      "slug": "polsia-sai-vault",
+      "description": "AI-powered platform where Gen Z entrepreneurs launch, grow, and scale their online businesses.",
+      "description_fr": "Plateforme basée sur l'IA où les entrepreneurs de la génération Z lancent, développent et font évoluer leurs activités en ligne.",
+      "category": "AI & Machine Learning",
+      "website": "https://sai-vault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T10:25:02.391346+00:00"
+    },
+    {
+      "name": "Blush & Bayou Beauty",
+      "slug": "polsia-blush-bayou-beauty",
+      "description": "Clean Beauty, Real Results. Eco-conscious skincare crafted for health-conscious consumers.",
+      "description_fr": "Une beauté propre, de vrais résultats. Des soins de la peau respectueux de l'environnement conçus pour les consommateurs soucieux de leur santé.",
+      "category": "Health & Wellness",
+      "website": "https://blush-bayou-beauty.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T10:23:58.944517+00:00"
+    },
+    {
+      "name": "MentionScout",
+      "slug": "polsia-mentionscout",
+      "description": "Turn every brand mention into a sales opportunity — automatically. AI-powered social media monitoring, responses, and lead capture.",
+      "description_fr": "Transformez chaque mention de marque en opportunité de vente, automatiquement. Surveillance des médias sociaux, réponses et capture de leads basées sur l'IA.",
+      "category": "Marketing & Advertising",
+      "website": "https://mentionscout.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T10:24:01.144318+00:00"
+    },
+    {
+      "name": "FysioHub",
+      "slug": "polsia-fysiohub",
+      "description": "Din coworking-plats för fysioterapeuter med behandlingsrum och utrustning i Stockholm.",
+      "description_fr": "Il y a des plates-formes de coworking pour les physiothérapeutes avec des services de gestion et de gestion à Stockholm.",
+      "category": "Other",
+      "website": "https://fysiohub.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T10:24:02.558571+00:00"
     }
   ]
 }
