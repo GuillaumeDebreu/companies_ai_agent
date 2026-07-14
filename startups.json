@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T15:08:14.119692+00:00",
+  "last_updated": "2026-07-14T16:38:54.082422+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -193558,18 +193558,24 @@
     {
       "name": "GrantPulse",
       "slug": "polsia-grantpulse-cfu0uw",
+      "description": "Automated grant applications, running while you sleep. AI-powered continuous scanning and drafting for small businesses and nonprofits.",
+      "description_fr": "Demandes de subvention automatisées, exécutées pendant que vous dormez. Numérisation et rédaction continues basées sur l'IA pour les petites entreprises et les organisations à but non lucratif.",
+      "category": "AI & Machine Learning",
       "website": "https://grantpulse-cfu0uw.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T15:06:44.190768+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T16:38:10.945366+00:00"
     },
     {
       "name": "India Statistics",
       "slug": "polsia-india-statistics",
+      "description": "Data stories about India in charts and infographics.",
+      "description_fr": "Histoires de données sur l'Inde sous forme de graphiques et d'infographies.",
+      "category": "Other",
       "website": "https://india-statistics.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T15:06:49.570359+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T16:38:11.856893+00:00"
     },
     {
       "name": "Apps100",
@@ -193582,10 +193588,13 @@
     {
       "name": "ReplyMind",
       "slug": "polsia-replymind-5",
+      "description": "Agenti AI che monitorano e rispondono alle recensioni su tutti i marketplace, 24/7.",
+      "description_fr": "Agents IA qui surveillent et répondent à toutes les critiques de tout le marché, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://replymind-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T15:06:55.555376+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T16:38:14.252865+00:00"
     },
     {
       "name": "Altiva",
@@ -193652,6 +193661,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-14T15:07:26.178219+00:00"
+    },
+    {
+      "name": "PostLocal Studio",
+      "slug": "polsia-postlocal-studio",
+      "website": "https://postlocal-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T16:37:06.561751+00:00"
+    },
+    {
+      "name": "LeaseLoop",
+      "slug": "polsia-leaseloop-6",
+      "website": "https://leaseloop-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T16:37:11.952221+00:00"
+    },
+    {
+      "name": "Atelio",
+      "slug": "polsia-atelio-5",
+      "website": "https://atelio-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T16:37:17.345471+00:00"
+    },
+    {
+      "name": "Hearthstone Commons",
+      "slug": "polsia-hearthstone-commons",
+      "website": "https://hearthstone-commons.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T16:37:22.897928+00:00"
+    },
+    {
+      "name": "SlabVault",
+      "slug": "polsia-slabvault-3",
+      "website": "https://slabvault-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T16:37:28.336222+00:00"
+    },
+    {
+      "name": "1cycles",
+      "slug": "polsia-1cycles",
+      "website": "https://1cycles.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T16:37:28.772926+00:00"
+    },
+    {
+      "name": "Repbrief",
+      "slug": "polsia-repbrief",
+      "website": "https://repbrief.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T16:37:34.242257+00:00"
+    },
+    {
+      "name": "FluxoTheta",
+      "slug": "polsia-fluxotheta",
+      "website": "https://fluxotheta.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T16:37:39.692170+00:00"
+    },
+    {
+      "name": "Aventiqo",
+      "slug": "polsia-aventiqo",
+      "description": "AI Enablement Partner for Mid-Market Enterprises — turning AI pilots into operational systems.",
+      "description_fr": "Partenaire d'activation de l'IA pour les entreprises de taille moyenne : transformer les pilotes d'IA en systèmes opérationnels.",
+      "category": "AI & Machine Learning",
+      "website": "https://aventiqo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T16:38:52.572295+00:00"
+    },
+    {
+      "name": "Vendwise",
+      "slug": "polsia-vendwise-2",
+      "description": "Autonomous vending placement for commercial property owners. Monthly passive income, zero truck rolls.",
+      "description_fr": "Placement de distributeurs automatiques autonomes pour les propriétaires d'immeubles commerciaux. Revenu passif mensuel, zéro déplacement de camion.",
+      "category": "Real Estate",
+      "website": "https://vendwise-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T16:38:54.081099+00:00"
     }
   ]
 }
