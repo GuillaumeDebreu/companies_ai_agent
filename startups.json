@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T10:25:02.392462+00:00",
+  "last_updated": "2026-07-14T11:53:46.744507+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -193228,34 +193228,46 @@
     {
       "name": "Yalabo",
       "slug": "polsia-yalabo",
+      "description": "Instant team building games — no downloads, no setup, pure fun.",
+      "description_fr": "Jeux de team building instantanés – pas de téléchargement, pas de configuration, du pur plaisir.",
+      "category": "Other",
       "website": "https://yalabo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T10:23:24.604284+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T11:53:26.948609+00:00"
     },
     {
       "name": "Wildman Deaf Services",
       "slug": "polsia-wildman-deaf-services",
+      "description": "Breaking barriers, building bridges for Kentucky's Deaf and hard-of-hearing communities.",
+      "description_fr": "Briser les barrières, construire des ponts pour les communautés sourdes et malentendantes du Kentucky.",
+      "category": "Other",
       "website": "https://wildman-deaf-services.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T10:23:30.189840+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T11:53:28.015518+00:00"
     },
     {
       "name": "Arbisync",
       "slug": "polsia-arbisync",
+      "description": "AI agents that chase payments so you don't have to. Automate client invoicing, reconcile payments in real time, and send intelligent reminders — 24/7.",
+      "description_fr": "Des agents IA qui recherchent les paiements pour que vous n'ayez pas à le faire. Automatisez la facturation des clients, rapprochez les paiements en temps réel et envoyez des rappels intelligents, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://arbisync.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T10:23:35.614588+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T11:53:29.228020+00:00"
     },
     {
       "name": "CaseKey AI",
       "slug": "polsia-casekey-ai",
+      "description": "Find cases. Get guidance. File forms. AI-powered legal research, guidance, and document generation for Canadian courts.",
+      "description_fr": "Trouver des cas. Obtenez des conseils. Formulaires de fichiers. Recherche juridique, conseils et génération de documents basés sur l'IA pour les tribunaux canadiens.",
+      "category": "AI & Machine Learning",
       "website": "https://casekey-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T10:23:41.032971+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T11:53:31.121922+00:00"
     },
     {
       "name": "Cobber",
@@ -193271,10 +193283,13 @@
     {
       "name": "NexusIQ",
       "slug": "polsia-nexusiq-nf4ocm",
+      "description": "The autonomous intelligence agent that watches, decides, and acts so you do not have to.",
+      "description_fr": "L'agent de renseignement autonome qui surveille, décide et agit pour que vous n'ayez pas à le faire.",
+      "category": "Other",
       "website": "https://nexusiq-nf4ocm.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T10:23:51.789820+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T11:53:32.961212+00:00"
     },
     {
       "name": "SAI Vault",
@@ -193319,6 +193334,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-14T10:24:02.558571+00:00"
+    },
+    {
+      "name": "Novaflow",
+      "slug": "polsia-novaflow-3",
+      "website": "https://novaflow-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T11:52:35.512964+00:00"
+    },
+    {
+      "name": "PlugBoard",
+      "slug": "polsia-plugboard",
+      "website": "https://plugboard.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T11:52:41.111192+00:00"
+    },
+    {
+      "name": "Vincente.shop",
+      "slug": "polsia-vincenteshop",
+      "description": "Prodotti vincenti, margini elevati, vendite social. La piattaforma e-commerce italiana per imprenditori che vogliono vendere online con strategia data-driven.",
+      "description_fr": "Produits vincenti, marges élevées, vente sociale. La plateforme de commerce électronique italien pour les entrepreneurs qui souhaitent vendre une stratégie en ligne basée sur les données.",
+      "category": "E-Commerce & Retail",
+      "website": "https://vincenteshop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T11:53:45.360278+00:00"
+    },
+    {
+      "name": "ProStack",
+      "slug": "polsia-prostack-9",
+      "description": "Digital products built for creators and the professionals they serve.",
+      "description_fr": "Produits numériques conçus pour les créateurs et les professionnels qu'ils servent.",
+      "category": "Other",
+      "website": "https://prostack-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T11:53:46.742988+00:00"
+    },
+    {
+      "name": "NexxieDesk",
+      "slug": "polsia-nexxiedesk",
+      "description": "Yazılım ajansları için AI destekli müşteri hizmetleri ve proje yönetimi platformu. 7/24 çalışan AI ajanları ile müşteri taleplerini anında karşılayın.",
+      "description_fr": "Vous pouvez utiliser l'IA pour créer des appareils et des projets de votre plate-forme. 7/24 AI ajanları ile müşteri taleplerini anında karşılayın.",
+      "category": "AI & Machine Learning",
+      "website": "https://nexxiedesk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T11:52:53.886354+00:00"
+    },
+    {
+      "name": "Irving Industries LLC",
+      "slug": "polsia-irving-industries-llc",
+      "description": "Mobile apps and web solutions built for real-world use.",
+      "description_fr": "Applications mobiles et solutions Web conçues pour une utilisation réelle.",
+      "category": "Other",
+      "website": "https://irving-industries-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T11:52:55.056437+00:00"
+    },
+    {
+      "name": "StyleTech Pro",
+      "slug": "polsia-styletech-pro",
+      "description": "Professional grooming equipment engineered for salon excellence and home precision.",
+      "description_fr": "Équipement de toilettage professionnel conçu pour l'excellence en salon et la précision à domicile.",
+      "category": "Other",
+      "website": "https://styletech-pro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T11:52:56.303654+00:00"
+    },
+    {
+      "name": "AetherOS",
+      "slug": "polsia-aetheros-6",
+      "description": "The autonomous AI agent that makes buildings work smarter. AetherOS monitors and optimizes indoor air quality, energy usage, and waste patterns around the clock across commercial buildings.",
+      "description_fr": "L'agent IA autonome qui rend les bâtiments plus intelligents. AetherOS surveille et optimise la qualité de l'air intérieur, la consommation d'énergie et les modèles de déchets 24 heures sur 24 dans les bâtiments commerciaux.",
+      "category": "AI & Machine Learning",
+      "website": "https://aetheros-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T11:52:57.654529+00:00"
+    },
+    {
+      "name": "OrbitAI",
+      "slug": "polsia-orbitai-9",
+      "description": "Autonomous AI agents that run your entire marketing operation.",
+      "description_fr": "Des agents d'IA autonomes qui gèrent l'intégralité de vos opérations marketing.",
+      "category": "AI & Machine Learning",
+      "website": "https://orbitai-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T11:52:58.912580+00:00"
+    },
+    {
+      "name": "Vigil",
+      "slug": "polsia-vigil-m60m8f",
+      "description": "Autonomous portfolio monitoring with real-time risk alerts for venture investors.",
+      "description_fr": "Surveillance autonome du portefeuille avec alertes de risque en temps réel pour les investisseurs en capital-risque.",
+      "category": "Other",
+      "website": "https://vigil-m60m8f.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T11:52:59.984373+00:00"
     }
   ]
 }
