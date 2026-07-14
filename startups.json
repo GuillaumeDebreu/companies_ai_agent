@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T02:34:34.591962+00:00",
+  "last_updated": "2026-07-14T04:12:55.896559+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -192791,26 +192791,35 @@
     {
       "name": "Momentum",
       "slug": "polsia-momentum-r5o36i",
+      "description": "AI-powered social media that never sleeps.",
+      "description_fr": "Des réseaux sociaux alimentés par l'IA qui ne dorment jamais.",
+      "category": "AI & Machine Learning",
       "website": "https://momentum-r5o36i.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T01:00:52.828197+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T04:12:31.776456+00:00"
     },
     {
       "name": "Fox Den Indoor Golf",
       "slug": "polsia-fox-den-indoor-golf",
+      "description": "Premium indoor golf with TrackMan precision in Lancaster, PA — four simulator bays, over 200 courses, year-round play.",
+      "description_fr": "Golf intérieur haut de gamme avec précision TrackMan à Lancaster, Pennsylvanie : quatre baies de simulation, plus de 200 parcours, jeu toute l'année.",
+      "category": "Education",
       "website": "https://fox-den-indoor-golf.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T01:00:58.510160+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T04:12:32.806870+00:00"
     },
     {
       "name": "AgentNexus",
       "slug": "polsia-agentnexus-8",
+      "description": "The autonomous marketplace where AI agents hire, task, and pay each other.",
+      "description_fr": "Le marché autonome où les agents d'IA s'embauchent, se chargent de tâches et se rémunèrent.",
+      "category": "AI & Machine Learning",
       "website": "https://agentnexus-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-14T01:01:04.134190+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-14T04:12:34.028981+00:00"
     },
     {
       "name": "Essentially",
@@ -192888,6 +192897,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-14T01:01:13.932098+00:00"
+    },
+    {
+      "name": "CodeSentinel",
+      "slug": "polsia-codesentinel-a6mktl",
+      "website": "https://codesentinel-a6mktl.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T04:11:43.571631+00:00"
+    },
+    {
+      "name": "FloorPilot",
+      "slug": "polsia-floorpilot-a0m9yi",
+      "website": "https://floorpilot-a0m9yi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T04:11:48.799521+00:00"
+    },
+    {
+      "name": "Floos Real Estate",
+      "slug": "polsia-floos-real-estate",
+      "website": "https://floos-real-estate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T04:11:54.067668+00:00"
+    },
+    {
+      "name": "LootDeck PH",
+      "slug": "polsia-lootdeck-ph",
+      "website": "https://lootdeck-ph.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-14T04:11:59.339950+00:00"
+    },
+    {
+      "name": "UptimeAgent",
+      "slug": "polsia-uptimeagent-2",
+      "description": "Autonomous API monitoring that automatically files GitHub issues when endpoints fail.",
+      "description_fr": "Surveillance autonome des API qui enregistre automatiquement les problèmes GitHub en cas de défaillance des points de terminaison.",
+      "category": "Software & SaaS",
+      "website": "https://uptimeagent-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T04:12:55.895108+00:00"
+    },
+    {
+      "name": "Innovate Spa",
+      "slug": "polsia-innovate-spa",
+      "description": "Innovate Spa offers restorative treatments designed to rejuvenate both body and mind. Massage, body treatments, and holistic wellness therapies in Long Beach, California.",
+      "description_fr": "Innovate Spa propose des soins réparateurs conçus pour rajeunir le corps et l'esprit. Massages, soins corporels et thérapies de bien-être holistiques à Long Beach, en Californie.",
+      "category": "Software & SaaS",
+      "website": "https://innovate-spa.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T04:12:05.919655+00:00"
+    },
+    {
+      "name": "CreditElevate",
+      "slug": "polsia-creditelevate",
+      "description": "Helping credit union members build stronger credit through intelligent technology.",
+      "description_fr": "Aider les membres des coopératives de crédit à renforcer leur crédit grâce à une technologie intelligente.",
+      "category": "Other",
+      "website": "https://creditelevate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T04:12:07.497648+00:00"
+    },
+    {
+      "name": "ScaleOps",
+      "slug": "polsia-scaleops-dwwfdd",
+      "description": "AI agents, handled for you. Automate lead handling, scheduling, and document workflows without managing it yourself.",
+      "description_fr": "Agents IA, gérés pour vous. Automatisez la gestion des leads, la planification et les flux de documents sans les gérer vous-même.",
+      "category": "AI & Machine Learning",
+      "website": "https://scaleops-dwwfdd.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T04:12:09.163854+00:00"
+    },
+    {
+      "name": "Orbitly",
+      "slug": "polsia-orbitly-7",
+      "description": "Launch and monetize every revenue stream from one platform.",
+      "description_fr": "Lancez et monétisez chaque source de revenus à partir d’une seule plateforme.",
+      "category": "Software & SaaS",
+      "website": "https://orbitly-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T04:12:10.337628+00:00"
+    },
+    {
+      "name": "DropSwift",
+      "slug": "polsia-dropswift",
+      "description": "Vetted suppliers, faster fulfillment — ship without the headache.",
+      "description_fr": "Fournisseurs sélectionnés, traitement plus rapide – expédiez sans soucis.",
+      "category": "AI & Machine Learning",
+      "website": "https://dropswift.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-14T04:12:11.808389+00:00"
     }
   ]
 }
