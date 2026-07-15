@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T11:55:20.867771+00:00",
+  "last_updated": "2026-07-15T13:40:31.508377+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -194975,18 +194975,24 @@
     {
       "name": "RepriceIQ",
       "slug": "polsia-repriceiq-1alekw",
+      "description": "Autonomous repricing that protects your margins 24/7",
+      "description_fr": "Une retarification autonome qui protège vos marges 24h/24 et 7j/7",
+      "category": "Other",
       "website": "https://repriceiq-1alekw.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T11:53:36.999919+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T13:39:53.800287+00:00"
     },
     {
       "name": "Estoke.ai",
       "slug": "polsia-estokeai",
+      "description": "Inventário inteligente que reabastece sozinho e previne rupturas para e-commerces",
+      "description_fr": "Inventaire intelligent pour réabastece sozinho et prévenir les ruptures pour les commerces électroniques",
+      "category": "AI & Machine Learning",
       "website": "https://estokeai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T11:53:42.284036+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T13:39:55.213815+00:00"
     },
     {
       "name": "SozialPilot",
@@ -194999,42 +195005,57 @@
     {
       "name": "FlowMind AI",
       "slug": "polsia-flowmind-ai-kmye2y",
+      "description": "AI-автоматизация для роста бизнеса без пропорционального найма",
+      "description_fr": "Automatisation de l'IA pour le travail des entreprises sans proportionnalité",
+      "category": "AI & Machine Learning",
       "website": "https://flowmind-ai-kmye2y.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T11:53:53.086040+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T13:39:56.654463+00:00"
     },
     {
       "name": "ComplyIQ",
       "slug": "polsia-complyiq-3",
+      "description": "AI agents that never miss a compliance deadline.",
+      "description_fr": "Des agents IA qui ne manquent jamais une date limite de conformité.",
+      "category": "AI & Machine Learning",
       "website": "https://complyiq-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T11:53:58.426419+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T13:39:57.874245+00:00"
     },
     {
       "name": "SendYou",
       "slug": "polsia-sendyou",
+      "description": "AI-powered daily face art and profile pictures for your digital identity.",
+      "description_fr": "Des visages et des photos de profil quotidiens alimentés par l'IA pour votre identité numérique.",
+      "category": "AI & Machine Learning",
       "website": "https://sendyou.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T11:54:03.729016+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T13:39:59.615289+00:00"
     },
     {
       "name": "CodePatrol",
       "slug": "polsia-codepatrol-xwa4f8",
+      "description": "Autonomous AI code review that monitors continuously and fixes what it finds.",
+      "description_fr": "Examen autonome du code de l'IA qui surveille en permanence et corrige ce qu'il trouve.",
+      "category": "AI & Machine Learning",
       "website": "https://codepatrol-xwa4f8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T11:54:09.190846+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T13:40:00.886100+00:00"
     },
     {
       "name": "Autodílek",
       "slug": "polsia-autodlek",
+      "description": "Online autodíly s rychlým doručením pro každého řidiče.",
+      "description_fr": "Online autodíly s rychlým doručením pro každého řidiče.",
+      "category": "Other",
       "website": "https://autodlek.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T11:54:14.562417+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T13:40:02.451588+00:00"
     },
     {
       "name": "DepotPilot",
@@ -195046,6 +195067,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-15T11:54:15.467101+00:00"
+    },
+    {
+      "name": "DriveShift",
+      "slug": "polsia-driveshift-2",
+      "website": "https://driveshift-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T13:38:56.792884+00:00"
+    },
+    {
+      "name": "Palmetto Managed Solutions",
+      "slug": "polsia-palmetto-managed-solutions",
+      "website": "https://palmetto-managed-solutions.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T13:39:07.064416+00:00"
+    },
+    {
+      "name": "LocalLead AI",
+      "slug": "polsia-locallead-ai-2",
+      "website": "https://locallead-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T13:39:12.479192+00:00"
+    },
+    {
+      "name": "FinPulse AI",
+      "slug": "polsia-finpulse-ai-3",
+      "website": "https://finpulse-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T13:39:12.922039+00:00"
+    },
+    {
+      "name": "BidBeacon",
+      "slug": "polsia-bidbeacon-9",
+      "website": "https://bidbeacon-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T13:39:18.225218+00:00"
+    },
+    {
+      "name": "NexBid",
+      "slug": "polsia-nexbid",
+      "website": "https://nexbid.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T13:39:23.686495+00:00"
+    },
+    {
+      "name": "SHARK INSTINCTS",
+      "slug": "polsia-shark-instincts",
+      "description": "Multi-signal crypto automation for Indonesian Binance Futures traders",
+      "description_fr": "Automatisation de la cryptographie multi-signaux pour les traders indonésiens de Binance Futures",
+      "category": "Finance & Fintech",
+      "website": "https://shark-instincts.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T13:40:30.622302+00:00"
+    },
+    {
+      "name": "ParametricTools.com",
+      "slug": "polsia-parametrictoolscom",
+      "description": "Bezplatné online nástroje pro parametrický 2D a 3D návrh. Tři výkonné webové nástroje pro vyvýšené záhony, ozubená kola a geometrické vzory.",
+      "description_fr": "Téléchargez en ligne des sites de paramétrage 2D et 3D. Vous avez déjà visité le site Web de votre entreprise, vous avez créé une couche géométrique.",
+      "category": "Other",
+      "website": "https://parametrictoolscom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T13:40:31.507245+00:00"
+    },
+    {
+      "name": "PriceBridge",
+      "slug": "polsia-pricebridge-2",
+      "description": "Des agents IA autonomes qui surveillent et exploitent les opportunités d arbitrage entre marketplaces en temps réel.",
+      "description_fr": "Des agents IA autonomes qui surveillent et exploitent les opportunités d'arbitrage entre places de marché en temps réel.",
+      "category": "E-Commerce & Retail",
+      "website": "https://pricebridge-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T13:39:36.312935+00:00"
+    },
+    {
+      "name": "OpsMind",
+      "slug": "polsia-opsmind-82jle9",
+      "description": "Autonomous cloud infrastructure that runs itself, 24/7. AI-powered agents that continuously monitor, auto-scale, and optimize your cloud environments.",
+      "description_fr": "Infrastructure cloud autonome qui fonctionne toute seule, 24h/24 et 7j/7. Des agents basés sur l'IA qui surveillent, mettent à l'échelle automatiquement et optimisent en permanence vos environnements cloud.",
+      "category": "AI & Machine Learning",
+      "website": "https://opsmind-82jle9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T13:39:37.386437+00:00"
     }
   ]
 }
