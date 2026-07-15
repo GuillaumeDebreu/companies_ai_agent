@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T22:38:52.830821+00:00",
+  "last_updated": "2026-07-15T23:41:10.429631+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -195820,18 +195820,24 @@
     {
       "name": "Attendix",
       "slug": "polsia-attendix",
+      "description": "Unified attendance and payroll for growing businesses.",
+      "description_fr": "Présence et paie unifiées pour les entreprises en croissance.",
+      "category": "Other",
       "website": "https://attendix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T22:36:43.113520+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T23:40:10.960708+00:00"
     },
     {
       "name": "CornerMark",
       "slug": "polsia-cornermark",
+      "description": "Snap-on sheet size labels that stay put, wash after wash. Designed for hotels, Airbnb hosts, and housekeeping services.",
+      "description_fr": "Étiquettes à clipser qui restent en place, lavage après lavage. Conçu pour les hôtels, les hôtes Airbnb et les services de ménage.",
+      "category": "Travel & Hospitality",
       "website": "https://cornermark.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T22:36:43.969708+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T23:40:12.142400+00:00"
     },
     {
       "name": "Szlakomat",
@@ -195844,26 +195850,35 @@
     {
       "name": "BookedFlow",
       "slug": "polsia-bookedflow-4",
+      "description": "Modern websites for German restaurants that drive real bookings.",
+      "description_fr": "Sites Web modernes pour les restaurants allemands qui génèrent de vraies réservations.",
+      "category": "Food & Beverage",
       "website": "https://bookedflow-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T22:36:59.965734+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T23:40:23.649082+00:00"
     },
     {
       "name": "Inspired by Grace",
       "slug": "polsia-inspired-by-grace",
+      "description": "Hand-crafted workshops and professional survey services for individuals and organizations seeking personalized learning experiences and data collection solutions.",
+      "description_fr": "Ateliers fabriqués à la main et services d'enquête professionnels pour les individus et les organisations à la recherche d'expériences d'apprentissage personnalisées et de solutions de collecte de données.",
+      "category": "E-Commerce & Retail",
       "website": "https://inspired-by-grace.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T22:37:10.485677+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T23:40:24.880747+00:00"
     },
     {
       "name": "CloudPulse",
       "slug": "polsia-cloudpulse-3",
+      "description": "Continuous infrastructure health with autonomous self-healing for multi-cloud environments.",
+      "description_fr": "Santé continue de l’infrastructure avec auto-réparation autonome pour les environnements multi-cloud.",
+      "category": "Health & Wellness",
       "website": "https://cloudpulse-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T22:37:20.980971+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T23:40:26.165381+00:00"
     },
     {
       "name": "Grounded Magic",
@@ -195908,6 +195923,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-15T22:38:52.829958+00:00"
+    },
+    {
+      "name": "StockMind AI",
+      "slug": "polsia-stockmind-ai-10",
+      "website": "https://stockmind-ai-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T23:38:59.700764+00:00"
+    },
+    {
+      "name": "TurnTable Café",
+      "slug": "polsia-turntable-caf",
+      "website": "https://turntable-caf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T23:39:05.295196+00:00"
+    },
+    {
+      "name": "FreedFinds",
+      "slug": "polsia-freedfinds",
+      "website": "https://freedfinds.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T23:39:10.909703+00:00"
+    },
+    {
+      "name": "Vaultify",
+      "slug": "polsia-vaultify-2",
+      "website": "https://vaultify-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T23:39:16.555792+00:00"
+    },
+    {
+      "name": "220 Inc.",
+      "slug": "polsia-220-inc",
+      "website": "https://220-inc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T23:39:27.048108+00:00"
+    },
+    {
+      "name": "BidFlow",
+      "slug": "polsia-bidflow-2",
+      "website": "https://bidflow-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T23:39:37.542539+00:00"
+    },
+    {
+      "name": "Soundview Equine Health & Performance",
+      "slug": "polsia-soundview-equine-health-performance",
+      "description": "Integrated equine veterinary and performance breeding — from conception through competitive career, powered by licensed expertise and a vertically integrated model.",
+      "description_fr": "Vétérinaire équin intégré et élevage de performance – de la conception à la carrière compétitive, alimentés par une expertise sous licence et un modèle verticalement intégré.",
+      "category": "Health & Wellness",
+      "website": "https://soundview-equine-health-performance.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T23:41:09.581648+00:00"
+    },
+    {
+      "name": "WorkdayBridge",
+      "slug": "polsia-workdaybridge",
+      "description": "La plateforme premium qui connecte entreprises et consultants Workday vérifiés.",
+      "description_fr": "La plateforme premium qui connecte entreprises et consultants Workday vérifiés.",
+      "category": "Other",
+      "website": "https://workdaybridge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T23:41:10.428707+00:00"
+    },
+    {
+      "name": "Auftritt Digital",
+      "slug": "polsia-auftritt-digital",
+      "description": "Moderne Websites, die Vertrauen schaffen und Ihr Unternehmen professionell in Szene setzen.",
+      "description_fr": "Sites Web modernes, les Vertrauen Schaffen et vos prestataires professionnels à Szene setzen.",
+      "category": "Other",
+      "website": "https://auftritt-digital.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T23:39:54.330187+00:00"
+    },
+    {
+      "name": "BhashaBot",
+      "slug": "polsia-bhashabot",
+      "description": "AI that speaks your customers' language—naturally in Bangla and Banglish. WhatsApp and Messenger AI agent for small Bangladeshi retailers.",
+      "description_fr": "Une IA qui parle la langue de vos clients, naturellement en bengali et en banglish. Agent WhatsApp et Messenger AI pour les petits détaillants bangladais.",
+      "category": "AI & Machine Learning",
+      "website": "https://bhashabot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T23:39:55.277359+00:00"
     }
   ]
 }
