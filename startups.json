@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T08:22:44.705144+00:00",
+  "last_updated": "2026-07-15T10:19:33.894815+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -194747,18 +194747,24 @@
     {
       "name": "SubSync",
       "slug": "polsia-subsync-2",
+      "description": "AI agents that monitor subscriptions, reclaim unused seats, and negotiate renewals—autonomously.",
+      "description_fr": "Des agents IA qui surveillent les abonnements, récupèrent les sièges inutilisés et négocient les renouvellements de manière autonome.",
+      "category": "AI & Machine Learning",
       "website": "https://subsync-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T08:21:56.538583+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T10:19:19.180944+00:00"
     },
     {
       "name": "Boundless Goods",
       "slug": "polsia-boundless-goods",
+      "description": "Launch unlimited products without inventory risk. Print-on-demand for creators, artists, and entrepreneurs.",
+      "description_fr": "Lancez des produits illimités sans risque d'inventaire. Impression à la demande pour les créateurs, les artistes et les entrepreneurs.",
+      "category": "Other",
       "website": "https://boundless-goods.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T08:22:01.951444+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T10:19:20.859256+00:00"
     },
     {
       "name": "DocuVault",
@@ -194847,6 +194853,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-15T08:22:12.802403+00:00"
+    },
+    {
+      "name": "StoreLaunch",
+      "slug": "polsia-storelaunch",
+      "website": "https://storelaunch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T10:18:36.605368+00:00"
+    },
+    {
+      "name": "LaunchPad AI",
+      "slug": "polsia-launchpad-ai-ufzfwv",
+      "website": "https://launchpad-ai-ufzfwv.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T10:18:41.981072+00:00"
+    },
+    {
+      "name": "StockMind",
+      "slug": "polsia-stockmind-hz2if0",
+      "description": "Anticipez les besoins, automatisez les commandes, optimisez vos stocks.",
+      "description_fr": "Anticipez les besoins, automatisez les commandes, optimisez vos stocks.",
+      "category": "Other",
+      "website": "https://stockmind-hz2if0.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T10:19:32.845378+00:00"
+    },
+    {
+      "name": "ArtHaven",
+      "slug": "polsia-arthaven",
+      "description": "Premium digital paintings, delivered to your walls.",
+      "description_fr": "Peintures numériques haut de gamme, livrées sur vos murs.",
+      "category": "Other",
+      "website": "https://arthaven.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T10:19:33.892678+00:00"
+    },
+    {
+      "name": "ClauseIQ",
+      "slug": "polsia-clauseiq-rxrjtd",
+      "description": "AI-powered contract intelligence for growing professional services firms.",
+      "description_fr": "Intelligence contractuelle basée sur l'IA pour les entreprises de services professionnels en croissance.",
+      "category": "AI & Machine Learning",
+      "website": "https://clauseiq-rxrjtd.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T10:18:54.216371+00:00"
+    },
+    {
+      "name": "Saahiba Lall Content & Publication Solutions",
+      "slug": "polsia-saahiba-lall-content-publication-solutions",
+      "description": "Expert research writing and journal publication support for researchers worldwide.",
+      "description_fr": "Soutien à la rédaction de recherches d’experts et à la publication de revues pour les chercheurs du monde entier.",
+      "category": "Entertainment & Media",
+      "website": "https://saahiba-lall-content-publication-solutions.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T10:18:55.530319+00:00"
+    },
+    {
+      "name": "TechSentinelle",
+      "slug": "polsia-techsentinelle",
+      "description": "Audits IA automatisés pour une santé technique transparente des startups.",
+      "description_fr": "Audits IA automatisés pour une santé technique transparente des startups.",
+      "category": "Real Estate",
+      "website": "https://techsentinelle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T10:18:56.858323+00:00"
+    },
+    {
+      "name": "La Planche Gourmande",
+      "slug": "polsia-la-planche-gourmande",
+      "description": "Créateur de planches gourmandes uniques, façonnées selon vos envies.",
+      "description_fr": "Créateur de planches gourmandes uniques, façonnées selon vos envies.",
+      "category": "Other",
+      "website": "https://la-planche-gourmande.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T10:18:58.272371+00:00"
+    },
+    {
+      "name": "FoundrIQ",
+      "slug": "polsia-foundriq",
+      "description": "Your AI venture mentor that monitors, coaches, and guides your startup 24/7.",
+      "description_fr": "Votre mentor en IA qui surveille, coache et guide votre startup 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://foundriq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T10:18:59.604247+00:00"
+    },
+    {
+      "name": "CircleCloset",
+      "slug": "polsia-circlecloset",
+      "description": "Circular fashion, intelligently discovered. Buy and sell pre-loved clothing in a smarter, more sustainable way.",
+      "description_fr": "Une mode circulaire, intelligemment découverte. Achetez et vendez des vêtements d'occasion de manière plus intelligente et plus durable.",
+      "category": "Other",
+      "website": "https://circlecloset.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T10:19:01.733763+00:00"
     }
   ]
 }
