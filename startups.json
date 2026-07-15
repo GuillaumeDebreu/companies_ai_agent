@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T19:12:43.400071+00:00",
+  "last_updated": "2026-07-15T19:26:15.504122+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -195390,12 +195390,15 @@
       "scraped_at": "2026-07-15T16:45:57.806560+00:00"
     },
     {
-      "name": "Helix AI",
+      "name": "Cutback",
       "slug": "polsia-helix-ai-6",
+      "description": "Cutback connects to your bank, finds subscriptions you barely use, and cancels them with a single click.",
+      "description_fr": "Cutback se connecte à votre banque, trouve les abonnements que vous utilisez à peine et les annule d'un simple clic.",
+      "category": "Other",
       "website": "https://helix-ai-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T17:58:18.275804+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T19:25:36.256799+00:00"
     },
     {
       "name": "Vitalspan",
@@ -195408,58 +195411,79 @@
     {
       "name": "Battlefront Memphis",
       "slug": "polsia-battlefront-memphis",
+      "description": "Outdoor tactical fun for every age at Shelby Farms Park. Paintball, laser tag, gel blaster wars, and splash battles on 17 acres of wooded battlefields.",
+      "description_fr": "Du plaisir tactique en plein air pour tous les âges au Shelby Farms Park. Paintball, laser tag, guerres de gel blaster et batailles de splash sur 17 acres de champs de bataille boisés.",
+      "category": "Other",
       "website": "https://battlefront-memphis.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T17:58:29.382444+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T19:25:38.409507+00:00"
     },
     {
       "name": "GrantSentinel",
       "slug": "polsia-grantsentinel-6",
+      "description": "Autonomous AI grant discovery, matching, and proposal drafting. Surface relevant opportunities and draft compliant proposals in minutes.",
+      "description_fr": "L'IA autonome accorde la découverte, la mise en correspondance et la rédaction de propositions. Identifiez les opportunités pertinentes et rédigez des propositions conformes en quelques minutes.",
+      "category": "AI & Machine Learning",
       "website": "https://grantsentinel-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T17:58:34.973857+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T19:25:39.793873+00:00"
     },
     {
       "name": "SiteSync AI",
       "slug": "polsia-sitesync-ai-9",
+      "description": "Autonomous construction intelligence that monitors progress, materials, and safety in real time.",
+      "description_fr": "Intelligence de construction autonome qui surveille les progrès, les matériaux et la sécurité en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://sitesync-ai-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T17:58:40.563408+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T19:25:40.766363+00:00"
     },
     {
       "name": "Wayne Donnelly Coaching",
       "slug": "polsia-wayne-donnelly-coaching",
+      "description": "Transformative mindset coaching for business professionals",
+      "description_fr": "Coaching d’état d’esprit transformateur pour les professionnels",
+      "category": "Education",
       "website": "https://wayne-donnelly-coaching.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T17:58:46.195266+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T19:25:42.098293+00:00"
     },
     {
       "name": "ChainOps AI",
       "slug": "polsia-chainops-ai-6",
+      "description": "Agenti AI autonomi per la supply chain alimentare 24/7",
+      "description_fr": "Agents AI autonomes pour la chaîne d'approvisionnement alimentaire 24h/24 et 7j/7",
+      "category": "AI & Machine Learning",
       "website": "https://chainops-ai-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T17:58:56.721480+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T19:25:44.087798+00:00"
     },
     {
       "name": "MB Industries",
       "slug": "polsia-mb-industries",
+      "description": "Ipari termékek és megoldások egy helyen",
+      "description_fr": "Ipari termékek és megoldások egy helyen",
+      "category": "Other",
       "website": "https://mb-industries.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T17:59:02.324123+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T19:25:46.199444+00:00"
     },
     {
       "name": "FluuxIA",
       "slug": "polsia-fluuxia",
+      "description": "Automatisez vos process. Gagnez du temps. Grandissez. Agence d'automatisation IA pour PME françaises.",
+      "description_fr": "Automatisez votre processus. Gagnez du temps. Grandissez. Agence d'automatisation IA pour PME françaises.",
+      "category": "Other",
       "website": "https://fluuxia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T17:59:07.928184+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T19:25:48.020448+00:00"
     },
     {
       "name": "VigiKPI",
@@ -195471,6 +195495,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-15T18:00:33.618287+00:00"
+    },
+    {
+      "name": "The Knew U",
+      "slug": "polsia-the-knew-u",
+      "website": "https://the-knew-u.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T19:24:37.654252+00:00"
+    },
+    {
+      "name": "Intéguard",
+      "slug": "polsia-intguard",
+      "website": "https://intguard.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T19:24:43.130291+00:00"
+    },
+    {
+      "name": "Syncpro IA",
+      "slug": "polsia-syncpro-ia",
+      "website": "https://syncpro-ia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T19:24:48.732951+00:00"
+    },
+    {
+      "name": "CompeteIQ",
+      "slug": "polsia-competeiq-j1cw0t",
+      "website": "https://competeiq-j1cw0t.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T19:24:54.338722+00:00"
+    },
+    {
+      "name": "ClearPath Dispatch",
+      "slug": "polsia-clearpath-dispatch-2",
+      "description": "AI-powered tow dispatch that responds before the driver calls.",
+      "description_fr": "Répartition de remorquage alimentée par l'IA qui répond avant que le conducteur n'appelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://clearpath-dispatch-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T19:26:10.916605+00:00"
+    },
+    {
+      "name": "BiteSmart",
+      "slug": "polsia-bitesmart",
+      "description": "AI meal plans built around your grocery budget. Turn your weekly grocery budget into personalized recipes and smart shopping lists.",
+      "description_fr": "Plans de repas IA construits autour de votre budget d'épicerie. Transformez votre budget d'épicerie hebdomadaire en recettes personnalisées et en listes de courses intelligentes.",
+      "category": "AI & Machine Learning",
+      "website": "https://bitesmart.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T19:26:12.935978+00:00"
+    },
+    {
+      "name": "SampleLoop",
+      "slug": "polsia-sampleloop",
+      "description": "Smart product discovery, delivered monthly.",
+      "description_fr": "Découverte de produits intelligente, livrée mensuellement.",
+      "category": "Other",
+      "website": "https://sampleloop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T19:26:14.254597+00:00"
+    },
+    {
+      "name": "CreatorCover",
+      "slug": "polsia-creatorcover",
+      "description": "Life insurance built for the creator economy.",
+      "description_fr": "Une assurance-vie conçue pour l’économie des créateurs.",
+      "category": "Sustainability & Green",
+      "website": "https://creatorcover.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T19:26:15.502919+00:00"
+    },
+    {
+      "name": "LeadFlow AI",
+      "slug": "polsia-leadflow-ai-ts8d68",
+      "description": "Outsource your growth department. Book more jobs.",
+      "description_fr": "Externalisez votre service de croissance. Réservez plus d'emplois.",
+      "category": "AI & Machine Learning",
+      "website": "https://leadflow-ai-ts8d68.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T19:25:17.837340+00:00"
+    },
+    {
+      "name": "HypertrophyAI",
+      "slug": "polsia-hypertrophyai",
+      "description": "Every exercise ranked by science. AI-powered workout programs built on peer-reviewed research, biomechanics analysis, and evidence-based consensus.",
+      "description_fr": "Chaque exercice classé par science. Programmes d'entraînement basés sur l'IA et fondés sur des recherches évaluées par des pairs, des analyses biomécaniques et un consensus fondé sur des preuves.",
+      "category": "AI & Machine Learning",
+      "website": "https://hypertrophyai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T19:25:19.477499+00:00"
     }
   ]
 }
