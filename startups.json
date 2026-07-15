@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T19:26:15.504122+00:00",
+  "last_updated": "2026-07-15T20:34:25.425248+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -195497,36 +195497,48 @@
       "scraped_at": "2026-07-15T18:00:33.618287+00:00"
     },
     {
-      "name": "The Knew U",
+      "name": "Growth Dashboard",
       "slug": "polsia-the-knew-u",
+      "description": "Track your daily workouts and supplements. Watch your progress unfold in a clean, simple line chart.",
+      "description_fr": "Suivez vos entraînements quotidiens et vos suppléments. Regardez vos progrès se dérouler dans un graphique linéaire simple et épuré.",
+      "category": "Software & SaaS",
       "website": "https://the-knew-u.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T19:24:37.654252+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T20:33:54.539099+00:00"
     },
     {
       "name": "Intéguard",
       "slug": "polsia-intguard",
+      "description": "Autonomous AI that catches API drift before production.",
+      "description_fr": "Une IA autonome qui détecte la dérive des API avant la production.",
+      "category": "AI & Machine Learning",
       "website": "https://intguard.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T19:24:43.130291+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T20:33:55.576194+00:00"
     },
     {
       "name": "Syncpro IA",
       "slug": "polsia-syncpro-ia",
+      "description": "Agente de IA que automatiza compras corporativas monitoreando precios e inventarios en tiempo real.",
+      "description_fr": "Agent d'IA qui automatise les achats d'entreprises, surveille les prix et les inventaires en temps réel.",
+      "category": "Other",
       "website": "https://syncpro-ia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T19:24:48.732951+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T20:33:56.575191+00:00"
     },
     {
       "name": "CompeteIQ",
       "slug": "polsia-competeiq-j1cw0t",
+      "description": "AI-driven 24/7 alerts on competitor funding, product launches, and pricing shifts.",
+      "description_fr": "Alertes 24h/24 et 7j/7 basées sur l'IA sur le financement des concurrents, les lancements de produits et les changements de prix.",
+      "category": "AI & Machine Learning",
       "website": "https://competeiq-j1cw0t.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T19:24:54.338722+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T20:33:57.353784+00:00"
     },
     {
       "name": "ClearPath Dispatch",
@@ -195593,6 +195605,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-15T19:25:19.477499+00:00"
+    },
+    {
+      "name": "SaaSWatch AI",
+      "slug": "polsia-saaswatch-ai",
+      "website": "https://saaswatch-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T20:33:05.938592+00:00"
+    },
+    {
+      "name": "TurbanShield",
+      "slug": "polsia-turbanshield",
+      "website": "https://turbanshield.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T20:33:11.392428+00:00"
+    },
+    {
+      "name": "VigilIQ",
+      "slug": "polsia-vigiliq-ggk0pg",
+      "website": "https://vigiliq-ggk0pg.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T20:33:16.711700+00:00"
+    },
+    {
+      "name": "Zero",
+      "slug": "polsia-zero",
+      "website": "https://zero.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T20:33:22.143466+00:00"
+    },
+    {
+      "name": "ShortPulse",
+      "slug": "polsia-shortpulse-3",
+      "website": "https://shortpulse-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T20:33:27.519968+00:00"
+    },
+    {
+      "name": "VigilChain",
+      "slug": "polsia-vigilchain-5",
+      "description": "AI-powered 24/7 wallet monitoring and autonomous recovery for crypto assets.",
+      "description_fr": "Surveillance du portefeuille 24h/24 et 7j/7 et récupération autonome des actifs cryptographiques grâce à l'IA.",
+      "category": "Finance & Fintech",
+      "website": "https://vigilchain-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T20:34:24.817106+00:00"
+    },
+    {
+      "name": "ContractScout AI",
+      "slug": "polsia-contractscout-ai",
+      "description": "Government contracts made doable for small service businesses.",
+      "description_fr": "Les contrats gouvernementaux rendus réalisables pour les petites entreprises de services.",
+      "category": "AI & Machine Learning",
+      "website": "https://contractscout-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T20:34:25.423986+00:00"
+    },
+    {
+      "name": "VendSmart",
+      "slug": "polsia-vendsmart",
+      "description": "Smart, healthy vending reimagined for modern urban spaces. AI-powered machines, curated nutrition, real-time restocking.",
+      "description_fr": "Des distributeurs intelligents et sains réinventés pour les espaces urbains modernes. Machines alimentées par l'IA, nutrition soignée, réapprovisionnement en temps réel.",
+      "category": "Health & Wellness",
+      "website": "https://vendsmart.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T20:33:39.722619+00:00"
+    },
+    {
+      "name": "CompAI Guard",
+      "slug": "polsia-compai-guard",
+      "description": "Always‑on AI training agent for security compliance and micro‑learning. Adaptive, data‑driven learning journeys that keep pace with evolving threats and regulatory changes.",
+      "description_fr": "Agent de formation IA permanent pour la conformité en matière de sécurité et le micro-apprentissage. Des parcours d’apprentissage adaptatifs et basés sur les données qui suivent l’évolution des menaces et des changements réglementaires.",
+      "category": "AI & Machine Learning",
+      "website": "https://compai-guard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T20:33:40.489961+00:00"
+    },
+    {
+      "name": "ProspectFlow",
+      "slug": "polsia-prospectflow-6",
+      "description": "Done-for-you B2B lead generation that fills your pipeline with qualified prospects.",
+      "description_fr": "Génération de leads B2B faite pour vous qui remplit votre pipeline de prospects qualifiés.",
+      "category": "Sales & CRM",
+      "website": "https://prospectflow-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T20:33:41.542500+00:00"
     }
   ]
 }
