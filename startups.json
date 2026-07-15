@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T08:12:08.927759+00:00",
+  "last_updated": "2026-07-15T08:22:44.705144+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -194637,42 +194637,57 @@
     {
       "name": "BizBoost AI",
       "slug": "polsia-bizboost-ai-3",
+      "description": "AI made simple for local businesses — done for you, ready to grow.",
+      "description_fr": "L'IA simplifiée pour les entreprises locales – conçue pour vous, prête à se développer.",
+      "category": "AI & Machine Learning",
       "website": "https://bizboost-ai-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T05:56:11.744073+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:29.751948+00:00"
     },
     {
       "name": "Vigilo AI",
       "slug": "polsia-vigilo-ai",
+      "description": "Real-time oversight for autonomous AI agents — detect drift, stop failures, keep agents honest.",
+      "description_fr": "Surveillance en temps réel des agents d'IA autonomes : détectez les dérives, arrêtez les échecs et assurez l'honnêteté des agents.",
+      "category": "AI & Machine Learning",
       "website": "https://vigilo-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T05:56:12.395308+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:31.579226+00:00"
     },
     {
       "name": "AuthWatch",
       "slug": "polsia-authwatch",
+      "description": "AI-powered monitoring that prevents work authorization compliance failures.",
+      "description_fr": "Surveillance basée sur l'IA qui évite les échecs de conformité aux autorisations de travail.",
+      "category": "AI & Machine Learning",
       "website": "https://authwatch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T05:56:18.013201+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:32.528336+00:00"
     },
     {
       "name": "FlowHQ",
       "slug": "polsia-flowhq-7",
+      "description": "AI-powered workflow automation for professional services firms. Eliminate repetitive data entry, document processing, and approval bottlenecks.",
+      "description_fr": "Automatisation des flux de travail basée sur l'IA pour les entreprises de services professionnels. Éliminez la saisie répétitive de données, le traitement des documents et les goulots d’étranglement d’approbation.",
+      "category": "Productivity & Automation",
       "website": "https://flowhq-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T05:56:23.610460+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:33.351653+00:00"
     },
     {
       "name": "NexusCorp",
       "slug": "polsia-nexuscorp",
+      "description": "Der erste autonome KI-Konzern für skalierbares Unternehmenswachstum.",
+      "description_fr": "Le premier KI-Konzern autonome pour les skalierbares Unternehmenswachstum.",
+      "category": "Other",
       "website": "https://nexuscorp.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T05:56:28.985968+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:34.408584+00:00"
     },
     {
       "name": "Autonomy Studio",
@@ -194728,6 +194743,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-15T05:56:41.009115+00:00"
+    },
+    {
+      "name": "SubSync",
+      "slug": "polsia-subsync-2",
+      "website": "https://subsync-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T08:21:56.538583+00:00"
+    },
+    {
+      "name": "Boundless Goods",
+      "slug": "polsia-boundless-goods",
+      "website": "https://boundless-goods.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-15T08:22:01.951444+00:00"
+    },
+    {
+      "name": "DocuVault",
+      "slug": "polsia-docuvault",
+      "description": "All your important documents, safely organized in one place.",
+      "description_fr": "Tous vos documents importants, organisés en toute sécurité en un seul endroit.",
+      "category": "Other",
+      "website": "https://docuvault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:03.040004+00:00"
+    },
+    {
+      "name": "VigilAI",
+      "slug": "polsia-vigilai-aji7jc",
+      "description": "Your brand's always-on guardian across the digital landscape. Intelligent 24/7 monitoring for social mentions, sentiment, and reputation protection.",
+      "description_fr": "Le gardien permanent de votre marque dans le paysage numérique. Surveillance intelligente 24h/24 et 7j/7 des mentions sociales, des sentiments et de la protection de la réputation.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigilai-aji7jc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:04.083320+00:00"
+    },
+    {
+      "name": "CompeteIQ",
+      "slug": "polsia-competeiq-cv1k86",
+      "description": "Real-time competitor pricing across every marketplace — repriced and profited daily.",
+      "description_fr": "Tarification en temps réel des concurrents sur tous les marchés – réévaluée et bénéficiant quotidiennement.",
+      "category": "E-Commerce & Retail",
+      "website": "https://competeiq-cv1k86.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:05.534505+00:00"
+    },
+    {
+      "name": "MoreLife Creator Platform",
+      "slug": "polsia-morelife-creator-platform",
+      "description": "Africa's Direct-to-Fan Creator Monetization Platform — mobile money payments, fan communities, and your own website.",
+      "description_fr": "Plateforme africaine de monétisation des créateurs s'adressant directement aux fans : paiements en argent mobile, communautés de fans et votre propre site Web.",
+      "category": "Software & SaaS",
+      "website": "https://morelife-creator-platform.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:06.700126+00:00"
+    },
+    {
+      "name": "Cirgues.AI",
+      "slug": "polsia-cirguesai",
+      "description": "L'artisanat chocolates réinventé par des agents IA autonomes. Boutique en ligne premium exploitant l'intelligence artificielle de pointe pour un commerce alimentaire authentique.",
+      "description_fr": "L'artisanat chocolats réinventé par des agents IA autonomes. Boutique en ligne premium exploitant l'intelligence artificielle de pointe pour un commerce alimentaire authentique.",
+      "category": "AI & Machine Learning",
+      "website": "https://cirguesai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:07.868147+00:00"
+    },
+    {
+      "name": "FirstSignal",
+      "slug": "polsia-firstsignal-6",
+      "description": "Outsmart competitors before they move. AI-powered competitive intelligence for startup founders.",
+      "description_fr": "Déjouez vos concurrents avant qu’ils ne bougent. Veille concurrentielle basée sur l'IA pour les fondateurs de startups.",
+      "category": "AI & Machine Learning",
+      "website": "https://firstsignal-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:09.194299+00:00"
+    },
+    {
+      "name": "IssueFlow",
+      "slug": "polsia-issueflow",
+      "description": "AI triage and daily digest for open source — automatically prioritize issues, draft replies, and deliver a concise digest so maintainers spend less time on noise.",
+      "description_fr": "Triage par l'IA et résumé quotidien pour l'open source : hiérarchisez automatiquement les problèmes, rédigez des réponses et fournissez un résumé concis afin que les responsables passent moins de temps sur le bruit.",
+      "category": "AI & Machine Learning",
+      "website": "https://issueflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:10.900861+00:00"
+    },
+    {
+      "name": "ReviewWise",
+      "slug": "polsia-reviewwise",
+      "description": "AI-powered review responses, drafted and ready in seconds. Monitor reviews, generate on-brand replies, and protect your online reputation — without the time drain.",
+      "description_fr": "Réponses aux avis basées sur l'IA, rédigées et prêtes en quelques secondes. Surveillez les avis, générez des réponses adaptées à votre marque et protégez votre réputation en ligne, sans perdre de temps.",
+      "category": "AI & Machine Learning",
+      "website": "https://reviewwise.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-15T08:22:12.802403+00:00"
     }
   ]
 }
