@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T17:41:15.319412+00:00",
+  "last_updated": "2026-07-16T18:49:27.302165+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -196903,34 +196903,46 @@
     {
       "name": "RepriceIQ",
       "slug": "polsia-repriceiq-y127ux",
+      "description": "AI-driven repricing and inventory intelligence that keeps you ahead of competitors.",
+      "description_fr": "Une retarification et une intelligence des stocks basées sur l'IA qui vous permettent de garder une longueur d'avance sur vos concurrents.",
+      "category": "AI & Machine Learning",
       "website": "https://repriceiq-y127ux.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T17:39:37.817400+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T18:48:30.441639+00:00"
     },
     {
       "name": "Luminal AI",
       "slug": "polsia-luminal-ai-4",
+      "description": "Simple AI tools that grow with your business.",
+      "description_fr": "Des outils d'IA simples qui évoluent avec votre entreprise.",
+      "category": "AI & Machine Learning",
       "website": "https://luminal-ai-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T17:39:47.507038+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T18:48:31.708144+00:00"
     },
     {
       "name": "Fuga IA",
       "slug": "polsia-fuga-ia",
+      "description": "L'agent IA qui orchestre vos répétitions, vos plannings et votre logistique 24h/24.",
+      "description_fr": "L'agent IA qui orchestre vos répétitions, vos plannings et votre logistique 24h/24.",
+      "category": "Other",
       "website": "https://fuga-ia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T17:39:58.033494+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T18:48:33.021527+00:00"
     },
     {
       "name": "ShieldGear",
       "slug": "polsia-shieldgear-2",
+      "description": "Workplace protection delivered — PPE built for the job, shipped to your door.",
+      "description_fr": "Protection du lieu de travail assurée : EPI conçu pour le travail, expédié à votre porte.",
+      "category": "Other",
       "website": "https://shieldgear-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T17:40:03.462198+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T18:48:34.171383+00:00"
     },
     {
       "name": "ThreadFlow",
@@ -196957,10 +196969,13 @@
     {
       "name": "NexusOps",
       "slug": "polsia-nexusops-mzl4ck",
+      "description": "Agentes IA que operan, monitorizan y optimizan tu empresa de forma autónoma las 24 horas.",
+      "description_fr": "Agents IA qui opèrent, surveillent et optimisent votre entreprise de manière autonome pendant 24 heures.",
+      "category": "Other",
       "website": "https://nexusops-mzl4ck.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T17:40:11.572608+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T18:48:35.524196+00:00"
     },
     {
       "name": "The Apollo Method",
@@ -196994,6 +197009,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-16T17:40:14.816014+00:00"
+    },
+    {
+      "name": "PlateMetrics",
+      "slug": "polsia-platemetrics-2",
+      "website": "https://platemetrics-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T18:47:12.981170+00:00"
+    },
+    {
+      "name": "MobileTech Fleet",
+      "slug": "polsia-mobiletech-fleet",
+      "website": "https://mobiletech-fleet.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T18:47:18.399856+00:00"
+    },
+    {
+      "name": "NutriPulse AI",
+      "slug": "polsia-nutripulse-ai",
+      "website": "https://nutripulse-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T18:47:23.873767+00:00"
+    },
+    {
+      "name": "RecruitIQ",
+      "slug": "polsia-recruitiq-8",
+      "website": "https://recruitiq-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T18:47:29.261377+00:00"
+    },
+    {
+      "name": "Galerie d'Art Premium",
+      "slug": "polsia-galerie-dart-premium",
+      "website": "https://galerie-dart-premium.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T18:47:34.621404+00:00"
+    },
+    {
+      "name": "Scout",
+      "slug": "polsia-scout-aho37u",
+      "website": "https://scout-aho37u.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T18:47:45.083972+00:00"
+    },
+    {
+      "name": "NutriStack",
+      "slug": "polsia-nutristack",
+      "website": "https://nutristack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T18:47:55.319738+00:00"
+    },
+    {
+      "name": "Conta D'oi",
+      "slug": "polsia-conta-doi",
+      "description": "Handcrafted African and Cabo Verdean jewelry that celebrates heritage, identity, and artisan tradition.",
+      "description_fr": "Bijoux africains et capverdiens fabriqués à la main qui célèbrent le patrimoine, l'identité et la tradition artisanale.",
+      "category": "Other",
+      "website": "https://conta-doi.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T18:49:24.407654+00:00"
+    },
+    {
+      "name": "Storeline",
+      "slug": "polsia-storeline",
+      "description": "Launch and scale your e-commerce business with confidence.",
+      "description_fr": "Lancez et développez votre entreprise de commerce électronique en toute confiance.",
+      "category": "E-Commerce & Retail",
+      "website": "https://storeline.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T18:49:25.887488+00:00"
+    },
+    {
+      "name": "RouteFlow",
+      "slug": "polsia-routeflow-4",
+      "description": "AI scheduling that runs your solo service business while you focus on the work.",
+      "description_fr": "Planification IA qui gère votre entreprise de services en solo pendant que vous vous concentrez sur le travail.",
+      "category": "AI & Machine Learning",
+      "website": "https://routeflow-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T18:49:27.301082+00:00"
     }
   ]
 }
