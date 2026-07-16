@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T23:41:10.429631+00:00",
+  "last_updated": "2026-07-16T01:08:56.645131+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -195927,50 +195927,68 @@
     {
       "name": "StockMind AI",
       "slug": "polsia-stockmind-ai-10",
+      "description": "AI-powered inventory that prevents stockouts before they happen.",
+      "description_fr": "Inventaire alimenté par l'IA qui empêche les ruptures de stock avant qu'elles ne surviennent.",
+      "category": "AI & Machine Learning",
       "website": "https://stockmind-ai-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T23:38:59.700764+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T01:08:29.899957+00:00"
     },
     {
       "name": "TurnTable Café",
       "slug": "polsia-turntable-caf",
+      "description": "One Café, Infinite Worlds — an immersive pop-up dining destination where the entire venue transforms monthly.",
+      "description_fr": "One Café, Infinite Worlds — une destination gastronomique éphémère immersive où l'ensemble du lieu se transforme chaque mois.",
+      "category": "Food & Beverage",
       "website": "https://turntable-caf.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T23:39:05.295196+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T01:08:30.994769+00:00"
     },
     {
       "name": "FreedFinds",
       "slug": "polsia-freedfinds",
+      "description": "Discover free stuff on Facebook Marketplace instantly.",
+      "description_fr": "Découvrez instantanément des contenus gratuits sur Facebook Marketplace.",
+      "category": "E-Commerce & Retail",
       "website": "https://freedfinds.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T23:39:10.909703+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T01:08:31.908641+00:00"
     },
     {
       "name": "Vaultify",
       "slug": "polsia-vaultify-2",
+      "description": "Securely store passwords and personal info, all in one place.",
+      "description_fr": "Stockez en toute sécurité les mots de passe et les informations personnelles, le tout au même endroit.",
+      "category": "E-Commerce & Retail",
       "website": "https://vaultify-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T23:39:16.555792+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T01:08:32.549943+00:00"
     },
     {
       "name": "220 Inc.",
       "slug": "polsia-220-inc",
+      "description": "Veteran-founded real estate development creating housing and economic opportunity for veterans and workforce communities along the Fort Moore corridor.",
+      "description_fr": "Développement immobilier fondé par des anciens combattants créant des logements et des opportunités économiques pour les anciens combattants et les communautés de travailleurs le long du corridor de Fort Moore.",
+      "category": "Real Estate",
       "website": "https://220-inc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T23:39:27.048108+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T01:08:34.733335+00:00"
     },
     {
       "name": "BidFlow",
       "slug": "polsia-bidflow-2",
+      "description": "KI-gestützte Angebotserstellung für Agenturen und Berater.",
+      "description_fr": "KI-gestützte Angebotserstellung für Agenturen und Berater.",
+      "category": "Other",
       "website": "https://bidflow-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-15T23:39:37.542539+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T01:08:35.641973+00:00"
     },
     {
       "name": "Soundview Equine Health & Performance",
@@ -196015,6 +196033,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-15T23:39:55.277359+00:00"
+    },
+    {
+      "name": "SoundForge AI",
+      "slug": "polsia-soundforge-ai-2",
+      "website": "https://soundforge-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T01:07:46.295225+00:00"
+    },
+    {
+      "name": "AI Automation Agency for Local Businesses",
+      "slug": "polsia-ai-automation-agency-for-local-businesses",
+      "website": "https://ai-automation-agency-for-local-businesses.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T01:07:51.858253+00:00"
+    },
+    {
+      "name": "ApexIQ",
+      "slug": "polsia-apexiq-r6l77h",
+      "website": "https://apexiq-r6l77h.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T01:07:57.510374+00:00"
+    },
+    {
+      "name": "FixChain",
+      "slug": "polsia-fixchain",
+      "description": "AI agents that autonomously fix your dependencies before vulnerabilities strike.",
+      "description_fr": "Des agents d'IA qui corrigent de manière autonome vos dépendances avant que les vulnérabilités ne surviennent.",
+      "category": "AI & Machine Learning",
+      "website": "https://fixchain.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T01:07:58.513121+00:00"
+    },
+    {
+      "name": "StudyForge",
+      "slug": "polsia-studyforge-9j9tgz",
+      "description": "Autonomous AI that parses syllabi, schedules study, and creates flashcards.",
+      "description_fr": "IA autonome qui analyse les programmes, planifie les études et crée des flashcards.",
+      "category": "AI & Machine Learning",
+      "website": "https://studyforge-9j9tgz.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T01:07:59.450007+00:00"
+    },
+    {
+      "name": "Decks In Omaha",
+      "slug": "polsia-decks-in-omaha",
+      "description": "Custom deck construction throughout the Omaha, Nebraska metro area. Premium treated lumber, cedar, and composite materials crafted to your vision.",
+      "description_fr": "Construction de terrasses sur mesure dans toute la région métropolitaine d'Omaha, Nebraska. Bois traité, cèdre et matériaux composites de première qualité conçus selon votre vision.",
+      "category": "Other",
+      "website": "https://decks-in-omaha.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T01:08:00.687323+00:00"
+    },
+    {
+      "name": "ForkSpot",
+      "slug": "polsia-forkspot",
+      "description": "AI meets social buzz to surface Las Vegas's best local eats.",
+      "description_fr": "L'IA rencontre le buzz social pour faire découvrir les meilleurs plats locaux de Las Vegas.",
+      "category": "AI & Machine Learning",
+      "website": "https://forkspot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T01:08:01.855206+00:00"
+    },
+    {
+      "name": "DropHunt",
+      "slug": "polsia-drophunt-2",
+      "description": "Real-time alerts for Japanese anime merch, figure drops, and limited collectibles.",
+      "description_fr": "Alertes en temps réel pour les produits dérivés d'anime japonais, les chutes de figurines et les objets de collection limités.",
+      "category": "Other",
+      "website": "https://drophunt-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T01:08:02.758223+00:00"
+    },
+    {
+      "name": "Clear Falls Headlight Restoration",
+      "slug": "polsia-clear-falls-headlight-restoration",
+      "description": "Professional headlight restoration that restores night-driving safety and boosts vehicle value in Idaho Falls.",
+      "description_fr": "Restauration professionnelle des phares qui rétablit la sécurité de conduite de nuit et augmente la valeur du véhicule à Idaho Falls.",
+      "category": "E-Commerce & Retail",
+      "website": "https://clear-falls-headlight-restoration.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T01:08:03.832544+00:00"
+    },
+    {
+      "name": "GrantRadar",
+      "slug": "polsia-grantradar-6",
+      "description": "AI agents watching public grant databases 24/7 — so founders never miss a funding opportunity.",
+      "description_fr": "Les agents d'IA surveillent les bases de données de subventions publiques 24 heures sur 24, 7 jours sur 7, pour que les fondateurs ne manquent jamais une opportunité de financement.",
+      "category": "AI & Machine Learning",
+      "website": "https://grantradar-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T01:08:05.157222+00:00"
     }
   ]
 }
