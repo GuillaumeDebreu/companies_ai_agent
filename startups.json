@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T19:12:43.950978+00:00",
+  "last_updated": "2026-07-16T19:52:03.969416+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -197013,50 +197013,68 @@
     {
       "name": "PlateMetrics",
       "slug": "polsia-platemetrics-2",
+      "description": "Recipe costing and menu engineering for profitable restaurants.",
+      "description_fr": "Chiffrage des recettes et ingénierie des menus pour les restaurants rentables.",
+      "category": "Food & Beverage",
       "website": "https://platemetrics-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T18:47:12.981170+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T19:51:39.999087+00:00"
     },
     {
       "name": "MobileTech Fleet",
       "slug": "polsia-mobiletech-fleet",
+      "description": "Fully outfitted Sprinter vans for independent mobile mechanics.",
+      "description_fr": "Fourgons Sprinter entièrement équipés pour mécaniciens mobiles indépendants.",
+      "category": "Logistics & Supply Chain",
       "website": "https://mobiletech-fleet.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T18:47:18.399856+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T19:51:41.127814+00:00"
     },
     {
       "name": "NutriPulse AI",
       "slug": "polsia-nutripulse-ai",
+      "description": "Personalized AI meal plans — generated for your body, your goals, your week.",
+      "description_fr": "Plans de repas personnalisés par l'IA – générés pour votre corps, vos objectifs, votre semaine.",
+      "category": "AI & Machine Learning",
       "website": "https://nutripulse-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T18:47:23.873767+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T19:51:41.947602+00:00"
     },
     {
       "name": "RecruitIQ",
       "slug": "polsia-recruitiq-8",
+      "description": "AI-powered recruiting intelligence for student-athletes. Get a data-backed probability of landing offers at schools that actually want you.",
+      "description_fr": "Intelligence de recrutement alimentée par l'IA pour les étudiants-athlètes. Obtenez une probabilité, basée sur des données, d'obtenir des offres dans les écoles qui vous souhaitent réellement.",
+      "category": "AI & Machine Learning",
       "website": "https://recruitiq-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T18:47:29.261377+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T19:51:43.569327+00:00"
     },
     {
       "name": "Galerie d'Art Premium",
       "slug": "polsia-galerie-dart-premium",
+      "description": "Tableaux d'exception et accessoires de mode haut de gamme. Œuvres d'art contemporain de haute gamme entre 1 800 € et 2 200 €.",
+      "description_fr": "Tableaux d'exception et accessoires de mode haut de gamme. Œuvres d'art contemporain de haute gamme entre 1 800 € et 2 200 €.",
+      "category": "Other",
       "website": "https://galerie-dart-premium.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T18:47:34.621404+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T19:51:44.798964+00:00"
     },
     {
       "name": "Scout",
       "slug": "polsia-scout-aho37u",
+      "description": "AI agents that watch your sources and syndicate the signal to every channel.",
+      "description_fr": "Des agents IA qui surveillent vos sources et syndiquent le signal sur chaque chaîne.",
+      "category": "AI & Machine Learning",
       "website": "https://scout-aho37u.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T18:47:45.083972+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T19:51:45.731656+00:00"
     },
     {
       "name": "NutriStack",
@@ -197098,6 +197116,102 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-16T18:49:27.301082+00:00"
+    },
+    {
+      "name": "FlavorDrop",
+      "slug": "polsia-flavordrop-3",
+      "website": "https://flavordrop-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T19:51:01.762784+00:00"
+    },
+    {
+      "name": "CarbonIQ",
+      "slug": "polsia-carboniq-5",
+      "description": "AI-powered carbon accounting for SMEs and supply chains — without the enterprise price tag.",
+      "description_fr": "Comptabilité carbone basée sur l'IA pour les PME et les chaînes d'approvisionnement, sans le prix de l'entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://carboniq-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T19:52:02.728003+00:00"
+    },
+    {
+      "name": "Tinda AI",
+      "slug": "polsia-tinda-ai",
+      "description": "Your AI-powered guide to Conakry's best restaurants, hotels, and businesses.",
+      "description_fr": "Votre guide alimenté par l'IA des meilleurs restaurants, hôtels et entreprises de Conakry.",
+      "category": "AI & Machine Learning",
+      "website": "https://tinda-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T19:51:08.789971+00:00"
+    },
+    {
+      "name": "Scoply",
+      "slug": "polsia-scoply",
+      "description": "AI-powered scope creep detection and prevention. Paste your meeting notes or project tickets to identify risks, revenue impacts, and client-safe corrective suggestions before they damage your profitability.",
+      "description_fr": "Détection et prévention du fluage de la portée basées sur l'IA. Collez vos notes de réunion ou vos tickets de projet pour identifier les risques, les impacts sur les revenus et les suggestions correctives sécurisées pour les clients avant qu'ils ne nuisent à votre rentabilité.",
+      "category": "AI & Machine Learning",
+      "website": "https://scoply.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T19:52:03.968508+00:00"
+    },
+    {
+      "name": "PermitOpinion",
+      "slug": "polsia-permitopinion",
+      "description": "Instant Chicago permit reports for homeowners and contractors. Get plain-English zoning guidance — with exact Chicago Municipal Code citations — for $99.",
+      "description_fr": "Rapports instantanés de permis de Chicago pour les propriétaires et les entrepreneurs. Obtenez des conseils de zonage en anglais simple – avec des citations exactes du code municipal de Chicago – pour 99 $.",
+      "category": "Other",
+      "website": "https://permitopinion.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T19:51:16.121856+00:00"
+    },
+    {
+      "name": "ProofSync",
+      "slug": "polsia-proofsync-3",
+      "description": "Compliant product reviews from verified real consumers. Built for FTC-compliant testimonials that build purchasing confidence.",
+      "description_fr": "Avis de produits conformes provenant de vrais consommateurs vérifiés. Conçu pour les témoignages conformes à la FTC qui renforcent la confiance des acheteurs.",
+      "category": "Other",
+      "website": "https://proofsync-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T19:51:17.336392+00:00"
+    },
+    {
+      "name": "VIALCRAFT",
+      "slug": "polsia-vialcraft",
+      "description": "Premium peptide vials for research, clinics, and compounding pharmacies.",
+      "description_fr": "Flacons de peptides haut de gamme pour la recherche, les cliniques et les pharmacies de préparation.",
+      "category": "Health & Wellness",
+      "website": "https://vialcraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T19:51:18.991629+00:00"
+    },
+    {
+      "name": "Vantage AI",
+      "slug": "polsia-vantage-ai-dsgznd",
+      "description": "Autonomous market intelligence and personalized sales outreach — always on.",
+      "description_fr": "Intelligence de marché autonome et sensibilisation commerciale personnalisée – toujours actives.",
+      "category": "AI & Machine Learning",
+      "website": "https://vantage-ai-dsgznd.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T19:51:20.501095+00:00"
+    },
+    {
+      "name": "Pyre AI",
+      "slug": "polsia-pyre-ai-2",
+      "description": "Autonomous prospecting, accelerated pipeline.",
+      "description_fr": "Prospection autonome, pipeline accéléré.",
+      "category": "AI & Machine Learning",
+      "website": "https://pyre-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T19:51:21.905971+00:00"
     }
   ]
 }
