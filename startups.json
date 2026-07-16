@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T19:52:03.969416+00:00",
+  "last_updated": "2026-07-16T20:47:00.550089+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -197120,10 +197120,13 @@
     {
       "name": "FlavorDrop",
       "slug": "polsia-flavordrop-3",
+      "description": "AI-powered flavor campaigns for restaurants — turn trend-spotting into a turnkey pipeline from discovery to viral-ready post.",
+      "description_fr": "Campagnes de saveurs basées sur l'IA pour les restaurants : transformez l'identification des tendances en un pipeline clé en main, de la découverte à la publication virale.",
+      "category": "AI & Machine Learning",
       "website": "https://flavordrop-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T19:51:01.762784+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T20:46:48.034003+00:00"
     },
     {
       "name": "CarbonIQ",
@@ -197212,6 +197215,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-16T19:51:21.905971+00:00"
+    },
+    {
+      "name": "RenewalMind",
+      "slug": "polsia-renewalmind-2",
+      "website": "https://renewalmind-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T20:45:55.225477+00:00"
+    },
+    {
+      "name": "PrintOps",
+      "slug": "polsia-printops-4",
+      "website": "https://printops-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T20:46:00.666791+00:00"
+    },
+    {
+      "name": "AttachFlow",
+      "slug": "polsia-attachflow",
+      "description": "AI-powered 24/7 agricultural attachment marketplace — connect dealers and buyers for attachments, parts, and accessories.",
+      "description_fr": "Marché des accessoires agricoles alimenté par l'IA, 24h/24 et 7j/7 : connectez les concessionnaires et les acheteurs d'accessoires, de pièces et d'accessoires.",
+      "category": "AI & Machine Learning",
+      "website": "https://attachflow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T20:46:59.293946+00:00"
+    },
+    {
+      "name": "ScorePlay",
+      "slug": "polsia-scoreplay",
+      "description": "The AI media operating system that runs sports club content operations autonomously around the clock.",
+      "description_fr": "Le système d'exploitation multimédia IA qui gère les opérations de contenu des clubs sportifs de manière autonome 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://scoreplay.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T20:47:00.548969+00:00"
+    },
+    {
+      "name": "WebWächter",
+      "slug": "polsia-webwchter",
+      "description": "KI-gestützte Website-Compliance, die Probleme erkennt und behebt.",
+      "description_fr": "KI-gestützte Website-Compliance, die Probleme erkennt and behebt.",
+      "category": "Other",
+      "website": "https://webwchter.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T20:46:13.503568+00:00"
+    },
+    {
+      "name": "Ketama Cakes",
+      "slug": "polsia-ketama-cakes",
+      "description": "L'artisanat marocain rencontre le bien-être au CBD. Découvrez nos biscuits, douceurs marocaines et friandises CBD pour animaux, le tout fait maison avec des ingrédients naturels.",
+      "description_fr": "L'artisanat marocain rencontre le bien-être au CBD. Découvrez nos biscuits, douceurs marocaines et friandises CBD pour animaux, le tout fait maison avec des ingrédients naturels.",
+      "category": "Other",
+      "website": "https://ketama-cakes.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T20:46:15.068135+00:00"
+    },
+    {
+      "name": "One Race Human",
+      "slug": "polsia-one-race-human",
+      "description": "One Race Human is a purpose-driven lifestyle brand and nonprofit celebrating the shared humanity that unites us all.",
+      "description_fr": "One Race Human est une marque de style de vie et à but non lucratif célébrant l'humanité partagée qui nous unit tous.",
+      "category": "Marketing & Advertising",
+      "website": "https://one-race-human.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T20:46:16.140669+00:00"
+    },
+    {
+      "name": "RepliTrade",
+      "slug": "polsia-replitrade",
+      "description": "Zelfvermenigvuldigende AI-traders die groeien bij winst — het slimme handelsplatform voor Nederlandse beleggers.",
+      "description_fr": "Les commerçants d'IA les plus diversifiés sont les plus grands pour gagner - la petite plate-forme de vente aux enchères pour les commerçants néerlandais.",
+      "category": "Software & SaaS",
+      "website": "https://replitrade.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T20:46:17.525759+00:00"
+    },
+    {
+      "name": "Bestandspilot",
+      "slug": "polsia-bestandspilot",
+      "description": "KI-gestützte Nachschubplanung für JTL-Wawi. Automatische Nachbestellvorschläge, 24/7-Überwachung und dynamische Nachbestellpunkte für Onlinehändler.",
+      "description_fr": "KI-gestützte Nachschubplanung für JTL-Wawi. Automatische Nachbestellvorschläge, 24/7-Überwachung et dynamiquenachbestellpunkte für Onlinehändler.",
+      "category": "Other",
+      "website": "https://bestandspilot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T20:46:18.893203+00:00"
+    },
+    {
+      "name": "Nexalys",
+      "slug": "polsia-nexalys",
+      "description": "Plateforme d intelligence de marche poussee par des agents IA — analyse en continu, alertes temps reel, avantage decisionnel.",
+      "description_fr": "Plateforme d intelligence de marche poussée par des agents IA — analyser en continu, alertes temps reel, avantage décisionnel.",
+      "category": "Other",
+      "website": "https://nexalys.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T20:46:20.258570+00:00"
     }
   ]
 }
