@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T08:15:02.901388+00:00",
+  "last_updated": "2026-07-16T09:04:24.202072+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -196254,18 +196254,24 @@
     {
       "name": "RoboForge",
       "slug": "polsia-roboforge-3",
+      "description": "AI-driven robot blueprints from concept to ready-to-build schematics.",
+      "description_fr": "Plans de robots pilotés par l'IA, du concept aux schémas prêts à construire.",
+      "category": "AI & Machine Learning",
       "website": "https://roboforge-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T06:42:10.798109+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T09:04:12.322485+00:00"
     },
     {
       "name": "GrowthTeam AI",
       "slug": "polsia-growthteam-ai",
+      "description": "Your complete AI marketing department. Coordinated AI agents that generate leads, create content, run email campaigns, and produce reports — all without manual intervention.",
+      "description_fr": "Votre service marketing IA complet. Des agents d'IA coordonnés qui génèrent des prospects, créent du contenu, exécutent des campagnes par e-mail et produisent des rapports, le tout sans intervention manuelle.",
+      "category": "AI & Machine Learning",
       "website": "https://growthteam-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T06:42:21.239304+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T09:04:13.594963+00:00"
     },
     {
       "name": "EuroFlipHub",
@@ -196354,6 +196360,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-16T06:42:30.621710+00:00"
+    },
+    {
+      "name": "Chanty",
+      "slug": "polsia-chanty",
+      "website": "https://chanty.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T09:03:37.925731+00:00"
+    },
+    {
+      "name": "YellowBirds.com",
+      "slug": "polsia-yellowbirdscom",
+      "website": "https://yellowbirdscom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T09:03:43.492473+00:00"
+    },
+    {
+      "name": "DealRadar",
+      "slug": "polsia-dealradar-w6ri6l",
+      "description": "Real-time AI alerts when your target startups raise capital or get acquired.",
+      "description_fr": "L'IA vous alerte en temps réel lorsque vos startups cibles lèvent des capitaux ou sont acquises.",
+      "category": "AI & Machine Learning",
+      "website": "https://dealradar-w6ri6l.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T09:03:44.493359+00:00"
+    },
+    {
+      "name": "StillView",
+      "slug": "polsia-stillview",
+      "description": "Whole-wall, fog-free shower mirrors using dual-pane hydrodynamic technology. Perfect clarity, always.",
+      "description_fr": "Miroirs de douche à paroi entière et sans buée utilisant la technologie hydrodynamique à double vitrage. Une clarté parfaite, toujours.",
+      "category": "Other",
+      "website": "https://stillview.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T09:03:46.083874+00:00"
+    },
+    {
+      "name": "Punjab Time Studios",
+      "slug": "polsia-punjab-time-studios",
+      "description": "AI-powered digital media brands at the intersection of sports and entertainment.",
+      "description_fr": "Des marques de médias numériques basées sur l'IA, à l'intersection du sport et du divertissement.",
+      "category": "Entertainment & Media",
+      "website": "https://punjab-time-studios.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T09:03:46.885475+00:00"
+    },
+    {
+      "name": "Legado",
+      "slug": "polsia-legado-2",
+      "description": "Transforma las notas de tus clientes en documentos legales en segundos. Copiloto de IA para abogados de planificación patrimonial.",
+      "description_fr": "Transformez les notes de vos clients en documents légaux en secondes. Copilote de IA pour les avocats de planification patrimoniale.",
+      "category": "Other",
+      "website": "https://legado-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T09:03:47.516137+00:00"
+    },
+    {
+      "name": "Dayframe",
+      "slug": "polsia-dayframe-3",
+      "description": "AI morning briefings that surface your priorities, flag conflicts, and help you execute — before most inboxes load.",
+      "description_fr": "Des briefings matinaux sur l'IA qui mettent en évidence vos priorités, signalent les conflits et vous aident à exécuter - avant le chargement de la plupart des boîtes de réception.",
+      "category": "AI & Machine Learning",
+      "website": "https://dayframe-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T09:03:48.526771+00:00"
+    },
+    {
+      "name": "Prestige Concierge",
+      "slug": "polsia-prestige-concierge",
+      "description": "Your AI-powered gateway to the world's most coveted luxuries.",
+      "description_fr": "Votre passerelle alimentée par l'IA vers les luxes les plus convoités au monde.",
+      "category": "AI & Machine Learning",
+      "website": "https://prestige-concierge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T09:03:49.508657+00:00"
+    },
+    {
+      "name": "Grafix Modena",
+      "slug": "polsia-grafix-modena",
+      "description": "Detailing e wrapping d'eccellenza nel cuore dell'Emilia. Trasformiamo ogni veicolo in un'opera d'arte su ruote.",
+      "description_fr": "Détails et emballage d'excellence dans le cœur de l'Émilie. Transformons chaque véhicule en un opéra d'art sur la route.",
+      "category": "Other",
+      "website": "https://grafix-modena.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T09:03:50.639031+00:00"
+    },
+    {
+      "name": "SiteVest",
+      "slug": "polsia-sitevest-2",
+      "description": "You own the website. We handle everything else.",
+      "description_fr": "Vous êtes propriétaire du site Web. Nous nous occupons de tout le reste.",
+      "category": "Other",
+      "website": "https://sitevest-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T09:03:52.236727+00:00"
     }
   ]
 }
