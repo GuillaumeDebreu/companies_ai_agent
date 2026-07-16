@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T16:11:27.643091+00:00",
+  "last_updated": "2026-07-16T17:41:15.319412+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -196793,50 +196793,68 @@
     {
       "name": "FreshKeeper",
       "slug": "polsia-freshkeeper",
+      "description": "AI monitors your site, drafts the updates, you approve with one click. Keep your small business website fresh without the agency retainer.",
+      "description_fr": "L'IA surveille votre site, rédige les mises à jour, vous approuvez en un clic. Gardez le site Web de votre petite entreprise à jour sans avoir recours aux services d'une agence.",
+      "category": "AI & Machine Learning",
       "website": "https://freshkeeper.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T16:09:17.810510+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T17:40:35.593186+00:00"
     },
     {
       "name": "GripForce Workwear",
       "slug": "polsia-gripforce-workwear",
+      "description": "Magnetic workwear with built-in tool and pencil retention for contractors. One-handed donning, glove-compatible, and built to last.",
+      "description_fr": "Vêtements de travail magnétiques avec outil intégré et rétention des crayons pour les entrepreneurs. S'enfile d'une seule main, compatible avec des gants et conçu pour durer.",
+      "category": "Other",
       "website": "https://gripforce-workwear.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T16:09:28.252468+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T17:40:36.618053+00:00"
     },
     {
       "name": "Pinnacle Edge Analytics",
       "slug": "polsia-pinnacle-edge-analytics",
+      "description": "Data-driven sports analysis for informed wagering decisions",
+      "description_fr": "Analyse sportive basée sur les données pour des décisions de paris éclairées",
+      "category": "Other",
       "website": "https://pinnacle-edge-analytics.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T16:09:33.667983+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T17:40:37.991774+00:00"
     },
     {
       "name": "AutomateSmith",
       "slug": "polsia-automatesmith",
+      "description": "One agency. Dozens of tasks. Your local business runs itself. Turnkey AI automation for local service businesses.",
+      "description_fr": "Une agence. Des dizaines de tâches. Votre entreprise locale se gère elle-même. Automatisation de l'IA clé en main pour les entreprises de services locales.",
+      "category": "AI & Machine Learning",
       "website": "https://automatesmith.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T16:09:39.046131+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T17:40:40.130908+00:00"
     },
     {
       "name": "Talkflow",
       "slug": "polsia-talkflow-4",
+      "description": "Agentes de IA autônomos que transformam sua comunicação empresarial em resultados.",
+      "description_fr": "Agents de l'IA autonomes qui transforment leur communication commerciale en résultats.",
+      "category": "Other",
       "website": "https://talkflow-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T16:09:49.500871+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T17:40:41.416476+00:00"
     },
     {
       "name": "ReelSight Productions",
       "slug": "polsia-reelsight-productions",
+      "description": "A small video and film production company specializing in short films, independent features, commercials, and authentic brand storytelling.",
+      "description_fr": "Une petite société de production vidéo et cinématographique spécialisée dans les courts métrages, les longs métrages indépendants, les publicités et la narration authentique de marque.",
+      "category": "Marketing & Advertising",
       "website": "https://reelsight-productions.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T16:09:59.742343+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T17:40:42.981431+00:00"
     },
     {
       "name": "PU Prime Partenaires",
@@ -196881,6 +196899,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-16T16:10:13.063949+00:00"
+    },
+    {
+      "name": "RepriceIQ",
+      "slug": "polsia-repriceiq-y127ux",
+      "website": "https://repriceiq-y127ux.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T17:39:37.817400+00:00"
+    },
+    {
+      "name": "Luminal AI",
+      "slug": "polsia-luminal-ai-4",
+      "website": "https://luminal-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T17:39:47.507038+00:00"
+    },
+    {
+      "name": "Fuga IA",
+      "slug": "polsia-fuga-ia",
+      "website": "https://fuga-ia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T17:39:58.033494+00:00"
+    },
+    {
+      "name": "ShieldGear",
+      "slug": "polsia-shieldgear-2",
+      "website": "https://shieldgear-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T17:40:03.462198+00:00"
+    },
+    {
+      "name": "ThreadFlow",
+      "slug": "polsia-threadflow-3",
+      "description": "Curated trendy styles with fast US warehouse delivery.",
+      "description_fr": "Styles tendance sélectionnés avec livraison rapide en entrepôt aux États-Unis.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://threadflow-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T17:40:04.468530+00:00"
+    },
+    {
+      "name": "Claimly",
+      "slug": "polsia-claimly-8",
+      "description": "Autonomously claim, optimize, and monetize your business presence across every platform.",
+      "description_fr": "Revendiquez, optimisez et monétisez de manière autonome la présence de votre entreprise sur chaque plateforme.",
+      "category": "Software & SaaS",
+      "website": "https://claimly-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T17:40:06.031794+00:00"
+    },
+    {
+      "name": "NexusOps",
+      "slug": "polsia-nexusops-mzl4ck",
+      "website": "https://nexusops-mzl4ck.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T17:40:11.572608+00:00"
+    },
+    {
+      "name": "The Apollo Method",
+      "slug": "polsia-the-apollo-method",
+      "description": "Social media lead generation training for entrepreneurs who want to grow without paid ads.",
+      "description_fr": "Formation à la génération de leads sur les réseaux sociaux pour les entrepreneurs qui souhaitent se développer sans publicité payante.",
+      "category": "Marketing & Advertising",
+      "website": "https://the-apollo-method.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T17:40:12.516530+00:00"
+    },
+    {
+      "name": "ResponseOps AI",
+      "slug": "polsia-responseops-ai",
+      "description": "AI-powered automation that fills your pipeline 24/7. AI receptionists, missed-call text-back, appointment booking, and lead qualification for local service businesses.",
+      "description_fr": "Une automatisation basée sur l'IA qui remplit votre pipeline 24h/24 et 7j/7. Réceptionnistes IA, rappel des appels manqués, prise de rendez-vous et qualification des leads pour les entreprises de services locales.",
+      "category": "AI & Machine Learning",
+      "website": "https://responseops-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T17:40:13.721261+00:00"
+    },
+    {
+      "name": "SiteHub",
+      "slug": "polsia-sitehub",
+      "description": "One platform for every construction document.",
+      "description_fr": "Une plateforme pour chaque document de construction.",
+      "category": "Software & SaaS",
+      "website": "https://sitehub.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T17:40:14.816014+00:00"
     }
   ]
 }
