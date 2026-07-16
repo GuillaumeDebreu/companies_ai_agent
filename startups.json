@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T02:41:32.202505+00:00",
+  "last_updated": "2026-07-16T04:25:34.962961+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -196037,26 +196037,35 @@
     {
       "name": "SoundForge AI",
       "slug": "polsia-soundforge-ai-2",
+      "description": "AI songwriting that captures your unique sound. Create original, radio-ready songs personalized to your artistic fingerprint.",
+      "description_fr": "Une composition de chansons IA qui capture votre son unique. Créez des chansons originales, prêtes pour la radio, personnalisées selon votre empreinte artistique.",
+      "category": "AI & Machine Learning",
       "website": "https://soundforge-ai-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T01:07:46.295225+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T04:24:59.855605+00:00"
     },
     {
-      "name": "AI Automation Agency for Local Businesses",
+      "name": "LocalAI Agency",
       "slug": "polsia-ai-automation-agency-for-local-businesses",
+      "description": "AI automation solutions for local business growth.",
+      "description_fr": "Solutions d'automatisation de l'IA pour la croissance des entreprises locales.",
+      "category": "AI & Machine Learning",
       "website": "https://ai-automation-agency-for-local-businesses.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T01:07:51.858253+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T04:25:01.626147+00:00"
     },
     {
       "name": "ApexIQ",
       "slug": "polsia-apexiq-r6l77h",
+      "description": "AI-powered social media scheduling, analytics, and growth intelligence.",
+      "description_fr": "Planification, analyse et intelligence de croissance des réseaux sociaux basées sur l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://apexiq-r6l77h.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T01:07:57.510374+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T04:25:02.762285+00:00"
     },
     {
       "name": "FixChain",
@@ -196134,6 +196143,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-16T01:08:05.157222+00:00"
+    },
+    {
+      "name": "Diamond Hill Trading",
+      "slug": "polsia-diamond-hill-trading",
+      "website": "https://diamond-hill-trading.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T04:24:03.562105+00:00"
+    },
+    {
+      "name": "Great Gelato",
+      "slug": "polsia-great-gelato",
+      "website": "https://great-gelato.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T04:24:08.944823+00:00"
+    },
+    {
+      "name": "TradeSafe",
+      "slug": "polsia-tradesafe",
+      "website": "https://tradesafe.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T04:24:14.287528+00:00"
+    },
+    {
+      "name": "Echtwerk",
+      "slug": "polsia-echtwerk",
+      "website": "https://echtwerk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T04:24:19.654189+00:00"
+    },
+    {
+      "name": "GenCraft AI",
+      "slug": "polsia-gencraft-ai",
+      "description": "AI-powered content creation platform for modern businesses. Generate logos, social media captions, business names, resumes, and marketing copy in seconds.",
+      "description_fr": "Plateforme de création de contenu basée sur l'IA pour les entreprises modernes. Générez des logos, des légendes de réseaux sociaux, des noms d'entreprise, des CV et des textes marketing en quelques secondes.",
+      "category": "Marketing & Advertising",
+      "website": "https://gencraft-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T04:24:20.924964+00:00"
+    },
+    {
+      "name": "ProfitPulse",
+      "slug": "polsia-profitpulse-9",
+      "website": "https://profitpulse-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T04:24:26.288132+00:00"
+    },
+    {
+      "name": "ThresholdIQ",
+      "slug": "polsia-thresholdiq",
+      "website": "https://thresholdiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T04:24:31.731304+00:00"
+    },
+    {
+      "name": "HealOps",
+      "slug": "polsia-healops-5",
+      "description": "Autonomous web ops — self-healing servers, zero intervention.",
+      "description_fr": "Opérations Web autonomes : serveurs à réparation automatique, aucune intervention.",
+      "category": "Other",
+      "website": "https://healops-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T04:24:32.846319+00:00"
+    },
+    {
+      "name": "3F Digitals",
+      "slug": "polsia-3f-digitals",
+      "description": "Digital solutions for Africa's health-conscious businesses.",
+      "description_fr": "Des solutions numériques pour les entreprises africaines soucieuses de leur santé.",
+      "category": "Health & Wellness",
+      "website": "https://3f-digitals.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T04:24:34.033276+00:00"
+    },
+    {
+      "name": "Talairo",
+      "slug": "polsia-talairo",
+      "description": "Tech sales recruitment built by sales leaders. Connecting high-growth tech companies with exceptional sales talent.",
+      "description_fr": "Recrutement de ventes technologiques construit par des leaders commerciaux. Connecter des entreprises technologiques à forte croissance avec des talents commerciaux exceptionnels.",
+      "category": "Sales & CRM",
+      "website": "https://talairo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T04:24:35.397892+00:00"
     }
   ]
 }
