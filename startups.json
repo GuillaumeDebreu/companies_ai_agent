@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T09:04:24.202072+00:00",
+  "last_updated": "2026-07-16T11:09:34.485096+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -196364,18 +196364,24 @@
     {
       "name": "Chanty",
       "slug": "polsia-chanty",
+      "description": "Simple team chat and collaboration for modern businesses.",
+      "description_fr": "Chat d'équipe et collaboration simples pour les entreprises modernes.",
+      "category": "Other",
       "website": "https://chanty.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T09:03:37.925731+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T11:08:53.770651+00:00"
     },
     {
       "name": "YellowBirds.com",
       "slug": "polsia-yellowbirdscom",
+      "description": "Group Charter Solutions for Passengers and Cargo — flexible on-demand flight solutions for sizeable groups and complex logistics.",
+      "description_fr": "Solutions d'affrètement de groupe pour les passagers et le fret : solutions de vol flexibles à la demande pour les groupes importants et la logistique complexe.",
+      "category": "Logistics & Supply Chain",
       "website": "https://yellowbirdscom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T09:03:43.492473+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T11:08:54.908113+00:00"
     },
     {
       "name": "DealRadar",
@@ -196464,6 +196470,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-16T09:03:52.236727+00:00"
+    },
+    {
+      "name": "TechVault",
+      "slug": "polsia-techvault-2",
+      "website": "https://techvault-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T11:07:55.946353+00:00"
+    },
+    {
+      "name": "FollowUp AI",
+      "slug": "polsia-followup-ai-4",
+      "website": "https://followup-ai-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T11:07:56.552120+00:00"
+    },
+    {
+      "name": "LocalBoost AI",
+      "slug": "polsia-localboost-ai-wlk07k",
+      "website": "https://localboost-ai-wlk07k.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T11:08:02.166225+00:00"
+    },
+    {
+      "name": "Comfort Guardians",
+      "slug": "polsia-comfort-guardians",
+      "website": "https://comfort-guardians.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T11:08:07.745837+00:00"
+    },
+    {
+      "name": "FounderSight",
+      "slug": "polsia-foundersight",
+      "website": "https://foundersight.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T11:08:13.336060+00:00"
+    },
+    {
+      "name": "Capsule",
+      "slug": "polsia-capsule-4",
+      "website": "https://capsule-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T11:08:18.733857+00:00"
+    },
+    {
+      "name": "CreatorStack",
+      "slug": "polsia-creatorstack-fryers",
+      "website": "https://creatorstack-fryers.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T11:08:24.298593+00:00"
+    },
+    {
+      "name": "Nereus Intelligence",
+      "slug": "polsia-nereis-intelligence",
+      "description": "Approvisionnement autonome boosté par l’IA pour les produits spécialisés.",
+      "description_fr": "Approvisionnement autonome boosté par l’IA pour les produits spécialisés.",
+      "category": "Other",
+      "website": "https://nereis-intelligence.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T11:09:34.484298+00:00"
+    },
+    {
+      "name": "One Link Foundation PDX",
+      "slug": "polsia-one-link-foundation-pdx",
+      "description": "Empowering underrepresented youth in Portland through vocational training and career pathways.",
+      "description_fr": "Autonomiser les jeunes sous-représentés de Portland grâce à la formation professionnelle et aux parcours professionnels.",
+      "category": "Education",
+      "website": "https://one-link-foundation-pdx.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T11:08:31.150412+00:00"
+    },
+    {
+      "name": "OrbitLaunch",
+      "slug": "polsia-orbitlaunch-2",
+      "description": "Autonomous AI web agency — builds, runs, and optimizes your digital presence 24/7.",
+      "description_fr": "Agence Web autonome avec IA : crée, exécute et optimise votre présence numérique 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://orbitlaunch-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T11:08:32.369026+00:00"
     }
   ]
 }
