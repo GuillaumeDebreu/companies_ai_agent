@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T20:47:00.550089+00:00",
+  "last_updated": "2026-07-16T21:49:56.604343+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -197219,18 +197219,24 @@
     {
       "name": "RenewalMind",
       "slug": "polsia-renewalmind-2",
+      "description": "AI-powered membership management — track gym memberships, club subscriptions, and online service renewals. Get smart alerts before renewals and cancel unwanted memberships on your behalf.",
+      "description_fr": "Gestion des adhésions basée sur l'IA : suivez les adhésions aux salles de sport, aux clubs et aux renouvellements de services en ligne. Recevez des alertes intelligentes avant les renouvellements et annulez les adhésions indésirables en votre nom.",
+      "category": "AI & Machine Learning",
       "website": "https://renewalmind-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T20:45:55.225477+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T21:49:26.262596+00:00"
     },
     {
       "name": "PrintOps",
       "slug": "polsia-printops-4",
+      "description": "AI-powered print-on-demand storefront automation.",
+      "description_fr": "Automatisation de l'impression à la demande basée sur l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://printops-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T20:46:00.666791+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-16T21:49:27.490894+00:00"
     },
     {
       "name": "AttachFlow",
@@ -197319,6 +197325,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-16T20:46:20.258570+00:00"
+    },
+    {
+      "name": "AtlasOS",
+      "slug": "polsia-atlasos-2x1ha4",
+      "website": "https://atlasos-2x1ha4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T21:48:23.103328+00:00"
+    },
+    {
+      "name": "Reers",
+      "slug": "polsia-reers",
+      "website": "https://reers.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T21:48:28.789892+00:00"
+    },
+    {
+      "name": "Tagdrip AI",
+      "slug": "polsia-tagdrip-ai",
+      "website": "https://tagdrip-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T21:48:34.326553+00:00"
+    },
+    {
+      "name": "Pratika",
+      "slug": "polsia-pratika",
+      "website": "https://pratika.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T21:48:39.963130+00:00"
+    },
+    {
+      "name": "NexusTrade",
+      "slug": "polsia-nexustrade-8",
+      "website": "https://nexustrade-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-16T21:48:45.339385+00:00"
+    },
+    {
+      "name": "The Pines Resort & Campground",
+      "slug": "polsia-the-pines-resort-campground",
+      "description": "Premier Minnesota walleye fishing resort with housekeeping cabins, RV camping & year-round outdoor adventure on Lake Winnibigoshish.",
+      "description_fr": "Complexe de pêche au doré haut de gamme du Minnesota, chalets de ménage, camping pour camping-car et aventure en plein air toute l'année sur le lac Winnibigoshish.",
+      "category": "Other",
+      "website": "https://the-pines-resort-campground.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T21:48:46.369774+00:00"
+    },
+    {
+      "name": "Velvet Kiss Sleepwear",
+      "slug": "polsia-velvet-kiss-sleepwear",
+      "description": "Glamorous sleepwear for the modern dreamer. Trendy, luxurious short pajama sets with bows, lace trim, and pastel colors.",
+      "description_fr": "Des vêtements de nuit glamour pour le rêveur moderne. Ensembles de pyjama courts tendance et luxueux avec des nœuds, des bordures en dentelle et des couleurs pastel.",
+      "category": "Other",
+      "website": "https://velvet-kiss-sleepwear.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T21:49:56.603396+00:00"
+    },
+    {
+      "name": "ALOE SUITE",
+      "slug": "polsia-aloe-suite",
+      "description": "Direct booking and experience monetization for hospitality businesses.",
+      "description_fr": "Réservation directe et monétisation d'expérience pour les entreprises hôtelières.",
+      "category": "Travel & Hospitality",
+      "website": "https://aloe-suite.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T21:48:53.086266+00:00"
+    },
+    {
+      "name": "Makina.io",
+      "slug": "polsia-makinaio",
+      "description": "Votre agent marketing IA autonome pour PME artisanales. Planifiez, exécutez et optimisez automatiquement vos stratégies SEO, créez du contenu adapté à votre métier et gérez vos campagnes publicitaires.",
+      "description_fr": "Votre agent marketing IA autonome pour PME artisanales. Planifiez, exécutez et optimisez automatiquement vos stratégies SEO, créez du contenu adapté à votre métier et gérez vos campagnes publicitaires.",
+      "category": "Marketing & Advertising",
+      "website": "https://makinaio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T21:48:55.000595+00:00"
+    },
+    {
+      "name": "Anadolu Metal Kimya Teknolojileri",
+      "slug": "polsia-anadolu-metal-kimya-teknolojileri-sanayi-ve-ticare",
+      "description": "Türkiye'nin özel kimyasal üretiminde güvenilir çözüm ortağı. Deterjan, kişisel bakım ve endüstriyel temizleyici sektörlerine yönelik katma değerli kimyasal maddeler.",
+      "description_fr": "Türkiye'nin özel kimyasal üretiminde güvenilir çözüm ortağı. Détergent, kişisel bakım et endüstriyel temizleyici sektörlerine yönelik katma değerli kimyasal maddeler.",
+      "category": "Other",
+      "website": "https://anadolu-metal-kimya-teknolojileri-sanayi-ve-ticare.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-16T21:48:56.439170+00:00"
     }
   ]
 }
