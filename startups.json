@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T10:56:58.006077+00:00",
+  "last_updated": "2026-07-17T12:11:49.065527+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -198084,42 +198084,57 @@
     {
       "name": "Airwise AI",
       "slug": "polsia-airwise-ai",
+      "description": "Pilotage WiFi autonome par agents IA. Surveillance continue, diagnostic prédictif et configuration automatique pour des réseaux d'entreprise.",
+      "description_fr": "Pilotage WiFi autonome par agents IA. Surveillance continue, diagnostic prédictif et configuration automatique pour des réseaux d'entreprise.",
+      "category": "AI & Machine Learning",
       "website": "https://airwise-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T10:55:14.374625+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T12:11:17.457453+00:00"
     },
     {
       "name": "ForgeAI",
       "slug": "polsia-forgeai-tjbyzy",
+      "description": "Build custom AI agents in minutes — no code required.",
+      "description_fr": "Créez des agents IA personnalisés en quelques minutes, aucun code requis.",
+      "category": "AI & Machine Learning",
       "website": "https://forgeai-tjbyzy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T10:55:19.805858+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T12:11:18.861968+00:00"
     },
     {
       "name": "SentinelCode",
       "slug": "polsia-sentinelcode-fjz3as",
+      "description": "Autonomous AI agent that monitors repositories around the clock, generates docs, detects bugs, and fixes code.",
+      "description_fr": "Agent d'IA autonome qui surveille les référentiels 24 heures sur 24, génère des documents, détecte les bogues et corrige le code.",
+      "category": "AI & Machine Learning",
       "website": "https://sentinelcode-fjz3as.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T10:55:25.146102+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T12:11:20.221211+00:00"
     },
     {
       "name": "Rolewise",
       "slug": "polsia-rolewise-3",
+      "description": "Autonomous job applications with human-in-the-loop control. AI that monitors boards, matches opportunities, and submits for you — while you stay in charge.",
+      "description_fr": "Candidatures autonomes avec contrôle humain dans la boucle. Une IA qui surveille les tableaux, sélectionne les opportunités et soumet les soumissions pour vous, pendant que vous restez aux commandes.",
+      "category": "AI & Machine Learning",
       "website": "https://rolewise-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T10:55:30.557687+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T12:11:21.311212+00:00"
     },
     {
       "name": "StackAI",
       "slug": "polsia-stackai-u8ycz5",
+      "description": "Autonomous arbitrage intelligence for cross-platform resellers. AI agents that monitor niche e-commerce marketplaces, identify underpriced inventory, and execute profitable deals around the clock.",
+      "description_fr": "Intelligence d'arbitrage autonome pour les revendeurs multiplateformes. Des agents IA qui surveillent les marchés de niche du commerce électronique, identifient les stocks sous-évalués et exécutent des transactions rentables 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://stackai-u8ycz5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T10:55:36.098164+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T12:11:22.486909+00:00"
     },
     {
       "name": "码筑科技",
@@ -198175,6 +198190,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-17T10:55:48.896328+00:00"
+    },
+    {
+      "name": "BuildSentinel AI",
+      "slug": "polsia-buildsentinel-ai-2",
+      "website": "https://buildsentinel-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T12:10:21.508848+00:00"
+    },
+    {
+      "name": "Wire & Wood Coffeehouse",
+      "slug": "polsia-wire-wood-coffeehouse",
+      "website": "https://wire-wood-coffeehouse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T12:10:27.087869+00:00"
+    },
+    {
+      "name": "Make your own Films",
+      "slug": "polsia-make-your-own-films",
+      "website": "https://make-your-own-films.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T12:10:32.463554+00:00"
+    },
+    {
+      "name": "TradeBoost",
+      "slug": "polsia-tradeboost-3",
+      "description": "Cash flow acceleration for trade professionals. Get paid faster on your invoices with instant advances and transparent flat fees.",
+      "description_fr": "Accélération de trésorerie pour les professionnels du commerce. Soyez payé plus rapidement sur vos factures grâce à des avances instantanées et des frais forfaitaires transparents.",
+      "category": "Finance & Fintech",
+      "website": "https://tradeboost-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T12:10:33.435627+00:00"
+    },
+    {
+      "name": "DispatchIQ",
+      "slug": "polsia-dispatchiq-frpz7g",
+      "description": "AI-powered autonomous dispatch and compliance for mid-size trucking fleets.",
+      "description_fr": "Répartition et conformité autonomes basées sur l'IA pour les flottes de camions de taille moyenne.",
+      "category": "AI & Machine Learning",
+      "website": "https://dispatchiq-frpz7g.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T12:10:34.263099+00:00"
+    },
+    {
+      "name": "CatchLocal",
+      "slug": "polsia-catchlocal-2",
+      "description": "Regional bass fishing guides written by local experts.",
+      "description_fr": "Guides régionaux de pêche au bar rédigés par des experts locaux.",
+      "category": "Other",
+      "website": "https://catchlocal-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T12:10:35.595817+00:00"
+    },
+    {
+      "name": "ReputeAI",
+      "slug": "polsia-reputeai-7",
+      "description": "Surveillez et répondez à tous vos avis clients avec l'intelligence artificielle.",
+      "description_fr": "Surveillez et répondez à tous vos avis clients avec l'intelligence artificielle.",
+      "category": "AI & Machine Learning",
+      "website": "https://reputeai-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T12:10:36.331994+00:00"
+    },
+    {
+      "name": "NexusWatch",
+      "slug": "polsia-nexuswatch-3",
+      "website": "https://nexuswatch-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T12:10:46.853029+00:00"
+    },
+    {
+      "name": "AutoHomi",
+      "slug": "polsia-autohomi",
+      "description": "Prevent costly repairs with timely home and auto maintenance reminders.",
+      "description_fr": "Évitez les réparations coûteuses grâce à des rappels d’entretien domestique et automobile en temps opportun.",
+      "category": "Other",
+      "website": "https://autohomi.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T12:10:47.599878+00:00"
+    },
+    {
+      "name": "PatchPilot",
+      "slug": "polsia-patchpilot-c328zc",
+      "description": "AI-powered autonomous code security, around the clock. PatchPilot monitors repositories for dependency vulnerabilities, generates targeted security patches, and opens pull requests automatically.",
+      "description_fr": "Sécurité du code autonome alimentée par l'IA, 24 heures sur 24. PatchPilot surveille les référentiels pour détecter les vulnérabilités de dépendance, génère des correctifs de sécurité ciblés et ouvre automatiquement les demandes d'extraction.",
+      "category": "AI & Machine Learning",
+      "website": "https://patchpilot-c328zc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T12:10:48.739436+00:00"
     }
   ]
 }
