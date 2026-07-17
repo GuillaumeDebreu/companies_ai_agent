@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T14:05:19.939976+00:00",
+  "last_updated": "2026-07-17T15:36:23.016861+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -198301,42 +198301,57 @@
     {
       "name": "ResponseIQ",
       "slug": "polsia-responseiq-yh2n2s",
+      "description": "Autonomous review intelligence that monitors, responds, and alerts — so you never miss a beat.",
+      "description_fr": "Une intelligence d'examen autonome qui surveille, répond et alerte — pour que vous ne manquiez jamais rien.",
+      "category": "Other",
       "website": "https://responseiq-yh2n2s.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T14:03:38.745665+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T15:35:45.696981+00:00"
     },
     {
       "name": "ReviewMind",
       "slug": "polsia-reviewmind-10",
+      "description": "AI-powered review management that saves local businesses 10 hours a week.",
+      "description_fr": "Gestion des avis basée sur l'IA qui permet aux entreprises locales de gagner 10 heures par semaine.",
+      "category": "AI & Machine Learning",
       "website": "https://reviewmind-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T14:03:44.382494+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T15:35:46.720161+00:00"
     },
     {
       "name": "TropiSource AI",
       "slug": "polsia-tropisource-ai",
+      "description": "Autonomous AI sourcing for verified exotic lumber, 24/7.",
+      "description_fr": "Approvisionnement autonome par IA pour le bois exotique vérifié, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://tropisource-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T14:03:49.906376+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T15:35:48.729507+00:00"
     },
     {
-      "name": "Omni",
+      "name": "Omni — Car rental in Morocco",
       "slug": "polsia-omni-2",
+      "description": "Discover reliable car rental in Morocco — connect with 9,000+ local rental companies on one platform.",
+      "description_fr": "Découvrez une location de voiture fiable au Maroc — connectez-vous avec plus de 9 000 sociétés de location locales sur une seule plateforme.",
+      "category": "Software & SaaS",
       "website": "https://omni-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T14:03:55.536992+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T15:35:50.807502+00:00"
     },
     {
       "name": "Veriphy",
       "slug": "polsia-veriphy",
+      "description": "AI-powered deviation detection for institutional investors.",
+      "description_fr": "Détection des écarts basée sur l'IA pour les investisseurs institutionnels.",
+      "category": "AI & Machine Learning",
       "website": "https://veriphy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T14:04:01.153113+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T15:35:52.202384+00:00"
     },
     {
       "name": "FundScout AI",
@@ -198381,6 +198396,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-17T14:04:15.579470+00:00"
+    },
+    {
+      "name": "EventScout KI",
+      "slug": "polsia-eventscout-ki",
+      "website": "https://eventscout-ki.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T15:34:37.946051+00:00"
+    },
+    {
+      "name": "NexTrade",
+      "slug": "polsia-nextrade-4",
+      "website": "https://nextrade-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T15:34:38.668884+00:00"
+    },
+    {
+      "name": "Portfolio Properties USA",
+      "slug": "polsia-portfolio-properties-usa",
+      "website": "https://portfolio-properties-usa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T15:34:44.183622+00:00"
+    },
+    {
+      "name": "Rough Draft AI",
+      "slug": "polsia-rough-draft-ai",
+      "website": "https://rough-draft-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T15:34:49.815250+00:00"
+    },
+    {
+      "name": "BidSift AI",
+      "slug": "polsia-bidsift-ai-2",
+      "description": "AI agents that monitor, match, and submit government bids for small businesses — automatically.",
+      "description_fr": "Des agents d'IA qui surveillent, font correspondre et soumettent automatiquement les offres gouvernementales pour les petites entreprises.",
+      "category": "AI & Machine Learning",
+      "website": "https://bidsift-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T15:36:11.033673+00:00"
+    },
+    {
+      "name": "HardMount",
+      "slug": "polsia-hardmount",
+      "website": "https://hardmount.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T15:35:00.981613+00:00"
+    },
+    {
+      "name": "Apex B2B",
+      "slug": "polsia-apex-b2b",
+      "description": "Data-driven growth marketing for B2B brands ready to scale.",
+      "description_fr": "Marketing de croissance basé sur les données pour les marques B2B prêtes à évoluer.",
+      "category": "Marketing & Advertising",
+      "website": "https://apex-b2b.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T15:35:02.787813+00:00"
+    },
+    {
+      "name": "Parallel Path",
+      "slug": "polsia-parallel-path",
+      "website": "https://parallel-path.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T15:35:08.197270+00:00"
+    },
+    {
+      "name": "GrowthForge AI",
+      "slug": "polsia-growthforge-ai-6",
+      "description": "AI-powered marketing for agencies and small businesses. AI content generation, SEO tools, social scheduling, lead CRM, and analytics in one dashboard.",
+      "description_fr": "Marketing basé sur l'IA pour les agences et les petites entreprises. Génération de contenu IA, outils de référencement, planification sociale, CRM principal et analyses dans un seul tableau de bord.",
+      "category": "Marketing & Advertising",
+      "website": "https://growthforge-ai-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T15:36:23.015603+00:00"
+    },
+    {
+      "name": "CapitalMind AI",
+      "slug": "polsia-capitalmind-ai-2",
+      "description": "Your autonomous financial agent for small business growth. Monitor cash flow, track credit, and unlock funding opportunities — on autopilot.",
+      "description_fr": "Votre agent financier autonome pour la croissance des petites entreprises. Surveillez les flux de trésorerie, suivez le crédit et débloquez des opportunités de financement, en pilote automatique.",
+      "category": "AI & Machine Learning",
+      "website": "https://capitalmind-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T15:35:15.600417+00:00"
     }
   ]
 }
