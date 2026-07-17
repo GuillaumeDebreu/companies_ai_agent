@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T23:42:45.421449+00:00",
+  "last_updated": "2026-07-17T01:14:05.342359+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -197543,26 +197543,35 @@
     {
       "name": "ScadenzaSentinella",
       "slug": "polsia-scadenzasentinella",
+      "description": "La piattaforma AI che vigila sulle tue scadenze normative 24 ore su 24, 7 giorni su 7.",
+      "description_fr": "La place est la veille sur votre cadre normatif 24 heures sur 24, 7 jours sur 7.",
+      "category": "AI & Machine Learning",
       "website": "https://scadenzasentinella.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T23:41:14.123123+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T01:13:43.462379+00:00"
     },
     {
       "name": "FunnelFlow AI",
       "slug": "polsia-funnelflow-ai",
+      "description": "Autonomous sales funnel automation that works while you sleep. Monitor your pipeline, engage leads with personalized multi-channel outreach, and optimize conversion paths around the clock.",
+      "description_fr": "Automatisation autonome de l'entonnoir de vente qui fonctionne pendant que vous dormez. Surveillez votre pipeline, engagez des prospects grâce à une sensibilisation multicanal personnalisée et optimisez les chemins de conversion 24 heures sur 24.",
+      "category": "Sales & CRM",
       "website": "https://funnelflow-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T23:41:19.612542+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T01:13:44.499455+00:00"
     },
     {
       "name": "Alfa Estate Sales",
       "slug": "polsia-alfa-estate-sales",
+      "description": "Estate Sale Experts Serving DuPage County, Illinois",
+      "description_fr": "Experts en vente de biens immobiliers au service du comté de DuPage, Illinois",
+      "category": "Sales & CRM",
       "website": "https://alfa-estate-sales.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-16T23:41:25.061231+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T01:13:45.433525+00:00"
     },
     {
       "name": "ClearFleet AI",
@@ -197637,6 +197646,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-16T23:41:44.686719+00:00"
+    },
+    {
+      "name": "Mehzad Internationals",
+      "slug": "polsia-mehzad-internationals",
+      "website": "https://mehzad-internationals.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T01:12:40.161553+00:00"
+    },
+    {
+      "name": "PrimeMatch",
+      "slug": "polsia-primematch",
+      "description": "AI-powered contract discovery and bid drafting for small businesses.",
+      "description_fr": "Découverte de contrats et rédaction d'offres basées sur l'IA pour les petites entreprises.",
+      "category": "AI & Machine Learning",
+      "website": "https://primematch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T01:13:47.696676+00:00"
+    },
+    {
+      "name": "ConstructForge",
+      "slug": "polsia-constructforge",
+      "description": "Autonomous AI that runs your construction projects from permit to punch list.",
+      "description_fr": "Une IA autonome qui gère vos projets de construction du permis à la liste de tâches.",
+      "category": "AI & Machine Learning",
+      "website": "https://constructforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T01:13:48.926838+00:00"
+    },
+    {
+      "name": "ClearFlow",
+      "slug": "polsia-clearflow-y3qra3",
+      "website": "https://clearflow-y3qra3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T01:12:56.444381+00:00"
+    },
+    {
+      "name": "TrueVoice",
+      "slug": "polsia-truevoice-2",
+      "description": "AI ghostwriting that clones your voice and keeps your conviction.",
+      "description_fr": "Une écriture fantôme IA qui clone votre voix et préserve votre conviction.",
+      "category": "AI & Machine Learning",
+      "website": "https://truevoice-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T01:13:54.624726+00:00"
+    },
+    {
+      "name": "The Warm Crate",
+      "slug": "polsia-the-warm-crate",
+      "description": "Thoughtfully curated gift baskets for the women who raised us.",
+      "description_fr": "Des paniers-cadeaux soigneusement sélectionnés pour les femmes qui nous ont élevés.",
+      "category": "Other",
+      "website": "https://the-warm-crate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T01:13:03.145918+00:00"
+    },
+    {
+      "name": "TenderPilot",
+      "slug": "polsia-tenderpilot-8",
+      "description": "Win government contracts with AI-powered automated bidding",
+      "description_fr": "Gagnez des contrats gouvernementaux grâce aux enchères automatiques basées sur l'IA",
+      "category": "AI & Machine Learning",
+      "website": "https://tenderpilot-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T01:13:04.257838+00:00"
+    },
+    {
+      "name": "Good Dog Media",
+      "slug": "polsia-good-dog-media",
+      "website": "https://good-dog-media.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T01:13:09.760100+00:00"
+    },
+    {
+      "name": "SentinelShield",
+      "slug": "polsia-sentinelshield-2",
+      "description": "AI-powered cybersecurity for small businesses—no security team required.",
+      "description_fr": "Cybersécurité basée sur l'IA pour les petites entreprises : aucune équipe de sécurité n'est requise.",
+      "category": "AI & Machine Learning",
+      "website": "https://sentinelshield-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T01:13:10.962229+00:00"
+    },
+    {
+      "name": "Velocity",
+      "slug": "polsia-velocity-9kdwf3",
+      "website": "https://velocity-9kdwf3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T01:13:16.442123+00:00"
     }
   ]
 }
