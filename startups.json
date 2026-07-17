@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T21:37:57.881011+00:00",
+  "last_updated": "2026-07-17T22:31:03.251507+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -199048,42 +199048,57 @@
     {
       "name": "TuberRoot",
       "slug": "polsia-tuberroot",
+      "description": "Tech support that's anything but ordinary. Cyberpunk-infused IT services for gamers, Gen Z professionals, and small businesses.",
+      "description_fr": "Un support technique tout sauf ordinaire. Services informatiques inspirés du Cyberpunk pour les joueurs, les professionnels de la génération Z et les petites entreprises.",
+      "category": "Other",
       "website": "https://tuberroot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T21:36:22.101719+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T22:30:30.633016+00:00"
     },
     {
       "name": "Taskpilot",
       "slug": "polsia-taskpilot-nrwckw",
+      "description": "AI-powered automation for small businesses — eliminate repetitive workflows and reclaim hours every week.",
+      "description_fr": "Automatisation basée sur l'IA pour les petites entreprises : éliminez les flux de travail répétitifs et récupérez des heures chaque semaine.",
+      "category": "Productivity & Automation",
       "website": "https://taskpilot-nrwckw.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T21:36:27.614566+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T22:30:31.580448+00:00"
     },
     {
       "name": "Lebensstrom",
       "slug": "polsia-lebensstrom",
+      "description": "Intelligente Haustechnik & Wohlbefinden – alles aus einer Hand.",
+      "description_fr": "Intelligente Haustechnik & Wohlbefinden – alles aus einer Hand.",
+      "category": "Other",
       "website": "https://lebensstrom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T21:36:32.939915+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T22:30:32.724681+00:00"
     },
     {
       "name": "Vigilix",
       "slug": "polsia-vigilix-cuhp28",
+      "description": "Autonomous open-source license compliance, around the clock.",
+      "description_fr": "Conformité autonome des licences open source, 24 heures sur 24.",
+      "category": "Other",
       "website": "https://vigilix-cuhp28.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T21:36:38.380911+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T22:30:34.126844+00:00"
     },
     {
       "name": "Vapore",
       "slug": "polsia-vapore",
+      "description": "Purpose-engineered towels for every pursuit — cooling, sports, gym, golf, and beach.",
+      "description_fr": "Serviettes spécialement conçues pour toutes les activités : refroidissement, sport, salle de sport, golf et plage.",
+      "category": "Other",
       "website": "https://vapore.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T21:36:43.670813+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T22:30:35.544747+00:00"
     },
     {
       "name": "WildPulse",
@@ -199139,6 +199154,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-17T21:36:53.953762+00:00"
+    },
+    {
+      "name": "TMonaa Luxe & Co",
+      "slug": "polsia-tmonaa-luxe-co",
+      "website": "https://tmonaa-luxe-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T22:29:14.831467+00:00"
+    },
+    {
+      "name": "Divaaco",
+      "slug": "polsia-divaaco",
+      "website": "https://divaaco.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T22:29:20.365381+00:00"
+    },
+    {
+      "name": "Recurrix",
+      "slug": "polsia-recurrix",
+      "website": "https://recurrix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T22:29:25.821416+00:00"
+    },
+    {
+      "name": "Wildcast",
+      "slug": "polsia-wildcast",
+      "description": "Gear that follows your hunt. AI-powered seasonal gear delivery for anglers and hunters — compliant, curated, and automatic.",
+      "description_fr": "Un équipement qui suit votre chasse. Livraison saisonnière d'équipements alimentés par l'IA pour les pêcheurs et les chasseurs – conforme, organisé et automatique.",
+      "category": "AI & Machine Learning",
+      "website": "https://wildcast.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T22:30:58.253299+00:00"
+    },
+    {
+      "name": "TerraSync",
+      "slug": "polsia-terrasync-4",
+      "description": "Intelligent operations for modern landscape businesses.",
+      "description_fr": "Des opérations intelligentes pour les entreprises paysagères modernes.",
+      "category": "Other",
+      "website": "https://terrasync-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T22:30:59.501314+00:00"
+    },
+    {
+      "name": "Formwise",
+      "slug": "polsia-formwise-3",
+      "description": "AI-powered proposals and smarter workflows for architecture, interior design, and AEC firms.",
+      "description_fr": "Des propositions basées sur l'IA et des flux de travail plus intelligents pour les entreprises d'architecture, de design d'intérieur et d'AEC.",
+      "category": "AI & Machine Learning",
+      "website": "https://formwise-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T22:31:00.689038+00:00"
+    },
+    {
+      "name": "OploCloud",
+      "slug": "polsia-oplocloud",
+      "description": "The vertically integrated computing platform from silicon to sovereign cloud.",
+      "description_fr": "La plateforme informatique verticalement intégrée, du silicium au cloud souverain.",
+      "category": "Software & SaaS",
+      "website": "https://oplocloud.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T22:31:01.952656+00:00"
+    },
+    {
+      "name": "SpotSaga",
+      "slug": "polsia-spotsaga",
+      "description": "Votre compagnon IA qui révèle les histoires cachées autour de vous.",
+      "description_fr": "Votre compagnon IA qui révèle les histoires cachées autour de vous.",
+      "category": "Other",
+      "website": "https://spotsaga.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T22:31:03.250244+00:00"
+    },
+    {
+      "name": "ColorPals",
+      "slug": "polsia-colorpals",
+      "description": "AI-powered personalized coloring books for every kid and occasion.",
+      "description_fr": "Des livres de coloriage personnalisés alimentés par l'IA pour chaque enfant et chaque occasion.",
+      "category": "AI & Machine Learning",
+      "website": "https://colorpals.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T22:29:54.923672+00:00"
+    },
+    {
+      "name": "SafeNest Home Modifications",
+      "slug": "polsia-safenest-home-modifications",
+      "description": "Make home the safest place to age. CAPS-certified installations, government funding assistance, and aging-in-place upgrades for seniors across North America.",
+      "description_fr": "Faites de la maison l’endroit le plus sûr pour vieillir. Installations certifiées CAPS, aide financière gouvernementale et améliorations du vieillissement sur place pour les personnes âgées partout en Amérique du Nord.",
+      "category": "Other",
+      "website": "https://safenest-home-modifications.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T22:29:56.457934+00:00"
     }
   ]
 }
