@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T16:45:54.850825+00:00",
+  "last_updated": "2026-07-17T17:49:59.893349+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -198504,10 +198504,13 @@
     {
       "name": "Blitz Auto AI",
       "slug": "polsia-blitz-auto-ai",
+      "description": "On-demand car care, orchestrated by AI.",
+      "description_fr": "Entretien automobile à la demande, orchestré par l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://blitz-auto-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T16:43:40.509327+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T17:49:20.920474+00:00"
     },
     {
       "name": "CombatForge",
@@ -198520,26 +198523,35 @@
     {
       "name": "GrowthPilot AI",
       "slug": "polsia-growthpilot-ai-5djffc",
+      "description": "AI automation for service businesses that saves time and drives growth.",
+      "description_fr": "Automatisation de l'IA pour les entreprises de services qui permet de gagner du temps et de stimuler la croissance.",
+      "category": "AI & Machine Learning",
       "website": "https://growthpilot-ai-5djffc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T16:44:01.344205+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T17:49:22.703895+00:00"
     },
     {
       "name": "ClipForge AI",
       "slug": "polsia-clipforge-ai-dzldsi",
+      "description": "Drop in a video or article URL — ClipForge AI proposes up to five short clips (under 60 seconds each) for you to review and approve in your dashboard.",
+      "description_fr": "Déposez l'URL d'une vidéo ou d'un article — ClipForge AI propose jusqu'à cinq courts clips (moins de 60 secondes chacun) que vous pouvez examiner et approuver dans votre tableau de bord.",
+      "category": "AI & Machine Learning",
       "website": "https://clipforge-ai-dzldsi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T16:44:06.758908+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T17:49:24.629050+00:00"
     },
     {
       "name": "FleetMind",
       "slug": "polsia-fleetmind-jzqmxd",
+      "description": "AI-powered fleet management for indoor service robots. Centrally monitor, dispatch, and optimize robot fleets with AI-driven task routing, real-time anomaly detection, and predictive insights.",
+      "description_fr": "Gestion de flotte basée sur l'IA pour les robots de service intérieur. Surveillez, répartissez et optimisez de manière centralisée les flottes de robots grâce au routage des tâches basé sur l'IA, à la détection des anomalies en temps réel et aux informations prédictives.",
+      "category": "AI & Machine Learning",
       "website": "https://fleetmind-jzqmxd.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T16:44:12.071643+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T17:49:26.070702+00:00"
     },
     {
       "name": "ReconSync AI",
@@ -198566,10 +198578,13 @@
     {
       "name": "Veridian Markets",
       "slug": "polsia-veridian-markets",
+      "description": "The Bloomberg Terminal for prediction markets.",
+      "description_fr": "Le terminal Bloomberg pour les marchés prédictifs.",
+      "category": "Other",
       "website": "https://veridian-markets.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T16:44:28.191318+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T17:49:27.435222+00:00"
     },
     {
       "name": "SubSync",
@@ -198592,6 +198607,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-17T16:44:34.264619+00:00"
+    },
+    {
+      "name": "TrendForge",
+      "slug": "polsia-trendforge-u4ut4q",
+      "website": "https://trendforge-u4ut4q.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T17:48:11.956134+00:00"
+    },
+    {
+      "name": "HoopLens AI",
+      "slug": "polsia-hooplens-ai",
+      "website": "https://hooplens-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T17:48:17.429917+00:00"
+    },
+    {
+      "name": "WebStart SA",
+      "slug": "polsia-webstart-sa",
+      "website": "https://webstart-sa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T17:48:22.805321+00:00"
+    },
+    {
+      "name": "InboxIQ",
+      "slug": "polsia-inboxiq-naijhg",
+      "website": "https://inboxiq-naijhg.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T17:48:28.235829+00:00"
+    },
+    {
+      "name": "ShelfWatch AI",
+      "slug": "polsia-shelfwatch-ai-2",
+      "website": "https://shelfwatch-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T17:48:33.833824+00:00"
+    },
+    {
+      "name": "VaulTrust",
+      "slug": "polsia-vaultrust",
+      "website": "https://vaultrust.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T17:48:39.507849+00:00"
+    },
+    {
+      "name": "Verda AI",
+      "slug": "polsia-verda-ai",
+      "description": "Intelligent automation for healthcare workflows at scale.",
+      "description_fr": "Automatisation intelligente pour les flux de travail de soins de santé à grande échelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://verda-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T17:48:40.830494+00:00"
+    },
+    {
+      "name": "Drift",
+      "slug": "polsia-drift-f6ecoh",
+      "description": "Autonoma AI-agenter som sköter din sociala media dygnet runt.",
+      "description_fr": "Un agent autonome d'IA est à l'écoute des médias sociaux.",
+      "category": "AI & Machine Learning",
+      "website": "https://drift-f6ecoh.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T17:48:42.624341+00:00"
+    },
+    {
+      "name": "Patchr",
+      "slug": "polsia-patchr-3",
+      "description": "Autonomous AI security agent that patches GitHub dependency vulnerabilities on autopilot.",
+      "description_fr": "Agent de sécurité IA autonome qui corrige les vulnérabilités de dépendance de GitHub sur le pilote automatique.",
+      "category": "AI & Machine Learning",
+      "website": "https://patchr-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T17:48:43.635891+00:00"
+    },
+    {
+      "name": "Harbor Crest Ventures",
+      "slug": "polsia-harbor-crest-ventures",
+      "description": "Strategic investment and growth partners.",
+      "description_fr": "Partenaires stratégiques d’investissement et de croissance.",
+      "category": "Finance & Fintech",
+      "website": "https://harbor-crest-ventures.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T17:48:45.649778+00:00"
     }
   ]
 }
