@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T04:28:52.181354+00:00",
+  "last_updated": "2026-07-17T06:42:01.086469+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -197757,34 +197757,46 @@
     {
       "name": "Trendify",
       "slug": "polsia-trendify-2",
+      "description": "AI agents that find trending products and automate shoppable content, end to end.",
+      "description_fr": "Des agents IA qui trouvent les produits tendance et automatisent le contenu achetable, de bout en bout.",
+      "category": "AI & Machine Learning",
       "website": "https://trendify-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T04:27:26.236535+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T06:41:42.710479+00:00"
     },
     {
       "name": "VoltSentry",
       "slug": "polsia-voltsentry-3",
+      "description": "AI-powered anomaly detection and automated maintenance alerts for small-business electricity monitoring.",
+      "description_fr": "Détection d'anomalies basée sur l'IA et alertes de maintenance automatisées pour la surveillance de l'électricité des petites entreprises.",
+      "category": "AI & Machine Learning",
       "website": "https://voltsentry-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T04:27:31.637543+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T06:41:43.736467+00:00"
     },
     {
       "name": "VoltMind",
       "slug": "polsia-voltmind-5",
+      "description": "Autonomous AI that monitors energy, recommends upgrades, schedules contractors, and reports savings.",
+      "description_fr": "Une IA autonome qui surveille l'énergie, recommande des mises à niveau, planifie les sous-traitants et rapporte les économies.",
+      "category": "AI & Machine Learning",
       "website": "https://voltmind-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T04:27:36.956107+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T06:41:44.668568+00:00"
     },
     {
       "name": "QuantumBridge",
       "slug": "polsia-quantumbridge",
+      "description": "Extending quantum networks beyond the fiber limit.",
+      "description_fr": "Étendre les réseaux quantiques au-delà de la limite de la fibre.",
+      "category": "Social & Community",
       "website": "https://quantumbridge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T04:27:42.372128+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T06:41:45.783602+00:00"
     },
     {
       "name": "J and C Allstar Services",
@@ -197811,10 +197823,13 @@
     {
       "name": "S & R Specialty Equipment",
       "slug": "polsia-s-r-specialty-equipment",
+      "description": "Farm equipment, parts, and precision service for California's Central Valley.",
+      "description_fr": "Équipement agricole, pièces détachées et service de précision pour la vallée centrale de Californie.",
+      "category": "Other",
       "website": "https://s-r-specialty-equipment.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T04:27:49.972047+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T06:41:46.850949+00:00"
     },
     {
       "name": "StockMind",
@@ -197848,6 +197863,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-17T04:27:55.102698+00:00"
+    },
+    {
+      "name": "AlertFlow",
+      "slug": "polsia-alertflow-5",
+      "website": "https://alertflow-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T06:40:44.027269+00:00"
+    },
+    {
+      "name": "AgentSure",
+      "slug": "polsia-agentsure",
+      "website": "https://agentsure.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T06:40:44.711259+00:00"
+    },
+    {
+      "name": "PartnerIQ",
+      "slug": "polsia-partneriq-3",
+      "website": "https://partneriq-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T06:40:50.174904+00:00"
+    },
+    {
+      "name": "Maison Aurelle",
+      "slug": "polsia-maison-aurelle",
+      "description": "Private-pay sober companion and recovery services for executives and high-profile individuals. Discreet, around-the-clock support for those beginning again.",
+      "description_fr": "Services privés d'accompagnement et de rétablissement de la sobriété pour les cadres et les personnalités de haut niveau. Un accompagnement discret et 24 heures sur 24 pour ceux qui recommencent.",
+      "category": "Sustainability & Green",
+      "website": "https://maison-aurelle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T06:42:00.124384+00:00"
+    },
+    {
+      "name": "FIRMA Insurance Services",
+      "slug": "polsia-firma-insurance-services",
+      "description": "Health and risk protection built for the trades, by someone who understands the hardhat.",
+      "description_fr": "Protection de la santé et des risques conçue pour les métiers, par quelqu'un qui comprend le casque.",
+      "category": "Health & Wellness",
+      "website": "https://firma-insurance-services.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T06:40:56.959587+00:00"
+    },
+    {
+      "name": "Innovationsverband Schweizer Arbeitsmarkt (ISA)",
+      "slug": "polsia-innovationsverband-schweizer-arbeitsmarkt-isa",
+      "description": "Learn. Lead. Innovate. – Employability und lebenslanges Lernen für die Schweiz.",
+      "description_fr": "Apprendre. Plomb. Innover. – Employabilité et connaissances pratiques pour la Suisse.",
+      "category": "Sales & CRM",
+      "website": "https://innovationsverband-schweizer-arbeitsmarkt-isa.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T06:40:58.144905+00:00"
+    },
+    {
+      "name": "NicheStack",
+      "slug": "polsia-nichestack-k3ro70",
+      "description": "Vertical AI tools purpose-built for the trades nobody else bothers to serve.",
+      "description_fr": "Des outils d'IA verticaux spécialement conçus pour les métiers que personne d'autre ne prend la peine de servir.",
+      "category": "AI & Machine Learning",
+      "website": "https://nichestack-k3ro70.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T06:42:01.085216+00:00"
+    },
+    {
+      "name": "YQP Home",
+      "slug": "polsia-yqp-home",
+      "description": "设计驱动的一站式智能卫浴解决方案 — LED智能浴室镜、无框淋浴房、高压花洒系统、浴室柜，让智能卫浴触手可及。",
+      "description_fr": "设计驱动的一站式智能卫浴解决方案 — Lampe LED, lampe LED, lampe LED, lampe LED, lampe LED.",
+      "category": "Other",
+      "website": "https://yqp-home.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T06:41:09.791262+00:00"
+    },
+    {
+      "name": "PulseForge",
+      "slug": "polsia-pulseforge-48gesf",
+      "description": "Autonomous AI agent for indie game developers — monitors communities, identifies trends, and builds playable prototypes on autopilot.",
+      "description_fr": "Agent d'IA autonome pour les développeurs de jeux indépendants : surveille les communautés, identifie les tendances et crée des prototypes jouables sur pilote automatique.",
+      "category": "AI & Machine Learning",
+      "website": "https://pulseforge-48gesf.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T06:41:10.916498+00:00"
+    },
+    {
+      "name": "J&D Mobile Express Detailing LLC",
+      "slug": "polsia-jd-mobile-express-detailing-llc",
+      "description": "Birmingham's #1 Rated Mobile Car Detailing Service",
+      "description_fr": "Le service d'esthétique automobile mobile n°1 à Birmingham",
+      "category": "Other",
+      "website": "https://jd-mobile-express-detailing-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T06:41:12.234983+00:00"
     }
   ]
 }
