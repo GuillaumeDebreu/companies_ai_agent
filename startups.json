@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T02:43:31.512291+00:00",
+  "last_updated": "2026-07-17T04:28:52.181354+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -197680,10 +197680,13 @@
     {
       "name": "ClearFlow",
       "slug": "polsia-clearflow-y3qra3",
+      "description": "Simple accounting for growing businesses and individuals.",
+      "description_fr": "Comptabilité simple pour les entreprises et les particuliers en croissance.",
+      "category": "Finance & Fintech",
       "website": "https://clearflow-y3qra3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T01:12:56.444381+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T04:28:22.976814+00:00"
     },
     {
       "name": "TrueVoice",
@@ -197721,10 +197724,13 @@
     {
       "name": "Good Dog Media",
       "slug": "polsia-good-dog-media",
+      "description": "Digital marketing that delivers measurable growth for ambitious brands.",
+      "description_fr": "Un marketing numérique qui génère une croissance mesurable pour les marques ambitieuses.",
+      "category": "Marketing & Advertising",
       "website": "https://good-dog-media.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T01:13:09.760100+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T04:28:24.599497+00:00"
     },
     {
       "name": "SentinelShield",
@@ -197740,10 +197746,108 @@
     {
       "name": "Velocity",
       "slug": "polsia-velocity-9kdwf3",
+      "description": "AI-powered instant checkout for limited releases.",
+      "description_fr": "Paiement instantané alimenté par l'IA pour les versions limitées.",
+      "category": "AI & Machine Learning",
       "website": "https://velocity-9kdwf3.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T04:28:25.721759+00:00"
+    },
+    {
+      "name": "Trendify",
+      "slug": "polsia-trendify-2",
+      "website": "https://trendify-2.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-17T01:13:16.442123+00:00"
+      "scraped_at": "2026-07-17T04:27:26.236535+00:00"
+    },
+    {
+      "name": "VoltSentry",
+      "slug": "polsia-voltsentry-3",
+      "website": "https://voltsentry-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T04:27:31.637543+00:00"
+    },
+    {
+      "name": "VoltMind",
+      "slug": "polsia-voltmind-5",
+      "website": "https://voltmind-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T04:27:36.956107+00:00"
+    },
+    {
+      "name": "QuantumBridge",
+      "slug": "polsia-quantumbridge",
+      "website": "https://quantumbridge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T04:27:42.372128+00:00"
+    },
+    {
+      "name": "J and C Allstar Services",
+      "slug": "polsia-j-and-c-allstar-services",
+      "description": "Your trusted B2B technology reseller delivering integrated IT solutions for modern businesses.",
+      "description_fr": "Votre revendeur de technologie B2B de confiance proposant des solutions informatiques intégrées pour les entreprises modernes.",
+      "category": "Sales & CRM",
+      "website": "https://j-and-c-allstar-services.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T04:27:43.334473+00:00"
+    },
+    {
+      "name": "CompeteIQ",
+      "slug": "polsia-competeiq-6zkyvr",
+      "description": "AI agents that monitor competitors and optimize your ads 24/7.",
+      "description_fr": "Des agents IA qui surveillent vos concurrents et optimisent vos publicités 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://competeiq-6zkyvr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T04:27:44.595705+00:00"
+    },
+    {
+      "name": "S & R Specialty Equipment",
+      "slug": "polsia-s-r-specialty-equipment",
+      "website": "https://s-r-specialty-equipment.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T04:27:49.972047+00:00"
+    },
+    {
+      "name": "StockMind",
+      "slug": "polsia-stockmind-8fl5lj",
+      "description": "Autonomous procurement intelligence for hospitality operators. Eliminate manual restocking with AI that monitors, negotiates, and orders for you.",
+      "description_fr": "Intelligence d’approvisionnement autonome pour les opérateurs hôteliers. Éliminez le réapprovisionnement manuel grâce à l’IA qui surveille, négocie et commande pour vous.",
+      "category": "AI & Machine Learning",
+      "website": "https://stockmind-8fl5lj.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T04:27:51.830952+00:00"
+    },
+    {
+      "name": "BidForge.Ai",
+      "slug": "polsia-bidforgeai-2",
+      "description": "AI agents that discover, qualify, draft, and submit winning government bids — automatically.",
+      "description_fr": "Des agents IA qui découvrent, qualifient, rédigent et soumettent automatiquement les offres gouvernementales gagnantes.",
+      "category": "AI & Machine Learning",
+      "website": "https://bidforgeai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T04:27:53.291571+00:00"
+    },
+    {
+      "name": "DriftLine Mobile RV Repair",
+      "slug": "polsia-driftline-mobile-rv-repair",
+      "description": "Expert on-site RV repair and maintenance — we come to you. Electrical, appliances, brakes, roof sealing, and more across North America.",
+      "description_fr": "Expert en réparation et entretien de VR sur place – nous venons à vous. Électricité, électroménagers, freins, scellement de toit et plus encore partout en Amérique du Nord.",
+      "category": "Other",
+      "website": "https://driftline-mobile-rv-repair.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T04:27:55.102698+00:00"
     }
   ]
 }
