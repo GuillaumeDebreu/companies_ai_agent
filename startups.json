@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T13:39:43.504733+00:00",
+  "last_updated": "2026-07-17T14:05:19.939976+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -198194,18 +198194,24 @@
     {
       "name": "BuildSentinel AI",
       "slug": "polsia-buildsentinel-ai-2",
+      "description": "AI мониторинг на строителни обекти 24/7 — обективни данни вместо субективни оценки",
+      "description_fr": "Surveillance 24h/24 et 7j/7 des objets connectés par l'IA",
+      "category": "AI & Machine Learning",
       "website": "https://buildsentinel-ai-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T12:10:21.508848+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T14:04:46.010094+00:00"
     },
     {
       "name": "Wire & Wood Coffeehouse",
       "slug": "polsia-wire-wood-coffeehouse",
+      "description": "A true listening room bringing original music and community to the Appalachian foothills.",
+      "description_fr": "Une véritable salle d'écoute apportant musique originale et communauté au pied des Appalaches.",
+      "category": "Food & Beverage",
       "website": "https://wire-wood-coffeehouse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T12:10:27.087869+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T14:04:47.166527+00:00"
     },
     {
       "name": "Make your own Films",
@@ -198262,10 +198268,13 @@
     {
       "name": "NexusWatch",
       "slug": "polsia-nexuswatch-3",
+      "description": "AI-powered real-time price and availability intelligence for e-commerce.",
+      "description_fr": "Informations en temps réel sur les prix et la disponibilité basées sur l'IA pour le commerce électronique.",
+      "category": "AI & Machine Learning",
       "website": "https://nexuswatch-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T12:10:46.853029+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T14:04:49.215096+00:00"
     },
     {
       "name": "AutoHomi",
@@ -198288,6 +198297,90 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-17T12:10:48.739436+00:00"
+    },
+    {
+      "name": "ResponseIQ",
+      "slug": "polsia-responseiq-yh2n2s",
+      "website": "https://responseiq-yh2n2s.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T14:03:38.745665+00:00"
+    },
+    {
+      "name": "ReviewMind",
+      "slug": "polsia-reviewmind-10",
+      "website": "https://reviewmind-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T14:03:44.382494+00:00"
+    },
+    {
+      "name": "TropiSource AI",
+      "slug": "polsia-tropisource-ai",
+      "website": "https://tropisource-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T14:03:49.906376+00:00"
+    },
+    {
+      "name": "Omni",
+      "slug": "polsia-omni-2",
+      "website": "https://omni-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T14:03:55.536992+00:00"
+    },
+    {
+      "name": "Veriphy",
+      "slug": "polsia-veriphy",
+      "website": "https://veriphy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T14:04:01.153113+00:00"
+    },
+    {
+      "name": "FundScout AI",
+      "slug": "polsia-fundscout-ai-2",
+      "description": "Grant alerts and eligibility intelligence for small business founders",
+      "description_fr": "Alertes aux subventions et renseignements sur l'éligibilité pour les fondateurs de petites entreprises",
+      "category": "AI & Machine Learning",
+      "website": "https://fundscout-ai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T14:05:18.172541+00:00"
+    },
+    {
+      "name": "SoffioVitale",
+      "slug": "polsia-soffiovitale",
+      "description": "Energia pura dalla natura per il tuo benessere quotidiano. Scopri i nostri prodotti orgonici artigianali fatti al 100% con materiali naturali.",
+      "description_fr": "Énergie pure de la nature pour votre bien-être quotidien. Découvrez nos produits orgonici artigianali fatti al 100% con materials naturali.",
+      "category": "Other",
+      "website": "https://soffiovitale.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T14:05:19.938996+00:00"
+    },
+    {
+      "name": "Verdant Naturals",
+      "slug": "polsia-verdant-naturals",
+      "description": "Transparent botanicals. Trusted wellness. Premium botanical extracts and adaptogens for nutrition, personal care, and functional food brands.",
+      "description_fr": "Plantes transparentes. Un bien-être fiable. Extraits botaniques et adaptogènes de première qualité pour les marques de nutrition, de soins personnels et d'aliments fonctionnels.",
+      "category": "Health & Wellness",
+      "website": "https://verdant-naturals.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T14:04:14.263810+00:00"
+    },
+    {
+      "name": "TalentPulse",
+      "slug": "polsia-talentpulse-2t8tuz",
+      "description": "Real-time AI that predicts flight risk, surfaces internal mobility matches, and keeps top performers engaged.",
+      "description_fr": "Une IA en temps réel qui prédit les risques de fuite, fait apparaître les correspondances de mobilité interne et maintient l'engagement des plus performants.",
+      "category": "AI & Machine Learning",
+      "website": "https://talentpulse-2t8tuz.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T14:04:15.579470+00:00"
     }
   ]
 }
