@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T19:11:14.735701+00:00",
+  "last_updated": "2026-07-17T19:54:31.289186+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -198721,10 +198721,13 @@
     {
       "name": "Locawins",
       "slug": "polsia-locawins",
+      "description": "Dominate your local Google Maps ranking — flat-fee SEO for HVAC and roofing contractors.",
+      "description_fr": "Dominez votre classement Google Maps local : référencement forfaitaire pour les entrepreneurs en CVC et en toiture.",
+      "category": "Marketing & Advertising",
       "website": "https://locawins.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T18:44:52.090103+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T19:53:51.061213+00:00"
     },
     {
       "name": "ResolveIQ",
@@ -198762,10 +198765,13 @@
     {
       "name": "CaribbeanDrop",
       "slug": "polsia-caribbeandrop",
+      "description": "Authentic Caribbean flavors delivered from island to doorstep, every month.",
+      "description_fr": "Des saveurs authentiques des Caraïbes livrées de l'île à la porte, chaque mois.",
+      "category": "Other",
       "website": "https://caribbeandrop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T18:45:05.872399+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T19:53:52.886510+00:00"
     },
     {
       "name": "Fully Promoted Independence, MO",
@@ -198821,6 +198827,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-17T18:45:14.504008+00:00"
+    },
+    {
+      "name": "PropStack",
+      "slug": "polsia-propstack-9",
+      "website": "https://propstack-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T19:52:11.118374+00:00"
+    },
+    {
+      "name": "Straightline Mixing & Mastering",
+      "slug": "polsia-straightline-mixing-mastering",
+      "website": "https://straightline-mixing-mastering.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T19:52:16.542517+00:00"
+    },
+    {
+      "name": "OrbisMed Travel",
+      "slug": "polsia-orbismed-travel",
+      "website": "https://orbismed-travel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T19:52:21.942975+00:00"
+    },
+    {
+      "name": "SignalPulse",
+      "slug": "polsia-signalpulse-42z0p8",
+      "website": "https://signalpulse-42z0p8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T19:52:27.504082+00:00"
+    },
+    {
+      "name": "FarePulse",
+      "slug": "polsia-farepulse-2",
+      "description": "Never miss the right price on your next flight.",
+      "description_fr": "Ne manquez jamais le bon prix sur votre prochain vol.",
+      "category": "Other",
+      "website": "https://farepulse-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T19:54:16.184231+00:00"
+    },
+    {
+      "name": "Vigil",
+      "slug": "polsia-vigil-0klchr",
+      "description": "AI-powered autonomous workflows that work while you sleep. Connect your email once, describe your goal in plain language, and let Vigil handle the rest.",
+      "description_fr": "Des flux de travail autonomes basés sur l'IA qui fonctionnent pendant que vous dormez. Connectez votre e-mail une fois, décrivez votre objectif dans un langage simple et laissez Vigil s'occuper du reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigil-0klchr.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T19:54:17.607724+00:00"
+    },
+    {
+      "name": "Quorbit",
+      "slug": "polsia-quorbit-2",
+      "website": "https://quorbit-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T19:52:59.096265+00:00"
+    },
+    {
+      "name": "Speechbox.ai",
+      "slug": "polsia-speechboxai",
+      "description": "AI-powered content engine for conference organizers — transform live event footage into a year-round content and revenue engine.",
+      "description_fr": "Moteur de contenu alimenté par l'IA pour les organisateurs de conférences : transformez les séquences d'événements en direct en un moteur de contenu et de revenus tout au long de l'année.",
+      "category": "AI & Machine Learning",
+      "website": "https://speechboxai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T19:54:29.522888+00:00"
+    },
+    {
+      "name": "Pendio",
+      "slug": "polsia-pendio",
+      "description": "Autonomous AI that keeps your work moving.",
+      "description_fr": "Une IA autonome qui fait avancer votre travail.",
+      "category": "AI & Machine Learning",
+      "website": "https://pendio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T19:54:31.288347+00:00"
+    },
+    {
+      "name": "PermitSync",
+      "slug": "polsia-permitsync",
+      "description": "Unified permit tracking across every city. Aggregate trade permits and inspection schedules from multiple jurisdictions into a single AI-powered dashboard.",
+      "description_fr": "Suivi des permis unifié dans chaque ville. Regroupez les permis commerciaux et les calendriers d’inspection de plusieurs juridictions dans un seul tableau de bord alimenté par l’IA.",
+      "category": "Software & SaaS",
+      "website": "https://permitsync.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T19:53:16.823199+00:00"
     }
   ]
 }
