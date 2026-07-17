@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T08:10:58.800547+00:00",
+  "last_updated": "2026-07-17T09:00:35.886617+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -197867,10 +197867,13 @@
     {
       "name": "AlertFlow",
       "slug": "polsia-alertflow-5",
+      "description": "Catch cash crises before they snowball. AI-powered cash flow monitoring for small businesses.",
+      "description_fr": "Attrapez les crises de trésorerie avant qu’elles ne fassent boule de neige. Surveillance des flux de trésorerie basée sur l'IA pour les petites entreprises.",
+      "category": "AI & Machine Learning",
       "website": "https://alertflow-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T06:40:44.027269+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T09:00:00.706792+00:00"
     },
     {
       "name": "AgentSure",
@@ -197883,10 +197886,13 @@
     {
       "name": "PartnerIQ",
       "slug": "polsia-partneriq-3",
+      "description": "AI-driven partner intelligence for high-performance channel ecosystems.",
+      "description_fr": "Intelligence des partenaires basée sur l'IA pour des écosystèmes de canaux hautes performances.",
+      "category": "AI & Machine Learning",
       "website": "https://partneriq-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-17T06:40:50.174904+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-17T09:00:01.928935+00:00"
     },
     {
       "name": "Maison Aurelle",
@@ -197964,6 +197970,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-17T06:41:12.234983+00:00"
+    },
+    {
+      "name": "The Exchange Networking Group",
+      "slug": "polsia-the-exchange-networking-group",
+      "website": "https://the-exchange-networking-group.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T08:58:51.321449+00:00"
+    },
+    {
+      "name": "CalibrIA",
+      "slug": "polsia-calibria",
+      "website": "https://calibria.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T08:58:56.616213+00:00"
+    },
+    {
+      "name": "BEREZhairs",
+      "slug": "polsia-berezhairs",
+      "website": "https://berezhairs.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T08:59:07.069592+00:00"
+    },
+    {
+      "name": "Allkin",
+      "slug": "polsia-allkin",
+      "description": "Fashion for every member of your family, under one roof. Curated clothing for women, men, and children — quality, affordability, and style all in one place.",
+      "description_fr": "De la mode pour tous les membres de votre famille, sous un même toit. Des vêtements sélectionnés pour femmes, hommes et enfants : qualité, prix abordable et style en un seul endroit.",
+      "category": "Other",
+      "website": "https://allkin.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T09:00:24.202969+00:00"
+    },
+    {
+      "name": "DataFresh",
+      "slug": "polsia-datafresh",
+      "description": "Professional data cleanup for small businesses — from messy spreadsheets to clean, actionable data.",
+      "description_fr": "Nettoyage professionnel des données pour les petites entreprises : des feuilles de calcul désordonnées aux données propres et exploitables.",
+      "category": "Other",
+      "website": "https://datafresh.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T09:00:25.208530+00:00"
+    },
+    {
+      "name": "ServiceSync AI",
+      "slug": "polsia-servicesync-ai",
+      "website": "https://servicesync-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T08:59:23.199015+00:00"
+    },
+    {
+      "name": "APISwitch",
+      "slug": "polsia-apiswitch",
+      "description": "Cut API costs with intelligent provider routing. APISwitch monitors pricing across providers and automatically migrates endpoints to the most cost-effective option.",
+      "description_fr": "Réduisez les coûts des API grâce au routage intelligent des fournisseurs. APISwitch surveille les prix des différents fournisseurs et migre automatiquement les points de terminaison vers l'option la plus rentable.",
+      "category": "Software & SaaS",
+      "website": "https://apiswitch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T08:59:24.639884+00:00"
+    },
+    {
+      "name": "Nexbyte",
+      "slug": "polsia-nexbyte",
+      "website": "https://nexbyte.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-17T08:59:30.110316+00:00"
+    },
+    {
+      "name": "Aigentia",
+      "slug": "polsia-aigentia",
+      "description": "L'intelligence artificielle au service de votre visibilité digitale 24h/24.",
+      "description_fr": "L'intelligence artificielle au service de votre visibilité numérique 24h/24.",
+      "category": "Other",
+      "website": "https://aigentia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T08:59:31.496529+00:00"
+    },
+    {
+      "name": "AutoDispatch AI",
+      "slug": "polsia-autodispatch-ai",
+      "description": "Autonomous logistics intelligence for courier businesses operating around the clock. AI-powered routing, scheduling, and fleet optimization 24/7.",
+      "description_fr": "Intelligence logistique autonome pour les entreprises de messagerie opérant 24 heures sur 24. Routage, planification et optimisation de flotte basés sur l'IA 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://autodispatch-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-17T08:59:32.515131+00:00"
     }
   ]
 }
