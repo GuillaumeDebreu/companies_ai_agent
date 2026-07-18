@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T09:48:29.358567+00:00",
+  "last_updated": "2026-07-18T10:54:16.211026+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -199812,10 +199812,13 @@
     {
       "name": "VendPulse",
       "slug": "polsia-vendpulse-3",
+      "description": "Autonomous repricing intelligence for marketplace sellers. Track competitors, adjust prices, protect margins — all on autopilot.",
+      "description_fr": "Intelligence autonome en matière de repricing pour les vendeurs du marché. Suivez les concurrents, ajustez les prix, protégez les marges, le tout en pilote automatique.",
+      "category": "E-Commerce & Retail",
       "website": "https://vendpulse-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T09:47:38.604448+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T10:53:26.399384+00:00"
     },
     {
       "name": "Nightshade Press",
@@ -199915,6 +199918,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-18T09:47:58.620793+00:00"
+    },
+    {
+      "name": "DuraFlow",
+      "slug": "polsia-duraflow",
+      "website": "https://duraflow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T10:52:10.770234+00:00"
+    },
+    {
+      "name": "Pivotrack",
+      "slug": "polsia-pivotrack",
+      "website": "https://pivotrack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T10:52:16.130811+00:00"
+    },
+    {
+      "name": "Vertiq",
+      "slug": "polsia-vertiq-7",
+      "website": "https://vertiq-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T10:52:21.565069+00:00"
+    },
+    {
+      "name": "FleetPulse",
+      "slug": "polsia-fleetpulse-17few2",
+      "website": "https://fleetpulse-17few2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T10:52:26.915933+00:00"
+    },
+    {
+      "name": "Beyond Nova",
+      "slug": "polsia-beyond-nova",
+      "website": "https://beyond-nova.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T10:52:32.289095+00:00"
+    },
+    {
+      "name": "Dentavox",
+      "slug": "polsia-dentavox-4",
+      "website": "https://dentavox-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T10:52:37.729851+00:00"
+    },
+    {
+      "name": "TaskForge",
+      "slug": "polsia-taskforge-o5wscz",
+      "website": "https://taskforge-o5wscz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T10:52:43.105612+00:00"
+    },
+    {
+      "name": "VendreIA",
+      "slug": "polsia-vendreia",
+      "website": "https://vendreia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T10:52:53.559776+00:00"
+    },
+    {
+      "name": "Antbyte and Co",
+      "slug": "polsia-antbyte-and-co",
+      "description": "AI automation solutions for growing businesses — audits, workflow automation, custom AI agents, and AI-powered solutions.",
+      "description_fr": "Solutions d'automatisation de l'IA pour les entreprises en croissance : audits, automatisation des flux de travail, agents d'IA personnalisés et solutions basées sur l'IA.",
+      "category": "AI & Machine Learning",
+      "website": "https://antbyte-and-co.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T10:54:10.877231+00:00"
+    },
+    {
+      "name": "NexBill",
+      "slug": "polsia-nexbill",
+      "website": "https://nexbill.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T10:53:04.271374+00:00"
     }
   ]
 }
