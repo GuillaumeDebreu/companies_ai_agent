@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T19:05:21.241931+00:00",
+  "last_updated": "2026-07-18T19:35:41.559191+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -200677,34 +200677,46 @@
     {
       "name": "StrideSync",
       "slug": "polsia-stridesync-2",
+      "description": "Precision motion analytics for every stride. AI-powered biomechanical analysis for horses and riders.",
+      "description_fr": "Analyse de mouvement précise pour chaque foulée. Analyse biomécanique basée sur l'IA pour les chevaux et les cavaliers.",
+      "category": "AI & Machine Learning",
       "website": "https://stridesync-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T18:12:06.224496+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T19:34:38.871568+00:00"
     },
     {
       "name": "NexaBook AI",
       "slug": "polsia-nexabook-ai",
+      "description": "Autonomous AI agents running your hotel and event bookings 24/7.",
+      "description_fr": "Des agents IA autonomes gèrent vos réservations d'hôtels et d'événements 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://nexabook-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T18:12:11.863460+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T19:34:40.917566+00:00"
     },
     {
       "name": "DropDeck",
       "slug": "polsia-dropdeck-yz0lz6",
+      "description": "Automated dropshipping stores built to outlast the 80% that fail.",
+      "description_fr": "Boutiques dropshipping automatisées conçues pour survivre aux 80 % d'échecs.",
+      "category": "E-Commerce & Retail",
       "website": "https://dropdeck-yz0lz6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T18:12:17.389933+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T19:34:42.972101+00:00"
     },
     {
       "name": "NeonForge",
       "slug": "polsia-neonforge-5",
+      "description": "Sztuka precyzyjnych promptów w erze AI",
+      "description_fr": "Sztuka precyzyjnych promptów w erze AI",
+      "category": "AI & Machine Learning",
       "website": "https://neonforge-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T18:12:23.020685+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T19:34:44.775215+00:00"
     },
     {
       "name": "VigilIQ",
@@ -200720,26 +200732,35 @@
     {
       "name": "PixelForge",
       "slug": "polsia-pixelforge-mexu26",
+      "description": "AI-powered game creation for independent developers.",
+      "description_fr": "Création de jeux basée sur l'IA pour les développeurs indépendants.",
+      "category": "AI & Machine Learning",
       "website": "https://pixelforge-mexu26.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T18:12:34.071715+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T19:34:45.928294+00:00"
     },
     {
       "name": "Vaul",
       "slug": "polsia-vaul-2",
+      "description": "Autonomous AI PR — 24/7 media intelligence, press releases, and ROI reporting.",
+      "description_fr": "IA autonome PR : veille médiatique 24h/24 et 7j/7, communiqués de presse et rapports sur le retour sur investissement.",
+      "category": "AI & Machine Learning",
       "website": "https://vaul-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T18:12:39.486243+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T19:34:47.968056+00:00"
     },
     {
       "name": "Raven & Root",
       "slug": "polsia-raven-root",
+      "description": "Tarot wisdom for the curious and seeking.",
+      "description_fr": "Sagesse du tarot pour les curieux et les chercheurs.",
+      "category": "Other",
       "website": "https://raven-root.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T18:12:44.886115+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T19:34:49.926471+00:00"
     },
     {
       "name": "Colquitt Therapy Services",
@@ -200755,10 +200776,93 @@
     {
       "name": "ScreenSpotter",
       "slug": "polsia-screenspotter",
+      "description": "Decorative magnetic alerts for screen doors — hand-crafted artwork by Dusty Higgins that prevents kids, pets, and guests from walking through closed screens.",
+      "description_fr": "Alertes magnétiques décoratives pour portes moustiquaires : œuvres d'art fabriquées à la main par Dusty Higgins qui empêchent les enfants, les animaux domestiques et les invités de traverser les écrans fermés.",
+      "category": "Travel & Hospitality",
       "website": "https://screenspotter.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T19:34:51.878319+00:00"
+    },
+    {
+      "name": "BoundShip Books",
+      "slug": "polsia-boundship-books",
+      "website": "https://boundship-books.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-18T18:12:51.794662+00:00"
+      "scraped_at": "2026-07-18T19:33:36.978747+00:00"
+    },
+    {
+      "name": "Voxara",
+      "slug": "polsia-voxara-2",
+      "website": "https://voxara-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T19:33:37.608947+00:00"
+    },
+    {
+      "name": "CompeteIQ",
+      "slug": "polsia-competeiq-sol1xz",
+      "website": "https://competeiq-sol1xz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T19:33:38.195627+00:00"
+    },
+    {
+      "name": "JMSF Legacy Group",
+      "slug": "polsia-jmsf-legacy-group",
+      "website": "https://jmsf-legacy-group.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T19:33:43.745270+00:00"
+    },
+    {
+      "name": "GridForge",
+      "slug": "polsia-gridforge-6",
+      "website": "https://gridforge-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T19:33:49.134371+00:00"
+    },
+    {
+      "name": "PrimeSync",
+      "slug": "polsia-primesync",
+      "website": "https://primesync.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T19:33:54.669286+00:00"
+    },
+    {
+      "name": "SoulTrust Solutions",
+      "slug": "polsia-soultrust-solutions",
+      "website": "https://soultrust-solutions.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T19:34:00.093512+00:00"
+    },
+    {
+      "name": "Pulsara",
+      "slug": "polsia-pulsara-2",
+      "website": "https://pulsara-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T19:34:05.519310+00:00"
+    },
+    {
+      "name": "ThreadMark",
+      "slug": "polsia-threadmark-3",
+      "website": "https://threadmark-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T19:34:10.854034+00:00"
+    },
+    {
+      "name": "Subscape",
+      "slug": "polsia-subscape",
+      "website": "https://subscape.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T19:34:16.310034+00:00"
     }
   ]
 }
