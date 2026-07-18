@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T17:19:10.300695+00:00",
+  "last_updated": "2026-07-18T18:14:15.761702+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -200589,42 +200589,57 @@
     {
       "name": "Tiergedenken",
       "slug": "polsia-tiergedenken",
+      "description": "Bleibende digitale Gedenkstätten für geliebte Haustiere.",
+      "description_fr": "Bleibende digitale Gedenkstätten für geliebte Haustiere.",
+      "category": "Other",
       "website": "https://tiergedenken.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T17:17:12.961023+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T18:13:23.674564+00:00"
     },
     {
       "name": "Meridian",
       "slug": "polsia-meridian-5xq8p3",
+      "description": "AI agents that autonomously secure S3 without the noise.",
+      "description_fr": "Des agents IA qui sécurisent S3 de manière autonome, sans bruit.",
+      "category": "AI & Machine Learning",
       "website": "https://meridian-5xq8p3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T17:17:18.432277+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T18:13:24.880883+00:00"
     },
     {
       "name": "Contentcraft",
       "slug": "polsia-contentcraft-rcy8i9",
+      "description": "AI-powered content creation at scale.",
+      "description_fr": "Création de contenu basée sur l'IA à grande échelle.",
+      "category": "AI & Machine Learning",
       "website": "https://contentcraft-rcy8i9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T17:17:23.743052+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T18:13:26.566212+00:00"
     },
     {
       "name": "Phlixify",
       "slug": "polsia-phlixify",
+      "description": "Phlixify is an autonomous AI agent that continuously monitors, reviews, and auto-remediates PHP codebases around the clock.",
+      "description_fr": "Phlixify est un agent d'IA autonome qui surveille, examine et corrige automatiquement les bases de code PHP 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://phlixify.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T17:17:29.150474+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T18:13:28.288300+00:00"
     },
     {
       "name": "SuojaAgentti",
       "slug": "polsia-suojaagentti",
+      "description": "SuojaAgentti kerää macOS Network Extensionin kaappaamat yhteyslokit ja esittää ne selaimessa suodatettavana, reaaliaikaisena virtana.",
+      "description_fr": "Votre agent utilise une extension réseau macOS pour créer un environnement de travail et n'a pas d'autre choix que de créer une véritable virtana.",
+      "category": "Social & Community",
       "website": "https://suojaagentti.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T17:17:39.642871+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T18:13:29.544243+00:00"
     },
     {
       "name": "RightPurger",
@@ -200651,10 +200666,99 @@
     {
       "name": "FieldSync",
       "slug": "polsia-fieldsync-8",
+      "description": "Where US agriculture connects, trades, and grows.",
+      "description_fr": "Là où l’agriculture américaine se connecte, commerce et se développe.",
+      "category": "Other",
       "website": "https://fieldsync-8.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T18:13:30.782910+00:00"
+    },
+    {
+      "name": "StrideSync",
+      "slug": "polsia-stridesync-2",
+      "website": "https://stridesync-2.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-18T17:17:52.219794+00:00"
+      "scraped_at": "2026-07-18T18:12:06.224496+00:00"
+    },
+    {
+      "name": "NexaBook AI",
+      "slug": "polsia-nexabook-ai",
+      "website": "https://nexabook-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T18:12:11.863460+00:00"
+    },
+    {
+      "name": "DropDeck",
+      "slug": "polsia-dropdeck-yz0lz6",
+      "website": "https://dropdeck-yz0lz6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T18:12:17.389933+00:00"
+    },
+    {
+      "name": "NeonForge",
+      "slug": "polsia-neonforge-5",
+      "website": "https://neonforge-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T18:12:23.020685+00:00"
+    },
+    {
+      "name": "VigilIQ",
+      "slug": "polsia-vigiliq-sjsyw4",
+      "description": "AI-powered 24/7 monitoring and protection for local business reputations across Google Maps, Yelp, Facebook, Apple Maps, and social media.",
+      "description_fr": "Surveillance et protection 24h/24 et 7j/7, basées sur l'IA, pour la réputation des entreprises locales sur Google Maps, Yelp, Facebook, Apple Maps et les réseaux sociaux.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigiliq-sjsyw4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T18:13:54.142066+00:00"
+    },
+    {
+      "name": "PixelForge",
+      "slug": "polsia-pixelforge-mexu26",
+      "website": "https://pixelforge-mexu26.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T18:12:34.071715+00:00"
+    },
+    {
+      "name": "Vaul",
+      "slug": "polsia-vaul-2",
+      "website": "https://vaul-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T18:12:39.486243+00:00"
+    },
+    {
+      "name": "Raven & Root",
+      "slug": "polsia-raven-root",
+      "website": "https://raven-root.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T18:12:44.886115+00:00"
+    },
+    {
+      "name": "Colquitt Therapy Services",
+      "slug": "polsia-colquitt-therapy-services",
+      "description": "Therapist-owned rehabilitation serving Colquitt and Southwest Georgia — physical, occupational, and speech therapy close to home.",
+      "description_fr": "Réadaptation appartenant à des thérapeutes desservant Colquitt et le sud-ouest de la Géorgie – thérapie physique, professionnelle et orthophonique près de chez vous.",
+      "category": "Software & SaaS",
+      "website": "https://colquitt-therapy-services.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T18:12:46.353703+00:00"
+    },
+    {
+      "name": "ScreenSpotter",
+      "slug": "polsia-screenspotter",
+      "website": "https://screenspotter.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T18:12:51.794662+00:00"
     }
   ]
 }
