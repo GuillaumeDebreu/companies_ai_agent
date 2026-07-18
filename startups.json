@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T11:50:46.457604+00:00",
+  "last_updated": "2026-07-18T12:41:52.316329+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -200029,34 +200029,46 @@
     {
       "name": "MiseFlow",
       "slug": "polsia-miseflow-2",
+      "description": "Slim voorraadbeheer voor restaurants, volledig geautomatiseerd. Minder verspilling, lagere kosten, meer tijd voor gasten.",
+      "description_fr": "Un système de gestion simplifié des restaurants, entièrement automatisé. Minder verspilling, lagere kosten, meer tijd voor gasten.",
+      "category": "Food & Beverage",
       "website": "https://miseflow-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T11:49:14.043532+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T12:41:17.961342+00:00"
     },
     {
       "name": "YardBid",
       "slug": "polsia-yardbid",
+      "description": "On-demand lawn care at your price. Connect with local lawn care pros through a streamlined bidding platform.",
+      "description_fr": "Entretien de pelouse sur demande à votre prix. Connectez-vous avec des professionnels locaux de l’entretien des pelouses via une plateforme d’enchères simplifiée.",
+      "category": "Software & SaaS",
       "website": "https://yardbid.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T11:49:19.361735+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T12:41:19.766770+00:00"
     },
     {
       "name": "Coffrex",
       "slug": "polsia-coffrex",
+      "description": "La box mystère qui sublime le quotidien. Chaque mois, des produits surprise soigneusement sélectionnés et highlighter par des experts.",
+      "description_fr": "La box mystère qui sublime le quotidien. Chaque mois, des produits surprises soigneusement sélectionnés et surligneurs par des experts.",
+      "category": "Other",
       "website": "https://coffrex.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T11:49:24.796222+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T12:41:21.786061+00:00"
     },
     {
       "name": "Comploy",
       "slug": "polsia-comploy",
+      "description": "Autonomous AI compliance agents across every jurisdiction.",
+      "description_fr": "Agents de conformité IA autonomes dans toutes les juridictions.",
+      "category": "AI & Machine Learning",
       "website": "https://comploy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T11:49:30.424710+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T12:41:23.527938+00:00"
     },
     {
       "name": "Tools Next Door",
@@ -200123,6 +200135,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-18T11:49:46.955336+00:00"
+    },
+    {
+      "name": "EquiSchedule",
+      "slug": "polsia-equischedule",
+      "website": "https://equischedule.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T12:40:14.846282+00:00"
+    },
+    {
+      "name": "Grantify",
+      "slug": "polsia-grantify-3",
+      "website": "https://grantify-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T12:40:15.548729+00:00"
+    },
+    {
+      "name": "ONYX ATELIER",
+      "slug": "polsia-onyx-atelier",
+      "website": "https://onyx-atelier.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T12:40:16.206909+00:00"
+    },
+    {
+      "name": "RegRunner",
+      "slug": "polsia-regrunner-7",
+      "website": "https://regrunner-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T12:40:21.695990+00:00"
+    },
+    {
+      "name": "SwapSpec",
+      "slug": "polsia-swapspec",
+      "website": "https://swapspec.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T12:40:27.347155+00:00"
+    },
+    {
+      "name": "ValuHaul",
+      "slug": "polsia-valuhaul",
+      "website": "https://valuhaul.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T12:40:32.728270+00:00"
+    },
+    {
+      "name": "Edgewise",
+      "slug": "polsia-edgewise-3",
+      "website": "https://edgewise-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T12:40:38.080053+00:00"
+    },
+    {
+      "name": "CodeFend",
+      "slug": "polsia-codefend",
+      "website": "https://codefend.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T12:40:43.705903+00:00"
+    },
+    {
+      "name": "Prospai",
+      "slug": "polsia-prospai-2",
+      "description": "AI agents that run Reddit and LinkedIn outreach while you sleep.",
+      "description_fr": "Des agents IA qui exécutent la sensibilisation Reddit et LinkedIn pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://prospai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T12:40:45.631366+00:00"
+    },
+    {
+      "name": "NexAgent",
+      "slug": "polsia-nexagent-91594c",
+      "description": "AI agents trading digital assets 24/7 — autonomously.",
+      "description_fr": "Les agents IA négocient des actifs numériques 24h/24 et 7j/7, de manière autonome.",
+      "category": "AI & Machine Learning",
+      "website": "https://nexagent-91594c.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T12:40:47.485521+00:00"
     }
   ]
 }
