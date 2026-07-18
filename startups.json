@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T21:25:11.792948+00:00",
+  "last_updated": "2026-07-18T22:16:13.867723+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -201007,50 +201007,68 @@
     {
       "name": "Keeper",
       "slug": "polsia-keeper-8",
+      "description": "AI-powered self-healing for home lab containers. Autonomous monitoring, restarts, and security updates — around the clock.",
+      "description_fr": "Auto-réparation alimentée par l'IA pour les conteneurs de laboratoire à domicile. Surveillance autonome, redémarrages et mises à jour de sécurité, 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://keeper-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T21:23:28.365172+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T22:15:24.474309+00:00"
     },
     {
       "name": "VigilantAI",
       "slug": "polsia-vigilantai-leqz23",
+      "description": "Real-time competitor intelligence for growing businesses.",
+      "description_fr": "Intelligence concurrentielle en temps réel pour les entreprises en croissance.",
+      "category": "AI & Machine Learning",
       "website": "https://vigilantai-leqz23.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T21:23:33.700234+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T22:15:26.211951+00:00"
     },
     {
       "name": "Mailtomi",
       "slug": "polsia-mailtomi",
+      "description": "Your autonomous inbox that works while you rest.",
+      "description_fr": "Votre boîte de réception autonome qui fonctionne pendant que vous vous reposez.",
+      "category": "Newsletter & Email",
       "website": "https://mailtomi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T21:23:39.032428+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T22:15:27.854075+00:00"
     },
     {
       "name": "Nestwise",
       "slug": "polsia-nestwise-6",
+      "description": "Smart savings, guided by AI. Nestwise learns your financial patterns to deliver personalized insights and conversational guidance.",
+      "description_fr": "Des économies intelligentes, guidées par l’IA. Nestwise apprend vos habitudes financières pour fournir des informations personnalisées et des conseils conversationnels.",
+      "category": "AI & Machine Learning",
       "website": "https://nestwise-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T21:23:44.403551+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T22:15:29.352231+00:00"
     },
     {
       "name": "Vigil",
       "slug": "polsia-vigil-aj8cms",
+      "description": "Track every competitor move, seize every market opportunity.",
+      "description_fr": "Suivez chaque mouvement de vos concurrents et saisissez chaque opportunité de marché.",
+      "category": "Other",
       "website": "https://vigil-aj8cms.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T21:23:49.874332+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T22:15:30.322752+00:00"
     },
     {
       "name": "Nymora",
       "slug": "polsia-nymora",
+      "description": "The identity verification platform built for people with names that don't fit the mold.",
+      "description_fr": "La plateforme de vérification d'identité conçue pour les personnes dont les noms ne correspondent pas au moule.",
+      "category": "Software & SaaS",
       "website": "https://nymora.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T21:23:55.204899+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T22:15:31.140395+00:00"
     },
     {
       "name": "Scoutr",
@@ -201066,10 +201084,13 @@
     {
       "name": "Loopwise",
       "slug": "polsia-loopwise-9",
+      "description": "AI agents that watch, learn, and automate your workflows proactively.",
+      "description_fr": "Des agents IA qui surveillent, apprennent et automatisent vos flux de travail de manière proactive.",
+      "category": "AI & Machine Learning",
       "website": "https://loopwise-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T21:24:06.002306+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T22:15:32.219355+00:00"
     },
     {
       "name": "PilotIQ",
@@ -201092,6 +201113,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-18T21:24:08.533323+00:00"
+    },
+    {
+      "name": "Prisma AI",
+      "slug": "polsia-prisma-ai",
+      "website": "https://prisma-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T22:14:16.585339+00:00"
+    },
+    {
+      "name": "Loopwise",
+      "slug": "polsia-loopwise-10",
+      "website": "https://loopwise-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T22:14:22.082016+00:00"
+    },
+    {
+      "name": "Stocksense",
+      "slug": "polsia-stocksense-2",
+      "website": "https://stocksense-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T22:14:27.509077+00:00"
+    },
+    {
+      "name": "Machsynx",
+      "slug": "polsia-machsynx",
+      "website": "https://machsynx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T22:14:32.892202+00:00"
+    },
+    {
+      "name": "Axone",
+      "slug": "polsia-axone-2",
+      "website": "https://axone-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T22:14:38.317113+00:00"
+    },
+    {
+      "name": "Velo AI",
+      "slug": "polsia-velo-ai-8",
+      "website": "https://velo-ai-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T22:14:43.851606+00:00"
+    },
+    {
+      "name": "Applywise",
+      "slug": "polsia-applywise-6",
+      "website": "https://applywise-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T22:14:49.251601+00:00"
+    },
+    {
+      "name": "Keep Heritage Alive",
+      "slug": "polsia-keep-heritage-alive",
+      "description": "Keeping Jefferson Street's Black legacy alive through community voices.",
+      "description_fr": "Garder vivant l’héritage noir de Jefferson Street grâce aux voix de la communauté.",
+      "category": "Social & Community",
+      "website": "https://keep-heritage-alive.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T22:16:11.052842+00:00"
+    },
+    {
+      "name": "AgentBrix",
+      "slug": "polsia-agentbrix",
+      "description": "The AI agent API marketplace — agents discover, subscribe, and pay for APIs autonomously.",
+      "description_fr": "Le marché des API d'agents IA : les agents découvrent, s'abonnent et paient les API de manière autonome.",
+      "category": "AI & Machine Learning",
+      "website": "https://agentbrix.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T22:16:12.400132+00:00"
+    },
+    {
+      "name": "GAME4",
+      "slug": "polsia-game4",
+      "description": "The coaching platform built for hockey and lacrosse coaches. Draw drills, plan practices, clip and annotate game video.",
+      "description_fr": "La plateforme de coaching conçue pour les entraîneurs de hockey et de crosse. Dessinez des exercices, planifiez des entraînements, coupez et annotez des vidéos de jeu.",
+      "category": "Software & SaaS",
+      "website": "https://game4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T22:16:13.866587+00:00"
     }
   ]
 }
