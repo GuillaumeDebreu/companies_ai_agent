@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T16:15:12.252242+00:00",
+  "last_updated": "2026-07-18T17:19:10.300695+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -200466,34 +200466,46 @@
     {
       "name": "Niteowl",
       "slug": "polsia-niteowl-3",
+      "description": "Your WhatsApp sales agent that never sleeps.",
+      "description_fr": "Votre agent commercial WhatsApp qui ne dort jamais.",
+      "category": "Sales & CRM",
       "website": "https://niteowl-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T16:13:16.188783+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T17:18:19.962015+00:00"
     },
     {
       "name": "CivicLens",
       "slug": "polsia-civiclens-4",
+      "description": "AI infrastructure monitoring from orbit to action.",
+      "description_fr": "Surveillance des infrastructures d'IA, de l'orbite à l'action.",
+      "category": "AI & Machine Learning",
       "website": "https://civiclens-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T16:13:16.768097+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T17:18:21.304554+00:00"
     },
     {
       "name": "PouredLogic Concrete",
       "slug": "polsia-pouredlogic-concrete",
+      "description": "Smart concrete solutions for sustainable builds. Eco-friendly repair, restoration, and new installation for residential and light commercial clients.",
+      "description_fr": "Des solutions concrètes intelligentes pour des constructions durables. Réparation, restauration et nouvelle installation écologiques pour les clients résidentiels et commerciaux légers.",
+      "category": "Sustainability & Green",
       "website": "https://pouredlogic-concrete.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T16:13:17.310790+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T17:18:22.564983+00:00"
     },
     {
       "name": "CodeScout",
       "slug": "polsia-codescout-2",
+      "description": "AI-powered PR monitoring that catches bugs before they ship.",
+      "description_fr": "Surveillance des relations publiques basée sur l'IA qui détecte les bugs avant leur expédition.",
+      "category": "AI & Machine Learning",
       "website": "https://codescout-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T16:13:22.794189+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T17:18:24.117946+00:00"
     },
     {
       "name": "Cantero Jardines",
@@ -200506,10 +200518,13 @@
     {
       "name": "Chilkied Security Services and Dog Farms Ltd",
       "slug": "polsia-chilkied-security-services-and-dog-farms-ltd",
+      "description": "Indigenous Nigerian security provider with guard dog capabilities serving businesses and individuals for over 36 years.",
+      "description_fr": "Fournisseur de sécurité nigérian autochtone doté de capacités de chiens de garde au service des entreprises et des particuliers depuis plus de 36 ans.",
+      "category": "Other",
       "website": "https://chilkied-security-services-and-dog-farms-ltd.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T16:13:33.741867+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T17:18:26.308382+00:00"
     },
     {
       "name": "Vigil",
@@ -200554,6 +200569,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-18T16:13:57.009952+00:00"
+    },
+    {
+      "name": "Axiom Aerospace",
+      "slug": "polsia-axiom-aerospace",
+      "website": "https://axiom-aerospace.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T17:17:02.070573+00:00"
+    },
+    {
+      "name": "AcreLease",
+      "slug": "polsia-acrelease",
+      "website": "https://acrelease.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T17:17:07.540627+00:00"
+    },
+    {
+      "name": "Tiergedenken",
+      "slug": "polsia-tiergedenken",
+      "website": "https://tiergedenken.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T17:17:12.961023+00:00"
+    },
+    {
+      "name": "Meridian",
+      "slug": "polsia-meridian-5xq8p3",
+      "website": "https://meridian-5xq8p3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T17:17:18.432277+00:00"
+    },
+    {
+      "name": "Contentcraft",
+      "slug": "polsia-contentcraft-rcy8i9",
+      "website": "https://contentcraft-rcy8i9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T17:17:23.743052+00:00"
+    },
+    {
+      "name": "Phlixify",
+      "slug": "polsia-phlixify",
+      "website": "https://phlixify.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T17:17:29.150474+00:00"
+    },
+    {
+      "name": "SuojaAgentti",
+      "slug": "polsia-suojaagentti",
+      "website": "https://suojaagentti.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T17:17:39.642871+00:00"
+    },
+    {
+      "name": "RightPurger",
+      "slug": "polsia-rightpurger",
+      "description": "Your personal data guardian — AI-powered removal and compliance tracking",
+      "description_fr": "Votre gardien des données personnelles — Suivi de la suppression et de la conformité alimenté par l'IA",
+      "category": "AI & Machine Learning",
+      "website": "https://rightpurger.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T17:19:05.015755+00:00"
+    },
+    {
+      "name": "Driftline",
+      "slug": "polsia-driftline-c2gb8f",
+      "description": "Autonomous AI agents that continuously cut cloud waste — no approvals needed.",
+      "description_fr": "Des agents d'IA autonomes qui réduisent continuellement le gaspillage du cloud — aucune approbation n'est requise.",
+      "category": "AI & Machine Learning",
+      "website": "https://driftline-c2gb8f.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T17:17:46.855969+00:00"
+    },
+    {
+      "name": "FieldSync",
+      "slug": "polsia-fieldsync-8",
+      "website": "https://fieldsync-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T17:17:52.219794+00:00"
     }
   ]
 }
