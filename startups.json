@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T07:52:01.956352+00:00",
+  "last_updated": "2026-07-18T08:13:59.967323+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -199595,10 +199595,13 @@
     {
       "name": "HarvestChain",
       "slug": "polsia-harvestchain",
+      "description": "End-to-end agricultural value chain with integrated trade finance.",
+      "description_fr": "Chaîne de valeur agricole de bout en bout avec financement du commerce intégré.",
+      "category": "Other",
       "website": "https://harvestchain.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T06:17:07.536788+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T08:13:34.025264+00:00"
     },
     {
       "name": "Blacksmith Engineering One",
@@ -199698,6 +199701,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-18T06:17:23.011039+00:00"
+    },
+    {
+      "name": "BriefForge",
+      "slug": "polsia-briefforge-3",
+      "website": "https://briefforge-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T08:12:29.739728+00:00"
+    },
+    {
+      "name": "BidForge",
+      "slug": "polsia-bidforge-sgtm59",
+      "website": "https://bidforge-sgtm59.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T08:12:40.257209+00:00"
+    },
+    {
+      "name": "EatFleet",
+      "slug": "polsia-eatfleet",
+      "website": "https://eatfleet.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T08:12:45.616000+00:00"
+    },
+    {
+      "name": "ArcSentry",
+      "slug": "polsia-arcsentry",
+      "description": "Autonomous AI monitoring for welding safety compliance, 24/7.",
+      "description_fr": "Surveillance autonome par IA pour la conformité en matière de sécurité du soudage, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://arcsentry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T08:13:56.197001+00:00"
+    },
+    {
+      "name": "Asphalt Republic",
+      "slug": "polsia-asphalt-republic",
+      "description": "Ride bold. Gear forward. Race-grade motorcycle apparel built for riders who refuse to compromise — protective technology meets street-ready style.",
+      "description_fr": "Roulez avec audace. Avancez. Des vêtements de moto de course conçus pour les pilotes qui refusent de faire des compromis : la technologie de protection rencontre un style prêt pour la rue.",
+      "category": "Other",
+      "website": "https://asphalt-republic.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T08:13:57.886868+00:00"
+    },
+    {
+      "name": "GBM 5 LLC",
+      "slug": "polsia-gbm-5-llc",
+      "description": "Building partnerships in global energy commodity trading.",
+      "description_fr": "Établir des partenariats dans le commerce mondial des matières premières énergétiques.",
+      "category": "Finance & Fintech",
+      "website": "https://gbm-5-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T08:13:59.308218+00:00"
+    },
+    {
+      "name": "StockLoop",
+      "slug": "polsia-stockloop-7",
+      "description": "Autonomous inventory replenishment for growing retailers.",
+      "description_fr": "Réapprovisionnement autonome des stocks pour les détaillants en croissance.",
+      "category": "E-Commerce & Retail",
+      "website": "https://stockloop-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T08:13:59.965686+00:00"
+    },
+    {
+      "name": "FilingIQ",
+      "slug": "polsia-filingiq-3",
+      "description": "Autonomous AI agents that monitor regulatory deadlines, prepare compliance documents, and submit filings — 24/7, without manual intervention.",
+      "description_fr": "Des agents d'IA autonomes qui surveillent les délais réglementaires, préparent les documents de conformité et soumettent des dossiers, 24 heures sur 24 et 7 jours sur 7, sans intervention manuelle.",
+      "category": "AI & Machine Learning",
+      "website": "https://filingiq-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T08:13:08.834300+00:00"
+    },
+    {
+      "name": "Moviq",
+      "slug": "polsia-moviq",
+      "description": "Scale delivery operations without scaling headcount.",
+      "description_fr": "Faites évoluer les opérations de livraison sans augmenter les effectifs.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://moviq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T08:13:10.078153+00:00"
+    },
+    {
+      "name": "Scoutr",
+      "slug": "polsia-scoutr-yo2ldl",
+      "description": "Autonomous code monitoring with instant vulnerability detection and fix PRs.",
+      "description_fr": "Surveillance autonome du code avec détection instantanée des vulnérabilités et correction des PR.",
+      "category": "Other",
+      "website": "https://scoutr-yo2ldl.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T08:13:11.242739+00:00"
     }
   ]
 }
