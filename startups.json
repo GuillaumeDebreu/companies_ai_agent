@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T13:17:32.145556+00:00",
+  "last_updated": "2026-07-18T14:11:46.217320+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -200139,10 +200139,13 @@
     {
       "name": "EquiSchedule",
       "slug": "polsia-equischedule",
+      "description": "Smart barn management and scheduling for equestrian professionals",
+      "description_fr": "Gestion et planification intelligentes d'écuries pour les professionnels de l'équitation",
+      "category": "Productivity & Automation",
       "website": "https://equischedule.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T12:40:14.846282+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T14:11:03.795013+00:00"
     },
     {
       "name": "Grantify",
@@ -200155,50 +200158,68 @@
     {
       "name": "ONYX ATELIER",
       "slug": "polsia-onyx-atelier",
+      "description": "Rare fragrances for the modern connoisseur.",
+      "description_fr": "Parfums rares pour le connaisseur moderne.",
+      "category": "Other",
       "website": "https://onyx-atelier.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T12:40:16.206909+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T14:11:06.043450+00:00"
     },
     {
       "name": "RegRunner",
       "slug": "polsia-regrunner-7",
+      "description": "Never miss a compliance deadline again.",
+      "description_fr": "Ne manquez plus jamais une date limite de conformité.",
+      "category": "Other",
       "website": "https://regrunner-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T12:40:21.695990+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T14:11:07.881794+00:00"
     },
     {
       "name": "SwapSpec",
       "slug": "polsia-swapspec",
+      "description": "Instant cross-model part compatibility for Jeep and Subaru owners.",
+      "description_fr": "Compatibilité instantanée des pièces entre modèles pour les propriétaires de Jeep et Subaru.",
+      "category": "Other",
       "website": "https://swapspec.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T12:40:27.347155+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T14:11:09.864326+00:00"
     },
     {
       "name": "ValuHaul",
       "slug": "polsia-valuhaul",
+      "description": "Instant offers, pickup, and shipping for all your sellable stuff.",
+      "description_fr": "Offres instantanées, retrait et expédition pour tous vos objets vendables.",
+      "category": "Logistics & Supply Chain",
       "website": "https://valuhaul.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T12:40:32.728270+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T14:11:10.732668+00:00"
     },
     {
       "name": "Edgewise",
       "slug": "polsia-edgewise-3",
+      "description": "Outcompete with real-time market intelligence. AI-powered competitive intelligence for ecommerce brands — monitor pricing, products, and reviews across every major marketplace.",
+      "description_fr": "Surpassez-vous grâce à l’intelligence du marché en temps réel. Veille concurrentielle basée sur l'IA pour les marques de commerce électronique : surveillez les prix, les produits et les avis sur tous les principaux marchés.",
+      "category": "E-Commerce & Retail",
       "website": "https://edgewise-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T12:40:38.080053+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T14:11:12.225283+00:00"
     },
     {
       "name": "CodeFend",
       "slug": "polsia-codefend",
+      "description": "AI agents that guard your production code, catch regressions, self-heal, and only call you when needed.",
+      "description_fr": "Des agents d'IA qui protègent votre code de production, détectent les régressions, s'auto-réparent et vous appellent uniquement en cas de besoin.",
+      "category": "AI & Machine Learning",
       "website": "https://codefend.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T12:40:43.705903+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T14:11:14.322049+00:00"
     },
     {
       "name": "Prospai",
@@ -200221,6 +200242,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-18T12:40:47.485521+00:00"
+    },
+    {
+      "name": "Vendrix",
+      "slug": "polsia-vendrix-x574a6",
+      "website": "https://vendrix-x574a6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T14:09:52.561227+00:00"
+    },
+    {
+      "name": "Ledgerly",
+      "slug": "polsia-ledgerly-yodtgg",
+      "website": "https://ledgerly-yodtgg.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T14:09:53.252615+00:00"
+    },
+    {
+      "name": "RepoSift",
+      "slug": "polsia-reposift-3",
+      "website": "https://reposift-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T14:09:58.790196+00:00"
+    },
+    {
+      "name": "Respondra",
+      "slug": "polsia-respondra-2",
+      "website": "https://respondra-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T14:10:04.368044+00:00"
+    },
+    {
+      "name": "NextGen Family Solutions",
+      "slug": "polsia-nextgen-family-solutions",
+      "description": "Compassionate addiction intervention and recovery support for families in crisis.",
+      "description_fr": "Intervention compatissante en matière de toxicomanie et soutien au rétablissement pour les familles en crise.",
+      "category": "Sustainability & Green",
+      "website": "https://nextgen-family-solutions.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T14:11:32.525879+00:00"
+    },
+    {
+      "name": "Wandr",
+      "slug": "polsia-wandr-5",
+      "description": "Connect, explore, and build with fellow outdoor enthusiasts.",
+      "description_fr": "Connectez-vous, explorez et construisez avec d’autres passionnés de plein air.",
+      "category": "Other",
+      "website": "https://wandr-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T14:11:33.658651+00:00"
+    },
+    {
+      "name": "Prefera AI",
+      "slug": "polsia-prefera-ai",
+      "website": "https://prefera-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T14:10:20.554153+00:00"
+    },
+    {
+      "name": "Stayroute",
+      "slug": "polsia-stayroute-2",
+      "description": "Autonomous AI that manages your short-term rental 24/7 — from guest inquiries and dynamic pricing to cleaning coordination and reviews.",
+      "description_fr": "Une IA autonome qui gère votre location à court terme 24h/24 et 7j/7, depuis les demandes des clients et la tarification dynamique jusqu'à la coordination et les avis de nettoyage.",
+      "category": "AI & Machine Learning",
+      "website": "https://stayroute-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T14:11:40.879591+00:00"
+    },
+    {
+      "name": "Anansi",
+      "slug": "polsia-anansi",
+      "website": "https://anansi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T14:10:31.468137+00:00"
+    },
+    {
+      "name": "RepoPulse",
+      "slug": "polsia-repopulse-4",
+      "description": "AI-powered Git reports delivered to Slack — no more manual standups.",
+      "description_fr": "Rapports Git basés sur l'IA livrés à Slack : plus de standups manuels.",
+      "category": "AI & Machine Learning",
+      "website": "https://repopulse-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T14:10:33.793244+00:00"
     }
   ]
 }
