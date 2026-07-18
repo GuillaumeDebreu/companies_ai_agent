@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T14:11:46.217320+00:00",
+  "last_updated": "2026-07-18T15:16:51.364534+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -200246,34 +200246,46 @@
     {
       "name": "Vendrix",
       "slug": "polsia-vendrix-x574a6",
+      "description": "Intelligenza artificiale per la gestione automatica dell'inventario per piccoli rivenditori online.",
+      "description_fr": "Intelligence artificielle pour la gestion automatique de l'inventaire des petits rives en ligne.",
+      "category": "Other",
       "website": "https://vendrix-x574a6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T14:09:52.561227+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T15:16:04.942547+00:00"
     },
     {
       "name": "Ledgerly",
       "slug": "polsia-ledgerly-yodtgg",
+      "description": "Autonomous accounting that runs while you rest. AI-powered transaction categorization, account reconciliation, and real-time financial reporting for small businesses.",
+      "description_fr": "Comptabilité autonome qui fonctionne pendant que vous vous reposez. Catégorisation des transactions basée sur l'IA, rapprochement des comptes et rapports financiers en temps réel pour les petites entreprises.",
+      "category": "Finance & Fintech",
       "website": "https://ledgerly-yodtgg.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T14:09:53.252615+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T15:16:05.986132+00:00"
     },
     {
       "name": "RepoSift",
       "slug": "polsia-reposift-3",
+      "description": "An autonomous AI co-maintainer that continuously monitors repositories, auto-generates documentation, writes comprehensive tests, and surfaces maintenance debt in real time.",
+      "description_fr": "Un co-mainteneur d'IA autonome qui surveille en permanence les référentiels, génère automatiquement de la documentation, écrit des tests complets et fait apparaître la dette de maintenance en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://reposift-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T14:09:58.790196+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T15:16:07.734013+00:00"
     },
     {
       "name": "Respondra",
       "slug": "polsia-respondra-2",
+      "description": "AI inbox & social agent — always on, always responding. Monitor your inbox and social media 24/7 with personalized AI-crafted replies.",
+      "description_fr": "Boîte de réception IA et agent social : toujours actif, toujours réactif. Surveillez votre boîte de réception et vos réseaux sociaux 24h/24 et 7j/7 avec des réponses personnalisées conçues par l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://respondra-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T14:10:04.368044+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T15:16:09.505902+00:00"
     },
     {
       "name": "NextGen Family Solutions",
@@ -200300,10 +200312,13 @@
     {
       "name": "Prefera AI",
       "slug": "polsia-prefera-ai",
+      "description": "Your always-on preference agent, learning and shopping for you 24/7.",
+      "description_fr": "Votre agent de préférences toujours disponible, apprenant et achetant pour vous 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://prefera-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T14:10:20.554153+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T15:16:10.478613+00:00"
     },
     {
       "name": "Stayroute",
@@ -200319,10 +200334,13 @@
     {
       "name": "Anansi",
       "slug": "polsia-anansi",
+      "description": "Autonomous AI agents, guided by African expertise. Anansi connects African freelancers with global SMBs — enabling talent to train, deploy, and oversee AI agents that work 24/7.",
+      "description_fr": "Des agents d’IA autonomes, guidés par l’expertise africaine. Anansi met en relation des indépendants africains avec des PME mondiales, permettant ainsi aux talents de former, déployer et superviser des agents d'IA qui travaillent 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://anansi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T14:10:31.468137+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T15:16:11.227654+00:00"
     },
     {
       "name": "RepoPulse",
@@ -200334,6 +200352,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-18T14:10:33.793244+00:00"
+    },
+    {
+      "name": "ApexMotion",
+      "slug": "polsia-apexmotion-2",
+      "website": "https://apexmotion-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T15:14:53.155849+00:00"
+    },
+    {
+      "name": "SketchVault",
+      "slug": "polsia-sketchvault-2",
+      "website": "https://sketchvault-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T15:14:58.582775+00:00"
+    },
+    {
+      "name": "ScoutIQ",
+      "slug": "polsia-scoutiq-y13qk4",
+      "website": "https://scoutiq-y13qk4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T15:15:03.775584+00:00"
+    },
+    {
+      "name": "PulseEdge",
+      "slug": "polsia-pulseedge-10",
+      "website": "https://pulseedge-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T15:15:09.144560+00:00"
+    },
+    {
+      "name": "Omnicaste",
+      "slug": "polsia-omnicaste",
+      "website": "https://omnicaste.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T15:15:14.528337+00:00"
+    },
+    {
+      "name": "Reforge",
+      "slug": "polsia-reforge-3",
+      "website": "https://reforge-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T15:15:19.854776+00:00"
+    },
+    {
+      "name": "PitchPulse",
+      "slug": "polsia-pitchpulse-5",
+      "website": "https://pitchpulse-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T15:15:25.229903+00:00"
+    },
+    {
+      "name": "ThoughtCraft Studio",
+      "slug": "polsia-thoughtcraft-studio",
+      "description": "High-ticket ghostwriting for business leaders who want to scale their voice.",
+      "description_fr": "Écriture fantôme à prix élevé pour les chefs d'entreprise qui souhaitent faire entendre leur voix.",
+      "category": "Sales & CRM",
+      "website": "https://thoughtcraft-studio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T15:16:49.734387+00:00"
+    },
+    {
+      "name": "ATouchOfBalance",
+      "slug": "polsia-atouchofbalance",
+      "description": "Holistic wellness services for mind and body balance — yoga, Pilates, mindfulness, and personalized well-being solutions.",
+      "description_fr": "Services de bien-être holistiques pour l'équilibre de l'esprit et du corps : yoga, Pilates, pleine conscience et solutions de bien-être personnalisées.",
+      "category": "Health & Wellness",
+      "website": "https://atouchofbalance.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T15:16:51.363587+00:00"
+    },
+    {
+      "name": "RFKCFOGroup.com",
+      "slug": "polsia-rfkcfogroupcom",
+      "description": "Institutional-Grade CFO Expertise for Investment Funds and Operating Companies — On Your Schedule.",
+      "description_fr": "Expertise CFO de niveau institutionnel pour les fonds d'investissement et les sociétés d'exploitation - selon votre emploi du temps.",
+      "category": "Finance & Fintech",
+      "website": "https://rfkcfogroupcom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T15:15:37.205733+00:00"
     }
   ]
 }
