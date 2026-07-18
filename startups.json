@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T22:16:13.867723+00:00",
+  "last_updated": "2026-07-18T23:14:33.156807+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -201117,58 +201117,79 @@
     {
       "name": "Prisma AI",
       "slug": "polsia-prisma-ai",
+      "description": "Agenti AI autonomi per la gestione completa dei tuoi social.",
+      "description_fr": "Agents AI autonomes pour la gestion complète de vos réseaux sociaux.",
+      "category": "AI & Machine Learning",
       "website": "https://prisma-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T22:14:16.585339+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T23:14:09.333964+00:00"
     },
     {
       "name": "Loopwise",
       "slug": "polsia-loopwise-10",
+      "description": "Autonomous B2B pipeline — your AI agent runs lead generation, outreach, and meeting booking 24/7.",
+      "description_fr": "Pipeline B2B autonome : votre agent IA gère la génération de leads, la sensibilisation et la réservation de réunions 24h/24 et 7j/7.",
+      "category": "Sales & CRM",
       "website": "https://loopwise-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T22:14:22.082016+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T23:14:10.431789+00:00"
     },
     {
       "name": "Stocksense",
       "slug": "polsia-stocksense-2",
+      "description": "Real-time stock alerts. Zero stockouts.",
+      "description_fr": "Alertes boursières en temps réel. Zéro rupture de stock.",
+      "category": "Other",
       "website": "https://stocksense-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T22:14:27.509077+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T23:14:11.397189+00:00"
     },
     {
       "name": "Machsynx",
       "slug": "polsia-machsynx",
+      "description": "AI-powered autonomous scheduling, real-time tool tracking, and 24/7 machine health monitoring for small CNC shops.",
+      "description_fr": "Planification autonome basée sur l'IA, suivi des outils en temps réel et surveillance de l'état des machines 24h/24 et 7j/7 pour les petits ateliers CNC.",
+      "category": "AI & Machine Learning",
       "website": "https://machsynx.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T22:14:32.892202+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T23:14:12.679314+00:00"
     },
     {
       "name": "Axone",
       "slug": "polsia-axone-2",
+      "description": "Déléguez l'intégralité de votre cycle commercial à des agents IA autonomes. Axone triple vos actions de prospection et libère plus de 12 heures par mois.",
+      "description_fr": "Déléguez l'intégralité de votre cycle commercial à des agents IA autonomes. Axone triple vos actions de prospection et libère plus de 12 heures par mois.",
+      "category": "Sales & CRM",
       "website": "https://axone-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T22:14:38.317113+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T23:14:13.753467+00:00"
     },
     {
       "name": "Velo AI",
       "slug": "polsia-velo-ai-8",
+      "description": "24/7 AI cold outreach. Pipeline never stops.",
+      "description_fr": "Sensibilisation à froid par l'IA 24h/24 et 7j/7. Le pipeline ne s'arrête jamais.",
+      "category": "AI & Machine Learning",
       "website": "https://velo-ai-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T22:14:43.851606+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T23:14:14.829907+00:00"
     },
     {
       "name": "Applywise",
       "slug": "polsia-applywise-6",
+      "description": "Autonomous AI agents that find, match, and apply to jobs for you.",
+      "description_fr": "Des agents IA autonomes qui trouvent, correspondent et postulent à des emplois pour vous.",
+      "category": "AI & Machine Learning",
       "website": "https://applywise-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T22:14:49.251601+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T23:14:15.937003+00:00"
     },
     {
       "name": "Keep Heritage Alive",
@@ -201202,6 +201223,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-18T22:16:13.866587+00:00"
+    },
+    {
+      "name": "Loadsmith",
+      "slug": "polsia-loadsmith-7",
+      "website": "https://loadsmith-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T23:13:24.437604+00:00"
+    },
+    {
+      "name": "OffGrid Ledger Co.",
+      "slug": "polsia-offgrid-ledger-co",
+      "website": "https://offgrid-ledger-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T23:13:30.067568+00:00"
+    },
+    {
+      "name": "SignalOS",
+      "slug": "polsia-signalos-78vorr",
+      "website": "https://signalos-78vorr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T23:13:35.671656+00:00"
+    },
+    {
+      "name": "Awardly",
+      "slug": "polsia-awardly-2",
+      "description": "AI-powered compliance outreach for small businesses winning federal contracts.",
+      "description_fr": "Sensibilisation à la conformité basée sur l'IA pour les petites entreprises remportant des contrats fédéraux.",
+      "category": "AI & Machine Learning",
+      "website": "https://awardly-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T23:14:33.154900+00:00"
+    },
+    {
+      "name": "PlayArchitect",
+      "slug": "polsia-playarchitect",
+      "description": "Build your football coaching empire online.",
+      "description_fr": "Construisez votre empire d’entraîneur de football en ligne.",
+      "category": "Education",
+      "website": "https://playarchitect.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T23:13:42.703768+00:00"
+    },
+    {
+      "name": "Blockpulse",
+      "slug": "polsia-blockpulse-5",
+      "description": "AI agents that watch your street so you don't have to. Autonomous hyperlocal intelligence for neighborhood small businesses.",
+      "description_fr": "Des agents IA qui surveillent votre rue pour que vous n'ayez pas à le faire. Intelligence hyperlocale autonome pour les petites entreprises de quartier.",
+      "category": "AI & Machine Learning",
+      "website": "https://blockpulse-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T23:13:44.764832+00:00"
+    },
+    {
+      "name": "BatchOps Pro",
+      "slug": "polsia-batchops-pro",
+      "description": "Productized AP automation for growing businesses.",
+      "description_fr": "Automatisation produitisée des AP pour les entreprises en croissance.",
+      "category": "Productivity & Automation",
+      "website": "https://batchops-pro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T23:13:46.110194+00:00"
+    },
+    {
+      "name": "Geek & Tea",
+      "slug": "polsia-geek-tea",
+      "description": "AI-tended organic loose-leaf teas brewed for the geek soul. Limited-edition blends inspired by sci-fi universes, fantasy fandoms, and geek-culture lore.",
+      "description_fr": "Thés en feuilles biologiques à base d'IA, infusés pour l'âme geek. Mélanges en édition limitée inspirés des univers de science-fiction, des fandoms fantastiques et de la culture geek.",
+      "category": "AI & Machine Learning",
+      "website": "https://geek-tea.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T23:13:47.358786+00:00"
+    },
+    {
+      "name": "Barpilot",
+      "slug": "polsia-barpilot-3",
+      "description": "Your neighborhood bar's AI operations manager — always on, plain-English every morning.",
+      "description_fr": "Le responsable des opérations IA de votre bar de quartier – toujours disponible, dans un anglais simple tous les matins.",
+      "category": "AI & Machine Learning",
+      "website": "https://barpilot-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T23:13:48.517833+00:00"
+    },
+    {
+      "name": "DispatchOS",
+      "slug": "polsia-dispatchos-7a6y0j",
+      "description": "Autonomous AI dispatch — every job handled, zero dispatchers needed.",
+      "description_fr": "Répartition autonome de l'IA : chaque tâche est gérée, aucun répartiteur n'est nécessaire.",
+      "category": "AI & Machine Learning",
+      "website": "https://dispatchos-7a6y0j.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T23:13:49.488378+00:00"
     }
   ]
 }
