@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T08:13:59.967323+00:00",
+  "last_updated": "2026-07-18T09:48:29.358567+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -199705,18 +199705,24 @@
     {
       "name": "BriefForge",
       "slug": "polsia-briefforge-3",
+      "description": "AI-powered creator briefs that convert — built for brands that move fast.",
+      "description_fr": "Des briefs de créateurs basés sur l'IA qui se convertissent, conçus pour les marques qui évoluent rapidement.",
+      "category": "AI & Machine Learning",
       "website": "https://briefforge-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T08:12:29.739728+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T09:48:19.706905+00:00"
     },
     {
       "name": "BidForge",
       "slug": "polsia-bidforge-sgtm59",
+      "description": "Your AI agent never sleeps — it bids around the clock. Autonomous bid submission for government procurement.",
+      "description_fr": "Votre agent IA ne dort jamais : il enchérit 24 heures sur 24. Soumission autonome des offres pour les marchés publics.",
+      "category": "AI & Machine Learning",
       "website": "https://bidforge-sgtm59.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-18T08:12:40.257209+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-18T09:48:20.559695+00:00"
     },
     {
       "name": "EatFleet",
@@ -199802,6 +199808,113 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-18T08:13:11.242739+00:00"
+    },
+    {
+      "name": "VendPulse",
+      "slug": "polsia-vendpulse-3",
+      "website": "https://vendpulse-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-18T09:47:38.604448+00:00"
+    },
+    {
+      "name": "Nightshade Press",
+      "slug": "polsia-nightshade-press",
+      "description": "Coloring pages that understand you. Adult coloring books, gothic journals, and dark academia printables for those who find creative self-expression in moodier themes.",
+      "description_fr": "Des coloriages qui vous comprennent. Livres de coloriage pour adultes, journaux gothiques et imprimables sombres du monde universitaire pour ceux qui trouvent une expression créative dans des thèmes plus maussades.",
+      "category": "Other",
+      "website": "https://nightshade-press.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T09:48:28.219695+00:00"
+    },
+    {
+      "name": "Bivouac Veterans",
+      "slug": "polsia-bivouac-veterans",
+      "description": "Affordable transitional housing for veterans with hands-on financial literacy and self-sufficiency coaching.",
+      "description_fr": "Logement de transition abordable pour les anciens combattants avec des connaissances financières pratiques et un encadrement en matière d'autonomie.",
+      "category": "Finance & Fintech",
+      "website": "https://bivouac-veterans.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T09:47:45.301476+00:00"
+    },
+    {
+      "name": "TrialPulse",
+      "slug": "polsia-trialpulse-9",
+      "description": "AI-powered real-time pricing optimization that turns trials into revenue.",
+      "description_fr": "Optimisation des prix en temps réel basée sur l'IA qui transforme les essais en revenus.",
+      "category": "AI & Machine Learning",
+      "website": "https://trialpulse-9.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T09:48:29.356724+00:00"
+    },
+    {
+      "name": "ScoutLens",
+      "slug": "polsia-scoutlens-4",
+      "description": "Instantly surface any play from athlete film with AI precision.",
+      "description_fr": "Faites instantanément apparaître n'importe quelle séquence de film d'athlète avec la précision de l'IA.",
+      "category": "AI & Machine Learning",
+      "website": "https://scoutlens-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T09:47:51.775294+00:00"
+    },
+    {
+      "name": "HighCircl",
+      "slug": "polsia-highcircl",
+      "description": "Europe's top 10% software engineers, matched in 72 hours.",
+      "description_fr": "Les 10 % d'ingénieurs logiciels les plus performants d'Europe, rencontrés en 72 heures.",
+      "category": "Software & SaaS",
+      "website": "https://highcircl.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T09:47:52.802592+00:00"
+    },
+    {
+      "name": "Blue Collar Empire",
+      "slug": "polsia-blue-collar-empire",
+      "description": "Where American Trades Build Their Future.",
+      "description_fr": "Où les métiers américains construisent leur avenir.",
+      "category": "Other",
+      "website": "https://blue-collar-empire.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T09:47:54.102960+00:00"
+    },
+    {
+      "name": "Synapex",
+      "slug": "polsia-synapex-2",
+      "description": "The persistent intelligence layer for modern enterprises.",
+      "description_fr": "La couche d'intelligence persistante pour les entreprises modernes.",
+      "category": "Other",
+      "website": "https://synapex-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T09:47:55.917693+00:00"
+    },
+    {
+      "name": "Abraco",
+      "slug": "polsia-abraco",
+      "description": "Smart Tools for Smarter Work — automation resources and personal branding tools for solo founders and solopreneurs.",
+      "description_fr": "Des outils intelligents pour un travail plus intelligent : ressources d'automatisation et outils de marque personnelle pour les fondateurs et les solopreneurs.",
+      "category": "Marketing & Advertising",
+      "website": "https://abraco.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T09:47:57.184725+00:00"
+    },
+    {
+      "name": "GloriaCast",
+      "slug": "polsia-gloriacast",
+      "description": "AI-Powered 24/7 Christian Entertainment. Autonomous music curation, live streaming, and community engagement — around the clock.",
+      "description_fr": "Divertissement chrétien 24h/24 et 7j/7 alimenté par l'IA. Curation musicale autonome, diffusion en direct et engagement communautaire, 24 heures sur 24.",
+      "category": "Entertainment & Media",
+      "website": "https://gloriacast.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-18T09:47:58.620793+00:00"
     }
   ]
 }
