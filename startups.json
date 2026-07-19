@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T11:43:36.684361+00:00",
+  "last_updated": "2026-07-19T12:40:32.955723+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -201855,26 +201855,35 @@
     {
       "name": "Vectis",
       "slug": "polsia-vectis-9",
+      "description": "AI reports that turn your analytics into action. Vectis autonomously monitors your product data, generates structured weekly reports, and delivers actionable recommendations.",
+      "description_fr": "Des rapports d'IA qui transforment vos analyses en action. Vectis surveille de manière autonome vos données produit, génère des rapports hebdomadaires structurés et fournit des recommandations exploitables.",
+      "category": "AI & Machine Learning",
       "website": "https://vectis-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T11:42:01.441788+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T12:39:47.510171+00:00"
     },
     {
       "name": "FORMBX",
       "slug": "polsia-formbx",
+      "description": "Boxningsutrustning designad för hur du faktiskt tränar.",
+      "description_fr": "Boxningsutrustning conçu pour votre voyage de fait.",
+      "category": "Marketing & Advertising",
       "website": "https://formbx.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T11:42:06.755924+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T12:39:49.462180+00:00"
     },
     {
       "name": "Vestika AI",
       "slug": "polsia-vestika-ai",
+      "description": "AI for the unsexy industries that run the world. Domain-specific copilots for insurance, HVAC, legal, and funeral verticals.",
+      "description_fr": "L'IA pour les industries peu sexy qui dirigent le monde. Copilotes spécifiques à un domaine pour les secteurs verticaux de l'assurance, du CVC, du droit et des funérailles.",
+      "category": "AI & Machine Learning",
       "website": "https://vestika-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T11:42:12.200261+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T12:39:51.051861+00:00"
     },
     {
       "name": "Quantix",
@@ -201952,6 +201961,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-19T11:42:21.439623+00:00"
+    },
+    {
+      "name": "Recur.ai",
+      "slug": "polsia-recurai-2",
+      "description": "AI-powered subscription intelligence that stops unwanted charges and optimizes renewals.",
+      "description_fr": "Des renseignements sur les abonnements basés sur l'IA qui stoppent les frais indésirables et optimisent les renouvellements.",
+      "category": "AI & Machine Learning",
+      "website": "https://recurai-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T12:39:52.198002+00:00"
+    },
+    {
+      "name": "VelocityX",
+      "slug": "polsia-velocityx",
+      "website": "https://velocityx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T12:38:06.585526+00:00"
+    },
+    {
+      "name": "Veriflow",
+      "slug": "polsia-veriflow-9op7kk",
+      "description": "Autonomous monitoring that acts, not just alerts. AI-driven operations platform for DevOps, SRE, and business operations teams.",
+      "description_fr": "Une surveillance autonome qui agit, pas seulement des alertes. Plateforme d'opérations basée sur l'IA pour les équipes DevOps, SRE et opérationnelles commerciales.",
+      "category": "Software & SaaS",
+      "website": "https://veriflow-9op7kk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T12:39:58.677955+00:00"
+    },
+    {
+      "name": "FlowStack",
+      "slug": "polsia-flowstack-vmx1am",
+      "website": "https://flowstack-vmx1am.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T12:38:17.700666+00:00"
+    },
+    {
+      "name": "SoloStack",
+      "slug": "polsia-solostack-qel99e",
+      "description": "AI-powered social media automation for solo founders. Streamline content creation, scheduling, and analytics in one cohesive workflow.",
+      "description_fr": "Automatisation des médias sociaux basée sur l'IA pour les fondateurs solo. Rationalisez la création, la planification et l’analyse de contenu dans un flux de travail cohérent.",
+      "category": "Productivity & Automation",
+      "website": "https://solostack-qel99e.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T12:40:05.399975+00:00"
+    },
+    {
+      "name": "PNS Associates",
+      "slug": "polsia-pns-associates",
+      "website": "https://pns-associates.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T12:38:28.604381+00:00"
+    },
+    {
+      "name": "Anti-Nuisibles 41",
+      "slug": "polsia-anti-nuisibles-41",
+      "website": "https://anti-nuisibles-41.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T12:38:33.977879+00:00"
+    },
+    {
+      "name": "DepthMesh",
+      "slug": "polsia-depthmesh",
+      "website": "https://depthmesh.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T12:38:39.531854+00:00"
+    },
+    {
+      "name": "智链博锐",
+      "slug": "polsia-company-272529",
+      "website": "https://company-272529.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T12:38:44.999487+00:00"
+    },
+    {
+      "name": "Propel AI",
+      "slug": "polsia-propel-ai-10",
+      "website": "https://propel-ai-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T12:38:50.556322+00:00"
     }
   ]
 }
