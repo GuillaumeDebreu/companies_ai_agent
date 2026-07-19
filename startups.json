@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T08:20:46.371417+00:00",
+  "last_updated": "2026-07-19T08:58:11.000398+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -201557,42 +201557,57 @@
     {
       "name": "CertSentry",
       "slug": "polsia-certsentry",
+      "description": "AI-powered monitoring for smarter IT certification journeys.",
+      "description_fr": "Surveillance basée sur l'IA pour des parcours de certification informatique plus intelligents.",
+      "category": "AI & Machine Learning",
       "website": "https://certsentry.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T06:38:31.628131+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T08:57:42.630627+00:00"
     },
     {
       "name": "TiffForge",
       "slug": "polsia-tiffforge",
+      "description": "Precision nutrition engineered for performance.",
+      "description_fr": "Nutrition de précision conçue pour la performance.",
+      "category": "Health & Wellness",
       "website": "https://tiffforge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T06:38:32.323550+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T08:57:44.315970+00:00"
     },
     {
       "name": "All Leftys LLC",
       "slug": "polsia-all-leftys-llc",
+      "description": "Supplies hard-to-find products for left-handed people.",
+      "description_fr": "Fournit des produits difficiles à trouver pour les gauchers.",
+      "category": "Other",
       "website": "https://all-leftys-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T06:38:42.904862+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T08:57:45.846261+00:00"
     },
     {
       "name": "Theta Orbital",
       "slug": "polsia-theta-orbital",
+      "description": "Your AI COO that thinks like you. A personalized chief operating officer for solo founders, built around your decision-making philosophy.",
+      "description_fr": "Votre COO IA qui pense comme vous. Un directeur opérationnel personnalisé pour les fondateurs solo, construit autour de votre philosophie de prise de décision.",
+      "category": "AI & Machine Learning",
       "website": "https://theta-orbital.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T06:38:48.442865+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T08:57:47.715169+00:00"
     },
     {
       "name": "Aevrix",
       "slug": "polsia-aevrix",
+      "description": "Autonomous AI artists. Unparalleled digital collectibles.",
+      "description_fr": "Artistes IA autonomes. Objets de collection numériques inégalés.",
+      "category": "AI & Machine Learning",
       "website": "https://aevrix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T06:38:53.912966+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T08:57:48.913930+00:00"
     },
     {
       "name": "Zucraia",
@@ -201634,6 +201649,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-19T06:39:08.419496+00:00"
+    },
+    {
+      "name": "Briefwise",
+      "slug": "polsia-briefwise-5",
+      "website": "https://briefwise-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T08:57:06.219170+00:00"
+    },
+    {
+      "name": "VerticalStack",
+      "slug": "polsia-verticalstack",
+      "website": "https://verticalstack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T08:57:06.721180+00:00"
+    },
+    {
+      "name": "Ironcrest",
+      "slug": "polsia-ironcrest-3",
+      "website": "https://ironcrest-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T08:57:07.155950+00:00"
+    },
+    {
+      "name": "Karl Ulde",
+      "slug": "polsia-karl-ulde-2",
+      "website": "https://karl-ulde-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T08:57:12.671303+00:00"
+    },
+    {
+      "name": "Shipwise",
+      "slug": "polsia-shipwise-4",
+      "description": "AI-powered micro-fulfillment, running while you sleep.",
+      "description_fr": "Micro-exécution alimentée par l'IA, fonctionnant pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://shipwise-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T08:58:10.999325+00:00"
+    },
+    {
+      "name": "BullFlowX",
+      "slug": "polsia-bullflowx",
+      "description": "Institutional-grade multi-asset trading for the modern retail trader.",
+      "description_fr": "Trading multi-actifs de niveau institutionnel pour le commerçant de détail moderne.",
+      "category": "Finance & Fintech",
+      "website": "https://bullflowx.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T08:57:19.862905+00:00"
+    },
+    {
+      "name": "AxiomLoop",
+      "slug": "polsia-axiomloop",
+      "description": "Autonomous data labeling pipelines that self-correct and continuously improve.",
+      "description_fr": "Des pipelines d’étiquetage de données autonomes qui s’autocorrigent et s’améliorent continuellement.",
+      "category": "Sales & CRM",
+      "website": "https://axiomloop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T08:57:20.961022+00:00"
+    },
+    {
+      "name": "Adaptify",
+      "slug": "polsia-adaptify-5",
+      "description": "Real-time WCAG compliance monitoring for every deployment.",
+      "description_fr": "Surveillance de la conformité WCAG en temps réel pour chaque déploiement.",
+      "category": "Other",
+      "website": "https://adaptify-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T08:57:22.807875+00:00"
+    },
+    {
+      "name": "Whispered Riot",
+      "slug": "polsia-whispered-riot",
+      "description": "Your AI co-founder for building premium e-commerce brands. A structured 13-stage framework that guides non-technical founders from vision to launch.",
+      "description_fr": "Votre co-fondateur d'IA pour créer des marques de commerce électronique haut de gamme. Un cadre structuré en 13 étapes qui guide les fondateurs non techniques de la vision au lancement.",
+      "category": "AI & Machine Learning",
+      "website": "https://whispered-riot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T08:57:24.559163+00:00"
+    },
+    {
+      "name": "VitesseChance",
+      "slug": "polsia-vitessechance",
+      "description": "Votre opportunité de gagner une voiture de sport ou de luxe.",
+      "description_fr": "Votre opportunité de gagner une voiture de sport ou de luxe.",
+      "category": "Other",
+      "website": "https://vitessechance.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T08:57:25.993257+00:00"
     }
   ]
 }
