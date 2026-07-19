@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T14:13:44.198855+00:00",
+  "last_updated": "2026-07-19T15:18:31.877156+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -202072,26 +202072,35 @@
     {
       "name": "Resurgent",
       "slug": "polsia-resurgent",
+      "description": "Where old Standard legends rise again.",
+      "description_fr": "Là où les vieilles légendes du Standard ressuscitent.",
+      "category": "Other",
       "website": "https://resurgent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T14:11:06.910268+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T15:17:46.511720+00:00"
     },
     {
       "name": "PlayForge",
       "slug": "polsia-playforge-9gc5ku",
+      "description": "The all-in-one platform built for club sports operations.",
+      "description_fr": "La plateforme tout-en-un conçue pour les opérations sportives des clubs.",
+      "category": "Software & SaaS",
       "website": "https://playforge-9gc5ku.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T14:11:12.450665+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T15:17:47.558070+00:00"
     },
     {
       "name": "CattlePulse",
       "slug": "polsia-cattlepulse",
+      "description": "AI-powered cattle intelligence for hands-off ranch operations.",
+      "description_fr": "Intelligence bovine alimentée par l’IA pour les opérations de ranch sans intervention.",
+      "category": "AI & Machine Learning",
       "website": "https://cattlepulse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T14:11:17.833376+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T15:17:48.475179+00:00"
     },
     {
       "name": "HaulSmart",
@@ -202107,10 +202116,13 @@
     {
       "name": "Stitchfolk",
       "slug": "polsia-stitchfolk",
+      "description": "Digital craft patterns, guides & inspiration for cozy makers.",
+      "description_fr": "Modèles d'artisanat numérique, guides et inspiration pour les créateurs de créations chaleureuses.",
+      "category": "Other",
       "website": "https://stitchfolk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T14:11:28.813917+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T15:17:49.836376+00:00"
     },
     {
       "name": "Energieve",
@@ -202126,10 +202138,13 @@
     {
       "name": "Voxlynx",
       "slug": "polsia-voxlynx",
+      "description": "Unified inbound and outbound AI voice agents for mid-market SMBs — done-for-you.",
+      "description_fr": "Agents vocaux IA entrants et sortants unifiés pour les PME de taille moyenne – faits pour vous.",
+      "category": "AI & Machine Learning",
       "website": "https://voxlynx.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T14:11:44.709732+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T15:17:51.892210+00:00"
     },
     {
       "name": "StockPilot",
@@ -202163,6 +202178,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-19T14:13:44.197599+00:00"
+    },
+    {
+      "name": "CloseNudge",
+      "slug": "polsia-closenudge",
+      "website": "https://closenudge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T15:16:04.305277+00:00"
+    },
+    {
+      "name": "SentinelUI",
+      "slug": "polsia-sentinelui",
+      "website": "https://sentinelui.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T15:16:04.969803+00:00"
+    },
+    {
+      "name": "Pareto Society",
+      "slug": "polsia-pareto-society",
+      "website": "https://pareto-society.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T15:16:05.663169+00:00"
+    },
+    {
+      "name": "SeamlessWalls",
+      "slug": "polsia-seamlesswalls",
+      "website": "https://seamlesswalls.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T15:16:11.098508+00:00"
+    },
+    {
+      "name": "Oblig.io",
+      "slug": "polsia-obligio",
+      "website": "https://obligio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T15:16:16.515582+00:00"
+    },
+    {
+      "name": "Ltd.Ed.",
+      "slug": "polsia-ltded",
+      "website": "https://ltded.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T15:16:26.959625+00:00"
+    },
+    {
+      "name": "Digital Shift AI",
+      "slug": "polsia-digital-shift-ai",
+      "description": "AI-powered tools and education for e-commerce entrepreneurs. Build market-ready digital products in hours, not weeks.",
+      "description_fr": "Outils et formations basés sur l'IA pour les entrepreneurs du commerce électronique. Créez des produits numériques prêts à être commercialisés en quelques heures, et non en quelques semaines.",
+      "category": "AI & Machine Learning",
+      "website": "https://digital-shift-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T15:18:25.234192+00:00"
+    },
+    {
+      "name": "Celeri",
+      "slug": "polsia-celeri",
+      "description": "Autonomous AI lending — decisions at the speed of money. Celeri monitors creditworthiness, makes real-time credit decisions, and continuously optimizes loan portfolios 24/7.",
+      "description_fr": "Prêts autonomes d’IA – décisions à la vitesse de l’argent. Celeri surveille la solvabilité, prend des décisions de crédit en temps réel et optimise en permanence les portefeuilles de prêts 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://celeri.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T15:18:26.333691+00:00"
+    },
+    {
+      "name": "Sculptavex",
+      "slug": "polsia-sculptavex",
+      "description": "Precision peptides for body transformation. Accessible peptide therapies prescribed by licensed physicians for weight management and lean muscle development.",
+      "description_fr": "Peptides de précision pour la transformation du corps. Thérapies peptidiques accessibles prescrites par des médecins agréés pour la gestion du poids et le développement de la masse musculaire maigre.",
+      "category": "Software & SaaS",
+      "website": "https://sculptavex.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T15:16:39.875959+00:00"
+    },
+    {
+      "name": "SacaMedi",
+      "slug": "polsia-sacamedi",
+      "website": "https://sacamedi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T15:16:45.377905+00:00"
     }
   ]
 }
