@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T03:58:58.441386+00:00",
+  "last_updated": "2026-07-19T06:40:12.742606+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -201447,42 +201447,57 @@
     {
       "name": "DateLab",
       "slug": "polsia-datelab",
+      "description": "Crafted monthly date nights, no planning required.",
+      "description_fr": "Soirées de rendez-vous mensuelles conçues, aucune planification requise.",
+      "category": "Other",
       "website": "https://datelab.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T03:57:29.652866+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T06:39:27.780343+00:00"
     },
     {
       "name": "CommitGuard",
       "slug": "polsia-commitguard-4",
+      "description": "AI code review that catches bugs, writes tests, and ships code — before you do.",
+      "description_fr": "Révision du code de l'IA qui détecte les bogues, écrit des tests et expédie le code – avant vous.",
+      "category": "AI & Machine Learning",
       "website": "https://commitguard-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T03:57:35.027766+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T06:39:28.595059+00:00"
     },
     {
       "name": "Vendorvault",
       "slug": "polsia-vendorvault-3",
+      "description": "An autonomous business operating on the Polsia AI platform.",
+      "description_fr": "Une entreprise autonome opérant sur la plateforme Polsia AI.",
+      "category": "AI & Machine Learning",
       "website": "https://vendorvault-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T03:57:40.451544+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T06:39:30.186351+00:00"
     },
     {
       "name": "DefectIQ",
       "slug": "polsia-defectiq",
+      "description": "AI-powered quality intelligence that finds hidden defect patterns before they cost you.",
+      "description_fr": "Une intelligence qualité basée sur l’IA qui détecte les défauts cachés avant qu’ils ne vous coûtent cher.",
+      "category": "AI & Machine Learning",
       "website": "https://defectiq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T03:57:45.779266+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T06:39:32.062378+00:00"
     },
     {
       "name": "FinNexa",
       "slug": "polsia-finnexa",
+      "description": "AI lending agents that monitor cash flow, approve credit, and flag risk in real time.",
+      "description_fr": "Des agents de prêt IA qui surveillent les flux de trésorerie, approuvent le crédit et signalent les risques en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://finnexa.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T03:57:51.115364+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T06:39:33.411315+00:00"
     },
     {
       "name": "Nexara",
@@ -201538,6 +201553,87 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-19T03:57:58.078086+00:00"
+    },
+    {
+      "name": "CertSentry",
+      "slug": "polsia-certsentry",
+      "website": "https://certsentry.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T06:38:31.628131+00:00"
+    },
+    {
+      "name": "TiffForge",
+      "slug": "polsia-tiffforge",
+      "website": "https://tiffforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T06:38:32.323550+00:00"
+    },
+    {
+      "name": "All Leftys LLC",
+      "slug": "polsia-all-leftys-llc",
+      "website": "https://all-leftys-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T06:38:42.904862+00:00"
+    },
+    {
+      "name": "Theta Orbital",
+      "slug": "polsia-theta-orbital",
+      "website": "https://theta-orbital.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T06:38:48.442865+00:00"
+    },
+    {
+      "name": "Aevrix",
+      "slug": "polsia-aevrix",
+      "website": "https://aevrix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T06:38:53.912966+00:00"
+    },
+    {
+      "name": "Zucraia",
+      "slug": "polsia-zucraia",
+      "website": "https://zucraia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T06:38:59.525214+00:00"
+    },
+    {
+      "name": "StreamQ",
+      "slug": "polsia-streamq-2",
+      "description": "Empowering creators with safety-first tools for sustainable revenue.",
+      "description_fr": "Offrir aux créateurs des outils axés sur la sécurité pour générer des revenus durables.",
+      "category": "Other",
+      "website": "https://streamq-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T06:40:12.741892+00:00"
+    },
+    {
+      "name": "StackForge",
+      "slug": "polsia-stackforge-a1lixf",
+      "description": "From conversation to containers—automatically. The 24/7 autonomous AI agent that transforms natural language into production-ready Flask web applications.",
+      "description_fr": "De la conversation aux conteneurs, automatiquement. L'agent d'IA autonome 24h/24 et 7j/7 qui transforme le langage naturel en applications Web Flask prêtes pour la production.",
+      "category": "AI & Machine Learning",
+      "website": "https://stackforge-a1lixf.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T06:39:06.931260+00:00"
+    },
+    {
+      "name": "SolarScope",
+      "slug": "polsia-solarscope-2",
+      "description": "Design Your Solar Future, Phase by Phase.",
+      "description_fr": "Concevez votre avenir solaire, phase par phase.",
+      "category": "Sustainability & Green",
+      "website": "https://solarscope-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T06:39:08.419496+00:00"
     }
   ]
 }
