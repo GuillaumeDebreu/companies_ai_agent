@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T19:07:56.725305+00:00",
+  "last_updated": "2026-07-19T19:49:03.514641+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -202204,10 +202204,13 @@
     {
       "name": "Pareto Society",
       "slug": "polsia-pareto-society",
+      "description": "Private AI and digital finance studio for the 20% who act early.",
+      "description_fr": "Studio privé d'IA et de finance numérique pour les 20 % qui agissent tôt.",
+      "category": "AI & Machine Learning",
       "website": "https://pareto-society.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T15:16:05.663169+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T19:47:28.552760+00:00"
     },
     {
       "name": "SeamlessWalls",
@@ -202452,10 +202455,13 @@
     {
       "name": "ReferraSource",
       "slug": "polsia-referrasource",
+      "description": "Connecting motivated sellers with trusted real estate professionals.",
+      "description_fr": "Mettre en relation des vendeurs motivés avec des professionnels de l'immobilier de confiance.",
+      "category": "Real Estate",
       "website": "https://referrasource.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T18:29:33.116064+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T19:47:48.985073+00:00"
     },
     {
       "name": "True Rarities",
@@ -202468,50 +202474,68 @@
     {
       "name": "SpinContent",
       "slug": "polsia-spincontent",
+      "description": "Your 24/7 AI publishing engine. Automatically research, create, schedule, and syndicate content — around the clock.",
+      "description_fr": "Votre moteur de publication IA 24h/24 et 7j/7. Recherchez, créez, planifiez et syndiquez automatiquement du contenu, 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://spincontent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T18:29:43.691300+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T19:47:56.961078+00:00"
     },
     {
       "name": "InboxPilot",
       "slug": "polsia-inboxpilot-25o5er",
+      "description": "Never sleep. Always prioritize. AI email agent that monitors, classifies, and drafts so you can focus on what matters.",
+      "description_fr": "Ne dormez jamais. Priorisez toujours. Agent de messagerie IA qui surveille, classe et rédige afin que vous puissiez vous concentrer sur ce qui compte.",
+      "category": "AI & Machine Learning",
       "website": "https://inboxpilot-25o5er.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T18:29:49.109634+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T19:48:00.066709+00:00"
     },
     {
       "name": "VigilIQ",
       "slug": "polsia-vigiliq-ndlah2",
+      "description": "Autonomous AI agents that watch your portfolio around the clock.",
+      "description_fr": "Des agents IA autonomes qui surveillent votre portefeuille 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://vigiliq-ndlah2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T18:29:49.570357+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T19:48:02.365530+00:00"
     },
     {
       "name": "Flikbox",
       "slug": "polsia-flikbox",
+      "description": "L'agence vidéo accessible pour les pros de terrain",
+      "description_fr": "L'agence vidéo accessible pour les pros du terrain",
+      "category": "Other",
       "website": "https://flikbox.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T18:29:55.039981+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T19:48:05.763739+00:00"
     },
     {
       "name": "AutomateIQ",
       "slug": "polsia-automateiq-lgwacd",
+      "description": "AI-powered workflows that work while you sleep. Automate emails, scheduling, customer support, and paperwork for your small business.",
+      "description_fr": "Des flux de travail basés sur l'IA qui fonctionnent pendant que vous dormez. Automatisez les e-mails, la planification, le support client et la paperasse pour votre petite entreprise.",
+      "category": "Productivity & Automation",
       "website": "https://automateiq-lgwacd.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T18:30:00.412034+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T19:48:09.156189+00:00"
     },
     {
       "name": "NutriCan AI",
       "slug": "polsia-nutrican-ai",
+      "description": "Autonomously personalized canine wellness, delivered on schedule.",
+      "description_fr": "Bien-être canin personnalisé de manière autonome, livré dans les délais.",
+      "category": "AI & Machine Learning",
       "website": "https://nutrican-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-19T18:30:06.059379+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-19T19:48:12.482592+00:00"
     },
     {
       "name": "Morning Upgrade",
@@ -202524,10 +202548,108 @@
     {
       "name": "ExhaleCircle",
       "slug": "polsia-exhalecircle",
+      "description": "A community gathering space where women form authentic friendships, share laughter, and support one another through life’s highs and lows.",
+      "description_fr": "Un espace de rassemblement communautaire où les femmes nouent des amitiés authentiques, partagent des rires et se soutiennent mutuellement dans les hauts et les bas de la vie.",
+      "category": "Social & Community",
       "website": "https://exhalecircle.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T19:48:15.882043+00:00"
+    },
+    {
+      "name": "PrestoCraft",
+      "slug": "polsia-prestocraft",
+      "website": "https://prestocraft.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-19T18:30:16.735719+00:00"
+      "scraped_at": "2026-07-19T19:45:29.684923+00:00"
+    },
+    {
+      "name": "MARS.audio",
+      "slug": "polsia-marsaudio",
+      "website": "https://marsaudio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T19:45:35.518507+00:00"
+    },
+    {
+      "name": "MindBridge",
+      "slug": "polsia-mindbridge-qsh7ow",
+      "website": "https://mindbridge-qsh7ow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T19:45:46.493244+00:00"
+    },
+    {
+      "name": "BidReach",
+      "slug": "polsia-bidreach-2",
+      "website": "https://bidreach-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T19:45:52.383257+00:00"
+    },
+    {
+      "name": "PersonaWatch",
+      "slug": "polsia-personawatch-2",
+      "description": "Your personal identity shield online. AI-powered monitoring that detects impersonation, deepfakes, and reputation threats in real time.",
+      "description_fr": "Votre bouclier d'identité personnel en ligne. Surveillance basée sur l'IA qui détecte les usurpations d'identité, les deepfakes et les menaces de réputation en temps réel.",
+      "category": "AI & Machine Learning",
+      "website": "https://personawatch-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T19:48:47.768878+00:00"
+    },
+    {
+      "name": "BrandBridge",
+      "slug": "polsia-brandbridge-4",
+      "description": "AI-powered brand design matching — always on, always negotiating.",
+      "description_fr": "Correspondance du design de marque basée sur l'IA : toujours active, toujours en négociation.",
+      "category": "AI & Machine Learning",
+      "website": "https://brandbridge-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T19:48:50.833715+00:00"
+    },
+    {
+      "name": "NeuroBridge",
+      "slug": "polsia-neurobridge-4",
+      "description": "Bridging the gap from injury to thriving. Community-driven resources, peer support, and individualized navigation for TBI survivors, families, and caregivers.",
+      "description_fr": "Combler le fossé entre la blessure et la prospérité. Ressources communautaires, soutien par les pairs et navigation individualisée pour les survivants d'un traumatisme crânien, leurs familles et leurs soignants.",
+      "category": "Social & Community",
+      "website": "https://neurobridge-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T19:48:53.156932+00:00"
+    },
+    {
+      "name": "Brandwise",
+      "slug": "polsia-brandwise-6",
+      "description": "Brand-aligned e-commerce imagery at scale. An always-on AI photography studio that learns your aesthetic and regenerates your entire product catalog overnight.",
+      "description_fr": "Images de commerce électronique alignées sur la marque à grande échelle. Un studio de photographie IA toujours actif qui apprend votre esthétique et régénère l’intégralité de votre catalogue de produits du jour au lendemain.",
+      "category": "AI & Machine Learning",
+      "website": "https://brandwise-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T19:48:54.966584+00:00"
+    },
+    {
+      "name": "Opskeeper",
+      "slug": "polsia-opskeeper",
+      "description": "Autonomous website maintenance for business owners without IT staff.",
+      "description_fr": "Maintenance autonome de sites Web pour les propriétaires d'entreprise sans personnel informatique.",
+      "category": "Other",
+      "website": "https://opskeeper.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-19T19:48:57.524917+00:00"
+    },
+    {
+      "name": "Compoundry",
+      "slug": "polsia-compoundry",
+      "website": "https://compoundry.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-19T19:46:28.124714+00:00"
     }
   ]
 }
