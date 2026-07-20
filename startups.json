@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T14:07:45.066014+00:00",
+  "last_updated": "2026-07-20T15:20:16.809475+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -203585,42 +203585,57 @@
     {
       "name": "Veridian",
       "slug": "polsia-veridian-4",
+      "description": "AI systems that fill your pipeline so you can focus on the work. Veridian builds chatbots, quote reminders, review collection, and social content for local service businesses.",
+      "description_fr": "Des systèmes d'IA qui remplissent votre pipeline afin que vous puissiez vous concentrer sur le travail. Veridian crée des chatbots, des rappels de devis, une collecte d'avis et du contenu social pour les entreprises de services locales.",
+      "category": "AI & Machine Learning",
       "website": "https://veridian-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T12:57:19.614656+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T15:19:07.463872+00:00"
     },
     {
       "name": "Tanvù",
       "slug": "polsia-tanv",
+      "description": "Autenticità siciliana sulla tua tavola, consegnata in tutta Europa.",
+      "description_fr": "Autenticité sicilienne sur votre table, consignée dans toute l'Europe.",
+      "category": "Other",
       "website": "https://tanv.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T12:57:20.152324+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T15:19:08.848801+00:00"
     },
     {
       "name": "链研社 ChainSage",
       "slug": "polsia-chainsage-2",
+      "description": "AI驱动的Web3协作投研平台，让每一笔链上决策都有据可依。",
+      "description_fr": "AI 驱动的Web3 协作投研平台，让每一笔链上决策都有据可依。",
+      "category": "AI & Machine Learning",
       "website": "https://chainsage-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T12:57:25.667544+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T15:19:10.363189+00:00"
     },
     {
       "name": "BaySync",
       "slug": "polsia-baysync",
+      "description": "Cut concrete truck turnaround time at the plant. BaySync gives ready-mix plants real-time bay visibility and optimal loading sequences.",
+      "description_fr": "Réduisez les délais d’exécution des camions à béton à l’usine. BaySync offre aux usines de mélange prêt à l'emploi une visibilité en temps réel sur les baies et des séquences de chargement optimales.",
+      "category": "Other",
       "website": "https://baysync.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T12:57:31.062767+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T15:19:11.752232+00:00"
     },
     {
       "name": "Stonewyrd Studios",
       "slug": "polsia-stonewyrd-studios",
+      "description": "Dark creative arts at the intersection of mythology, music, and AI-assisted production.",
+      "description_fr": "Des arts créatifs sombres à l’intersection de la mythologie, de la musique et de la production assistée par l’IA.",
+      "category": "AI & Machine Learning",
       "website": "https://stonewyrd-studios.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T12:57:36.673279+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T15:19:12.986468+00:00"
     },
     {
       "name": "VerityOS",
@@ -203636,10 +203651,13 @@
     {
       "name": "SponsorVault",
       "slug": "polsia-sponsorvault",
+      "description": "A vetted matching platform for niche YouTube and podcast creators (10K–50K per episode) and sponsors seeking high-engagement, mission-fit audiences.",
+      "description_fr": "Une plate-forme de mise en relation approuvée pour les créateurs de niche YouTube et de podcasts (10 000 à 50 000 par épisode) et les sponsors à la recherche d'audiences à fort engagement et adaptées à leur mission.",
+      "category": "Software & SaaS",
       "website": "https://sponsorvault.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T12:57:47.605181+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T15:19:15.084074+00:00"
     },
     {
       "name": "StreamSync",
@@ -203663,10 +203681,93 @@
     {
       "name": "RegSentinel",
       "slug": "polsia-regsentinel-3",
+      "description": "AI-powered queue monitoring for Nigerian business registrations. RegSentinel tracks CAC application status, naming conflicts, and approval windows in real time.",
+      "description_fr": "Surveillance des files d'attente basée sur l'IA pour les enregistrements d'entreprises nigérianes. RegSentinel suit l'état des demandes CAC, les conflits de noms et les fenêtres d'approbation en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://regsentinel-3.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T15:19:17.648738+00:00"
+    },
+    {
+      "name": "Subpulse",
+      "slug": "polsia-subpulse-6",
+      "website": "https://subpulse-6.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-20T12:58:03.580589+00:00"
+      "scraped_at": "2026-07-20T15:17:29.936826+00:00"
+    },
+    {
+      "name": "Pinnacle Advisory Group",
+      "slug": "polsia-pinnacle-advisory-group",
+      "website": "https://pinnacle-advisory-group.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T15:17:30.597986+00:00"
+    },
+    {
+      "name": "AcaSync",
+      "slug": "polsia-acasync",
+      "website": "https://acasync.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T15:17:31.247925+00:00"
+    },
+    {
+      "name": "ReviewMind",
+      "slug": "polsia-reviewmind-88usdi",
+      "website": "https://reviewmind-88usdi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T15:17:36.846601+00:00"
+    },
+    {
+      "name": "Shulammite Babasola",
+      "slug": "polsia-shulammite-babasola",
+      "website": "https://shulammite-babasola.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T15:17:42.378910+00:00"
+    },
+    {
+      "name": "Smartverket",
+      "slug": "polsia-smartverket",
+      "website": "https://smartverket.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T15:17:47.797747+00:00"
+    },
+    {
+      "name": "EdgePulse",
+      "slug": "polsia-edgepulse-8",
+      "website": "https://edgepulse-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T15:17:53.217791+00:00"
+    },
+    {
+      "name": "ProjexHQ",
+      "slug": "polsia-projexhq",
+      "website": "https://projexhq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T15:17:58.616776+00:00"
+    },
+    {
+      "name": "SparkLocal",
+      "slug": "polsia-sparklocal-b0vw3u",
+      "website": "https://sparklocal-b0vw3u.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T15:18:03.945419+00:00"
+    },
+    {
+      "name": "ComplyEdge",
+      "slug": "polsia-complyedge",
+      "website": "https://complyedge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T15:18:09.578501+00:00"
     }
   ]
 }
