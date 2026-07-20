@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T21:36:24.056959+00:00",
+  "last_updated": "2026-07-20T22:36:08.359257+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -204118,18 +204118,24 @@
     {
       "name": "MunchMeter",
       "slug": "polsia-munchmeter",
+      "description": "Track every fast food deal in real time. Discover live coupons, limited-time deals, and price drops from your favorite fast food chains — all in one place.",
+      "description_fr": "Suivez chaque offre de restauration rapide en temps réel. Découvrez des coupons en direct, des offres à durée limitée et des baisses de prix de vos chaînes de restauration rapide préférées, le tout en un seul endroit.",
+      "category": "Food & Beverage",
       "website": "https://munchmeter.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T21:34:44.902538+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T22:35:38.815326+00:00"
     },
     {
       "name": "VitaNexus",
       "slug": "polsia-vitanexus",
+      "description": "Unified health records for every member of your family, including pets.",
+      "description_fr": "Dossiers de santé unifiés pour chaque membre de votre famille, y compris les animaux de compagnie.",
+      "category": "Health & Wellness",
       "website": "https://vitanexus.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T21:34:50.324634+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T22:35:40.206632+00:00"
     },
     {
       "name": "Kyzano AI",
@@ -204218,6 +204224,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-20T21:35:10.714462+00:00"
+    },
+    {
+      "name": "DenialShield",
+      "slug": "polsia-denialshield-2",
+      "website": "https://denialshield-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T22:34:12.263029+00:00"
+    },
+    {
+      "name": "DueSight",
+      "slug": "polsia-duesight",
+      "website": "https://duesight.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T22:34:12.848173+00:00"
+    },
+    {
+      "name": "MentionMuse",
+      "slug": "polsia-mentionmuse",
+      "website": "https://mentionmuse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T22:34:23.304678+00:00"
+    },
+    {
+      "name": "BriefCraft",
+      "slug": "polsia-briefcraft-6",
+      "website": "https://briefcraft-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T22:34:28.650763+00:00"
+    },
+    {
+      "name": "TrendNestbyMauro",
+      "slug": "polsia-trendnestbymauro",
+      "description": "Trendy lifestyle products, curated for everyday living.",
+      "description_fr": "Des produits lifestyle tendance, conçus pour la vie de tous les jours.",
+      "category": "Other",
+      "website": "https://trendnestbymauro.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T22:36:07.587207+00:00"
+    },
+    {
+      "name": "Clipwise",
+      "slug": "polsia-clipwise-rzlve6",
+      "description": "Your AI financial guardian that saves you money around the clock.",
+      "description_fr": "Votre gardien financier IA qui vous permet d'économiser de l'argent 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://clipwise-rzlve6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T22:34:34.786746+00:00"
+    },
+    {
+      "name": "Snipwise",
+      "slug": "polsia-snipwise-7",
+      "description": "Transform long-form videos into viral short-form clips with AI precision.",
+      "description_fr": "Transformez des vidéos longues en clips viraux courts avec la précision de l'IA.",
+      "category": "AI & Machine Learning",
+      "website": "https://snipwise-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T22:36:08.358563+00:00"
+    },
+    {
+      "name": "AcreVue",
+      "slug": "polsia-acrevue",
+      "description": "Tech-powered land and farm brokerage in Apex, NC.",
+      "description_fr": "Courtage foncier et agricole propulsé par la technologie à Apex, Caroline du Nord.",
+      "category": "Other",
+      "website": "https://acrevue.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T22:34:41.194404+00:00"
+    },
+    {
+      "name": "TrustField",
+      "slug": "polsia-trustfield",
+      "description": "Compliance evidence workflow platform for Canadian payment service providers.",
+      "description_fr": "Plateforme de workflow de preuves de conformité pour les fournisseurs de services de paiement canadiens.",
+      "category": "Software & SaaS",
+      "website": "https://trustfield.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T22:34:42.292481+00:00"
+    },
+    {
+      "name": "Nellum",
+      "slug": "polsia-nellum",
+      "description": "Always-on AI for continuous customer intelligence.",
+      "description_fr": "Une IA toujours active pour une intelligence client continue.",
+      "category": "AI & Machine Learning",
+      "website": "https://nellum.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T22:34:43.130937+00:00"
     }
   ]
 }
