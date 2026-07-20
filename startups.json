@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T04:53:57.089873+00:00",
+  "last_updated": "2026-07-20T07:54:59.224880+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -203258,10 +203258,13 @@
     {
       "name": "ClarityArc",
       "slug": "polsia-clarityarc-2",
+      "description": "Integrated coaching for ambitious professionals — where strategy meets soul.",
+      "description_fr": "Coaching intégré pour professionnels ambitieux – où la stratégie rencontre l'âme.",
+      "category": "Education",
       "website": "https://clarityarc-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T04:51:32.890829+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T07:54:16.850215+00:00"
     },
     {
       "name": "NexusDrive",
@@ -203274,18 +203277,24 @@
     {
       "name": "Vigilix",
       "slug": "polsia-vigilix-bb3zqy",
+      "description": "Autonomous repricing agent — acts while you sleep.",
+      "description_fr": "Agent de retarification autonome — agit pendant que vous dormez.",
+      "category": "Other",
       "website": "https://vigilix-bb3zqy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T04:51:43.681609+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T07:54:18.752566+00:00"
     },
     {
       "name": "Aivora",
       "slug": "polsia-aivora-3",
+      "description": "AI-powered marketing that runs itself. Automate audience research, content creation, campaign scheduling, and analytics in one integrated workflow.",
+      "description_fr": "Un marketing basé sur l'IA qui s'exécute tout seul. Automatisez la recherche d'audience, la création de contenu, la planification de campagnes et les analyses dans un seul flux de travail intégré.",
+      "category": "Marketing & Advertising",
       "website": "https://aivora-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T04:51:49.056498+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T07:54:20.917351+00:00"
     },
     {
       "name": "LinePartner",
@@ -203352,6 +203361,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-20T04:52:17.342620+00:00"
+    },
+    {
+      "name": "WeatherWindow.AI",
+      "slug": "polsia-weatherwindowai",
+      "website": "https://weatherwindowai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T07:52:35.224895+00:00"
+    },
+    {
+      "name": "Axiom Labs",
+      "slug": "polsia-axiom-labs",
+      "description": "Africa's premier AI-native software engineering company — built to solve hard problems at scale.",
+      "description_fr": "La première société africaine d'ingénierie logicielle basée sur l'IA, conçue pour résoudre des problèmes difficiles à grande échelle.",
+      "category": "Software & SaaS",
+      "website": "https://axiom-labs.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T07:52:36.195035+00:00"
+    },
+    {
+      "name": "VigilIQ",
+      "slug": "polsia-vigiliq-ibn056",
+      "website": "https://vigiliq-ibn056.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T07:52:41.659866+00:00"
+    },
+    {
+      "name": "Ardoise",
+      "slug": "polsia-ardoise-6",
+      "website": "https://ardoise-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T07:52:52.165717+00:00"
+    },
+    {
+      "name": "Monetaflow",
+      "slug": "polsia-monetaflow-2",
+      "website": "https://monetaflow-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T07:52:57.532568+00:00"
+    },
+    {
+      "name": "PulseIQ",
+      "slug": "polsia-pulseiq-71rx33",
+      "website": "https://pulseiq-71rx33.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T07:53:02.889867+00:00"
+    },
+    {
+      "name": "Taskloop",
+      "slug": "polsia-taskloop-5",
+      "website": "https://taskloop-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T07:53:08.265877+00:00"
+    },
+    {
+      "name": "PolicyWatch AI",
+      "slug": "polsia-policywatch-ai",
+      "description": "Always-on portfolio intelligence for modern insurance brokers — monitors client policies around the clock to surface coverage gaps, exclusions, and renewal risks.",
+      "description_fr": "Des informations de portefeuille toujours disponibles pour les courtiers d'assurance modernes : surveille les polices des clients 24 heures sur 24 pour mettre en évidence les lacunes de couverture, les exclusions et les risques de renouvellement.",
+      "category": "AI & Machine Learning",
+      "website": "https://policywatch-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T07:54:59.223985+00:00"
+    },
+    {
+      "name": "Verixa",
+      "slug": "polsia-verixa-3",
+      "description": "Autonomous API reliability for AI agents in production — continuous monitoring, real-time failure detection, and intelligent self-healing remediation for the business APIs your agents depend on.",
+      "description_fr": "Fiabilité des API autonomes pour les agents IA en production : surveillance continue, détection des pannes en temps réel et correction intelligente d'auto-réparation pour les API métier dont dépendent vos agents.",
+      "category": "AI & Machine Learning",
+      "website": "https://verixa-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T07:53:15.517333+00:00"
+    },
+    {
+      "name": "Replicast",
+      "slug": "polsia-replicast-2",
+      "description": "Replicast is an AI-powered video studio that clones trending video styles. Pick a hot visual pattern, drop in your footage, and ship a 4K edit that reads the part.",
+      "description_fr": "Replicast est un studio vidéo alimenté par l'IA qui clone les styles vidéo tendances. Choisissez un motif visuel intéressant, déposez votre métrage et envoyez un montage 4K qui lit la partie.",
+      "category": "AI & Machine Learning",
+      "website": "https://replicast-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T07:53:16.474275+00:00"
     }
   ]
 }
