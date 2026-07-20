@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T16:50:41.734123+00:00",
+  "last_updated": "2026-07-20T18:48:56.490514+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -203802,34 +203802,46 @@
     {
       "name": "JC Confort VTC",
       "slug": "polsia-jc-confort-vtc",
+      "description": "Votre chauffeur de confiance à Mâcon et en Saône-et-Loire. Transferts aéroportuaires, trajets personnalisés et service premium.",
+      "description_fr": "Votre chauffeur de confiance à Mâcon et en Saône-et-Loire. Transferts aéroportuaires, déplacements personnalisés et service premium.",
+      "category": "Other",
       "website": "https://jc-confort-vtc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T16:47:37.837675+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T18:47:40.316615+00:00"
     },
     {
       "name": "Adelix",
       "slug": "polsia-adelix",
+      "description": "Performance-priced creative automation for brands that scale fast.",
+      "description_fr": "Automatisation créative à prix performant pour les marques qui évoluent rapidement.",
+      "category": "Marketing & Advertising",
       "website": "https://adelix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T16:47:43.363782+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T18:47:41.620319+00:00"
     },
     {
       "name": "TestPulse",
       "slug": "polsia-testpulse-5",
+      "description": "Autonomous AI testing that never sleeps, self-heals, and delivers.",
+      "description_fr": "Tests d'IA autonomes qui ne dorment jamais, ne s'auto-réparent pas et ne fonctionnent pas.",
+      "category": "AI & Machine Learning",
       "website": "https://testpulse-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T16:47:48.889795+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T18:47:42.989348+00:00"
     },
     {
       "name": "Repwise",
       "slug": "polsia-repwise-10",
+      "description": "AI-powered brand monitoring for professionals. Track your reputation across social platforms, job boards, news sites, and AI search engines.",
+      "description_fr": "Surveillance de marque basée sur l'IA pour les professionnels. Suivez votre réputation sur les plateformes sociales, les sites d'emploi, les sites d'actualités et les moteurs de recherche IA.",
+      "category": "AI & Machine Learning",
       "website": "https://repwise-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T16:47:59.439977+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T18:47:44.638937+00:00"
     },
     {
       "name": "Verinax",
@@ -203842,26 +203854,35 @@
     {
       "name": "VectorNexus",
       "slug": "polsia-vectornexus",
+      "description": "Tactical AI mesh computing without borders. Field-deployable rugged computing systems with onboard AI, ATAK server, and Meshtastic LoRa mesh.",
+      "description_fr": "Informatique maillée IA tactique sans frontières. Systèmes informatiques robustes déployables sur le terrain avec IA intégrée, serveur ATAK et maillage Meshtastic LoRa.",
+      "category": "AI & Machine Learning",
       "website": "https://vectornexus.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T16:48:10.709871+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T18:47:48.496430+00:00"
     },
     {
       "name": "VigilanceAI",
       "slug": "polsia-vigilanceai-8",
+      "description": "Autonomous SOC intelligence that never sleeps.",
+      "description_fr": "Une intelligence SOC autonome qui ne dort jamais.",
+      "category": "AI & Machine Learning",
       "website": "https://vigilanceai-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T16:48:21.199850+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T18:47:50.625114+00:00"
     },
     {
       "name": "Tecfin",
       "slug": "polsia-tecfin",
+      "description": "Automotora premium de vehículos usados y seminuevos en Santiago. Compra, venta, financiamiento y consignación de alta gama.",
+      "description_fr": "Automotora premium de vehículos usados ​​y seminuevos à Santiago. Achat, vente, financement et envoi de haute gamme.",
+      "category": "Other",
       "website": "https://tecfin.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T16:48:26.573594+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T18:47:51.927609+00:00"
     },
     {
       "name": "Snapdrop",
@@ -203873,6 +203894,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-20T16:50:41.733237+00:00"
+    },
+    {
+      "name": "Paleta Books",
+      "slug": "polsia-paleta-books",
+      "website": "https://paleta-books.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T18:45:45.043999+00:00"
+    },
+    {
+      "name": "Turbina IA",
+      "slug": "polsia-turbina-ia",
+      "website": "https://turbina-ia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T18:45:50.420032+00:00"
+    },
+    {
+      "name": "Lexive",
+      "slug": "polsia-lexive",
+      "website": "https://lexive.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T18:45:55.844586+00:00"
+    },
+    {
+      "name": "Silo",
+      "slug": "polsia-silo-5",
+      "website": "https://silo-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T18:46:06.290889+00:00"
+    },
+    {
+      "name": "WedPilot",
+      "slug": "polsia-wedpilot",
+      "website": "https://wedpilot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T18:46:11.712400+00:00"
+    },
+    {
+      "name": "Favre",
+      "slug": "polsia-favre",
+      "website": "https://favre.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T18:46:22.162740+00:00"
+    },
+    {
+      "name": "Syntellix",
+      "slug": "polsia-syntellix",
+      "website": "https://syntellix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T18:46:27.588893+00:00"
+    },
+    {
+      "name": "ClauseFlow",
+      "slug": "polsia-clauseflow-9",
+      "website": "https://clauseflow-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T18:46:32.960892+00:00"
+    },
+    {
+      "name": "Cratica",
+      "slug": "polsia-cratica",
+      "website": "https://cratica.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T18:46:38.505157+00:00"
+    },
+    {
+      "name": "AxionCyber",
+      "slug": "polsia-axioncyber",
+      "website": "https://axioncyber.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T18:46:43.880898+00:00"
     }
   ]
 }
