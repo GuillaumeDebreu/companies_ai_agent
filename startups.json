@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T09:15:35.764163+00:00",
+  "last_updated": "2026-07-20T10:48:50.262510+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -203365,10 +203365,13 @@
     {
       "name": "WeatherWindow.AI",
       "slug": "polsia-weatherwindowai",
+      "description": "AI-powered weather intelligence for the next generation of forecasting — hyper-accurate predictions for aviation, energy, agriculture, and logistics.",
+      "description_fr": "Intelligence météorologique basée sur l'IA pour la prochaine génération de prévisions : des prévisions hyper précises pour l'aviation, l'énergie, l'agriculture et la logistique.",
+      "category": "AI & Machine Learning",
       "website": "https://weatherwindowai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T07:52:35.224895+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T10:47:59.732219+00:00"
     },
     {
       "name": "Axiom Labs",
@@ -203384,42 +203387,57 @@
     {
       "name": "VigilIQ",
       "slug": "polsia-vigiliq-ibn056",
+      "description": "AI-powered incident response from detection to resolution — continuous uptime monitoring, anomaly prediction, and autonomous ticket routing for DevOps and SRE teams.",
+      "description_fr": "Réponse aux incidents basée sur l'IA, de la détection à la résolution : surveillance continue de la disponibilité, prédiction des anomalies et routage autonome des tickets pour les équipes DevOps et SRE.",
+      "category": "AI & Machine Learning",
       "website": "https://vigiliq-ibn056.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T07:52:41.659866+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T10:48:00.530371+00:00"
     },
     {
       "name": "Ardoise",
       "slug": "polsia-ardoise-6",
+      "description": "Ardoise — la formation professionnelle dopée à l'IA, ancrée dans le réel. Parcours personnalisés et contextualisés grâce à la méthodologie ASPECT™.",
+      "description_fr": "Ardoise — la formation professionnelle dopée à l'IA, ancrée dans le réel. Parcours personnalisé et contextualisé grâce à la méthodologie ASPECT™.",
+      "category": "Other",
       "website": "https://ardoise-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T07:52:52.165717+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T10:48:01.868278+00:00"
     },
     {
       "name": "Monetaflow",
       "slug": "polsia-monetaflow-2",
+      "description": "AI-powered invoice reconciliation for independent freelancers working across Upwork, Fiverr, and Toptal — one dashboard for every payment, zero manual bookkeeping.",
+      "description_fr": "Rapprochement des factures basé sur l'IA pour les indépendants travaillant sur Upwork, Fiverr et Toptal : un tableau de bord pour chaque paiement, aucune comptabilité manuelle.",
+      "category": "Finance & Fintech",
       "website": "https://monetaflow-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T07:52:57.532568+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T10:48:03.928917+00:00"
     },
     {
       "name": "PulseIQ",
       "slug": "polsia-pulseiq-71rx33",
+      "description": "PulseIQ is an autonomous AI agent that watches competitor pricing, launches, and promotions in real time — alerting retail and e-commerce teams the moment a change matters.",
+      "description_fr": "PulseIQ est un agent d'IA autonome qui surveille les prix, les lancements et les promotions des concurrents en temps réel, alertant ainsi les équipes de vente au détail et de commerce électronique dès qu'un changement est important.",
+      "category": "AI & Machine Learning",
       "website": "https://pulseiq-71rx33.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T07:53:02.889867+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T10:48:06.066208+00:00"
     },
     {
       "name": "Taskloop",
       "slug": "polsia-taskloop-5",
+      "description": "Your AI co-pilot for tracking personal projects. Taskloop silently watches your work, catches stalls before they derail you, and ships progress updates on schedule.",
+      "description_fr": "Votre co-pilote IA pour le suivi des projets personnels. Taskloop surveille silencieusement votre travail, détecte les blocages avant qu'ils ne vous fassent dérailler et envoie des mises à jour de progression dans les délais.",
+      "category": "AI & Machine Learning",
       "website": "https://taskloop-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T07:53:08.265877+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T10:48:07.686286+00:00"
     },
     {
       "name": "PolicyWatch AI",
@@ -203453,6 +203471,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-20T07:53:16.474275+00:00"
+    },
+    {
+      "name": "GrantPulse",
+      "slug": "polsia-grantpulse-m7lb94",
+      "website": "https://grantpulse-m7lb94.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T10:46:14.162623+00:00"
+    },
+    {
+      "name": "EVSync",
+      "slug": "polsia-evsync",
+      "website": "https://evsync.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T10:46:19.539769+00:00"
+    },
+    {
+      "name": "Maison Cacao",
+      "slug": "polsia-maison-cacao",
+      "website": "https://maison-cacao.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T10:46:24.854418+00:00"
+    },
+    {
+      "name": "ScaleStack",
+      "slug": "polsia-scalestack-3plyi2",
+      "website": "https://scalestack-3plyi2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T10:46:30.286533+00:00"
+    },
+    {
+      "name": "SecureByDesignK12",
+      "slug": "polsia-securebydesignk12",
+      "website": "https://securebydesignk12.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T10:46:35.647452+00:00"
+    },
+    {
+      "name": "Honei",
+      "slug": "polsia-honei",
+      "website": "https://honei.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T10:46:41.056528+00:00"
+    },
+    {
+      "name": "StarPulse",
+      "slug": "polsia-starpulse-2",
+      "website": "https://starpulse-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T10:46:46.254371+00:00"
+    },
+    {
+      "name": "Merkado Maubere",
+      "slug": "polsia-merkado-maubere-2",
+      "website": "https://merkado-maubere-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T10:46:51.737548+00:00"
+    },
+    {
+      "name": "Kadorada",
+      "slug": "polsia-kadorada",
+      "description": "Ne manquez plus jamais une bonne affaire sur vos cartes à collectionner. Kadorada surveille eBay, Vinted et Leboncoin pour les collectionneurs Pokémon, One Piece et Yu-Gi-Oh!.",
+      "description_fr": "Ne manquez plus jamais une bonne affaire sur vos cartes à collectionner. Kadorada surveille eBay, Vinted et Leboncoin pour les collectionneurs Pokémon, One Piece et Yu-Gi-Oh!.",
+      "category": "E-Commerce & Retail",
+      "website": "https://kadorada.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T10:46:53.262439+00:00"
+    },
+    {
+      "name": "AutoSiteForge",
+      "slug": "polsia-autositeforge",
+      "description": "AutoSiteForge is the autonomous AI that builds, hosts, and continuously updates turnkey websites for car dealerships and auto repair shops — no technical staff required.",
+      "description_fr": "AutoSiteForge est l'IA autonome qui crée, héberge et met à jour en permanence des sites Web clé en main pour les concessionnaires automobiles et les ateliers de réparation automobile — aucun personnel technique n'est requis.",
+      "category": "AI & Machine Learning",
+      "website": "https://autositeforge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T10:46:54.574510+00:00"
     }
   ]
 }
