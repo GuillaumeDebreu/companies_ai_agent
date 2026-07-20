@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T20:15:15.851644+00:00",
+  "last_updated": "2026-07-20T21:36:24.056959+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -204008,26 +204008,35 @@
     {
       "name": "SitePilot",
       "slug": "polsia-sitepilot-tfjsgj",
+      "description": "The autonomous AI command center for WordPress and WooCommerce — runs your sites 24/7 without you.",
+      "description_fr": "Le centre de commande IA autonome pour WordPress et WooCommerce — gère vos sites 24h/24 et 7j/7 sans vous.",
+      "category": "AI & Machine Learning",
       "website": "https://sitepilot-tfjsgj.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T20:13:20.434351+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T21:36:07.375326+00:00"
     },
     {
       "name": "Glassara",
       "slug": "polsia-glassara",
+      "description": "AI-powered glass bangles, matched to your outfit.",
+      "description_fr": "Des bracelets en verre alimentés par l'IA, assortis à votre tenue.",
+      "category": "AI & Machine Learning",
       "website": "https://glassara.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T20:13:26.054651+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T21:36:08.549513+00:00"
     },
     {
       "name": "Castsync",
       "slug": "polsia-castsync-2",
+      "description": "Autonomous AI matching talent to roles around the clock.",
+      "description_fr": "Une IA autonome qui adapte les talents aux rôles 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://castsync-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T20:13:31.462715+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T21:36:09.752205+00:00"
     },
     {
       "name": "ReceptionIQ",
@@ -204076,10 +204085,13 @@
     {
       "name": "NicheVita",
       "slug": "polsia-nichevita",
+      "description": "Hyper-specialized wellness coaching for the goals generalists can't reach.",
+      "description_fr": "Coaching bien-être hyper-spécialisé pour les objectifs que les généralistes ne peuvent pas atteindre.",
+      "category": "Education",
       "website": "https://nichevita.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T20:13:44.971966+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T21:36:10.788957+00:00"
     },
     {
       "name": "Axiom",
@@ -204102,6 +204114,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-20T20:13:47.401213+00:00"
+    },
+    {
+      "name": "MunchMeter",
+      "slug": "polsia-munchmeter",
+      "website": "https://munchmeter.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T21:34:44.902538+00:00"
+    },
+    {
+      "name": "VitaNexus",
+      "slug": "polsia-vitanexus",
+      "website": "https://vitanexus.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T21:34:50.324634+00:00"
+    },
+    {
+      "name": "Kyzano AI",
+      "slug": "polsia-kyzano-ai",
+      "description": "The operating system for the future of business.",
+      "description_fr": "Le système d'exploitation pour l'avenir de l'entreprise.",
+      "category": "AI & Machine Learning",
+      "website": "https://kyzano-ai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T21:36:22.923686+00:00"
+    },
+    {
+      "name": "newsbrd",
+      "slug": "polsia-newsbrd",
+      "description": "Nachrichten verstehen, ohne Zeit zu verlieren.",
+      "description_fr": "Nachrichten verstehen, ohne Zeit zu verlieren.",
+      "category": "Other",
+      "website": "https://newsbrd.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T21:36:24.055223+00:00"
+    },
+    {
+      "name": "LocalLift AI",
+      "slug": "polsia-locallift-ai-u1htlv",
+      "description": "Turn missed calls into booked appointments — on autopilot. AI receptionists for local service businesses.",
+      "description_fr": "Transformez les appels manqués en rendez-vous réservés, sur pilote automatique. Réceptionnistes IA pour les entreprises de services locaux.",
+      "category": "AI & Machine Learning",
+      "website": "https://locallift-ai-u1htlv.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T21:35:03.074798+00:00"
+    },
+    {
+      "name": "PermaTherm Industries",
+      "slug": "polsia-permatherm-industries",
+      "description": "Engineered for the extreme, built to last. High-performance cold weather apparel for professionals in the harshest environments.",
+      "description_fr": "Conçu pour l'extrême, construit pour durer. Des vêtements performants pour temps froid pour les professionnels évoluant dans les environnements les plus difficiles.",
+      "category": "Sustainability & Green",
+      "website": "https://permatherm-industries.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T21:35:04.924967+00:00"
+    },
+    {
+      "name": "KonkuPulse",
+      "slug": "polsia-konkupulse",
+      "description": "AI agent koji prati cene konkurenata 24/7 i automatski ažurira cene u vašoj internet prodavnici.",
+      "description_fr": "L'agent IA fonctionne 24h/24 et 7j/7 et vous assure automatiquement une production Internet.",
+      "category": "AI & Machine Learning",
+      "website": "https://konkupulse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T21:35:06.134204+00:00"
+    },
+    {
+      "name": "Studioforge",
+      "slug": "polsia-studioforge-8",
+      "description": "24/7 autonomous AI design studio on autopilot.",
+      "description_fr": "Studio de conception d'IA autonome 24h/24 et 7j/7 sur pilote automatique.",
+      "category": "AI & Machine Learning",
+      "website": "https://studioforge-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T21:35:07.332699+00:00"
+    },
+    {
+      "name": "Veriforge",
+      "slug": "polsia-veriforge-3",
+      "description": "AI code review that deploys only when your quality thresholds pass.",
+      "description_fr": "Révision du code IA qui se déploie uniquement lorsque vos seuils de qualité dépassent.",
+      "category": "AI & Machine Learning",
+      "website": "https://veriforge-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T21:35:08.690037+00:00"
+    },
+    {
+      "name": "WorthSync",
+      "slug": "polsia-worthsync",
+      "description": "Track your net worth with snapshots and household collaboration.",
+      "description_fr": "Suivez votre valeur nette avec des instantanés et la collaboration domestique.",
+      "category": "Other",
+      "website": "https://worthsync.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T21:35:10.714462+00:00"
     }
   ]
 }
