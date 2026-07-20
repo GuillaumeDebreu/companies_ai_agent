@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T22:36:08.359257+00:00",
+  "last_updated": "2026-07-20T23:38:19.705616+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -204228,34 +204228,46 @@
     {
       "name": "DenialShield",
       "slug": "polsia-denialshield-2",
+      "description": "Stop denials before they happen — preflight checks for prior authorization at independent specialty clinics.",
+      "description_fr": "Arrêtez les refus avant qu'ils ne se produisent : contrôles préalables pour obtenir une autorisation préalable dans des cliniques spécialisées indépendantes.",
+      "category": "Health & Wellness",
       "website": "https://denialshield-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T22:34:12.263029+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T23:37:42.970794+00:00"
     },
     {
       "name": "DueSight",
       "slug": "polsia-duesight",
+      "description": "Agent d IA qui automatise la due diligence des startups. Analyses professionnelles à 200-1000€ par rapport.",
+      "description_fr": "Agent d IA qui automatise la due diligence des startups. Analyses professionnelles à 200-1000€ par rapport.",
+      "category": "Other",
       "website": "https://duesight.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T22:34:12.848173+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T23:37:44.645110+00:00"
     },
     {
       "name": "MentionMuse",
       "slug": "polsia-mentionmuse",
+      "description": "Your AI brand guardian, working round the clock.",
+      "description_fr": "Votre gardien de marque IA, travaillant 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://mentionmuse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T22:34:23.304678+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T23:37:45.973910+00:00"
     },
     {
       "name": "BriefCraft",
       "slug": "polsia-briefcraft-6",
+      "description": "Turn agency intake into winning proposals in minutes.",
+      "description_fr": "Transformez les demandes d'agence en propositions gagnantes en quelques minutes.",
+      "category": "Consulting & Services",
       "website": "https://briefcraft-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T22:34:28.650763+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-20T23:37:47.142441+00:00"
     },
     {
       "name": "TrendNestbyMauro",
@@ -204322,6 +204334,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-20T22:34:43.130937+00:00"
+    },
+    {
+      "name": "Dialect",
+      "slug": "polsia-dialect",
+      "website": "https://dialect.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T23:36:12.430336+00:00"
+    },
+    {
+      "name": "AgentChief",
+      "slug": "polsia-agentchief",
+      "website": "https://agentchief.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T23:36:17.851194+00:00"
+    },
+    {
+      "name": "3DPrinting.com",
+      "slug": "polsia-3dprintingcom",
+      "website": "https://3dprintingcom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T23:36:23.380544+00:00"
+    },
+    {
+      "name": "Nexara",
+      "slug": "polsia-nexara-nppeji",
+      "description": "Practical AI deployment built for growing businesses.",
+      "description_fr": "Déploiement pratique de l'IA conçu pour les entreprises en croissance.",
+      "category": "AI & Machine Learning",
+      "website": "https://nexara-nppeji.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T23:38:04.169764+00:00"
+    },
+    {
+      "name": "Relay.io",
+      "slug": "polsia-relayio",
+      "website": "https://relayio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T23:36:34.208276+00:00"
+    },
+    {
+      "name": "ScoutIQ",
+      "slug": "polsia-scoutiq-esquar",
+      "description": "AI-powered competitor monitoring that never sleeps.",
+      "description_fr": "Surveillance des concurrents basée sur l'IA qui ne dort jamais.",
+      "category": "AI & Machine Learning",
+      "website": "https://scoutiq-esquar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T23:36:35.488316+00:00"
+    },
+    {
+      "name": "AgentGrid",
+      "slug": "polsia-agentgrid-4",
+      "description": "The on-demand marketplace for autonomous AI agents. Discover, hire, and manage specialized agents ranked by verified performance.",
+      "description_fr": "Le marché à la demande pour les agents d'IA autonomes. Découvrez, embauchez et gérez des agents spécialisés classés selon leurs performances vérifiées.",
+      "category": "AI & Machine Learning",
+      "website": "https://agentgrid-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T23:36:36.976860+00:00"
+    },
+    {
+      "name": "GrabHawk",
+      "slug": "polsia-grabhawk",
+      "description": "AI-powered deal-hunting agent that scans hundreds of marketplaces, flags underpriced listings in real time, and can automatically place orders before competitors see the opportunity.",
+      "description_fr": "Agent de recherche d'offres alimenté par l'IA qui analyse des centaines de marchés, signale les annonces sous-évaluées en temps réel et peut automatiquement passer des commandes avant que les concurrents ne voient l'opportunité.",
+      "category": "AI & Machine Learning",
+      "website": "https://grabhawk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T23:36:38.476382+00:00"
+    },
+    {
+      "name": "YHWH House of Glory",
+      "slug": "polsia-yhwh-house-of-glory",
+      "website": "https://yhwh-house-of-glory.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-20T23:36:48.825281+00:00"
+    },
+    {
+      "name": "Causely",
+      "slug": "polsia-causely",
+      "description": "AI agent failure investigation and root cause analysis, made actionable.",
+      "description_fr": "Enquête sur les pannes d’agents d’IA et analyse des causes profondes rendues exploitables.",
+      "category": "AI & Machine Learning",
+      "website": "https://causely.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-20T23:36:49.478823+00:00"
     }
   ]
 }
