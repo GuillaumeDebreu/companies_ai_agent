@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T22:00:43.455634+00:00",
+  "last_updated": "2026-07-21T23:07:48.050339+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -205631,50 +205631,68 @@
     {
       "name": "MerchPulse",
       "slug": "polsia-merchpulse-2",
+      "description": "Always-on AI for WhatsApp-first merchants. Auto-replies to buyers, flags low stock before sell-outs, and sends a single daily digest every evening.",
+      "description_fr": "IA toujours active pour les commerçants qui privilégient WhatsApp. Répond automatiquement aux acheteurs, signale les stocks faibles avant les ruptures de stock et envoie un seul résumé quotidien chaque soir.",
+      "category": "AI & Machine Learning",
       "website": "https://merchpulse-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T21:58:38.907463+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T23:06:49.235729+00:00"
     },
     {
       "name": "Outlaw VR",
       "slug": "polsia-outlaw-vr-3",
+      "description": "Family-friendly virtual reality gaming and immersive entertainment in Tioga, North Dakota.",
+      "description_fr": "Jeux de réalité virtuelle et divertissement immersif pour toute la famille à Tioga, Dakota du Nord.",
+      "category": "Entertainment & Media",
       "website": "https://outlaw-vr-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T21:58:44.412924+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T23:06:51.017993+00:00"
     },
     {
       "name": "TexaWatch",
       "slug": "polsia-texawatch",
+      "description": "Know before the vote — real-time civic alerts for Texas residents, investors, and small businesses.",
+      "description_fr": "Informez-vous avant le vote : alertes civiques en temps réel pour les résidents, les investisseurs et les petites entreprises du Texas.",
+      "category": "Other",
       "website": "https://texawatch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T21:58:49.749232+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T23:06:52.181342+00:00"
     },
     {
       "name": "Cadencore",
       "slug": "polsia-cadencore",
+      "description": "Cadencore is the evidence-grounded, AI-native career operating system built around your verifiable record of work — projects, outcomes, references, and decision history — used to inform target-role selection, application strategy, interview positioning, and offer evaluation over time.",
+      "description_fr": "Cadencore est le système d'exploitation de carrière fondé sur des preuves et natif de l'IA, construit autour de votre historique de travail vérifiable (projets, résultats, références et historique des décisions) utilisé pour éclairer la sélection du rôle cible, la stratégie de candidature, le positionnement des entretiens et l'évaluation des offres au fil du temps.",
+      "category": "AI & Machine Learning",
       "website": "https://cadencore.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T21:58:55.063960+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T23:06:53.124254+00:00"
     },
     {
       "name": "Aevra",
       "slug": "polsia-aevra",
+      "description": "One character. One funnel. Recurring revenue. The creator studio for launching and scaling an AI-generated virtual persona as a monetizable social brand.",
+      "description_fr": "Un personnage. Un entonnoir. Revenus récurrents. Le studio de création pour lancer et faire évoluer un personnage virtuel généré par l'IA en tant que marque sociale monétisable.",
+      "category": "AI & Machine Learning",
       "website": "https://aevra.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T21:59:00.486032+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T23:06:54.832507+00:00"
     },
     {
       "name": "Taloncrest Slateworks",
       "slug": "polsia-taloncrest-slateworks",
+      "description": "Hand-etched slate coasters crowned by the American eagle.",
+      "description_fr": "Sous-verres en ardoise gravés à la main et couronnés de l'aigle américain.",
+      "category": "Other",
       "website": "https://taloncrest-slateworks.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T21:59:05.916672+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T23:06:56.186476+00:00"
     },
     {
       "name": "Fleetwise Treasury",
@@ -205690,10 +205708,13 @@
     {
       "name": "Cuebreak",
       "slug": "polsia-cuebreak",
+      "description": "Cuebreak is the tireless AI casting desk built for indie film — monitoring Actors Access, Casting Networks, and Backstage 24/7, ranking every submission against your brief.",
+      "description_fr": "Cuebreak est l'infatigable bureau de casting IA conçu pour les films indépendants - surveillant l'accès des acteurs, les réseaux de casting et les coulisses 24h/24 et 7j/7, classant chaque soumission par rapport à votre brief.",
+      "category": "AI & Machine Learning",
       "website": "https://cuebreak.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T21:59:12.298256+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T23:06:57.839939+00:00"
     },
     {
       "name": "Truck-Kicker",
@@ -205713,6 +205734,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-21T21:59:13.891695+00:00"
+    },
+    {
+      "name": "VigilEarth",
+      "slug": "polsia-vigilearth",
+      "website": "https://vigilearth.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T23:05:10.094310+00:00"
+    },
+    {
+      "name": "DelegateHQ",
+      "slug": "polsia-delegatehq-3",
+      "website": "https://delegatehq-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T23:05:15.732662+00:00"
+    },
+    {
+      "name": "CebuVA",
+      "slug": "polsia-cebuva",
+      "website": "https://cebuva.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T23:05:21.365271+00:00"
+    },
+    {
+      "name": "Mesori",
+      "slug": "polsia-mesori",
+      "website": "https://mesori.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T23:05:26.786750+00:00"
+    },
+    {
+      "name": "Curry & Pizza Erbach",
+      "slug": "polsia-curry-pizza-erbach",
+      "website": "https://curry-pizza-erbach.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T23:05:32.164286+00:00"
+    },
+    {
+      "name": "Chainomics",
+      "slug": "polsia-chainomics",
+      "description": "Faster freight decisions with AI-powered intelligence — agents monitor 30+ freight signals to score risk and predict disruption before it costs you margin.",
+      "description_fr": "Décisions de fret plus rapides grâce à l'intelligence basée sur l'IA : les agents surveillent plus de 30 signaux de fret pour évaluer les risques et prédire les perturbations avant qu'elles ne vous coûtent de la marge.",
+      "category": "AI & Machine Learning",
+      "website": "https://chainomics.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T23:07:26.406329+00:00"
+    },
+    {
+      "name": "PantryPilot",
+      "slug": "polsia-pantrypilot-4",
+      "website": "https://pantrypilot-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T23:05:48.199262+00:00"
+    },
+    {
+      "name": "Skopos Advisory",
+      "slug": "polsia-skopos-advisory",
+      "website": "https://skopos-advisory.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T23:05:53.841950+00:00"
+    },
+    {
+      "name": "Overfleet",
+      "slug": "polsia-overfleet",
+      "description": "The 24/7 AI crew for small manufacturers. Predictive maintenance, RFQ quoting, defect detection, and after-hours booking for CNC and welding job shops.",
+      "description_fr": "L'équipe IA 24h/24 et 7j/7 pour les petits fabricants. Maintenance prédictive, devis RFQ, détection de défauts et réservation en dehors des heures normales pour les ateliers de CNC et de soudage.",
+      "category": "AI & Machine Learning",
+      "website": "https://overfleet.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T23:05:55.315606+00:00"
+    },
+    {
+      "name": "PlacedRight",
+      "slug": "polsia-placedright",
+      "website": "https://placedright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T23:06:05.651056+00:00"
     }
   ]
 }
