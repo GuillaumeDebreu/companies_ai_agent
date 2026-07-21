@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T23:38:19.705616+00:00",
+  "last_updated": "2026-07-21T01:08:04.128343+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -204338,26 +204338,35 @@
     {
       "name": "Dialect",
       "slug": "polsia-dialect",
+      "description": "Real experience, not medical advice. A peer-led diabetes community built on 16+ years of lived experience.",
+      "description_fr": "Une véritable expérience, pas un avis médical. Une communauté du diabète dirigée par les pairs, fondée sur plus de 16 ans d'expérience vécue.",
+      "category": "Health & Wellness",
       "website": "https://dialect.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T23:36:12.430336+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T01:07:05.353302+00:00"
     },
     {
       "name": "AgentChief",
       "slug": "polsia-agentchief",
+      "description": "Premium AI executive agents for local businesses that close deals and automate operations.",
+      "description_fr": "Agents exécutifs IA premium pour les entreprises locales qui concluent des transactions et automatisent leurs opérations.",
+      "category": "AI & Machine Learning",
       "website": "https://agentchief.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T23:36:17.851194+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T01:07:06.516495+00:00"
     },
     {
-      "name": "3DPrinting.com",
+      "name": "Joe's Custom Creations 3D Printing",
       "slug": "polsia-3dprintingcom",
+      "description": "Design • Create • Innovate",
+      "description_fr": "Concevoir • Créer • Innover",
+      "category": "Other",
       "website": "https://3dprintingcom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T23:36:23.380544+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T01:07:08.231947+00:00"
     },
     {
       "name": "Nexara",
@@ -204373,10 +204382,13 @@
     {
       "name": "Relay.io",
       "slug": "polsia-relayio",
+      "description": "Autonomous AI that never misses a deadline.",
+      "description_fr": "Une IA autonome qui ne manque jamais une échéance.",
+      "category": "AI & Machine Learning",
       "website": "https://relayio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T23:36:34.208276+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T01:07:09.213950+00:00"
     },
     {
       "name": "ScoutIQ",
@@ -204414,10 +204426,13 @@
     {
       "name": "YHWH House of Glory",
       "slug": "polsia-yhwh-house-of-glory",
+      "description": "A growing faith community with in-person and online ministries.",
+      "description_fr": "Une communauté religieuse en pleine croissance avec des ministères en personne et en ligne.",
+      "category": "Social & Community",
       "website": "https://yhwh-house-of-glory.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-20T23:36:48.825281+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T01:07:10.402616+00:00"
     },
     {
       "name": "Causely",
@@ -204429,6 +204444,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-20T23:36:49.478823+00:00"
+    },
+    {
+      "name": "Enjoy Life Junk Removal",
+      "slug": "polsia-enjoy-life-junk-removal",
+      "website": "https://enjoy-life-junk-removal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T01:05:27.959411+00:00"
+    },
+    {
+      "name": "ScentVault",
+      "slug": "polsia-scentvault-3",
+      "website": "https://scentvault-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T01:05:33.337458+00:00"
+    },
+    {
+      "name": "HeroFete",
+      "slug": "polsia-herofete",
+      "website": "https://herofete.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T01:05:38.647307+00:00"
+    },
+    {
+      "name": "Nexagas",
+      "slug": "polsia-nexagas",
+      "website": "https://nexagas.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T01:05:39.136997+00:00"
+    },
+    {
+      "name": "Reactor",
+      "slug": "polsia-reactor-2",
+      "website": "https://reactor-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T01:05:39.502753+00:00"
+    },
+    {
+      "name": "Clareos",
+      "slug": "polsia-clareos",
+      "website": "https://clareos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T01:05:49.741208+00:00"
+    },
+    {
+      "name": "Quiq",
+      "slug": "polsia-quiq",
+      "website": "https://quiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T01:06:00.237058+00:00"
+    },
+    {
+      "name": "MedOps AI",
+      "slug": "polsia-medops-ai-5",
+      "website": "https://medops-ai-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T01:06:05.575451+00:00"
+    },
+    {
+      "name": "MarginMind",
+      "slug": "polsia-marginmind-67p6m1",
+      "description": "Autonomous AI repricing that runs while you sleep.",
+      "description_fr": "Retarification autonome de l'IA qui s'exécute pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://marginmind-67p6m1.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T01:08:04.127641+00:00"
+    },
+    {
+      "name": "PostNest",
+      "slug": "polsia-postnest-2",
+      "description": "Quality listings. One low fee.",
+      "description_fr": "Annonces de qualité. Un tarif peu élevé.",
+      "category": "Other",
+      "website": "https://postnest-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T01:06:12.085843+00:00"
     }
   ]
 }
