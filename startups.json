@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T19:24:17.036874+00:00",
+  "last_updated": "2026-07-21T19:47:10.172791+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -205313,26 +205313,35 @@
     {
       "name": "Loomstack AI",
       "slug": "polsia-loomstack-ai",
+      "description": "AI-powered automation for sales, support, and operations. Boutique agency designing, integrating, and maintaining end-to-end AI workflows on GoHighLevel, Make, n8n, and modern LLMs — for SMBs that want outcomes, not licenses.",
+      "description_fr": "Automatisation basée sur l'IA pour les ventes, le support et les opérations. Agence boutique qui conçoit, intègre et maintient des flux de travail d'IA de bout en bout sur GoHighLevel, Make, n8n et les LLM modernes – pour les PME qui veulent des résultats, pas des licences.",
+      "category": "AI & Machine Learning",
       "website": "https://loomstack-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T18:00:25.424804+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T19:46:01.530162+00:00"
     },
     {
       "name": "Trovee",
       "slug": "polsia-trovee",
+      "description": "Where life becomes legacy.",
+      "description_fr": "Où la vie devient un héritage.",
+      "category": "Sustainability & Green",
       "website": "https://trovee.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T18:00:25.966454+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T19:46:02.976436+00:00"
     },
     {
       "name": "Apexweave",
       "slug": "polsia-apexweave",
+      "description": "Station-aware AI agents that monitor and orchestrate every station on tier-1 automotive roof assembly lines — 24/7 defect detection, predictive maintenance, and audit-ready traceability.",
+      "description_fr": "Agents d'IA sensibles aux stations qui surveillent et orchestrent chaque station sur les chaînes d'assemblage de toits automobiles de niveau 1 : détection des défauts 24h/24 et 7j/7, maintenance prédictive et traçabilité prête pour l'audit.",
+      "category": "AI & Machine Learning",
       "website": "https://apexweave.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T18:00:26.485103+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T19:46:04.873220+00:00"
     },
     {
       "name": "Postward",
@@ -205345,10 +205354,13 @@
     {
       "name": "Argosync",
       "slug": "polsia-argosync",
+      "description": "Always-on AI security operations for multi-site businesses. Autonomous agents triage, verify, and dispatch on every alert.",
+      "description_fr": "Opérations de sécurité IA permanentes pour les entreprises multi-sites. Des agents autonomes trient, vérifient et répartissent chaque alerte.",
+      "category": "AI & Machine Learning",
       "website": "https://argosync.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T18:00:27.500165+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T19:46:10.850292+00:00"
     },
     {
       "name": "IronMind Co",
@@ -205369,18 +205381,24 @@
     {
       "name": "Vantora",
       "slug": "polsia-vantora-5",
+      "description": "An always-on AI studio that runs your brand website end-to-end.",
+      "description_fr": "Un studio d'IA toujours actif qui gère le site Web de votre marque de bout en bout.",
+      "category": "AI & Machine Learning",
       "website": "https://vantora-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T18:00:43.700651+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T19:46:17.496572+00:00"
     },
     {
       "name": "STAYNE",
       "slug": "polsia-stayne",
+      "description": "Streetwear built to stay.",
+      "description_fr": "Un streetwear conçu pour rester.",
+      "category": "Other",
       "website": "https://stayne.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T18:00:49.338870+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T19:46:19.323276+00:00"
     },
     {
       "name": "Fileslate",
@@ -205389,6 +205407,92 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-07-21T18:00:54.654407+00:00"
+    },
+    {
+      "name": "Stefan Holt",
+      "slug": "polsia-stefan-holt",
+      "website": "https://stefan-holt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T19:44:55.923981+00:00"
+    },
+    {
+      "name": "Opsight",
+      "slug": "polsia-opsight-3",
+      "website": "https://opsight-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T19:44:56.416034+00:00"
+    },
+    {
+      "name": "Sublume",
+      "slug": "polsia-sublume",
+      "website": "https://sublume.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T19:44:56.969251+00:00"
+    },
+    {
+      "name": "Compliant.ly",
+      "slug": "polsia-compliantly-3",
+      "website": "https://compliantly-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T19:45:02.337448+00:00"
+    },
+    {
+      "name": "Verbia",
+      "slug": "polsia-verbia-2",
+      "website": "https://verbia-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T19:45:07.713188+00:00"
+    },
+    {
+      "name": "Threadwise",
+      "slug": "polsia-threadwise-3",
+      "website": "https://threadwise-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T19:45:13.195223+00:00"
+    },
+    {
+      "name": "Helmsway",
+      "slug": "polsia-helmsway-2",
+      "description": "Turn expertise into high-ticket calls and retainers.",
+      "description_fr": "Transformez votre expertise en appels et en mandats coûteux.",
+      "category": "Other",
+      "website": "https://helmsway-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T19:46:57.943147+00:00"
+    },
+    {
+      "name": "Pilothaus",
+      "slug": "polsia-pilothaus",
+      "description": "Autonomous AI co-host that runs your short-term rentals on autopilot, 24/7.",
+      "description_fr": "Co-hébergeur IA autonome qui gère vos locations à court terme sur pilote automatique, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://pilothaus.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T19:46:59.321557+00:00"
+    },
+    {
+      "name": "Sellforge",
+      "slug": "polsia-sellforge-5",
+      "website": "https://sellforge-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T19:45:29.269149+00:00"
+    },
+    {
+      "name": "Velvetwire",
+      "slug": "polsia-velvetwire",
+      "website": "https://velvetwire.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T19:45:34.686738+00:00"
     }
   ]
 }
