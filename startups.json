@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T16:44:05.413943+00:00",
+  "last_updated": "2026-07-21T18:02:23.746953+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -205206,74 +205206,101 @@
     {
       "name": "Crewforge",
       "slug": "polsia-crewforge-8f41qi",
+      "description": "Always-on AI dispatch for cleaners, handymen, and landscapers. Autonomous agents qualify, price, match, and book — 24/7.",
+      "description_fr": "Répartition IA permanente pour les nettoyeurs, les bricoleurs et les paysagistes. Les agents autonomes se qualifient, évaluent, associent et réservent – ​​24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://crewforge-8f41qi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T16:41:54.299250+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T18:01:28.065846+00:00"
     },
     {
-      "name": "Smith Tri-City Agency",
+      "name": "Smith Tri",
       "slug": "polsia-smith-tri-city-agency-2",
+      "description": "Independent tax, insurance, and retirement planning for Virginia families since 2001.",
+      "description_fr": "Planification indépendante des impôts, des assurances et de la retraite pour les familles de Virginie depuis 2001.",
+      "category": "Other",
       "website": "https://smith-tri-city-agency-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T16:41:54.837023+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T18:01:29.237726+00:00"
     },
     {
       "name": "A Thousand Words Save Trees",
       "slug": "polsia-a-thousand-words-save-trees",
+      "description": "A paperless-job-card foundation turning field-service paperwork into planted trees. Every quote, invoice and signature saved from the printer is a small act of reforestation.",
+      "description_fr": "Une fondation de fiches de travail sans papier transformant les documents de service sur le terrain en arbres plantés. Chaque devis, facture et signature sauvegardés par l'imprimante est un petit acte de reforestation.",
+      "category": "Finance & Fintech",
       "website": "https://a-thousand-words-save-trees.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T16:42:00.145458+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T18:01:30.510946+00:00"
     },
     {
       "name": "Gigsmith",
       "slug": "polsia-gigsmith-2",
+      "description": "An always-on booking and promo crew for indie artists. Gigsmith monitors venues, drafts CAN-SPAM-safe outreach, and turns confirmations into tour runs.",
+      "description_fr": "Une équipe de réservation et de promotion toujours active pour les artistes indépendants. Gigsmith surveille les lieux, rédige des campagnes de sensibilisation sécurisées CAN-SPAM et transforme les confirmations en tournées.",
+      "category": "Sales & CRM",
       "website": "https://gigsmith-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T16:42:05.674666+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T18:01:31.571627+00:00"
     },
     {
       "name": "ASPHALTIK",
       "slug": "polsia-asphaltik",
+      "description": "Streetwear réfléchissant pour la tribe bitume — casquettes, sweats oversize et t-shirts graphiques, drops limités, énergie TikTok.",
+      "description_fr": "Streetwear réfléchissant pour la tribu bitume — casquettes, sweats oversize et t-shirts graphiques, drops limités, énergie TikTok.",
+      "category": "Other",
       "website": "https://asphaltik.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T16:42:11.156808+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T18:01:33.384746+00:00"
     },
     {
       "name": "Apothix",
       "slug": "polsia-apothix",
+      "description": "OTC consumer health, run end-to-end by autonomous AI agents — monitoring shelf conditions, regulatory shifts, and demand in real time.",
+      "description_fr": "Santé des consommateurs OTC, gérée de bout en bout par des agents d’IA autonomes – surveillant les conditions de conservation, les changements réglementaires et la demande en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://apothix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T16:42:16.599793+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T18:01:35.269437+00:00"
     },
     {
       "name": "Animora",
       "slug": "polsia-animora-2",
+      "description": "The all-in-one studio and business platform for animation and manga creators.",
+      "description_fr": "Le studio et la plateforme commerciale tout-en-un pour les créateurs d'animation et de mangas.",
+      "category": "Software & SaaS",
       "website": "https://animora-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T16:42:22.067139+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T18:01:36.210777+00:00"
     },
     {
       "name": "Mendari",
       "slug": "polsia-mendari",
+      "description": "Mendari is the autonomous night-shift engineer for ML and data pipelines — watches production 24/7, traces root cause in plain English, and fixes what is safe to fix.",
+      "description_fr": "Mendari est l'ingénieur de nuit autonome pour le ML et les pipelines de données : surveille la production 24 heures sur 24, 7 jours sur 7, trace la cause profonde dans un anglais simple et corrige ce qui peut être réparé en toute sécurité.",
+      "category": "Sales & CRM",
       "website": "https://mendari.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T16:42:27.427728+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T18:01:37.213274+00:00"
     },
     {
       "name": "Cardiosort",
       "slug": "polsia-cardiosort",
+      "description": "Always-on agents that triage, route, and draft cardiac imaging reads — across CT, MR, echo, and 4D flow, 24/7 over PACS, RIS, and the EHR.",
+      "description_fr": "Des agents toujours actifs qui trient, acheminent et rédigent les lectures d'imagerie cardiaque — sur les flux CT, IRM, écho et 4D, 24 heures sur 24 et 7 jours sur 7 via PACS, RIS et DSE.",
+      "category": "Other",
       "website": "https://cardiosort.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T16:42:32.736744+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T18:01:38.579416+00:00"
     },
     {
       "name": "Routelift",
@@ -205282,6 +205309,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-07-21T16:42:38.120481+00:00"
+    },
+    {
+      "name": "Loomstack AI",
+      "slug": "polsia-loomstack-ai",
+      "website": "https://loomstack-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T18:00:25.424804+00:00"
+    },
+    {
+      "name": "Trovee",
+      "slug": "polsia-trovee",
+      "website": "https://trovee.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T18:00:25.966454+00:00"
+    },
+    {
+      "name": "Apexweave",
+      "slug": "polsia-apexweave",
+      "website": "https://apexweave.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T18:00:26.485103+00:00"
+    },
+    {
+      "name": "Postward",
+      "slug": "polsia-postward",
+      "website": "https://postward.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T18:00:26.945072+00:00"
+    },
+    {
+      "name": "Argosync",
+      "slug": "polsia-argosync",
+      "website": "https://argosync.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T18:00:27.500165+00:00"
+    },
+    {
+      "name": "IronMind Co",
+      "slug": "polsia-ironmind-co",
+      "website": "https://ironmind-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T18:00:32.925399+00:00"
+    },
+    {
+      "name": "OrthoLog",
+      "slug": "polsia-ortholog",
+      "website": "https://ortholog.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T18:00:33.299613+00:00"
+    },
+    {
+      "name": "Vantora",
+      "slug": "polsia-vantora-5",
+      "website": "https://vantora-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T18:00:43.700651+00:00"
+    },
+    {
+      "name": "STAYNE",
+      "slug": "polsia-stayne",
+      "website": "https://stayne.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T18:00:49.338870+00:00"
+    },
+    {
+      "name": "Fileslate",
+      "slug": "polsia-fileslate",
+      "website": "https://fileslate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T18:00:54.654407+00:00"
     }
   ]
 }
