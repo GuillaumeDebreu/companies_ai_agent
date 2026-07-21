@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T13:52:28.923464+00:00",
+  "last_updated": "2026-07-21T15:11:51.235905+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -204986,34 +204986,46 @@
     {
       "name": "StockPortfolio.pro",
       "slug": "polsia-stockportfoliopro",
+      "description": "AI stock research grounded in real SEC filings — 10-Ks, 10-Qs, 8-Ks, and 19 years of fundamentals for 3,800+ US companies.",
+      "description_fr": "Recherche boursière basée sur l'IA et fondée sur de véritables dépôts auprès de la SEC : 10-K, 10-Q, 8-K et 19 ans de fondamentaux pour plus de 3 800 entreprises américaines.",
+      "category": "AI & Machine Learning",
       "website": "https://stockportfoliopro.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T12:58:24.422807+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T15:11:32.255821+00:00"
     },
     {
       "name": "May Cleaning Services Inc",
       "slug": "polsia-may-cleaning-services-inc",
+      "description": "Professional residential and commercial cleaning solutions in Nanuet, NY",
+      "description_fr": "Solutions professionnelles de nettoyage résidentiel et commercial à Nanuet, NY",
+      "category": "Other",
       "website": "https://may-cleaning-services-inc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T12:58:29.949222+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T15:11:34.148360+00:00"
     },
     {
       "name": "Nutravitae",
       "slug": "polsia-nutravitae",
+      "description": "Science-backed nutrition for a healthier India. High-quality yeast protein, multivitamins, and multiminerals — FSSAI compliant.",
+      "description_fr": "Une nutrition fondée sur la science pour une Inde plus saine. Protéines de levure, multivitamines et multiminéraux de haute qualité – conformes à la FSSAI.",
+      "category": "Health & Wellness",
       "website": "https://nutravitae.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T12:58:35.476611+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T15:11:35.250014+00:00"
     },
     {
       "name": "Pieejamība",
       "slug": "polsia-pieejamba",
+      "description": "Aprūpe tuvāk mājām — katram senioram un ģimenei.",
+      "description_fr": "Aprūpe tuvāk mājām — katram senioram un ģimenei.",
+      "category": "Other",
       "website": "https://pieejamba.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T12:58:40.936467+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T15:11:36.806308+00:00"
     },
     {
       "name": "Reglex",
@@ -205029,10 +205041,13 @@
     {
       "name": "Propnex",
       "slug": "polsia-propnex",
+      "description": "Autonomous AI property management, 24/7.",
+      "description_fr": "Gestion immobilière autonome par IA, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://propnex.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T12:58:51.684750+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T15:11:38.809763+00:00"
     },
     {
       "name": "Kebab Atelier",
@@ -205048,10 +205063,13 @@
     {
       "name": "Keelwise Publishing",
       "slug": "polsia-keelwise-publishing",
+      "description": "A modern self-publishing platform built for indie authors and micro-publishers who want to move fast.",
+      "description_fr": "Une plateforme d'auto-édition moderne conçue pour les auteurs indépendants et les micro-éditeurs qui souhaitent évoluer rapidement.",
+      "category": "Software & SaaS",
       "website": "https://keelwise-publishing.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T12:59:07.575851+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T15:11:40.232742+00:00"
     },
     {
       "name": "Ride Lutii",
@@ -205074,6 +205092,110 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-21T13:00:41.094614+00:00"
+    },
+    {
+      "name": "Finomena",
+      "slug": "polsia-finomena",
+      "website": "https://finomena.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T15:10:41.258672+00:00"
+    },
+    {
+      "name": "HazardIQ",
+      "slug": "polsia-hazardiq",
+      "website": "https://hazardiq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T15:10:46.720197+00:00"
+    },
+    {
+      "name": "ReguStream",
+      "slug": "polsia-regustream",
+      "description": "California privacy law, monitored and briefed for you.",
+      "description_fr": "Loi californienne sur la confidentialité, surveillée et informée pour vous.",
+      "category": "Other",
+      "website": "https://regustream.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T15:10:47.983797+00:00"
+    },
+    {
+      "name": "Réviizon",
+      "slug": "polsia-rviizon",
+      "description": "Plateforme dagents IA pour la gestion automatisée des avis clients en ligne. Surveillez, répondez, Convertissez chaque feedback en opportunité.",
+      "description_fr": "Plateforme d'agents IA pour la gestion automatisée des avis clients en ligne. Surveillez, répondez, Convertissez chaque feedback en opportunité.",
+      "category": "Other",
+      "website": "https://rviizon.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T15:10:49.230182+00:00"
+    },
+    {
+      "name": "Sacred Moments Events & Co.",
+      "slug": "polsia-sacred-moments-events-co",
+      "description": "Faith-rooted luxury wedding planning for intentional couples across North Texas, South Oklahoma, and beyond.",
+      "description_fr": "Planification de mariages de luxe ancrés dans la foi pour les couples intentionnels du nord du Texas, du sud de l'Oklahoma et au-delà.",
+      "category": "Other",
+      "website": "https://sacred-moments-events-co.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T15:10:50.017755+00:00"
+    },
+    {
+      "name": "VigilAI",
+      "slug": "polsia-vigilai-uh792b",
+      "description": "Your AI guardian against credit fraud, watching and fighting for you 24/7.",
+      "description_fr": "Votre gardien IA contre la fraude au crédit, qui vous surveille et se bat pour vous 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
+      "website": "https://vigilai-uh792b.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T15:10:51.546527+00:00"
+    },
+    {
+      "name": "HartBridge",
+      "slug": "polsia-hartbridge",
+      "description": "Multiple services, one trusted team, all your needs covered.",
+      "description_fr": "Plusieurs services, une équipe de confiance, tous vos besoins couverts.",
+      "category": "Other",
+      "website": "https://hartbridge.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T15:10:53.149958+00:00"
+    },
+    {
+      "name": "AutoStack",
+      "slug": "polsia-autostack-wns36u",
+      "description": "One platform. Your AI staff for service businesses. AI receptionist, estimator, sales rep, and bookkeeper — in one dashboard.",
+      "description_fr": "Une seule plateforme. Votre personnel IA pour les entreprises de services. Réceptionniste, estimateur, représentant commercial et comptable IA, dans un seul tableau de bord.",
+      "category": "Software & SaaS",
+      "website": "https://autostack-wns36u.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T15:10:54.880805+00:00"
+    },
+    {
+      "name": "Hurdle",
+      "slug": "polsia-hurdle",
+      "description": "AI-powered interview prep from your resume and job listings. Practice with confidence, land the offer.",
+      "description_fr": "Préparation aux entretiens grâce à l'IA à partir de votre CV et de vos offres d'emploi. Pratiquez en toute confiance, décrochez l'offre.",
+      "category": "AI & Machine Learning",
+      "website": "https://hurdle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T15:10:55.992727+00:00"
+    },
+    {
+      "name": "PashuMind",
+      "slug": "polsia-pashumind",
+      "description": "24/7 AI-powered livestock health monitoring and early disease alerts for India's dairy farmers.",
+      "description_fr": "Surveillance 24h/24 et 7j/7 de la santé du bétail grâce à l'IA et alertes précoces en matière de maladies pour les producteurs laitiers indiens.",
+      "category": "AI & Machine Learning",
+      "website": "https://pashumind.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-21T15:10:57.056931+00:00"
     }
   ]
 }
