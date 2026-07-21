@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T15:11:51.235905+00:00",
+  "last_updated": "2026-07-21T16:44:05.413943+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -205096,18 +205096,24 @@
     {
       "name": "Finomena",
       "slug": "polsia-finomena",
+      "description": "Credit access for millennials without credit history.",
+      "description_fr": "Accès au crédit pour les millennials sans antécédents de crédit.",
+      "category": "Other",
       "website": "https://finomena.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T15:10:41.258672+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T16:43:10.296181+00:00"
     },
     {
       "name": "HazardIQ",
       "slug": "polsia-hazardiq",
+      "description": "AI-powered inventory and pricing intelligence for industrial electrical distributors.",
+      "description_fr": "Inventaire et tarification alimentés par l'IA pour les distributeurs d'électricité industrielle.",
+      "category": "AI & Machine Learning",
       "website": "https://hazardiq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-21T15:10:46.720197+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-21T16:43:11.346436+00:00"
     },
     {
       "name": "ReguStream",
@@ -205196,6 +205202,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-21T15:10:57.056931+00:00"
+    },
+    {
+      "name": "Crewforge",
+      "slug": "polsia-crewforge-8f41qi",
+      "website": "https://crewforge-8f41qi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T16:41:54.299250+00:00"
+    },
+    {
+      "name": "Smith Tri-City Agency",
+      "slug": "polsia-smith-tri-city-agency-2",
+      "website": "https://smith-tri-city-agency-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T16:41:54.837023+00:00"
+    },
+    {
+      "name": "A Thousand Words Save Trees",
+      "slug": "polsia-a-thousand-words-save-trees",
+      "website": "https://a-thousand-words-save-trees.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T16:42:00.145458+00:00"
+    },
+    {
+      "name": "Gigsmith",
+      "slug": "polsia-gigsmith-2",
+      "website": "https://gigsmith-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T16:42:05.674666+00:00"
+    },
+    {
+      "name": "ASPHALTIK",
+      "slug": "polsia-asphaltik",
+      "website": "https://asphaltik.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T16:42:11.156808+00:00"
+    },
+    {
+      "name": "Apothix",
+      "slug": "polsia-apothix",
+      "website": "https://apothix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T16:42:16.599793+00:00"
+    },
+    {
+      "name": "Animora",
+      "slug": "polsia-animora-2",
+      "website": "https://animora-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T16:42:22.067139+00:00"
+    },
+    {
+      "name": "Mendari",
+      "slug": "polsia-mendari",
+      "website": "https://mendari.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T16:42:27.427728+00:00"
+    },
+    {
+      "name": "Cardiosort",
+      "slug": "polsia-cardiosort",
+      "website": "https://cardiosort.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T16:42:32.736744+00:00"
+    },
+    {
+      "name": "Routelift",
+      "slug": "polsia-routelift",
+      "website": "https://routelift.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-21T16:42:38.120481+00:00"
     }
   ]
 }
