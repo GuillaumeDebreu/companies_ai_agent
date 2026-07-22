@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T19:21:25.313256+00:00",
+  "last_updated": "2026-07-22T20:04:32.110941+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -206803,66 +206803,90 @@
     {
       "name": "CabInvoice",
       "slug": "polsia-cabinvoice",
+      "description": "Trucking invoices for owner-operators. Turn the Word invoice you already do into a clean PDF in under a minute. No account, no subscription, $19 once.",
+      "description_fr": "Factures de camionnage pour les propriétaires-exploitants. Transformez la facture Word que vous avez déjà créée en un PDF propre en moins d'une minute. Pas de compte, pas d'abonnement, 19 $ une fois.",
+      "category": "Finance & Fintech",
       "website": "https://cabinvoice.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T18:47:08.567939+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T20:03:30.780253+00:00"
     },
     {
       "name": "Pelorus",
       "slug": "polsia-pelorus-2",
+      "description": "Autonomous, AI-native property management for independent landlords. Pelorus runs rent collection, 24/7 maintenance triage, vendor scheduling, and lease renewals — without a human property manager.",
+      "description_fr": "Gestion immobilière autonome et native de l'IA pour les propriétaires indépendants. Pelorus gère la collecte des loyers, le triage de la maintenance 24h/24 et 7j/7, la planification des fournisseurs et le renouvellement des baux, sans gestionnaire de propriété humaine.",
+      "category": "Real Estate",
       "website": "https://pelorus-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T18:47:09.036794+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T20:03:31.925221+00:00"
     },
     {
       "name": "Recurro",
       "slug": "polsia-recurro",
+      "description": "SMB receivables on autopilot — one agent from invoice to cash.",
+      "description_fr": "Créances des PME sur pilote automatique : un seul agent, de la facture à l'encaissement.",
+      "category": "Finance & Fintech",
       "website": "https://recurro.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T18:47:19.483266+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T20:03:32.735033+00:00"
     },
     {
       "name": "Fexa IA",
       "slug": "polsia-fexa-ia",
+      "description": "Investigación de usuarios automatizada por WhatsApp con IA conversacional — tasas de respuesta ~90% frente al 30–40% de email.",
+      "description_fr": "Enquête des utilisateurs automatisée sur WhatsApp avec conversation IA — taux de réponse ~ 90 % en provenance de 30 à 40 % par e-mail.",
+      "category": "Real Estate",
       "website": "https://fexa-ia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T18:47:24.837780+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T20:03:33.858268+00:00"
     },
     {
       "name": "Pasture & Paw",
       "slug": "polsia-pasture-paw",
+      "description": "Practical business coaching for equine and canine small-business operators — pricing, contracts, insurance, zoning, marketing, and the leap from solo work to a real facility.",
+      "description_fr": "Coaching commercial pratique pour les exploitants de petites entreprises équines et canines : tarification, contrats, assurance, zonage, marketing et passage du travail solo à une véritable installation.",
+      "category": "Marketing & Advertising",
       "website": "https://pasture-paw.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T18:47:30.266914+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T20:03:34.949572+00:00"
     },
     {
       "name": "Sutura",
       "slug": "polsia-sutura-2",
+      "description": "One private AI for your whole life.",
+      "description_fr": "Une IA privée pour toute votre vie.",
+      "category": "AI & Machine Learning",
       "website": "https://sutura-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T18:47:35.607675+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T20:03:36.085244+00:00"
     },
     {
       "name": "Regura",
       "slug": "polsia-regura",
+      "description": "Autonomous agents that draft, file, and defend SARs. Built for stablecoin issuers, crypto payment processors, neobanks, and fintechs operating across on-chain and traditional rails.",
+      "description_fr": "Agents autonomes qui rédigent, déposent et défendent les DAS. Conçu pour les émetteurs de stablecoins, les processeurs de paiement cryptés, les néobanques et les fintechs opérant sur des rails en chaîne et traditionnels.",
+      "category": "Finance & Fintech",
       "website": "https://regura.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T18:47:40.889814+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T20:03:36.897596+00:00"
     },
     {
       "name": "Velora",
       "slug": "polsia-velora-zlp6b2",
+      "description": "Velora is the 24/7 back-office agent for solo wedding and event planners — it watches your vendor inbox, drafts replies, keeps timelines current, chases RSVPs and deposits, and pings florists, venues, couples, and DJs the moment action is needed.",
+      "description_fr": "Velora est l'agent de back-office 24h/24 et 7j/7 pour les organisateurs de mariages et d'événements en solo : il surveille la boîte de réception de vos fournisseurs, rédige des réponses, maintient les délais à jour, recherche les RSVP et les dépôts, et envoie un ping aux fleuristes, aux lieux, aux couples et aux DJ dès qu'une action est nécessaire.",
+      "category": "Real Estate",
       "website": "https://velora-zlp6b2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T18:47:46.262361+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T20:03:37.855803+00:00"
     },
     {
       "name": "Cratevault Studio",
@@ -206878,10 +206902,93 @@
     {
       "name": "Hearthkin",
       "slug": "polsia-hearthkin",
+      "description": "E-books, cohorts, and group coaching for life's biggest pivots.",
+      "description_fr": "Livres électroniques, cohortes et coaching de groupe pour les plus grands pivots de la vie.",
+      "category": "Education",
       "website": "https://hearthkin.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-22T20:03:38.720162+00:00"
+    },
+    {
+      "name": "WakeHaus",
+      "slug": "polsia-wakehaus",
+      "website": "https://wakehaus.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-22T18:47:56.864477+00:00"
+      "scraped_at": "2026-07-22T20:02:02.251782+00:00"
+    },
+    {
+      "name": "FosterFetch",
+      "slug": "polsia-fosterfetch",
+      "website": "https://fosterfetch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T20:02:02.788257+00:00"
+    },
+    {
+      "name": "Aurexen",
+      "slug": "polsia-aurexen",
+      "website": "https://aurexen.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T20:02:08.352084+00:00"
+    },
+    {
+      "name": "Capsuleforge",
+      "slug": "polsia-capsuleforge",
+      "website": "https://capsuleforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T20:02:08.895894+00:00"
+    },
+    {
+      "name": "Cutloom",
+      "slug": "polsia-cutloom",
+      "website": "https://cutloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T20:02:14.315328+00:00"
+    },
+    {
+      "name": "Voltframe",
+      "slug": "polsia-voltframe-2",
+      "website": "https://voltframe-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T20:02:14.922486+00:00"
+    },
+    {
+      "name": "Vigilpost",
+      "slug": "polsia-vigilpost",
+      "website": "https://vigilpost.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T20:02:20.259669+00:00"
+    },
+    {
+      "name": "Hexcap",
+      "slug": "polsia-hexcap",
+      "website": "https://hexcap.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T20:02:25.908740+00:00"
+    },
+    {
+      "name": "Hostforge",
+      "slug": "polsia-hostforge-2",
+      "website": "https://hostforge-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T20:02:31.270905+00:00"
+    },
+    {
+      "name": "Leverhaus",
+      "slug": "polsia-leverhaus",
+      "website": "https://leverhaus.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T20:02:36.660791+00:00"
     }
   ]
 }
