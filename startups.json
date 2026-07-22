@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T14:35:47.047424+00:00",
+  "last_updated": "2026-07-22T16:07:12.556934+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -206473,18 +206473,24 @@
     {
       "name": "PrognosIA",
       "slug": "polsia-prognosia",
+      "description": "Inteligência artificial aplicada às melhores dicas de futebol. Prognósticos diários para Premier League, La Liga, Serie A, Bundesliga e Ligue 1.",
+      "description_fr": "Intelligence artificielle appliquée aux meilleurs moments du football. Prognósticos diários para Premier League, La Liga, Serie A, Bundesliga et Ligue 1.",
+      "category": "Other",
       "website": "https://prognosia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T14:33:49.755573+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T16:06:30.834692+00:00"
     },
     {
       "name": "Arrkanzler",
       "slug": "polsia-arrkanzler",
+      "description": "Autonome KI-Audits gegen Umsatzlecks in Stripe, Paddle und Chargebee – rund um die Uhr.",
+      "description_fr": "Les audits KI autonomes génèrent des analyses dans Stripe, Paddle et Chargebee – pour une montre.",
+      "category": "Other",
       "website": "https://arrkanzler.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T14:33:55.419184+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T16:06:32.112815+00:00"
     },
     {
       "name": "Synexis Machina",
@@ -206500,10 +206506,13 @@
     {
       "name": "Complagent",
       "slug": "polsia-complagent",
+      "description": "Autonomous AI agents that draft, file, and escalate corporate paperwork across every state you operate in.",
+      "description_fr": "Des agents d'IA autonomes qui rédigent, classent et transmettent les documents d'entreprise dans chaque État dans lequel vous opérez.",
+      "category": "AI & Machine Learning",
       "website": "https://complagent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T14:34:11.546066+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T16:06:33.076481+00:00"
     },
     {
       "name": "Clarityflow Analytics",
@@ -206570,6 +206579,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-22T14:35:47.046110+00:00"
+    },
+    {
+      "name": "SpinSphere",
+      "slug": "polsia-spinsphere",
+      "website": "https://spinsphere.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T16:05:05.135496+00:00"
+    },
+    {
+      "name": "Rigel QA",
+      "slug": "polsia-rigel-qa",
+      "website": "https://rigel-qa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T16:05:06.134592+00:00"
+    },
+    {
+      "name": "Crappie Clothing Co.",
+      "slug": "polsia-crappie-clothing-co",
+      "website": "https://crappie-clothing-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T16:05:11.533231+00:00"
+    },
+    {
+      "name": "PreInspex",
+      "slug": "polsia-preinspex",
+      "website": "https://preinspex.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T16:05:12.117477+00:00"
+    },
+    {
+      "name": "Salt Republic",
+      "slug": "polsia-salt-republic",
+      "website": "https://salt-republic.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T16:05:12.684782+00:00"
+    },
+    {
+      "name": "Cadent",
+      "slug": "polsia-cadent-2",
+      "website": "https://cadent-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T16:05:18.150767+00:00"
+    },
+    {
+      "name": "Nexus AI",
+      "slug": "polsia-nexus-ai-2wl08f",
+      "website": "https://nexus-ai-2wl08f.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T16:05:23.673227+00:00"
+    },
+    {
+      "name": "Caristia",
+      "slug": "polsia-caristia",
+      "website": "https://caristia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T16:05:29.196863+00:00"
+    },
+    {
+      "name": "HelixOps",
+      "slug": "polsia-helixops-6",
+      "website": "https://helixops-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T16:05:29.786368+00:00"
+    },
+    {
+      "name": "QuoteForge",
+      "slug": "polsia-quoteforge-halg16",
+      "website": "https://quoteforge-halg16.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T16:05:35.276025+00:00"
     }
   ]
 }
