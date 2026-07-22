@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T13:57:08.185663+00:00",
+  "last_updated": "2026-07-22T14:35:47.047424+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -206385,10 +206385,13 @@
     {
       "name": "LeadBridge",
       "slug": "polsia-leadbridge-plc3u1",
+      "description": "LeadBridge delivers exclusive, high-intent life insurance leads with structured follow-up automation — built for solo agents and small agencies that want to close more policies.",
+      "description_fr": "LeadBridge propose des pistes d'assurance-vie exclusives et à forte intention avec une automatisation de suivi structurée, conçue pour les agents individuels et les petites agences qui souhaitent conclure davantage de polices.",
+      "category": "Sales & CRM",
       "website": "https://leadbridge-plc3u1.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T12:24:43.790731+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T14:35:23.492489+00:00"
     },
     {
       "name": "Tidyverse",
@@ -206466,6 +206469,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-22T12:24:57.774195+00:00"
+    },
+    {
+      "name": "PrognosIA",
+      "slug": "polsia-prognosia",
+      "website": "https://prognosia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T14:33:49.755573+00:00"
+    },
+    {
+      "name": "Arrkanzler",
+      "slug": "polsia-arrkanzler",
+      "website": "https://arrkanzler.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T14:33:55.419184+00:00"
+    },
+    {
+      "name": "Synexis Machina",
+      "slug": "polsia-synexis-machina",
+      "description": "Pretoria-based engineering firm building intelligent automation, custom web and mobile apps, and cloud-native platforms that help businesses scale.",
+      "description_fr": "Une société d'ingénierie basée à Pretoria crée une automatisation intelligente, des applications Web et mobiles personnalisées et des plates-formes cloud natives qui aident les entreprises à évoluer.",
+      "category": "Software & SaaS",
+      "website": "https://synexis-machina.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-22T14:35:35.306040+00:00"
+    },
+    {
+      "name": "Complagent",
+      "slug": "polsia-complagent",
+      "website": "https://complagent.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T14:34:11.546066+00:00"
+    },
+    {
+      "name": "Clarityflow Analytics",
+      "slug": "polsia-clarityflow-analytics",
+      "description": "Remote financial analytics for growing Canadian businesses. Power BI dashboards, cash-flow visibility, and spend analysis — without hiring full-time staff.",
+      "description_fr": "Analyse financière à distance pour les entreprises canadiennes en croissance. Tableaux de bord Power BI, visibilité des flux de trésorerie et analyse des dépenses, sans embaucher de personnel à temps plein.",
+      "category": "Software & SaaS",
+      "website": "https://clarityflow-analytics.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-22T14:34:12.811776+00:00"
+    },
+    {
+      "name": "RevendiQ",
+      "slug": "polsia-revendiq",
+      "description": "Agents IA qui surveillent, négocient et acquièrent vos domaines et marques 24/7.",
+      "description_fr": "Agents IA qui surveillent, négocient et acquièrent vos domaines et marques 24h/24 et 7j/7.",
+      "category": "Real Estate",
+      "website": "https://revendiq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-22T14:34:14.225115+00:00"
+    },
+    {
+      "name": "Helmswell",
+      "slug": "polsia-helmswell",
+      "description": "Autonomous portfolio monitoring for the advisor who still signs the trade. Helmswell watches every client portfolio for drift, drafts tax-loss moves in real dollars, and writes your weekly notes — you keep the signature on the ticket.",
+      "description_fr": "Surveillance autonome du portefeuille pour le conseiller qui signe encore la transaction. Helmswell surveille la dérive de chaque portefeuille client, rédige les mouvements de pertes fiscales en dollars réels et rédige vos notes hebdomadaires – vous conservez la signature sur le ticket.",
+      "category": "Other",
+      "website": "https://helmswell.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-22T14:34:16.200943+00:00"
+    },
+    {
+      "name": "Acouverse",
+      "slug": "polsia-acouverse",
+      "description": "AI-tuned, plug-and-play audio for the connected cabin.",
+      "description_fr": "Audio plug-and-play optimisé par l'IA pour la cabine connectée.",
+      "category": "AI & Machine Learning",
+      "website": "https://acouverse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-22T14:34:17.632207+00:00"
+    },
+    {
+      "name": "RelayIQ",
+      "slug": "polsia-relayiq-5",
+      "description": "Autonomous API reliability for modern enterprises — uptime monitoring, token refresh, retry orchestration, and human escalation from a single agent network.",
+      "description_fr": "Fiabilité des API autonomes pour les entreprises modernes : surveillance de la disponibilité, actualisation des jetons, orchestration des nouvelles tentatives et escalade humaine à partir d'un réseau à agent unique.",
+      "category": "Software & SaaS",
+      "website": "https://relayiq-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-22T14:34:18.771708+00:00"
+    },
+    {
+      "name": "ReplyFlow",
+      "slug": "polsia-replyflow-1ptlrc",
+      "description": "AI review responses that sound like you, approved in seconds. ReplyFlow watches every review on every platform, drafts on-brand replies, and learns your voice — so every response ships in under a minute.",
+      "description_fr": "L'IA examine les réponses qui vous ressemblent, approuvées en quelques secondes. ReplyFlow surveille chaque avis sur chaque plateforme, rédige des réponses adaptées à la marque et apprend votre voix — de sorte que chaque réponse est expédiée en moins d'une minute.",
+      "category": "AI & Machine Learning",
+      "website": "https://replyflow-1ptlrc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-22T14:35:47.046110+00:00"
     }
   ]
 }
