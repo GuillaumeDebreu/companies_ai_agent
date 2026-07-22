@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T08:49:39.223930+00:00",
+  "last_updated": "2026-07-22T10:56:23.668547+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -206166,26 +206166,35 @@
     {
       "name": "The SkyRoom",
       "slug": "polsia-the-skyroom",
+      "description": "Glamping con tetto trasparente scorrevole, in comodato d’uso per strutture ricettive autentiche.",
+      "description_fr": "Glamping avec un espace transparent et transparent, en comode d'utilisation pour une structure authentique.",
+      "category": "Real Estate",
       "website": "https://the-skyroom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T08:47:37.437522+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T10:55:47.221656+00:00"
     },
     {
       "name": "Nexrelay",
       "slug": "polsia-nexrelay",
+      "description": "AI workflows that book, reply, and follow up on autopilot. We design, deploy, and maintain the agents that run your customer ops 24/7.",
+      "description_fr": "Des workflows d'IA qui réservent, répondent et effectuent un suivi sur pilote automatique. Nous concevons, déployons et maintenons les agents qui exécutent vos opérations clients 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://nexrelay.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T08:47:42.734760+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T10:55:48.767282+00:00"
     },
     {
       "name": "Itinerix",
       "slug": "polsia-itinerix",
+      "description": "Itinerix is an always-on AI travel journal agent. Each evening of your trip it sends a polished first-person entry to your inbox — photos, route, weather and reservations woven into one quiet, sharable story. A hardcover print keepsake at the end.",
+      "description_fr": "Itinerix est un agent de journal de voyage IA toujours actif. Chaque soir de votre voyage, il envoie une entrée raffinée à la première personne dans votre boîte de réception : photos, itinéraire, météo et réservations intégrés dans une histoire calme et partageable. Un souvenir imprimé à couverture rigide à la fin.",
+      "category": "AI & Machine Learning",
       "website": "https://itinerix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T08:47:48.109980+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T10:55:50.434464+00:00"
     },
     {
       "name": "Aestyra",
@@ -206201,10 +206210,13 @@
     {
       "name": "Veridex",
       "slug": "polsia-veridex-5",
+      "description": "Mirror verified top traders. Audited track records, automated execution. A day-trading marketplace where every trader's 12-month track record is independently audited before they go live.",
+      "description_fr": "Les meilleurs traders vérifiés par miroir. Historiques audités, exécution automatisée. Un marché de day trading où les antécédents de chaque trader sur 12 mois sont audités de manière indépendante avant leur mise en ligne.",
+      "category": "Finance & Fintech",
       "website": "https://veridex-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T08:47:54.751492+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T10:55:52.493692+00:00"
     },
     {
       "name": "Polsia App",
@@ -206220,10 +206232,13 @@
     {
       "name": "OwlWrench",
       "slug": "polsia-owlwrench",
+      "description": "OwlWrench is the 24/7 AI operations desk for independent auto repair shops. Watches DTCs overnight, opens the bay, pulls parts, and texts the customer a clean, approval-ready estimate before the first tech clocks in.",
+      "description_fr": "OwlWrench est le bureau des opérations d'IA 24h/24 et 7j/7 pour les ateliers de réparation automobile indépendants. Surveille les DTC pendant la nuit, ouvre la baie, extrait les pièces et envoie au client une estimation claire et prête à être approuvée avant l'arrivée du premier technicien.",
+      "category": "AI & Machine Learning",
       "website": "https://owlwrench.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T08:48:02.190621+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T10:55:53.584193+00:00"
     },
     {
       "name": "Treavera",
@@ -206254,6 +206269,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-22T08:48:06.246662+00:00"
+    },
+    {
+      "name": "Parclose",
+      "slug": "polsia-parclose-2",
+      "website": "https://parclose-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T10:54:25.204915+00:00"
+    },
+    {
+      "name": "SwenAI",
+      "slug": "polsia-swenai",
+      "website": "https://swenai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T10:54:30.911490+00:00"
+    },
+    {
+      "name": "SwornMD",
+      "slug": "polsia-swornmd",
+      "website": "https://swornmd.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T10:54:36.558206+00:00"
+    },
+    {
+      "name": "the PrintCraze",
+      "slug": "polsia-the-printcraze-2",
+      "website": "https://the-printcraze-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T10:54:37.277310+00:00"
+    },
+    {
+      "name": "Portera",
+      "slug": "polsia-portera-2",
+      "website": "https://portera-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T10:54:38.193634+00:00"
+    },
+    {
+      "name": "Memoir Studio",
+      "slug": "polsia-memoir-studio",
+      "website": "https://memoir-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T10:54:43.887848+00:00"
+    },
+    {
+      "name": "CuraCite",
+      "slug": "polsia-curacite",
+      "website": "https://curacite.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T10:54:44.675913+00:00"
+    },
+    {
+      "name": "TillgänglighetsFix Sverige",
+      "slug": "polsia-tillgnglighetsfix-sverige",
+      "website": "https://tillgnglighetsfix-sverige.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T10:54:45.283404+00:00"
+    },
+    {
+      "name": "Boroughs CPR",
+      "slug": "polsia-boroughs-cpr",
+      "website": "https://boroughs-cpr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T10:54:50.739413+00:00"
+    },
+    {
+      "name": "Helmwise",
+      "slug": "polsia-helmwise-4",
+      "description": "Autonomous compliance agents for SOC 2, HIPAA, and PCI — AI-native managed copilot that watches your controls, drafts the fix, and ships weekly posture reports.",
+      "description_fr": "Agents de conformité autonomes pour SOC 2, HIPAA et PCI : copilote géré natif par IA qui surveille vos contrôles, rédige le correctif et envoie des rapports de posture hebdomadaires.",
+      "category": "AI & Machine Learning",
+      "website": "https://helmwise-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-22T10:54:51.931696+00:00"
     }
   ]
 }
