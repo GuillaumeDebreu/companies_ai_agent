@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T03:39:45.506617+00:00",
+  "last_updated": "2026-07-22T06:16:22.511114+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -205952,42 +205952,57 @@
     {
       "name": "Stormcrest Chronicles",
       "slug": "polsia-stormcrest-chronicles",
+      "description": "A living sword-and-sorcery world built for organized play and bold heroes.",
+      "description_fr": "Un monde vivant d'épée et de sorcellerie conçu pour le jeu organisé et les héros audacieux.",
+      "category": "Other",
       "website": "https://stormcrest-chronicles.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T03:37:49.626607+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T06:15:37.170143+00:00"
     },
     {
       "name": "Frontstep Automations",
       "slug": "polsia-frontstep-automations",
+      "description": "AI chatbots, missed-call text-back, and booking automation for the local service businesses everyone else overlooks.",
+      "description_fr": "Chatbots IA, retour de SMS en cas d'appel manqué et automatisation des réservations pour les entreprises de services locales que tout le monde néglige.",
+      "category": "AI & Machine Learning",
       "website": "https://frontstep-automations.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T03:37:50.452444+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T06:15:38.388372+00:00"
     },
     {
       "name": "Sazam",
       "slug": "polsia-sazam",
+      "description": "Genuine South African auto parts, fitted to your Zambian VIN. Cross-border parts marketplace with transparent landed prices and escrow.",
+      "description_fr": "Pièces automobiles sud-africaines d'origine, adaptées à votre VIN zambien. Marché transfrontalier de pièces détachées avec prix au débarquement et séquestre transparents.",
+      "category": "E-Commerce & Retail",
       "website": "https://sazam.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T03:37:51.004813+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T06:15:39.370072+00:00"
     },
     {
       "name": "Pipelet",
       "slug": "polsia-pipelet",
+      "description": "The 24/7 AI recruiter that screens, schedules, and closes — so startups hire faster.",
+      "description_fr": "Le recruteur IA 24h/24 et 7j/7 qui sélectionne, planifie et ferme — pour que les startups embauchent plus rapidement.",
+      "category": "AI & Machine Learning",
       "website": "https://pipelet.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T03:37:56.455658+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T06:15:40.700369+00:00"
     },
     {
-      "name": "Akash Doburji Newsletter (Unverified)",
+      "name": "Akash Doburji",
       "slug": "polsia-akash-doburji-newsletter-unverified",
+      "description": "Paid-tier newsletter in a high-value niche — finance, B2B, or career advice.",
+      "description_fr": "Newsletter payante dans un créneau à forte valeur ajoutée : finance, B2B ou conseils de carrière.",
+      "category": "Sales & CRM",
       "website": "https://akash-doburji-newsletter-unverified.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T03:37:56.950743+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T06:15:43.389711+00:00"
     },
     {
       "name": "Vertika",
@@ -206011,10 +206026,13 @@
     {
       "name": "Remuda",
       "slug": "polsia-remuda",
+      "description": "Remuda is the always-on concierge built for guest ranches and Western lodges — booking inquiries, trail and weather decisions, and guide dispatch from one voice and chat line.",
+      "description_fr": "Remuda est le concierge permanent conçu pour les ranchs et les lodges occidentaux : demandes de réservation, décisions sur les sentiers et la météo, et envoi de guides à partir d'une seule voix et d'une seule ligne de discussion.",
+      "category": "Travel & Hospitality",
       "website": "https://remuda.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-22T03:38:08.121789+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-22T06:15:44.781430+00:00"
     },
     {
       "name": "Statera",
@@ -206037,6 +206055,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-22T03:39:45.505476+00:00"
+    },
+    {
+      "name": "Adorie",
+      "slug": "polsia-adorie",
+      "website": "https://adorie.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T06:14:14.460656+00:00"
+    },
+    {
+      "name": "Claimcraft",
+      "slug": "polsia-claimcraft-9",
+      "website": "https://claimcraft-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T06:14:15.005419+00:00"
+    },
+    {
+      "name": "Standwise",
+      "slug": "polsia-standwise-2",
+      "website": "https://standwise-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T06:14:20.574759+00:00"
+    },
+    {
+      "name": "Aovly",
+      "slug": "polsia-aovly",
+      "website": "https://aovly.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T06:14:25.951170+00:00"
+    },
+    {
+      "name": "Consistently Safe Logistics",
+      "slug": "polsia-consistently-safe-logistics",
+      "description": "Moving Freight. Building Trust.",
+      "description_fr": "Fret en mouvement. Bâtir la confiance.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://consistently-safe-logistics.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-22T06:14:26.651040+00:00"
+    },
+    {
+      "name": "Lover Lane Timeless",
+      "slug": "polsia-lover-lane-timeless",
+      "description": "Timeless pieces for love that lasts always & forever — premium hoodies, tees, and romantic accessories, handmade for couples and gift-givers.",
+      "description_fr": "Des pièces intemporelles pour un amour qui dure toujours et pour toujours : des sweats à capuche, des t-shirts et des accessoires romantiques haut de gamme, fabriqués à la main pour les couples et les cadeaux.",
+      "category": "Other",
+      "website": "https://lover-lane-timeless.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-22T06:14:28.204872+00:00"
+    },
+    {
+      "name": "GestIA",
+      "slug": "polsia-gestia-3",
+      "website": "https://gestia-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T06:14:33.450690+00:00"
+    },
+    {
+      "name": "Tertrely",
+      "slug": "polsia-tertrely",
+      "website": "https://tertrely.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T06:14:38.930133+00:00"
+    },
+    {
+      "name": "Pilotstay",
+      "slug": "polsia-pilotstay-3",
+      "description": "Your AI crew for the stays you host — always-on pricing, guest messaging, cleaning, and maintenance for independent short-term rental hosts.",
+      "description_fr": "Votre équipe d'IA pour les séjours que vous organisez : tarification permanente, messagerie client, nettoyage et maintenance pour les hôtes indépendants de location à court terme.",
+      "category": "AI & Machine Learning",
+      "website": "https://pilotstay-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-22T06:14:40.022667+00:00"
+    },
+    {
+      "name": "Just A Rock",
+      "slug": "polsia-just-a-rock",
+      "website": "https://just-a-rock.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-22T06:14:45.482985+00:00"
     }
   ]
 }
