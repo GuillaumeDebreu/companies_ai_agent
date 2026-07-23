@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T14:02:38.973979+00:00",
+  "last_updated": "2026-07-23T15:26:58.830133+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -207885,10 +207885,13 @@
     {
       "name": "LedeForge",
       "slug": "polsia-ledeforge",
+      "description": "AI-built media lists, human-booked podcasts, founder-led narratives. A boutique PR partner for SaaS, fintech, AI, and e-commerce founders.",
+      "description_fr": "Listes de médias créées par l'IA, podcasts réservés par des humains, récits dirigés par les fondateurs. Un partenaire de relations publiques boutique pour les fondateurs de SaaS, de fintech, d'IA et de commerce électronique.",
+      "category": "Entertainment & Media",
       "website": "https://ledeforge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T13:08:30.861265+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T15:26:14.584998+00:00"
     },
     {
       "name": "Veridyne",
@@ -207901,18 +207904,24 @@
     {
       "name": "Orthocode",
       "slug": "polsia-orthocode",
+      "description": "Continuous craftsmanship reviews that ship TDD-backed refactors.",
+      "description_fr": "Des revues de savoir-faire continues qui fournissent des refactors soutenus par TDD.",
+      "category": "Other",
       "website": "https://orthocode.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T13:08:37.489405+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T15:26:16.353272+00:00"
     },
     {
       "name": "Valorcast",
       "slug": "polsia-valorcast",
+      "description": "The subscription platform built for male creators — lower fees, full creative freedom, adult-friendly payments.",
+      "description_fr": "La plateforme d'abonnement conçue pour les créateurs masculins : frais réduits, liberté de création totale, paiements adaptés aux adultes.",
+      "category": "Software & SaaS",
       "website": "https://valorcast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T13:08:38.035337+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T15:26:17.294549+00:00"
     },
     {
       "name": "Velestra",
@@ -207925,10 +207934,13 @@
     {
       "name": "fantasy_gamer3",
       "slug": "polsia-fantasygamer3",
+      "description": "Friendly weekly fantasy RPG live streams from a small, community-first hobby channel — swords, sorcery, and a tavern for people who love the same niche.",
+      "description_fr": "Diffusions en direct hebdomadaires et conviviales d'un RPG fantastique à partir d'une petite chaîne de loisirs axée sur la communauté : des épées, de la sorcellerie et une taverne pour les personnes qui aiment le même créneau.",
+      "category": "Social & Community",
       "website": "https://fantasygamer3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T13:08:48.966907+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T15:26:19.666168+00:00"
     },
     {
       "name": "Constelário",
@@ -207970,6 +207982,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-23T13:09:04.447168+00:00"
+    },
+    {
+      "name": "Allocura",
+      "slug": "polsia-allocura",
+      "website": "https://allocura.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T15:24:35.679164+00:00"
+    },
+    {
+      "name": "Veltrix Markets",
+      "slug": "polsia-veltrix-markets",
+      "website": "https://veltrix-markets.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T15:24:41.181090+00:00"
+    },
+    {
+      "name": "Ceelbad Fisheries",
+      "slug": "polsia-ceelbad-fisheries",
+      "website": "https://ceelbad-fisheries.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T15:24:46.623615+00:00"
+    },
+    {
+      "name": "JWB Health",
+      "slug": "polsia-jwb-health",
+      "website": "https://jwb-health.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T15:24:57.150889+00:00"
+    },
+    {
+      "name": "FernCradle",
+      "slug": "polsia-ferncradle",
+      "website": "https://ferncradle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T15:25:02.751994+00:00"
+    },
+    {
+      "name": "Helmwise Realty",
+      "slug": "polsia-helmwise-realty",
+      "website": "https://helmwise-realty.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T15:25:08.312619+00:00"
+    },
+    {
+      "name": "Arcwind Auto Glass",
+      "slug": "polsia-arcwind-auto-glass",
+      "description": "Mobile windshield repair, OEM-grade replacement, and on-site ADAS camera recalibration — same-day, at your driveway.",
+      "description_fr": "Réparation de pare-brise mobile, remplacement de qualité OEM et recalibrage de la caméra ADAS sur site, le jour même, dans votre entrée.",
+      "category": "Other",
+      "website": "https://arcwind-auto-glass.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T15:26:58.829202+00:00"
+    },
+    {
+      "name": "Runspan",
+      "slug": "polsia-runspan",
+      "description": "Runspan is an AI-native micro-acquisition holding company. Autonomous agents scout, close, and operate cash-flowing small businesses around the clock.",
+      "description_fr": "Runspan est une société holding de micro-acquisition native d'IA. Des agents autonomes recherchent, ferment et gèrent des petites entreprises rentables 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://runspan.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T15:25:15.742455+00:00"
+    },
+    {
+      "name": "Submortis",
+      "slug": "polsia-submortis-2",
+      "description": "Subscription forensics. Submortis finds every zombie recurring charge on your bank and credit card statements and makes the cancellation call so you don't have to.",
+      "description_fr": "Analyse médico-légale des abonnements. Submortis trouve tous les frais récurrents zombies sur vos relevés bancaires et de carte de crédit et effectue l'appel d'annulation pour que vous n'ayez pas à le faire.",
+      "category": "Other",
+      "website": "https://submortis-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T15:25:17.395595+00:00"
+    },
+    {
+      "name": "Resthaul",
+      "slug": "polsia-resthaul",
+      "description": "Hotel linens for the long haul. Resthaul is a mobile linen and sleeper-cab refresh service built for over-the-road truckers — anchored on I-10, I-80, and I-40.",
+      "description_fr": "Linge d'hôtel pour le long terme. Resthaul est un service mobile de rafraîchissement de linge et de cabines-lits conçu pour les camionneurs routiers – ancré sur la I-10, la I-80 et la I-40.",
+      "category": "Marketing & Advertising",
+      "website": "https://resthaul.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T15:25:19.031377+00:00"
     }
   ]
 }
