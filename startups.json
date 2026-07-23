@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T09:40:01.467219+00:00",
+  "last_updated": "2026-07-23T11:33:36.254617+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -207668,26 +207668,35 @@
     {
       "name": "Synctide",
       "slug": "polsia-synctide-2",
+      "description": "Synctide is the always-on AI licensing agency for independent artists, songwriters, and small labels — scanning briefs, pitching, negotiating and processing payouts 24/7.",
+      "description_fr": "Synctide est l'agence de licences d'IA toujours active pour les artistes indépendants, les auteurs-compositeurs et les petits labels : elle analyse les briefs, propose, négocie et traite les paiements 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://synctide-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T09:37:47.108238+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T11:33:05.457230+00:00"
     },
     {
       "name": "BoekLokaal",
       "slug": "polsia-boeklokaal",
+      "description": "De AI-boekhoudagent voor Nederlandse evenementenbureaus. Verwerk 24/7 inkoopfacturen, beheer aanbetalingen en bereidt btw-aangiften voor die direct ingediend kunnen worden bij de Belastingdienst.",
+      "description_fr": "De AI-boekhoudagent voor Nederlandse eventenbureaus. Travaillez 24h/24 et 7j/7 avec des services d'encre, des services de mise à disposition et des offres spéciales pour les ingénieurs directs qui sont informés par le service d'assurance.",
+      "category": "AI & Machine Learning",
       "website": "https://boeklokaal.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T09:37:52.635190+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T11:33:06.784165+00:00"
     },
     {
       "name": "Legal Agency",
       "slug": "polsia-legal-agency",
+      "description": "Full-service marketing partner exclusively for UK law firms — from AI search to SRA-compliant campaigns.",
+      "description_fr": "Partenaire marketing à service complet exclusivement pour les cabinets d'avocats britanniques — de la recherche IA aux campagnes conformes à la SRA.",
+      "category": "AI & Machine Learning",
       "website": "https://legal-agency.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T09:37:58.162913+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T11:33:07.989359+00:00"
     },
     {
       "name": "Malometrážník",
@@ -207700,10 +207709,13 @@
     {
       "name": "KanCrisp",
       "slug": "polsia-kancrisp",
+      "description": "Subscription-powered trash bin cleaning, delivered on a neighborhood route. Hot-water wash, EPA-aligned wastewater handling, and curbside service starting around $99 a quarter.",
+      "description_fr": "Nettoyage des poubelles par abonnement, effectué sur un itinéraire de quartier. Lavage à l'eau chaude, traitement des eaux usées conforme à l'EPA et service en bordure de rue à partir d'environ 99 $ par trimestre.",
+      "category": "Other",
       "website": "https://kancrisp.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T09:38:09.418387+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T11:33:10.314067+00:00"
     },
     {
       "name": "Lootline",
@@ -207759,6 +207771,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-23T09:38:18.940019+00:00"
+    },
+    {
+      "name": "MakerMingle",
+      "slug": "polsia-makermingle",
+      "website": "https://makermingle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T11:31:36.565919+00:00"
+    },
+    {
+      "name": "Agensi",
+      "slug": "polsia-agensi-2",
+      "website": "https://agensi-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T11:31:42.139549+00:00"
+    },
+    {
+      "name": "Velogrant",
+      "slug": "polsia-velogrant",
+      "website": "https://velogrant.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T11:31:42.791778+00:00"
+    },
+    {
+      "name": "Avel Fiances",
+      "slug": "polsia-avel-fiances",
+      "description": "L'accompagnement sur-mesure des futurs mariés : un repère de proximité, un réseau de prestataires et de conseils fiables, du premier rendez-vous aux alliances.",
+      "description_fr": "L'accompagnement sur-mesure des futurs mariés : un repère de proximité, un réseau de prestataires et de conseils fiables, du premier rendez-vous aux alliances.",
+      "category": "Other",
+      "website": "https://avel-fiances.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T11:33:27.869687+00:00"
+    },
+    {
+      "name": "Pricespine",
+      "slug": "polsia-pricespine",
+      "website": "https://pricespine.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T11:31:53.732080+00:00"
+    },
+    {
+      "name": "Outcomely",
+      "slug": "polsia-outcomely",
+      "description": "From idea to income in five days. A premium guided toolkit that walks you from discovering your best income path to launching real applications and outreach.",
+      "description_fr": "De l'idée au revenu en cinq jours. Une boîte à outils guidée haut de gamme qui vous guide depuis la découverte de votre meilleur chemin de revenus jusqu'au lancement de véritables applications et de sensibilisation.",
+      "category": "Sales & CRM",
+      "website": "https://outcomely.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T11:33:34.215955+00:00"
+    },
+    {
+      "name": "Aurélys",
+      "slug": "polsia-aurlys",
+      "description": "L'automatisation IA sur-mesure qui libère 20 heures par semaine à votre entreprise.",
+      "description_fr": "L'automatisation IA sur mesure qui libère 20 heures par semaine à votre entreprise.",
+      "category": "Other",
+      "website": "https://aurlys.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T11:32:00.588826+00:00"
+    },
+    {
+      "name": "Paravigil",
+      "slug": "polsia-paravigil",
+      "description": "Paravigil is an always-on AI agent that watches county recorder, tax assessor, and code-enforcement filings for property owners — alerting you within minutes and pre-drafting the right response.",
+      "description_fr": "Paravigil est un agent d'IA toujours actif qui surveille les dossiers du registraire du comté, de l'évaluateur fiscal et de l'application du code pour les propriétaires - vous alertant en quelques minutes et pré-rédigant la bonne réponse.",
+      "category": "AI & Machine Learning",
+      "website": "https://paravigil.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T11:33:36.253453+00:00"
+    },
+    {
+      "name": "Offrotation",
+      "slug": "polsia-offrotation",
+      "description": "Autonomous SRE coverage for engineering teams without 24/7 on-call. Default-deny, runbook-bounded remediation that pages you only when it should.",
+      "description_fr": "Couverture SRE autonome pour les équipes d'ingénierie sans astreinte 24h/24 et 7j/7. Correction par défaut et limitée au runbook qui vous envoie des messages uniquement lorsque cela est nécessaire.",
+      "category": "Entertainment & Media",
+      "website": "https://offrotation.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T11:32:07.527800+00:00"
+    },
+    {
+      "name": "Dunwright",
+      "slug": "polsia-dunwright",
+      "description": "Your persistent AR clerk. Chasing overdue invoices 24/7 so SMBs never add headcount.",
+      "description_fr": "Votre commis AR persistant. Traquer les factures en retard 24h/24 et 7j/7 afin que les PME n'ajoutent jamais d'effectifs.",
+      "category": "Finance & Fintech",
+      "website": "https://dunwright.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T11:32:08.592807+00:00"
     }
   ]
 }
