@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T08:31:41.074941+00:00",
+  "last_updated": "2026-07-23T09:40:01.467219+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -207558,26 +207558,35 @@
     {
       "name": "Trailpost",
       "slug": "polsia-trailpost-8",
+      "description": "An autonomous AI SRE that investigates your incidents and writes the postmortem.",
+      "description_fr": "Une IA SRE autonome qui enquête sur vos incidents et rédige le post-mortem.",
+      "category": "AI & Machine Learning",
       "website": "https://trailpost-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T07:12:03.809690+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T09:39:27.088172+00:00"
     },
     {
       "name": "CoraAndes",
       "slug": "polsia-coraandes",
+      "description": "Aviturismo científico y consultoría ambiental en el corazón megadiverso del planeta.",
+      "description_fr": "Aviturismo scientifique et consultation ambiante sur le cœur mégadivers de la planète.",
+      "category": "Other",
       "website": "https://coraandes.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T07:12:14.267570+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T09:39:28.211627+00:00"
     },
     {
       "name": "Helmsly",
       "slug": "polsia-helmsly-5",
+      "description": "Helmsly is the 24/7 AI facility-operations co-pilot for small commercial sites — HVAC, energy, and access in one daily brief.",
+      "description_fr": "Helmsly est le copilote d'exploitation d'installations d'IA 24h/24 et 7j/7 pour les petits sites commerciaux : CVC, énergie et accès dans un brief quotidien.",
+      "category": "AI & Machine Learning",
       "website": "https://helmsly-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T07:12:24.758899+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T09:39:29.499542+00:00"
     },
     {
       "name": "Bidloom",
@@ -207626,18 +207635,24 @@
     {
       "name": "Planitor",
       "slug": "polsia-planitor",
+      "description": "Planitor is an AI business-plan agent that continuously monitors your market, metrics, and competitors — rewriting your plan and pitching for you, 24/7.",
+      "description_fr": "Planitor est un agent de plan d'affaires IA qui surveille en permanence votre marché, vos indicateurs et vos concurrents, en réécrivant votre plan et en le présentant pour vous, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://planitor.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T07:12:43.500094+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T09:39:31.414895+00:00"
     },
     {
       "name": "PerimetrIA",
       "slug": "polsia-perimetria",
+      "description": "AVM professionale unita a dati demografici, scuole, trasporti e servizi: la stima che conosce il quartiere.",
+      "description_fr": "AVM Professionale unit les données de démographie, d'école, de transport et de service : l'outil qui permet de connaître le quartier.",
+      "category": "Other",
       "website": "https://perimetria.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T07:12:49.087661+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T09:39:32.415799+00:00"
     },
     {
       "name": "Rivotrix",
@@ -207649,6 +207664,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-23T07:14:49.272776+00:00"
+    },
+    {
+      "name": "Synctide",
+      "slug": "polsia-synctide-2",
+      "website": "https://synctide-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T09:37:47.108238+00:00"
+    },
+    {
+      "name": "BoekLokaal",
+      "slug": "polsia-boeklokaal",
+      "website": "https://boeklokaal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T09:37:52.635190+00:00"
+    },
+    {
+      "name": "Legal Agency",
+      "slug": "polsia-legal-agency",
+      "website": "https://legal-agency.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T09:37:58.162913+00:00"
+    },
+    {
+      "name": "Malometrážník",
+      "slug": "polsia-malometrnk",
+      "website": "https://malometrnk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T09:38:03.808407+00:00"
+    },
+    {
+      "name": "KanCrisp",
+      "slug": "polsia-kancrisp",
+      "website": "https://kancrisp.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T09:38:09.418387+00:00"
+    },
+    {
+      "name": "Lootline",
+      "slug": "polsia-lootline-2",
+      "description": "Lootline is the AI-powered Amazon affiliate engine for gaming creators and short-form video communities — turn clips into FTC-compliant affiliate revenue without the suspension risk.",
+      "description_fr": "Lootline est le moteur d'affiliation Amazon alimenté par l'IA pour les créateurs de jeux et les communautés vidéo courtes : transformez les clips en revenus d'affiliation conformes à la FTC sans risque de suspension.",
+      "category": "Entertainment & Media",
+      "website": "https://lootline-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T09:40:01.466197+00:00"
+    },
+    {
+      "name": "Orbigent",
+      "slug": "polsia-orbigent",
+      "description": "Agenti AI che vegliano 24/7 sul tuo ground segment spaziale — anomaly detection multi-sottosistema, report narrativi automatici e ticketing operativo completamente autonomo.",
+      "description_fr": "Agents AI qui travaillent 24h/24 et 7j/7 sur votre segment terrestre spatial — détection d'anomalies multi-systèmes, rapport narratif automatique et billetterie opérationnelle complètement autonome.",
+      "category": "AI & Machine Learning",
+      "website": "https://orbigent.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T09:38:16.380908+00:00"
+    },
+    {
+      "name": "Marqtide",
+      "slug": "polsia-marqtide",
+      "description": "Marqtide is the always-on AI merchant for cross-channel commerce — repricing, ad pacing, and inventory risk across Shopify, Google, Meta, and TikTok Shop.",
+      "description_fr": "Marqtide est le marchand IA toujours actif pour le commerce cross-canal : retarification, rythme publicitaire et risque d'inventaire sur Shopify, Google, Meta et TikTok Shop.",
+      "category": "AI & Machine Learning",
+      "website": "https://marqtide.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T09:38:17.218515+00:00"
+    },
+    {
+      "name": "Lexvane",
+      "slug": "polsia-lexvane-2",
+      "description": "A done-for-you AI operations retainer for small and mid-size EU law firms — intake triage, first-pass review, and first-draft generation, delivered and run as a managed service.",
+      "description_fr": "Un service d'opérations d'IA fait pour vous pour les cabinets d'avocats de petite et moyenne taille de l'UE : triage des admissions, examen de premier passage et génération de la première ébauche, fourni et géré en tant que service géré.",
+      "category": "AI & Machine Learning",
+      "website": "https://lexvane-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T09:38:18.178514+00:00"
+    },
+    {
+      "name": "Purscript",
+      "slug": "polsia-purscript",
+      "description": "Tenders and grants, scored and drafted for SMBs — from feed to submission.",
+      "description_fr": "Appels d'offres et subventions, notés et rédigés pour les PME, du flux à la soumission.",
+      "category": "Other",
+      "website": "https://purscript.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T09:38:18.940019+00:00"
     }
   ]
 }
