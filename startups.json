@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T19:19:06.730467+00:00",
+  "last_updated": "2026-07-23T19:52:20.657645+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -208203,42 +208203,57 @@
     {
       "name": "Varianzio",
       "slug": "polsia-varianzio",
+      "description": "24/7 autonome CPM-Agenten für den Mittelstand – Beraterlogik inklusive. Planung, Forecasting und Reporting, kontinuierlich überwacht mit eingebetteter Varianzanalyse und governed Audit-Trail.",
+      "description_fr": "Agents CPM autonomes 24h/24 et 7j/7 pour le stand moyen – Beraterlogik inclus. Planification, prévisions et rapports, suivis en permanence avec une analyse de variations élaborée et une piste d'audit régie.",
+      "category": "Other",
       "website": "https://varianzio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T18:17:37.089184+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T19:51:54.156807+00:00"
     },
     {
       "name": "Lyssio",
       "slug": "polsia-lyssio",
+      "description": "Lyssio is an autonomous AI workforce for hotels — answers calls, completes tasks, and recovers revenue across every system you already use.",
+      "description_fr": "Lyssio est une main d'œuvre d'IA autonome pour les hôtels : répond aux appels, effectue des tâches et récupère les revenus sur tous les systèmes que vous utilisez déjà.",
+      "category": "AI & Machine Learning",
       "website": "https://lyssio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T18:17:37.601891+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T19:51:55.021850+00:00"
     },
     {
       "name": "Outpostly",
       "slug": "polsia-outpostly-4",
+      "description": "Always-on competition, distilled into briefings and alerts.",
+      "description_fr": "Une compétition permanente, distillée dans des briefings et des alertes.",
+      "category": "Other",
       "website": "https://outpostly-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T18:17:43.098590+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T19:51:56.835327+00:00"
     },
     {
       "name": "FrostRoot",
       "slug": "polsia-frostroot",
+      "description": "Sun-powered frozen food for last-mile, off-grid communities. FrostRoot leases off-grid deep freezers into peri-urban trade hubs across sub-Saharan Africa.",
+      "description_fr": "Aliments surgelés alimentés par le soleil pour les communautés du dernier kilomètre hors réseau. FrostRoot loue des congélateurs hors réseau dans des centres commerciaux périurbains en Afrique subsaharienne.",
+      "category": "Food & Beverage",
       "website": "https://frostroot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T18:17:48.767526+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T19:51:58.035924+00:00"
     },
     {
       "name": "Chumleaf",
       "slug": "polsia-chumleaf",
+      "description": "Bait and burley, delivered on demand.",
+      "description_fr": "Appât et burley, livrés sur demande.",
+      "category": "Other",
       "website": "https://chumleaf.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T18:17:54.156206+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T19:51:59.656215+00:00"
     },
     {
       "name": "NriAtlas",
@@ -208265,18 +208280,24 @@
     {
       "name": "Loomwright",
       "slug": "polsia-loomwright",
+      "description": "Autonomous agent crews delivering enterprise software, 24/7. Senior engineers supervise the fleet — audit-ready, governance-aligned, billed by outcomes.",
+      "description_fr": "Des équipes d'agents autonomes fournissant des logiciels d'entreprise, 24h/24 et 7j/7. Des ingénieurs senior supervisent la flotte – prête pour l’audit, alignée sur la gouvernance, facturée en fonction des résultats.",
+      "category": "Software & SaaS",
       "website": "https://loomwright.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T18:18:05.890373+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T19:52:01.479102+00:00"
     },
     {
       "name": "Bellwrench",
       "slug": "polsia-bellwrench",
+      "description": "Answers every call, quotes the job, chases the invoice — so you stay on the tools.",
+      "description_fr": "Répond à chaque appel, propose un devis, recherche la facture, pour que vous restiez sur les outils.",
+      "category": "Finance & Fintech",
       "website": "https://bellwrench.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T18:18:11.246287+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T19:52:02.656241+00:00"
     },
     {
       "name": "Standhive",
@@ -208288,6 +208309,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-23T18:18:12.207881+00:00"
+    },
+    {
+      "name": "BasicToGo",
+      "slug": "polsia-basictogo",
+      "website": "https://basictogo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T19:50:49.984611+00:00"
+    },
+    {
+      "name": "Prexora",
+      "slug": "polsia-prexora",
+      "website": "https://prexora.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T19:50:50.565623+00:00"
+    },
+    {
+      "name": "Luminalis",
+      "slug": "polsia-luminalis",
+      "website": "https://luminalis.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T19:50:55.984095+00:00"
+    },
+    {
+      "name": "Cueborne",
+      "slug": "polsia-cueborne",
+      "description": "Hand-crafted instrumental cues, licensed for indie creators. Cueborne is a boutique sync-licensing catalog for an independent composer — hand-fit tracks for podcasts, indie games, short films, and YouTube, licensed by use rather than by subscription.",
+      "description_fr": "Des répliques instrumentales fabriquées à la main, sous licence pour les créateurs indépendants. Cueborne est un catalogue de licences de synchronisation pour un compositeur indépendant : des pistes adaptées à la main pour les podcasts, les jeux indépendants, les courts métrages et YouTube, sous licence d'utilisation plutôt que par abonnement.",
+      "category": "Entertainment & Media",
+      "website": "https://cueborne.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T19:50:57.686819+00:00"
+    },
+    {
+      "name": "Cobrant",
+      "slug": "polsia-cobrant",
+      "description": "Cobrant is the 24/7 AI receivables desk for bilingual collections. We reconcile payments against QuickBooks, Xero, and NetSuite, chase overdue invoices in Portuguese and English, and route chronic delinquents through a tiered escalation playbook — so SMB owners stop translating, chasing, and babysitting collections.",
+      "description_fr": "Cobrant est le bureau des créances IA 24h/24 et 7j/7 pour les recouvrements bilingues. Nous rapprochons les paiements avec QuickBooks, Xero et NetSuite, recherchons les factures en souffrance en portugais et en anglais et acheminons les délinquants chroniques via un manuel de remontée d'informations à plusieurs niveaux - afin que les propriétaires de PME cessent de traduire, de poursuivre et de surveiller les recouvrements.",
+      "category": "AI & Machine Learning",
+      "website": "https://cobrant.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T19:52:15.393116+00:00"
+    },
+    {
+      "name": "Praxigent",
+      "slug": "polsia-praxigent",
+      "website": "https://praxigent.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T19:51:08.721676+00:00"
+    },
+    {
+      "name": "Mintcrate",
+      "slug": "polsia-mintcrate-2",
+      "description": "Downloadable toolkits that turn your workflows into 90%-margin products — Notion templates, AI prompt packs, resume kits, marketing systems.",
+      "description_fr": "Des boîtes à outils téléchargeables qui transforment vos flux de travail en produits à marge de 90 % : modèles Notion, packs d'invites d'IA, kits de CV, systèmes marketing.",
+      "category": "AI & Machine Learning",
+      "website": "https://mintcrate-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T19:51:09.431828+00:00"
+    },
+    {
+      "name": "Ting Ting Provisions",
+      "slug": "polsia-ting-ting-provisions",
+      "description": "A premium chili oil house across five regions of China. Five jars, recipe cards inside every lid, and the stories behind the spice.",
+      "description_fr": "Une maison d'huile de piment haut de gamme dans cinq régions de Chine. Cinq pots, des fiches de recettes à l'intérieur de chaque couvercle et les histoires derrière les épices.",
+      "category": "Food & Beverage",
+      "website": "https://ting-ting-provisions.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T19:51:11.054866+00:00"
+    },
+    {
+      "name": "Charlotte Lit",
+      "slug": "polsia-charlotte-lit",
+      "description": "Charlotte's nonprofit literary arts center — craft classes, author readings, community conversations, and the literary journal County Lines.",
+      "description_fr": "Centre d'arts littéraires à but non lucratif de Charlotte : cours d'artisanat, lectures d'auteurs, conversations communautaires et revue littéraire County Lines.",
+      "category": "Social & Community",
+      "website": "https://charlotte-lit.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T19:51:13.031340+00:00"
+    },
+    {
+      "name": "Vegrato",
+      "slug": "polsia-vegrato",
+      "description": "Autonomous vegan intelligence, verified and pushed live. Vegrato turns every vegan SKU into a tracked, versioned data object — for CPG brands, retailers, and certification bodies.",
+      "description_fr": "Intelligence végétalienne autonome, vérifiée et diffusée en direct. Vegrato transforme chaque SKU végétalien en un objet de données suivi et versionné – pour les marques de produits de grande consommation, les détaillants et les organismes de certification.",
+      "category": "E-Commerce & Retail",
+      "website": "https://vegrato.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T19:51:14.434546+00:00"
     }
   ]
 }
