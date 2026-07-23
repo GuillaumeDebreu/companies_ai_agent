@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T11:33:36.254617+00:00",
+  "last_updated": "2026-07-23T13:10:52.088018+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -207775,26 +207775,35 @@
     {
       "name": "MakerMingle",
       "slug": "polsia-makermingle",
+      "description": "A social collective where independent creators collaborate, cross-promote, and sell merch together — built on shared storefronts, crew drops, and creator-first margins.",
+      "description_fr": "Un collectif social où les créateurs indépendants collaborent, font de la promotion croisée et vendent des produits ensemble – construit sur des vitrines partagées, des équipes et des marges axées sur les créateurs.",
+      "category": "E-Commerce & Retail",
       "website": "https://makermingle.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T11:31:36.565919+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T13:09:59.517113+00:00"
     },
     {
       "name": "Agensi",
       "slug": "polsia-agensi-2",
+      "description": "The Skill Store for AI Agents — plug-and-play SKILL.md workflows for Claude, Cursor, Codex CLI, GitHub Copilot, Gemini CLI, VS Code and 20+ other AI tools.",
+      "description_fr": "Le magasin de compétences pour les agents IA : workflows SKILL.md plug-and-play pour Claude, Cursor, Codex CLI, GitHub Copilot, Gemini CLI, VS Code et plus de 20 autres outils d'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://agensi-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T11:31:42.139549+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T13:10:00.991426+00:00"
     },
     {
       "name": "Velogrant",
       "slug": "polsia-velogrant",
+      "description": "Every funding call, ranked and ready before the deadline. AI grant-development agents watch federal, state, and foundation portals so your team reviews, edits, and submits.",
+      "description_fr": "Chaque appel de financement, classé et prêt avant la date limite. Les agents de développement de subventions d'IA surveillent les portails fédéraux, étatiques et des fondations afin que votre équipe examine, modifie et soumette.",
+      "category": "AI & Machine Learning",
       "website": "https://velogrant.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T11:31:42.791778+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T13:10:02.700366+00:00"
     },
     {
       "name": "Avel Fiances",
@@ -207810,10 +207819,13 @@
     {
       "name": "Pricespine",
       "slug": "polsia-pricespine",
+      "description": "24/7 AI repricing with a daily P&L impact report in your inbox — for sellers competing on Amazon, eBay, Shopify, Google, Meta and TikTok.",
+      "description_fr": "Modification des prix par l'IA 24h/24 et 7j/7 avec un rapport quotidien sur l'impact des P&L dans votre boîte de réception — pour les vendeurs en concurrence sur Amazon, eBay, Shopify, Google, Meta et TikTok.",
+      "category": "AI & Machine Learning",
       "website": "https://pricespine.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T11:31:53.732080+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T13:10:04.431418+00:00"
     },
     {
       "name": "Outcomely",
@@ -207869,6 +207881,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-23T11:32:08.592807+00:00"
+    },
+    {
+      "name": "LedeForge",
+      "slug": "polsia-ledeforge",
+      "website": "https://ledeforge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T13:08:30.861265+00:00"
+    },
+    {
+      "name": "Veridyne",
+      "slug": "polsia-veridyne-8",
+      "website": "https://veridyne-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T13:08:36.412544+00:00"
+    },
+    {
+      "name": "Orthocode",
+      "slug": "polsia-orthocode",
+      "website": "https://orthocode.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T13:08:37.489405+00:00"
+    },
+    {
+      "name": "Valorcast",
+      "slug": "polsia-valorcast",
+      "website": "https://valorcast.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T13:08:38.035337+00:00"
+    },
+    {
+      "name": "Velestra",
+      "slug": "polsia-velestra",
+      "website": "https://velestra.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T13:08:43.580239+00:00"
+    },
+    {
+      "name": "fantasy_gamer3",
+      "slug": "polsia-fantasygamer3",
+      "website": "https://fantasygamer3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T13:08:48.966907+00:00"
+    },
+    {
+      "name": "Constelário",
+      "slug": "polsia-constelrio",
+      "website": "https://constelrio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T13:08:59.446543+00:00"
+    },
+    {
+      "name": "ProReliabilityGroup",
+      "slug": "polsia-proreliabilitygroup",
+      "description": "Strategic reliability and maintenance consulting for peak manufacturing performance. We help plant leaders cut unplanned downtime, embed predictive routines, and build a durable culture of reliability.",
+      "description_fr": "Conseil stratégique en fiabilité et maintenance pour des performances de fabrication optimales. Nous aidons les dirigeants d'usine à réduire les temps d'arrêt imprévus, à intégrer des routines prédictives et à bâtir une culture durable de la fiabilité.",
+      "category": "Sales & CRM",
+      "website": "https://proreliabilitygroup.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T13:09:01.058307+00:00"
+    },
+    {
+      "name": "The Petty Conversation",
+      "slug": "polsia-the-petty-conversation",
+      "description": "It's me season — a women-only circle for unapologetic self-prioritization, midlife truth-telling, and bold joy.",
+      "description_fr": "C'est ma saison - un cercle réservé aux femmes pour une auto-priorisation sans vergogne, la vérité sur la quarantaine et une joie audacieuse.",
+      "category": "Other",
+      "website": "https://the-petty-conversation.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T13:09:02.483046+00:00"
+    },
+    {
+      "name": "Patrolly",
+      "slug": "polsia-patrolly",
+      "description": "Patrolly is a 24/7 AI property agent for independent landlords with 1-to-10-unit portfolios. It watches listings, inboxes, and maintenance channels; screens applicants, books repairs, chases late rent, and posts weekly P&L digests — so owners trade nights and weekends for a clean daily summary.",
+      "description_fr": "Patrolly est un agent immobilier IA 24h/24 et 7j/7 pour les propriétaires indépendants disposant de portefeuilles de 1 à 10 logements. Il surveille les listes, les boîtes de réception et les canaux de maintenance ; filtre les candidats, effectue les réparations, recherche les loyers en retard et publie des résumés hebdomadaires des comptes de résultat – afin que les propriétaires échangent les nuits et les week-ends contre un résumé quotidien clair.",
+      "category": "Real Estate",
+      "website": "https://patrolly.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T13:09:04.447168+00:00"
     }
   ]
 }
