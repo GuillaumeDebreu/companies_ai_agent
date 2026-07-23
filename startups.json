@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T16:59:29.810999+00:00",
+  "last_updated": "2026-07-23T18:19:39.055398+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -208093,26 +208093,35 @@
     {
       "name": "Praegis",
       "slug": "polsia-praegis",
+      "description": "Continuous AI code review with audit-ready cycle-time intelligence. Praegis monitors every GitHub pull request for style, test coverage, and security regressions — then proposes approved merges or guarded fix-it commits a human signs off on.",
+      "description_fr": "Révision continue du code d’IA avec une intelligence du temps de cycle prête pour l’audit. Praegis surveille chaque demande d'extraction GitHub pour le style, la couverture des tests et les régressions de sécurité - puis propose des fusions approuvées ou des correctifs gardés sur lesquels une personne approuve.",
+      "category": "AI & Machine Learning",
       "website": "https://praegis.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T16:57:23.797898+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T18:18:51.804352+00:00"
     },
     {
       "name": "Skironix",
       "slug": "polsia-skironix",
+      "description": "Autonomous weather agents that protect your operations 24/7 — ingesting global atmospheric and geospatial signals, scoring exposure across routes, assets, and crews, and executing protective playbooks in seconds.",
+      "description_fr": "Des agents météorologiques autonomes qui protègent vos opérations 24 heures sur 24, 7 jours sur 7, en ingérant des signaux atmosphériques et géospatiaux mondiaux, en notant l'exposition sur les itinéraires, les actifs et les équipages, et en exécutant des playbooks de protection en quelques secondes.",
+      "category": "Sustainability & Green",
       "website": "https://skironix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T16:57:29.323236+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T18:18:52.777265+00:00"
     },
     {
       "name": "Acremind",
       "slug": "polsia-acremind-2",
+      "description": "Acremind — the autonomous back office built for small farms and ranches. Files USDA and Idaho paperwork, watches commodity prices, and queues grants.",
+      "description_fr": "Acremind — le back-office autonome conçu pour les petites fermes et ranchs. Dépose les documents de l'USDA et de l'Idaho, surveille les prix des matières premières et fait la queue pour les subventions.",
+      "category": "Other",
       "website": "https://acremind-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T16:57:39.766065+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T18:18:54.264331+00:00"
     },
     {
       "name": "Klearvate Commercial Services",
@@ -208190,6 +208199,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-23T16:58:00.905719+00:00"
+    },
+    {
+      "name": "Varianzio",
+      "slug": "polsia-varianzio",
+      "website": "https://varianzio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T18:17:37.089184+00:00"
+    },
+    {
+      "name": "Lyssio",
+      "slug": "polsia-lyssio",
+      "website": "https://lyssio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T18:17:37.601891+00:00"
+    },
+    {
+      "name": "Outpostly",
+      "slug": "polsia-outpostly-4",
+      "website": "https://outpostly-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T18:17:43.098590+00:00"
+    },
+    {
+      "name": "FrostRoot",
+      "slug": "polsia-frostroot",
+      "website": "https://frostroot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T18:17:48.767526+00:00"
+    },
+    {
+      "name": "Chumleaf",
+      "slug": "polsia-chumleaf",
+      "website": "https://chumleaf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T18:17:54.156206+00:00"
+    },
+    {
+      "name": "NriAtlas",
+      "slug": "polsia-nriatlas",
+      "description": "An interactive atlas of Igbo cosmology, myth, and ancestral worldview — built for the diaspora, taught alongside the scholarship.",
+      "description_fr": "Un atlas interactif de la cosmologie, des mythes et de la vision ancestrale du monde Igbo – construit pour la diaspora, enseigné parallèlement à l'érudition.",
+      "category": "Other",
+      "website": "https://nriatlas.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T18:17:54.921963+00:00"
+    },
+    {
+      "name": "BizPonte",
+      "slug": "polsia-bizponte",
+      "description": "BizPonte é a ponte digital entre empresas brasileiras e polonesas — marketplace bilíngue, perfis verificados, filtros setoriais e conteúdo educacional para PMEs que querem exportar ou importar entre Brasil e Polônia.",
+      "description_fr": "BizPonte est un pont numérique entre les entreprises brésiliennes et polonaises — marché bilingue, résultats vérifiés, filtres sériels et contenu éducatif pour les PME qui souhaitent exporter ou importer entre le Brésil et la Pologne.",
+      "category": "E-Commerce & Retail",
+      "website": "https://bizponte.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T18:19:28.132249+00:00"
+    },
+    {
+      "name": "Loomwright",
+      "slug": "polsia-loomwright",
+      "website": "https://loomwright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T18:18:05.890373+00:00"
+    },
+    {
+      "name": "Bellwrench",
+      "slug": "polsia-bellwrench",
+      "website": "https://bellwrench.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T18:18:11.246287+00:00"
+    },
+    {
+      "name": "Standhive",
+      "slug": "polsia-standhive",
+      "description": "The AI producer your indie game studio never had. Standhive watches nightly builds, runs playtest passes, triages bugs, and writes your daily standup — so a 2-to-15-person studio can ship like a 50.",
+      "description_fr": "Le producteur d'IA que votre studio de jeux indépendant n'a jamais eu. Standhive surveille les builds tous les soirs, exécute les tests de jeu, trie les bugs et rédige votre stand-up quotidien – de sorte qu'un studio de 2 à 15 personnes peut expédier comme un 50.",
+      "category": "AI & Machine Learning",
+      "website": "https://standhive.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T18:18:12.207881+00:00"
     }
   ]
 }
