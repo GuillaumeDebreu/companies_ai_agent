@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T19:52:20.657645+00:00",
+  "last_updated": "2026-07-23T20:53:18.296116+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -208321,18 +208321,24 @@
     {
       "name": "Prexora",
       "slug": "polsia-prexora",
+      "description": "Prexora ist Ihr persönlicher Beschaffungs- und Verhandlungspartner — verhandelt wie ein Procurement-Profi, erfolgsbasiert auf nachweisbar erzielten Einsparungen.",
+      "description_fr": "Prexora est votre partenaire personnel de gestion et de gestion, géré par un spécialiste des achats et basé à l'étranger au sein d'agences spécialisées.",
+      "category": "Other",
       "website": "https://prexora.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T19:50:50.565623+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T20:52:33.127462+00:00"
     },
     {
-      "name": "Luminalis",
+      "name": "Luminalis — Luminaires durables pour artisans et PME",
       "slug": "polsia-luminalis",
+      "description": "Luminaires durables et éclairage sur mesure pour artisans et PME en France — ampoules longue durée, conformité GPSR, marques européennes.",
+      "description_fr": "Luminaires durables et éclairage sur mesure pour artisans et PME en France — ampoules longue durée, conformité GPSR, marques européennes.",
+      "category": "Other",
       "website": "https://luminalis.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T19:50:55.984095+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T20:52:34.183191+00:00"
     },
     {
       "name": "Cueborne",
@@ -208359,10 +208365,13 @@
     {
       "name": "Praxigent",
       "slug": "polsia-praxigent",
+      "description": "Always-on patient acquisition agents for medical and dental practices — replacing your healthcare marketing agency with an AI workforce.",
+      "description_fr": "Agents d'acquisition de patients toujours disponibles pour les cabinets médicaux et dentaires — remplaçant votre agence de marketing de soins de santé par une main d'œuvre IA.",
+      "category": "Health & Wellness",
       "website": "https://praxigent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T19:51:08.721676+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-23T20:52:35.400158+00:00"
     },
     {
       "name": "Mintcrate",
@@ -208407,6 +208416,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-23T19:51:14.434546+00:00"
+    },
+    {
+      "name": "SubmittIQ",
+      "slug": "polsia-submittiq-2",
+      "website": "https://submittiq-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T20:51:16.249336+00:00"
+    },
+    {
+      "name": "PekVora Imports",
+      "slug": "polsia-pekvora-imports",
+      "website": "https://pekvora-imports.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T20:51:16.827471+00:00"
+    },
+    {
+      "name": "Cadrelay",
+      "slug": "polsia-cadrelay",
+      "website": "https://cadrelay.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T20:51:22.398524+00:00"
+    },
+    {
+      "name": "Imoblex",
+      "slug": "polsia-imoblex",
+      "website": "https://imoblex.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T20:51:27.761712+00:00"
+    },
+    {
+      "name": "Aurelume Holiday Co.",
+      "slug": "polsia-aurelume-holiday-co",
+      "website": "https://aurelume-holiday-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T20:51:33.153925+00:00"
+    },
+    {
+      "name": "Mantlereel",
+      "slug": "polsia-mantlereel",
+      "website": "https://mantlereel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T20:51:38.556506+00:00"
+    },
+    {
+      "name": "Maison Lyrelune",
+      "slug": "polsia-maison-lyrelune",
+      "website": "https://maison-lyrelune.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T20:51:44.142412+00:00"
+    },
+    {
+      "name": "Subtend",
+      "slug": "polsia-subtend",
+      "description": "An always-on watchdog for every recurring charge. Subtend monitors subscriptions, utilities and telecom, flags zombie charges and surprise hikes, and negotiates cheaper plans — you only pay when it saves you money.",
+      "description_fr": "Un chien de garde toujours actif pour chaque charge récurrente. Subtend surveille les abonnements, les services publics et les télécommunications, signale les frais zombies et les hausses surprises, et négocie des forfaits moins chers : vous ne payez que lorsque cela vous permet d'économiser de l'argent.",
+      "category": "Sustainability & Green",
+      "website": "https://subtend.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T20:51:45.712080+00:00"
+    },
+    {
+      "name": "Channelwright",
+      "slug": "polsia-channelwright",
+      "website": "https://channelwright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-23T20:51:51.256353+00:00"
+    },
+    {
+      "name": "Prag Textil",
+      "slug": "polsia-prag-textil",
+      "description": "Romanya merkezli B2B örme ve dokunmuş kumaş üreticisi ve tedarikçisi.",
+      "description_fr": "Romanya merkezli B2B örme ve dokunmuş kumaş üreticisi e tedarikçisi.",
+      "category": "Sales & CRM",
+      "website": "https://prag-textil.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-23T20:51:52.590584+00:00"
     }
   ]
 }
