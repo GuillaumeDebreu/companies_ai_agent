@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T19:26:11.516344+00:00",
+  "last_updated": "2026-07-24T20:09:48.452574+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -209719,26 +209719,35 @@
     {
       "name": "Tipped by Insiders",
       "slug": "polsia-tipped-by-insiders",
+      "description": "Insidertransacties van de SEC, gefilterd en gescoord voor de Europese particuliere belegger.",
+      "description_fr": "Transactions d'initiés de la SEC, filtrées et gérées pour les particuliers européens.",
+      "category": "Other",
       "website": "https://tipped-by-insiders.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T18:49:49.390477+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T20:08:57.546486+00:00"
     },
     {
       "name": "Treadle",
       "slug": "polsia-treadle",
+      "description": "A vetted marketplace for furniture restoration, shoe and leather repair, vintage appliance work, upholstery, and other rare crafts. Pairing customers who would rather mend than replace with the dwindling ranks of master artisans.",
+      "description_fr": "Un marché agréé pour la restauration de meubles, la réparation de chaussures et de cuir, les travaux d'électroménager vintage, le rembourrage et d'autres objets artisanaux rares. Associer des clients qui préfèrent réparer plutôt que remplacer les rangs en diminution des maîtres artisans.",
+      "category": "E-Commerce & Retail",
       "website": "https://treadle.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T18:49:50.040060+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T20:08:58.603206+00:00"
     },
     {
       "name": "Vemo",
       "slug": "polsia-vemo",
+      "description": "Vemo bietet provisionsfreie Honorar-Anlageberatung aus der Schweiz – transparent, FIDLEG-konform und ohne versteckte Kickbacks.",
+      "description_fr": "Nous avons des dispositions gratuites en matière d'assurance honoraire en Suisse – transparentes, conformes à la FIDLEG et sans versement de pots-de-vin.",
+      "category": "Real Estate",
       "website": "https://vemo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T18:49:55.473440+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T20:08:59.630164+00:00"
     },
     {
       "name": "JJ's Superior Automotive Detail",
@@ -209754,18 +209763,24 @@
     {
       "name": "Hatchstone",
       "slug": "polsia-hatchstone",
+      "description": "Hatchstone builds and runs AI automations for local service businesses — chat, voice and follow-up that book every lead.",
+      "description_fr": "Hatchstone crée et exécute des automatisations d'IA pour les entreprises de services locales : chat, voix et suivi qui enregistrent chaque prospect.",
+      "category": "AI & Machine Learning",
       "website": "https://hatchstone.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T18:50:06.464423+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T20:09:00.804358+00:00"
     },
     {
       "name": "Recusal",
       "slug": "polsia-recusal",
+      "description": "Privacy watchdog AI. Continuously scans people-search sites, B2B syndicators, and broker-of-broker marketplaces; auto-files removals; and escalates refusals into formal complaints under GDPR, CCPA, PIPEDA, and the Texas DPDPA. Track your privacy as a score that trends down.",
+      "description_fr": "IA de surveillance de la confidentialité. Analyse en permanence les sites de recherche de personnes, les syndicateurs B2B et les marchés de courtiers ; suppressions automatiques de fichiers ; et transforme les refus en plaintes formelles en vertu du RGPD, du CCPA, de la PIPEDA et du Texas DPDPA. Suivez votre vie privée sous la forme d’un score qui tend à baisser.",
+      "category": "AI & Machine Learning",
       "website": "https://recusal.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T18:50:12.034094+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T20:09:01.931466+00:00"
     },
     {
       "name": "MOB Coworking",
@@ -209781,10 +209796,13 @@
     {
       "name": "Watchstand",
       "slug": "polsia-watchstand",
+      "description": "Smoke tests, CVE scans, and dep PRs — for every microservice, every morning in Slack.",
+      "description_fr": "Tests de fumée, analyses CVE et PR de département – pour chaque microservice, chaque matin dans Slack.",
+      "category": "Other",
       "website": "https://watchstand.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T18:50:23.842015+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T20:09:03.062537+00:00"
     },
     {
       "name": "Staqwell",
@@ -209804,6 +209822,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-24T18:50:30.104999+00:00"
+    },
+    {
+      "name": "Tsukumogami Atelier",
+      "slug": "polsia-tsukumogami-atelier",
+      "website": "https://tsukumogami-atelier.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T20:07:26.964724+00:00"
+    },
+    {
+      "name": "KarmSetu",
+      "slug": "polsia-karmsetu",
+      "website": "https://karmsetu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T20:07:32.489873+00:00"
+    },
+    {
+      "name": "Shelfhound",
+      "slug": "polsia-shelfhound",
+      "website": "https://shelfhound.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T20:07:37.896012+00:00"
+    },
+    {
+      "name": "Antheon",
+      "slug": "polsia-antheon",
+      "website": "https://antheon.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T20:07:38.566267+00:00"
+    },
+    {
+      "name": "SYKS",
+      "slug": "polsia-syks",
+      "description": "Swiss-grade climate finance infrastructure: verification, tokenisation, and impact at institutional scale.",
+      "description_fr": "Infrastructure de financement climatique de qualité suisse : vérification, tokenisation et impact à l'échelle institutionnelle.",
+      "category": "Sustainability & Green",
+      "website": "https://syks.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T20:09:31.043159+00:00"
+    },
+    {
+      "name": "F3D Création SXM",
+      "slug": "polsia-f3d-cration-sxm",
+      "website": "https://f3d-cration-sxm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T20:07:49.421761+00:00"
+    },
+    {
+      "name": "Spinpledge",
+      "slug": "polsia-spinpledge",
+      "website": "https://spinpledge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T20:07:55.029367+00:00"
+    },
+    {
+      "name": "Halestone",
+      "slug": "polsia-halestone",
+      "website": "https://halestone.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T20:08:00.456921+00:00"
+    },
+    {
+      "name": "Haultown",
+      "slug": "polsia-haultown",
+      "description": "Date-reserved reusable moving bins across the North DFW 380 corridor between Aubrey and Denton. Three fixed-price packages, free delivery in the 76227 core.",
+      "description_fr": "Bacs de déménagement réutilisables à date réservée dans le corridor Nord DFW 380 entre Aubrey et Denton. Trois forfaits, livraison gratuite dans le noyau 76227.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://haultown.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T20:09:48.451270+00:00"
+    },
+    {
+      "name": "Elitir",
+      "slug": "polsia-elitir",
+      "description": "One-stop online shop for discounted products across pet, auto, home, and digital categories.",
+      "description_fr": "Boutique en ligne unique proposant des produits à prix réduit dans les catégories animaux de compagnie, automobile, maison et numérique.",
+      "category": "E-Commerce & Retail",
+      "website": "https://elitir.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T20:08:06.792121+00:00"
     }
   ]
 }
