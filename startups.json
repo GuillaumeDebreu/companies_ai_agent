@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T10:51:23.690857+00:00",
+  "last_updated": "2026-07-24T12:11:54.643185+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -209187,10 +209187,13 @@
     {
       "name": "Probewerk",
       "slug": "polsia-probewerk",
+      "description": "Probewerk ist eine KI-native Big-Data-Quality-Engineering-Plattform für Hadoop, Spark, Snowflake und Databricks — autonome Agenten überwachen Datenqualität in Echtzeit, reparieren ETL-Jobs selbstständig und erzeugen audit-fähige Compliance-Berichte.",
+      "description_fr": "Probewerk est une plate-forme d'ingénierie de qualité Big Data native KI pour Hadoop, Spark, Snowflake et Databricks — des agents autonomes surveillant la qualité des données en temps réel, réparant les tâches ETL de manière indépendante et assurant un audit de haute conformité.",
+      "category": "Other",
       "website": "https://probewerk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T10:49:40.946581+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T12:11:16.615580+00:00"
     },
     {
       "name": "Tounxa",
@@ -209219,10 +209222,13 @@
     {
       "name": "Shulfra",
       "slug": "polsia-shulfra",
+      "description": "Always-on agents for dark-store and quick-commerce operations — replenishment, pricing, expiry, dispatch and margin, running around the clock.",
+      "description_fr": "Des agents toujours disponibles pour les opérations de dark store et de commerce rapide : réapprovisionnement, tarification, expiration, expédition et marge, fonctionnant 24 heures sur 24.",
+      "category": "E-Commerce & Retail",
       "website": "https://shulfra.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T10:49:57.628515+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T12:11:28.355821+00:00"
     },
     {
       "name": "Psycadence",
@@ -209275,6 +209281,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-24T10:50:13.488944+00:00"
+    },
+    {
+      "name": "Vahankit",
+      "slug": "polsia-vahankit",
+      "website": "https://vahankit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T12:09:48.989686+00:00"
+    },
+    {
+      "name": "Hookburn",
+      "slug": "polsia-hookburn",
+      "website": "https://hookburn.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T12:09:54.594972+00:00"
+    },
+    {
+      "name": "ChalSaathi",
+      "slug": "polsia-chalsaathi",
+      "website": "https://chalsaathi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T12:09:59.967424+00:00"
+    },
+    {
+      "name": "Reachlane",
+      "slug": "polsia-reachlane-2",
+      "website": "https://reachlane-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T12:10:05.347183+00:00"
+    },
+    {
+      "name": "MARK III",
+      "slug": "polsia-mark-iii",
+      "description": "MARK III is Australia's veteran-led Integrated Capability Partner, connecting 150+ Small, Medium & Veteran-owned Enterprises to Defence and Government contracts.",
+      "description_fr": "MARK III est le partenaire australien de capacités intégrées dirigé par des vétérans, reliant plus de 150 petites, moyennes et entreprises appartenant à des vétérans aux contrats de la défense et du gouvernement.",
+      "category": "Other",
+      "website": "https://mark-iii.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T12:10:06.224564+00:00"
+    },
+    {
+      "name": "Snippix",
+      "slug": "polsia-snippix",
+      "description": "Un lien, un clip TikTok prêt à publier en 30 secondes. Snippix transforme YouTube, Vimeo, Twitch ou vos replays de podcasts en clips verticaux stylés, avec sous-titres et recadrage automatique.",
+      "description_fr": "Un lien, un clip TikTok prêt à publier en 30 secondes. Snippix transforme YouTube, Vimeo, Twitch ou vos replays de podcasts en clips verticaux stylés, avec sous-titres et recadrage automatique.",
+      "category": "Entertainment & Media",
+      "website": "https://snippix.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T12:11:51.883044+00:00"
+    },
+    {
+      "name": "PlumbSeal",
+      "slug": "polsia-plumbseal",
+      "description": "Verify, contract, and assign Southeast wholesale deals — without the back office.",
+      "description_fr": "Vérifiez, contractez et attribuez des offres de gros dans le Sud-Est, sans back-office.",
+      "category": "Other",
+      "website": "https://plumbseal.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T12:11:53.020154+00:00"
+    },
+    {
+      "name": "Cadrift",
+      "slug": "polsia-cadrift",
+      "description": "Where engineering managers pick their founder path. Cadrift scores the five realistic EM-to-founder paths against your capital, risk, equity goals, and management skills.",
+      "description_fr": "Où les responsables de l'ingénierie choisissent leur voie de fondateur. Cadrift évalue les cinq parcours réalistes de l'EM au fondateur en fonction de votre capital, de vos risques, de vos objectifs en matière d'actions et de vos compétences en gestion.",
+      "category": "Software & SaaS",
+      "website": "https://cadrift.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T12:10:22.260569+00:00"
+    },
+    {
+      "name": "Covelark",
+      "slug": "polsia-covelark",
+      "description": "A private stage for the people you'd actually sing with. Covelark turns your phone into a members-only karaoke room for duets, crew nights, and hosted live shows.",
+      "description_fr": "Une scène privée pour les personnes avec qui vous chanteriez. Covelark transforme votre téléphone en une salle de karaoké réservée aux membres pour des duos, des soirées en équipe et des spectacles en direct.",
+      "category": "Other",
+      "website": "https://covelark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T12:10:24.460175+00:00"
+    },
+    {
+      "name": "Vesperhaus",
+      "slug": "polsia-vesperhaus",
+      "description": "Vesperhaus is the autonomous agent that runs your consulting practice end-to-end — qualifying inquiries, drafting proposals, chasing invoices, and warming leads while you sleep.",
+      "description_fr": "Vesperhaus est l'agent autonome qui gère votre cabinet de conseil de bout en bout : qualifier les demandes, rédiger des propositions, rechercher les factures et réchauffer les prospects pendant que vous dormez.",
+      "category": "AI & Machine Learning",
+      "website": "https://vesperhaus.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T12:11:54.641889+00:00"
     }
   ]
 }
