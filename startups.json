@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T23:07:10.923986+00:00",
+  "last_updated": "2026-07-24T00:10:16.620049+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -208640,34 +208640,46 @@
     {
       "name": "Rivetloop",
       "slug": "polsia-rivetloop",
+      "description": "Done-for-you AI automation for roofers, dentists, HVAC, and other local service businesses. Missed-call text-back, AI booking agents, review requests — installed and managed for you.",
+      "description_fr": "Automatisation de l'IA faite pour vous pour les couvreurs, les dentistes, les CVC et autres entreprises de services locales. Renvoi de SMS d'appel manqué, agents de réservation IA, demandes de révision - installés et gérés pour vous.",
+      "category": "AI & Machine Learning",
       "website": "https://rivetloop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T23:05:11.267431+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T00:09:36.936334+00:00"
     },
     {
       "name": "Tenantloom",
       "slug": "polsia-tenantloom",
+      "description": "Tenantloom is the always-on AI ops layer for small landlords and co-living hosts — late-rent notices, work-order dispatch, lease renewals, and a daily P&L digest, all run by one agent.",
+      "description_fr": "Tenantloom est la couche d'opérations d'IA toujours active pour les petits propriétaires et les hôtes de cohabitation : avis de retard de loyer, envoi des bons de travail, renouvellements de bail et résumé quotidien des comptes de résultat, le tout géré par un seul agent.",
+      "category": "Real Estate",
       "website": "https://tenantloom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T23:05:16.696220+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T00:09:38.910199+00:00"
     },
     {
       "name": "Coyari",
       "slug": "polsia-coyari",
+      "description": "Your map of every cool room in Qatar, every summer. Coyari is the bilingual, mobile-first finder for indoor escapes during the June-to-September heatwave.",
+      "description_fr": "Votre carte de chaque pièce fraîche du Qatar, chaque été. Coyari est le chercheur bilingue et mobile pour les escapades intérieures pendant la canicule de juin à septembre.",
+      "category": "Other",
       "website": "https://coyari.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T23:05:22.320012+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T00:09:40.086133+00:00"
     },
     {
       "name": "Toposcope",
       "slug": "polsia-toposcope",
+      "description": "Topology-first, multi-vendor network observability for lean IT and MSP teams.",
+      "description_fr": "Observabilité réseau multifournisseur axée sur la topologie pour les équipes informatiques et MSP réduites.",
+      "category": "Social & Community",
       "website": "https://toposcope.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T23:05:31.821950+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T00:09:41.557342+00:00"
     },
     {
       "name": "Atlas Exteriors LLC",
@@ -208683,10 +208695,13 @@
     {
       "name": "Wyprawymocy.pl",
       "slug": "polsia-wyprawymocypl",
+      "description": "Autorskie wyprawy z jogą do Azji w małej grupie. Indie, Goa i Sri Lanka — 14–17 dni codziennej praktyki, oddechu i wieczornych rytuałów.",
+      "description_fr": "Autorskie wyprawy z jogą do Azji w małej grupie. Indie, Goa au Sri Lanka — 14 à 17 jours de pratique codziennej, oddechu et wieczornych rytuałów.",
+      "category": "Other",
       "website": "https://wyprawymocypl.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T23:05:38.990295+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T00:09:42.882912+00:00"
     },
     {
       "name": "Rock Solid Credit Counseling",
@@ -208713,10 +208728,13 @@
     {
       "name": "Bowline",
       "slug": "polsia-bowline-4",
+      "description": "Bowline is the harbor-arrival and vessel-profile platform built for modern marina operations. Free Vessel Passports for captains, a serious operations workspace for harbors.",
+      "description_fr": "Bowline est la plate-forme d'arrivée au port et de profil de navire conçue pour les opérations de marina modernes. Passeports de navire gratuits pour les capitaines, un espace de travail opérationnel sérieux pour les ports.",
+      "category": "Software & SaaS",
       "website": "https://bowline-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-23T23:05:50.529826+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T00:09:44.634558+00:00"
     },
     {
       "name": "Vivarion",
@@ -208728,6 +208746,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-23T23:05:52.544834+00:00"
+    },
+    {
+      "name": "Innovative Transport LLC",
+      "slug": "polsia-innovative-transport-llc",
+      "website": "https://innovative-transport-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T00:08:33.114375+00:00"
+    },
+    {
+      "name": "SurplusForge",
+      "slug": "polsia-surplusforge-2",
+      "website": "https://surplusforge-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T00:08:38.532385+00:00"
+    },
+    {
+      "name": "TradeBid",
+      "slug": "polsia-tradebid",
+      "website": "https://tradebid.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T00:08:44.007644+00:00"
+    },
+    {
+      "name": "Roscola",
+      "slug": "polsia-roscola",
+      "website": "https://roscola.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T00:08:49.342567+00:00"
+    },
+    {
+      "name": "VigilMesh",
+      "slug": "polsia-vigilmesh-2",
+      "website": "https://vigilmesh-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T00:08:54.660132+00:00"
+    },
+    {
+      "name": "Recoupra",
+      "slug": "polsia-recoupra",
+      "website": "https://recoupra.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T00:09:00.078082+00:00"
+    },
+    {
+      "name": "Loomsentry",
+      "slug": "polsia-loomsentry",
+      "description": "Independent pre-launch safety audits for AI workflows, automations, and agents. Defensible third-party review before client deliverables go live.",
+      "description_fr": "Audits de sécurité indépendants avant le lancement pour les flux de travail, les automatisations et les agents d'IA. Examen tiers défendable avant la mise en ligne des livrables du client.",
+      "category": "AI & Machine Learning",
+      "website": "https://loomsentry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T00:09:02.821640+00:00"
+    },
+    {
+      "name": "Callident",
+      "slug": "polsia-callident",
+      "description": "24/7 voice-AI benefits and claims service for dental members — eligibility, scheduling, and plain-English status, on every call.",
+      "description_fr": "Service d'avantages et de réclamations par IA vocale 24h/24 et 7j/7 pour les membres dentaires : éligibilité, planification et statut en anglais simple, à chaque appel.",
+      "category": "AI & Machine Learning",
+      "website": "https://callident.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T00:09:04.524624+00:00"
+    },
+    {
+      "name": "Vendlume",
+      "slug": "polsia-vendlume",
+      "description": "Your AI night-shift for solo Shopify and Etsy stores. Vendlume watches inventory, reprices, replies to routine messages, and scans ad spend — so you wake to a daily brief instead of a backlog.",
+      "description_fr": "Votre équipe de nuit IA pour les magasins Shopify et Etsy en solo. Vendlume surveille l'inventaire, retarifie, répond aux messages de routine et analyse les dépenses publicitaires – vous vous réveillez ainsi avec un briefing quotidien plutôt qu'un retard.",
+      "category": "E-Commerce & Retail",
+      "website": "https://vendlume.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T00:09:06.336285+00:00"
+    },
+    {
+      "name": "Curatria",
+      "slug": "polsia-curatria",
+      "description": "Always-on AI agents for museums, galleries, and archives — cataloging acquisitions, monitoring conservation, and producing reports around the clock.",
+      "description_fr": "Agents d'IA toujours actifs pour les musées, les galeries et les archives : cataloguant les acquisitions, surveillant la conservation et produisant des rapports 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://curatria.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T00:09:08.067667+00:00"
     }
   ]
 }
