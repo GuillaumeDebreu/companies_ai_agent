@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T21:21:32.554233+00:00",
+  "last_updated": "2026-07-24T22:34:02.586232+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -209933,34 +209933,46 @@
     {
       "name": "Saltmark",
       "slug": "polsia-saltmark-2",
+      "description": "Saltmark is an exam-ready English tutoring platform for IELTS, TOEFL and Cambridge learners in the GCC, taught one-to-one by KHDA-aligned certified tutors.",
+      "description_fr": "Saltmark est une plateforme de tutorat d'anglais prête pour les examens pour les apprenants de l'IELTS, du TOEFL et de Cambridge dans les pays du CCG, enseignée en tête-à-tête par des tuteurs certifiés alignés sur le KHDA.",
+      "category": "Software & SaaS",
       "website": "https://saltmark-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T21:19:22.938206+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T22:33:14.606702+00:00"
     },
     {
       "name": "Wrencraft",
       "slug": "polsia-wrencraft",
+      "description": "The AI co-pilot and community launchpad for solo founders shipping digital products.",
+      "description_fr": "Le copilote d'IA et la rampe de lancement communautaire pour les fondateurs solo expédiant des produits numériques.",
+      "category": "AI & Machine Learning",
       "website": "https://wrencraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T21:19:28.311979+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T22:33:16.520303+00:00"
     },
     {
       "name": "Diepgang",
       "slug": "polsia-diepgang",
+      "description": "Marketing met diepgang voor de Nederlandse watersportsector.",
+      "description_fr": "Marketing avec le diepgang voor de Nederlandse watersportsector.",
+      "category": "Marketing & Advertising",
       "website": "https://diepgang.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T21:19:33.687634+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T22:33:18.135449+00:00"
     },
     {
       "name": "HaulHall",
       "slug": "polsia-haulhall",
+      "description": "Always-on AI ops for movers and freight. Procurement, dispatch, rate negotiation, ETAs, customs, and customer comms — one observable surface from quote to delivery.",
+      "description_fr": "Opérations d'IA toujours actives pour les déménageurs et le fret. Approvisionnement, expédition, négociation des tarifs, ETA, douanes et communications clients : une surface observable du devis à la livraison.",
+      "category": "AI & Machine Learning",
       "website": "https://haulhall.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T21:19:39.131752+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T22:33:19.613861+00:00"
     },
     {
       "name": "Cronvouch",
@@ -209976,10 +209988,13 @@
     {
       "name": "Verdiscope",
       "slug": "polsia-verdiscope-2",
+      "description": "Always-on green-CI for every workload you ship. Verdiscope scores cloud, LLM, database, and on-prem workloads against your per-workload SCI baseline and surfaces regressions the moment they happen.",
+      "description_fr": "Une CI verte toujours active pour chaque charge de travail que vous expédiez. Verdiscope évalue les charges de travail cloud, LLM, de base de données et sur site par rapport à votre référence SCI par charge de travail et fait apparaître les régressions dès qu'elles se produisent.",
+      "category": "AI & Machine Learning",
       "website": "https://verdiscope-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T21:19:45.227331+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T22:33:21.051290+00:00"
     },
     {
       "name": "Bumpture",
@@ -209992,10 +210007,13 @@
     {
       "name": "Tallybine",
       "slug": "polsia-tallybine",
+      "description": "The always-on AI ops desk for small DTC brands — refunds, reships, and chargebacks handled while you sleep.",
+      "description_fr": "Le bureau des opérations d'IA toujours actif pour les petites marques DTC : remboursements, réexpéditions et rétrofacturations traités pendant que vous dormez.",
+      "category": "AI & Machine Learning",
       "website": "https://tallybine.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T21:19:56.038013+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T22:33:27.830759+00:00"
     },
     {
       "name": "Reelwright",
@@ -210018,6 +210036,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-24T21:19:57.889121+00:00"
+    },
+    {
+      "name": "House of Rizz",
+      "slug": "polsia-house-of-rizz",
+      "website": "https://house-of-rizz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T22:31:46.737551+00:00"
+    },
+    {
+      "name": "Poststead",
+      "slug": "polsia-poststead",
+      "website": "https://poststead.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T22:31:52.323104+00:00"
+    },
+    {
+      "name": "It's Ralph's Studios",
+      "slug": "polsia-its-ralphs-studios",
+      "website": "https://its-ralphs-studios.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T22:31:57.945516+00:00"
+    },
+    {
+      "name": "Stratmos Collective",
+      "slug": "polsia-stratmos-collective",
+      "website": "https://stratmos-collective.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T22:32:03.329624+00:00"
+    },
+    {
+      "name": "Celebrate by jg, LLC",
+      "slug": "polsia-celebrate-by-jg-llc",
+      "website": "https://celebrate-by-jg-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T22:32:08.911281+00:00"
+    },
+    {
+      "name": "Hagglet",
+      "slug": "polsia-hagglet",
+      "website": "https://hagglet.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T22:32:14.329897+00:00"
+    },
+    {
+      "name": "AfianzIA",
+      "slug": "polsia-afianzia",
+      "description": "Sistemas operativos de IA para vendedores B2B que cierran más en menos tiempo.",
+      "description_fr": "Systèmes opérationnels d'IA pour les fournisseurs B2B qui fonctionnent plus en moins de temps.",
+      "category": "Sales & CRM",
+      "website": "https://afianzia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T22:32:15.378036+00:00"
+    },
+    {
+      "name": "Tallymark",
+      "slug": "polsia-tallymark-8",
+      "description": "Tallymark is a self-serve AI ops layer for early-stage SMB founders. It watches QuickBooks, Gmail, Slack, Notion and Linear; drafts a weekly brief in the background; surfaces only the cash, vendor and deadline exceptions a founder must approve.",
+      "description_fr": "Tallymark est une couche d'opérations d'IA en libre-service destinée aux fondateurs de PME en démarrage. Il surveille QuickBooks, Gmail, Slack, Notion et Linear ; rédige un brief hebdomadaire en arrière-plan ; ne fait apparaître que les exceptions en matière de trésorerie, de fournisseur et de délai qu'un fondateur doit approuver.",
+      "category": "AI & Machine Learning",
+      "website": "https://tallymark-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T22:33:57.207959+00:00"
+    },
+    {
+      "name": "Stockwren",
+      "slug": "polsia-stockwren-3",
+      "description": "Stockwren — one always-on AI agent that watches inventory, pricing, ads, and reviews for independent Shopify and Etsy merchants.",
+      "description_fr": "Stockwren — un agent IA toujours actif qui surveille l'inventaire, les prix, les publicités et les avis des marchands indépendants Shopify et Etsy.",
+      "category": "AI & Machine Learning",
+      "website": "https://stockwren-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T22:32:22.793761+00:00"
+    },
+    {
+      "name": "Nightjar",
+      "slug": "polsia-nightjar-6",
+      "website": "https://nightjar-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T22:32:28.373111+00:00"
     }
   ]
 }
