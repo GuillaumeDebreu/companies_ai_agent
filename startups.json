@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T08:28:41.024278+00:00",
+  "last_updated": "2026-07-24T08:46:47.955729+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -208970,42 +208970,57 @@
     {
       "name": "Steadboard",
       "slug": "polsia-steadboard",
+      "description": "Agentic operations for independent outdoor advertising. Steadboard deploys always-on agents that monitor your panels, score acquisitions, schedule flights, set CPMs, and capture photo proof-of-play for family-run OOH operators.",
+      "description_fr": "Opérations agents pour la publicité extérieure indépendante. Steadboard déploie des agents toujours actifs qui surveillent vos panneaux, notent les acquisitions, planifient les vols, définissent les CPM et capturent des preuves de jeu en photo pour les opérateurs OOH familiaux.",
+      "category": "Marketing & Advertising",
       "website": "https://steadboard.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T06:14:15.678410+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T08:46:07.608803+00:00"
     },
     {
       "name": "Kerfwise",
       "slug": "polsia-kerfwise",
+      "description": "Sketch it, ask it, build it — your 24/7 woodworking partner.",
+      "description_fr": "Dessinez-le, posez-le, construisez-le : votre partenaire de menuiserie 24h/24 et 7j/7.",
+      "category": "Other",
       "website": "https://kerfwise.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T06:14:21.386773+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T08:46:08.623868+00:00"
     },
     {
       "name": "Vorthix",
       "slug": "polsia-vorthix",
+      "description": "Vorthix is the heavyweight tribute tee. The letter is yours — we set the cotton, the type, and the price.",
+      "description_fr": "Vorthix est le t-shirt hommage des poids lourds. La lettre vous appartient – ​​nous définissons le coton, le type et le prix.",
+      "category": "Other",
       "website": "https://vorthix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T06:14:26.942902+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T08:46:10.686916+00:00"
     },
     {
       "name": "Custospix",
       "slug": "polsia-custospix",
+      "description": "An always-on AI sentry for your photo library — auto-tagging, enhancement, dedup, and a privacy watchdog that pings you the moment something looks off.",
+      "description_fr": "Une sentinelle IA toujours active pour votre photothèque : marquage automatique, amélioration, déduplication et surveillance de la confidentialité qui vous envoie une alerte dès que quelque chose ne va pas.",
+      "category": "AI & Machine Learning",
       "website": "https://custospix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T06:14:32.619440+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T08:46:12.128178+00:00"
     },
     {
       "name": "Dialwright",
       "slug": "polsia-dialwright-2",
+      "description": "Dialwright is the AI front desk for local service businesses — dental, legal, HVAC, plumbing. We build, integrate, and operate voice agents, intake bots, and follow-up sequences on a flat outcome retainer.",
+      "description_fr": "Dialwright est la réception IA pour les entreprises de services locales : soins dentaires, juridiques, CVC, plomberie. Nous construisons, intégrons et exploitons des agents vocaux, des robots d'admission et des séquences de suivi sur un plan de résultat fixe.",
+      "category": "AI & Machine Learning",
       "website": "https://dialwright-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T06:14:38.265885+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T08:46:13.255660+00:00"
     },
     {
       "name": "TillerOps",
@@ -209051,10 +209066,111 @@
     {
       "name": "Cashhelm",
       "slug": "polsia-cashhelm",
+      "description": "Cashhelm is the single AI agent that owns the daily P&L loop for solo DTC founders — reallocating ad spend, restocking inventory, replying to support, and reporting one clean daily P&L.",
+      "description_fr": "Cashhelm est le seul agent d'IA qui gère la boucle quotidienne de P&L pour les fondateurs solo de DTC : réaffectation des dépenses publicitaires, réapprovisionnement de l'inventaire, réponse à l'assistance et reporting d'un P&L quotidien propre.",
+      "category": "AI & Machine Learning",
       "website": "https://cashhelm.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T08:46:25.205482+00:00"
+    },
+    {
+      "name": "SORY",
+      "slug": "polsia-sory",
+      "website": "https://sory.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-24T06:15:04.415416+00:00"
+      "scraped_at": "2026-07-24T08:45:08.870658+00:00"
+    },
+    {
+      "name": "LumeCast",
+      "slug": "polsia-lumecast",
+      "website": "https://lumecast.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T08:45:14.502208+00:00"
+    },
+    {
+      "name": "GuardianAI",
+      "slug": "polsia-guardianai-3",
+      "website": "https://guardianai-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T08:45:19.917999+00:00"
+    },
+    {
+      "name": "Trimont",
+      "slug": "polsia-trimont",
+      "website": "https://trimont.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T08:45:25.326302+00:00"
+    },
+    {
+      "name": "Estafette",
+      "slug": "polsia-estafette",
+      "description": "Domiciliation 2.0 : courrier trié par IA, déclarations automatiques, conformité pour TPE.",
+      "description_fr": "Domiciliation 2.0 : courrier trié par IA, déclarations automatiques, conformité pour TPE.",
+      "category": "Other",
+      "website": "https://estafette.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T08:45:26.940860+00:00"
+    },
+    {
+      "name": "Veilnote",
+      "slug": "polsia-veilnote",
+      "description": "Indie niches to legacy icons — every bottle verified, every note catalogued. A multi-brand fragrance storefront with two-step authentication, IFRA allergen disclosure, and AI-driven discovery.",
+      "description_fr": "Des niches indépendantes aux icônes historiques : chaque bouteille vérifiée, chaque note cataloguée. Une vitrine de parfums multimarques avec authentification en deux étapes, divulgation des allergènes IFRA et découverte basée sur l'IA.",
+      "category": "AI & Machine Learning",
+      "website": "https://veilnote.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T08:46:47.954631+00:00"
+    },
+    {
+      "name": "Marée Haute",
+      "slug": "polsia-mare-haute",
+      "description": "Le studio social media des commerçants de la Côte d'Opale — Instagram & TikTok pilotés à Dunkerque, sans engagement.",
+      "description_fr": "Le studio réseaux sociaux des commerçants de la Côte d'Opale — Instagram & TikTok pilotés à Dunkerque, sans engagement.",
+      "category": "Marketing & Advertising",
+      "website": "https://mare-haute.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T08:45:33.738493+00:00"
+    },
+    {
+      "name": "Mintloom",
+      "slug": "polsia-mintloom",
+      "description": "White-label AI funnel stacks for Indian agencies — your brand up top, the plumbing underneath.",
+      "description_fr": "Piles d'entonnoirs d'IA en marque blanche pour les agences indiennes : votre marque en haut, la plomberie en dessous.",
+      "category": "AI & Machine Learning",
+      "website": "https://mintloom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T08:45:34.900827+00:00"
+    },
+    {
+      "name": "Tunsight",
+      "slug": "polsia-tunsight",
+      "description": "Always-on AI plant agents for FSMA and GFSI-ready food and beverage lines.",
+      "description_fr": "Agents végétaux IA toujours actifs pour les lignes de produits alimentaires et de boissons compatibles FSMA et GFSI.",
+      "category": "AI & Machine Learning",
+      "website": "https://tunsight.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T08:45:36.201742+00:00"
+    },
+    {
+      "name": "Pennybrook",
+      "slug": "polsia-pennybrook",
+      "description": "AI bookkeeping and quarterly tax filing — built for UK freelancers. Open Banking feeds, HMRC categories, MTD ITSA-ready from April 2026.",
+      "description_fr": "Comptabilité IA et déclaration de revenus trimestrielle – conçue pour les indépendants britanniques. Flux Open Banking, catégories HMRC, prêt MTD ITSA à partir d’avril 2026.",
+      "category": "AI & Machine Learning",
+      "website": "https://pennybrook.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T08:45:37.632645+00:00"
     }
   ]
 }
