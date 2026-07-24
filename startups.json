@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T08:46:47.955729+00:00",
+  "last_updated": "2026-07-24T10:51:23.690857+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -209077,34 +209077,46 @@
     {
       "name": "SORY",
       "slug": "polsia-sory",
+      "description": "Menuiserie familiale depuis 1930 à Mouscron — portes, mobilier, cloisons, plafonds, cuisines et châssis sur mesure.",
+      "description_fr": "Menuiserie familiale depuis 1930 à Mouscron — portes, mobilier, cloisons, plafonds, cuisines et châssis sur mesure.",
+      "category": "Other",
       "website": "https://sory.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T08:45:08.870658+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T10:50:50.934068+00:00"
     },
     {
       "name": "LumeCast",
       "slug": "polsia-lumecast",
+      "description": "Always-on AI agent catching ad-spend leaks and tuning Meta + Google bids for Shopify D2C brands.",
+      "description_fr": "Un agent d'IA toujours actif détecte les fuites de dépenses publicitaires et ajuste les enchères Meta + Google pour les marques Shopify D2C.",
+      "category": "AI & Machine Learning",
       "website": "https://lumecast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T08:45:14.502208+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T10:50:52.084107+00:00"
     },
     {
       "name": "GuardianAI",
       "slug": "polsia-guardianai-3",
+      "description": "GuardianAI is positioned around protection, oversight, and defensive intelligence — engineered to flag, scrutinise, and shield what matters, around the clock.",
+      "description_fr": "GuardianAI se positionne autour de la protection, de la surveillance et du renseignement défensif – conçu pour signaler, examiner et protéger ce qui compte, 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://guardianai-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T08:45:19.917999+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T10:50:53.990969+00:00"
     },
     {
       "name": "Trimont",
       "slug": "polsia-trimont",
+      "description": "An always-on AI engineer for firmware, mobile, and microservices. Trimont watches all three layers, ranks incidents, drafts the fix branch, and opens a pull request — so on-call starts with a clean diff.",
+      "description_fr": "Un ingénieur IA toujours disponible pour les micrologiciels, les mobiles et les microservices. Trimont surveille les trois couches, classe les incidents, rédige la branche de correctif et ouvre une pull request — ainsi, l'astreinte commence par une différence nette.",
+      "category": "AI & Machine Learning",
       "website": "https://trimont.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T08:45:25.326302+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T10:50:55.217700+00:00"
     },
     {
       "name": "Estafette",
@@ -209171,6 +209183,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-24T08:45:37.632645+00:00"
+    },
+    {
+      "name": "Probewerk",
+      "slug": "polsia-probewerk",
+      "website": "https://probewerk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T10:49:40.946581+00:00"
+    },
+    {
+      "name": "Tounxa",
+      "slug": "polsia-tounxa",
+      "website": "https://tounxa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T10:49:41.423518+00:00"
+    },
+    {
+      "name": "Metermesh",
+      "slug": "polsia-metermesh",
+      "website": "https://metermesh.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T10:49:46.892087+00:00"
+    },
+    {
+      "name": "Ernest Services Ltd",
+      "slug": "polsia-ernest-services-ltd",
+      "website": "https://ernest-services-ltd.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T10:49:52.308295+00:00"
+    },
+    {
+      "name": "Shulfra",
+      "slug": "polsia-shulfra",
+      "website": "https://shulfra.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T10:49:57.628515+00:00"
+    },
+    {
+      "name": "Psycadence",
+      "slug": "polsia-psycadence",
+      "website": "https://psycadence.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T10:50:03.098914+00:00"
+    },
+    {
+      "name": "Praanadhaara",
+      "slug": "polsia-praanadhaara",
+      "description": "Praanadhaara — an India-based online plant nursery offering indoor and outdoor plants, kitchen herbs, the Moringa line, plant-care inputs, and personal & corporate plant hampers — from our nursery to your home.",
+      "description_fr": "Praanadhaara — une pépinière en ligne basée en Inde proposant des plantes d'intérieur et d'extérieur, des herbes de cuisine, la gamme Moringa, des intrants d'entretien des plantes et des paniers de plantes personnels et d'entreprise — de notre pépinière à votre maison.",
+      "category": "Food & Beverage",
+      "website": "https://praanadhaara.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T10:51:23.689910+00:00"
+    },
+    {
+      "name": "Bondloop",
+      "slug": "polsia-bondloop-2",
+      "description": "The field-only guide to NEC Article 680. Pool wiring, bonding, GFCI, and equipment-pad rules translated for contractors, electricians, inspectors, and service techs.",
+      "description_fr": "Le guide de terrain uniquement sur l'article 680 du NEC. Règles de câblage de piscine, de mise à la masse, de GFCI et d'équipement traduites pour les entrepreneurs, les électriciens, les inspecteurs et les techniciens de service.",
+      "category": "Marketing & Advertising",
+      "website": "https://bondloop-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T10:50:09.572114+00:00"
+    },
+    {
+      "name": "Tessentia",
+      "slug": "polsia-tessentia",
+      "description": "Tessentia is the AI operating system that turns your scattered tools, spreadsheets and inboxes into one governed company brain — and runs the automations to act on it.",
+      "description_fr": "Tessentia est le système d'exploitation d'IA qui transforme vos outils, feuilles de calcul et boîtes de réception dispersés en un seul cerveau d'entreprise gouverné – et exécute les automatisations pour agir en conséquence.",
+      "category": "AI & Machine Learning",
+      "website": "https://tessentia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T10:50:11.337482+00:00"
+    },
+    {
+      "name": "Tampuk",
+      "slug": "polsia-tampuk",
+      "description": "Tampuk deploys a fleet of specialized AI agents that runs your Shopify and Shopee portfolio across Southeast Asia — monitoring inventory, repricing listings, replying to buyers in Burmese, Thai, Vietnamese and more, processing returns, and reporting daily revenue.",
+      "description_fr": "Tampuk déploie une flotte d'agents IA spécialisés qui gèrent votre portefeuille Shopify et Shopee dans toute l'Asie du Sud-Est – surveillant les stocks, révisant les listes, répondant aux acheteurs en birman, thaïlandais, vietnamien et plus encore, traitant les retours et déclarant les revenus quotidiens.",
+      "category": "AI & Machine Learning",
+      "website": "https://tampuk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T10:50:13.488944+00:00"
     }
   ]
 }
