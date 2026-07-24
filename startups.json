@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T22:34:02.586232+00:00",
+  "last_updated": "2026-07-24T23:39:31.697068+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -210040,26 +210040,35 @@
     {
       "name": "House of Rizz",
       "slug": "polsia-house-of-rizz",
+      "description": "A premium social-skills studio for charisma as a craft — dating, on-camera, founder presence, and creator persona. Practice loops, not pickup lines.",
+      "description_fr": "Un studio de compétences sociales haut de gamme pour le charisme en tant qu'artisanat : rencontres, caméra, présence du fondateur et personnalité du créateur. Entraînez-vous à faire des boucles, pas des lignes de ramassage.",
+      "category": "Social & Community",
       "website": "https://house-of-rizz.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T22:31:46.737551+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T23:38:55.532610+00:00"
     },
     {
       "name": "Poststead",
       "slug": "polsia-poststead",
+      "description": "Flat-fee residential real estate brokerage. Save thousands with a transparent ~1% listing fee and a buyer rebate — every transaction handled by a licensed local agent.",
+      "description_fr": "Courtage immobilier résidentiel à forfait. Économisez des milliers de dollars grâce à des frais d'inscription transparents d'environ 1 % et une remise à l'acheteur – chaque transaction est gérée par un agent local agréé.",
+      "category": "Real Estate",
       "website": "https://poststead.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T22:31:52.323104+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T23:38:56.998561+00:00"
     },
     {
       "name": "It's Ralph's Studios",
       "slug": "polsia-its-ralphs-studios",
+      "description": "Custom embroidery, DTF prints, sports uniforms, and vehicle wraps — done by Ralph, out of Tidewater Virginia.",
+      "description_fr": "Broderies personnalisées, impressions DTF, uniformes de sport et habillage de véhicules – réalisés par Ralph, à Tidewater en Virginie.",
+      "category": "Other",
       "website": "https://its-ralphs-studios.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T22:31:57.945516+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T23:38:58.004778+00:00"
     },
     {
       "name": "Stratmos Collective",
@@ -210072,10 +210081,13 @@
     {
       "name": "Celebrate by jg, LLC",
       "slug": "polsia-celebrate-by-jg-llc",
+      "description": "A boutique, founder-led celebration studio crafting personal, hands-on experiences for the moments worth remembering.",
+      "description_fr": "Un studio de célébration dirigé par son fondateur, qui crée des expériences personnelles et pratiques pour des moments inoubliables.",
+      "category": "Other",
       "website": "https://celebrate-by-jg-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T22:32:08.911281+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T23:38:59.665426+00:00"
     },
     {
       "name": "Hagglet",
@@ -210121,10 +210133,105 @@
     {
       "name": "Nightjar",
       "slug": "polsia-nightjar-6",
+      "description": "Nightjar is a 24/7 SaaS watchdog that catches bugs, reads churn signals, and drafts the fix PR — gated behind human review.",
+      "description_fr": "Nightjar est un chien de garde SaaS 24h/24 et 7j/7 qui détecte les bugs, lit les signaux de désabonnement et rédige le correctif PR - soumis à un examen humain.",
+      "category": "Software & SaaS",
       "website": "https://nightjar-6.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T23:39:02.247161+00:00"
+    },
+    {
+      "name": "Quaystead",
+      "slug": "polsia-quaystead",
+      "website": "https://quaystead.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-24T22:32:28.373111+00:00"
+      "scraped_at": "2026-07-24T23:37:27.653459+00:00"
+    },
+    {
+      "name": "Eaves Access Advisors",
+      "slug": "polsia-eaves-access-advisors",
+      "website": "https://eaves-access-advisors.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T23:37:28.464695+00:00"
+    },
+    {
+      "name": "Hearthset",
+      "slug": "polsia-hearthset-2",
+      "website": "https://hearthset-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T23:37:34.180227+00:00"
+    },
+    {
+      "name": "Staypost",
+      "slug": "polsia-staypost",
+      "website": "https://staypost.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T23:37:39.759644+00:00"
+    },
+    {
+      "name": "Locastra",
+      "slug": "polsia-locastra",
+      "website": "https://locastra.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T23:37:50.301879+00:00"
+    },
+    {
+      "name": "Trovex",
+      "slug": "polsia-trovex-2",
+      "description": "Continuous AI agents turning loan book signals into daily action plans for online lenders and fintechs.",
+      "description_fr": "Des agents d’IA continus transforment les signaux des carnets de prêts en plans d’action quotidiens pour les prêteurs en ligne et les fintechs.",
+      "category": "AI & Machine Learning",
+      "website": "https://trovex-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T23:39:31.333550+00:00"
+    },
+    {
+      "name": "Lantern Cut",
+      "slug": "polsia-lantern-cut",
+      "description": "Cinematic AI, from first prompt to final cut. A premium AI-native creative studio shipping finished, rights-cleared films for brands, labels, agencies, and independent filmmakers.",
+      "description_fr": "IA cinématographique, de la première invite au montage final. Un studio de création haut de gamme natif d'IA qui expédie des films finis et dont les droits sont libérés pour les marques, les labels, les agences et les cinéastes indépendants.",
+      "category": "AI & Machine Learning",
+      "website": "https://lantern-cut.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T23:37:58.001122+00:00"
+    },
+    {
+      "name": "Plyloom",
+      "slug": "polsia-plyloom",
+      "description": "Vertical SaaS cut one workflow at a time.",
+      "description_fr": "Le SaaS vertical supprime un flux de travail à la fois.",
+      "category": "Software & SaaS",
+      "website": "https://plyloom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T23:38:00.039794+00:00"
+    },
+    {
+      "name": "Peltmason",
+      "slug": "polsia-peltmason",
+      "website": "https://peltmason.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T23:38:00.384858+00:00"
+    },
+    {
+      "name": "Pantry Press",
+      "slug": "polsia-pantry-press",
+      "description": "A stockroom of digital goods that sell on repeat. Pantry Press is a workspace and storefront for solo creators shipping Canva & Notion templates, planners, ebooks, and short-form courses.",
+      "description_fr": "Un entrepôt de produits numériques qui se vendent en boucle. Pantry Press est un espace de travail et une vitrine pour les créateurs solo proposant des modèles, des planificateurs, des ebooks et des cours abrégés Canva & Notion.",
+      "category": "E-Commerce & Retail",
+      "website": "https://pantry-press.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T23:38:02.004506+00:00"
     }
   ]
 }
