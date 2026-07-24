@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T13:47:09.282828+00:00",
+  "last_updated": "2026-07-24T14:14:56.538648+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -209293,10 +209293,13 @@
     {
       "name": "Hookburn",
       "slug": "polsia-hookburn",
+      "description": "Predict virality before you hit publish. Hookburn scores YouTube hooks, titles, and thumbnails for viral potential — so faceless channels make fewer films, but make the right ones.",
+      "description_fr": "Prédisez la viralité avant de cliquer sur publier. Hookburn note des crochets, des titres et des miniatures YouTube pour leur potentiel viral – de sorte que les chaînes sans visage font moins de films, mais réalisent les bons.",
+      "category": "Other",
       "website": "https://hookburn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T12:09:54.594972+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T14:14:09.772594+00:00"
     },
     {
       "name": "ChalSaathi",
@@ -209309,10 +209312,13 @@
     {
       "name": "Reachlane",
       "slug": "polsia-reachlane-2",
+      "description": "Reachlane is a reach-aware AI layer for Apple CarPlay, Android Auto, and native head units — it keeps every infotainment control inside a one-handed reach envelope, with an OTA playbook that lands inside NHTSA and GSR2 driver-distraction limits.",
+      "description_fr": "Reachlane est une couche d'IA sensible à la portée pour Apple CarPlay, Android Auto et les unités principales natives - elle maintient tous les contrôles d'infodivertissement dans une enveloppe de portée à une main, avec un manuel de jeu OTA qui atterrit dans les limites de distraction du conducteur de la NHTSA et du GSR2.",
+      "category": "AI & Machine Learning",
       "website": "https://reachlane-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T12:10:05.347183+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T14:14:11.724759+00:00"
     },
     {
       "name": "MARK III",
@@ -209379,6 +209385,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-24T12:11:54.641889+00:00"
+    },
+    {
+      "name": "Refuge School",
+      "slug": "polsia-refuge-school",
+      "website": "https://refuge-school.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T14:12:42.606331+00:00"
+    },
+    {
+      "name": "SovaBid",
+      "slug": "polsia-sovabid",
+      "website": "https://sovabid.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T14:12:43.213062+00:00"
+    },
+    {
+      "name": "DrapeRamp",
+      "slug": "polsia-draperamp",
+      "website": "https://draperamp.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T14:12:43.723026+00:00"
+    },
+    {
+      "name": "Mendrite",
+      "slug": "polsia-mendrite",
+      "website": "https://mendrite.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T14:12:49.169550+00:00"
+    },
+    {
+      "name": "Ninetyfold",
+      "slug": "polsia-ninetyfold",
+      "website": "https://ninetyfold.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T14:12:54.531457+00:00"
+    },
+    {
+      "name": "Plyform",
+      "slug": "polsia-plyform-3",
+      "website": "https://plyform-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T14:12:59.902477+00:00"
+    },
+    {
+      "name": "Knocksmith",
+      "slug": "polsia-knocksmith-2",
+      "website": "https://knocksmith-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T14:13:05.297765+00:00"
+    },
+    {
+      "name": "Quillwright",
+      "slug": "polsia-quillwright-2",
+      "website": "https://quillwright-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T14:13:10.693653+00:00"
+    },
+    {
+      "name": "Veska",
+      "slug": "polsia-veska",
+      "description": "Always-on AI cardiology agents that triage, draft, renew, and call daily.",
+      "description_fr": "Des agents de cardiologie IA toujours disponibles qui trient, recrutent, renouvellent et appellent quotidiennement.",
+      "category": "AI & Machine Learning",
+      "website": "https://veska.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T14:14:55.649281+00:00"
+    },
+    {
+      "name": "Cobana",
+      "slug": "polsia-cobana",
+      "description": "Every contractor, machine, and material — for Guyana's builders.",
+      "description_fr": "Chaque entrepreneur, machine et matériel – pour les constructeurs guyaniens.",
+      "category": "Other",
+      "website": "https://cobana.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T14:14:56.537586+00:00"
     }
   ]
 }
