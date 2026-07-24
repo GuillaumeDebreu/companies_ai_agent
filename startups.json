@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T20:09:48.452574+00:00",
+  "last_updated": "2026-07-24T21:21:32.554233+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -209826,34 +209826,46 @@
     {
       "name": "Tsukumogami Atelier",
       "slug": "polsia-tsukumogami-atelier",
+      "description": "An indie perfumery house built from Japanese yokai mythology — each 30–50ml EDP conjures one creature from the folklore canon, with an illustrated lore card tucked in the box.",
+      "description_fr": "Une maison de parfumerie indépendante construite à partir de la mythologie japonaise yokai — chaque EDP de 30 à 50 ml évoque une créature du canon du folklore, avec une carte d'histoire illustrée cachée dans la boîte.",
+      "category": "AI & Machine Learning",
       "website": "https://tsukumogami-atelier.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T20:07:26.964724+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T21:20:47.405203+00:00"
     },
     {
       "name": "KarmSetu",
       "slug": "polsia-karmsetu",
+      "description": "Always-on AI staff for India’s small businesses — receptionists, booking agents, and WhatsApp concierges that answer 24/7 in Hindi and English.",
+      "description_fr": "Personnel d'IA toujours disponible pour les petites entreprises indiennes : réceptionnistes, agents de réservation et concierges WhatsApp qui répondent 24h/24 et 7j/7 en hindi et en anglais.",
+      "category": "AI & Machine Learning",
       "website": "https://karmsetu.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T20:07:32.489873+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T21:20:48.488858+00:00"
     },
     {
       "name": "Shelfhound",
       "slug": "polsia-shelfhound",
+      "description": "Always-on operations for the indie bookseller. Inventory, reorders, staff, and a daily briefing — handled so you can stay on the floor.",
+      "description_fr": "Opérations permanentes pour le libraire indépendant. Inventaire, réapprovisionnements, personnel et briefing quotidien – gérés pour que vous puissiez rester sur le terrain.",
+      "category": "Other",
       "website": "https://shelfhound.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T20:07:37.896012+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T21:20:50.136606+00:00"
     },
     {
       "name": "Antheon",
       "slug": "polsia-antheon",
+      "description": "Autonomous infrastructure agents that work 24/7 and escalate only when it matters.",
+      "description_fr": "Des agents d'infrastructure autonomes qui fonctionnent 24 heures sur 24 et 7 jours sur 7 et qui interviennent uniquement lorsque cela est nécessaire.",
+      "category": "Other",
       "website": "https://antheon.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T20:07:38.566267+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T21:20:51.167618+00:00"
     },
     {
       "name": "SYKS",
@@ -209869,10 +209881,13 @@
     {
       "name": "F3D Création SXM",
       "slug": "polsia-f3d-cration-sxm",
+      "description": "L'impression 3D haut de gamme, conçue et fabriquée à Saint-Martin. Pièces détachées, décoration, prototypage, signalétique et planches NFC.",
+      "description_fr": "L'impression 3D haut de gamme, conçue et fabriquée à Saint-Martin. Pièces détachées, décoration, prototypage, signalétique et planches NFC.",
+      "category": "Other",
       "website": "https://f3d-cration-sxm.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T20:07:49.421761+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T21:20:52.790783+00:00"
     },
     {
       "name": "Spinpledge",
@@ -209885,10 +209900,13 @@
     {
       "name": "Halestone",
       "slug": "polsia-halestone",
+      "description": "Executive coaching for senior women navigating perimenopause and menopause — sustaining performance, planning deliberate career moves, and partnering with HR on reasonable adjustments.",
+      "description_fr": "Coaching de cadres pour les femmes seniors en périménopause et en ménopause – maintien des performances, planification d'évolutions de carrière délibérées et partenariat avec les RH pour des ajustements raisonnables.",
+      "category": "Education",
       "website": "https://halestone.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T20:08:00.456921+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-24T21:20:55.191861+00:00"
     },
     {
       "name": "Haultown",
@@ -209911,6 +209929,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-24T20:08:06.792121+00:00"
+    },
+    {
+      "name": "Saltmark",
+      "slug": "polsia-saltmark-2",
+      "website": "https://saltmark-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T21:19:22.938206+00:00"
+    },
+    {
+      "name": "Wrencraft",
+      "slug": "polsia-wrencraft",
+      "website": "https://wrencraft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T21:19:28.311979+00:00"
+    },
+    {
+      "name": "Diepgang",
+      "slug": "polsia-diepgang",
+      "website": "https://diepgang.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T21:19:33.687634+00:00"
+    },
+    {
+      "name": "HaulHall",
+      "slug": "polsia-haulhall",
+      "website": "https://haulhall.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T21:19:39.131752+00:00"
+    },
+    {
+      "name": "Cronvouch",
+      "slug": "polsia-cronvouch",
+      "description": "Always-on AI bookkeeping and cross-border tax copilot for solo operators.",
+      "description_fr": "Comptabilité IA permanente et copilote fiscal transfrontalier pour les opérateurs solo.",
+      "category": "AI & Machine Learning",
+      "website": "https://cronvouch.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T21:19:39.879954+00:00"
+    },
+    {
+      "name": "Verdiscope",
+      "slug": "polsia-verdiscope-2",
+      "website": "https://verdiscope-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T21:19:45.227331+00:00"
+    },
+    {
+      "name": "Bumpture",
+      "slug": "polsia-bumpture",
+      "website": "https://bumpture.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T21:19:50.655648+00:00"
+    },
+    {
+      "name": "Tallybine",
+      "slug": "polsia-tallybine",
+      "website": "https://tallybine.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-24T21:19:56.038013+00:00"
+    },
+    {
+      "name": "Reelwright",
+      "slug": "polsia-reelwright-2",
+      "description": "Browser-native video search distilled into answers — synthesized from the open video web with timestamped citations back to the source.",
+      "description_fr": "Recherche vidéo native du navigateur distillée en réponses - synthétisée à partir du Web vidéo ouvert avec des citations horodatées jusqu'à la source.",
+      "category": "Entertainment & Media",
+      "website": "https://reelwright-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T21:19:57.189614+00:00"
+    },
+    {
+      "name": "Dosmicos",
+      "slug": "polsia-dosmicos",
+      "description": "Moda infantil colombiana al precio justo, hecha con cariño local.",
+      "description_fr": "Mode infantile colombienne au prix juste, hecha con cariño local.",
+      "category": "Other",
+      "website": "https://dosmicos.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-24T21:19:57.889121+00:00"
     }
   ]
 }
