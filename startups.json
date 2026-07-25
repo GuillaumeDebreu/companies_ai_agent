@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T19:08:11.364039+00:00",
+  "last_updated": "2026-07-25T19:53:18.942410+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -211333,42 +211333,57 @@
     {
       "name": "Affluenza Group",
       "slug": "polsia-affluenza-group",
+      "description": "Grupo español especializado en estrategias para marcas premium y de lujo en mercados hispanos.",
+      "description_fr": "Groupe espagnol spécialisé dans les stratégies pour les marques premium et le luxe sur les marchés hispanos.",
+      "category": "Social & Community",
       "website": "https://affluenza-group.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T18:34:30.582932+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T19:52:38.665578+00:00"
     },
     {
       "name": "Woodbower",
       "slug": "polsia-woodbower",
+      "description": "Locally harvested manzanita, hand-finished for bold beaks.",
+      "description_fr": "Manzanita récoltée localement, finie à la main pour des becs audacieux.",
+      "category": "Other",
       "website": "https://woodbower.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T18:34:36.091748+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T19:52:40.132936+00:00"
     },
     {
       "name": "Hearquill",
       "slug": "polsia-hearquill",
+      "description": "Real-time review intelligence for small businesses. Hearquill pulls Google, Yelp and Facebook reviews the moment they land, drafts replies in the owner's own voice, and pings you when sentiment dips.",
+      "description_fr": "Intelligence d'examen en temps réel pour les petites entreprises. Hearquill extrait les avis de Google, Yelp et Facebook dès leur arrivée, rédige les réponses avec la propre voix du propriétaire et vous envoie un ping lorsque le sentiment baisse.",
+      "category": "Other",
       "website": "https://hearquill.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T18:34:41.509309+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T19:52:41.780388+00:00"
     },
     {
       "name": "Nightbell",
       "slug": "polsia-nightbell-4",
+      "description": "Nightbell is the always-on AI concierge for independent short-term rental hosts. Repricing, guest messaging, and cleaning ops — handled while you sleep.",
+      "description_fr": "Nightbell est le concierge IA toujours actif pour les hôtes indépendants de location à court terme. Modification des tarifs, messagerie des clients et opérations de nettoyage : gérées pendant que vous dormez.",
+      "category": "AI & Machine Learning",
       "website": "https://nightbell-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T18:34:47.053851+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T19:52:43.247022+00:00"
     },
     {
       "name": "Halflight Studio",
       "slug": "polsia-halflight-studio",
+      "description": "The silent backend that turns creator reach into owned revenue — gated memberships, paid newsletters, and high-CPM brand retainers, engineered on a pure revenue-share.",
+      "description_fr": "Le backend silencieux qui transforme la portée des créateurs en revenus détenus : abonnements sécurisés, newsletters payantes et rétentions de marque à CPM élevé, conçus sur un pur partage des revenus.",
+      "category": "Marketing & Advertising",
       "website": "https://halflight-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T18:34:52.369691+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T19:52:44.716699+00:00"
     },
     {
       "name": "Velnexa UI",
@@ -211381,10 +211396,13 @@
     {
       "name": "Vespire",
       "slug": "polsia-vespire",
+      "description": "Always-on lung intelligence for pediatric pulmonology. Vespire plugs into in-clinic and home spirometers to surface FEV1/FVC trends, schedule follow-ups, and draft EMR-ready notes around the clock.",
+      "description_fr": "Intelligence pulmonaire permanente pour la pneumologie pédiatrique. Vespire se connecte aux spiromètres en clinique et à domicile pour faire apparaître les tendances FEV1/FVC, planifier des suivis et rédiger des notes prêtes pour le DME 24 heures sur 24.",
+      "category": "Health & Wellness",
       "website": "https://vespire.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T18:34:58.157164+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T19:52:47.288070+00:00"
     },
     {
       "name": "Brickledger",
@@ -211418,6 +211436,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-25T18:35:10.636349+00:00"
+    },
+    {
+      "name": "Bloomkin",
+      "slug": "polsia-bloomkin",
+      "website": "https://bloomkin.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T19:51:06.241675+00:00"
+    },
+    {
+      "name": "Aligneo",
+      "slug": "polsia-aligneo",
+      "website": "https://aligneo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T19:51:11.987989+00:00"
+    },
+    {
+      "name": "TechVantage",
+      "slug": "polsia-techvantage",
+      "website": "https://techvantage.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T19:51:17.518564+00:00"
+    },
+    {
+      "name": "Cromara",
+      "slug": "polsia-cromara",
+      "website": "https://cromara.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T19:51:23.153243+00:00"
+    },
+    {
+      "name": "Heroes' Garage",
+      "slug": "polsia-heroes-garage",
+      "website": "https://heroes-garage.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T19:51:27.839029+00:00"
+    },
+    {
+      "name": "Unloop",
+      "slug": "polsia-unloop-2",
+      "description": "AI bill hunters that read your inbox, kill zombie subscriptions, and renegotiate the rest.",
+      "description_fr": "Des chasseurs de factures IA qui lisent votre boîte de réception, tuent les abonnements zombies et renégocient le reste.",
+      "category": "AI & Machine Learning",
+      "website": "https://unloop-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T19:53:11.802612+00:00"
+    },
+    {
+      "name": "Pressel",
+      "slug": "polsia-pressel",
+      "description": "Pressel is a one-button AI sidekick that answers \"what should I do right now?\" in under ten seconds. Tap the button, get a calm, numbered list of next moves.",
+      "description_fr": "Pressel est un assistant IA à un bouton qui répond « que dois-je faire maintenant ? » en moins de dix secondes. Appuyez sur le bouton, obtenez une liste calme et numérotée des prochains mouvements.",
+      "category": "AI & Machine Learning",
+      "website": "https://pressel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T19:53:13.290332+00:00"
+    },
+    {
+      "name": "VidCena",
+      "slug": "polsia-vidcena",
+      "description": "The autonomous merchandising agent that keeps Czech and Slovak sellers on the buy box — pricing, copy, and PPC, end-to-end.",
+      "description_fr": "L'agent de marchandisage autonome qui maintient les vendeurs tchèques et slovaques dans la boîte d'achat : tarification, copie et PPC, de bout en bout.",
+      "category": "Other",
+      "website": "https://vidcena.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T19:51:41.163917+00:00"
+    },
+    {
+      "name": "SpaceMedia",
+      "slug": "polsia-spacemedia",
+      "description": "Music distribution built for independent artists and labels. Release to 250+ platforms, keep 100% of your royalties, and pay yourself out in 24 hours.",
+      "description_fr": "Distribution musicale conçue pour les artistes et labels indépendants. Diffusez sur plus de 250 plateformes, conservez 100 % de vos redevances et payez-vous en 24 heures.",
+      "category": "Entertainment & Media",
+      "website": "https://spacemedia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T19:51:42.404579+00:00"
+    },
+    {
+      "name": "Cladework",
+      "slug": "polsia-cladework",
+      "website": "https://cladework.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T19:51:48.313226+00:00"
     }
   ]
 }
