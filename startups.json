@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T19:53:18.942410+00:00",
+  "last_updated": "2026-07-25T20:42:25.834064+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -211448,26 +211448,35 @@
     {
       "name": "Aligneo",
       "slug": "polsia-aligneo",
+      "description": "AI-consultancy MKB — Aligneo helpt ondernemers en het MKB met de AI-transitie: strategie, maatwerkoplossingen en begeleiding. EU-first, AVG-conform, direct met Mick.",
+      "description_fr": "AI-consultancy MKB — Aligneo aide les entrepreneurs de MKB à mettre en œuvre la transition en IA : stratégie, développement et planification des projets. Premier UE, conforme à AVG, rencontre directe avec Mick.",
+      "category": "AI & Machine Learning",
       "website": "https://aligneo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T19:51:11.987989+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T20:41:43.948971+00:00"
     },
     {
       "name": "TechVantage",
       "slug": "polsia-techvantage",
+      "description": "Expert-tested reviews and buying guides for home and pet essentials.",
+      "description_fr": "Avis testés par des experts et guides d'achat d'articles essentiels pour la maison et les animaux de compagnie.",
+      "category": "Other",
       "website": "https://techvantage.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T19:51:17.518564+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T20:41:45.655956+00:00"
     },
     {
       "name": "Cromara",
       "slug": "polsia-cromara",
+      "description": "Cromara unifies satellite imagery and LiDAR point clouds into one explorable network — pan between flat photos and 3D terrain, share annotated scenes, link any place on the planet.",
+      "description_fr": "Cromara unifie l'imagerie satellite et les nuages ​​de points LiDAR en un seul réseau explorable : effectuez un panoramique entre des photos plates et un terrain 3D, partagez des scènes annotées et reliez n'importe quel endroit de la planète.",
+      "category": "Social & Community",
       "website": "https://cromara.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T19:51:23.153243+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T20:41:46.825988+00:00"
     },
     {
       "name": "Heroes' Garage",
@@ -211528,6 +211537,98 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-07-25T19:51:48.313226+00:00"
+    },
+    {
+      "name": "GraniteGlaze",
+      "slug": "polsia-graniteglaze",
+      "website": "https://graniteglaze.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T20:40:26.689102+00:00"
+    },
+    {
+      "name": "Kontoriq",
+      "slug": "polsia-kontoriq",
+      "website": "https://kontoriq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T20:40:27.349659+00:00"
+    },
+    {
+      "name": "Nullhaven",
+      "slug": "polsia-nullhaven",
+      "website": "https://nullhaven.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T20:40:32.979160+00:00"
+    },
+    {
+      "name": "Aubade",
+      "slug": "polsia-aubade",
+      "website": "https://aubade.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T20:40:38.398051+00:00"
+    },
+    {
+      "name": "Pleiade",
+      "slug": "polsia-pleiade",
+      "website": "https://pleiade.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T20:40:44.030178+00:00"
+    },
+    {
+      "name": "Stonemarch",
+      "slug": "polsia-stonemarch",
+      "website": "https://stonemarch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T20:40:49.582192+00:00"
+    },
+    {
+      "name": "Slowshift",
+      "slug": "polsia-slowshift",
+      "description": "The 24/7 operations agent for handcrafted candle studios — watches inventory, drafts outreach, and files reorder decisions for your final nod.",
+      "description_fr": "L'agent opérationnel 24h/24 et 7j/7 pour les studios de bougies fabriquées à la main - surveille l'inventaire, rédige la sensibilisation et classe les décisions de réorganisation pour votre signe final.",
+      "category": "Sales & CRM",
+      "website": "https://slowshift.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T20:40:51.183585+00:00"
+    },
+    {
+      "name": "Brasstone",
+      "slug": "polsia-brasstone",
+      "description": "An adaptive practice planner for busy adult amateur saxophonists. Tell us how much time you have; we decide how to use it.",
+      "description_fr": "Un planificateur de pratique adaptatif pour les saxophonistes amateurs adultes occupés. Dites-nous de combien de temps vous disposez ; nous décidons comment l'utiliser.",
+      "category": "Other",
+      "website": "https://brasstone.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T20:40:52.511111+00:00"
+    },
+    {
+      "name": "Saanj",
+      "slug": "polsia-saanj",
+      "description": "Saanj is a 24/7 AI operations platform for menstrual health across South Sudan — keeping product inventory, donor logistics, school outreach, and patient education running around the clock.",
+      "description_fr": "Saanj est une plate-forme opérationnelle d'IA 24h/24 et 7j/7 pour la santé menstruelle dans tout le Soudan du Sud, qui gère l'inventaire des produits, la logistique des donateurs, la sensibilisation des écoles et l'éducation des patients 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://saanj.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T20:40:54.571718+00:00"
+    },
+    {
+      "name": "Bellwright",
+      "slug": "polsia-bellwright-2",
+      "description": "NFPA-ready inspection reports from rough field notes — a focused AI report writer for fire alarm and low-voltage technicians.",
+      "description_fr": "Rapports d'inspection prêts pour la NFPA à partir de notes de terrain brutes - un rédacteur de rapports d'IA ciblé pour les techniciens en alarme incendie et basse tension.",
+      "category": "AI & Machine Learning",
+      "website": "https://bellwright-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T20:40:55.914386+00:00"
     }
   ]
 }
