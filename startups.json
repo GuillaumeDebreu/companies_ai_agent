@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T15:36:42.021551+00:00",
+  "last_updated": "2026-07-25T16:32:03.981400+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -211009,34 +211009,46 @@
     {
       "name": "Pipkind",
       "slug": "polsia-pipkind",
+      "description": "Casual & sport footwear for little feet — sourced direct from China.",
+      "description_fr": "Chaussures décontractées et de sport pour les petits pieds, provenant directement de Chine.",
+      "category": "Other",
       "website": "https://pipkind.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T15:34:42.231105+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T16:31:15.418487+00:00"
     },
     {
       "name": "Diliagent",
       "slug": "polsia-diliagent",
+      "description": "Diliagent is the AI-native virtual data room where autonomous agents run M&A, fundraising, and audit diligence end to end — redaction, Q&A, signatures, consents.",
+      "description_fr": "Diliagent est la salle de données virtuelle native de l'IA où des agents autonomes gèrent les fusions et acquisitions, les collectes de fonds et les audits de bout en bout : rédaction, questions et réponses, signatures et consentements.",
+      "category": "AI & Machine Learning",
       "website": "https://diliagent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T15:34:42.848329+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T16:31:17.282204+00:00"
     },
     {
       "name": "Nightrail",
       "slug": "polsia-nightrail",
+      "description": "AI agents running pricing, guests, and maintenance across your rentals — around the clock. One autonomous system on top of your existing PMS APIs.",
+      "description_fr": "Des agents IA gèrent la tarification, les clients et la maintenance de vos locations, 24 heures sur 24. Un système autonome en plus de vos API PMS existantes.",
+      "category": "AI & Machine Learning",
       "website": "https://nightrail.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T15:34:48.313214+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T16:31:18.439812+00:00"
     },
     {
       "name": "Harbormind",
       "slug": "polsia-harbormind-2",
+      "description": "Autonomous AI agents that run your wholesale import business end-to-end.",
+      "description_fr": "Des agents IA autonomes qui gèrent votre activité d'importation en gros de bout en bout.",
+      "category": "AI & Machine Learning",
       "website": "https://harbormind-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T15:34:58.759228+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T16:31:20.331944+00:00"
     },
     {
       "name": "Rider Raggz",
@@ -211103,6 +211115,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-25T15:35:16.781539+00:00"
+    },
+    {
+      "name": "Pinerow",
+      "slug": "polsia-pinerow-2",
+      "website": "https://pinerow-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T16:29:53.180318+00:00"
+    },
+    {
+      "name": "Doneche",
+      "slug": "polsia-doneche",
+      "website": "https://doneche.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T16:29:58.573620+00:00"
+    },
+    {
+      "name": "Noctigraf",
+      "slug": "polsia-noctigraf",
+      "website": "https://noctigraf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T16:29:59.136300+00:00"
+    },
+    {
+      "name": "R&L ENERGIE",
+      "slug": "polsia-rl-energie",
+      "website": "https://rl-energie.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T16:30:04.740526+00:00"
+    },
+    {
+      "name": "Nightkeep",
+      "slug": "polsia-nightkeep-6",
+      "website": "https://nightkeep-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T16:30:10.067390+00:00"
+    },
+    {
+      "name": "Bailéo",
+      "slug": "polsia-bailo",
+      "website": "https://bailo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T16:30:10.688795+00:00"
+    },
+    {
+      "name": "Stonecrop Group",
+      "slug": "polsia-stonecrop-group",
+      "website": "https://stonecrop-group.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T16:30:16.226865+00:00"
+    },
+    {
+      "name": "מאדה",
+      "slug": "polsia-company-286902",
+      "website": "https://company-286902.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T16:30:21.582710+00:00"
+    },
+    {
+      "name": "Outfettle",
+      "slug": "polsia-outfettle",
+      "website": "https://outfettle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T16:30:26.959125+00:00"
+    },
+    {
+      "name": "Out of the Shadows Alliance",
+      "slug": "polsia-out-of-the-shadows-alliance",
+      "description": "Coordinated case management connecting homeless and co-occurring disorder clients to treatment, housing, and support.",
+      "description_fr": "Gestion de cas coordonnée reliant les clients sans abri et souffrant de troubles concomitants au traitement, au logement et au soutien.",
+      "category": "Real Estate",
+      "website": "https://out-of-the-shadows-alliance.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T16:30:28.034638+00:00"
     }
   ]
 }
