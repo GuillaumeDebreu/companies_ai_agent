@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T23:39:31.697068+00:00",
+  "last_updated": "2026-07-25T01:10:21.459215+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -210144,42 +210144,57 @@
     {
       "name": "Quaystead",
       "slug": "polsia-quaystead",
+      "description": "Cost-plus barge-dock operations with municipal revenue share on tonnage.",
+      "description_fr": "Opérations de quai de barges à coût majoré avec partage des revenus municipaux en fonction du tonnage.",
+      "category": "Marketing & Advertising",
       "website": "https://quaystead.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T23:37:27.653459+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T01:09:49.848951+00:00"
     },
     {
       "name": "Eaves Access Advisors",
       "slug": "polsia-eaves-access-advisors",
+      "description": "Language access readiness audits and retainers for community and mid-sized healthcare organizations.",
+      "description_fr": "Audits de préparation à l'accès linguistique et mandats pour les organismes de santé communautaires et de taille moyenne.",
+      "category": "Health & Wellness",
       "website": "https://eaves-access-advisors.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T23:37:28.464695+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T01:09:51.153999+00:00"
     },
     {
       "name": "Hearthset",
       "slug": "polsia-hearthset-2",
+      "description": "Your personal chef on repeat — wellness meals prepped weekly at home.",
+      "description_fr": "Votre chef personnel à répétition : des repas bien-être préparés chaque semaine à la maison.",
+      "category": "Food & Beverage",
       "website": "https://hearthset-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T23:37:34.180227+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T01:09:52.516462+00:00"
     },
     {
       "name": "Staypost",
       "slug": "polsia-staypost",
+      "description": "The always-on release watchdog for small teams. Watches every release, auto-rolls back the ones that break, and pages the on-call engineer the moment a regression lands.",
+      "description_fr": "Le chien de garde permanent pour les petites équipes. Surveille chaque version, annule automatiquement celles qui tombent en panne et appelle l'ingénieur de garde dès qu'une régression survient.",
+      "category": "Other",
       "website": "https://staypost.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T23:37:39.759644+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T01:09:53.974496+00:00"
     },
     {
       "name": "Locastra",
       "slug": "polsia-locastra",
+      "description": "Always-on listing intelligence for multi-location chains. Locastra keeps every storefront citation, review response, and AI-search surface accurate, on-message, and within Google policy — across GBP, Yelp, Apple Maps, Bing, and the wider web.",
+      "description_fr": "Informations de référencement permanentes pour les chaînes multi-sites. Locastra veille à ce que chaque citation de vitrine, réponse à un avis et surface de recherche IA soit exacte, conforme aux messages et conforme à la politique de Google, sur GBP, Yelp, Apple Maps, Bing et le Web au sens large.",
+      "category": "AI & Machine Learning",
       "website": "https://locastra.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-24T23:37:50.301879+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T01:09:55.914986+00:00"
     },
     {
       "name": "Trovex",
@@ -210232,6 +210247,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-24T23:38:02.004506+00:00"
+    },
+    {
+      "name": "Pinchloom",
+      "slug": "polsia-pinchloom",
+      "website": "https://pinchloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T01:08:35.733464+00:00"
+    },
+    {
+      "name": "Valeron",
+      "slug": "polsia-valeron",
+      "website": "https://valeron.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T01:08:41.303103+00:00"
+    },
+    {
+      "name": "SGV Travels",
+      "slug": "polsia-sgv-travels",
+      "website": "https://sgv-travels.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T01:08:41.989342+00:00"
+    },
+    {
+      "name": "Crewside",
+      "slug": "polsia-crewside-3",
+      "website": "https://crewside-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T01:08:47.478964+00:00"
+    },
+    {
+      "name": "Aunt Ann's Dookie Disposal",
+      "slug": "polsia-aunt-anns-dookie-disposal",
+      "website": "https://aunt-anns-dookie-disposal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T01:08:53.073354+00:00"
+    },
+    {
+      "name": "Vestcrown",
+      "slug": "polsia-vestcrown",
+      "description": "Autonomous AI investing with a fiduciary in the loop. A registered broker-dealer reasoning over markets, taxes, and your goals — every model decision logged, explained, and overridable.",
+      "description_fr": "L’IA autonome investit avec un fiduciaire au courant. Un courtier enregistré qui raisonne sur les marchés, les taxes et vos objectifs – chaque décision de modèle enregistrée, expliquée et annulable.",
+      "category": "AI & Machine Learning",
+      "website": "https://vestcrown.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T01:10:15.239877+00:00"
+    },
+    {
+      "name": "Polsia App",
+      "slug": "polsia-kasawheels",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
+      "website": "https://kasawheels.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T01:09:00.119986+00:00"
+    },
+    {
+      "name": "Plumbline",
+      "slug": "polsia-plumbline-5f5ubv",
+      "description": "The honest monetization stack for solo course sellers and niche reviewers. Course checkout, student area, and FTC-grade reviews in one stack.",
+      "description_fr": "La pile de monétisation honnête pour les vendeurs de cours en solo et les évaluateurs de niche. Paiement des cours, espace étudiant et évaluations de qualité FTC dans une seule pile.",
+      "category": "Education",
+      "website": "https://plumbline-5f5ubv.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T01:09:01.644010+00:00"
+    },
+    {
+      "name": "Bookvane",
+      "slug": "polsia-bookvane",
+      "website": "https://bookvane.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T01:09:07.138242+00:00"
+    },
+    {
+      "name": "Excellentia Advisory Group",
+      "slug": "polsia-excellentia-advisory-group",
+      "website": "https://excellentia-advisory-group.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T01:09:07.804876+00:00"
     }
   ]
 }
