@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T04:28:36.596564+00:00",
+  "last_updated": "2026-07-25T06:41:32.106007+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -210356,44 +210356,59 @@
       "scraped_at": "2026-07-25T01:09:07.804876+00:00"
     },
     {
-      "name": "Strata Design Studio LLC",
+      "name": "Strata Design Studio",
       "slug": "polsia-strata-design-studio-llc",
+      "description": "Curated Lowcountry-inspired interiors that blend coastal elegance with livable functionality. Bluffton, South Carolina + serving clients virtually nationwide.",
+      "description_fr": "Des intérieurs inspirés du Lowcountry qui allient élégance côtière et fonctionnalité habitable. Bluffton, Caroline du Sud + au service de clients pratiquement dans tout le pays.",
+      "category": "Other",
       "website": "https://strata-design-studio-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T04:26:39.955154+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T06:40:35.907203+00:00"
     },
     {
       "name": "Stillmoss",
       "slug": "polsia-stillmoss",
+      "description": "Someone who just listens. Stillmoss is a calm AI presence for people who need to vent, think out loud, or just be heard — never a script, never a coach, never a persona.",
+      "description_fr": "Quelqu'un qui écoute simplement. Stillmoss est une présence calme d'IA pour les personnes qui ont besoin de se défouler, de réfléchir à voix haute ou simplement d'être entendues – jamais un script, jamais un coach, jamais un personnage.",
+      "category": "AI & Machine Learning",
       "website": "https://stillmoss.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T04:26:45.373447+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T06:40:38.048012+00:00"
     },
     {
       "name": "Plumbwright",
       "slug": "polsia-plumbwright-3",
+      "description": "AI-vetted trades with video-verified proof-of-work portfolios. Exclusive, non-shared matches for skilled trades and the customers who hire them.",
+      "description_fr": "Métiers contrôlés par l'IA avec des portefeuilles de preuves de travail vérifiés par vidéo. Des jumelages exclusifs et non partagés entre les métiers spécialisés et les clients qui les embauchent.",
+      "category": "AI & Machine Learning",
       "website": "https://plumbwright-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T04:26:50.939675+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T06:40:39.141167+00:00"
     },
     {
       "name": "CrustSentry",
       "slug": "polsia-crustsentry",
+      "description": "Always-on back-office agent for independent pizzerias: watches online order flow, forecasts prep, watches inventory, and texts you the morning P&L.",
+      "description_fr": "Agent de back-office toujours disponible pour les pizzerias indépendantes : surveille le flux des commandes en ligne, prévoit la préparation, surveille l'inventaire et vous envoie un SMS pour le P&L du matin.",
+      "category": "Other",
       "website": "https://crustsentry.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T04:26:56.637611+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T06:40:40.452654+00:00"
     },
     {
       "name": "Trayline",
       "slug": "polsia-trayline-2",
+      "description": "Office supplies on subscription, bundled for SMB teams. Quiet replenishment for breakroom, paper, hygiene and janitorial — no procurement complexity.",
+      "description_fr": "Fournitures de bureau sur abonnement, groupées pour les équipes PME. Réapprovisionnement silencieux pour la salle de repos, le papier, l'hygiène et la conciergerie — aucune complexité d'approvisionnement.",
+      "category": "Other",
       "website": "https://trayline-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T04:27:02.189895+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T06:40:42.087612+00:00"
     },
     {
       "name": "Hammermark",
@@ -210431,10 +210446,13 @@
     {
       "name": "Guest Syndicate",
       "slug": "polsia-guest-syndicate",
+      "description": "Boutique concierge podcast representation for high-leverage founders — hand-curated bookings, personal pitches, lifetime-locked $199/month.",
+      "description_fr": "Représentation de podcast de conciergerie de boutique pour les fondateurs à fort effet de levier : réservations personnalisées, pitchs personnels, 199 $/mois verrouillés à vie.",
+      "category": "Travel & Hospitality",
       "website": "https://guest-syndicate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T04:27:11.351869+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T06:40:43.157756+00:00"
     },
     {
       "name": "Nacrelle & Mar",
@@ -210446,6 +210464,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-25T04:27:12.577606+00:00"
+    },
+    {
+      "name": "Sigwrit",
+      "slug": "polsia-sigwrit",
+      "website": "https://sigwrit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T06:39:10.950692+00:00"
+    },
+    {
+      "name": "Graavee",
+      "slug": "polsia-graavee",
+      "website": "https://graavee.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T06:39:21.533651+00:00"
+    },
+    {
+      "name": "Clepta",
+      "slug": "polsia-clepta",
+      "website": "https://clepta.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T06:39:22.074847+00:00"
+    },
+    {
+      "name": "Bowline",
+      "slug": "polsia-bowline-9",
+      "website": "https://bowline-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T06:39:27.412564+00:00"
+    },
+    {
+      "name": "TrekPijl",
+      "slug": "polsia-trekpijl",
+      "website": "https://trekpijl.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T06:39:32.747117+00:00"
+    },
+    {
+      "name": "Truckwright Heavy",
+      "slug": "polsia-truckwright-heavy",
+      "website": "https://truckwright-heavy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T06:39:38.164423+00:00"
+    },
+    {
+      "name": "Cinderdraft",
+      "slug": "polsia-cinderdraft",
+      "website": "https://cinderdraft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T06:39:43.408107+00:00"
+    },
+    {
+      "name": "Mortarstack",
+      "slug": "polsia-mortarstack-2",
+      "website": "https://mortarstack-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T06:39:48.955383+00:00"
+    },
+    {
+      "name": "Chelly's Oddities",
+      "slug": "polsia-chellys-oddities",
+      "description": "Small-batch curiosities, bones, skulls, and gothic decor for collectors of the unusual.",
+      "description_fr": "Curiosités en petits lots, os, crânes et décor gothique pour les collectionneurs d'insolites.",
+      "category": "Sustainability & Green",
+      "website": "https://chellys-oddities.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T06:39:50.055698+00:00"
+    },
+    {
+      "name": "Northkeel",
+      "slug": "polsia-northkeel",
+      "description": "A Singapore coaching practice for SME owners who have proven the solo version — DVF, team formation, and operator rituals in one sequential arc.",
+      "description_fr": "Une pratique de coaching à Singapour pour les propriétaires de PME qui ont fait leurs preuves en version solo : DVF, formation d'équipe et rituels d'opérateur dans un arc séquentiel.",
+      "category": "Education",
+      "website": "https://northkeel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T06:41:32.104994+00:00"
     }
   ]
 }
