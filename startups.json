@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T13:35:28.606552+00:00",
+  "last_updated": "2026-07-25T14:22:57.722146+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -210792,34 +210792,46 @@
     {
       "name": "Verdicast",
       "slug": "polsia-verdicast",
+      "description": "Honest verdicts on tech, AI, and the tools you actually use — review-first YouTube coverage with a weekly cadence.",
+      "description_fr": "Des verdicts honnêtes sur la technologie, l'IA et les outils que vous utilisez réellement : examinez d'abord la couverture YouTube avec une cadence hebdomadaire.",
+      "category": "AI & Machine Learning",
       "website": "https://verdicast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T12:44:35.279841+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T14:21:57.823183+00:00"
     },
     {
       "name": "Melacademy",
       "slug": "polsia-melacademy",
+      "description": "La scuola italiana delle carriere digitali per ragazzi, adulti e insegnanti. Coding, robotica, matematica e IA con un metodo ludico e gamificato.",
+      "description_fr": "L'école italienne des carrières numériques pour les jeunes, les adultes et les débutants. Codage, robotique, mathématique et IA avec une méthode ludique et ludique.",
+      "category": "Other",
       "website": "https://melacademy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T12:44:40.811652+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T14:21:58.702115+00:00"
     },
     {
       "name": "Vitrino",
       "slug": "polsia-vitrino-2",
+      "description": "Boutique fractional CMO for serious DTC brands. Strategy, retention, and paid acquisition — pre-loaded with category context. Three to five clients at a time.",
+      "description_fr": "Boutique CMO fractionnée pour les marques DTC sérieuses. Stratégie, fidélisation et acquisition payante – préchargées avec le contexte de catégorie. Trois à cinq clients à la fois.",
+      "category": "Marketing & Advertising",
       "website": "https://vitrino-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T12:44:46.385113+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T14:22:00.621559+00:00"
     },
     {
       "name": "Vorfahrt",
       "slug": "polsia-vorfahrt",
+      "description": "Vorfahrt ist die durchgängige Plattform für Fahrschulen: Theorie-Lernen, Finanzverwaltung, Fahrstundenplanung und praktischer Unterricht – datensynchron in Echtzeit.",
+      "description_fr": "Il s'agit de la plate-forme dure pour les écoles d'enseignement supérieur : formation théorique, gestion financière, planification des études de marché et formation pratique - synchronisation des données dans l'heure actuelle.",
+      "category": "Other",
       "website": "https://vorfahrt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T12:44:51.758197+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-25T14:22:02.124775+00:00"
     },
     {
       "name": "Voltkith",
@@ -210886,6 +210898,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-25T12:45:13.258591+00:00"
+    },
+    {
+      "name": "Reelwright",
+      "slug": "polsia-reelwright-3",
+      "website": "https://reelwright-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T14:20:28.024583+00:00"
+    },
+    {
+      "name": "Knotwell",
+      "slug": "polsia-knotwell",
+      "website": "https://knotwell.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T14:20:28.908184+00:00"
+    },
+    {
+      "name": "Praxari",
+      "slug": "polsia-praxari",
+      "website": "https://praxari.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T14:20:29.712081+00:00"
+    },
+    {
+      "name": "TepukKolektif",
+      "slug": "polsia-tepukkolektif",
+      "website": "https://tepukkolektif.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T14:20:35.432743+00:00"
+    },
+    {
+      "name": "Harkloom",
+      "slug": "polsia-harkloom",
+      "website": "https://harkloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T14:20:46.179460+00:00"
+    },
+    {
+      "name": "Quoinmark",
+      "slug": "polsia-quoinmark",
+      "website": "https://quoinmark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T14:20:51.685777+00:00"
+    },
+    {
+      "name": "Claimwright",
+      "slug": "polsia-claimwright-3",
+      "website": "https://claimwright-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T14:20:57.427241+00:00"
+    },
+    {
+      "name": "VantaShala",
+      "slug": "polsia-vantashala",
+      "website": "https://vantashala.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T14:21:03.014391+00:00"
+    },
+    {
+      "name": "UNMARKED graphics",
+      "slug": "polsia-unmarked-graphics",
+      "description": "Independent graphic design for brands that want real craft, not template output. Logo systems, brand identity, and supporting print & digital work from a solo studio.",
+      "description_fr": "Conception graphique indépendante pour les marques qui souhaitent un véritable savoir-faire et non une sortie de modèle. Systèmes de logos, identité de marque et travaux imprimés et numériques d'un studio solo.",
+      "category": "Marketing & Advertising",
+      "website": "https://unmarked-graphics.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-25T14:22:52.184367+00:00"
+    },
+    {
+      "name": "Ledgerhawk",
+      "slug": "polsia-ledgerhawk-3",
+      "website": "https://ledgerhawk-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-25T14:21:14.296895+00:00"
     }
   ]
 }
