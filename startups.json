@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T02:52:36.406184+00:00",
+  "last_updated": "2026-07-26T04:48:52.587297+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -211981,42 +211981,57 @@
     {
       "name": "Mantlekeep",
       "slug": "polsia-mantlekeep",
+      "description": "Mantlekeep is an always-on AI operations agent for small Shopify merchants. It watches ad spend, SKU stock, and incoming reviews 24/7 — rebalancing bids when ROAS slips, queueing low-stock SKUs as draft restock orders, and prepping human-approved replies to negative reviews. Each morning, owners get one plain-English digest of what changed, what was automated, and what still needs a human decision.",
+      "description_fr": "Mantlekeep est un agent opérationnel d'IA toujours actif pour les petits commerçants Shopify. Il surveille les dépenses publicitaires, le stock de SKU et les avis entrants 24 heures sur 24, 7 jours sur 7, en rééquilibrant les offres lorsque le ROAS diminue, en mettant en file d'attente les SKU à faible stock en tant que brouillons de commandes de réapprovisionnement et en préparant les réponses approuvées par l'homme aux avis négatifs. Chaque matin, les propriétaires reçoivent un résumé en anglais simple de ce qui a changé, de ce qui a été automatisé et de ce qui nécessite encore une décision humaine.",
+      "category": "AI & Machine Learning",
       "website": "https://mantlekeep.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T01:15:52.920956+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T04:48:04.117348+00:00"
     },
     {
       "name": "Watareq",
       "slug": "polsia-watareq",
+      "description": "AI agents and stacks, from Hangzhou to MENA merchants. WhatsApp sales agents, Arabic/French/English booking and CRM, and automated social content — delivered in days at fixed prices from $1,500 to $4,000.",
+      "description_fr": "Agents et piles d'IA, de Hangzhou aux commerçants MENA. Agents commerciaux WhatsApp, réservation et CRM en arabe/français/anglais et contenu social automatisé — livrés en quelques jours à des prix fixes allant de 1 500 $ à 4 000 $.",
+      "category": "AI & Machine Learning",
       "website": "https://watareq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T01:15:53.603892+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T04:48:05.948479+00:00"
     },
     {
-      "name": "Plumtide",
+      "name": "Polsia App",
       "slug": "polsia-plumtide",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
       "website": "https://plumtide.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T01:15:54.216641+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T04:48:08.220376+00:00"
     },
     {
       "name": "Crateward",
       "slug": "polsia-crateward",
+      "description": "Micro-purchase shopping for government, stocked from the contracts you win.",
+      "description_fr": "Micro-achats pour le gouvernement, approvisionnés à partir des contrats que vous remportez.",
+      "category": "E-Commerce & Retail",
       "website": "https://crateward.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T01:15:59.836029+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T04:48:09.444555+00:00"
     },
     {
       "name": "Heartloom",
       "slug": "polsia-heartloom-3",
+      "description": "Autonomous K-8 AI agents — continuous tutoring, daily progress digests, no human tutor required.",
+      "description_fr": "Agents IA autonomes de la maternelle à la 8e année : tutorat continu, résumés de progrès quotidiens, aucun tuteur humain requis.",
+      "category": "AI & Machine Learning",
       "website": "https://heartloom-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T01:16:10.328669+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T04:48:10.861574+00:00"
     },
     {
       "name": "Audiprowl",
@@ -212054,10 +212069,13 @@
     {
       "name": "Pinepost",
       "slug": "polsia-pinepost-2",
+      "description": "A launch workspace for niche-store founders. Post first. Build a Shopify or spend on paid ads only after real organic demand shows up.",
+      "description_fr": "Un espace de travail de lancement pour les fondateurs de magasins de niche. Postez en premier. Créez un Shopify ou dépensez en publicités payantes uniquement après l'apparition d'une véritable demande organique.",
+      "category": "E-Commerce & Retail",
       "website": "https://pinepost-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T01:16:19.925824+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T04:48:12.806207+00:00"
     },
     {
       "name": "Carillon",
@@ -212069,6 +212087,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-26T01:16:21.261106+00:00"
+    },
+    {
+      "name": "Knitward",
+      "slug": "polsia-knitward",
+      "website": "https://knitward.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T04:46:22.613610+00:00"
+    },
+    {
+      "name": "Effer",
+      "slug": "polsia-effer",
+      "website": "https://effer.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T04:46:28.063343+00:00"
+    },
+    {
+      "name": "Toebox",
+      "slug": "polsia-toebox",
+      "website": "https://toebox.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T04:46:38.521655+00:00"
+    },
+    {
+      "name": "RHÔNE THERM SOLUTIONS",
+      "slug": "polsia-rhne-therm-solutions",
+      "website": "https://rhne-therm-solutions.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T04:46:44.126114+00:00"
+    },
+    {
+      "name": "Mercatide",
+      "slug": "polsia-mercatide",
+      "description": "Mercatide — one AI agent for inventory, pricing, replies, and 24/7 dispatch across every marketplace. Built for online sellers on Amazon, eBay, Walmart, Etsy, and Shopify.",
+      "description_fr": "Mercatide — un agent IA pour l'inventaire, les prix, les réponses et l'expédition 24h/24 et 7j/7 sur chaque marché. Conçu pour les vendeurs en ligne sur Amazon, eBay, Walmart, Etsy et Shopify.",
+      "category": "E-Commerce & Retail",
+      "website": "https://mercatide.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T04:48:39.811425+00:00"
+    },
+    {
+      "name": "Lavendear",
+      "slug": "polsia-lavendear",
+      "website": "https://lavendear.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T04:46:50.062293+00:00"
+    },
+    {
+      "name": "Plateset",
+      "slug": "polsia-plateset",
+      "description": "A weekly meal plan and matching workout plan, generated from a short onboarding quiz and tuned every week by a one-tap check-in. No logging, no streaks — the plan does the work; you show up.",
+      "description_fr": "Un plan de repas hebdomadaire et un plan d'entraînement correspondant, générés à partir d'un court quiz d'intégration et ajustés chaque semaine par un enregistrement en un seul clic. Pas d'exploitation forestière, pas de traînées : le plan fait le travail ; vous vous présentez.",
+      "category": "Food & Beverage",
+      "website": "https://plateset.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T04:48:40.847866+00:00"
+    },
+    {
+      "name": "Tradeveil",
+      "slug": "polsia-tradeveil",
+      "website": "https://tradeveil.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T04:47:01.045623+00:00"
+    },
+    {
+      "name": "Crottle",
+      "slug": "polsia-crottle",
+      "website": "https://crottle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T04:47:06.683131+00:00"
+    },
+    {
+      "name": "Quotacraft",
+      "slug": "polsia-quotacraft-2",
+      "description": "Standardized repair-quote reference data — workscope baselines, per-customer deals, and a single Quote Reference view — for MRO sales teams.",
+      "description_fr": "Données de référence standardisées pour les devis de réparation (bases de travail, offres par client et vue de référence de devis unique) pour les équipes commerciales MRO.",
+      "category": "Sales & CRM",
+      "website": "https://quotacraft-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T04:48:52.586219+00:00"
     }
   ]
 }
