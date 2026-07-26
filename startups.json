@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T15:16:40.537224+00:00",
+  "last_updated": "2026-07-26T16:18:26.947995+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -212751,42 +212751,57 @@
     {
       "name": "Duoville",
       "slug": "polsia-duoville",
+      "description": "Agents IA Salesforce + HubSpot — alertes hebdomadaires et correctifs pré-rédigés pour PME francophones.",
+      "description_fr": "Agents IA Salesforce + HubSpot — alertes hebdomadaires et correctifs pré-rédigés pour PME francophones.",
+      "category": "Sales & CRM",
       "website": "https://duoville.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T15:14:50.712423+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T16:17:42.164990+00:00"
     },
     {
       "name": "MerchNinho",
       "slug": "polsia-merchninho",
+      "description": "O ninho lusófono da merch dos creators que você ama.",
+      "description_fr": "O ninho lusófono de merch dos créateurs que você ama.",
+      "category": "Other",
       "website": "https://merchninho.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T15:14:56.138490+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T16:17:43.490010+00:00"
     },
     {
       "name": "Stoep",
       "slug": "polsia-stoep",
+      "description": "A room for becoming.",
+      "description_fr": "Une pièce pour devenir.",
+      "category": "Sustainability & Green",
       "website": "https://stoep.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T15:15:06.580318+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T16:17:45.258691+00:00"
     },
     {
       "name": "Oh My Chewy",
       "slug": "polsia-oh-my-chewy",
+      "description": "Clean, vegan, melatonin-free gummy vitamins for kids, teens, and families — third-party tested by SGS & Swift Labs, made in GMP-certified facilities.",
+      "description_fr": "Vitamines gommeuses propres, végétaliennes et sans mélatonine pour les enfants, les adolescents et les familles — testées par des tiers par SGS et Swift Labs, fabriquées dans des installations certifiées GMP.",
+      "category": "Other",
       "website": "https://oh-my-chewy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T15:15:12.158832+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T16:17:47.352368+00:00"
     },
     {
       "name": "Tardyx",
       "slug": "polsia-tardyx",
+      "description": "AI cash-flow co-pilot that works while you sleep.",
+      "description_fr": "Copilote de flux de trésorerie IA qui fonctionne pendant que vous dormez.",
+      "category": "AI & Machine Learning",
       "website": "https://tardyx.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T15:15:17.715132+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T16:17:48.956156+00:00"
     },
     {
       "name": "Hawkfold",
@@ -212813,10 +212828,13 @@
     {
       "name": "Bourgeon",
       "slug": "polsia-bourgeon",
+      "description": "Bourgeon est l'agence médias et croissance automatisée par des agents IA : achat programmatique, créative et optimisation continue, sur une seule plateforme.",
+      "description_fr": "Bourgeon est l'agence médias et croissance automatisée par des agents IA : achat programmatique, créatif et optimisation continue, sur une seule plateforme.",
+      "category": "Other",
       "website": "https://bourgeon.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T15:15:25.784540+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T16:17:49.898399+00:00"
     },
     {
       "name": "Polsia App",
@@ -212839,6 +212857,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-26T15:15:28.109947+00:00"
+    },
+    {
+      "name": "SherpaBro",
+      "slug": "polsia-sherpabro",
+      "website": "https://sherpabro.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T16:16:32.690505+00:00"
+    },
+    {
+      "name": "Hatchcraft",
+      "slug": "polsia-hatchcraft-7",
+      "website": "https://hatchcraft-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T16:16:38.082686+00:00"
+    },
+    {
+      "name": "Tallymane",
+      "slug": "polsia-tallymane",
+      "website": "https://tallymane.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T16:16:43.596957+00:00"
+    },
+    {
+      "name": "Eletroviva",
+      "slug": "polsia-eletroviva",
+      "website": "https://eletroviva.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T16:16:49.068535+00:00"
+    },
+    {
+      "name": "Reversent",
+      "slug": "polsia-reversent",
+      "website": "https://reversent.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T16:16:54.420563+00:00"
+    },
+    {
+      "name": "LohkoKettu",
+      "slug": "polsia-lohkokettu",
+      "website": "https://lohkokettu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T16:16:54.994303+00:00"
+    },
+    {
+      "name": "A.C. Contracting and Design LLC",
+      "slug": "polsia-ac-contracting-and-design-llc",
+      "website": "https://ac-contracting-and-design-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T16:16:55.479624+00:00"
+    },
+    {
+      "name": "Seegräber GmbH",
+      "slug": "polsia-seegrber-gmbh",
+      "website": "https://seegrber-gmbh.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T16:17:01.004264+00:00"
+    },
+    {
+      "name": "Signalward",
+      "slug": "polsia-signalward",
+      "description": "Always-on AI radar for every customer signal. Signalward watches support tickets, reviews, NPS, and social mentions 24/7, resolves issues in the moment, and emails founders a scannable morning briefing ranked by what actually matters.",
+      "description_fr": "Radar IA toujours actif pour chaque signal client. Signalward surveille les tickets, les avis, les NPS et les mentions sociales 24h/24 et 7j/7, résout les problèmes sur le moment et envoie par e-mail aux fondateurs un briefing matinal numérisable classé en fonction de ce qui compte réellement.",
+      "category": "AI & Machine Learning",
+      "website": "https://signalward.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T16:18:25.600418+00:00"
+    },
+    {
+      "name": "Ryttech",
+      "slug": "polsia-ryttech",
+      "description": "South African managed IT, cybersecurity and cloud services. Load-shedding-aware infrastructure, ransomware defence, and POPIA-aligned data protection for SMEs.",
+      "description_fr": "Services informatiques, de cybersécurité et cloud gérés en Afrique du Sud. Infrastructure compatible avec le délestage, défense contre les ransomwares et protection des données alignée sur POPIA pour les PME.",
+      "category": "Other",
+      "website": "https://ryttech.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T16:18:26.946698+00:00"
     }
   ]
 }
