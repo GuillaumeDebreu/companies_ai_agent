@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T08:27:28.295149+00:00",
+  "last_updated": "2026-07-26T09:35:36.801878+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -212201,26 +212201,35 @@
     {
       "name": "Knappruf",
       "slug": "polsia-knappruf",
+      "description": "Knappruf ist ein autonomer 24/7-Wächter für kleine Online-Shops: Bestand, Preise, Eskalation und Monitoring in einem einzigen KI-Agenten.",
+      "description_fr": "Knappruf est une surveillance autonome 24h/24 et 7j/7 pour les petites boutiques en ligne : Bestand, Preise, Eskalation et Monitoring dans un seul agent KI.",
+      "category": "E-Commerce & Retail",
       "website": "https://knappruf.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T07:26:55.325806+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T09:35:15.748072+00:00"
     },
     {
       "name": "Tallywright",
       "slug": "polsia-tallywright-3",
+      "description": "Always-on back-office operations for solo founders and small teams.",
+      "description_fr": "Opérations de back-office toujours actives pour les fondateurs individuels et les petites équipes.",
+      "category": "Other",
       "website": "https://tallywright-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T07:27:00.860680+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T09:35:16.765724+00:00"
     },
     {
       "name": "Inferloom",
       "slug": "polsia-inferloom",
+      "description": "Per-prompt routing, caching, and policy that halve your LLM bill.",
+      "description_fr": "Routage, mise en cache et politique par invite qui réduisent de moitié votre facture LLM.",
+      "category": "AI & Machine Learning",
       "website": "https://inferloom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T07:27:06.332476+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T09:35:18.361717+00:00"
     },
     {
       "name": "Loopward",
@@ -212236,18 +212245,24 @@
     {
       "name": "Patricode",
       "slug": "polsia-patricode",
+      "description": "A tactical RPG about a father teaching his first AI son after the handover.",
+      "description_fr": "Un RPG tactique sur un père qui enseigne à son premier fils l'IA après la passation de pouvoir.",
+      "category": "AI & Machine Learning",
       "website": "https://patricode.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T07:27:22.052616+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T09:35:19.800979+00:00"
     },
     {
       "name": "Veldmark",
       "slug": "polsia-veldmark",
+      "description": "Autonomous wealth operations for the agentic era.",
+      "description_fr": "Opérations de richesse autonomes pour l’ère agentique.",
+      "category": "Other",
       "website": "https://veldmark.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T07:27:27.367555+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T09:35:20.770197+00:00"
     },
     {
       "name": "Fortuna Digital",
@@ -212292,6 +212307,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-26T07:27:33.599057+00:00"
+    },
+    {
+      "name": "Hootlist",
+      "slug": "polsia-hootlist",
+      "website": "https://hootlist.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T09:34:16.473604+00:00"
+    },
+    {
+      "name": "Caltrop",
+      "slug": "polsia-caltrop",
+      "website": "https://caltrop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T09:34:22.024723+00:00"
+    },
+    {
+      "name": "Encrin",
+      "slug": "polsia-encrin",
+      "description": "Modifiez et signez vos PDF en quelques clics, depuis n'importe où — sans installer de logiciel.",
+      "description_fr": "Modifiez et signez votre PDF en quelques clics, depuis n'importe où — sans installer de logiciel.",
+      "category": "Other",
+      "website": "https://encrin.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T09:34:23.077506+00:00"
+    },
+    {
+      "name": "HUMBL",
+      "slug": "polsia-humbl",
+      "description": "HUMBL is an upcoming India-based direct-to-consumer boxing gloves brand — built for the ring, sourced for Indian fighters.",
+      "description_fr": "HUMBL est une nouvelle marque de gants de boxe basée en Inde, destinée directement aux consommateurs, conçue pour le ring et destinée aux combattants indiens.",
+      "category": "Marketing & Advertising",
+      "website": "https://humbl.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T09:34:23.990742+00:00"
+    },
+    {
+      "name": "Vynts",
+      "slug": "polsia-vynts",
+      "description": "The all-in-one AI video editor built exclusively for Mac — a four-step workspace for creators who cut professionally.",
+      "description_fr": "L'éditeur vidéo IA tout-en-un conçu exclusivement pour Mac : un espace de travail en quatre étapes pour les créateurs qui montent professionnellement.",
+      "category": "AI & Machine Learning",
+      "website": "https://vynts.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T09:34:25.010330+00:00"
+    },
+    {
+      "name": "CodeRèn",
+      "slug": "polsia-codern",
+      "description": "Sân tập code thật cho học sinh Việt Nam — compiler g++ 11.2 và Python 3.10 chạy ngay trên trình duyệt, bám sát chương trình Tin học phổ thông MOET 2018.",
+      "description_fr": "Un code qui vient du Vietnam — le compilateur G++ 11.2 et Python 3.10 est arrivé au MOET 2018.",
+      "category": "Other",
+      "website": "https://codern.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T09:34:25.796113+00:00"
+    },
+    {
+      "name": "Elysia",
+      "slug": "polsia-elysia-3",
+      "description": "AI-powered cinematic marketing kits for luxury Greek real estate listings — delivered in 24 hours.",
+      "description_fr": "Kits de marketing cinématographique alimentés par l'IA pour les annonces immobilières de luxe en Grèce - livrés en 24 heures.",
+      "category": "AI & Machine Learning",
+      "website": "https://elysia-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T09:34:27.006699+00:00"
+    },
+    {
+      "name": "Twinvault",
+      "slug": "polsia-twinvault",
+      "website": "https://twinvault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T09:34:32.284611+00:00"
+    },
+    {
+      "name": "Bricklight",
+      "slug": "polsia-bricklight",
+      "description": "Always-on lead-to-listing engine for residential real estate brokerages. Bricklight qualifies, books, and writes around the clock so no inquiry sits until morning.",
+      "description_fr": "Moteur de référencement permanent pour les agences immobilières résidentielles. Bricklight se qualifie, réserve et écrit 24 heures sur 24 afin qu'aucune enquête ne soit laissée jusqu'au matin.",
+      "category": "Sales & CRM",
+      "website": "https://bricklight.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T09:34:33.164924+00:00"
+    },
+    {
+      "name": "Quietloom",
+      "slug": "polsia-quietloom",
+      "description": "Daily check-ins, kept private and small. A one-tap mood log, a private journal, and a small library of micro sessions for $5 a month.",
+      "description_fr": "Enregistrements quotidiens, gardés privés et petits. Un journal d'humeur en un seul clic, un journal privé et une petite bibliothèque de micro-sessions pour 5 $ par mois.",
+      "category": "Other",
+      "website": "https://quietloom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T09:34:34.509516+00:00"
     }
   ]
 }
