@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T22:44:54.485136+00:00",
+  "last_updated": "2026-07-26T23:45:14.332339+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -213506,18 +213506,24 @@
     {
       "name": "Plumbcog",
       "slug": "polsia-plumbcog",
+      "description": "Colorado plumbing, AI-dispatched. Answered in minutes, not days — drain clears, water heaters, and after-hours emergencies from the Front Range into the high country.",
+      "description_fr": "Plomberie du Colorado, expédiée par AI. Réponse en quelques minutes, pas en jours : débouchage des canalisations, chauffe-eau et urgences en dehors des heures normales du Front Range jusqu'au haut pays.",
+      "category": "AI & Machine Learning",
       "website": "https://plumbcog.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T22:42:53.562657+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T23:44:20.627160+00:00"
     },
     {
       "name": "Cinderlune",
       "slug": "polsia-cinderlune",
+      "description": "Curated trend-led drops, shipped boutique-style from US shores.",
+      "description_fr": "Des produits tendance sélectionnés, expédiés dans un style boutique depuis les côtes américaines.",
+      "category": "Other",
       "website": "https://cinderlune.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T22:42:54.246709+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T23:44:22.036213+00:00"
     },
     {
       "name": "Toothmark",
@@ -213530,18 +213536,24 @@
     {
       "name": "PoolBilliards.co",
       "slug": "polsia-poolbilliardsco",
+      "description": "Subscription-based structured practice and drill library for serious pool and billiards players — 1,600+ drill diagrams, 1,500+ training videos, score logging, and an optional projector overlay.",
+      "description_fr": "Bibliothèque d'exercices et d'exercices structurés sur abonnement pour les joueurs de billard et de billard sérieux : plus de 1 600 diagrammes d'exercices, plus de 1 500 vidéos de formation, enregistrement des scores et superposition de projecteur en option.",
+      "category": "Education",
       "website": "https://poolbilliardsco.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T22:43:05.180409+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T23:44:29.643594+00:00"
     },
     {
       "name": "Loqfex",
       "slug": "polsia-loqfex",
+      "description": "Always-on AI test agents that hunt broken flows before your users do.",
+      "description_fr": "Des agents de test IA toujours actifs qui recherchent les flux interrompus avant vos utilisateurs.",
+      "category": "AI & Machine Learning",
       "website": "https://loqfex.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T22:43:10.628187+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T23:44:30.878072+00:00"
     },
     {
       "name": "PaveGlow",
@@ -213557,10 +213569,13 @@
     {
       "name": "Quartzvox",
       "slug": "polsia-quartzvox",
+      "description": "AI-drafted review replies that post themselves — so local businesses never leave a customer waiting.",
+      "description_fr": "Des réponses aux avis rédigées par l'IA et publiées elles-mêmes, afin que les entreprises locales ne laissent jamais un client attendre.",
+      "category": "AI & Machine Learning",
       "website": "https://quartzvox.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T22:43:26.755675+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T23:44:33.166460+00:00"
     },
     {
       "name": "VoltVakten",
@@ -213591,6 +213606,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-26T22:43:39.409994+00:00"
+    },
+    {
+      "name": "Mus Malina",
+      "slug": "polsia-mus-malina",
+      "website": "https://mus-malina.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T23:43:10.648092+00:00"
+    },
+    {
+      "name": "ChaskIA",
+      "slug": "polsia-chaskia",
+      "website": "https://chaskia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T23:43:11.457243+00:00"
+    },
+    {
+      "name": "Hookloom",
+      "slug": "polsia-hookloom",
+      "website": "https://hookloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T23:43:17.257450+00:00"
+    },
+    {
+      "name": "Davecrate",
+      "slug": "polsia-davecrate",
+      "description": "Fresh digital drops every week from Dave — templates, tools, and guides you can open, use, and ship in under an hour.",
+      "description_fr": "Chaque semaine, de nouvelles versions numériques de Dave : des modèles, des outils et des guides que vous pouvez ouvrir, utiliser et expédier en moins d'une heure.",
+      "category": "Other",
+      "website": "https://davecrate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T23:44:46.660881+00:00"
+    },
+    {
+      "name": "ENERA",
+      "slug": "polsia-enera",
+      "website": "https://enera.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T23:43:28.440892+00:00"
+    },
+    {
+      "name": "Vendpilot",
+      "slug": "polsia-vendpilot-10",
+      "website": "https://vendpilot-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T23:43:34.068341+00:00"
+    },
+    {
+      "name": "Tendroot",
+      "slug": "polsia-tendroot-3",
+      "website": "https://tendroot-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T23:43:39.722643+00:00"
+    },
+    {
+      "name": "Vitrinaço",
+      "slug": "polsia-vitrinao",
+      "website": "https://vitrinao.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T23:43:45.335851+00:00"
+    },
+    {
+      "name": "Stackhatch",
+      "slug": "polsia-stackhatch",
+      "website": "https://stackhatch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T23:43:50.879785+00:00"
+    },
+    {
+      "name": "John Moore",
+      "slug": "polsia-john-moore",
+      "description": "An early-stage venture in development by founder John Moore.",
+      "description_fr": "Une entreprise à un stade précoce de développement par le fondateur John Moore.",
+      "category": "Other",
+      "website": "https://john-moore.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T23:43:52.142240+00:00"
     }
   ]
 }
