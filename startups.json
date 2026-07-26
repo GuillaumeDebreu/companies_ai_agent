@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T09:35:36.801878+00:00",
+  "last_updated": "2026-07-26T11:08:31.596812+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -212311,18 +212311,24 @@
     {
       "name": "Hootlist",
       "slug": "polsia-hootlist",
+      "description": "Hootlist is an always-on AI agent for Square Bookings, Square, and Stripe. Refunds, chargebacks, and no-shows handled overnight, digested at sunrise.",
+      "description_fr": "Hootlist est un agent IA toujours actif pour Square Bookings, Square et Stripe. Remboursements, rétrofacturations et non-présentations traités du jour au lendemain, digérés au lever du soleil.",
+      "category": "AI & Machine Learning",
       "website": "https://hootlist.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T09:34:16.473604+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T11:07:36.167449+00:00"
     },
     {
       "name": "Caltrop",
       "slug": "polsia-caltrop",
+      "description": "AI watchdog for cross-platform CI — silently heals flaky tests, alerts only on real regressions.",
+      "description_fr": "Chien de garde IA pour CI multiplateforme – guérit silencieusement les tests irréguliers, alerte uniquement sur les régressions réelles.",
+      "category": "AI & Machine Learning",
       "website": "https://caltrop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T09:34:22.024723+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T11:07:37.453332+00:00"
     },
     {
       "name": "Encrin",
@@ -212382,10 +212388,13 @@
     {
       "name": "Twinvault",
       "slug": "polsia-twinvault",
+      "description": "One counsel, one portfolio — integrated legal and wealth strategy for high-net-worth families navigating estate, succession, and fiduciary planning.",
+      "description_fr": "Un conseiller, un portefeuille — stratégie juridique et patrimoniale intégrée pour les familles fortunées qui gèrent la planification successorale, successorale et fiduciaire.",
+      "category": "Other",
       "website": "https://twinvault.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T09:34:32.284611+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T11:07:39.236255+00:00"
     },
     {
       "name": "Bricklight",
@@ -212408,6 +212417,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-26T09:34:34.509516+00:00"
+    },
+    {
+      "name": "Azam's Store",
+      "slug": "polsia-azams-store",
+      "website": "https://azams-store.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T11:06:31.004681+00:00"
+    },
+    {
+      "name": "Tightrun",
+      "slug": "polsia-tightrun",
+      "website": "https://tightrun.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T11:06:31.546981+00:00"
+    },
+    {
+      "name": "ميزان",
+      "slug": "polsia-company-288224",
+      "website": "https://company-288224.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T11:06:31.924250+00:00"
+    },
+    {
+      "name": "TAMtracker",
+      "slug": "polsia-tamtracker",
+      "website": "https://tamtracker.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T11:06:32.372772+00:00"
+    },
+    {
+      "name": "AIB Strategic Financial Group LLC",
+      "slug": "polsia-aib-strategic-financial-group-llc",
+      "website": "https://aib-strategic-financial-group-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T11:06:37.608316+00:00"
+    },
+    {
+      "name": "Shunya Labs",
+      "slug": "polsia-shunya-labs",
+      "website": "https://shunya-labs.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T11:06:48.119268+00:00"
+    },
+    {
+      "name": "Listling",
+      "slug": "polsia-listling",
+      "website": "https://listling.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T11:06:58.362142+00:00"
+    },
+    {
+      "name": "ヨビカゼ",
+      "slug": "polsia-company-288219",
+      "website": "https://company-288219.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T11:07:03.787805+00:00"
+    },
+    {
+      "name": "Circle",
+      "slug": "polsia-circle-2",
+      "description": "Free AI concierge for international students — pre-arrival paperwork, verified housing, and a personal 30-day arrival plan across seven European markets.",
+      "description_fr": "Conciergerie IA gratuite pour les étudiants internationaux : documents préalables à l'arrivée, logement vérifié et plan d'arrivée personnel de 30 jours sur sept marchés européens.",
+      "category": "AI & Machine Learning",
+      "website": "https://circle-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T11:07:05.788230+00:00"
+    },
+    {
+      "name": "Catchfold",
+      "slug": "polsia-catchfold",
+      "description": "Audit and recover the 2–4% of GMV your Shopify store leaks to misconfigurations in shipping, tax, checkout, discounts, and currency.",
+      "description_fr": "Auditez et récupérez les 2 à 4 % du GMV de votre boutique Shopify qui fuient en raison de mauvaises configurations en matière d'expédition, de taxes, de paiement, de remises et de devises.",
+      "category": "E-Commerce & Retail",
+      "website": "https://catchfold.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T11:07:07.158682+00:00"
     }
   ]
 }
