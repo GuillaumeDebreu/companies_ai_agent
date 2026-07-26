@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T21:44:45.219523+00:00",
+  "last_updated": "2026-07-26T22:44:54.485136+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -213396,42 +213396,57 @@
     {
       "name": "Google",
       "slug": "polsia-google-4",
+      "description": "The world's leading search engine, now powered by AI. Search, Gemini, AI Overviews, Maps, YouTube, and Android — billions of people, every day.",
+      "description_fr": "Le premier moteur de recherche au monde, désormais alimenté par l'IA. Recherche, Gemini, aperçus de l'IA, Maps, YouTube et Android : des milliards de personnes chaque jour.",
+      "category": "AI & Machine Learning",
       "website": "https://google-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T21:42:54.297023+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T22:44:05.690486+00:00"
     },
     {
       "name": "Marketting5050",
       "slug": "polsia-marketting5050",
+      "description": "AI marketing strategy & advisory helping businesses pick, govern, and deploy AI tools with confidence.",
+      "description_fr": "Stratégie marketing et conseils en matière d'IA aidant les entreprises à choisir, gouverner et déployer des outils d'IA en toute confiance.",
+      "category": "AI & Machine Learning",
       "website": "https://marketting5050.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T21:42:59.924824+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T22:44:06.805165+00:00"
     },
     {
-      "name": "Mouvement Unforgettable Dessalines Jean-Jacques",
+      "name": "Mouvement Unforgettable Dessalines Jean",
       "slug": "polsia-mouvement-unforgettable-dessalines-jean-jacques",
+      "description": "MUDJJ — the Haitian diaspora movement advancing freedom, justice, and a self-determined future for Haiti. One voice. One nation. One future.",
+      "description_fr": "MUDJJ — le mouvement de la diaspora haïtienne qui fait progresser la liberté, la justice et un avenir autodéterminé pour Haïti. Une voix. Une nation. Un avenir.",
+      "category": "Other",
       "website": "https://mouvement-unforgettable-dessalines-jean-jacques.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T21:43:05.543819+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T22:44:08.239314+00:00"
     },
     {
       "name": "Debt Defense Pro",
       "slug": "polsia-debt-defense-pro",
+      "description": "Court-ready Defendant’s Answer kits for pro se consumers facing debt collection lawsuits — state-tailored, FDCPA-aware document prep on a turnaround that beats the response deadline.",
+      "description_fr": "Kits de réponses du défendeur prêts à être présentés au tribunal pour les consommateurs professionnels confrontés à des poursuites en recouvrement de créances - préparation de documents adaptés à l'État et sensibles à la FDCPA pour un redressement qui dépasse le délai de réponse.",
+      "category": "Other",
       "website": "https://debt-defense-pro.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T21:43:11.058870+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T22:44:10.204755+00:00"
     },
     {
       "name": "Sprigwise",
       "slug": "polsia-sprigwise",
+      "description": "Steady, hands-on lawn care for homeowners who want it handled. Weekly or bi-weekly visits by the same local crew.",
+      "description_fr": "Entretien régulier et pratique de la pelouse pour les propriétaires qui souhaitent s'en occuper. Visites hebdomadaires ou bihebdomadaires par la même équipe locale.",
+      "category": "Other",
       "website": "https://sprigwise.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T21:43:16.551813+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T22:44:11.841471+00:00"
     },
     {
       "name": "Totemscope",
@@ -213458,10 +213473,13 @@
     {
       "name": "Hawkpost",
       "slug": "polsia-hawkpost-2",
+      "description": "Your 24/7 AI storefront teammate, across every marketplace. Hawkpost watches listings, prices, reviews, and inventory on Amazon, Shopify, eBay, and Walmart — and acts on your behalf.",
+      "description_fr": "Votre partenaire IA 24h/24 et 7j/7, sur tous les marchés. Hawkpost surveille les annonces, les prix, les avis et l'inventaire sur Amazon, Shopify, eBay et Walmart – et agit en votre nom.",
+      "category": "E-Commerce & Retail",
       "website": "https://hawkpost-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T21:43:24.582164+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T22:44:13.179359+00:00"
     },
     {
       "name": "Transom",
@@ -213484,6 +213502,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-26T21:43:29.019062+00:00"
+    },
+    {
+      "name": "Plumbcog",
+      "slug": "polsia-plumbcog",
+      "website": "https://plumbcog.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T22:42:53.562657+00:00"
+    },
+    {
+      "name": "Cinderlune",
+      "slug": "polsia-cinderlune",
+      "website": "https://cinderlune.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T22:42:54.246709+00:00"
+    },
+    {
+      "name": "Toothmark",
+      "slug": "polsia-toothmark",
+      "website": "https://toothmark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T22:42:59.711100+00:00"
+    },
+    {
+      "name": "PoolBilliards.co",
+      "slug": "polsia-poolbilliardsco",
+      "website": "https://poolbilliardsco.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T22:43:05.180409+00:00"
+    },
+    {
+      "name": "Loqfex",
+      "slug": "polsia-loqfex",
+      "website": "https://loqfex.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T22:43:10.628187+00:00"
+    },
+    {
+      "name": "PaveGlow",
+      "slug": "polsia-paveglow",
+      "description": "Spot potholes and dark streetlights on every route before you reach them. A navigation-overlay app for drivers, cyclists, and night commuters.",
+      "description_fr": "Repérez les nids-de-poule et les lampadaires sombres sur chaque itinéraire avant de les atteindre. Une application de navigation superposée pour les conducteurs, les cyclistes et les navetteurs nocturnes.",
+      "category": "Other",
+      "website": "https://paveglow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T22:44:41.982227+00:00"
+    },
+    {
+      "name": "Quartzvox",
+      "slug": "polsia-quartzvox",
+      "website": "https://quartzvox.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T22:43:26.755675+00:00"
+    },
+    {
+      "name": "VoltVakten",
+      "slug": "polsia-voltvakten",
+      "description": "Din AI-agent som bevakar och byter elavtal dygnet runt — jämför 150+ elbolag och genomför leverantörsbyten när besparing identifieras.",
+      "description_fr": "Un agent d'IA s'occupe d'un plus grand nombre d'individus — j'ai plus de 150 éléments et j'utilise des leviers sans épargner les identifiants.",
+      "category": "AI & Machine Learning",
+      "website": "https://voltvakten.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T22:44:49.080587+00:00"
+    },
+    {
+      "name": "Hearthline",
+      "slug": "polsia-hearthline-6",
+      "website": "https://hearthline-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T22:43:37.679497+00:00"
+    },
+    {
+      "name": "Tipistry",
+      "slug": "polsia-tipistry",
+      "description": "A done-for-you social media studio for nail salons — reels, content calendars, and local SEO tuned to book more chairs.",
+      "description_fr": "Un studio de médias sociaux fait pour vous pour les salons de manucure : bobines, calendriers de contenu et référencement local optimisés pour réserver plus de chaises.",
+      "category": "Marketing & Advertising",
+      "website": "https://tipistry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T22:43:39.409994+00:00"
     }
   ]
 }
