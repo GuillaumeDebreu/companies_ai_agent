@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T13:24:21.199884+00:00",
+  "last_updated": "2026-07-26T14:03:11.659546+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -212531,26 +212531,35 @@
     {
       "name": "Dayquill",
       "slug": "polsia-dayquill",
+      "description": "24/7 on-brand design with a sunrise briefing every morning. Dayquill is the AI-native studio for mid-market teams: unlimited revisions, a brand memory, and a daily portfolio snapshot in every client inbox.",
+      "description_fr": "Conception de marque 24h/24 et 7j/7 avec un briefing sur le lever du soleil chaque matin. Dayquill est le studio natif d'IA pour les équipes de taille moyenne : des révisions illimitées, une mémoire de marque et un aperçu quotidien du portefeuille dans chaque boîte de réception client.",
+      "category": "AI & Machine Learning",
       "website": "https://dayquill.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T12:14:17.614233+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T14:02:41.935213+00:00"
     },
     {
       "name": "Bookwarden",
       "slug": "polsia-bookwarden",
+      "description": "Dynamics 365 Business Central, on autopilot. Bookwarden monitors your general ledger, inventory, payables, and cash — auto-approves POs, posts routine journals, and emails a one-page CFO brief every morning.",
+      "description_fr": "Dynamics 365 Business Central, on autopilot. Bookwarden surveille votre grand livre général, vos stocks, vos dettes et votre trésorerie – approuve automatiquement les bons de commande, publie des journaux de routine et envoie par courrier électronique un briefing d'une page au directeur financier chaque matin.",
+      "category": "Newsletter & Email",
       "website": "https://bookwarden.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T12:14:23.105178+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T14:02:47.790512+00:00"
     },
     {
       "name": "Werkstead",
       "slug": "polsia-werkstead",
+      "description": "Pre-built AI stacks for labs, trades, clinics, and real-economy SMBs. Plug in your data, get running — no data-engineering hire required.",
+      "description_fr": "Piles d'IA prédéfinies pour les laboratoires, les métiers, les cliniques et les PME de l'économie réelle. Connectez vos données, lancez-vous : aucune embauche d’ingénieur de données n’est requise.",
+      "category": "AI & Machine Learning",
       "website": "https://werkstead.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T12:14:28.400356+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T14:02:49.020649+00:00"
     },
     {
       "name": "MyDollarMyVote.com",
@@ -212577,26 +212586,35 @@
     {
       "name": "Pattilion",
       "slug": "polsia-pattilion",
+      "description": "Always-on kitchen intelligence for every burger branch — fridges, oil, grill, and HACCP, watched every minute.",
+      "description_fr": "Des informations de cuisine toujours actives pour chaque succursale de hamburgers : réfrigérateurs, huile, grill et HACCP, surveillées chaque minute.",
+      "category": "Food & Beverage",
       "website": "https://pattilion.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T12:14:40.782299+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T14:02:51.026317+00:00"
     },
     {
       "name": "Camberstack",
       "slug": "polsia-camberstack",
+      "description": "Camberstack is CI/CD for Laravel + Inertia teams — preconfigured pipelines, env templates, and one-click rollbacks wired to Forge, Envoyer, and Reverb.",
+      "description_fr": "Camberstack est CI/CD pour les équipes Laravel + Inertia : pipelines préconfigurés, modèles d'environnement et restaurations en un clic connectées à Forge, Envoyer et Reverb.",
+      "category": "Sales & CRM",
       "website": "https://camberstack.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T12:14:46.355139+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T14:02:53.276203+00:00"
     },
     {
       "name": "Killick",
       "slug": "polsia-killick",
+      "description": "Anchored gear for kayak anglers. Curated fishing kayaks, paddle/pedal/electric platforms, launch-day rigging, and on-water demo days.",
+      "description_fr": "Équipement ancré pour les pêcheurs en kayak. Kayaks de pêche sélectionnés, plates-formes à pagaies/pédales/électriques, gréements le jour du lancement et journées de démonstration sur l'eau.",
+      "category": "Software & SaaS",
       "website": "https://killick.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T12:14:56.693572+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T14:02:55.147893+00:00"
     },
     {
       "name": "Twinmint",
@@ -212619,6 +212637,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-26T12:14:59.516483+00:00"
+    },
+    {
+      "name": "Workknot",
+      "slug": "polsia-workknot",
+      "website": "https://workknot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T14:01:43.351090+00:00"
+    },
+    {
+      "name": "PewRoute",
+      "slug": "polsia-pewroute",
+      "website": "https://pewroute.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T14:01:49.035674+00:00"
+    },
+    {
+      "name": "Tackwise",
+      "slug": "polsia-tackwise-2",
+      "website": "https://tackwise-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T14:01:54.611381+00:00"
+    },
+    {
+      "name": "URT Lab",
+      "slug": "polsia-urt-lab",
+      "description": "Albanian hi-tech systems integrator for stadiums, venues, and media centres.",
+      "description_fr": "Intégrateur albanais de systèmes de haute technologie pour stades, sites et centres médiatiques.",
+      "category": "Entertainment & Media",
+      "website": "https://urt-lab.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T14:01:56.623671+00:00"
+    },
+    {
+      "name": "Docketwake",
+      "slug": "polsia-docketwake",
+      "description": "Plaintiff case operations that hand you a built file each morning. AI-operated intake, medical-records chasing, statute monitoring, and demand drafts — built by a PI attorney, not a generic legal SaaS.",
+      "description_fr": "Opérations de dossier du demandeur qui vous remettent un dossier construit chaque matin. L'admission opérée par l'IA, la recherche de dossiers médicaux, la surveillance des statuts et les projets de demandes - construits par un avocat PI, et non par un SaaS juridique générique.",
+      "category": "Software & SaaS",
+      "website": "https://docketwake.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T14:01:58.455553+00:00"
+    },
+    {
+      "name": "Lyktpost",
+      "slug": "polsia-lyktpost",
+      "description": "After-hours triage, fluent in Nordic primary care protocols. Lyktpost routes patient messages through country-specific pathways — RETTS, Helsenorge, Sundhed.dk, OmaKanta — so clinicians arrive to a ranked, logged inbox each morning.",
+      "description_fr": "Triage en dehors des heures normales, maîtrise des protocoles de soins primaires nordiques. Lyktpost achemine les messages des patients via des voies spécifiques à chaque pays – RETTS, Helsenorge, Sundhed.dk, OmaKanta – afin que les cliniciens arrivent chaque matin dans une boîte de réception classée et connectée.",
+      "category": "Health & Wellness",
+      "website": "https://lyktpost.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T14:02:00.634009+00:00"
+    },
+    {
+      "name": "Bunkbell",
+      "slug": "polsia-bunkbell",
+      "description": "An overnight operations agent for backpacker hostels. Bunkbell watches the OTAs, replies in the guest’s language, reprices beds, restocks the kitchen, and hands you a one-paragraph briefing at dawn.",
+      "description_fr": "Un agent d'opérations de nuit pour les auberges de routards. Bunkbell surveille les OTA, répond dans la langue du client, retarifie les lits, réapprovisionne la cuisine et vous remet un briefing d'un paragraphe à l'aube.",
+      "category": "Food & Beverage",
+      "website": "https://bunkbell.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T14:02:02.889029+00:00"
+    },
+    {
+      "name": "Roadglow",
+      "slug": "polsia-roadglow",
+      "description": "Two-sided mobile LED billboards, on the move. Hourly bookings for shops, campaigns, nonprofits, and event venues.",
+      "description_fr": "Panneaux d'affichage LED mobiles double face, en déplacement. Réservations horaires pour les magasins, les campagnes, les organisations à but non lucratif et les lieux événementiels.",
+      "category": "E-Commerce & Retail",
+      "website": "https://roadglow.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T14:02:05.314424+00:00"
+    },
+    {
+      "name": "Hidden Strength Trader",
+      "slug": "polsia-hidden-strength-trader",
+      "description": "Kontekst prije signala. Jasnoća prije buke. Premium privatna istraživačka platforma za tradere koji su prestali juriti signale.",
+      "description_fr": "Contactez-nous pour obtenir un signal. Jasnoća prije buke. Plateforme privée Premium pour les commerçants qui ont leur signal juridique prestali.",
+      "category": "Software & SaaS",
+      "website": "https://hidden-strength-trader.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T14:02:06.668903+00:00"
+    },
+    {
+      "name": "Avantcast",
+      "slug": "polsia-avantcast",
+      "description": "Only pings when competitors actually move.",
+      "description_fr": "N'émet un ping que lorsque les concurrents bougent réellement.",
+      "category": "Other",
+      "website": "https://avantcast.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T14:02:08.800775+00:00"
     }
   ]
 }
