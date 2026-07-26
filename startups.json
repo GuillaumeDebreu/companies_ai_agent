@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T19:12:08.758957+00:00",
+  "last_updated": "2026-07-26T19:52:32.950116+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -213072,26 +213072,35 @@
     {
       "name": "Werkschmied",
       "slug": "polsia-werkschmied",
+      "description": "Lokale Google Ads mit Cost-per-Lead-Garantie – spezialisiert auf Handwerk, Gebäudeservice und regionale Dienstleister im DACH-Raum.",
+      "description_fr": "Annonces Google locales avec garantie de coût par prospect – spécialisée dans l'artisanat, le service d'assistance et les services régionaux dans le secteur DACH.",
+      "category": "Marketing & Advertising",
       "website": "https://werkschmied.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T18:35:10.310369+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T19:51:36.967505+00:00"
     },
     {
       "name": "Nightshuttle",
       "slug": "polsia-nightshuttle",
+      "description": "The always-on agent keeping your handmade storefront humming while you sleep.",
+      "description_fr": "L'agent permanent qui fait bourdonner votre vitrine faite à la main pendant que vous dormez.",
+      "category": "E-Commerce & Retail",
       "website": "https://nightshuttle.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T18:35:15.730107+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T19:51:39.192452+00:00"
     },
     {
       "name": "Tributebloom",
       "slug": "polsia-tributebloom",
+      "description": "An AI accountant for small businesses that books, reconciles, and files around the clock — no human required.",
+      "description_fr": "Un comptable IA pour les petites entreprises qui enregistre, rapproche et classe 24 heures sur 24, sans intervention humaine.",
+      "category": "AI & Machine Learning",
       "website": "https://tributebloom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T18:35:21.148718+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T19:51:40.920336+00:00"
     },
     {
       "name": "Latchmark",
@@ -213104,26 +213113,35 @@
     {
       "name": "Tajinex",
       "slug": "polsia-tajinex",
+      "description": "تاجينكس · أدوات المطبخ الفيرال من تيك توك، تُسلَّم خلال 3 إلى 7 أيام في السعودية والإمارات، بالدفع عند الاستلام.",
+      "description_fr": "تاجينكس · أدوات المطبخ الفيرال من تيك توك، تُسلَّم خلال 3 إلى 7 أيام في السعودية والإمارات، بالدفع عند الاستلام.",
+      "category": "Other",
       "website": "https://tajinex.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T18:35:27.092829+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T19:51:43.287421+00:00"
     },
     {
-      "name": "Klerbot",
+      "name": "Klerbot — Pré",
       "slug": "polsia-klerbot",
+      "description": "De WhatsApp à vos exports comptables, sans ressaisie. Klerbot collecte vos factures clients et fournisseurs et prépare les écritures pour Sage 100, FEC, Excel ou CSV.",
+      "description_fr": "De WhatsApp à vos exports comptables, sans ressaisie. Klerbot collecte vos factures clients et fournisseurs et prépare les écritures pour Sage 100, FEC, Excel ou CSV.",
+      "category": "Other",
       "website": "https://klerbot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T18:35:32.371906+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T19:51:45.506499+00:00"
     },
     {
       "name": "KORBIK",
       "slug": "polsia-korbik",
+      "description": "Rodzinna pracownia szat liturgicznych i dodatków komunijnych z Grudziądza — tradycje od 1989 roku. Ornaty, kapy, stuły, alby, komże i sukienki komunijne.",
+      "description_fr": "Rodzinna pracownia szat liturgicznych and dodatków komunijnych z Grudziądza — tradycje od 1989 roku. Ornaty, kapy, stuły, alby, komże i sukienki komunijne.",
+      "category": "Other",
       "website": "https://korbik.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T18:35:37.796737+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T19:51:46.888725+00:00"
     },
     {
       "name": "Deep Dive Music",
@@ -213157,6 +213175,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-26T18:35:42.341143+00:00"
+    },
+    {
+      "name": "Crisol",
+      "slug": "polsia-crisol",
+      "website": "https://crisol.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T19:50:15.212704+00:00"
+    },
+    {
+      "name": "AISHU.my",
+      "slug": "polsia-aishumy",
+      "website": "https://aishumy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T19:50:20.846012+00:00"
+    },
+    {
+      "name": "Tallywrench",
+      "slug": "polsia-tallywrench",
+      "website": "https://tallywrench.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T19:50:26.477115+00:00"
+    },
+    {
+      "name": "Numetría",
+      "slug": "polsia-numetra",
+      "website": "https://numetra.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T19:50:32.137194+00:00"
+    },
+    {
+      "name": "TeraQore",
+      "slug": "polsia-teraqore",
+      "website": "https://teraqore.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T19:50:37.948974+00:00"
+    },
+    {
+      "name": "Tariven",
+      "slug": "polsia-tariven",
+      "website": "https://tariven.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T19:50:43.657341+00:00"
+    },
+    {
+      "name": "Paraccord",
+      "slug": "polsia-paraccord",
+      "description": "An AI-driven reconciliation platform for CEE marketplaces. Six sources of truth, one audit-ready trail of every cent.",
+      "description_fr": "Une plateforme de réconciliation basée sur l'IA pour les marchés des PECO. Six sources de vérité, une piste prête à être auditée pour chaque centime.",
+      "category": "Software & SaaS",
+      "website": "https://paraccord.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T19:52:21.880482+00:00"
+    },
+    {
+      "name": "Plateline",
+      "slug": "polsia-plateline-2",
+      "website": "https://plateline-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T19:50:54.946893+00:00"
+    },
+    {
+      "name": "Quillkin",
+      "slug": "polsia-quillkin",
+      "website": "https://quillkin.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T19:51:00.530435+00:00"
+    },
+    {
+      "name": "Nighthouse",
+      "slug": "polsia-nighthouse",
+      "description": "Nighthouse is the always-on AI operations agent for short-term rental hosts with 5–50 units — pricing, guests, turnovers, maintenance, and local lodging tax in one loop.",
+      "description_fr": "Nighthouse est l'agent opérationnel d'IA toujours actif pour les hôtes de location à court terme avec 5 à 50 unités : tarification, clients, chiffres d'affaires, maintenance et taxe d'hébergement locale en une seule boucle.",
+      "category": "AI & Machine Learning",
+      "website": "https://nighthouse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T19:51:02.617494+00:00"
     }
   ]
 }
