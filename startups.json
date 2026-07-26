@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T16:18:26.947995+00:00",
+  "last_updated": "2026-07-26T17:30:42.263098+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -212861,18 +212861,24 @@
     {
       "name": "SherpaBro",
       "slug": "polsia-sherpabro",
+      "description": "Nepal's first AI travel companion — not a chatbot, a guide that books hotels, secures TIMS, and plans the trek. Built by locals. Made for Nepal.",
+      "description_fr": "Le premier compagnon de voyage IA du Népal – pas un chatbot, mais un guide qui réserve des hôtels, sécurise TIMS et planifie le trek. Construit par les locaux. Fabriqué pour le Népal.",
+      "category": "AI & Machine Learning",
       "website": "https://sherpabro.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T16:16:32.690505+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T17:29:36.135156+00:00"
     },
     {
       "name": "Hatchcraft",
       "slug": "polsia-hatchcraft-7",
+      "description": "Hatchcraft is the AI-first ideation studio that turns messy sparks — voice memos, screenshots, whiteboard snaps — into ship-ready briefs for solo founders and small product teams.",
+      "description_fr": "Hatchcraft est le premier studio d'idéation basé sur l'IA qui transforme des étincelles désordonnées (mémos vocaux, captures d'écran, instantanés sur tableau blanc) en briefs prêts à être expédiés pour les fondateurs solo et les petites équipes de produits.",
+      "category": "AI & Machine Learning",
       "website": "https://hatchcraft-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T16:16:38.082686+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T17:29:38.251781+00:00"
     },
     {
       "name": "Tallymane",
@@ -212893,34 +212899,46 @@
     {
       "name": "Reversent",
       "slug": "polsia-reversent",
+      "description": "AI agents that outpace payer denials for independent practices — auto-drafting appeals, catching denials pre-submission, and recovering the revenue small practices lose to A/R delays.",
+      "description_fr": "Des agents d'IA qui dépassent les refus des payeurs pour les cabinets indépendants : rédaction automatique des appels, détection des refus avant la soumission et récupération des revenus que les petits cabinets perdent en raison des retards de comptes clients.",
+      "category": "AI & Machine Learning",
       "website": "https://reversent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T16:16:54.420563+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T17:29:46.355971+00:00"
     },
     {
       "name": "LohkoKettu",
       "slug": "polsia-lohkokettu",
+      "description": "LohkoKettu — suomalaisten rakennettu kryptokasino lohkoketjusta. Bitcoin-, Ethereum- ja USDT-maksut, provably fair -todennus ja nopeat kotiutukset.",
+      "description_fr": "LohkoKettu — suomalaisten rakennettu kryptokasino lohkoketjusta. Bitcoin-, Ethereum- et USDT-maksut, prouvé équitable -todennus et nopeat kotiutukset.",
+      "category": "Other",
       "website": "https://lohkokettu.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T16:16:54.994303+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T17:29:48.463347+00:00"
     },
     {
-      "name": "A.C. Contracting and Design LLC",
+      "name": "Bricklore Design",
       "slug": "polsia-ac-contracting-and-design-llc",
+      "description": "Integrated design-build crafted for local homes and businesses. One team, one estimate, one schedule — from sketch to punch list.",
+      "description_fr": "Conception-construction intégrée conçue pour les maisons et les entreprises locales. Une équipe, une estimation, un calendrier, du croquis à la liste de tâches.",
+      "category": "Other",
       "website": "https://ac-contracting-and-design-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T16:16:55.479624+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T17:29:50.505107+00:00"
     },
     {
       "name": "Seegräber GmbH",
       "slug": "polsia-seegrber-gmbh",
+      "description": "Europas führender Spezialist für gebrauchte Getränke- und Verpackungsmaschinen. Über 200 geprüfte Maschinen auf 12.000 qm in Geisenheim.",
+      "description_fr": "Europas führender Spezialist für gebrauchte Getränke- und Verpackungsmaschinen. Über 200 geprüfte Maschinen auf 12.000 qm à Geisenheim.",
+      "category": "Other",
       "website": "https://seegrber-gmbh.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T16:17:01.004264+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T17:29:51.729512+00:00"
     },
     {
       "name": "Signalward",
@@ -212943,6 +212961,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-26T16:18:26.946698+00:00"
+    },
+    {
+      "name": "Makerloom",
+      "slug": "polsia-makerloom",
+      "website": "https://makerloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T17:28:25.740318+00:00"
+    },
+    {
+      "name": "Hivemarch",
+      "slug": "polsia-hivemarch",
+      "website": "https://hivemarch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T17:28:26.429630+00:00"
+    },
+    {
+      "name": "LedgerSmith.ai",
+      "slug": "polsia-ledgersmithai",
+      "website": "https://ledgersmithai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T17:28:31.898772+00:00"
+    },
+    {
+      "name": "HermitX",
+      "slug": "polsia-hermitx",
+      "website": "https://hermitx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T17:28:37.232203+00:00"
+    },
+    {
+      "name": "Plumbmark",
+      "slug": "polsia-plumbmark-9",
+      "website": "https://plumbmark-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T17:28:37.960456+00:00"
+    },
+    {
+      "name": "Fielded",
+      "slug": "polsia-fielded-4",
+      "website": "https://fielded-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T17:28:43.338592+00:00"
+    },
+    {
+      "name": "TANGER",
+      "slug": "polsia-tanger",
+      "website": "https://tanger.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T17:28:48.718701+00:00"
+    },
+    {
+      "name": "Snagwell",
+      "slug": "polsia-snagwell",
+      "website": "https://snagwell.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T17:28:54.262318+00:00"
+    },
+    {
+      "name": "Room Outside",
+      "slug": "polsia-room-outside",
+      "website": "https://room-outside.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T17:28:59.865882+00:00"
+    },
+    {
+      "name": "Quayframe",
+      "slug": "polsia-quayframe",
+      "description": "Premium AI product studio. From founder idea to launched product, in weeks — research, design, build, and the marketing and ops stack that ships it.",
+      "description_fr": "Studio de produits IA haut de gamme. De l'idée du fondateur au produit lancé, en quelques semaines : recherche, conception, construction et pile marketing et opérationnelle qui l'expédie.",
+      "category": "AI & Machine Learning",
+      "website": "https://quayframe.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T17:30:42.262230+00:00"
     }
   ]
 }
