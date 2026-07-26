@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T23:43:26.937174+00:00",
+  "last_updated": "2026-07-26T01:17:57.461582+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -211871,26 +211871,35 @@
     {
       "name": "Tributary",
       "slug": "polsia-tributary-4",
+      "description": "Automated ESG and sustainability reporting for the mid-size manufacturers beneath your brand. CDP, EcoVadis, CSRD, and buyer scorecards — without the consultant.",
+      "description_fr": "Rapports ESG et développement durable automatisés pour les fabricants de taille moyenne sous votre marque. CDP, EcoVadis, CSRD et tableaux de bord des acheteurs — sans le consultant.",
+      "category": "Sustainability & Green",
       "website": "https://tributary-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T23:41:16.344245+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T01:17:15.911600+00:00"
     },
     {
       "name": "Huzzah Hall",
       "slug": "polsia-huzzah-hall",
+      "description": "Where youth wins get their due — trophies, all-you-can-eat pizza, and built-in community service, all on one night.",
+      "description_fr": "Là où les jeunes gagnent, ils reçoivent leur dû : des trophées, des pizzas à volonté et des services communautaires intégrés, le tout en une seule soirée.",
+      "category": "Social & Community",
       "website": "https://huzzah-hall.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T23:41:21.752103+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T01:17:17.086721+00:00"
     },
     {
       "name": "Eiderkeel",
       "slug": "polsia-eiderkeel",
+      "description": "The trusted paid listing home for Olympic Peninsula service businesses — verified profiles, quote requests, and transparent sponsored placements for Clallam County residents and visitors.",
+      "description_fr": "Le site d'annonces payantes de confiance pour les entreprises de services de la péninsule olympique : profils vérifiés, demandes de devis et placements sponsorisés transparents pour les résidents et les visiteurs du comté de Clallam.",
+      "category": "Real Estate",
       "website": "https://eiderkeel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T23:41:32.245910+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T01:17:18.320909+00:00"
     },
     {
       "name": "Obolgrid",
@@ -211917,10 +211926,13 @@
     {
       "name": "Plumbwright",
       "slug": "polsia-plumbwright-4",
+      "description": "AI-powered back office for the small businesses that keep your town running. Voice agents, follow-ups, reviews, and invoicing — wired into the tools you already use.",
+      "description_fr": "Back-office alimenté par l'IA pour les petites entreprises qui font fonctionner votre ville. Agents vocaux, suivis, avis et facturation — intégrés aux outils que vous utilisez déjà.",
+      "category": "AI & Machine Learning",
       "website": "https://plumbwright-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-25T23:41:44.535690+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T01:17:19.518108+00:00"
     },
     {
       "name": "Anchorpost",
@@ -211965,6 +211977,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-25T23:41:50.417911+00:00"
+    },
+    {
+      "name": "Mantlekeep",
+      "slug": "polsia-mantlekeep",
+      "website": "https://mantlekeep.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T01:15:52.920956+00:00"
+    },
+    {
+      "name": "Watareq",
+      "slug": "polsia-watareq",
+      "website": "https://watareq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T01:15:53.603892+00:00"
+    },
+    {
+      "name": "Plumtide",
+      "slug": "polsia-plumtide",
+      "website": "https://plumtide.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T01:15:54.216641+00:00"
+    },
+    {
+      "name": "Crateward",
+      "slug": "polsia-crateward",
+      "website": "https://crateward.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T01:15:59.836029+00:00"
+    },
+    {
+      "name": "Heartloom",
+      "slug": "polsia-heartloom-3",
+      "website": "https://heartloom-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T01:16:10.328669+00:00"
+    },
+    {
+      "name": "Audiprowl",
+      "slug": "polsia-audiprowl",
+      "description": "Your always-on AI watchdog that finds overcharges, drafts disputes, and reports weekly savings.",
+      "description_fr": "Votre chien de garde IA toujours actif qui détecte les surcharges, rédige les litiges et rapporte les économies hebdomadaires.",
+      "category": "AI & Machine Learning",
+      "website": "https://audiprowl.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T01:16:11.794617+00:00"
+    },
+    {
+      "name": "Rosewood Virtual Talk",
+      "slug": "polsia-rosewood-virtual-talk-llc",
+      "description": "Virtual assistant services for small businesses, healthcare providers, and solo professionals — scheduling, inbox, bookkeeping, and back-office support from a single trusted point of contact.",
+      "description_fr": "Services d'assistant virtuel pour les petites entreprises, les prestataires de soins de santé et les professionnels indépendants : assistance en matière de planification, de boîte de réception, de comptabilité et de back-office à partir d'un seul point de contact de confiance.",
+      "category": "Health & Wellness",
+      "website": "https://rosewood-virtual-talk-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T01:16:13.280815+00:00"
+    },
+    {
+      "name": "Hagglerack",
+      "slug": "polsia-hagglerack",
+      "description": "Find your real per-piece margin on Depop vs eBay before you list. Pricing and margin math built for solo vintage and thrift resellers.",
+      "description_fr": "Trouvez votre marge réelle par pièce sur Depop vs eBay avant de mettre en vente. Calcul des prix et des marges conçu pour les revendeurs vintage et d'occasions solo.",
+      "category": "Other",
+      "website": "https://hagglerack.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T01:16:14.498543+00:00"
+    },
+    {
+      "name": "Pinepost",
+      "slug": "polsia-pinepost-2",
+      "website": "https://pinepost-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T01:16:19.925824+00:00"
+    },
+    {
+      "name": "Carillon",
+      "slug": "polsia-carillon",
+      "description": "Always-on AI engineer for your GitHub team — triages issues, drafts routine fixes, and posts a Slack standup when the day ends.",
+      "description_fr": "Ingénieur IA toujours disponible pour votre équipe GitHub : trie les problèmes, rédige des correctifs de routine et publie un stand-up Slack à la fin de la journée.",
+      "category": "AI & Machine Learning",
+      "website": "https://carillon.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T01:16:21.261106+00:00"
     }
   ]
 }
