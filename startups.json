@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T14:03:11.659546+00:00",
+  "last_updated": "2026-07-26T15:16:40.537224+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -212641,26 +212641,35 @@
     {
       "name": "Workknot",
       "slug": "polsia-workknot",
+      "description": "Custom AI workflows, built one client at a time. Workknot designs, ships, and maintains bespoke AI systems for solo operators and small businesses.",
+      "description_fr": "Workflows d'IA personnalisés, créés un client à la fois. Workknot conçoit, expédie et maintient des systèmes d'IA sur mesure pour les opérateurs individuels et les petites entreprises.",
+      "category": "AI & Machine Learning",
       "website": "https://workknot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T14:01:43.351090+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T15:15:59.155360+00:00"
     },
     {
       "name": "PewRoute",
       "slug": "polsia-pewroute",
+      "description": "Apartments-style church search by denomination, mission, and community — free for seekers. Browse, compare, and find a congregation that actually fits you before you walk through the door.",
+      "description_fr": "Recherche d'églises de style appartement par dénomination, mission et communauté - gratuite pour les chercheurs. Parcourez, comparez et trouvez une congrégation qui vous convient réellement avant de franchir la porte.",
+      "category": "Real Estate",
       "website": "https://pewroute.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T14:01:49.035674+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T15:16:00.377276+00:00"
     },
     {
       "name": "Tackwise",
       "slug": "polsia-tackwise-2",
+      "description": "Always-on AI agents for rubber manufacturing. Exceptions only.",
+      "description_fr": "Agents d’IA toujours actifs pour la fabrication du caoutchouc. Exceptions seulement.",
+      "category": "AI & Machine Learning",
       "website": "https://tackwise-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-26T14:01:54.611381+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-26T15:16:02.482965+00:00"
     },
     {
       "name": "URT Lab",
@@ -212738,6 +212747,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-26T14:02:08.800775+00:00"
+    },
+    {
+      "name": "Duoville",
+      "slug": "polsia-duoville",
+      "website": "https://duoville.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T15:14:50.712423+00:00"
+    },
+    {
+      "name": "MerchNinho",
+      "slug": "polsia-merchninho",
+      "website": "https://merchninho.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T15:14:56.138490+00:00"
+    },
+    {
+      "name": "Stoep",
+      "slug": "polsia-stoep",
+      "website": "https://stoep.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T15:15:06.580318+00:00"
+    },
+    {
+      "name": "Oh My Chewy",
+      "slug": "polsia-oh-my-chewy",
+      "website": "https://oh-my-chewy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T15:15:12.158832+00:00"
+    },
+    {
+      "name": "Tardyx",
+      "slug": "polsia-tardyx",
+      "website": "https://tardyx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T15:15:17.715132+00:00"
+    },
+    {
+      "name": "Hawkfold",
+      "slug": "polsia-hawkfold",
+      "description": "Hawkfold is a 24/7 AI co-pilot that fuses your inbox, calendar, and money into a single vigilant watcher — flagging what matters, drafting replies, and sending your morning digest.",
+      "description_fr": "Hawkfold est un copilote d'IA 24h/24 et 7j/7 qui fusionne votre boîte de réception, votre calendrier et votre argent en un seul observateur vigilant - signalant ce qui compte, rédigeant des réponses et envoyant votre résumé du matin.",
+      "category": "AI & Machine Learning",
+      "website": "https://hawkfold.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T15:15:19.022178+00:00"
+    },
+    {
+      "name": "BonoloDesk",
+      "slug": "polsia-bonolodesk",
+      "description": "A neighbourhood one-stop business and document centre for South Africa — CIPC, SARS, UIF, NSFAS, SASSA, CVs, printing and more, done for you.",
+      "description_fr": "Un centre d'affaires et de documents unique pour l'Afrique du Sud — CIPC, SARS, UIF, NSFAS, SASSA, CV, impression et plus encore, fait pour vous.",
+      "category": "Other",
+      "website": "https://bonolodesk.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T15:15:20.220294+00:00"
+    },
+    {
+      "name": "Bourgeon",
+      "slug": "polsia-bourgeon",
+      "website": "https://bourgeon.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-26T15:15:25.784540+00:00"
+    },
+    {
+      "name": "Polsia App",
+      "slug": "polsia-questloom-2",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
+      "website": "https://questloom-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T15:15:26.391896+00:00"
+    },
+    {
+      "name": "Vesper",
+      "slug": "polsia-vesper-1l4trp",
+      "description": "The CI babysitter that codes the fix and only rings when it is real.",
+      "description_fr": "La baby-sitter CI qui code le correctif et ne sonne que lorsqu'il est réel.",
+      "category": "Other",
+      "website": "https://vesper-1l4trp.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-26T15:15:28.109947+00:00"
     }
   ]
 }
