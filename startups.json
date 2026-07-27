@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T22:34:32.764253+00:00",
+  "last_updated": "2026-07-27T23:41:45.529596+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -214695,10 +214695,13 @@
     {
       "name": "Stockwright",
       "slug": "polsia-stockwright-4",
+      "description": "Always-on ops agent for small Shopify and WooCommerce merchants — watches inventory, pricing, and supplier availability in real time and auto-purchases from the cheapest in-stock wholesaler.",
+      "description_fr": "Agent opérationnel permanent pour les petits marchands Shopify et WooCommerce : surveille l'inventaire, les prix et la disponibilité des fournisseurs en temps réel et achète automatiquement auprès du grossiste en stock le moins cher.",
+      "category": "E-Commerce & Retail",
       "website": "https://stockwright-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T22:32:17.485905+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T23:40:56.656225+00:00"
     },
     {
       "name": "Formsmith",
@@ -214711,42 +214714,57 @@
     {
       "name": "Anvilwake",
       "slug": "polsia-anvilwake",
+      "description": "Your overnight plant superintendent. Anvilwake watches MES, ERP and shop-floor IoT signals so plant directors wake up to a triaged inbox — not another stack of dashboards.",
+      "description_fr": "Votre surintendant d'usine de nuit. Anvilwake surveille les signaux MES, ERP et IoT en atelier afin que les directeurs d'usine se réveillent avec une boîte de réception triée, et non avec une autre pile de tableaux de bord.",
+      "category": "Software & SaaS",
       "website": "https://anvilwake.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T22:32:28.346281+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T23:41:03.181055+00:00"
     },
     {
       "name": "Hearthwright",
       "slug": "polsia-hearthwright-10",
+      "description": "The set-and-forget AI butler for the family Mac — auto-patch, behavioral scan, offsite backup, and a 7 a.m. health digest, run quietly on one Apple Silicon machine.",
+      "description_fr": "Le majordome IA à configurer et à oublier pour les Mac de la famille : correctif automatique, analyse comportementale, sauvegarde hors site et résumé de santé à 7 heures du matin, s'exécute en silence sur une machine Apple Silicon.",
+      "category": "AI & Machine Learning",
       "website": "https://hearthwright-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T22:32:33.722875+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T23:41:04.440974+00:00"
     },
     {
       "name": "Cannalytix",
       "slug": "polsia-cannalytix",
+      "description": "The operating system for South African cannabis retailers, clubs and inventory teams — multi-site reporting, inventory control and role-based dashboards, built for SAHPRA-aware operators.",
+      "description_fr": "Le système d'exploitation pour les détaillants de cannabis, les clubs et les équipes d'inventaire sud-africains : reporting multi-sites, contrôle des stocks et tableaux de bord basés sur les rôles, conçu pour les opérateurs connaissant SAHPRA.",
+      "category": "Software & SaaS",
       "website": "https://cannalytix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T22:32:39.051421+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T23:41:05.384872+00:00"
     },
     {
       "name": "Pinveil",
       "slug": "polsia-pinveil",
+      "description": "Amazon best-sellers, transformed into FTC-compliant Pinterest pins. Automated ASIN-to-pin pipeline with Canva-restyled imagery, AI-written SEO copy, and a hosted disclosure page that keeps every click compliant.",
+      "description_fr": "Les best-sellers d'Amazon, transformés en épingles Pinterest conformes à la FTC. Pipeline ASIN à épingle automatisé avec des images relookées par Canva, une copie SEO écrite par l'IA et une page de divulgation hébergée qui garantit la conformité de chaque clic.",
+      "category": "AI & Machine Learning",
       "website": "https://pinveil.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T22:32:44.621840+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T23:41:06.592553+00:00"
     },
     {
       "name": "TRTech Solutions",
       "slug": "polsia-trtech-solutions",
+      "description": "TRTech Solutions is a focused technology partner that designs, integrates, and operates dependable systems for teams that need software to actually work.",
+      "description_fr": "TRTech Solutions est un partenaire technologique ciblé qui conçoit, intègre et exploite des systèmes fiables pour les équipes qui ont besoin de logiciels pour fonctionner réellement.",
+      "category": "Software & SaaS",
       "website": "https://trtech-solutions.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T22:32:54.965044+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T23:41:08.040672+00:00"
     },
     {
       "name": "Haytham",
@@ -214759,18 +214777,113 @@
     {
       "name": "RANUMAURI",
       "slug": "polsia-ranumauri",
+      "description": "RANUMAURI — a 100% fragrance-free botanical oil from Aotearoa New Zealand. Jojoba wax esters, avocado oil, wild-harvested kawakawa and mixed tocopherals, presented in amber glass. For face, body and hair. For sensitive and infant skin.",
+      "description_fr": "RANUMAURI — une huile botanique 100 % sans parfum d'Aotearoa Nouvelle-Zélande. Esters de cire de jojoba, huile d'avocat, kawakawa sauvage et tocophérals mélangés, présentés dans un verre ambré. Pour le visage, le corps et les cheveux. Pour les peaux sensibles et infantiles.",
+      "category": "Other",
       "website": "https://ranumauri.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T22:33:05.723222+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T23:41:09.945575+00:00"
     },
     {
       "name": "GrayLab AI",
       "slug": "polsia-graylab-ai",
+      "description": "Agents IA omnicanaux pour automatiser voix, chat et vidéo en 32 langues.",
+      "description_fr": "Agents IA omnicanaux pour automatiser voix, chat et vidéo en 32 langues.",
+      "category": "AI & Machine Learning",
       "website": "https://graylab-ai.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T23:41:11.090021+00:00"
+    },
+    {
+      "name": "Conversify Digital",
+      "slug": "polsia-conversify-digital",
+      "website": "https://conversify-digital.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-27T22:33:11.368478+00:00"
+      "scraped_at": "2026-07-27T23:40:02.424930+00:00"
+    },
+    {
+      "name": "Hiveroot",
+      "slug": "polsia-hiveroot",
+      "website": "https://hiveroot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T23:40:07.990322+00:00"
+    },
+    {
+      "name": "Portwarden",
+      "slug": "polsia-portwarden",
+      "website": "https://portwarden.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T23:40:13.641367+00:00"
+    },
+    {
+      "name": "CVision AI",
+      "slug": "polsia-cvision-ai",
+      "website": "https://cvision-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T23:40:19.264645+00:00"
+    },
+    {
+      "name": "Haultide",
+      "slug": "polsia-haultide-4",
+      "website": "https://haultide-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T23:40:24.808920+00:00"
+    },
+    {
+      "name": "BevyHR",
+      "slug": "polsia-bevyhr",
+      "website": "https://bevyhr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T23:40:30.312160+00:00"
+    },
+    {
+      "name": "AI",
+      "slug": "polsia-ai-mbleae",
+      "website": "https://ai-mbleae.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T23:40:30.863662+00:00"
+    },
+    {
+      "name": "Briefloom",
+      "slug": "polsia-briefloom-7",
+      "description": "From brief to deployed, monitored, and reported — without a human in the loop. The autonomous AI software studio for delegating incremental UX work end-to-end.",
+      "description_fr": "Du briefing au déploiement, à la surveillance et au signalement, sans qu'un humain soit au courant. Le studio logiciel d'IA autonome pour déléguer le travail UX incrémentiel de bout en bout.",
+      "category": "AI & Machine Learning",
+      "website": "https://briefloom-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T23:41:45.528736+00:00"
+    },
+    {
+      "name": "Rado General Contracting",
+      "slug": "polsia-rado-general-contracting",
+      "description": "Toronto custom homes and gut-to-stud renovations on one fixed price — with a guaranteed completion date and zero monthly management fees. Serving North York and Midtown.",
+      "description_fr": "Des maisons personnalisées à Toronto et des rénovations de bout en bout à un prix fixe — avec une date d'achèvement garantie et aucun frais de gestion mensuel. Desservant North York et Midtown.",
+      "category": "Other",
+      "website": "https://rado-general-contracting.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T23:40:37.346947+00:00"
+    },
+    {
+      "name": "Halyard",
+      "slug": "polsia-halyard-8",
+      "description": "Always-on Azure ops, run by agents, priced for SMBs — provisioning, monitoring, triaging, and auto-remediating your Azure workloads 24/7.",
+      "description_fr": "Opérations Azure toujours actives, exécutées par des agents, tarifées pour les PME : provisionnement, surveillance, tri et correction automatique de vos charges de travail Azure 24h/24 et 7j/7.",
+      "category": "Entertainment & Media",
+      "website": "https://halyard-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T23:40:38.554026+00:00"
     }
   ]
 }
