@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T14:36:27.769504+00:00",
+  "last_updated": "2026-07-27T14:56:22.410874+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -214050,18 +214050,24 @@
     {
       "name": "Lumiven",
       "slug": "polsia-lumiven",
+      "description": "Nigeria's traceable, COSMOS-aligned snail mucin for global skincare innovators.",
+      "description_fr": "La mucine d'escargot traçable du Nigéria et alignée sur COSMOS pour les innovateurs mondiaux en matière de soins de la peau.",
+      "category": "Other",
       "website": "https://lumiven.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T11:58:02.657222+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T14:55:54.079893+00:00"
     },
     {
       "name": "Hearthwright",
       "slug": "polsia-hearthwright-6",
+      "description": "Concierge installation and care for the connected home — one accountable team for lighting, audio, networking, and control, on a recurring cadence.",
+      "description_fr": "Installation et entretien par concierge de la maison connectée : une équipe responsable de l'éclairage, de l'audio, de la mise en réseau et du contrôle, à une cadence récurrente.",
+      "category": "Social & Community",
       "website": "https://hearthwright-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T11:58:08.033527+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T14:55:55.607601+00:00"
     },
     {
       "name": "Pilothatch",
@@ -214147,6 +214153,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-27T11:58:23.056861+00:00"
+    },
+    {
+      "name": "Trellis Bureau",
+      "slug": "polsia-trellis-bureau",
+      "website": "https://trellis-bureau.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T14:54:45.922700+00:00"
+    },
+    {
+      "name": "Klazkring",
+      "slug": "polsia-klazkring",
+      "website": "https://klazkring.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T14:54:51.522301+00:00"
+    },
+    {
+      "name": "Magnetar",
+      "slug": "polsia-magnetar",
+      "website": "https://magnetar.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T14:54:57.221475+00:00"
+    },
+    {
+      "name": "Carrema",
+      "slug": "polsia-carrema",
+      "website": "https://carrema.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T14:55:02.786200+00:00"
+    },
+    {
+      "name": "Alchemy Logistics",
+      "slug": "polsia-alchemy-logistics",
+      "website": "https://alchemy-logistics.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T14:55:03.534546+00:00"
+    },
+    {
+      "name": "aiMDM",
+      "slug": "polsia-aimdm",
+      "description": "AI-powered MDM notes for emergency physicians. Worst-first reasoning, automatic HEART/PECARN/Wells rules, copy-paste-ready EHR output in under 60 seconds.",
+      "description_fr": "Notes MDM basées sur l'IA pour les médecins urgentistes. Raisonnement du pire en premier, règles automatiques HEART/PECARN/Wells, sortie DSE prête à copier-coller en moins de 60 secondes.",
+      "category": "AI & Machine Learning",
+      "website": "https://aimdm.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T14:56:21.265918+00:00"
+    },
+    {
+      "name": "Kernmark",
+      "slug": "polsia-kernmark",
+      "description": "Multi-bank data, AI copilots, and human-led distribution for the Swiss wealth advisors the platform vendors ignore — Kernmark AG.",
+      "description_fr": "Données multibanques, copilotes IA et distribution humaine pour les conseillers patrimoniaux suisses que les fournisseurs de plateformes ignorent – ​​Kernmark AG.",
+      "category": "AI & Machine Learning",
+      "website": "https://kernmark.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T14:56:22.409935+00:00"
+    },
+    {
+      "name": "Voltairon",
+      "slug": "polsia-voltairon",
+      "description": "FPV drone components and traceable semiconductor spares, shipped worldwide — one quote, one PO, one shipment for two specialist supply chains.",
+      "description_fr": "Composants de drones FPV et pièces de rechange traçables pour semi-conducteurs, expédiés dans le monde entier : un devis, un bon de commande, une expédition pour deux chaînes d'approvisionnement spécialisées.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://voltairon.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T14:55:16.278623+00:00"
+    },
+    {
+      "name": "Ferala",
+      "slug": "polsia-ferala",
+      "description": "AI automatizacija i chatbotovi za male turističke biznise u Dalmaciji — iznajmljivače apartmana, agencije i restorane. 24/7 odgovori na WhatsAppu, Instagramu i webu, sinkronizacija Booking.com-a i Airbnb-a te automatski podsjetnici gostima.",
+      "description_fr": "AI automatise les chatbots pour les hommes d'affaires touristiques de Dalmatie — iznajmljivače apartmana, agencije et restorane. 24h/24 et 7j/7 sur WhatsApp, Instagram et le Web, et Booking.com sur Airbnb et vos services automatiques.",
+      "category": "AI & Machine Learning",
+      "website": "https://ferala.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T14:55:17.432989+00:00"
+    },
+    {
+      "name": "NORD Fire",
+      "slug": "polsia-nord-fire",
+      "description": "A focused on-demand marketplace for fire and electrical safety kits — manufacturer-approved, trade-ready, and built around compliance.",
+      "description_fr": "Un marché à la demande axé sur les kits de sécurité incendie et électrique – approuvés par le fabricant, prêts à être commercialisés et construits autour de la conformité.",
+      "category": "E-Commerce & Retail",
+      "website": "https://nord-fire.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T14:55:18.770147+00:00"
     }
   ]
 }
