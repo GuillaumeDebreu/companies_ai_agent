@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T16:59:13.220121+00:00",
+  "last_updated": "2026-07-27T18:28:38.363629+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -214272,26 +214272,35 @@
     {
       "name": "Wayfolk",
       "slug": "polsia-wayfolk",
+      "description": "Wayfolk is the family-side AI navigator for elder care — compare caregivers, track medications, and see what Medicare, insurance, and long-term-care benefits will actually cover.",
+      "description_fr": "Wayfolk est le navigateur d'IA côté famille pour les soins aux personnes âgées : comparez les soignants, suivez les médicaments et voyez ce que Medicare, l'assurance et les prestations de soins de longue durée couvriront réellement.",
+      "category": "AI & Machine Learning",
       "website": "https://wayfolk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T16:57:15.429189+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T18:27:58.336146+00:00"
     },
     {
       "name": "Halecraft",
       "slug": "polsia-halecraft",
+      "description": "AI workflow automations for clinical operations.",
+      "description_fr": "Automatisations des flux de travail de l'IA pour les opérations cliniques.",
+      "category": "AI & Machine Learning",
       "website": "https://halecraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T16:57:25.968425+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T18:27:59.947892+00:00"
     },
     {
       "name": "Tukangin",
       "slug": "polsia-tukangin",
+      "description": "Your 24/7 ops teammate for every Indonesian marketplace — auto-reply on WhatsApp, sync stock across channels, and read your daily profit in plain language.",
+      "description_fr": "Votre coéquipier opérationnel 24h/24 et 7j/7 pour chaque marché indonésien : répondez automatiquement sur WhatsApp, synchronisez les stocks sur tous les canaux et lisez vos bénéfices quotidiens en langage simple.",
+      "category": "E-Commerce & Retail",
       "website": "https://tukangin.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T16:57:31.347621+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T18:28:02.183968+00:00"
     },
     {
       "name": "DimbaDakta",
@@ -214307,10 +214316,13 @@
     {
       "name": "Treenail & Co.",
       "slug": "polsia-treenail-co",
+      "description": "Skilled-trade crews, vetted and on-site fast.",
+      "description_fr": "Des équipes spécialisées, contrôlées et sur place rapidement.",
+      "category": "Other",
       "website": "https://treenail-co.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T16:57:47.471472+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T18:28:03.432249+00:00"
     },
     {
       "name": "Steadmark",
@@ -214355,6 +214367,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-27T16:57:58.107388+00:00"
+    },
+    {
+      "name": "Esmaltério",
+      "slug": "polsia-esmaltrio",
+      "website": "https://esmaltrio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T18:26:55.865258+00:00"
+    },
+    {
+      "name": "Railhive",
+      "slug": "polsia-railhive",
+      "website": "https://railhive.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T18:27:01.396319+00:00"
+    },
+    {
+      "name": "Petalyx",
+      "slug": "polsia-petalyx",
+      "website": "https://petalyx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T18:27:06.818843+00:00"
+    },
+    {
+      "name": "TiệmTa",
+      "slug": "polsia-timta",
+      "website": "https://timta.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T18:27:12.153062+00:00"
+    },
+    {
+      "name": "thin mints",
+      "slug": "polsia-thin-mints",
+      "website": "https://thin-mints.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T18:27:17.547287+00:00"
+    },
+    {
+      "name": "Lorehold",
+      "slug": "polsia-lorehold",
+      "website": "https://lorehold.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T18:27:22.995712+00:00"
+    },
+    {
+      "name": "Endurance Agencies",
+      "slug": "polsia-endurance-agencies",
+      "description": "New Zealand sales and brand representation for global consumer electronics and AV brands. Auckland-based, since 2008.",
+      "description_fr": "Ventes et représentation de marque en Nouvelle-Zélande pour les marques mondiales d'électronique grand public et d'audiovisuel. Basé à Auckland, depuis 2008.",
+      "category": "Marketing & Advertising",
+      "website": "https://endurance-agencies.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T18:27:24.027101+00:00"
+    },
+    {
+      "name": "777 AURA",
+      "slug": "polsia-777-aura",
+      "description": "Ancient botanicals in every shot — nature-rooted wellness for women who want to thrive.",
+      "description_fr": "Des plantes anciennes dans chaque shot : un bien-être enraciné dans la nature pour les femmes qui veulent s'épanouir.",
+      "category": "Health & Wellness",
+      "website": "https://777-aura.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T18:27:24.533625+00:00"
+    },
+    {
+      "name": "Hivemoot",
+      "slug": "polsia-hivemoot",
+      "description": "Always-on operations for your worker cooperative.",
+      "description_fr": "Opérations permanentes pour votre coopérative de travailleurs.",
+      "category": "Other",
+      "website": "https://hivemoot.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T18:28:36.906808+00:00"
+    },
+    {
+      "name": "Mizanfield",
+      "slug": "polsia-mizanfield",
+      "description": "Embedded infrastructure teams and AI agents that run day-2 operations end-to-end — patching, upgrades, monitoring, runbooks, and incident triage for regulated enterprises.",
+      "description_fr": "Des équipes d'infrastructure intégrées et des agents d'IA qui exécutent les opérations du deuxième jour de bout en bout : correctifs, mises à niveau, surveillance, runbooks et tri des incidents pour les entreprises réglementées.",
+      "category": "AI & Machine Learning",
+      "website": "https://mizanfield.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T18:28:38.362503+00:00"
     }
   ]
 }
