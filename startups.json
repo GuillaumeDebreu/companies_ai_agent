@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T09:53:27.855231+00:00",
+  "last_updated": "2026-07-27T11:59:05.995699+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -213940,26 +213940,35 @@
     {
       "name": "KarzBandhu",
       "slug": "polsia-karzbandhu",
+      "description": "KarzBandhu is the local-language collections agent Pakistan's NBFCs, microfinance institutions, and digital-bank lenders have been waiting for. Bilingual Urdu and Sindhi voice + chat, NADRA and PTA integrated, SBP-compliant, and tied to live RAAST events.",
+      "description_fr": "KarzBandhu est l'agent de recouvrement en langue locale qu'attendaient les NBFC, les institutions de microfinance et les banques numériques du Pakistan. Voix + chat bilingue ourdou et sindhi, NADRA et PTA intégrés, conformes au SBP et liés aux événements RAAST en direct.",
+      "category": "Other",
       "website": "https://karzbandhu.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T08:40:36.120263+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T11:58:50.947419+00:00"
     },
     {
       "name": "Treadleaf",
       "slug": "polsia-treadleaf",
+      "description": "Mobile eco-wash crews for fleets, driveways, and job sites. One crew, two businesses — pair every truck wash with an adjacent home or small-office clean.",
+      "description_fr": "Équipes mobiles de lavage écologique pour les flottes, les allées et les chantiers. Une équipe, deux entreprises : associez chaque lavage de camion à un nettoyage de maison ou de petit bureau adjacent.",
+      "category": "Sustainability & Green",
       "website": "https://treadleaf.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T08:40:41.689205+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T11:58:52.640157+00:00"
     },
     {
       "name": "Frosthalle",
       "slug": "polsia-frosthalle",
+      "description": "24/7 AI operations for European specialty food importers — live shipment monitoring, customs filings, and supplier certifications, managed by an always-on agent fleet.",
+      "description_fr": "Opérations d'IA 24h/24 et 7j/7 pour les importateurs européens de produits alimentaires spécialisés : surveillance en direct des expéditions, déclarations en douane et certifications des fournisseurs, gérées par une flotte d'agents toujours active.",
+      "category": "AI & Machine Learning",
       "website": "https://frosthalle.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T08:40:47.112377+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T11:58:54.320371+00:00"
     },
     {
       "name": "CodeBridge Hub",
@@ -214037,6 +214046,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-27T08:41:06.274049+00:00"
+    },
+    {
+      "name": "Lumiven",
+      "slug": "polsia-lumiven",
+      "website": "https://lumiven.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T11:58:02.657222+00:00"
+    },
+    {
+      "name": "Hearthwright",
+      "slug": "polsia-hearthwright-6",
+      "website": "https://hearthwright-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T11:58:08.033527+00:00"
+    },
+    {
+      "name": "Pilothatch",
+      "slug": "polsia-pilothatch-2",
+      "description": "We build, run, and tune the AI workflows behind service-business operators — restaurants, dental & med-spa, real estate, and local services.",
+      "description_fr": "Nous construisons, exécutons et ajustons les flux de travail d'IA derrière les opérateurs d'entreprises de services : restaurants, soins dentaires et médicaux, immobilier et services locaux.",
+      "category": "AI & Machine Learning",
+      "website": "https://pilothatch-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T11:59:05.892577+00:00"
+    },
+    {
+      "name": "Photihaat",
+      "slug": "polsia-photihaat",
+      "description": "One photo. One post. In Assamese, Bengali or English — built for the lakhs of Indian shopkeepers who already run their shop on WhatsApp.",
+      "description_fr": "Une photo. Un message. En assamais, bengali ou anglais – conçu pour les milliers de commerçants indiens qui gèrent déjà leur boutique sur WhatsApp.",
+      "category": "E-Commerce & Retail",
+      "website": "https://photihaat.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T11:58:14.759362+00:00"
+    },
+    {
+      "name": "Activops",
+      "slug": "polsia-activops",
+      "description": "Cabinet de conseil pure-player Microsoft Dynamics 365 — CRM, ERP Business Central et Power Platform pour PME et ETI.",
+      "description_fr": "Cabinet de conseil pure-player Microsoft Dynamics 365 — CRM, ERP Business Central et Power Platform pour PME et ETI.",
+      "category": "Software & SaaS",
+      "website": "https://activops.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T11:58:16.362831+00:00"
+    },
+    {
+      "name": "Belltender",
+      "slug": "polsia-belltender-2",
+      "description": "Belltender is an always-on AI voice answering service for trades. Agents answer, qualify, book, and escalate urgent calls 24/7 — bilingual English & Spanish.",
+      "description_fr": "Belltender est un service de réponse vocale IA toujours actif pour les transactions. Les agents répondent, qualifient, réservent et font remonter les appels urgents 24h/24 et 7j/7 – bilingues anglais et espagnol.",
+      "category": "AI & Machine Learning",
+      "website": "https://belltender-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T11:58:17.567913+00:00"
+    },
+    {
+      "name": "Effraie",
+      "slug": "polsia-effraie",
+      "description": "La gardienne 24/7 de vos sites livrés : veille technique, corrections silencieuses, rapport mensuel en marque blanche. Pour agences et studios web.",
+      "description_fr": "La gardienne 24/7 de vos sites livrées : veille technique, corrections silencieuses, rapport mensuel en marque blanche. Pour agences et studios web.",
+      "category": "Other",
+      "website": "https://effraie.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T11:58:18.872179+00:00"
+    },
+    {
+      "name": "StormopsAI",
+      "slug": "polsia-stormopsai",
+      "description": "StormopsAI applies machine intelligence to storm and severe-weather operations — forecast fusion, situational awareness, response coordination, and post-event recovery for utilities, emergency management, and public-sector operations teams.",
+      "description_fr": "StormopsAI applique l'intelligence artificielle aux opérations liées aux tempêtes et aux intempéries : fusion des prévisions, connaissance de la situation, coordination des interventions et récupération après événement pour les services publics, la gestion des urgences et les équipes opérationnelles du secteur public.",
+      "category": "AI & Machine Learning",
+      "website": "https://stormopsai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T11:58:21.359956+00:00"
+    },
+    {
+      "name": "Nighthouse",
+      "slug": "polsia-nighthouse-2",
+      "website": "https://nighthouse-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T11:58:21.572499+00:00"
+    },
+    {
+      "name": "Hôteo",
+      "slug": "polsia-hteo",
+      "description": "Conciergerie IA pour l’agent immobilier solo : qualification des leads de portails, prise de rendez-vous et alertes chaudes 24h/24.",
+      "description_fr": "Conciergerie IA pour l’agent immobilier solo : qualification des leads de portails, prise de rendez-vous et alertes chaudes 24h/24.",
+      "category": "Sales & CRM",
+      "website": "https://hteo.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T11:58:23.056861+00:00"
     }
   ]
 }
