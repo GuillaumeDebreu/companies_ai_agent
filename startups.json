@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T05:02:04.427135+00:00",
+  "last_updated": "2026-07-27T08:42:09.879301+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -213830,50 +213830,68 @@
     {
       "name": "The K9 Butcher",
       "slug": "polsia-the-k9-butcher",
+      "description": "Brooklyn's brick-and-mortar raw dog food butcher. Vet-approved, 85% farm-raised meat meals with organs, kale, and superfoods — local NYC delivery and a feeding calculator that sizes every bowl.",
+      "description_fr": "Le boucher de nourriture crue pour chiens de Brooklyn. Repas de viande d'élevage à 85 %, approuvés par les vétérinaires, avec organes, chou frisé et superaliments - livraison locale à New York et calculateur d'alimentation qui dimensionne chaque bol.",
+      "category": "Food & Beverage",
       "website": "https://the-k9-butcher.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T05:00:14.468603+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T08:41:38.216151+00:00"
     },
     {
       "name": "Nightjar",
       "slug": "polsia-nightjar-8w2avn",
+      "description": "Nightjar is a 24/7 managed security operations center staffed by AI agents and supervised by humans, purpose-built for small and mid-sized businesses that don’t have a dedicated security team.",
+      "description_fr": "Nightjar est un centre d'opérations de sécurité géré 24h/24 et 7j/7, doté d'agents IA et supervisé par des humains, spécialement conçu pour les petites et moyennes entreprises qui ne disposent pas d'une équipe de sécurité dédiée.",
+      "category": "AI & Machine Learning",
       "website": "https://nightjar-8w2avn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T05:00:14.920980+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T08:41:40.952989+00:00"
     },
     {
       "name": "Recibl",
       "slug": "polsia-recibl",
+      "description": "Recibl sends the invoice and chases the payment for solo tradespeople — plumbers, HVAC techs, electricians, handymen, personal trainers, and hourly cleaners. $29/mo, no free tier.",
+      "description_fr": "Recibl envoie la facture et recherche le paiement pour les artisans indépendants : plombiers, techniciens CVC, électriciens, bricoleurs, entraîneurs personnels et nettoyeurs horaires. 29 $/mois, pas de niveau gratuit.",
+      "category": "Finance & Fintech",
       "website": "https://recibl.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T05:00:23.558023+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T08:41:43.247606+00:00"
     },
     {
       "name": "Servosmith",
       "slug": "polsia-servosmith-2",
+      "description": "AI agents that watch, predict, and tune the factory floor. Always-on condition monitoring, anomaly detection 30–60 days before failure, and closed-loop parameter tuning for CNC machines and rotating equipment.",
+      "description_fr": "Des agents d'IA qui surveillent, prédisent et ajustent l'usine. Surveillance permanente des conditions, détection des anomalies 30 à 60 jours avant la panne et réglage des paramètres en boucle fermée pour les machines CNC et les équipements rotatifs.",
+      "category": "AI & Machine Learning",
       "website": "https://servosmith-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T05:00:28.849767+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T08:41:44.853488+00:00"
     },
     {
       "name": "Loamlight",
       "slug": "polsia-loamlight",
+      "description": "An always-on crew of AI specialists that runs your regenerative acres end to end — soil science, irrigation, grazing, markets, and a daily brief.",
+      "description_fr": "Une équipe permanente de spécialistes de l'IA qui gère vos acres régénérables de bout en bout : science du sol, irrigation, pâturage, marchés et briefing quotidien.",
+      "category": "AI & Machine Learning",
       "website": "https://loamlight.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T05:00:34.242345+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T08:41:46.350692+00:00"
     },
     {
       "name": "Baahi",
       "slug": "polsia-baahi",
+      "description": "The Bangla-first back office for community halls and banquet venues across Bangladesh — bookings, advances, vendors, all in ৳.",
+      "description_fr": "Le premier back-office bengali pour les salles communautaires et les salles de banquet à travers le Bangladesh : réservations, avances, fournisseurs, le tout en ৳.",
+      "category": "Travel & Hospitality",
       "website": "https://baahi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T05:00:39.618110+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T08:41:48.101381+00:00"
     },
     {
       "name": "CJR Brand Inc.",
@@ -213900,10 +213918,13 @@
     {
       "name": "Shopwright",
       "slug": "polsia-shopwright-2",
+      "description": "Shopify-first AI automations for DTC brands past their founder bottleneck. Aborted-cart recovery, Klaviyo flows, AI product copy, support agents — built on n8n, Make, Zapier, GoHighLevel.",
+      "description_fr": "Les automatisations d'IA de Shopify pour les marques DTC ont dépassé le goulot d'étranglement de leur fondateur. Récupération de panier abandonné, flux Klaviyo, copie de produit IA, agents de support – basés sur n8n, Make, Zapier, GoHighLevel.",
+      "category": "E-Commerce & Retail",
       "website": "https://shopwright-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-27T05:00:47.110539+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-27T08:41:49.585438+00:00"
     },
     {
       "name": "Halftide",
@@ -213915,6 +213936,107 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-27T05:00:49.224873+00:00"
+    },
+    {
+      "name": "KarzBandhu",
+      "slug": "polsia-karzbandhu",
+      "website": "https://karzbandhu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T08:40:36.120263+00:00"
+    },
+    {
+      "name": "Treadleaf",
+      "slug": "polsia-treadleaf",
+      "website": "https://treadleaf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T08:40:41.689205+00:00"
+    },
+    {
+      "name": "Frosthalle",
+      "slug": "polsia-frosthalle",
+      "website": "https://frosthalle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-27T08:40:47.112377+00:00"
+    },
+    {
+      "name": "CodeBridge Hub",
+      "slug": "polsia-codebridge-hub",
+      "description": "CodeBridge Hub bridges the gap between learning and the tech industry with beginner-friendly, 100% virtual training in web development, cybersecurity, data, cloud, AI and more.",
+      "description_fr": "CodeBridge Hub comble le fossé entre l'apprentissage et l'industrie technologique avec une formation 100 % virtuelle adaptée aux débutants sur le développement Web, la cybersécurité, les données, le cloud, l'IA et plus encore.",
+      "category": "AI & Machine Learning",
+      "website": "https://codebridge-hub.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T08:40:49.033142+00:00"
+    },
+    {
+      "name": "Sightmint",
+      "slug": "polsia-sightmint-2",
+      "description": "End-to-end booking workflow for photography studios in emerging markets — vetted creator portfolios, deposit escrow, private galleries, and print, album and download delivery.",
+      "description_fr": "Flux de travail de réservation de bout en bout pour les studios de photographie des marchés émergents : portefeuilles de créateurs approuvés, dépôt fiduciaire, galeries privées et livraison d'impressions, d'albums et de téléchargements.",
+      "category": "Marketing & Advertising",
+      "website": "https://sightmint-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T08:40:50.184170+00:00"
+    },
+    {
+      "name": "Caltrix",
+      "slug": "polsia-caltrix-2",
+      "description": "Caltrix is the 24/7 AI marketing operator that plans, launches, and continuously optimizes campaigns across SEO, paid media, and social — replacing agencies, dashboards, and contractors with one autonomous loop.",
+      "description_fr": "Caltrix est l'opérateur marketing d'IA 24h/24 et 7j/7 qui planifie, lance et optimise en permanence les campagnes de référencement, de médias payants et de réseaux sociaux, remplaçant les agences, les tableaux de bord et les sous-traitants par une boucle autonome.",
+      "category": "Marketing & Advertising",
+      "website": "https://caltrix-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T08:42:07.935293+00:00"
+    },
+    {
+      "name": "Prahar",
+      "slug": "polsia-prahar",
+      "description": "Your dealer's 24/7 sales shift — an AI agent team that replies to every WhatsApp lead in the buyer's language, books test drives, and ships a plain morning report.",
+      "description_fr": "L'équipe de vente de votre concessionnaire 24h/24 et 7j/7 : une équipe d'agents IA qui répond à chaque piste WhatsApp dans la langue de l'acheteur, réserve des essais routiers et envoie un rapport matinal simple.",
+      "category": "AI & Machine Learning",
+      "website": "https://prahar.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T08:42:09.877769+00:00"
+    },
+    {
+      "name": "Refero",
+      "slug": "polsia-refero-2",
+      "description": "Refero is het Europese reverse-logistics platform dat e-commerce retouren omzet in inkomsten. Wij categoriseren retouren in A-, B- en C-grades en verkopen ze door via 42+ verkoopkanalen zoals Bol.com Outlet, Amazon Warehouse, BVA Auctions en Troostwijk.",
+      "description_fr": "Refero est la plate-forme européenne de logistique inverse qui permet le retour du commerce électronique dans les pays en développement. Nous catégorisons les retours dans les grades A, B et C et ouvrons la porte via plus de 42 canaux de vente Bol.com Outlet, Amazon Warehouse, BVA Auctions à Troostwijk.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://refero-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T08:41:03.195519+00:00"
+    },
+    {
+      "name": "Keywright",
+      "slug": "polsia-keywright",
+      "description": "An autonomous operations console for short-term rental portfolios. Pricing, messaging, turnover, compliance — running themselves.",
+      "description_fr": "Une console d'exploitation autonome pour les portefeuilles de location à court terme. Tarification, messagerie, chiffre d’affaires, conformité – gérés eux-mêmes.",
+      "category": "Travel & Hospitality",
+      "website": "https://keywright.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T08:41:05.217708+00:00"
+    },
+    {
+      "name": "Verant — The AI operating system for restaurants.",
+      "slug": "polsia-verant-2",
+      "description": "Verant is the AI operating system for restaurants — replacing scheduling, training, review management, inventory, and team messaging with one subscription.",
+      "description_fr": "Verant est le système d'exploitation d'IA pour les restaurants : il remplace la planification, la formation, la gestion des avis, l'inventaire et la messagerie d'équipe par un seul abonnement.",
+      "category": "AI & Machine Learning",
+      "website": "https://verant-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-27T08:41:06.274049+00:00"
     }
   ]
 }
