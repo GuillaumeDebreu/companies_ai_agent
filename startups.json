@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T09:50:31.623124+00:00",
+  "last_updated": "2026-07-28T11:49:10.454746+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -215230,26 +215230,35 @@
     {
       "name": "The Bell Perspective",
       "slug": "polsia-the-bell-perspective",
+      "description": "Practical, faith-friendly AI training for churches, ministry leaders, and adults 50+ — anchored in the five-step Bell Perspective Method.",
+      "description_fr": "Formation pratique et respectueuse de la foi en IA pour les églises, les dirigeants ministériels et les adultes de 50 ans et plus — ancrée dans la méthode Bell Perspective en cinq étapes.",
+      "category": "AI & Machine Learning",
       "website": "https://the-bell-perspective.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T09:48:41.538632+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T11:48:22.546297+00:00"
     },
     {
       "name": "Franck Florino",
       "slug": "polsia-franck-florino",
+      "description": "Independent filmmaker and director crafting premium documentaries, commercials, and fiction from Monaco.",
+      "description_fr": "Cinéaste et réalisateur indépendant créant des documentaires, des publicités et des fictions haut de gamme de Monaco.",
+      "category": "Other",
       "website": "https://franck-florino.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T09:48:46.897056+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T11:48:23.533499+00:00"
     },
     {
       "name": "Testify",
       "slug": "polsia-testify",
+      "description": "A living world map of 60-second audio testimonies — a memorial-stone archive of the moments Jesus met people, held to a two-witness model.",
+      "description_fr": "Une carte du monde vivante composée de témoignages audio de 60 secondes – une archive commémorative des moments où Jésus a rencontré les gens, présentée sur un modèle à deux témoins.",
+      "category": "Sustainability & Green",
       "website": "https://testify.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T09:48:52.332953+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T11:48:24.572603+00:00"
     },
     {
       "name": "Three Are One",
@@ -215262,18 +215271,24 @@
     {
       "name": "Precibel",
       "slug": "polsia-precibel",
+      "description": "Predictive AIOps for data-center switch and router fleets. Forecast hardware and protocol failures days before they trigger an outage.",
+      "description_fr": "AIOps prédictive pour les flottes de commutateurs et de routeurs de centres de données. Prévoyez les pannes matérielles et de protocole quelques jours avant qu’elles ne déclenchent une panne.",
+      "category": "AI & Machine Learning",
       "website": "https://precibel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T09:49:03.298438+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T11:48:25.738884+00:00"
     },
     {
       "name": "Spärhawk",
       "slug": "polsia-sprhawk",
+      "description": "Spärhawk ist Ihr autonomer KI-Agent für Cloud-Kosten, der rund um die Uhr überwacht, optimiert und umsetzt – auf AWS, Azure, Google Cloud und KI-Plattformen wie OpenAI, Anthropic und Bedrock. Read-only-zuerst, auditfähig, mit klaren Guardrails.",
+      "description_fr": "Spärhawk est votre agent KI autonome pour le coût du cloud, qui fonctionne à une heure plus longue, optimisée et intégrée – sur AWS, Azure, Google Cloud et les plates-formes KI comme OpenAI, Anthropic et Bedrock. Lecture seule, auditfähig, mit klaren Guardrails.",
+      "category": "Other",
       "website": "https://sprhawk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T09:49:08.634169+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T11:48:26.895057+00:00"
     },
     {
       "name": "Sternruf",
@@ -215315,6 +215330,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-28T09:49:21.719048+00:00"
+    },
+    {
+      "name": "Wakepoint",
+      "slug": "polsia-wakepoint",
+      "website": "https://wakepoint.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T11:47:19.674353+00:00"
+    },
+    {
+      "name": "Vyaapti",
+      "slug": "polsia-vyaapti",
+      "website": "https://vyaapti.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T11:47:20.135462+00:00"
+    },
+    {
+      "name": "Hajtás",
+      "slug": "polsia-hajts",
+      "website": "https://hajts.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T11:47:20.616445+00:00"
+    },
+    {
+      "name": "Growfin.ai",
+      "slug": "polsia-growfinai",
+      "website": "https://growfinai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T11:47:26.003578+00:00"
+    },
+    {
+      "name": "Glasshalide",
+      "slug": "polsia-glasshalide",
+      "website": "https://glasshalide.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T11:47:26.496892+00:00"
+    },
+    {
+      "name": "Abastare",
+      "slug": "polsia-abastare",
+      "website": "https://abastare.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T11:47:31.898318+00:00"
+    },
+    {
+      "name": "The Tiny Treasures",
+      "slug": "polsia-the-tiny-treasures",
+      "website": "https://the-tiny-treasures.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T11:47:37.515718+00:00"
+    },
+    {
+      "name": "Spurlane",
+      "slug": "polsia-spurlane",
+      "website": "https://spurlane.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T11:47:42.887632+00:00"
+    },
+    {
+      "name": "Tallycraft",
+      "slug": "polsia-tallycraft-3",
+      "website": "https://tallycraft-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T11:47:48.331578+00:00"
+    },
+    {
+      "name": "Kleingarten",
+      "slug": "polsia-kleingarten",
+      "website": "https://kleingarten.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T11:47:58.778232+00:00"
     }
   ]
 }
