@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T20:11:20.743088+00:00",
+  "last_updated": "2026-07-28T21:33:15.261248+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -215875,42 +215875,57 @@
     {
       "name": "Tradovera",
       "slug": "polsia-tradovera",
+      "description": "L'edge lab quantitatif pour les traders discretionnaires, brokers et prop firms — Vera Score, importation automatique MT5/NinjaTrader/Tradovate/cTrader, mesure d'exécution.",
+      "description_fr": "L'edge lab quantitatif pour les traders discrétionnaires, brokers et prop firmes — Vera Score, importation automatique MT5/NinjaTrader/Tradovate/cTrader, mesure d'exécution.",
+      "category": "Other",
       "website": "https://tradovera.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T20:08:43.685888+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T21:32:20.119116+00:00"
     },
     {
-      "name": "Aetos",
+      "name": "Brickbench",
       "slug": "polsia-aetos-2",
+      "description": "Brickbench is an AI-native freelance software shop — autonomous coding agents ship the work, a small bench of human architects stays focused on the calls that matter.",
+      "description_fr": "Brickbench est une boutique de logiciels indépendants natifs d'IA : des agents de codage autonomes expédient le travail, un petit groupe d'architectes humains reste concentré sur les appels qui comptent.",
+      "category": "Software & SaaS",
       "website": "https://aetos-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T20:08:49.321676+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T21:32:22.347870+00:00"
     },
     {
       "name": "m0nitor",
       "slug": "polsia-m0nitor",
+      "description": "EU-gehostetes Uptime- und Synthetik-Monitoring mit Status-Pages, Alerts und Self-Host-Option.",
+      "description_fr": "L'UE gère la disponibilité et la surveillance synthétique avec les pages d'état, les alertes et l'option d'auto-hébergement.",
+      "category": "Other",
       "website": "https://m0nitor.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T20:08:54.895103+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T21:32:24.077941+00:00"
     },
     {
       "name": "Enjambre",
       "slug": "polsia-enjambre",
+      "description": "Tu empresa autónoma, operada por una manada de agentes de IA. Investigación, producto, marketing, ventas y soporte, 24/7 — sin equipo tradicional.",
+      "description_fr": "Votre entreprise autonome, exploitée par un mandat d'agents de IA. Enquête, production, marketing, vente et support, 24h/24 et 7j/7 — sans équipement traditionnel.",
+      "category": "Marketing & Advertising",
       "website": "https://enjambre.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T20:09:00.352225+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T21:32:26.214927+00:00"
     },
     {
       "name": "Saltline Studios",
       "slug": "polsia-saltline-studios",
+      "description": "An agent-operated studio for family and faith filmmakers — scouting, greenlight, rights, royalty, multi-platform release, and morning reporting on one loop.",
+      "description_fr": "Un studio géré par des agents pour les cinéastes familiaux et confessionnels : repérage, feu vert, droits, redevances, sortie multiplateforme et reportage matinal en une seule boucle.",
+      "category": "Software & SaaS",
       "website": "https://saltline-studios.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T20:09:05.742385+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T21:32:28.565559+00:00"
     },
     {
       "name": "Sohoj Dokan",
@@ -215923,18 +215938,24 @@
     {
       "name": "CELLYSSE",
       "slug": "polsia-cellysse",
+      "description": "Apport d'affaires B2B au Havre — prospects qualifiés et partenariats sur mesure.",
+      "description_fr": "Apport d'affaires B2B au Havre — perspectives qualifiées et partenariats sur mesure.",
+      "category": "Sales & CRM",
       "website": "https://cellysse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T20:09:17.007209+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T21:32:30.090165+00:00"
     },
     {
       "name": "Adwiza",
       "slug": "polsia-adwiza",
+      "description": "Search every Algerian medicine — official price, full leaflet and the nearest pharmacy, in one tap. Bilingual Arabic/French, with voice, OCR and barcode search.",
+      "description_fr": "Recherchez tous les médicaments algériens - prix officiel, notice complète et pharmacie la plus proche, en un seul clic. Bilingue arabe/français, avec recherche vocale, OCR et code-barres.",
+      "category": "Other",
       "website": "https://adwiza.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T20:09:22.676427+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T21:32:31.358281+00:00"
     },
     {
       "name": "Latryx",
@@ -215954,6 +215975,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-28T20:11:20.742182+00:00"
+    },
+    {
+      "name": "ScoutBuddy",
+      "slug": "polsia-scoutbuddy",
+      "website": "https://scoutbuddy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T21:30:47.401454+00:00"
+    },
+    {
+      "name": "Reata Partners",
+      "slug": "polsia-reata-partners",
+      "website": "https://reata-partners.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T21:30:52.957977+00:00"
+    },
+    {
+      "name": "Staystead",
+      "slug": "polsia-staystead-2",
+      "website": "https://staystead-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T21:30:58.585896+00:00"
+    },
+    {
+      "name": "Curiofox",
+      "slug": "polsia-curiofox",
+      "description": "Curiofox is the AI gift concierge built for the 'surprise me' moment — a one-off, hyper-personalized match in seconds, with an optional Safe Choice fallback. No subscription box, no recurring ship, no fatigue.",
+      "description_fr": "Curiofox est le concierge de cadeaux IA conçu pour le moment « surprenez-moi » : une correspondance unique et hyper-personnalisée en quelques secondes, avec une solution de secours facultative Safe Choice. Pas de box d'abonnement, pas de livraison récurrente, pas de fatigue.",
+      "category": "AI & Machine Learning",
+      "website": "https://curiofox.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-28T21:32:49.962431+00:00"
+    },
+    {
+      "name": "Tinemark",
+      "slug": "polsia-tinemark",
+      "website": "https://tinemark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T21:31:09.688465+00:00"
+    },
+    {
+      "name": "RedParley",
+      "slug": "polsia-redparley",
+      "description": "RedParley is the fan community for the global Red Army — United news, transfer rumours, lineup chatter and unrestricted fan debate in one mobile-first feed.",
+      "description_fr": "RedParley est la communauté mondiale de fans de l'Armée rouge : actualités de United, rumeurs de transfert, discussions sur l'équipe et débats sans restriction avec les fans dans un seul flux mobile.",
+      "category": "Social & Community",
+      "website": "https://redparley.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-28T21:32:56.455271+00:00"
+    },
+    {
+      "name": "Artikore",
+      "slug": "polsia-artikore",
+      "website": "https://artikore.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T21:31:25.784369+00:00"
+    },
+    {
+      "name": "Bowline",
+      "slug": "polsia-bowline-icqru5",
+      "website": "https://bowline-icqru5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T21:31:31.358033+00:00"
+    },
+    {
+      "name": "OpenSpace",
+      "slug": "polsia-openspace",
+      "description": "Sri Lanka's data-driven online property platform for buying, selling, and renting homes — with real-time listings, smart pricing tools, and neighbourhood insights.",
+      "description_fr": "La plateforme immobilière en ligne basée sur les données du Sri Lanka pour l'achat, la vente et la location de maisons, avec des annonces en temps réel, des outils de tarification intelligents et des informations sur les quartiers.",
+      "category": "Real Estate",
+      "website": "https://openspace.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-28T21:33:14.094874+00:00"
+    },
+    {
+      "name": "Hearthpost",
+      "slug": "polsia-hearthpost-3",
+      "description": "Steady storytelling for facilitators and retreats. A boutique social media agency for retreat hosts, yoga teachers, and conscious-brand facilitators.",
+      "description_fr": "Narration constante pour les animateurs et les retraites. Une agence de médias sociaux boutique pour les organisateurs de retraites, les professeurs de yoga et les animateurs de marques conscientes.",
+      "category": "Marketing & Advertising",
+      "website": "https://hearthpost-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-28T21:33:15.260303+00:00"
     }
   ]
 }
