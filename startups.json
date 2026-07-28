@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T21:33:15.261248+00:00",
+  "last_updated": "2026-07-28T22:40:05.840380+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -215979,26 +215979,35 @@
     {
       "name": "ScoutBuddy",
       "slug": "polsia-scoutbuddy",
+      "description": "ScoutBuddy is de centrale scoutingomgeving voor jeugdopleidingen van Nederlandse voetbalclubs — spelersprofielen, rapporten en evaluaties in één multi-tenant platform.",
+      "description_fr": "ScoutBuddy est l'organisme central de recherche pour les jeux de clubs de football néerlandais — profils de joueurs, rapporteurs et évaluations sur une plateforme multi-locataires.",
+      "category": "Software & SaaS",
       "website": "https://scoutbuddy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T21:30:47.401454+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T22:39:08.291098+00:00"
     },
     {
       "name": "Reata Partners",
       "slug": "polsia-reata-partners",
+      "description": "Long-horizon capital and operator partnership to build enduring SMB platforms.",
+      "description_fr": "Partenariat de capitaux et d’opérateurs à long terme pour construire des plateformes PME durables.",
+      "category": "Software & SaaS",
       "website": "https://reata-partners.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T21:30:52.957977+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T22:39:10.377435+00:00"
     },
     {
       "name": "Staystead",
       "slug": "polsia-staystead-2",
+      "description": "Always-on AI operations for small landlords. Staystead screens applicants, onboards tenants, dispatches maintenance vendors, and chases late rent — the moment something happens.",
+      "description_fr": "Opérations d'IA permanentes pour les petits propriétaires. Staystead sélectionne les candidats, intègre les locataires, répartit les fournisseurs de maintenance et recherche les loyers en retard, dès que quelque chose se produit.",
+      "category": "Real Estate",
       "website": "https://staystead-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T21:30:58.585896+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T22:39:12.513439+00:00"
     },
     {
       "name": "Curiofox",
@@ -216014,10 +216023,13 @@
     {
       "name": "Tinemark",
       "slug": "polsia-tinemark",
+      "description": "Tinemark builds lightweight AI workflows for small teams — chat agents, email auto-reply, social content, and appointment booking — delivered and maintained as a monthly retainer.",
+      "description_fr": "Tinemark crée des flux de travail d'IA légers pour les petites équipes (agents de chat, réponse automatique aux e-mails, contenu social et prise de rendez-vous) fournis et maintenus sous forme de forfait mensuel.",
+      "category": "AI & Machine Learning",
       "website": "https://tinemark.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T21:31:09.688465+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T22:39:14.153494+00:00"
     },
     {
       "name": "RedParley",
@@ -216033,18 +216045,24 @@
     {
       "name": "Artikore",
       "slug": "polsia-artikore",
+      "description": "Markerless biomechanics for clinics, coaches, and ergonomics teams.",
+      "description_fr": "Biomécanique sans marqueur pour les cliniques, les entraîneurs et les équipes d'ergonomie.",
+      "category": "Health & Wellness",
       "website": "https://artikore.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T21:31:25.784369+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T22:39:16.058187+00:00"
     },
     {
       "name": "Bowline",
       "slug": "polsia-bowline-icqru5",
+      "description": "Your AI founding crew — from napkin sketch to live MVP. A vertically specialized multi-agent platform built for founders, indie hackers, and accelerators.",
+      "description_fr": "Votre équipe fondatrice d’IA – du croquis sur serviette au MVP en direct. Une plateforme multi-agents verticalement spécialisée conçue pour les fondateurs, les hackers indépendants et les accélérateurs.",
+      "category": "AI & Machine Learning",
       "website": "https://bowline-icqru5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T21:31:31.358033+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T22:39:17.236423+00:00"
     },
     {
       "name": "OpenSpace",
@@ -216067,6 +216085,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-28T21:33:15.260303+00:00"
+    },
+    {
+      "name": "Hearthdeck",
+      "slug": "polsia-hearthdeck",
+      "website": "https://hearthdeck.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T22:37:54.308852+00:00"
+    },
+    {
+      "name": "Staywright",
+      "slug": "polsia-staywright-6",
+      "website": "https://staywright-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T22:37:54.999725+00:00"
+    },
+    {
+      "name": "Tilltag",
+      "slug": "polsia-tilltag",
+      "website": "https://tilltag.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T22:38:00.436697+00:00"
+    },
+    {
+      "name": "Magnetree",
+      "slug": "polsia-magnetree",
+      "website": "https://magnetree.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T22:38:06.018464+00:00"
+    },
+    {
+      "name": "Morncast",
+      "slug": "polsia-morncast-2",
+      "website": "https://morncast-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T22:38:11.385118+00:00"
+    },
+    {
+      "name": "Quillcraft",
+      "slug": "polsia-quillcraft",
+      "website": "https://quillcraft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T22:38:17.014241+00:00"
+    },
+    {
+      "name": "Crankbench Motor Co.",
+      "slug": "polsia-crankbench-motor-co",
+      "website": "https://crankbench-motor-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T22:38:22.362841+00:00"
+    },
+    {
+      "name": "Cardea",
+      "slug": "polsia-cardea-2",
+      "website": "https://cardea-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T22:38:32.915066+00:00"
+    },
+    {
+      "name": "PBOPlus",
+      "slug": "polsia-pboplus",
+      "description": "AI-driven process and shopfloor consulting that helps global manufacturers cut cost and complexity.",
+      "description_fr": "Des conseils en matière de processus et d'atelier basés sur l'IA qui aident les fabricants mondiaux à réduire les coûts et la complexité.",
+      "category": "AI & Machine Learning",
+      "website": "https://pboplus.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-28T22:38:33.953533+00:00"
+    },
+    {
+      "name": "Oathmark",
+      "slug": "polsia-oathmark-2",
+      "description": "Autonomous M365 threat hunters that isolate and brief—every day.",
+      "description_fr": "Des chasseurs de menaces M365 autonomes qui isolent et briefent, tous les jours.",
+      "category": "Other",
+      "website": "https://oathmark-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-28T22:38:35.174771+00:00"
     }
   ]
 }
