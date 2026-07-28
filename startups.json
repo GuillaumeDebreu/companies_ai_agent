@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T11:49:10.454746+00:00",
+  "last_updated": "2026-07-28T13:23:54.423924+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -215334,74 +215334,101 @@
     {
       "name": "Wakepoint",
       "slug": "polsia-wakepoint",
+      "description": "Always-on engagement ops so partners clock off. Wakepoint watches every active engagement — drafting status updates, catching scope creep, and modeling margin before the partner meeting.",
+      "description_fr": "Opérations d'engagement permanentes pour que les partenaires se terminent. Wakepoint surveille chaque engagement actif : rédaction de mises à jour de statut, détection de dérives de portée et modélisation de marge avant la réunion des partenaires.",
+      "category": "Other",
       "website": "https://wakepoint.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T11:47:19.674353+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T13:22:38.640795+00:00"
     },
     {
       "name": "Vyaapti",
       "slug": "polsia-vyaapti",
+      "description": "An always-on AI reconciliation agent for India’s import-export ledgers — matching SWIFT wires, GST returns, ICEGATE shipping bills, and Tally, Zoho or Vyapar entries in real time.",
+      "description_fr": "Un agent de rapprochement IA toujours actif pour les grands livres d'import-export de l'Inde — faisant correspondre les virements SWIFT, les déclarations de TPS, les factures d'expédition ICEGATE et les entrées Tally, Zoho ou Vyapar en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://vyaapti.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T11:47:20.135462+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T13:22:39.477624+00:00"
     },
     {
       "name": "Hajtás",
       "slug": "polsia-hajts",
+      "description": "Magyar növénybarátok bizalomra épülő piactere — Barionos fizetéssel.",
+      "description_fr": "Magyar növénybarátok bizalomra épülő piactere — Barionos fizetéssel.",
+      "category": "Other",
       "website": "https://hajts.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T11:47:20.616445+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T13:22:40.566841+00:00"
     },
     {
       "name": "Growfin.ai",
       "slug": "polsia-growfinai",
+      "description": "Behavioral AI-powered accounts receivable automation for predictable cash inflow — collections CRM and cash application for NetSuite, Sage Intacct, QuickBooks, SAP and more.",
+      "description_fr": "Automatisation des comptes clients basée sur l'IA comportementale pour des entrées de trésorerie prévisibles - CRM de recouvrement et application de trésorerie pour NetSuite, Sage Intacct, QuickBooks, SAP et plus encore.",
+      "category": "AI & Machine Learning",
       "website": "https://growfinai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T11:47:26.003578+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T13:22:41.246031+00:00"
     },
     {
       "name": "Glasshalide",
       "slug": "polsia-glasshalide",
+      "description": "An AI creative-production studio that runs the full post-brief workflow for working photographers — shot lists, scouting, RAW QA, retouching, gallery packaging, social cuts.",
+      "description_fr": "Un studio de production créative IA qui gère l'intégralité du flux de travail post-brief pour les photographes en activité : listes de prises de vue, repérage, contrôle qualité RAW, retouches, packaging de galerie, coupes sociales.",
+      "category": "AI & Machine Learning",
       "website": "https://glasshalide.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T11:47:26.496892+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T13:22:42.358588+00:00"
     },
     {
       "name": "Abastare",
       "slug": "polsia-abastare",
+      "description": "Always-on AI restocking for bodegas and corner stores. Watches sell-through, drafts purchase orders, and pings you only when a decision is worth a phone call.",
+      "description_fr": "Réapprovisionnement IA permanent pour les bodegas et les dépanneurs. Surveille les ventes, rédige les bons de commande et vous envoie un ping uniquement lorsqu'une décision mérite un appel téléphonique.",
+      "category": "AI & Machine Learning",
       "website": "https://abastare.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T11:47:31.898318+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T13:22:43.299952+00:00"
     },
     {
       "name": "The Tiny Treasures",
       "slug": "polsia-the-tiny-treasures",
+      "description": "Curated mini gifts and imported skincare treasures, delivered across Pakistan.",
+      "description_fr": "Mini-cadeaux sélectionnés et trésors de soins de la peau importés, livrés dans tout le Pakistan.",
+      "category": "Other",
       "website": "https://the-tiny-treasures.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T11:47:37.515718+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T13:22:44.086636+00:00"
     },
     {
       "name": "Spurlane",
       "slug": "polsia-spurlane",
+      "description": "Reply-ready outbound pipelines for niche B2B, delivered overnight from Manila.",
+      "description_fr": "Pipelines sortants prêts à répondre pour le B2B de niche, livrés du jour au lendemain depuis Manille.",
+      "category": "Sales & CRM",
       "website": "https://spurlane.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T11:47:42.887632+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T13:22:45.063896+00:00"
     },
     {
       "name": "Tallycraft",
       "slug": "polsia-tallycraft-3",
+      "description": "Turn your e-commerce expertise into measurable margin. Diagnostic scoring, pre-built AI workflows, and a vetted operator community for serious Shopify, WooCommerce and Amazon sellers.",
+      "description_fr": "Transformez votre expertise e-commerce en marge mesurable. Score de diagnostic, flux de travail d'IA prédéfinis et communauté d'opérateurs approuvés pour les vendeurs sérieux Shopify, WooCommerce et Amazon.",
+      "category": "E-Commerce & Retail",
       "website": "https://tallycraft-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T11:47:48.331578+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T13:22:45.797744+00:00"
     },
     {
       "name": "Kleingarten",
@@ -215410,6 +215437,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-07-28T11:47:58.778232+00:00"
+    },
+    {
+      "name": "Tocklet",
+      "slug": "polsia-tocklet",
+      "website": "https://tocklet.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T13:21:19.876205+00:00"
+    },
+    {
+      "name": "Yachaymink'a",
+      "slug": "polsia-yachayminka",
+      "website": "https://yachayminka.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T13:21:20.472475+00:00"
+    },
+    {
+      "name": "Zafrk",
+      "slug": "polsia-zafrk",
+      "website": "https://zafrk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T13:21:25.918158+00:00"
+    },
+    {
+      "name": "Plycrate",
+      "slug": "polsia-plycrate",
+      "website": "https://plycrate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T13:21:35.358741+00:00"
+    },
+    {
+      "name": "Ethical AI Specialists",
+      "slug": "polsia-ethical-ai-specialists",
+      "website": "https://ethical-ai-specialists.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T13:21:40.794084+00:00"
+    },
+    {
+      "name": "Vantry",
+      "slug": "polsia-vantry-3",
+      "website": "https://vantry-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T13:21:46.329823+00:00"
+    },
+    {
+      "name": "Maisondeau",
+      "slug": "polsia-maisondeau",
+      "website": "https://maisondeau.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T13:21:51.774111+00:00"
+    },
+    {
+      "name": "HjemmeRo",
+      "slug": "polsia-hjemmero",
+      "website": "https://hjemmero.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T13:21:57.174024+00:00"
+    },
+    {
+      "name": "Yondle",
+      "slug": "polsia-yondle",
+      "website": "https://yondle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T13:22:02.750238+00:00"
+    },
+    {
+      "name": "Cinderstack",
+      "slug": "polsia-cinderstack-2",
+      "website": "https://cinderstack-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T13:22:13.046841+00:00"
     }
   ]
 }
