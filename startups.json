@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T19:25:50.834390+00:00",
+  "last_updated": "2026-07-28T20:11:20.743088+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -215765,82 +215765,195 @@
     {
       "name": "Atlanta Mobile Laundry",
       "slug": "polsia-atlanta-mobile-laundry",
+      "description": "Flat-rate, 24/7 doorstep wash-and-fold laundry pickup and delivery across metro Atlanta.",
+      "description_fr": "Ramassage et livraison forfaitaires du linge lavé et plié à domicile 24h/24 et 7j/7 dans la région métropolitaine d'Atlanta.",
+      "category": "Logistics & Supply Chain",
       "website": "https://atlanta-mobile-laundry.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T18:45:14.134018+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T20:10:14.080447+00:00"
     },
     {
       "name": "Vendcal",
       "slug": "polsia-vendcal",
+      "description": "Always-on AI procurement agents that scout, negotiate, reorder, and monitor for industrial buyers.",
+      "description_fr": "Des agents d'approvisionnement IA toujours actifs qui recherchent, négocient, réorganisent et surveillent les acheteurs industriels.",
+      "category": "AI & Machine Learning",
       "website": "https://vendcal.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T18:45:14.644119+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T20:10:16.221821+00:00"
     },
     {
       "name": "Acceso360",
       "slug": "polsia-acceso360",
+      "description": "Acceso360 — QR visitor passes and condominium administration for residential communities across Latin America.",
+      "description_fr": "Acceso360 — Pass visiteurs QR et administration de copropriété pour les communautés résidentielles d'Amérique latine.",
+      "category": "Other",
       "website": "https://acceso360.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T18:45:19.981266+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T20:10:17.559359+00:00"
     },
     {
       "name": "Mainwright",
       "slug": "polsia-mainwright",
+      "description": "Operational water engineering for utilities under pressure. Independent consultancy covering non-revenue water, hydraulic modelling, water quality and digital monitoring.",
+      "description_fr": "Ingénierie opérationnelle de l’eau pour les services publics sous pression. Conseil indépendant couvrant l'eau non facturée, la modélisation hydraulique, la qualité de l'eau et la surveillance numérique.",
+      "category": "Other",
       "website": "https://mainwright.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T18:45:20.497154+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T20:10:19.247630+00:00"
     },
     {
       "name": "ALX Studio",
       "slug": "polsia-alx-studio",
+      "description": "Dublin brand & digital studio for ambitious European businesses — brand identity, UI/UX design, web development and digital marketing bundled into one engagement.",
+      "description_fr": "Marque Dublin et studio numérique pour les entreprises européennes ambitieuses : identité de marque, conception UI/UX, développement Web et marketing numérique regroupés en un seul engagement.",
+      "category": "Marketing & Advertising",
       "website": "https://alx-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T18:45:26.018077+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T20:10:21.413752+00:00"
     },
     {
       "name": "Dispatchhaus",
       "slug": "polsia-dispatchhaus",
+      "description": "An AI freight desk, awake across Europe’s load boards — quoting, posting, and dispatching around the clock.",
+      "description_fr": "Un bureau de fret IA, actif sur tous les tableaux de chargement d’Europe – proposant des devis, postant et expédiant 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://dispatchhaus.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T18:45:31.424188+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T20:10:23.298331+00:00"
     },
     {
       "name": "Plumbline",
       "slug": "polsia-plumbline-uprs1a",
+      "description": "Plumbline is a boutique AI automation agency that builds and operates vertical AI agents for regulated service businesses — chat, voice, and document automation orchestrated through n8n and wired into the system-of-record you already run.",
+      "description_fr": "Plumbline est une agence d'automatisation de l'IA qui crée et exploite des agents d'IA verticaux pour les entreprises de services réglementés - automatisation du chat, de la voix et des documents orchestrée via n8n et connectée au système d'enregistrement que vous utilisez déjà.",
+      "category": "AI & Machine Learning",
       "website": "https://plumbline-uprs1a.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T18:45:41.946834+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T20:10:25.307668+00:00"
     },
     {
       "name": "Matrion Solutions",
       "slug": "polsia-matrion-solutions",
+      "description": "London-based AI consultancy building intelligent apps, chatbots, and automation for UK SMEs and growth-stage companies — from strategy to launch in around six weeks.",
+      "description_fr": "Cabinet de conseil en IA basé à Londres, créant des applications intelligentes, des chatbots et de l'automatisation pour les PME britanniques et les entreprises en phase de croissance – de la stratégie au lancement en six semaines environ.",
+      "category": "AI & Machine Learning",
       "website": "https://matrion-solutions.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T18:45:47.295688+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T20:10:27.265095+00:00"
     },
     {
       "name": "Karasol",
       "slug": "polsia-karasol",
+      "description": "Curaçao's per-kilowatt-hour solar — no rooftop purchase, no down payment. Pay only for the clean kWh you actually use.",
+      "description_fr": "L'énergie solaire par kilowattheure à Curaçao — pas d'achat sur le toit, ni d'acompte. Payez uniquement pour les kWh propres que vous utilisez réellement.",
+      "category": "Finance & Fintech",
       "website": "https://karasol.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T18:45:52.599739+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T20:10:28.588612+00:00"
     },
     {
       "name": "titanspear.agency",
       "slug": "polsia-titanspearagency",
+      "description": "KI-Telefonassistent & automatisierte Google-Bewertungen für den DACH-Mittelstand.",
+      "description_fr": "KI-Telefonassistent & automatisierte Google-Bewertungen für den DACH-Mittelstand.",
+      "category": "Consulting & Services",
       "website": "https://titanspearagency.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-28T20:10:30.137219+00:00"
+    },
+    {
+      "name": "Tradovera",
+      "slug": "polsia-tradovera",
+      "website": "https://tradovera.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-28T18:45:58.077121+00:00"
+      "scraped_at": "2026-07-28T20:08:43.685888+00:00"
+    },
+    {
+      "name": "Aetos",
+      "slug": "polsia-aetos-2",
+      "website": "https://aetos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T20:08:49.321676+00:00"
+    },
+    {
+      "name": "m0nitor",
+      "slug": "polsia-m0nitor",
+      "website": "https://m0nitor.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T20:08:54.895103+00:00"
+    },
+    {
+      "name": "Enjambre",
+      "slug": "polsia-enjambre",
+      "website": "https://enjambre.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T20:09:00.352225+00:00"
+    },
+    {
+      "name": "Saltline Studios",
+      "slug": "polsia-saltline-studios",
+      "website": "https://saltline-studios.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T20:09:05.742385+00:00"
+    },
+    {
+      "name": "Sohoj Dokan",
+      "slug": "polsia-sohoj-dokan",
+      "website": "https://sohoj-dokan.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T20:09:11.374109+00:00"
+    },
+    {
+      "name": "CELLYSSE",
+      "slug": "polsia-cellysse",
+      "website": "https://cellysse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T20:09:17.007209+00:00"
+    },
+    {
+      "name": "Adwiza",
+      "slug": "polsia-adwiza",
+      "website": "https://adwiza.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T20:09:22.676427+00:00"
+    },
+    {
+      "name": "Latryx",
+      "slug": "polsia-latryx",
+      "website": "https://latryx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T20:09:28.233005+00:00"
+    },
+    {
+      "name": "Stolprio",
+      "slug": "polsia-stolprio",
+      "description": "AI-curaat-assistenten die uw museum 24 uur per dag laten spreken, zien en groeien.",
+      "description_fr": "AI-curaat-assistenten die votre musée 24 heures sur 24 par jour laten spreken, zien en groeien.",
+      "category": "AI & Machine Learning",
+      "website": "https://stolprio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-28T20:11:20.742182+00:00"
     }
   ]
 }
