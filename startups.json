@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T22:40:05.840380+00:00",
+  "last_updated": "2026-07-28T23:41:38.904418+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -216089,34 +216089,46 @@
     {
       "name": "Hearthdeck",
       "slug": "polsia-hearthdeck",
+      "description": "The always-on AI back office for small home-services businesses. Answers every call and web lead 24/7, books into the dispatch board you already run, and reports jobs, reviews, and recovered revenue every morning.",
+      "description_fr": "Le back-office IA toujours actif pour les petites entreprises de services à domicile. Répond à chaque appel et piste Web 24 heures sur 24 et 7 jours sur 7, s'inscrit dans le tableau de répartition que vous gérez déjà et rapporte les tâches, les avis et les revenus récupérés chaque matin.",
+      "category": "AI & Machine Learning",
       "website": "https://hearthdeck.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T22:37:54.308852+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T23:40:29.809586+00:00"
     },
     {
       "name": "Staywright",
       "slug": "polsia-staywright-6",
+      "description": "We guide homeowners through FORTIFIED certification — credentialed contractors, state grants, and IBHS submission, end to end.",
+      "description_fr": "Nous guidons les propriétaires à travers la certification FORTIFIED : entrepreneurs accrédités, subventions d'État et soumission IBHS, de bout en bout.",
+      "category": "Other",
       "website": "https://staywright-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T22:37:54.999725+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T23:40:31.703111+00:00"
     },
     {
       "name": "Tilltag",
       "slug": "polsia-tilltag",
+      "description": "Receipts, work orders, and tax-ready billing for every service seller.",
+      "description_fr": "Reçus, bons de travail et facturation prête à l'impôt pour chaque vendeur de services.",
+      "category": "Other",
       "website": "https://tilltag.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T22:38:00.436697+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T23:40:32.911785+00:00"
     },
     {
       "name": "Magnetree",
       "slug": "polsia-magnetree",
+      "description": "AI-driven client acquisition that books more qualified appointments for local service businesses.",
+      "description_fr": "Acquisition de clients basée sur l'IA qui permet de prendre des rendez-vous plus qualifiés pour les entreprises de services locales.",
+      "category": "AI & Machine Learning",
       "website": "https://magnetree.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T22:38:06.018464+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T23:40:34.053763+00:00"
     },
     {
       "name": "Morncast",
@@ -216129,26 +216141,35 @@
     {
       "name": "Quillcraft",
       "slug": "polsia-quillcraft",
+      "description": "Quillcraft is an always-on AI SRE agent that triages alerts, drafts patches, runs regressions in sandboxes, and opens pre-vetted PRs for on-call engineers.",
+      "description_fr": "Quillcraft est un agent AI SRE toujours actif qui trie les alertes, rédige des correctifs, exécute des régressions dans des bacs à sable et ouvre des PR pré-vérifiés pour les ingénieurs de garde.",
+      "category": "AI & Machine Learning",
       "website": "https://quillcraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T22:38:17.014241+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T23:40:36.685651+00:00"
     },
     {
       "name": "Crankbench Motor Co.",
       "slug": "polsia-crankbench-motor-co",
+      "description": "Simple mechanical cars built to be repaired, not replaced. Low-electronics, hand-serviceable vehicles made to last decades.",
+      "description_fr": "De simples voitures mécaniques construites pour être réparées et non remplacées. Véhicules à faible électronique et réparables à la main, conçus pour durer des décennies.",
+      "category": "Other",
       "website": "https://crankbench-motor-co.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T22:38:22.362841+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T23:40:37.956357+00:00"
     },
     {
       "name": "Cardea",
       "slug": "polsia-cardea-2",
+      "description": "Autonomous AI agents guarding every connected device.",
+      "description_fr": "Des agents IA autonomes gardant chaque appareil connecté.",
+      "category": "AI & Machine Learning",
       "website": "https://cardea-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T22:38:32.915066+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T23:40:39.222403+00:00"
     },
     {
       "name": "PBOPlus",
@@ -216171,6 +216192,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-28T22:38:35.174771+00:00"
+    },
+    {
+      "name": "Aurex Helix",
+      "slug": "polsia-aurex-helix",
+      "website": "https://aurex-helix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T23:39:02.453074+00:00"
+    },
+    {
+      "name": "Velour Aperture",
+      "slug": "polsia-velour-aperture",
+      "website": "https://velour-aperture.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T23:39:07.880296+00:00"
+    },
+    {
+      "name": "Briefloom",
+      "slug": "polsia-briefloom-9",
+      "website": "https://briefloom-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T23:39:13.506486+00:00"
+    },
+    {
+      "name": "FiveCrate",
+      "slug": "polsia-fivecrate",
+      "website": "https://fivecrate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T23:39:19.161592+00:00"
+    },
+    {
+      "name": "Nightwright",
+      "slug": "polsia-nightwright-3",
+      "website": "https://nightwright-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T23:39:29.604520+00:00"
+    },
+    {
+      "name": "Staywright",
+      "slug": "polsia-staywright-7",
+      "website": "https://staywright-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T23:39:34.980488+00:00"
+    },
+    {
+      "name": "Bastidon",
+      "slug": "polsia-bastidon",
+      "website": "https://bastidon.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T23:39:40.615322+00:00"
+    },
+    {
+      "name": "Tendergrid",
+      "slug": "polsia-tendergrid",
+      "website": "https://tendergrid.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T23:39:46.206073+00:00"
+    },
+    {
+      "name": "Helmroom",
+      "slug": "polsia-helmroom",
+      "website": "https://helmroom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T23:39:56.740009+00:00"
+    },
+    {
+      "name": "Copywright",
+      "slug": "polsia-copywright",
+      "description": "200+ hand-picked AI prompts built for stores, ads & agencies. Tested against real Shopify storefronts and active agency briefs.",
+      "description_fr": "Plus de 200 invites d'IA triées sur le volet, conçues pour les magasins, les publicités et les agences. Testé sur de vraies vitrines Shopify et des briefs d'agence actifs.",
+      "category": "E-Commerce & Retail",
+      "website": "https://copywright.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-28T23:41:38.903862+00:00"
     }
   ]
 }
