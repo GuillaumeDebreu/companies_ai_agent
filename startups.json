@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T08:34:43.896903+00:00",
+  "last_updated": "2026-07-28T09:50:31.623124+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -215131,58 +215131,79 @@
     {
       "name": "Kdevyni",
       "slug": "polsia-kdevyni",
+      "description": "A Lithuanian product-motion studio turning e-commerce product photos into scroll-stopping motion clips for online sellers.",
+      "description_fr": "Un studio lituanien d'animation de produits qui transforme les photos de produits de commerce électronique en clips animés à défilement arrêté pour les vendeurs en ligne.",
+      "category": "E-Commerce & Retail",
       "website": "https://kdevyni.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T07:12:08.828963+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T09:49:45.272139+00:00"
     },
     {
       "name": "Cuehawk",
       "slug": "polsia-cuehawk",
+      "description": "Cuehawk is a 24/7 autonomous AI agent that scouts emerging beatmakers, scores tracks against chart trends, and negotiates sync placements — delivering a royalty-ready release every week.",
+      "description_fr": "Cuehawk est un agent d'IA autonome 24h/24 et 7j/7 qui recherche les beatmakers émergents, note les morceaux par rapport aux tendances des charts et négocie les placements de synchronisation, offrant ainsi chaque semaine une version prête à être utilisée pour les redevances.",
+      "category": "AI & Machine Learning",
       "website": "https://cuehawk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T07:12:14.166279+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T09:49:46.317179+00:00"
     },
     {
       "name": "Trovewell",
       "slug": "polsia-trovewell-5",
+      "description": "Always-on AI that never lets your global sourcing go dark — watches carriers, customs, and HS codes 24/7 across 40+ jurisdictions.",
+      "description_fr": "Une IA toujours active qui ne laisse jamais sombrer votre approvisionnement mondial : surveille les transporteurs, les douanes et les codes HS 24h/24 et 7j/7 dans plus de 40 juridictions.",
+      "category": "AI & Machine Learning",
       "website": "https://trovewell-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T07:12:24.502468+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T09:49:47.586379+00:00"
     },
     {
       "name": "Charbound",
       "slug": "polsia-charbound",
+      "description": "Back-office compliance and credentialing for Oregon and Pacific Northwest wildland fire crews — NWCG task books, FFT2/FFT1/ENGB/TFLD/DIVS, smoke training, fit tests, and I-9/E-Verify in one trailhead-pull record.",
+      "description_fr": "Conformité du back-office et accréditation des équipes de pompiers de l'Oregon et du nord-ouest du Pacifique : cahiers de tâches NWCG, FFT2/FFT1/ENGB/TFLD/DIVS, formation sur la fumée, tests d'ajustement et I-9/E-Verify dans un seul enregistrement de départ de sentier.",
+      "category": "Education",
       "website": "https://charbound.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T07:12:29.835369+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T09:49:49.763461+00:00"
     },
     {
       "name": "MythMend",
       "slug": "polsia-mythmend",
+      "description": "Autonomous AI agents that correct genetic myths, remind screenings, and engage members — built for genetic health awareness societies.",
+      "description_fr": "Des agents d'IA autonomes qui corrigent les mythes génétiques, rappellent les dépistages et engagent les membres – conçus pour les sociétés de sensibilisation à la santé génétique.",
+      "category": "AI & Machine Learning",
       "website": "https://mythmend.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T07:12:35.216139+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T09:49:50.698307+00:00"
     },
     {
       "name": "Clivant",
       "slug": "polsia-clivant",
+      "description": "Gestión boutique de guante blanco para propiedades vacacionales de lujo",
+      "description_fr": "Gestion boutique de garanties blanches pour propriétés vacances de luxe",
+      "category": "Other",
       "website": "https://clivant.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T07:12:40.671260+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T09:49:51.480602+00:00"
     },
     {
       "name": "Vestibule",
       "slug": "polsia-vestibule-3",
+      "description": "AI-owned property desk for landlords who never want to miss a call. Triage in minutes, vendor dispatched in real time, audit trail carriers accept.",
+      "description_fr": "Bureau immobilier appartenant à AI pour les propriétaires qui ne veulent jamais manquer un appel. Triage en quelques minutes, expédition du fournisseur en temps réel, piste d'audit acceptée par les transporteurs.",
+      "category": "Real Estate",
       "website": "https://vestibule-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T07:12:45.952411+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T09:49:52.672322+00:00"
     },
     {
       "name": "Bookwright",
@@ -215205,6 +215226,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-28T07:12:52.824491+00:00"
+    },
+    {
+      "name": "The Bell Perspective",
+      "slug": "polsia-the-bell-perspective",
+      "website": "https://the-bell-perspective.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T09:48:41.538632+00:00"
+    },
+    {
+      "name": "Franck Florino",
+      "slug": "polsia-franck-florino",
+      "website": "https://franck-florino.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T09:48:46.897056+00:00"
+    },
+    {
+      "name": "Testify",
+      "slug": "polsia-testify",
+      "website": "https://testify.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T09:48:52.332953+00:00"
+    },
+    {
+      "name": "Three Are One",
+      "slug": "polsia-three-are-one",
+      "website": "https://three-are-one.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T09:48:57.898839+00:00"
+    },
+    {
+      "name": "Precibel",
+      "slug": "polsia-precibel",
+      "website": "https://precibel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T09:49:03.298438+00:00"
+    },
+    {
+      "name": "Spärhawk",
+      "slug": "polsia-sprhawk",
+      "website": "https://sprhawk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T09:49:08.634169+00:00"
+    },
+    {
+      "name": "Sternruf",
+      "slug": "polsia-sternruf",
+      "description": "Sternruf ist das schlanke Micro-SaaS für inhabergeführte lokale Betriebe im DACH-Raum: nach jedem Termin automatisch Bewertungsanfragen per SMS oder WhatsApp – mehr Google-Sterne, weniger Aufwand.",
+      "description_fr": "Il s'agit de l'outil Micro-SaaS idéal pour les habitants locaux situés dans la région DACH : lorsque vous terminez une procédure de réponse automatique par SMS ou WhatsApp - plus de Google-Sterne, weniger Aufwand.",
+      "category": "Software & SaaS",
+      "website": "https://sternruf.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-28T09:50:26.401678+00:00"
+    },
+    {
+      "name": "Oddling",
+      "slug": "polsia-oddling",
+      "website": "https://oddling.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T09:49:19.428646+00:00"
+    },
+    {
+      "name": "Unidentified Business",
+      "slug": "polsia-unidentified-business-3",
+      "description": "No business profile could be identified from the provided source. This site exists while verification is pending.",
+      "description_fr": "Aucun profil d'entreprise n'a pu être identifié à partir de la source fournie. Ce site existe alors que la vérification est en attente.",
+      "category": "Other",
+      "website": "https://unidentified-business-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-28T09:49:20.769158+00:00"
+    },
+    {
+      "name": "AddisSphere",
+      "slug": "polsia-addissphere",
+      "description": "Addis Ababa-based software services agency building cloud-native digital products for Ethiopian and East African businesses.",
+      "description_fr": "Agence de services logiciels basée à Addis-Abeba qui crée des produits numériques cloud natifs pour les entreprises éthiopiennes et d'Afrique de l'Est.",
+      "category": "Software & SaaS",
+      "website": "https://addissphere.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-28T09:49:21.719048+00:00"
     }
   ]
 }
