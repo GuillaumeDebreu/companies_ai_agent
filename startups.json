@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T02:36:04.315416+00:00",
+  "last_updated": "2026-07-28T04:25:27.242863+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -214906,34 +214906,46 @@
     {
       "name": "Nokturn",
       "slug": "polsia-nokturn-2",
+      "description": "Nokturn is the always-on AI co-host for short-term rental operators: repricing across Airbnb, Booking, and VRBO, replying to guests in their own language, and running cleaner turnovers from one workspace.",
+      "description_fr": "Nokturn est le co-hébergeur IA permanent pour les opérateurs de location à court terme : modification des tarifs sur Airbnb, Booking et VRBO, réponse aux clients dans leur propre langue et gestion des chiffres d'affaires plus propres à partir d'un seul espace de travail.",
+      "category": "Travel & Hospitality",
       "website": "https://nokturn-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T01:05:12.822810+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T04:24:34.500906+00:00"
     },
     {
       "name": "Saffra",
       "slug": "polsia-saffra-3",
+      "description": "Always-on ops for the corner café. Saffra watches ingredient prices, supplier lead times, and seasonal demand — then reorders stock, retunes menu prices, and flags waste for the single-owner café across MENA.",
+      "description_fr": "Des opérations permanentes pour le café du coin. Saffra surveille les prix des ingrédients, les délais de livraison des fournisseurs et la demande saisonnière, puis réorganise les stocks, réajuste les prix des menus et signale le gaspillage pour le café à propriétaire unique de la région MENA.",
+      "category": "Marketing & Advertising",
       "website": "https://saffra-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T01:05:18.269382+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T04:24:36.208790+00:00"
     },
     {
       "name": "Siliclash",
       "slug": "polsia-siliclash",
+      "description": "Siliclash — an isometric business-strategy game where you build, fab, and price the AI accelerator that dethrones Nvidia.",
+      "description_fr": "Siliclash - un jeu de stratégie d'entreprise isométrique dans lequel vous construisez, fabriquez et évaluez l'accélérateur d'IA qui détrône Nvidia.",
+      "category": "AI & Machine Learning",
       "website": "https://siliclash.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T01:05:23.644818+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T04:24:37.295996+00:00"
     },
     {
       "name": "Critr",
       "slug": "polsia-critr",
+      "description": "Pre-flight check every deliverable your agency ships. Scans landing pages, ads, emails, sales pages, and PDFs before they reach the client.",
+      "description_fr": "Vérifiez avant le vol chaque livrable expédié par votre agence. Analyse les pages de destination, les publicités, les e-mails, les pages de vente et les PDF avant qu'ils n'atteignent le client.",
+      "category": "Marketing & Advertising",
       "website": "https://critr.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T01:05:29.233490+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T04:24:38.336866+00:00"
     },
     {
       "name": "Bestilværk",
@@ -215000,6 +215012,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-28T01:05:42.039393+00:00"
+    },
+    {
+      "name": "VisitMint",
+      "slug": "polsia-visitmint",
+      "website": "https://visitmint.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T04:23:37.120509+00:00"
+    },
+    {
+      "name": "Kliqa",
+      "slug": "polsia-kliqa-2",
+      "website": "https://kliqa-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T04:23:37.647308+00:00"
+    },
+    {
+      "name": "Kyoko Labs",
+      "slug": "polsia-kyoko-labs",
+      "website": "https://kyoko-labs.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T04:23:42.987920+00:00"
+    },
+    {
+      "name": "Pledgepop",
+      "slug": "polsia-pledgepop",
+      "website": "https://pledgepop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T04:23:48.389627+00:00"
+    },
+    {
+      "name": "Turnlatch",
+      "slug": "polsia-turnlatch",
+      "website": "https://turnlatch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T04:23:48.910820+00:00"
+    },
+    {
+      "name": "Castmote",
+      "slug": "polsia-castmote",
+      "website": "https://castmote.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T04:23:54.262033+00:00"
+    },
+    {
+      "name": "BartonLab",
+      "slug": "polsia-bartonlab",
+      "website": "https://bartonlab.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T04:23:59.721044+00:00"
+    },
+    {
+      "name": "Candesce",
+      "slug": "polsia-candesce",
+      "website": "https://candesce.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T04:24:05.091017+00:00"
+    },
+    {
+      "name": "Hibiscus & Hustle",
+      "slug": "polsia-hibiscus-hustle",
+      "website": "https://hibiscus-hustle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T04:24:05.539042+00:00"
+    },
+    {
+      "name": "BoloBox",
+      "slug": "polsia-bolobox",
+      "website": "https://bolobox.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T04:24:10.950507+00:00"
     }
   ]
 }
