@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T15:42:29.927947+00:00",
+  "last_updated": "2026-07-28T17:11:35.678243+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -215551,10 +215551,13 @@
     {
       "name": "Bidcast",
       "slug": "polsia-bidcast-2",
+      "description": "Always-on AI agents that patrol every procurement portal, qualify opportunities against your live capability profile, and produce compliance-aware first-pass proposals.",
+      "description_fr": "Des agents d'IA toujours actifs qui patrouillent sur chaque portail d'approvisionnement, qualifient les opportunités en fonction de votre profil de capacités en direct et produisent des propositions de premier passage respectueuses de la conformité.",
+      "category": "AI & Machine Learning",
       "website": "https://bidcast-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T15:40:40.344011+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T17:10:34.671003+00:00"
     },
     {
       "name": "Hirehelm",
@@ -215575,18 +215578,24 @@
     {
       "name": "Hatchmark",
       "slug": "polsia-hatchmark-9",
+      "description": "AI matching for first-time buyers and founders — from grant discovery through approval, on one guided lane.",
+      "description_fr": "Correspondance IA pour les primo-accédants et les fondateurs – de la découverte de la subvention jusqu'à l'approbation, sur une seule voie guidée.",
+      "category": "AI & Machine Learning",
       "website": "https://hatchmark-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T15:40:51.492239+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T17:10:37.941727+00:00"
     },
     {
       "name": "Turnwright",
       "slug": "polsia-turnwright-2",
+      "description": "Always-on agents that tend your scripts, crons, and pipelines.",
+      "description_fr": "Des agents toujours actifs qui s'occupent de vos scripts, crons et pipelines.",
+      "category": "Sales & CRM",
       "website": "https://turnwright-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-28T15:40:56.899789+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-28T17:10:39.923830+00:00"
     },
     {
       "name": "Voxhall",
@@ -215642,6 +215651,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-07-28T15:41:10.391848+00:00"
+    },
+    {
+      "name": "Pendukal",
+      "slug": "polsia-pendukal",
+      "website": "https://pendukal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T17:09:19.440999+00:00"
+    },
+    {
+      "name": "Crawlwren",
+      "slug": "polsia-crawlwren",
+      "website": "https://crawlwren.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T17:09:20.399157+00:00"
+    },
+    {
+      "name": "Stackyard",
+      "slug": "polsia-stackyard-2",
+      "website": "https://stackyard-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T17:09:21.204098+00:00"
+    },
+    {
+      "name": "Domestic Index",
+      "slug": "polsia-domestic-index",
+      "website": "https://domestic-index.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T17:09:26.878324+00:00"
+    },
+    {
+      "name": "Mythcrest",
+      "slug": "polsia-mythcrest",
+      "website": "https://mythcrest.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T17:09:32.480317+00:00"
+    },
+    {
+      "name": "Pithos",
+      "slug": "polsia-pithos-2",
+      "website": "https://pithos-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T17:09:38.110765+00:00"
+    },
+    {
+      "name": "Testing Maddi",
+      "slug": "polsia-testing-maddi",
+      "website": "https://testing-maddi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T17:09:43.514293+00:00"
+    },
+    {
+      "name": "Rewnd",
+      "slug": "polsia-rewnd",
+      "website": "https://rewnd.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T17:09:49.087410+00:00"
+    },
+    {
+      "name": "The Chomski Report",
+      "slug": "polsia-the-chomski-report",
+      "website": "https://the-chomski-report.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T17:09:54.754944+00:00"
+    },
+    {
+      "name": "Chimepost",
+      "slug": "polsia-chimepost",
+      "website": "https://chimepost.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-28T17:10:00.185125+00:00"
     }
   ]
 }
