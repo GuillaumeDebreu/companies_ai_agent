@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T08:27:49.724455+00:00",
+  "last_updated": "2026-07-30T08:52:37.195319+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -217925,26 +217925,35 @@
     {
       "name": "Red Capsule",
       "slug": "polsia-red-capsule",
+      "description": "Vendor-agnostic systems architecture and execution for founder-led SMBs. A senior architect owns the systems work end-to-end.",
+      "description_fr": "Architecture et exécution de systèmes indépendants des fournisseurs pour les PME dirigées par les fondateurs. Un architecte senior est responsable du travail des systèmes de bout en bout.",
+      "category": "Other",
       "website": "https://red-capsule.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-30T06:10:11.775032+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-30T08:51:34.850226+00:00"
     },
     {
       "name": "DraftOwl",
       "slug": "polsia-draftowl-3",
+      "description": "Always-on AI agents for Revit and Civil 3D workflows. Overnight clash detection, quantity takeoffs, parametric families, code compliance, and a daily morning report — delivered as a managed cloud service.",
+      "description_fr": "Agents IA toujours actifs pour les flux de travail Revit et Civil 3D. Détection nocturne des conflits, métrés, familles paramétriques, conformité au code et rapport quotidien du matin, fournis sous forme de service cloud géré.",
+      "category": "AI & Machine Learning",
       "website": "https://draftowl-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-30T06:10:12.326926+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-30T08:51:36.762950+00:00"
     },
     {
       "name": "NextZenGraphics",
       "slug": "polsia-nextzengraphics",
+      "description": "Affordable custom graphic design for small brands and startups. Logos, banners, social media graphics, packaging and print — delivered in 3–14 days from a two-person studio in Cologne.",
+      "description_fr": "Conception graphique personnalisée et abordable pour les petites marques et les startups. Logos, bannières, graphiques pour réseaux sociaux, emballages et impressions — livrés en 3 à 14 jours depuis un studio de deux personnes à Cologne.",
+      "category": "Marketing & Advertising",
       "website": "https://nextzengraphics.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-30T06:10:17.919391+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-30T08:51:38.096124+00:00"
     },
     {
       "name": "Ridemark",
@@ -217958,20 +217967,26 @@
       "scraped_at": "2026-07-30T06:11:58.377686+00:00"
     },
     {
-      "name": "AM|PM Lounge",
+      "name": "AM",
       "slug": "polsia-ampm-lounge",
+      "description": "A Nairobi nyama choma and cocktail lounge in Thome — five years on, late closes seven nights a week, and a 176-item menu from samosas to Martel VS.",
+      "description_fr": "Un nyama choma et un bar à cocktails de Nairobi à Thome – cinq ans plus tard, ferme tard sept soirs par semaine, et un menu de 176 plats allant des samosas au Martel VS.",
+      "category": "Other",
       "website": "https://ampm-lounge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-30T06:10:24.241693+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-30T08:51:40.151842+00:00"
     },
     {
       "name": "Gitgrove",
       "slug": "polsia-gitgrove",
+      "description": "Always-on AI recruiting fluent in open source, built for engineering managers.",
+      "description_fr": "Recrutement IA permanent, parlant couramment l'open source, conçu pour les responsables de l'ingénierie.",
+      "category": "AI & Machine Learning",
       "website": "https://gitgrove.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-30T06:10:29.593719+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-30T08:51:41.566683+00:00"
     },
     {
       "name": "Technical Talent Group",
@@ -217998,10 +218013,96 @@
     {
       "name": "JobCTRL",
       "slug": "polsia-jobctrl",
+      "description": "Real-Time Workforce Intelligence for GCCs, BPOs, and Enterprise Delivery Teams.",
+      "description_fr": "Workforce Intelligence en temps réel pour les GCC, les BPO et les équipes de livraison d'entreprise.",
+      "category": "Logistics & Supply Chain",
       "website": "https://jobctrl.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-30T08:51:42.702544+00:00"
+    },
+    {
+      "name": "KratkoTri",
+      "slug": "polsia-kratkotri",
+      "website": "https://kratkotri.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-30T06:10:38.114773+00:00"
+      "scraped_at": "2026-07-30T08:50:08.395908+00:00"
+    },
+    {
+      "name": "Bookwren",
+      "slug": "polsia-bookwren-7",
+      "website": "https://bookwren-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-30T08:50:13.795268+00:00"
+    },
+    {
+      "name": "BoltWagon",
+      "slug": "polsia-boltwagon",
+      "website": "https://boltwagon.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-30T08:50:19.156899+00:00"
+    },
+    {
+      "name": "Tidewright",
+      "slug": "polsia-tidewright-10",
+      "website": "https://tidewright-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-30T08:50:19.764654+00:00"
+    },
+    {
+      "name": "Stemhaul",
+      "slug": "polsia-stemhaul",
+      "website": "https://stemhaul.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-30T08:50:20.460344+00:00"
+    },
+    {
+      "name": "Tessellate",
+      "slug": "polsia-tessellate",
+      "website": "https://tessellate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-30T08:50:25.771343+00:00"
+    },
+    {
+      "name": "PIVOT by D.I.E.A.",
+      "slug": "polsia-pivot-by-diea",
+      "description": "A trader-side cockpit that turns the 8 Steps of D.I.E.A. into CUT, HARVEST, and PIVOT signals on your portfolio.",
+      "description_fr": "Un cockpit côté commerçant qui transforme les 8 étapes de D.I.E.A. en signaux CUT, HARVEST et PIVOT sur votre portefeuille.",
+      "category": "Other",
+      "website": "https://pivot-by-diea.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-30T08:50:27.807671+00:00"
+    },
+    {
+      "name": "Crosstide",
+      "slug": "polsia-crosstide-2",
+      "website": "https://crosstide-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-30T08:50:33.269423+00:00"
+    },
+    {
+      "name": "Shadow Phoenix",
+      "slug": "polsia-shadow-phoenix",
+      "website": "https://shadow-phoenix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-30T08:50:38.904860+00:00"
+    },
+    {
+      "name": "Kitselu",
+      "slug": "polsia-kitselu",
+      "website": "https://kitselu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-30T08:50:44.302313+00:00"
     }
   ]
 }
