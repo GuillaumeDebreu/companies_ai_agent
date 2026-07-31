@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T08:50:41.846480+00:00",
+  "last_updated": "2026-07-31T09:37:19.017716+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -219281,26 +219281,35 @@
     {
       "name": "Rosterless",
       "slug": "polsia-rosterless",
+      "description": "Bookings, reminders, follow-ups, reviews — without a roster. A marketplace and 24/7 AI ops layer for independent service providers.",
+      "description_fr": "Réservations, rappels, suivis, avis – sans liste. Une place de marché et une couche d'opérations d'IA 24h/24 et 7j/7 pour les fournisseurs de services indépendants.",
+      "category": "AI & Machine Learning",
       "website": "https://rosterless.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T06:47:07.738342+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T09:36:18.905722+00:00"
     },
     {
       "name": "Empressive Services",
       "slug": "polsia-empressive-services",
+      "description": "Your personal life support system — turning overwhelm into order for busy professionals, parents, and caregivers across the Los Angeles area. Available 24/7.",
+      "description_fr": "Votre système de survie personnel : se transformer en surcharge pour les professionnels, les parents et les soignants occupés de la région de Los Angeles. Disponible 24h/24 et 7j/7.",
+      "category": "Real Estate",
       "website": "https://empressive-services.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T06:47:13.392339+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T09:36:19.751793+00:00"
     },
     {
       "name": "Goshin Jutsu Academy",
       "slug": "polsia-goshin-jutsu-academy",
+      "description": "Self-defense martial arts training rooted in modern and traditional weapons in Sumiton, Alabama — led by Master Instructor Sensei Joshua Blackwell.",
+      "description_fr": "Formation d'arts martiaux d'autodéfense ancrée dans les armes modernes et traditionnelles à Sumiton, Alabama, dirigée par le maître instructeur Sensei Joshua Blackwell.",
+      "category": "Education",
       "website": "https://goshin-jutsu-academy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T06:47:18.972737+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T09:36:20.842478+00:00"
     },
     {
       "name": "Pulsegrove",
@@ -219313,18 +219322,24 @@
     {
       "name": "Bellbook",
       "slug": "polsia-bellbook",
+      "description": "Bellbook is the teacher's workflow app — lesson planning, formative assessment, grading, and family communication in one calm interface, with built-in AI assistance tuned for educators.",
+      "description_fr": "Bellbook est l'application de flux de travail de l'enseignant : planification des cours, évaluation formative, notation et communication familiale dans une seule interface calme, avec une assistance IA intégrée adaptée aux éducateurs.",
+      "category": "AI & Machine Learning",
       "website": "https://bellbook.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T06:47:25.410252+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T09:36:22.152528+00:00"
     },
     {
       "name": "Acregent",
       "slug": "polsia-acregent",
+      "description": "Autonomous operations for every acre, lease, and machine — 24/7 AI agents for mixed-fleet telematics, leases, and per-acre P&L.",
+      "description_fr": "Opérations autonomes pour chaque acre, bail et machine : agents IA 24h/24 et 7j/7 pour la télématique de flotte mixte, les baux et le P&L par acre.",
+      "category": "AI & Machine Learning",
       "website": "https://acregent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T06:47:30.988501+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T09:36:23.434118+00:00"
     },
     {
       "name": "Mendpost",
@@ -219340,10 +219355,13 @@
     {
       "name": "Wireedge",
       "slug": "polsia-wireedge",
+      "description": "The newswire where every brief ships with a backtested edge — AI-native financial newsroom built for traders drowning in EDGAR drops.",
+      "description_fr": "Le fil de presse où chaque brief est livré avec un avantage backtesté – une salle de rédaction financière native de l'IA conçue pour les traders noyés dans les gouttes EDGAR.",
+      "category": "AI & Machine Learning",
       "website": "https://wireedge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T06:47:42.263264+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T09:36:24.539458+00:00"
     },
     {
       "name": "Hostwaka",
@@ -219359,10 +219377,93 @@
     {
       "name": "TruTier Vault",
       "slug": "polsia-trutier-vault",
+      "description": "Editable, IEP-aligned special-ed lessons built by a District 75 teacher. Slides, lesson plans, three differentiated worksheet levels, AAC supports, and data sheets — one weekly unit, ready the same day.",
+      "description_fr": "Leçons spécialisées modifiables et alignées sur l'IEP, créées par un enseignant du District 75. Diapositives, plans de cours, trois niveaux de feuilles de travail différenciés, supports de CAA et fiches techniques : une unité hebdomadaire, prête le jour même.",
+      "category": "Real Estate",
       "website": "https://trutier-vault.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-31T09:36:25.634726+00:00"
+    },
+    {
+      "name": "Havenkey",
+      "slug": "polsia-havenkey-2",
+      "website": "https://havenkey-2.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-31T06:47:53.621258+00:00"
+      "scraped_at": "2026-07-31T09:34:35.101273+00:00"
+    },
+    {
+      "name": "Framehaus",
+      "slug": "polsia-framehaus-8",
+      "website": "https://framehaus-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T09:34:40.582242+00:00"
+    },
+    {
+      "name": "Trovara",
+      "slug": "polsia-trovara-2",
+      "website": "https://trovara-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T09:34:41.096439+00:00"
+    },
+    {
+      "name": "Nightcartel",
+      "slug": "polsia-nightcartel",
+      "website": "https://nightcartel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T09:34:46.494209+00:00"
+    },
+    {
+      "name": "Noetic Ink",
+      "slug": "polsia-noetic-ink",
+      "website": "https://noetic-ink.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T09:34:51.846846+00:00"
+    },
+    {
+      "name": "Lumivox Conseil",
+      "slug": "polsia-lumivox-conseil",
+      "website": "https://lumivox-conseil.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T09:34:57.370396+00:00"
+    },
+    {
+      "name": "WheellsVerse",
+      "slug": "polsia-wheellsverse",
+      "website": "https://wheellsverse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T09:35:02.882097+00:00"
+    },
+    {
+      "name": "Mshale",
+      "slug": "polsia-mshale-2",
+      "website": "https://mshale-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T09:35:03.401010+00:00"
+    },
+    {
+      "name": "Skullwright",
+      "slug": "polsia-skullwright",
+      "website": "https://skullwright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T09:35:08.889379+00:00"
+    },
+    {
+      "name": "Veyron Minds",
+      "slug": "polsia-veyron-minds",
+      "website": "https://veyron-minds.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T09:35:14.340694+00:00"
     }
   ]
 }
