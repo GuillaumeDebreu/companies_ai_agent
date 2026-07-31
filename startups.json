@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T11:47:59.530156+00:00",
+  "last_updated": "2026-07-31T13:23:13.989136+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -219489,42 +219489,57 @@
     {
       "name": "SoStream",
       "slug": "polsia-sostream",
+      "description": "The AI-powered record label where indie artists keep 90% of their royalties. DSP registration, contracted releases, coordinated marketing, transparent accounting.",
+      "description_fr": "Le label alimenté par l'IA où les artistes indépendants conservent 90 % de leurs redevances. Enregistrement DSP, versions sous contrat, marketing coordonné, comptabilité transparente.",
+      "category": "AI & Machine Learning",
       "website": "https://sostream.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T11:45:27.210395+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T13:22:03.977296+00:00"
     },
     {
       "name": "Hubbo",
       "slug": "polsia-hubbo",
+      "description": "Hubbo er et aparthotell i Haugesund med hotellstandard og hjemmets komfort. Book fullt møblerte enheter ved Smedasundet.",
+      "description_fr": "Hubbo est un appart'hôtel à Haugesund avec un hôtel standard et un confort optimal. Livre complet disponible à Smedasundet.",
+      "category": "Travel & Hospitality",
       "website": "https://hubbo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T11:45:27.821833+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T13:22:05.925380+00:00"
     },
     {
       "name": "Frolair",
       "slug": "polsia-frolair",
+      "description": "Whole-fruit powder drinks, ready when you are.",
+      "description_fr": "Des boissons en poudre de fruits entiers, prêtes quand vous l'êtes.",
+      "category": "Other",
       "website": "https://frolair.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T11:45:28.444239+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T13:22:07.682803+00:00"
     },
     {
       "name": "Quillroom",
       "slug": "polsia-quillroom-4",
+      "description": "An always-on operations agent for boutique consultancies — files deliverables, chases invoices, books reviews, and briefs owners every Monday.",
+      "description_fr": "Un agent opérationnel permanent pour les cabinets de conseil : classe les livrables, recherche les factures, les critiques de livres et informe les propriétaires tous les lundis.",
+      "category": "Finance & Fintech",
       "website": "https://quillroom-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T11:45:29.050974+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T13:22:08.856661+00:00"
     },
     {
       "name": "PenLedger",
       "slug": "polsia-penledger-3",
+      "description": "A fractional AI CFO that watches your cash, books, and runway — and writes the investor update.",
+      "description_fr": "Un directeur financier IA fractionné qui surveille votre trésorerie, vos livres et votre piste – et rédige la mise à jour pour les investisseurs.",
+      "category": "AI & Machine Learning",
       "website": "https://penledger-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T11:45:34.454205+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T13:22:10.999872+00:00"
     },
     {
       "name": "Cogwright",
@@ -219540,18 +219555,24 @@
     {
       "name": "Lastward",
       "slug": "polsia-lastward",
+      "description": "Agentic operations for end-of-lease vehicles. Continuous agents watch your portfolio, appraise returns against live market data, dispatch inspections, list units on the wholesale channels you already use, and reconcile proceeds — with audit-ready trails baked in.",
+      "description_fr": "Opérations d'agent pour les véhicules en fin de location. Des agents permanents surveillent votre portefeuille, évaluent les rendements par rapport aux données de marché en direct, effectuent des inspections, répertorient les unités sur les canaux de vente en gros que vous utilisez déjà et rapprochent les produits, avec des pistes prêtes à être auditées.",
+      "category": "Sustainability & Green",
       "website": "https://lastward.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T11:45:46.429903+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T13:22:12.812370+00:00"
     },
     {
       "name": "Schwelbrand",
       "slug": "polsia-schwelbrand",
+      "description": "Struktur und Klarheit für berufstätige Frauen in den Wechseljahren. Ein digitales Workbook für Perimenopause und Menopause im Arbeitsalltag.",
+      "description_fr": "Struktur et Klarheit für berufstätige Frauen in den Wechseljahren. Un cahier d'exercices numériques pour la périménopause et la ménopause dans le cadre du travail.",
+      "category": "Marketing & Advertising",
       "website": "https://schwelbrand.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T11:45:51.857682+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T13:22:13.905105+00:00"
     },
     {
       "name": "Crayonsprig",
@@ -219571,6 +219592,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-07-31T11:46:02.540013+00:00"
+    },
+    {
+      "name": "Glassgrain",
+      "slug": "polsia-glassgrain",
+      "website": "https://glassgrain.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T13:20:12.352974+00:00"
+    },
+    {
+      "name": "Settlewell",
+      "slug": "polsia-settlewell-3",
+      "website": "https://settlewell-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T13:20:13.020119+00:00"
+    },
+    {
+      "name": "Swardwright",
+      "slug": "polsia-swardwright",
+      "website": "https://swardwright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T13:20:18.623998+00:00"
+    },
+    {
+      "name": "Vexline",
+      "slug": "polsia-vexline",
+      "website": "https://vexline.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T13:20:19.388455+00:00"
+    },
+    {
+      "name": "Choirloom",
+      "slug": "polsia-choirloom",
+      "website": "https://choirloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T13:20:20.227142+00:00"
+    },
+    {
+      "name": "Kabwright",
+      "slug": "polsia-kabwright",
+      "website": "https://kabwright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T13:20:20.910107+00:00"
+    },
+    {
+      "name": "ICDL Finland",
+      "slug": "polsia-icdl-finland",
+      "website": "https://icdl-finland.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T13:20:26.472163+00:00"
+    },
+    {
+      "name": "The Birds and Bees Company LLC",
+      "slug": "polsia-the-birds-and-bees-company-llc",
+      "website": "https://the-birds-and-bees-company-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T13:20:35.848103+00:00"
+    },
+    {
+      "name": "Clerksworth",
+      "slug": "polsia-clerksworth",
+      "website": "https://clerksworth.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T13:20:46.288858+00:00"
+    },
+    {
+      "name": "Sweatstead",
+      "slug": "polsia-sweatstead",
+      "website": "https://sweatstead.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T13:20:51.903540+00:00"
     }
   ]
 }
