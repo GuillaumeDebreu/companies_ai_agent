@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T21:31:39.643194+00:00",
+  "last_updated": "2026-07-31T22:37:37.833407+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -220140,42 +220140,57 @@
     {
       "name": "Boomcrate",
       "slug": "polsia-boomcrate-2",
+      "description": "A hands-on discovery venue where kids rotate through a 60–90 minute science lab, an open-format art studio, and a signature Crumble Zone smash room — STEM, art, and licensed indoor destruction under one roof.",
+      "description_fr": "Un lieu de découverte pratique où les enfants passent par un laboratoire scientifique de 60 à 90 minutes, un studio d'art à format ouvert et une salle de smash emblématique de Crumble Zone : STEM, art et destruction intérieure sous licence sous un même toit.",
+      "category": "Other",
       "website": "https://boomcrate-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T21:28:41.681758+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T22:36:34.358869+00:00"
     },
     {
       "name": "Stacklark",
       "slug": "polsia-stacklark-2",
+      "description": "Lightweight SaaS stack governance for growing teams — discover what you pay for, close exposure, and stop leaking subscriptions.",
+      "description_fr": "Gouvernance légère de la pile SaaS pour les équipes en pleine croissance : découvrez ce que vous payez, limitez votre exposition et arrêtez les fuites d'abonnements.",
+      "category": "Software & SaaS",
       "website": "https://stacklark-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T21:28:42.378324+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T22:36:35.365326+00:00"
     },
     {
       "name": "MæglerVagt",
       "slug": "polsia-mglervagt",
+      "description": "AI-vagt over danske boligmarkeder døgnet rundt",
+      "description_fr": "AI-vagt sur danske boligmarkeder døgnet rundt",
+      "category": "AI & Machine Learning",
       "website": "https://mglervagt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T21:28:43.085772+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T22:36:36.110524+00:00"
     },
     {
       "name": "Elena's Barking Lot",
       "slug": "polsia-elenas-barking-lot",
+      "description": "A 'home away from home' for dogs in Estes Park, Colorado. Licensed boarding, daycare, and grooming run by Elena Nedobukh — twenty years of canine care, sixteen right here in Estes.",
+      "description_fr": "Un « second chez-soi » pour les chiens à Estes Park, Colorado. Pension, garderie et toilettage agréés dirigés par Elena Nedobukh - vingt ans de soins canins, seize ici même à Estes.",
+      "category": "Other",
       "website": "https://elenas-barking-lot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T21:28:48.542637+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T22:36:37.547720+00:00"
     },
     {
       "name": "Bowline",
       "slug": "polsia-bowline-yh0fmn",
+      "description": "An autonomous AI operator for your Amazon store — keyword discovery, listing generation, ads, and restock timing, run by coordinated agents.",
+      "description_fr": "Un opérateur d'IA autonome pour votre boutique Amazon : découverte de mots clés, génération d'annonces, annonces et calendrier de réapprovisionnement, gérés par des agents coordonnés.",
+      "category": "AI & Machine Learning",
       "website": "https://bowline-yh0fmn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T21:28:53.941555+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T22:36:38.345999+00:00"
     },
     {
       "name": "Polsia App",
@@ -220191,34 +220206,126 @@
     {
       "name": "Plumbstone Holdings",
       "slug": "polsia-plumbstone-holdings",
+      "description": "Foreclosure finds, held as rentals.",
+      "description_fr": "Les trouvailles de forclusion, détenues en location.",
+      "category": "Travel & Hospitality",
       "website": "https://plumbstone-holdings.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T21:29:04.921540+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T22:36:39.313891+00:00"
     },
     {
       "name": "Petalchemy",
       "slug": "polsia-petalchemy",
+      "description": "A daily flower subscription that uses AI agents to curate a unique bouquet matched to your mood every morning — sourced from independent local florists near you.",
+      "description_fr": "Un abonnement floral quotidien qui utilise des agents IA pour créer chaque matin un bouquet unique adapté à votre humeur, provenant de fleuristes locaux indépendants près de chez vous.",
+      "category": "AI & Machine Learning",
       "website": "https://petalchemy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T21:29:10.325532+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T22:36:41.219565+00:00"
     },
     {
       "name": "Nighthand",
       "slug": "polsia-nighthand",
+      "description": "Self-hosted AI SRE agent for SaaS back-ends — investigates incidents in parallel, auto-patches known failures, scales infrastructure, and writes post-incident reports into Slack, Microsoft Teams, or PagerDuty.",
+      "description_fr": "Agent AI SRE auto-hébergé pour les back-ends SaaS : enquête sur les incidents en parallèle, corrige automatiquement les pannes connues, fait évoluer l'infrastructure et rédige des rapports post-incident dans Slack, Microsoft Teams ou PagerDuty.",
+      "category": "AI & Machine Learning",
       "website": "https://nighthand.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T21:29:15.705117+00:00"
+      "status": "live",
+      "scraped_at": "2026-07-31T22:36:42.966145+00:00"
     },
     {
       "name": "Amblesmith",
       "slug": "polsia-amblesmith",
+      "description": "Quality mobility and home-care aids, delivered with care.",
+      "description_fr": "Des aides à la mobilité et au maintien à domicile de qualité, délivrées avec soin.",
+      "category": "AI & Machine Learning",
       "website": "https://amblesmith.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-07-31T22:36:44.084746+00:00"
+    },
+    {
+      "name": "Pointit",
+      "slug": "polsia-pointit",
+      "website": "https://pointit.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-31T21:29:21.147429+00:00"
+      "scraped_at": "2026-07-31T22:34:55.404774+00:00"
+    },
+    {
+      "name": "Globyr",
+      "slug": "polsia-globyr",
+      "website": "https://globyr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T22:35:00.714998+00:00"
+    },
+    {
+      "name": "G. Scott Brown Leadership LLC",
+      "slug": "polsia-g-scott-brown-leadership-llc",
+      "website": "https://g-scott-brown-leadership-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T22:35:06.238520+00:00"
+    },
+    {
+      "name": "Crewwright",
+      "slug": "polsia-crewwright-7",
+      "website": "https://crewwright-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T22:35:06.866852+00:00"
+    },
+    {
+      "name": "You Can Group",
+      "slug": "polsia-you-can-group",
+      "website": "https://you-can-group.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T22:35:07.368813+00:00"
+    },
+    {
+      "name": "Cubbi",
+      "slug": "polsia-cubbi",
+      "website": "https://cubbi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T22:35:12.929445+00:00"
+    },
+    {
+      "name": "Polytally",
+      "slug": "polsia-polytally",
+      "website": "https://polytally.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T22:35:18.301116+00:00"
+    },
+    {
+      "name": "Tightcast",
+      "slug": "polsia-tightcast",
+      "website": "https://tightcast.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T22:35:18.939443+00:00"
+    },
+    {
+      "name": "Let.no",
+      "slug": "polsia-letno",
+      "website": "https://letno.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T22:35:24.454704+00:00"
+    },
+    {
+      "name": "Bract & Blade",
+      "slug": "polsia-bract-blade",
+      "website": "https://bract-blade.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-07-31T22:35:29.836496+00:00"
     }
   ]
 }
