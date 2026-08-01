@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T22:35:33.721228+00:00",
+  "last_updated": "2026-08-01T23:34:27.783753+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -221968,26 +221968,35 @@
     {
       "name": "7ventech",
       "slug": "polsia-7ventech",
+      "description": "Technology services and solutions.",
+      "description_fr": "Services et solutions technologiques.",
+      "category": "Other",
       "website": "https://7ventech.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T22:32:53.497639+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T23:33:27.931755+00:00"
     },
     {
       "name": "B&B Painting Tampa Bay",
       "slug": "polsia-bb-painting-tampa-bay",
+      "description": "Full-service residential and commercial painting for the Greater Tampa Bay area. Professional consultation, on-time completion, and clean job sites — interior, exterior, commercial, and EPA RRP lead-safe work.",
+      "description_fr": "Peinture résidentielle et commerciale à service complet pour la région du Grand Tampa Bay. Consultation professionnelle, achèvement dans les délais et chantiers propres – travaux intérieurs, extérieurs, commerciaux et sans plomb EPA RRP.",
+      "category": "Sales & CRM",
       "website": "https://bb-painting-tampa-bay.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T22:32:54.346437+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T23:33:29.945431+00:00"
     },
     {
       "name": "Premark",
       "slug": "polsia-premark-2",
+      "description": "Premark — always-on AI sourcing for buy-and-hold investors. Catch the conversion before the MLS.",
+      "description_fr": "Premark – un sourcing d'IA toujours actif pour les investisseurs acheteur-conservateur. Attrapez la conversion avant la MLS.",
+      "category": "AI & Machine Learning",
       "website": "https://premark-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T22:32:55.256510+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T23:33:31.244941+00:00"
     },
     {
       "name": "Stampwright",
@@ -222016,10 +222025,13 @@
     {
       "name": "Chipwright",
       "slug": "polsia-chipwright",
+      "description": "Chipwright is an autonomous AI operations desk for solo woodshops. It watches leads 24/7 across web forms, phone, SMS, and Messenger, drafts photo-based quotes, books site visits, routes purchase orders to lumber yards and suppliers, and texts clients from quote to final invoice — with explicit human approval on quote issuance and vendor spend.",
+      "description_fr": "Chipwright est un bureau d'opérations d'IA autonome pour les ateliers de menuiserie solo. Il surveille les prospects 24 heures sur 24 et 7 jours sur 7 sur les formulaires Web, par téléphone, SMS et Messenger, rédige des devis à partir de photos, organise des visites de sites, achemine les bons de commande vers les parcs à bois et les fournisseurs, et envoie des SMS aux clients du devis à la facture finale, avec une approbation humaine explicite sur l'émission du devis et les dépenses des fournisseurs.",
+      "category": "AI & Machine Learning",
       "website": "https://chipwright.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T22:33:22.912307+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T23:33:39.940564+00:00"
     },
     {
       "name": "Tidsanker",
@@ -222035,10 +222047,13 @@
     {
       "name": "Express",
       "slug": "polsia-express",
+      "description": "Modern workwear and event-ready fashion for women and men, refreshed for the post-mall era.",
+      "description_fr": "Des vêtements de travail modernes et une mode événementielle pour femmes et hommes, rafraîchis pour l'ère post-centre commercial.",
+      "category": "Other",
       "website": "https://express.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T22:33:44.412755+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T23:33:41.469837+00:00"
     },
     {
       "name": "Halfwing",
@@ -222050,6 +222065,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-01T22:33:46.064232+00:00"
+    },
+    {
+      "name": "Tacklr",
+      "slug": "polsia-tacklr",
+      "website": "https://tacklr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T23:32:11.719029+00:00"
+    },
+    {
+      "name": "Unibell",
+      "slug": "polsia-unibell",
+      "website": "https://unibell.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T23:32:17.213134+00:00"
+    },
+    {
+      "name": "Pinion",
+      "slug": "polsia-pinion-2",
+      "website": "https://pinion-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T23:32:17.998188+00:00"
+    },
+    {
+      "name": "Wattledge",
+      "slug": "polsia-wattledge",
+      "website": "https://wattledge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T23:32:23.618025+00:00"
+    },
+    {
+      "name": "Grindbloom",
+      "slug": "polsia-grindbloom",
+      "website": "https://grindbloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T23:32:29.247222+00:00"
+    },
+    {
+      "name": "Cogsmith",
+      "slug": "polsia-cogsmith-vwtsvr",
+      "website": "https://cogsmith-vwtsvr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T23:32:34.891017+00:00"
+    },
+    {
+      "name": "Bellbench Media",
+      "slug": "polsia-bellbench-media",
+      "description": "Full-service content, branding, and AI for local businesses — without agency pricing.",
+      "description_fr": "Contenu complet, image de marque et IA pour les entreprises locales, sans tarification d'agence.",
+      "category": "AI & Machine Learning",
+      "website": "https://bellbench-media.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-01T23:32:36.877707+00:00"
+    },
+    {
+      "name": "Complinode",
+      "slug": "polsia-complinode-2",
+      "website": "https://complinode-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T23:32:42.535561+00:00"
+    },
+    {
+      "name": "Watchvane",
+      "slug": "polsia-watchvane",
+      "description": "Quiet alerts across prices, filings, contracts, and launches. Self-serve competitive monitoring for small ops teams, indie founders, and agencies.",
+      "description_fr": "Alertes silencieuses sur les prix, les dépôts, les contrats et les lancements. Surveillance concurrentielle en libre-service pour les petites équipes opérationnelles, les fondateurs indépendants et les agences.",
+      "category": "Other",
+      "website": "https://watchvane.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-01T23:34:26.272852+00:00"
+    },
+    {
+      "name": "KORVAN",
+      "slug": "polsia-meridian-58",
+      "description": "KORVAN — decisive intelligence across every niche market. Curated headlines, original market analysis, and decision-ready before-you-buy guides across equities, crypto, sports, AI, watches, cards, and cars.",
+      "description_fr": "KORVAN — une intelligence décisive sur chaque marché de niche. Des titres sélectionnés, des analyses de marché originales et des guides prêts à prendre des décisions avant d'acheter sur les actions, la cryptographie, le sport, l'IA, les montres, les cartes et les voitures.",
+      "category": "AI & Machine Learning",
+      "website": "https://meridian-58.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-01T23:34:27.782810+00:00"
     }
   ]
 }
