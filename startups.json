@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T19:37:43.124594+00:00",
+  "last_updated": "2026-08-01T20:34:29.589190+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -221644,58 +221644,79 @@
     {
       "name": "Williams Gov Solutions LLC",
       "slug": "polsia-williams-gov-solutions-llc",
+      "description": "Veteran-led government contracting that coordinates qualified subcontractors for federal, state, and local facility support nationwide.",
+      "description_fr": "Contrat gouvernemental dirigé par des vétérans qui coordonne les sous-traitants qualifiés pour le soutien des installations fédérales, étatiques et locales à l'échelle nationale.",
+      "category": "Other",
       "website": "https://williams-gov-solutions-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T19:35:26.903845+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T20:33:14.671015+00:00"
     },
     {
       "name": "Wardpost",
       "slug": "polsia-wardpost-4",
+      "description": "An always-on concierge for self-hosted homelabs — watches uptime, applies security patches on a sane schedule, rotates TLS, ships encrypted offsite backups, and posts one human-readable daily digest.",
+      "description_fr": "Un concierge toujours disponible pour les homelabs auto-hébergés : surveille la disponibilité, applique les correctifs de sécurité selon un calendrier raisonnable, effectue une rotation TLS, expédie des sauvegardes hors site cryptées et publie un résumé quotidien lisible par l'homme.",
+      "category": "Other",
       "website": "https://wardpost-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T19:35:27.540563+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T20:33:15.910366+00:00"
     },
     {
       "name": "Kloofmaat",
       "slug": "polsia-kloofmaat",
+      "description": "AI-werknemer voor calculatie: blauwdrukken in, offerte uit. Voor het MKB in de bouw.",
+      "description_fr": "AI-werknemer voor calculatie: blauwdrukken in, offert uit. Pour le MKB dans le bouw.",
+      "category": "AI & Machine Learning",
       "website": "https://kloofmaat.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T19:35:28.246607+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T20:33:17.657688+00:00"
     },
     {
       "name": "PayCue",
       "slug": "polsia-paycue",
+      "description": "Tap in. AI cues your crypto trades.",
+      "description_fr": "Appuyez sur. L’IA signale vos transactions cryptographiques.",
+      "category": "AI & Machine Learning",
       "website": "https://paycue.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T19:35:28.866150+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T20:33:19.531532+00:00"
     },
     {
       "name": "Folkhood",
       "slug": "polsia-folkhood",
+      "description": "Folkhood is a 24/7 AI community concierge built for the niche fandom creators running Discord, Reddit and X with no community team behind them.",
+      "description_fr": "Folkhood est un concierge communautaire IA 24h/24 et 7j/7, conçu pour les créateurs de niche fandom exécutant Discord, Reddit et X sans aucune équipe communautaire derrière eux.",
+      "category": "AI & Machine Learning",
       "website": "https://folkhood.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T19:35:29.664884+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T20:33:20.483749+00:00"
     },
     {
       "name": "Owlmark",
       "slug": "polsia-owlmark-4",
+      "description": "Owlmark is an overnight publishing agent for indie tabletop and board-game studios. While the team sleeps it watches forums, playtests, inventory, and your own rulebook — and lands a concise briefing in the inbox at sunrise.",
+      "description_fr": "Owlmark est un agent d'édition du jour au lendemain pour les studios indépendants de jeux de table et de jeux de société. Pendant que l'équipe dort, elle regarde les forums, les tests de jeu, l'inventaire et votre propre livre de règles – et obtient un briefing concis dans la boîte de réception au lever du soleil.",
+      "category": "Newsletter & Email",
       "website": "https://owlmark-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T19:35:35.127098+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T20:33:21.740093+00:00"
     },
     {
       "name": "Slickwrench Automotive",
       "slug": "polsia-slickwrench-automotive",
+      "description": "Honest, affordable auto repair in Joppatowne — certified techs, quality parts, fast turnaround.",
+      "description_fr": "Réparation automobile honnête et abordable à Joppatowne – techniciens certifiés, pièces de qualité, délai d’exécution rapide.",
+      "category": "Other",
       "website": "https://slickwrench-automotive.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T19:35:40.755403+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T20:33:22.907582+00:00"
     },
     {
       "name": "Pawknot",
@@ -221708,18 +221729,107 @@
     {
       "name": "Mantlet Security",
       "slug": "polsia-mantlet-security",
+      "description": "Tech-augmented guarding for high-stakes sites — licensed static posts, mobile patrol, event staffing, and trained workplace-violence-prevention officers across the Inland Empire and West Coast.",
+      "description_fr": "Protection renforcée par la technologie pour les sites à enjeux élevés : postes statiques agréés, patrouilles mobiles, personnel chargé des événements et agents formés à la prévention de la violence sur le lieu de travail dans tout l'Inland Empire et la côte ouest.",
+      "category": "Other",
       "website": "https://mantlet-security.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T19:35:51.800220+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T20:33:24.606663+00:00"
     },
     {
       "name": "Meldric",
       "slug": "polsia-meldric",
+      "description": "Meldric turns ERP exports, SQL scripts, and spreadsheets into a conversational analytics layer for mid-market manufacturers — without ripping out your system of record.",
+      "description_fr": "Meldric transforme les exportations ERP, les scripts SQL et les feuilles de calcul en une couche d'analyse conversationnelle pour les fabricants de taille intermédiaire, sans détruire votre système d'enregistrement.",
+      "category": "Sustainability & Green",
       "website": "https://meldric.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-01T20:33:25.524556+00:00"
+    },
+    {
+      "name": "Driftglass",
+      "slug": "polsia-driftglass-4",
+      "website": "https://driftglass-4.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-01T19:35:52.492449+00:00"
+      "scraped_at": "2026-08-01T20:31:44.916500+00:00"
+    },
+    {
+      "name": "CROOFT",
+      "slug": "polsia-crooft",
+      "website": "https://crooft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T20:31:55.324227+00:00"
+    },
+    {
+      "name": "Endpaper",
+      "slug": "polsia-endpaper",
+      "website": "https://endpaper.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T20:31:55.908629+00:00"
+    },
+    {
+      "name": "Bracework",
+      "slug": "polsia-bracework",
+      "website": "https://bracework.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T20:32:01.453259+00:00"
+    },
+    {
+      "name": "Dotaria",
+      "slug": "polsia-dotaria",
+      "website": "https://dotaria.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T20:32:11.967865+00:00"
+    },
+    {
+      "name": "Shophawk",
+      "slug": "polsia-shophawk-2",
+      "website": "https://shophawk-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T20:32:17.577289+00:00"
+    },
+    {
+      "name": "Xxquisite Brand Incorporated",
+      "slug": "polsia-xxquisite-brand-incorporated",
+      "description": "A curated brand built around distinctive style and self-expression.",
+      "description_fr": "Une marque organisée construite autour d'un style distinctif et de l'expression de soi.",
+      "category": "Marketing & Advertising",
+      "website": "https://xxquisite-brand-incorporated.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-01T20:34:08.472388+00:00"
+    },
+    {
+      "name": "Hearthloom",
+      "slug": "polsia-hearthloom",
+      "website": "https://hearthloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T20:32:28.249082+00:00"
+    },
+    {
+      "name": "Full Send Lighting Hauling & Transport",
+      "slug": "polsia-full-send-lighting-hauling-transport",
+      "website": "https://full-send-lighting-hauling-transport.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T20:32:38.589739+00:00"
+    },
+    {
+      "name": "Stillwater Compass",
+      "slug": "polsia-stillwater-compass",
+      "website": "https://stillwater-compass.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T20:32:44.118545+00:00"
     }
   ]
 }
