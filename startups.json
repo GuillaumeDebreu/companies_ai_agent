@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T23:42:01.683085+00:00",
+  "last_updated": "2026-08-01T01:17:10.007508+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -220360,10 +220360,13 @@
     {
       "name": "TopSpoT Catering",
       "slug": "polsia-topspot-catering",
+      "description": "Best of the Best in the Midwest for personal events, corporate functions, and meal prep — owned and operated in Omaha & Council Bluffs.",
+      "description_fr": "Le meilleur du Midwest pour les événements personnels, les réceptions d'entreprise et la préparation de repas - détenu et exploité à Omaha et Council Bluffs.",
+      "category": "Food & Beverage",
       "website": "https://topspot-catering.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T23:38:55.953789+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T01:15:59.596509+00:00"
     },
     {
       "name": "Quotewright",
@@ -220376,66 +220379,170 @@
     {
       "name": "Têtue",
       "slug": "polsia-ttue",
+      "description": "L'agence web 100% autonome qui ne dort jamais, facturée au résultat. Sites vivants pour artisans, commerçants, professions libérales et TPE.",
+      "description_fr": "L'agence web 100% autonome qui ne dort jamais, facturée au résultat. Sites vivants pour artisans, commerçants, professions libérales et TPE.",
+      "category": "Other",
       "website": "https://ttue.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T23:39:02.017261+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T01:16:01.882035+00:00"
     },
     {
       "name": "Tallyward",
       "slug": "polsia-tallyward-0yah8f",
+      "description": "Always-on AI bookkeeping and invoicing built for freelancers and micro-shops.",
+      "description_fr": "Comptabilité et facturation IA toujours actives, conçues pour les indépendants et les micro-boutiques.",
+      "category": "AI & Machine Learning",
       "website": "https://tallyward-0yah8f.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T23:39:02.752980+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T01:16:04.140750+00:00"
     },
     {
       "name": "Stillmark",
       "slug": "polsia-stillmark-9",
+      "description": "Quiet monitoring for production web apps and customer-facing AI agents. Four signal lanes watched around the clock, semantic quality for AI surfaces, and complete incident tickets filed automatically — on-call only pages past the gate.",
+      "description_fr": "Surveillance silencieuse des applications Web de production et des agents IA orientés client. Quatre voies de signalisation surveillées 24 heures sur 24, qualité sémantique pour les surfaces d'IA et tickets d'incident complets classés automatiquement - pages de garde uniquement après la porte.",
+      "category": "AI & Machine Learning",
       "website": "https://stillmark-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T23:39:08.360153+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T01:16:06.018217+00:00"
     },
     {
       "name": "Crowdmote",
       "slug": "polsia-crowdmote",
+      "description": "Verified creators trading real engagement for organic viral reach on TikTok.",
+      "description_fr": "Des créateurs vérifiés échangent un engagement réel contre une portée virale organique sur TikTok.",
+      "category": "Finance & Fintech",
       "website": "https://crowdmote.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T23:39:09.150889+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T01:16:07.990297+00:00"
     },
     {
       "name": "Pivotwire",
       "slug": "polsia-pivotwire",
+      "description": "Pivotwire is an autonomous quant engine that fuses lobbying disclosures, world-event feeds and live markets into one continuous strategy.",
+      "description_fr": "Pivotwire est un moteur quantitatif autonome qui fusionne les divulgations de lobbying, les flux d'événements mondiaux et les marchés en direct en une seule stratégie continue.",
+      "category": "Other",
       "website": "https://pivotwire.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T23:39:14.768033+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T01:16:10.025032+00:00"
     },
     {
       "name": "Stockparley",
       "slug": "polsia-stockparley",
+      "description": "Repricing, restocking, and reporting — every storefront, every day.",
+      "description_fr": "Modification des prix, réapprovisionnement et reporting — dans chaque vitrine, chaque jour.",
+      "category": "E-Commerce & Retail",
       "website": "https://stockparley.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T23:39:20.346574+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T01:16:11.086843+00:00"
     },
     {
       "name": "Townwright",
       "slug": "polsia-townwright-2",
+      "description": "Townwright is an autonomous civic newsroom for municipalities — it watches council livestreams, minutes, permits, and neighborhood channels, then drafts a daily brief with every claim cited back to the public record.",
+      "description_fr": "Townwright est une salle de rédaction civique autonome pour les municipalités : elle regarde les diffusions en direct du conseil, les procès-verbaux, les permis et les chaînes de quartier, puis rédige un mémoire quotidien avec chaque réclamation citée dans les archives publiques.",
+      "category": "Sustainability & Green",
       "website": "https://townwright-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T23:39:25.776138+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T01:16:12.951222+00:00"
     },
     {
       "name": "Aegiron",
       "slug": "polsia-aegiron-2",
+      "description": "Agentic finance ops that run fraud, AML, reconciliation, and regulatory reporting on autopilot — for embedded-finance and digital-native fintechs.",
+      "description_fr": "Opérations financières agentiques qui gèrent la fraude, la lutte contre le blanchiment d'argent, le rapprochement et les rapports réglementaires sur pilote automatique — pour les fintechs de la finance intégrée et natives du numérique.",
+      "category": "Finance & Fintech",
       "website": "https://aegiron-2.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-01T01:16:15.081052+00:00"
+    },
+    {
+      "name": "Maravu",
+      "slug": "polsia-maravu",
+      "website": "https://maravu.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-07-31T23:39:36.277773+00:00"
+      "scraped_at": "2026-08-01T01:14:19.442884+00:00"
+    },
+    {
+      "name": "Treshive",
+      "slug": "polsia-treshive",
+      "website": "https://treshive.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T01:14:25.104262+00:00"
+    },
+    {
+      "name": "Hushfolio",
+      "slug": "polsia-hushfolio-2",
+      "website": "https://hushfolio-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T01:14:30.733134+00:00"
+    },
+    {
+      "name": "Haldur",
+      "slug": "polsia-haldur-2",
+      "website": "https://haldur-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T01:14:31.402905+00:00"
+    },
+    {
+      "name": "Verchant",
+      "slug": "polsia-verchant",
+      "website": "https://verchant.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T01:14:36.827624+00:00"
+    },
+    {
+      "name": "Porchlight",
+      "slug": "polsia-porchlight-twu2ga",
+      "website": "https://porchlight-twu2ga.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T01:14:42.299410+00:00"
+    },
+    {
+      "name": "Wrenmark",
+      "slug": "polsia-wrenmark-3",
+      "website": "https://wrenmark-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T01:14:47.872793+00:00"
+    },
+    {
+      "name": "Planwether",
+      "slug": "polsia-planwether",
+      "website": "https://planwether.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T01:14:53.207092+00:00"
+    },
+    {
+      "name": "Hearthark",
+      "slug": "polsia-hearthark",
+      "website": "https://hearthark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T01:14:58.839001+00:00"
+    },
+    {
+      "name": "Vendhawk",
+      "slug": "polsia-vendhawk-6",
+      "website": "https://vendhawk-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T01:15:04.310796+00:00"
     }
   ]
 }
