@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T21:31:17.984922+00:00",
+  "last_updated": "2026-08-01T22:35:33.721228+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -221861,50 +221861,68 @@
     {
       "name": "Mothpost",
       "slug": "polsia-mothpost-2",
+      "description": "AI agents that chase the weird, delightful apps so you don't miss them. A daily digest of vibe-coded finds from Product Hunt, GitHub trending, and X.",
+      "description_fr": "Des agents IA qui recherchent les applications étranges et délicieuses pour que vous ne les manquiez pas. Un résumé quotidien des découvertes codées par ambiance de Product Hunt, des tendances GitHub et de X.",
+      "category": "AI & Machine Learning",
       "website": "https://mothpost-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T21:29:01.939554+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T22:34:23.468590+00:00"
     },
     {
       "name": "13th Ave Sign & Shirt",
       "slug": "polsia-13th-ave-sign-shirt",
+      "description": "Brooklyn's fastest custom print shop — signs, shirts, and DTF transfers with same-day pickup from our storefront at 1309 78th St.",
+      "description_fr": "L'imprimerie personnalisée la plus rapide de Brooklyn : panneaux, chemises et transferts DTF avec retrait le jour même depuis notre vitrine au 1309 78th St.",
+      "category": "E-Commerce & Retail",
       "website": "https://13th-ave-sign-shirt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T21:29:07.504674+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T22:34:24.832216+00:00"
     },
     {
       "name": "Coronetry",
       "slug": "polsia-coronetry",
+      "description": "Regal streetwear, dropped in numbered capsules. Coronetry fuses crowned construction with heavyweight mills — every run is closed, capped, and shipped once.",
+      "description_fr": "Du streetwear royal, présenté en capsules numérotées. Coronetry fusionne la construction couronnée avec des broyeurs lourds – chaque cycle est fermé, plafonné et expédié une seule fois.",
+      "category": "Other",
       "website": "https://coronetry.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T21:29:08.125578+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T22:34:26.182871+00:00"
     },
     {
       "name": "Petamor",
       "slug": "polsia-petamor",
+      "description": "Petamor is the relationship app for pet-loving singles. Build a profile for yourself and a profile for your pet — match, message, and meet where the leash goes.",
+      "description_fr": "Petamor est l'application relationnelle pour les célibataires qui aiment les animaux. Créez un profil pour vous-même et un profil pour votre animal de compagnie : associez-vous, envoyez des messages et rencontrez-vous là où va la laisse.",
+      "category": "Other",
       "website": "https://petamor.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T21:29:08.759656+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T22:34:28.254452+00:00"
     },
     {
       "name": "Cedarmark",
       "slug": "polsia-cedarmark-2",
+      "description": "Biblical money wisdom, practiced every week. An evergreen stewardship workbench — courses, budget sheets, life-stage tracks, and auto-issued certificates.",
+      "description_fr": "La sagesse biblique de l’argent, pratiquée chaque semaine. Un atelier d'intendance à feuilles persistantes : cours, fiches budgétaires, parcours des étapes de la vie et certificats délivrés automatiquement.",
+      "category": "Education",
       "website": "https://cedarmark-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T21:29:14.131532+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T22:34:30.509541+00:00"
     },
     {
       "name": "Stensen",
       "slug": "polsia-stensen",
+      "description": "Morning briefs for head-and-neck surgeons — triage, recoveries, tumor boards, and trial matches delivered before rounds.",
+      "description_fr": "Briefings du matin pour les chirurgiens de la tête et du cou : triage, récupérations, comités de tumeurs et matchs d'essai livrés avant les rondes.",
+      "category": "Sustainability & Green",
       "website": "https://stensen.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T21:29:19.715426+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T22:34:32.207048+00:00"
     },
     {
       "name": "Stooplamp",
@@ -221917,26 +221935,121 @@
     {
       "name": "Hearthloom",
       "slug": "polsia-hearthloom-2llm8c",
+      "description": "AI-native property operations from tenant screen to owner statement.",
+      "description_fr": "Opérations immobilières natives de l'IA, de l'écran du locataire à la déclaration du propriétaire.",
+      "category": "Real Estate",
       "website": "https://hearthloom-2llm8c.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T21:29:25.788358+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T22:34:34.516713+00:00"
     },
     {
       "name": "Biovoyant",
       "slug": "polsia-biovoyant",
+      "description": "24/7 AI agents guarding bioreactor CQAs on your existing SCADA stack. Drop-in monitoring for fed-batch and continuous biomanufacturing — FDA-aligned and audit-ready out of the box.",
+      "description_fr": "Des agents d'IA 24h/24 et 7j/7 surveillent les CQA des bioréacteurs sur votre pile SCADA existante. Surveillance immédiate pour la biofabrication par lots et en continu – alignée sur la FDA et prête à l'audit, prête à l'emploi.",
+      "category": "AI & Machine Learning",
       "website": "https://biovoyant.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T21:29:31.231836+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-01T22:34:36.189483+00:00"
     },
     {
       "name": "Vigilot",
       "slug": "polsia-vigilot-2",
+      "description": "Always-on pricing and compliance intelligence for UK van and truck dealers.",
+      "description_fr": "Informations permanentes sur les prix et la conformité pour les concessionnaires britanniques de fourgons et de camions.",
+      "category": "Other",
       "website": "https://vigilot-2.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-01T22:34:37.722544+00:00"
+    },
+    {
+      "name": "7ventech",
+      "slug": "polsia-7ventech",
+      "website": "https://7ventech.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-01T21:29:36.611025+00:00"
+      "scraped_at": "2026-08-01T22:32:53.497639+00:00"
+    },
+    {
+      "name": "B&B Painting Tampa Bay",
+      "slug": "polsia-bb-painting-tampa-bay",
+      "website": "https://bb-painting-tampa-bay.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T22:32:54.346437+00:00"
+    },
+    {
+      "name": "Premark",
+      "slug": "polsia-premark-2",
+      "website": "https://premark-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T22:32:55.256510+00:00"
+    },
+    {
+      "name": "Stampwright",
+      "slug": "polsia-stampwright-8",
+      "website": "https://stampwright-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T22:32:56.109182+00:00"
+    },
+    {
+      "name": "Hearthloom",
+      "slug": "polsia-hearthloom-jf27r4",
+      "website": "https://hearthloom-jf27r4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T22:33:01.633961+00:00"
+    },
+    {
+      "name": "Verifacts",
+      "slug": "polsia-verifacts",
+      "website": "https://verifacts.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T22:33:12.153676+00:00"
+    },
+    {
+      "name": "Chipwright",
+      "slug": "polsia-chipwright",
+      "website": "https://chipwright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T22:33:22.912307+00:00"
+    },
+    {
+      "name": "Tidsanker",
+      "slug": "polsia-tidsanker",
+      "description": "Automatiske klassikere, kvarts-ikoner og smartklokker — kuratert i Norge.",
+      "description_fr": "Automatiske klassikere, kvarts-ikoner og smartklokker — curatert i Norge.",
+      "category": "Other",
+      "website": "https://tidsanker.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-01T22:35:23.250892+00:00"
+    },
+    {
+      "name": "Express",
+      "slug": "polsia-express",
+      "website": "https://express.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-01T22:33:44.412755+00:00"
+    },
+    {
+      "name": "Halfwing",
+      "slug": "polsia-halfwing",
+      "description": "A privacy-first app for parents of teens (13–19) — guided two-way conversation, weekly rituals, and gentle reflection co-designed with family therapists. Built for the in-between years.",
+      "description_fr": "Une application axée sur la confidentialité pour les parents d'adolescents (13 à 19 ans) : conversation bidirectionnelle guidée, rituels hebdomadaires et réflexion douce co-conçus avec des thérapeutes familiaux. Construit pour les années intermédiaires.",
+      "category": "Software & SaaS",
+      "website": "https://halfwing.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-01T22:33:46.064232+00:00"
     }
   ]
 }
