@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T13:59:34.467803+00:00",
+  "last_updated": "2026-08-02T15:10:20.857105+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -222836,34 +222836,46 @@
     {
       "name": "Knockyard",
       "slug": "polsia-knockyard-2",
+      "description": "Always-on outreach desk for buying signals on LinkedIn and X. Personalized, booked, reported daily — for less than a junior SDR.",
+      "description_fr": "Bureau de sensibilisation toujours disponible pour acheter des signaux sur LinkedIn et X. Personnalisé, réservé, signalé quotidiennement - pour moins qu'un SDR junior.",
+      "category": "Sales & CRM",
       "website": "https://knockyard-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T13:57:20.415485+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T15:09:18.584459+00:00"
     },
     {
       "name": "Maasklank",
       "slug": "polsia-maasklank",
+      "description": "Altijd de juiste artiest op het juiste podium in Zuid-Nederland.",
+      "description_fr": "L'autre podium le plus artistique du monde dans le sud des Pays-Bas.",
+      "category": "Other",
       "website": "https://maasklank.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T13:57:21.128159+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T15:09:19.879230+00:00"
     },
     {
       "name": "La Renoueuse",
       "slug": "polsia-la-renoueuse",
+      "description": "Petite histoire vidéo et courriel ciblé pour réveiller vos anciens clients. Atelier narratif pour artisans, commerçants et petites entreprises francophones.",
+      "description_fr": "Petite histoire vidéo et courriel ciblé pour réveiller vos anciens clients. Atelier narratif pour artisans, commerçants et petites entreprises francophones.",
+      "category": "Other",
       "website": "https://la-renoueuse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T13:57:21.850857+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T15:09:21.388601+00:00"
     },
     {
       "name": "Coldiron",
       "slug": "polsia-coldiron-3",
+      "description": "AI-augmented engineers who modernize legacy COBOL, VB6, and 1990s-era systems without breaking them.",
+      "description_fr": "Des ingénieurs améliorés par l'IA qui modernisent les anciens systèmes COBOL, VB6 et des années 1990 sans les casser.",
+      "category": "AI & Machine Learning",
       "website": "https://coldiron-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T13:57:22.598609+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T15:09:23.090204+00:00"
     },
     {
       "name": "Hawkmark",
@@ -222879,10 +222891,13 @@
     {
       "name": "Hatchwright",
       "slug": "polsia-hatchwright-8",
+      "description": "Hatchwright is an AI-driven marketing agency for local service businesses. Short-form video, paid Meta campaigns, and AI chatbots that fill the calendar — not the inbox.",
+      "description_fr": "Hatchwright est une agence de marketing basée sur l'IA pour les entreprises de services locales. Vidéo courte, campagnes méta payantes et chatbots IA qui remplissent le calendrier, pas la boîte de réception.",
+      "category": "AI & Machine Learning",
       "website": "https://hatchwright-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T13:57:33.777437+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T15:09:24.245842+00:00"
     },
     {
       "name": "Heatbloom",
@@ -222898,18 +222913,24 @@
     {
       "name": "MomOS",
       "slug": "polsia-momos",
+      "description": "One warm, AI-powered home for the meal plans, school lunches, sensory schedules, printables and the hard parenting questions.",
+      "description_fr": "Une maison chaleureuse, alimentée par l'IA, pour les plans de repas, les déjeuners scolaires, les horaires sensoriels, les imprimables et les questions parentales difficiles.",
+      "category": "AI & Machine Learning",
       "website": "https://momos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T13:57:44.762813+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T15:09:25.773153+00:00"
     },
     {
       "name": "Lensmark",
       "slug": "polsia-lensmark",
+      "description": "Photo-rich property condition reports for small commercial, retail, and residential owners — annotating on-site deficiencies with code, accessibility, and safety findings you can act on in days, not weeks.",
+      "description_fr": "Rapports sur l'état des propriétés riches en photos pour les propriétaires de petites entreprises commerciales, commerciales et résidentielles - annotant les lacunes sur place avec des conclusions de code, d'accessibilité et de sécurité sur lesquelles vous pouvez agir en quelques jours, et non en quelques semaines.",
+      "category": "E-Commerce & Retail",
       "website": "https://lensmark.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T13:57:50.162320+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T15:09:27.083999+00:00"
     },
     {
       "name": "Runlock",
@@ -222921,6 +222942,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-02T13:59:34.467020+00:00"
+    },
+    {
+      "name": "LearnHive",
+      "slug": "polsia-learnhive-2",
+      "website": "https://learnhive-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T15:08:26.977495+00:00"
+    },
+    {
+      "name": "Foundwell",
+      "slug": "polsia-foundwell",
+      "website": "https://foundwell.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T15:08:27.515686+00:00"
+    },
+    {
+      "name": "Plumeline",
+      "slug": "polsia-plumeline-9",
+      "website": "https://plumeline-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T15:08:28.078474+00:00"
+    },
+    {
+      "name": "VegaShares ETFs",
+      "slug": "polsia-vegashares-etfs",
+      "website": "https://vegashares-etfs.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T15:08:28.691175+00:00"
+    },
+    {
+      "name": "Gullah Tings",
+      "slug": "polsia-gullah-tings",
+      "website": "https://gullah-tings.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T15:08:34.139780+00:00"
+    },
+    {
+      "name": "Founddue",
+      "slug": "polsia-founddue",
+      "website": "https://founddue.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T15:08:39.518575+00:00"
+    },
+    {
+      "name": "VestNyoU",
+      "slug": "polsia-vestnyou",
+      "website": "https://vestnyou.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T15:08:45.082940+00:00"
+    },
+    {
+      "name": "Lois Berg",
+      "slug": "polsia-lois-berg",
+      "website": "https://lois-berg.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T15:08:50.501013+00:00"
+    },
+    {
+      "name": "Sortilej",
+      "slug": "polsia-sortilej",
+      "website": "https://sortilej.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T15:08:56.091103+00:00"
+    },
+    {
+      "name": "Docketfox",
+      "slug": "polsia-docketfox-3",
+      "website": "https://docketfox-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T15:09:01.500318+00:00"
     }
   ]
 }
