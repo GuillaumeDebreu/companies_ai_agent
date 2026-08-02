@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T02:51:43.924232+00:00",
+  "last_updated": "2026-08-02T04:41:09.828506+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -220099,10 +220099,13 @@
     {
       "name": "Hivven",
       "slug": "polsia-hivven-2",
+      "description": "Hivven turns idle cars into managed rental income — fleet-grade liability, cross-listing, key logistics, and licensing handled. Owners keep 70–80% of trip revenue.",
+      "description_fr": "Hivven transforme les voitures inutilisées en revenus de location gérés : gestion de la responsabilité de la flotte, des inscriptions croisées, de la logistique clé et des licences. Les propriétaires conservent 70 à 80 % des revenus du voyage.",
+      "category": "Logistics & Supply Chain",
       "website": "https://hivven-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-07-31T20:11:07.839339+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T04:39:59.394303+00:00"
     },
     {
       "name": "Clausewright",
@@ -222176,58 +222179,79 @@
     {
       "name": "Helmstack",
       "slug": "polsia-helmstack-4",
+      "description": "Helmstack is your 24/7 AI crew for a zero-staff store — research, fulfillment, marketing, and support orchestrated as one continuous workflow with shared memory.",
+      "description_fr": "Helmstack est votre équipe d'IA 24h/24 et 7j/7 pour un magasin sans personnel : recherche, exécution, marketing et support orchestrés comme un flux de travail continu avec mémoire partagée.",
+      "category": "AI & Machine Learning",
       "website": "https://helmstack-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T01:10:50.672199+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T04:40:15.138199+00:00"
     },
     {
       "name": "Trimsigil",
       "slug": "polsia-trimsigil",
+      "description": "Continuous SaaS audit. Auto-negotiated renewals. Monthly savings, zero effort.",
+      "description_fr": "Audit SaaS continu. Renouvellements auto-négociés. Économies mensuelles, zéro effort.",
+      "category": "Software & SaaS",
       "website": "https://trimsigil.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T01:10:51.425979+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T04:40:16.494563+00:00"
     },
     {
       "name": "Patchspire",
       "slug": "polsia-patchspire",
+      "description": "Compliance-aware AI and workflow automation for SMB back offices. Pilot projects from $3.5k; retained operations $1.5k–$5k / month.",
+      "description_fr": "IA soucieuse de la conformité et automatisation des flux de travail pour les back-offices des PME. Projets pilotes à partir de 3,5 000 $ ; opérations conservées 1,5 000 $ à 5 000 $ / mois.",
+      "category": "AI & Machine Learning",
       "website": "https://patchspire.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T01:10:52.237570+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T04:40:18.023022+00:00"
     },
     {
       "name": "Bowerpost",
       "slug": "polsia-bowerpost",
+      "description": "Bowerpost is the 24/7 inbox ward for small-business teams — drafts replies in your voice, escalates what genuinely needs you, and briefs you once a day on everything still waiting.",
+      "description_fr": "Bowerpost est la boîte de réception 24h/24 et 7j/7 pour les équipes des petites entreprises : rédige les réponses avec votre voix, signale ce qui a réellement besoin de vous et vous informe une fois par jour de tout ce qui attend encore.",
+      "category": "Newsletter & Email",
       "website": "https://bowerpost.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T01:10:52.926539+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T04:40:20.144561+00:00"
     },
     {
       "name": "Peregrid",
       "slug": "polsia-peregrid",
+      "description": "AI agents keeping aviation operators Annex 17-conformant, in real time.",
+      "description_fr": "Des agents d'IA maintiennent les opérateurs aéronautiques conformes à l'Annexe 17, en temps réel.",
+      "category": "AI & Machine Learning",
       "website": "https://peregrid.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T01:10:58.474703+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T04:40:21.297542+00:00"
     },
     {
       "name": "Marrow & Co",
       "slug": "polsia-marrow-co",
+      "description": "Independent product picks, shipped direct by suppliers.",
+      "description_fr": "Choix de produits indépendants, expédiés directement par les fournisseurs.",
+      "category": "Other",
       "website": "https://marrow-co.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T01:11:09.011321+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T04:40:22.297406+00:00"
     },
     {
       "name": "Vendmark",
       "slug": "polsia-vendmark-3",
+      "description": "Hourly AI repricing for Shopify and Amazon — margin guardrails, MAP alerts, and a daily P&L digest.",
+      "description_fr": "Retarification horaire de l'IA pour Shopify et Amazon : garde-fous de marge, alertes MAP et résumé quotidien des résultats.",
+      "category": "AI & Machine Learning",
       "website": "https://vendmark-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T01:11:19.503298+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T04:40:24.366197+00:00"
     },
     {
       "name": "Brushloom",
@@ -222258,6 +222282,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-02T01:13:28.415424+00:00"
+    },
+    {
+      "name": "Elaine's Elites",
+      "slug": "polsia-elaines-elites",
+      "website": "https://elaines-elites.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T04:38:59.288935+00:00"
+    },
+    {
+      "name": "Sealwright",
+      "slug": "polsia-sealwright-6",
+      "website": "https://sealwright-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T04:39:09.770911+00:00"
+    },
+    {
+      "name": "Home Field Collective",
+      "slug": "polsia-home-field-collective",
+      "website": "https://home-field-collective.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T04:39:15.360294+00:00"
+    },
+    {
+      "name": "Midwatch",
+      "slug": "polsia-midwatch-10",
+      "website": "https://midwatch-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T04:39:20.732379+00:00"
+    },
+    {
+      "name": "Hearthstead",
+      "slug": "polsia-hearthstead-jic825",
+      "website": "https://hearthstead-jic825.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T04:39:26.183875+00:00"
+    },
+    {
+      "name": "Brickwright",
+      "slug": "polsia-brickwright-9",
+      "website": "https://brickwright-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T04:39:31.550281+00:00"
+    },
+    {
+      "name": "3RD SPACE",
+      "slug": "polsia-3rd-space",
+      "description": "A mutual-matching, privacy-first community for ethical non-monogamy.",
+      "description_fr": "Une communauté mutuelle et axée sur la confidentialité pour une non-monogamie éthique.",
+      "category": "Social & Community",
+      "website": "https://3rd-space.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T04:40:58.945609+00:00"
+    },
+    {
+      "name": "Helmwave",
+      "slug": "polsia-helmwave",
+      "website": "https://helmwave.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T04:39:42.460324+00:00"
+    },
+    {
+      "name": "Vendloom",
+      "slug": "polsia-vendloom-jqdj44",
+      "website": "https://vendloom-jqdj44.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T04:39:47.650783+00:00"
+    },
+    {
+      "name": "Drawbench",
+      "slug": "polsia-drawbench",
+      "description": "Your RFQ desk that never sleeps — drafts quotes, chases stale bids, briefs you at sunrise.",
+      "description_fr": "Votre bureau d'appel d'offres qui ne dort jamais : rédige des devis, recherche des offres obsolètes et vous informe au lever du soleil.",
+      "category": "Other",
+      "website": "https://drawbench.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T04:39:49.270760+00:00"
     }
   ]
 }
