@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T13:22:39.025812+00:00",
+  "last_updated": "2026-08-02T13:59:34.467803+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -222004,10 +222004,13 @@
     {
       "name": "Stampwright",
       "slug": "polsia-stampwright-8",
+      "description": "Texas-built AI that chases permits, tracks inspections, and flags every code change for Dallas, Houston, Austin, and San Antonio remodelers.",
+      "description_fr": "Une IA construite au Texas qui recherche les permis, suit les inspections et signale chaque changement de code pour les rénovateurs de Dallas, Houston, Austin et San Antonio.",
+      "category": "AI & Machine Learning",
       "website": "https://stampwright-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T22:32:56.109182+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:16.830725+00:00"
     },
     {
       "name": "Hearthloom",
@@ -222267,10 +222270,13 @@
     {
       "name": "Hearthkeep",
       "slug": "polsia-hearthkeep-9",
+      "description": "Hearthkeep is an always-on guardian for every recurring charge on your household. Streaming, gym, telecom, utilities, insurance — canceled, renegotiated, and receipted.",
+      "description_fr": "Hearthkeep est un gardien permanent pour chaque charge récurrente de votre foyer. Streaming, salle de sport, télécommunications, services publics, assurance – annulés, renégociés et acquittés.",
+      "category": "Entertainment & Media",
       "website": "https://hearthkeep-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T01:11:30.305275+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:20.532327+00:00"
     },
     {
       "name": "Veilvault",
@@ -222613,34 +222619,46 @@
     {
       "name": "OPEN HOUSE 4U Capital",
       "slug": "polsia-open-house-4u-capital",
+      "description": "Texas real-estate services helping DFW listings, sellers, and investors move property forward.",
+      "description_fr": "Les services immobiliers du Texas aident les inscriptions, les vendeurs et les investisseurs de DFW à faire avancer leur propriété.",
+      "category": "Software & SaaS",
       "website": "https://open-house-4u-capital.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T11:02:31.082002+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:22.691283+00:00"
     },
     {
       "name": "Tactyr",
       "slug": "polsia-tactyr",
+      "description": "Tactyr deploys autonomous AI agents that sit on top of your plant’s existing PLC and SCADA stack — watching process variables, triggering pre-approved responses, and briefing the on-call engineer when the shift ends.",
+      "description_fr": "Tactyr déploie des agents d'IA autonomes qui se trouvent au-dessus de la pile PLC et SCADA existante de votre usine — surveillant les variables de processus, déclenchant des réponses pré-approuvées et informant l'ingénieur de garde à la fin du quart de travail.",
+      "category": "AI & Machine Learning",
       "website": "https://tactyr.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T11:02:41.619039+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:24.659031+00:00"
     },
     {
-      "name": "Bodegón",
+      "name": "Catálogo de tienda · Bodegón",
       "slug": "polsia-bodegn",
+      "description": "Lista de abarrotes con precios en pesos mexicanos y conversión a USD.",
+      "description_fr": "Liste des valeurs mobilières avec prix en pesos mexicains et conversion en USD.",
+      "category": "Other",
       "website": "https://bodegn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T11:02:52.114199+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:26.027438+00:00"
     },
     {
       "name": "Bellring",
       "slug": "polsia-bellring-2",
+      "description": "Paid niche communities built to outlast the churn cliff.",
+      "description_fr": "Communautés de niche payantes construites pour survivre à la falaise du taux de désabonnement.",
+      "category": "Other",
       "website": "https://bellring-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T11:02:57.647134+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:27.520021+00:00"
     },
     {
       "name": "Vuurkwartier",
@@ -222653,26 +222671,35 @@
     {
       "name": "Yardwatch",
       "slug": "polsia-yardwatch",
+      "description": "Always-on AI property operations for small holdings. Watches rent, screens tenants, dispatches maintenance, and ships a daily P&L.",
+      "description_fr": "Opérations immobilières IA permanentes pour les petites exploitations. Surveille les loyers, filtre les locataires, répartit la maintenance et expédie un P&L quotidien.",
+      "category": "Real Estate",
       "website": "https://yardwatch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T11:03:08.549992+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:29.235464+00:00"
     },
     {
-      "name": "Stubmark",
+      "name": "Stubmark — flat",
       "slug": "polsia-stubmark-3",
+      "description": "Flat-fee bookings, reminders and Google reviews for UK independent service trades. Keep the calendar, the clients and the reviews.",
+      "description_fr": "Réservations forfaitaires, rappels et avis Google pour les métiers de services indépendants au Royaume-Uni. Gardez le calendrier, les clients et les avis.",
+      "category": "Travel & Hospitality",
       "website": "https://stubmark-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T11:03:14.126541+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:30.976061+00:00"
     },
     {
       "name": "Roostwise",
       "slug": "polsia-roostwise-38p3dz",
+      "description": "AI-native ops for every stay, end to end. Guest messaging, dynamic pricing, cleaner dispatch, and maintenance triage — without the 15-25% managed-service cut.",
+      "description_fr": "Des opérations natives d’IA pour chaque séjour, de bout en bout. Messagerie aux clients, tarification dynamique, répartition plus propre et triage de la maintenance, sans la réduction de 15 à 25 % des services gérés.",
+      "category": "AI & Machine Learning",
       "website": "https://roostwise-38p3dz.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T11:03:19.719803+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:33.096065+00:00"
     },
     {
       "name": "Skarpøre",
@@ -222699,82 +222726,201 @@
     {
       "name": "Shopwright",
       "slug": "polsia-shopwright-5",
+      "description": "An always-on ops partner for the shop you run yourself — Shopwright watches your POS, inventory and supplier feeds so your store keeps running between shifts.",
+      "description_fr": "Un partenaire opérationnel permanent pour le magasin que vous dirigez vous-même — Shopwright surveille vos flux de points de vente, d'inventaire et de fournisseurs afin que votre magasin continue de fonctionner entre les équipes.",
+      "category": "E-Commerce & Retail",
       "website": "https://shopwright-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T12:11:37.941414+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:34.402949+00:00"
     },
     {
       "name": "Knockwise",
       "slug": "polsia-knockwise-7",
+      "description": "The 24/7 AR agent that chases, reconciles, and forecasts your cash.",
+      "description_fr": "L'agent AR 24h/24 et 7j/7 qui recherche, rapproche et prévoit votre argent.",
+      "category": "Sustainability & Green",
       "website": "https://knockwise-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T12:11:38.071500+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:36.426065+00:00"
     },
     {
       "name": "Killins Contracting Services",
       "slug": "polsia-killins-contracting-services",
+      "description": "Monroe-based general contractor and multi-site retail emergency-response handyman since 2001. Doors to remodels, 7 AM–7 PM, seven days a week.",
+      "description_fr": "Entrepreneur général basé à Monroe et bricoleur d'intervention d'urgence sur plusieurs sites de vente au détail depuis 2001. Portes à rénover, de 7 h à 19 h, sept jours sur sept.",
+      "category": "E-Commerce & Retail",
       "website": "https://killins-contracting-services.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T12:11:38.219591+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:37.598413+00:00"
     },
     {
       "name": "Ravelmark",
       "slug": "polsia-ravelmark",
+      "description": "Ravelmark is an AI-native procurement intelligence platform — continuous supplier monitoring, structured RFP drafting, ranked bid scoring, and audit-ready diversity and compliance reporting on demand.",
+      "description_fr": "Ravelmark est une plateforme d'intelligence d'achat native basée sur l'IA : surveillance continue des fournisseurs, rédaction d'appels d'offres structurée, notation des offres classées et rapports sur la diversité et la conformité prêts à l'audit sur demande.",
+      "category": "Software & SaaS",
       "website": "https://ravelmark.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T12:11:38.407176+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:39.619323+00:00"
     },
     {
-      "name": "SMD Global Consulting LLC",
+      "name": "SMD Global Consulting",
       "slug": "polsia-smd-global-consulting-llc",
+      "description": "Comptabilité augmentée par l'IA, pilotée par l'expert-comptable humain — cabinet comptable à Blois (41) pour TPE, PME, professions libérales, artisans et agriculteurs.",
+      "description_fr": "Comptabilité augmentée par l'IA, pilotée par l'expert-comptable humain — cabinet comptable à Blois (41) pour TPE, PME, professions libérales, artisans et agriculteurs.",
+      "category": "Consulting & Services",
       "website": "https://smd-global-consulting-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T12:11:38.550373+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:41.667882+00:00"
     },
     {
       "name": "Stocklark",
       "slug": "polsia-stocklark-2",
+      "description": "Stocklark runs your DTC store on autopilot — a fleet of specialist agents that price, list, reconcile and reply, then posts one plain-English daily report.",
+      "description_fr": "Stocklark gère votre magasin DTC sur pilote automatique : une flotte d'agents spécialisés qui évaluent, répertorient, rapprochent et répondent, puis publient un rapport quotidien en anglais simple.",
+      "category": "E-Commerce & Retail",
       "website": "https://stocklark-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T12:11:38.776170+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:43.818271+00:00"
     },
     {
       "name": "Harold's Speed Shop",
       "slug": "polsia-harolds-speed-shop",
+      "description": "Independent speed shop specializing in custom builds, restoration, and performance work for classic and hot rod.",
+      "description_fr": "Atelier de vitesse indépendant spécialisé dans les constructions personnalisées, la restauration et les travaux de performance pour les classiques et les hot rod.",
+      "category": "E-Commerce & Retail",
       "website": "https://harolds-speed-shop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T12:11:38.954599+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:45.731029+00:00"
     },
     {
       "name": "Kroeziwaak",
       "slug": "polsia-kroeziwaak",
+      "description": "24/7 reviewbeheer, footfall-analyse en elke ochtend een concrete actielijst voor eigenaren van cafés en restaurants.",
+      "description_fr": "Examen 24h/24 et 7j/7, analyse de la fréquentation et des activités concrètes pour chaque café et restaurant.",
+      "category": "Food & Beverage",
       "website": "https://kroeziwaak.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T12:11:39.036725+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:47.852387+00:00"
     },
     {
       "name": "Vesperwell",
       "slug": "polsia-vesperwell-2",
+      "description": "AI property ops with a nightly owner briefing in every inbox.",
+      "description_fr": "Les propriétés IA fonctionnent avec un briefing nocturne du propriétaire dans chaque boîte de réception.",
+      "category": "AI & Machine Learning",
       "website": "https://vesperwell-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T12:11:39.195451+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:49.047945+00:00"
     },
     {
       "name": "Arachnodex",
       "slug": "polsia-arachnodex",
+      "description": "Care plans for all 1,189 cataloged tarantula species. Husbandry profiles, enclosure specs, molt-by-molt feeding, and CITES-aware sourcing.",
+      "description_fr": "Plans de soins pour les 1 189 espèces de tarentules cataloguées. Profils d'élevage, spécifications d'enclos, alimentation mue par mue et approvisionnement conforme à la CITES.",
+      "category": "Other",
       "website": "https://arachnodex.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T13:58:50.627420+00:00"
+    },
+    {
+      "name": "Knockyard",
+      "slug": "polsia-knockyard-2",
+      "website": "https://knockyard-2.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-02T12:11:39.371193+00:00"
+      "scraped_at": "2026-08-02T13:57:20.415485+00:00"
+    },
+    {
+      "name": "Maasklank",
+      "slug": "polsia-maasklank",
+      "website": "https://maasklank.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T13:57:21.128159+00:00"
+    },
+    {
+      "name": "La Renoueuse",
+      "slug": "polsia-la-renoueuse",
+      "website": "https://la-renoueuse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T13:57:21.850857+00:00"
+    },
+    {
+      "name": "Coldiron",
+      "slug": "polsia-coldiron-3",
+      "website": "https://coldiron-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T13:57:22.598609+00:00"
+    },
+    {
+      "name": "Hawkmark",
+      "slug": "polsia-hawkmark-3",
+      "description": "Always-on competitor radar for SMB founders. One weekly briefing instead of a six-month CI rollout.",
+      "description_fr": "Radar de concurrents toujours actif pour les fondateurs de PME. Un briefing hebdomadaire au lieu d’un déploiement CI sur six mois.",
+      "category": "Marketing & Advertising",
+      "website": "https://hawkmark-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T13:59:14.386196+00:00"
+    },
+    {
+      "name": "Hatchwright",
+      "slug": "polsia-hatchwright-8",
+      "website": "https://hatchwright-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T13:57:33.777437+00:00"
+    },
+    {
+      "name": "Heatbloom",
+      "slug": "polsia-heatbloom",
+      "description": "Heatbloom is an autonomous vegan pizzeria open 24 hours a day, with no manager on site. Reordering, prep routing, and delivery are run by software; humans handle prep, restock, and cleaning.",
+      "description_fr": "Heatbloom est une pizzeria vegan autonome ouverte 24h/24, sans gérant sur place. La réorganisation, le routage de préparation et la livraison sont gérés par logiciel ; les humains s’occupent de la préparation, du réapprovisionnement et du nettoyage.",
+      "category": "Software & SaaS",
+      "website": "https://heatbloom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T13:59:21.831131+00:00"
+    },
+    {
+      "name": "MomOS",
+      "slug": "polsia-momos",
+      "website": "https://momos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T13:57:44.762813+00:00"
+    },
+    {
+      "name": "Lensmark",
+      "slug": "polsia-lensmark",
+      "website": "https://lensmark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T13:57:50.162320+00:00"
+    },
+    {
+      "name": "Runlock",
+      "slug": "polsia-runlock",
+      "description": "Autonomous SRE that escalates only what truly needs a human.",
+      "description_fr": "SRE autonome qui intensifie uniquement ce qui a réellement besoin d'un humain.",
+      "category": "Other",
+      "website": "https://runlock.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T13:59:34.467020+00:00"
     }
   ]
 }
