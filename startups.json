@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T19:11:02.517366+00:00",
+  "last_updated": "2026-08-02T19:40:42.538910+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -223270,42 +223270,57 @@
     {
       "name": "BidLynx",
       "slug": "polsia-bidlynx",
+      "description": "Always-on underbidding and profit analytics for niche resellers across eBay, Mercari, and Poshmark.",
+      "description_fr": "Analyse permanente des sous-enchères et des bénéfices pour les revendeurs de niche sur eBay, Mercari et Poshmark.",
+      "category": "Other",
       "website": "https://bidlynx.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T18:15:01.874953+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T19:39:30.657879+00:00"
     },
     {
       "name": "Hautprisma",
       "slug": "polsia-hautprisma",
+      "description": "KI-gestützte Hautanalyse mit personalisierter Produktempfehlung in Sekunden.",
+      "description_fr": "KI-gestützte Hautanalyse mit personalisierter Produktempfehlung in Sekunden.",
+      "category": "Other",
       "website": "https://hautprisma.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T18:15:02.576106+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T19:39:32.146941+00:00"
     },
     {
       "name": "South Tampa Auto Boutique",
       "slug": "polsia-south-tampa-auto-boutique",
+      "description": "Independent Tampa used-car dealer with transparent, no-fee pricing — from daily drivers to classics.",
+      "description_fr": "Concessionnaire indépendant de voitures d'occasion à Tampa avec des tarifs transparents et sans frais — des conducteurs quotidiens aux classiques.",
+      "category": "Real Estate",
       "website": "https://south-tampa-auto-boutique.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T18:15:08.227380+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T19:39:33.728338+00:00"
     },
     {
       "name": "Quellpath",
       "slug": "polsia-quellpath",
+      "description": "The AI recovery agent orchestrating your entire support circle — daily check-ins, craving prediction, one-tap emergency plans and progress notes for your sponsor, therapist and family.",
+      "description_fr": "L'agent de récupération IA qui orchestre l'ensemble de votre cercle de soutien : enregistrements quotidiens, prédiction des envies, plans d'urgence en un seul clic et notes de progression pour votre sponsor, votre thérapeute et votre famille.",
+      "category": "AI & Machine Learning",
       "website": "https://quellpath.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T18:15:13.613724+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T19:39:35.618364+00:00"
     },
     {
       "name": "Benchyard",
       "slug": "polsia-benchyard-2",
+      "description": "Agente AI verticale per boutique di staffing tecnico: intercetta i micro-segnali e piazza i candidati prima della concorrenza.",
+      "description_fr": "Agent AI vertical pour boutique di staffing tecnico: intercetta i micro-signali et place i candidats prima della concorrenza.",
+      "category": "AI & Machine Learning",
       "website": "https://benchyard-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T18:15:19.207568+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T19:39:37.727468+00:00"
     },
     {
       "name": "Stayround",
@@ -223318,10 +223333,13 @@
     {
       "name": "GridDownSurvive",
       "slug": "polsia-griddownsurvive",
+      "description": "Family-focused grid-down preparedness checklists, blueprints, and insider briefings.",
+      "description_fr": "Listes de contrôle de préparation, plans et briefings d'initiés axés sur la famille.",
+      "category": "Other",
       "website": "https://griddownsurvive.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T18:15:30.141832+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T19:39:40.011536+00:00"
     },
     {
       "name": "Sagewater",
@@ -223345,10 +223363,93 @@
     {
       "name": "ALK",
       "slug": "polsia-alk",
+      "description": "ALK is Wamiri Inc.’s modular, context-aware operating system for finance, operations, insurance, and pensions in emerging markets.",
+      "description_fr": "ALK est le système d'exploitation modulaire et contextuel de Wamiri Inc. pour la finance, les opérations, les assurances et les retraites sur les marchés émergents.",
+      "category": "Other",
       "website": "https://alk.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T19:39:42.233839+00:00"
+    },
+    {
+      "name": "MyBondNow",
+      "slug": "polsia-mybondnow",
+      "website": "https://mybondnow.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-02T18:15:51.748760+00:00"
+      "scraped_at": "2026-08-02T19:38:39.384608+00:00"
+    },
+    {
+      "name": "Nachtfeder",
+      "slug": "polsia-nachtfeder",
+      "website": "https://nachtfeder.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T19:38:40.220753+00:00"
+    },
+    {
+      "name": "Wayfaring Cup",
+      "slug": "polsia-wayfaring-cup",
+      "website": "https://wayfaring-cup.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T19:38:40.937348+00:00"
+    },
+    {
+      "name": "Iconic Web Creations",
+      "slug": "polsia-iconic-web-creations",
+      "website": "https://iconic-web-creations.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T19:38:46.592776+00:00"
+    },
+    {
+      "name": "Horntide",
+      "slug": "polsia-horntide",
+      "website": "https://horntide.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T19:38:47.328443+00:00"
+    },
+    {
+      "name": "FunnelWatch",
+      "slug": "polsia-funnelwatch",
+      "website": "https://funnelwatch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T19:38:52.698993+00:00"
+    },
+    {
+      "name": "Topograph",
+      "slug": "polsia-topograph",
+      "website": "https://topograph.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T19:38:58.116806+00:00"
+    },
+    {
+      "name": "PaieCashCoin",
+      "slug": "polsia-paiecashcoin",
+      "website": "https://paiecashcoin.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T19:39:03.514103+00:00"
+    },
+    {
+      "name": "Branchmark",
+      "slug": "polsia-branchmark",
+      "website": "https://branchmark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T19:39:09.150174+00:00"
+    },
+    {
+      "name": "Nightstead",
+      "slug": "polsia-nightstead-5",
+      "website": "https://nightstead-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T19:39:14.725647+00:00"
     }
   ]
 }
