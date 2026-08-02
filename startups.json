@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T15:10:20.857105+00:00",
+  "last_updated": "2026-08-02T16:13:25.083685+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -222946,10 +222946,13 @@
     {
       "name": "LearnHive",
       "slug": "polsia-learnhive-2",
+      "description": "An AI-powered collaborative learning platform for students, educators, and institutions — 21+ adaptive study apps across academic, focus, accessibility, and professional tracks.",
+      "description_fr": "Une plateforme d'apprentissage collaboratif basée sur l'IA pour les étudiants, les enseignants et les institutions : plus de 21 applications d'étude adaptatives dans les filières académiques, ciblées, d'accessibilité et professionnelles.",
+      "category": "Education",
       "website": "https://learnhive-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T15:08:26.977495+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T16:12:19.154763+00:00"
     },
     {
       "name": "Foundwell",
@@ -222962,66 +222965,170 @@
     {
       "name": "Plumeline",
       "slug": "polsia-plumeline-9",
+      "description": "AI drafts. Human edits. Every channel covered.",
+      "description_fr": "Brouillons d’IA. Modifications humaines. Chaque chaîne couverte.",
+      "category": "AI & Machine Learning",
       "website": "https://plumeline-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T15:08:28.078474+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T16:12:22.065511+00:00"
     },
     {
       "name": "VegaShares ETFs",
       "slug": "polsia-vegashares-etfs",
+      "description": "Derivatives-driven ETFs for income, precision options exposure, and thematic access. Built in New York. Listed on NYSE Arca.",
+      "description_fr": "ETF axés sur les produits dérivés pour le revenu, l'exposition aux options de précision et l'accès thématique. Construit à New York. Coté sur NYSE Arca.",
+      "category": "Other",
       "website": "https://vegashares-etfs.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T15:08:28.691175+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T16:12:24.329368+00:00"
     },
     {
       "name": "Gullah Tings",
       "slug": "polsia-gullah-tings",
+      "description": "All-natural Gullah Geechee spice blends rooted in Lowcountry heritage — hand-blended in Awendaw, South Carolina, from the recipes of our family matriarchs.",
+      "description_fr": "Mélanges d'épices Gullah Geechee entièrement naturels enracinés dans l'héritage du Lowcountry — mélangés à la main à Awendaw, en Caroline du Sud, à partir des recettes de nos matriarches familiales.",
+      "category": "Food & Beverage",
       "website": "https://gullah-tings.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T15:08:34.139780+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T16:12:26.141796+00:00"
     },
     {
       "name": "Founddue",
       "slug": "polsia-founddue",
+      "description": "What's owed to you, found and returned.",
+      "description_fr": "Ce qui vous est dû, retrouvé et restitué.",
+      "category": "Other",
       "website": "https://founddue.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T15:08:39.518575+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T16:12:28.075924+00:00"
     },
     {
       "name": "VestNyoU",
       "slug": "polsia-vestnyou",
+      "description": "A Chicago-based crowdfunding platform that redevelops underinvested neighborhoods into shared community wealth — one rehabbed property at a time.",
+      "description_fr": "Une plateforme de financement participatif basée à Chicago qui réaménage des quartiers sous-investis en richesse communautaire partagée – une propriété réhabilitée à la fois.",
+      "category": "Software & SaaS",
       "website": "https://vestnyou.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T15:08:45.082940+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T16:12:30.197112+00:00"
     },
     {
       "name": "Lois Berg",
       "slug": "polsia-lois-berg",
+      "description": "Independent Nashville alt-country singer-songwriter selling records and merch direct to fans on Bandcamp.",
+      "description_fr": "Auteur-compositeur-interprète indépendant de country alternatif de Nashville vendant des disques et des produits dérivés directement aux fans sur Bandcamp.",
+      "category": "Sustainability & Green",
       "website": "https://lois-berg.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T15:08:50.501013+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T16:12:31.268900+00:00"
     },
     {
       "name": "Sortilej",
       "slug": "polsia-sortilej",
+      "description": "Pattern mining and weighted picks for WA Lotto 6/49 — a free PWA that ranks hot and cold numbers, tracks overdue splits, and generates pattern-aware combinations.",
+      "description_fr": "Exploration de modèles et choix pondérés pour WA Lotto 6/49 — une PWA gratuite qui classe les numéros chauds et froids, suit les divisions en retard et génère des combinaisons sensibles aux modèles.",
+      "category": "Other",
       "website": "https://sortilej.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T15:08:56.091103+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T16:12:33.006635+00:00"
     },
     {
       "name": "Docketfox",
       "slug": "polsia-docketfox-3",
+      "description": "AI agents that hunt carrier overcharges — and file the refund before the window closes. Built for high-volume shippers on UPS, FedEx, USPS, and DHL.",
+      "description_fr": "Des agents IA qui traquent les surfacturations des transporteurs et effectuent le remboursement avant la fermeture de la fenêtre. Conçu pour les expéditeurs de gros volumes sur UPS, FedEx, USPS et DHL.",
+      "category": "AI & Machine Learning",
       "website": "https://docketfox-3.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T16:12:34.574193+00:00"
+    },
+    {
+      "name": "Steadyward",
+      "slug": "polsia-steadyward-2",
+      "website": "https://steadyward-2.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-02T15:09:01.500318+00:00"
+      "scraped_at": "2026-08-02T16:11:28.282877+00:00"
+    },
+    {
+      "name": "Mesquite Stewards",
+      "slug": "polsia-mesquite-stewards",
+      "website": "https://mesquite-stewards.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T16:11:29.155032+00:00"
+    },
+    {
+      "name": "Fixward",
+      "slug": "polsia-fixward",
+      "website": "https://fixward.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T16:11:29.838009+00:00"
+    },
+    {
+      "name": "Merlon",
+      "slug": "polsia-merlon-5",
+      "website": "https://merlon-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T16:11:30.600800+00:00"
+    },
+    {
+      "name": "Plumfox",
+      "slug": "polsia-plumfox",
+      "website": "https://plumfox.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T16:11:36.253378+00:00"
+    },
+    {
+      "name": "Bellwether",
+      "slug": "polsia-bellwether-3",
+      "website": "https://bellwether-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T16:11:41.810319+00:00"
+    },
+    {
+      "name": "Stavewell",
+      "slug": "polsia-stavewell-2",
+      "website": "https://stavewell-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T16:11:47.512684+00:00"
+    },
+    {
+      "name": "Mettlebench",
+      "slug": "polsia-mettlebench",
+      "website": "https://mettlebench.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T16:11:52.918309+00:00"
+    },
+    {
+      "name": "Hookspan",
+      "slug": "polsia-hookspan",
+      "website": "https://hookspan.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T16:11:58.290075+00:00"
+    },
+    {
+      "name": "Acrefield",
+      "slug": "polsia-acrefield",
+      "website": "https://acrefield.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T16:12:03.935940+00:00"
     }
   ]
 }
