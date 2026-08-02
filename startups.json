@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T22:35:25.197364+00:00",
+  "last_updated": "2026-08-02T23:38:11.824812+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -220939,10 +220939,13 @@
     {
       "name": "Veilcast",
       "slug": "polsia-veilcast-6",
+      "description": "Run a faceless content-to-product funnel — from a phone, no face required. A mobile studio for solo creators.",
+      "description_fr": "Exécutez un entonnoir de contenu vers produit sans visage – à partir d’un téléphone, aucun visage requis. Un studio mobile pour les créateurs solo.",
+      "category": "Entertainment & Media",
       "website": "https://veilcast-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-01T10:59:10.208691+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T23:37:05.801931+00:00"
     },
     {
       "name": "Dromeas",
@@ -223704,18 +223707,24 @@
     {
       "name": "SerpProxies",
       "slug": "polsia-serpproxies",
+      "description": "Ethically sourced proxy network built for SERP tracking, scraping and bot operators. Nine formats. One gateway. 50M+ residential IPs across 195+ countries.",
+      "description_fr": "Réseau proxy d'origine éthique conçu pour les opérateurs de suivi, de scraping et de robots SERP. Neuf formats. Une passerelle. Plus de 50 millions d’adresses IP résidentielles dans plus de 195 pays.",
+      "category": "Software & SaaS",
       "website": "https://serpproxies.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T22:33:30.768901+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T23:37:14.196502+00:00"
     },
     {
       "name": "Tallymark",
       "slug": "polsia-tallymark-wuzloa",
+      "description": "Done-for-you AI ops for local service businesses. Chatbots, SOPs, scripts, email & SMS, and content calendars — installed in your tools, tuned to your voice, refreshed every month.",
+      "description_fr": "Opérations d'IA faites pour vous pour les entreprises de services locales. Chatbots, SOP, scripts, e-mails et SMS et calendriers de contenu — installés dans vos outils, adaptés à votre voix, actualisés chaque mois.",
+      "category": "AI & Machine Learning",
       "website": "https://tallymark-wuzloa.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T22:33:31.285887+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T23:37:15.575926+00:00"
     },
     {
       "name": "PracticeLoop AI",
@@ -223728,10 +223737,13 @@
     {
       "name": "Svorka",
       "slug": "polsia-svorka",
+      "description": "Svorka encodes an emergency contact path into the barcodes you already carry — wallet cards, luggage tags, phone stickers — so any first responder can reach your family with a single swipe of their scanner.",
+      "description_fr": "Svorka encode un chemin de contact d'urgence dans les codes-barres que vous portez déjà (cartes de portefeuille, étiquettes de bagages, autocollants de téléphone) afin que tout premier intervenant puisse joindre votre famille d'un simple glissement de son scanner.",
+      "category": "Finance & Fintech",
       "website": "https://svorka.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T22:33:42.299739+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T23:37:22.797431+00:00"
     },
     {
       "name": "Marginmason",
@@ -223752,26 +223764,127 @@
     {
       "name": "Anvilmark",
       "slug": "polsia-anvilmark-4",
+      "description": "American-built patriotic apparel. Cut, sewn, and printed on American soil — one steady core SKU, premium $30–$45 band, headed into America’s 250th.",
+      "description_fr": "Vêtements patriotiques de fabrication américaine. Coupé, cousu et imprimé sur le sol américain – un SKU de base stable, une bande premium de 30 $ à 45 $, en route vers le 250e anniversaire des États-Unis.",
+      "category": "Other",
       "website": "https://anvilmark-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T22:33:53.823366+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T23:37:34.617056+00:00"
     },
     {
       "name": "Mokete",
       "slug": "polsia-mokete",
+      "description": "AI ops on autopilot for the two-person festival team in Southern Africa — sponsors, artists, reconciliations and weekly briefs, handled.",
+      "description_fr": "L'IA fonctionne sur pilote automatique pour l'équipe de deux personnes du festival en Afrique australe : sponsors, artistes, rapprochements et briefs hebdomadaires, gérés.",
+      "category": "AI & Machine Learning",
       "website": "https://mokete.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-02T22:33:59.478331+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-02T23:37:35.362229+00:00"
     },
     {
       "name": "S.A.R.A.H.'s Place",
       "slug": "polsia-sarahs-place",
+      "description": "Seeking Action, Raising Awareness & Hope for Bayou Region families facing addiction.",
+      "description_fr": "Rechercher de l'action, sensibiliser et donner de l'espoir aux familles de la région du Bayou confrontées à la dépendance.",
+      "category": "Other",
       "website": "https://sarahs-place.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T23:37:36.910224+00:00"
+    },
+    {
+      "name": "Hejji",
+      "slug": "polsia-hejji",
+      "website": "https://hejji.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-02T22:34:04.816508+00:00"
+      "scraped_at": "2026-08-02T23:36:10.948930+00:00"
+    },
+    {
+      "name": "Trovekin",
+      "slug": "polsia-trovekin-3",
+      "website": "https://trovekin-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T23:36:16.466679+00:00"
+    },
+    {
+      "name": "Bakehive",
+      "slug": "polsia-bakehive",
+      "website": "https://bakehive.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T23:36:21.943676+00:00"
+    },
+    {
+      "name": "Owldeck",
+      "slug": "polsia-owldeck",
+      "website": "https://owldeck.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T23:36:27.295310+00:00"
+    },
+    {
+      "name": "Clearview Screens LLC",
+      "slug": "polsia-clearview-screens-llc",
+      "description": "Locally owned screen and aluminum contractor for pool cages, lanais and enclosures in Manatee & Sarasota counties.",
+      "description_fr": "Entrepreneur local en matière d'écrans et d'aluminium pour les cages, les vérandas et les enclos de piscine dans les comtés de Manatee et Sarasota.",
+      "category": "Other",
+      "website": "https://clearview-screens-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T23:37:59.317910+00:00"
+    },
+    {
+      "name": "Harvesttime Ministries Worldwide",
+      "slug": "polsia-harvesttime-ministries-worldwide",
+      "description": "Pioneering global humanitarian funding through the Inverted Financial Model. 501(c)(3) operating across four continents since 2010.",
+      "description_fr": "Pionnier du financement humanitaire mondial grâce au modèle financier inversé. 501(c)(3) opérant sur quatre continents depuis 2010.",
+      "category": "Finance & Fintech",
+      "website": "https://harvesttime-ministries-worldwide.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T23:38:00.038300+00:00"
+    },
+    {
+      "name": "Plinthcraft",
+      "slug": "polsia-plinthcraft-4",
+      "description": "Premium content for the trades behind Australia's finest homes. A social-media and content studio for buyer's agents, luxury builders and renovators, landscapers, and interior and exterior designers.",
+      "description_fr": "Contenu premium pour les métiers derrière les plus belles maisons d'Australie. Un studio de médias sociaux et de contenu pour les agents d'achat, les constructeurs et rénovateurs de luxe, les paysagistes et les designers d'intérieur et d'extérieur.",
+      "category": "Entertainment & Media",
+      "website": "https://plinthcraft-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T23:36:44.366135+00:00"
+    },
+    {
+      "name": "Claimwright",
+      "slug": "polsia-claimwright-68l8kd",
+      "website": "https://claimwright-68l8kd.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T23:36:50.046061+00:00"
+    },
+    {
+      "name": "Codeweft",
+      "slug": "polsia-codeweft",
+      "website": "https://codeweft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-02T23:36:55.493043+00:00"
+    },
+    {
+      "name": "Trailmark",
+      "slug": "polsia-trailmark-orv46w",
+      "description": "Subscriptions find you. We send them back — with a weekly savings report.",
+      "description_fr": "Les abonnements vous trouvent. Nous les renvoyons – avec un rapport d’épargne hebdomadaire.",
+      "category": "Other",
+      "website": "https://trailmark-orv46w.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-02T23:38:11.823532+00:00"
     }
   ]
 }
