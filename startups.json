@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T21:34:04.757593+00:00",
+  "last_updated": "2026-08-03T22:38:23.937791+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -224772,34 +224772,46 @@
     {
       "name": "Cloudshear",
       "slug": "polsia-cloudshear",
+      "description": "The always-on FinOps agent that trims waste and commits reservations across AWS, GCP, and Azure — kills idle resources, right-sizes compute, locks in 38–42% reserved-instance discounts, sends finance a weekly dollar digest.",
+      "description_fr": "L'agent FinOps toujours actif qui réduit le gaspillage et valide les réservations sur AWS, GCP et Azure — tue les ressources inutilisées, dimensionne correctement le calcul, verrouille des remises sur les instances réservées de 38 à 42 % et envoie aux finances un résumé hebdomadaire en dollars.",
+      "category": "Other",
       "website": "https://cloudshear.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T21:32:07.696761+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T22:37:36.881792+00:00"
     },
     {
       "name": "Keycoda",
       "slug": "polsia-keycoda",
+      "description": "Keycoda is the AI-native virtual host for short-term rentals. One agent loop handles inbox, pricing, crews, and reviews — you wake up to a daily brief.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://keycoda.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T21:32:08.349619+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T22:37:37.702135+00:00"
     },
     {
       "name": "Hearthkit",
       "slug": "polsia-hearthkit-3",
+      "description": "Reliable residential cleaning, on your terms — 15-minute arrival windows, photo-verified cleans, free re-cleans within 24 hours.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://hearthkit-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T21:32:08.933764+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T22:37:38.641877+00:00"
     },
     {
       "name": "Caustell",
       "slug": "polsia-caustell",
+      "description": "The always-on AI control room for hazardous plants. Caustell fuses live SCADA, DCS, and historian streams with incident history and operating manuals, surfacing only the alarms that warrant a board operator and packaging each with a prioritised remediation playbook.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://caustell.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T21:32:09.456932+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T22:37:39.486407+00:00"
     },
     {
       "name": "PullPress",
@@ -224812,34 +224824,46 @@
     {
       "name": "HearthTalk",
       "slug": "polsia-hearthtalk",
+      "description": "An English tutor that's awake when your kids are — and reports home every week.",
+      "description_fr": "",
+      "category": "Education",
       "website": "https://hearthtalk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T21:32:20.284524+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T22:37:40.846072+00:00"
     },
     {
       "name": "Rehawk",
       "slug": "polsia-rehawk",
+      "description": "The always-on deal-hunting agent across Craigslist, Facebook Marketplace, OfferUp, eBay, Kijiji, Gumtree, and Nextdoor. Scores every new listing against fair-market comps, negotiates inside your ceiling, and routes a one-tap pickup approval to your phone.",
+      "description_fr": "",
+      "category": "E-Commerce & Retail",
       "website": "https://rehawk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T21:32:25.854814+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T22:37:41.656734+00:00"
     },
     {
       "name": "Signetbrief",
       "slug": "polsia-signetbrief",
+      "description": "Always-on SEC Form 4 watcher. Get a plain-English weekly briefing on insider buys, sells, and clusters — in your inbox before the market opens.",
+      "description_fr": "",
+      "category": "Newsletter & Email",
       "website": "https://signetbrief.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T21:32:31.190502+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T22:37:42.515733+00:00"
     },
     {
       "name": "Wattward",
       "slug": "polsia-wattward-4",
+      "description": "Always-on AI operations for small commercial rooftop solar and battery installations (10 kW–500 kW). Wattward classifies panel and inverter faults in minutes, opens structured maintenance tickets with your O&M installer, and ships a clean daily production-and-savings report to every property owner.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://wattward-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T21:32:36.566604+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T22:37:43.337459+00:00"
     },
     {
       "name": "Verdcrate",
@@ -224848,6 +224872,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-08-03T21:32:42.309055+00:00"
+    },
+    {
+      "name": "Tollvault",
+      "slug": "polsia-tollvault",
+      "website": "https://tollvault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T22:36:30.623362+00:00"
+    },
+    {
+      "name": "Wattloom",
+      "slug": "polsia-wattloom",
+      "website": "https://wattloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T22:36:36.323973+00:00"
+    },
+    {
+      "name": "bill2go",
+      "slug": "polsia-bill2go",
+      "website": "https://bill2go.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T22:36:36.998140+00:00"
+    },
+    {
+      "name": "Nightrail",
+      "slug": "polsia-nightrail-2",
+      "website": "https://nightrail-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T22:36:37.759137+00:00"
+    },
+    {
+      "name": "Caltrix",
+      "slug": "polsia-caltrix-5",
+      "website": "https://caltrix-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T22:36:38.405737+00:00"
+    },
+    {
+      "name": "Kutral",
+      "slug": "polsia-kutral-2",
+      "website": "https://kutral-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T22:36:44.136899+00:00"
+    },
+    {
+      "name": "Cinderloom",
+      "slug": "polsia-cinderloom-4",
+      "website": "https://cinderloom-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T22:36:45.464586+00:00"
+    },
+    {
+      "name": "Lapline",
+      "slug": "polsia-lapline-2",
+      "website": "https://lapline-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T22:36:50.994828+00:00"
+    },
+    {
+      "name": "Pavélys",
+      "slug": "polsia-pavlys",
+      "website": "https://pavlys.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T22:36:56.367254+00:00"
+    },
+    {
+      "name": "Mythloom",
+      "slug": "polsia-mythloom-4",
+      "website": "https://mythloom-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T22:37:06.887110+00:00"
     }
   ]
 }
