@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T16:41:59.001740+00:00",
+  "last_updated": "2026-08-03T18:28:33.354992+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -224454,26 +224454,35 @@
     {
       "name": "Auction House International",
       "slug": "polsia-auction-house-international",
+      "description": "Global silent-auction marketplace for luxury real estate and high-value assets — 0% seller fees, 10% buyer premium.",
+      "description_fr": "Marché mondial d'enchères silencieuses pour l'immobilier de luxe et les actifs de grande valeur : 0 % de frais de vente, 10 % de prime pour l'acheteur.",
+      "category": "E-Commerce & Retail",
       "website": "https://auction-house-international.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T16:39:55.453878+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T18:27:16.220041+00:00"
     },
     {
       "name": "Anvil & Axle Co.",
       "slug": "polsia-anvil-axle-co",
+      "description": "Roadside rescue, mobile mechanic, and junk gone — one call, one truck. Local, independent, flat-priced.",
+      "description_fr": "Sauvetage routier, mécanicien mobile et déchets disparus : un appel, un camion. Local, indépendant, au forfait.",
+      "category": "Other",
       "website": "https://anvil-axle-co.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T16:39:56.036275+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T18:27:18.473556+00:00"
     },
     {
       "name": "Bailey's White Lion Enterprises",
       "slug": "polsia-baileys-white-lion-enterprises",
+      "description": "Family-owned SWFL contractor for land clearing, demolition, excavation, and 24/7 storm response. Owned fleet. Free written estimates.",
+      "description_fr": "Entrepreneur familial SWFL pour le défrichement, la démolition, l'excavation et l'intervention en cas de tempête 24h/24 et 7j/7. Flotte en propriété. Estimations écrites gratuites.",
+      "category": "Logistics & Supply Chain",
       "website": "https://baileys-white-lion-enterprises.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T16:40:01.513047+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T18:27:20.395338+00:00"
     },
     {
       "name": "Solcraft",
@@ -224494,42 +224503,137 @@
     {
       "name": "Cronhawk",
       "slug": "polsia-cronhawk",
+      "description": "Lint fixes, vuln patches, and stale-issue triage — one tidy PR each morning.",
+      "description_fr": "Corrections de charpie, correctifs de vulnérabilités et triage des problèmes obsolètes : un PR bien rangé chaque matin.",
+      "category": "Other",
       "website": "https://cronhawk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T16:40:07.873627+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T18:27:28.418134+00:00"
     },
     {
       "name": "Lotloom",
       "slug": "polsia-lotloom-9",
+      "description": "Lotloom is the AI-native operations platform that gives big-box retailers one screen to watch every store they operate — autonomous vision agents patrol lots, bays, and aisles, while shelf agents stream SKU-level inventory into a single shift-paced workflow.",
+      "description_fr": "Lotloom est la plate-forme opérationnelle native d'IA qui offre aux grands détaillants un écran pour surveiller chaque magasin qu'ils exploitent : des agents de vision autonomes patrouillent dans les lots, les baies et les allées, tandis que les agents en rayon diffusent l'inventaire au niveau des SKU dans un flux de travail unique, au rythme des équipes.",
+      "category": "E-Commerce & Retail",
       "website": "https://lotloom-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T16:40:13.199862+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T18:27:29.759618+00:00"
     },
     {
       "name": "Brimlock",
       "slug": "polsia-brimlock",
+      "description": "Autonomous 24/7 SOC-grade incident response, priced for SMBs. MITRE-mapped triage, auto-containment, and audit-ready forensic reports — per endpoint, transparent pricing.",
+      "description_fr": "Réponse autonome aux incidents de qualité SOC 24h/24 et 7j/7, tarifée pour les PME. Triage cartographié MITRE, confinement automatique et rapports médico-légaux prêts à être audités — par point final, tarification transparente.",
+      "category": "Real Estate",
       "website": "https://brimlock.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T16:40:18.649292+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T18:27:31.278512+00:00"
     },
     {
       "name": "Draftpost",
       "slug": "polsia-draftpost-2",
+      "description": "Draftpost is a 24/7 customer-support triage agent for small independent e-commerce stores. Every ticket drafted, only the rare one escalates.",
+      "description_fr": "Draftpost est un agent de tri d'assistance client 24h/24 et 7j/7 pour les petits magasins de commerce électronique indépendants. Chaque ticket rédigé, seul le rare dégénère.",
+      "category": "E-Commerce & Retail",
       "website": "https://draftpost-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T16:40:23.945762+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T18:27:32.587114+00:00"
     },
     {
       "name": "Linchpost",
       "slug": "polsia-linchpost-3",
+      "description": "Linchpost is the 24/7 AI watchdog for your SaaS stack. It catches stalled leads, drafts the follow-up, and posts the Slack update — inside policy you approve up front.",
+      "description_fr": "Linchpost est le chien de garde de l'IA 24h/24 et 7j/7 pour votre pile SaaS. Il détecte les pistes bloquées, rédige le suivi et publie la mise à jour de Slack – dans le cadre de la politique que vous approuvez dès le départ.",
+      "category": "AI & Machine Learning",
       "website": "https://linchpost-3.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-03T18:27:33.810255+00:00"
+    },
+    {
+      "name": "Madhukunj",
+      "slug": "polsia-madhukunj",
+      "website": "https://madhukunj.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-03T16:40:29.405310+00:00"
+      "scraped_at": "2026-08-03T18:26:18.729059+00:00"
+    },
+    {
+      "name": "Decernyx",
+      "slug": "polsia-decernyx",
+      "website": "https://decernyx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T18:26:19.568928+00:00"
+    },
+    {
+      "name": "Cadeloop",
+      "slug": "polsia-cadeloop",
+      "website": "https://cadeloop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T18:26:20.270833+00:00"
+    },
+    {
+      "name": "Veteran Business Capital",
+      "slug": "polsia-veteran-business-capital",
+      "website": "https://veteran-business-capital.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T18:26:25.875170+00:00"
+    },
+    {
+      "name": "Genshot",
+      "slug": "polsia-genshot",
+      "website": "https://genshot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T18:26:31.520162+00:00"
+    },
+    {
+      "name": "Permitline",
+      "slug": "polsia-permitline-2",
+      "website": "https://permitline-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T18:26:37.117612+00:00"
+    },
+    {
+      "name": "Hushdrop",
+      "slug": "polsia-hushdrop-3",
+      "website": "https://hushdrop-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T18:26:37.804641+00:00"
+    },
+    {
+      "name": "Vaultward",
+      "slug": "polsia-vaultward",
+      "website": "https://vaultward.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T18:26:43.329754+00:00"
+    },
+    {
+      "name": "Epipile",
+      "slug": "polsia-epipile",
+      "website": "https://epipile.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T18:26:48.649841+00:00"
+    },
+    {
+      "name": "Marksmith",
+      "slug": "polsia-marksmith-4",
+      "website": "https://marksmith-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T18:26:49.350433+00:00"
     }
   ]
 }
