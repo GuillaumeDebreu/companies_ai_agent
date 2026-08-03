@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T02:52:40.705297+00:00",
+  "last_updated": "2026-08-03T04:51:44.675624+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -223907,74 +223907,101 @@
     {
       "name": "Hawkpost",
       "slug": "polsia-hawkpost-9",
+      "description": "Cameras, door logs, and OSHA-ready incident reports watched 24/7 by AI that never sleeps — built for the lumber yard, auto shop, warehouse, restaurant group, and dispensary that already runs cameras but still pays a guard.",
+      "description_fr": "Caméras, journaux de porte et rapports d'incidents prêts pour l'OSHA surveillés 24 heures sur 24 et 7 jours sur 7 par une IA qui ne dort jamais – conçus pour les parcs à bois, les ateliers automobiles, les entrepôts, les groupes de restaurants et les dispensaires qui utilisent déjà des caméras mais qui paient toujours un garde.",
+      "category": "AI & Machine Learning",
       "website": "https://hawkpost-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T01:13:12.527408+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T04:50:44.707864+00:00"
     },
     {
       "name": "Opsy",
       "slug": "polsia-opsy-4",
+      "description": "Opsy is an AI agent that runs the Italian accounts-payable cycle end-to-end. It ingests supplier emails, reconciles PO, OC, DDT and invoices against your records, and proposes corrections for your purchasing operator to approve.",
+      "description_fr": "Opsy est un agent IA qui gère de bout en bout le cycle des comptes créditeurs italiens. Il ingère les e-mails des fournisseurs, rapproche les bons de commande, les OC, les DDT et les factures avec vos dossiers et propose des corrections à approuver par votre opérateur d'achat.",
+      "category": "AI & Machine Learning",
       "website": "https://opsy-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T01:13:13.315760+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T04:50:45.760593+00:00"
     },
     {
       "name": "PivotKeep",
       "slug": "polsia-pivotkeep",
+      "description": "An always-on AI control plane for Kafka, Postgres, Kubernetes, and Etcd. Rebalances brokers, rotates credentials, ships CVE patches — and only wakes a human on a real anomaly.",
+      "description_fr": "Un plan de contrôle d'IA toujours actif pour Kafka, Postgres, Kubernetes et Etcd. Rééquilibre les courtiers, alterne les informations d'identification, envoie les correctifs CVE et ne réveille un humain qu'en cas d'anomalie réelle.",
+      "category": "AI & Machine Learning",
       "website": "https://pivotkeep.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T01:13:14.381230+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T04:50:47.412531+00:00"
     },
     {
       "name": "Morselcast",
       "slug": "polsia-morselcast",
+      "description": "Every morning, one text: cook in, order in, or eat out. An always-on AI meal concierge that fuses neighborhood reviews, live delivery prices, grocery flyers, and reservations into one confident verdict.",
+      "description_fr": "Chaque matin, un SMS : cuisiner sur place, commander ou manger au restaurant. Un concierge de repas IA toujours actif qui fusionne les avis du quartier, les prix de livraison en direct, les dépliants d'épicerie et les réservations en un seul verdict confiant.",
+      "category": "AI & Machine Learning",
       "website": "https://morselcast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T01:13:19.853043+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T04:50:49.189502+00:00"
     },
     {
       "name": "Quorumhaus",
       "slug": "polsia-quorumhaus",
+      "description": "The always-on multi-agent operating system for 100–500+ unit rental portfolios.",
+      "description_fr": "Le système d'exploitation multi-agents toujours actif pour les portefeuilles de location de plus de 100 à 500 unités.",
+      "category": "Travel & Hospitality",
       "website": "https://quorumhaus.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T01:13:25.334456+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T04:50:50.133526+00:00"
     },
     {
       "name": "Crewwright",
       "slug": "polsia-crewwright-2jhdb1",
+      "description": "The 24/7 AI crew that runs your trades business end-to-end — answering calls, quoting from your price book, booking jobs, chasing invoices, and posting the weekly revenue report.",
+      "description_fr": "L'équipe d'IA 24h/24 et 7j/7 qui gère votre activité commerciale de bout en bout : répond aux appels, indique vos tarifs, réserve des travaux, suit les factures et publie le rapport hebdomadaire sur les revenus.",
+      "category": "AI & Machine Learning",
       "website": "https://crewwright-2jhdb1.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T01:13:25.894616+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T04:50:51.266069+00:00"
     },
     {
       "name": "RemoveWise",
       "slug": "polsia-removewise",
+      "description": "Attorney-led deepfake and impersonation removal for public figures, ministries, and creators. Continuous first-party takedown notices filed by a licensed California attorney.",
+      "description_fr": "Suppression des deepfakes et des usurpations d'identité dirigée par un avocat pour les personnalités publiques, les ministères et les créateurs. Avis de retrait continus de première partie déposés par un avocat californien agréé.",
+      "category": "Other",
       "website": "https://removewise.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T01:13:31.300756+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T04:50:52.197935+00:00"
     },
     {
       "name": "SpokeHaggle",
       "slug": "polsia-spokehaggle",
+      "description": "SpokeHaggle is a price-comparison marketplace for aftermarket vehicle parts. Drivers, DIYers, and independent repair shops enter year, make, model, and part category; we line up equivalent SKUs from hundreds of verified suppliers by landed cost, fitment, shipping, and lead time. The cheapest compatible option shows up first; listings re-crawl continuously so prices never go stale.",
+      "description_fr": "SpokeHaggle est un marché de comparaison de prix pour les pièces détachées automobiles. Les conducteurs, les bricoleurs et les ateliers de réparation indépendants saisissent l'année, la marque, le modèle et la catégorie de pièce ; nous alignons les SKU équivalents provenant de centaines de fournisseurs vérifiés par coût au débarquement, montage, expédition et délai de livraison. L’option compatible la moins chère apparaît en premier ; les annonces sont réexplorées en permanence afin que les prix ne deviennent jamais obsolètes.",
+      "category": "E-Commerce & Retail",
       "website": "https://spokehaggle.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T01:13:36.898460+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T04:50:53.634316+00:00"
     },
     {
       "name": "Vaultloom",
       "slug": "polsia-vaultloom",
+      "description": "AI agents that tend your small crypto portfolio while you sleep. Non-custodial, API-mediated rebalancing with a plain-English daily P&L summary over Telegram or email.",
+      "description_fr": "Des agents d'IA qui s'occupent de votre petit portefeuille de cryptographie pendant que vous dormez. Rééquilibrage non dépositaire, via l'API, avec un résumé quotidien des résultats en anglais simple par télégramme ou par e-mail.",
+      "category": "AI & Machine Learning",
       "website": "https://vaultloom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-03T01:13:42.108561+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-03T04:50:55.046303+00:00"
     },
     {
       "name": "Platmark",
@@ -223986,6 +224013,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-03T01:15:04.390177+00:00"
+    },
+    {
+      "name": "Roostsmith",
+      "slug": "polsia-roostsmith",
+      "website": "https://roostsmith.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T04:49:53.207167+00:00"
+    },
+    {
+      "name": "Aur3um.boutique",
+      "slug": "polsia-aur3umboutique",
+      "website": "https://aur3umboutique.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T04:49:53.746941+00:00"
+    },
+    {
+      "name": "Praxishaus",
+      "slug": "polsia-praxishaus",
+      "website": "https://praxishaus.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T04:49:54.330103+00:00"
+    },
+    {
+      "name": "Seabright Pool Care",
+      "slug": "polsia-seabright-pool-care",
+      "website": "https://seabright-pool-care.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T04:49:59.719620+00:00"
+    },
+    {
+      "name": "Barbench",
+      "slug": "polsia-barbench",
+      "website": "https://barbench.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T04:50:00.377101+00:00"
+    },
+    {
+      "name": "SaaRiya",
+      "slug": "polsia-saariya",
+      "website": "https://saariya.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T04:50:00.883582+00:00"
+    },
+    {
+      "name": "Skrimr",
+      "slug": "polsia-skrimr",
+      "website": "https://skrimr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T04:50:11.266813+00:00"
+    },
+    {
+      "name": "Counterpulse",
+      "slug": "polsia-counterpulse-9",
+      "website": "https://counterpulse-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T04:50:16.799426+00:00"
+    },
+    {
+      "name": "Wardline",
+      "slug": "polsia-wardline-4",
+      "website": "https://wardline-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T04:50:17.267659+00:00"
+    },
+    {
+      "name": "Foxwick",
+      "slug": "polsia-foxwick",
+      "website": "https://foxwick.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-03T04:50:17.787201+00:00"
     }
   ]
 }
