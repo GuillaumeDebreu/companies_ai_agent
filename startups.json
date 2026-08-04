@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T21:24:45.687474+00:00",
+  "last_updated": "2026-08-04T22:36:06.443663+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -226068,66 +226068,90 @@
     {
       "name": "Riata Watt",
       "slug": "polsia-riata-watt",
+      "description": "Prepaid electricity for Texas — built with operator-grade billing discipline. No deposit, no credit check, REP-certified and ERCOT-registered.",
+      "description_fr": "Électricité prépayée pour le Texas – construite avec une discipline de facturation de niveau opérateur. Pas de dépôt, pas de vérification de crédit, certifié REP et enregistré ERCOT.",
+      "category": "Other",
       "website": "https://riata-watt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T21:22:29.172832+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T22:34:56.765946+00:00"
     },
     {
       "name": "Makersew",
       "slug": "polsia-makersew",
+      "description": "Makersew turns a text prompt into wearable clothing — a photoreal render, editable pattern, and print-ready file, in one flow.",
+      "description_fr": "Makersew transforme une invite de texte en vêtement portable : un rendu photoréaliste, un motif modifiable et un fichier prêt à imprimer, en un seul flux.",
+      "category": "Other",
       "website": "https://makersew.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T21:22:29.961777+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T22:34:58.248162+00:00"
     },
     {
       "name": "Djého",
       "slug": "polsia-djho",
+      "description": "L'expertise comptable française, désormais en ligne à Abidjan — tenue comptable SYSCOHADA, états financiers, déclarations de TVA et liasse fiscale pour entrepreneurs, indépendants et PME en Côte d'Ivoire.",
+      "description_fr": "L'expertise comptable française, désormais en ligne à Abidjan — tenue comptable SYSCOHADA, états financiers, déclarations de TVA et liasse fiscale pour entrepreneurs, indépendants et PME en Côte d'Ivoire.",
+      "category": "Other",
       "website": "https://djho.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T21:22:35.565353+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T22:34:59.621579+00:00"
     },
     {
       "name": "TRABAME",
       "slug": "polsia-trabame",
+      "description": "Panama's vetted marketplace for everyday odd jobs — vetted local help for furniture assembly, repairs, cleaning, errands, and one-off tasks, paid in dollars with in-app escrow.",
+      "description_fr": "Le marché approuvé du Panama pour les petits boulots quotidiens - aide locale approuvée pour l'assemblage de meubles, les réparations, le nettoyage, les courses et les tâches ponctuelles, payée en dollars avec un séquestre intégré à l'application.",
+      "category": "E-Commerce & Retail",
       "website": "https://trabame.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T21:22:41.212563+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T22:35:01.076427+00:00"
     },
     {
       "name": "Lenshalo",
       "slug": "polsia-lenshalo",
+      "description": "Specialist headlight restoration. Factory clarity, on demand — mobile crews, ceramic UV-stable finish, multi-year no-haze warranty.",
+      "description_fr": "Spécialiste de la restauration de phares. Clarté d'usine, sur demande - équipes mobiles, finition en céramique stable aux UV, garantie pluriannuelle sans brume.",
+      "category": "Other",
       "website": "https://lenshalo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T21:22:46.879258+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T22:35:02.433333+00:00"
     },
     {
       "name": "Helmlane",
       "slug": "polsia-helmlane",
+      "description": "Helmlane is an always-on video agency run by a coordinated swarm of agents. Brief to broadcast, around the clock.",
+      "description_fr": "Helmlane est une agence vidéo permanente gérée par un essaim coordonné d'agents. Bref à diffuser, 24 heures sur 24.",
+      "category": "Consulting & Services",
       "website": "https://helmlane.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T21:22:52.465394+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T22:35:04.103556+00:00"
     },
     {
       "name": "Tacrune",
       "slug": "polsia-tacrune",
+      "description": "Books watched 24/7. A plain-English Friday brief in your inbox. Tacrune is the always-on AI finance agent for one-person shops.",
+      "description_fr": "Livres regardés 24h/24 et 7j/7. Un briefing du vendredi en anglais simple dans votre boîte de réception. Tacrune est l'agent financier IA toujours actif pour les magasins individuels.",
+      "category": "AI & Machine Learning",
       "website": "https://tacrune.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T21:22:58.090024+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T22:35:05.886574+00:00"
     },
     {
       "name": "Cadenxa",
       "slug": "polsia-cadenxa",
+      "description": "Cadenxa turns any audio — uploads, voice memos, YouTube links — into clean, editable sheet music in seconds. Polyphonic transcription for working musicians, students, and teachers.",
+      "description_fr": "Cadenxa transforme n'importe quel fichier audio (téléchargements, mémos vocaux, liens YouTube) en partitions claires et modifiables en quelques secondes. Transcription polyphonique pour musiciens en activité, étudiants et enseignants.",
+      "category": "Education",
       "website": "https://cadenxa.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T21:23:03.479885+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T22:35:07.559719+00:00"
     },
     {
       "name": "Kolkana",
@@ -226143,10 +226167,96 @@
     {
       "name": "Haulerband",
       "slug": "polsia-haulerband",
+      "description": "The trucker community where the road connects you.",
+      "description_fr": "La communauté des camionneurs où la route vous relie.",
+      "category": "Marketing & Advertising",
       "website": "https://haulerband.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-04T22:35:09.065160+00:00"
+    },
+    {
+      "name": "Crewwright",
+      "slug": "polsia-crewwright-izs5jc",
+      "website": "https://crewwright-izs5jc.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-04T21:23:14.548738+00:00"
+      "scraped_at": "2026-08-04T22:33:45.664264+00:00"
+    },
+    {
+      "name": "Heap & Hearth",
+      "slug": "polsia-heap-hearth",
+      "website": "https://heap-hearth.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T22:33:51.102343+00:00"
+    },
+    {
+      "name": "Docketfox",
+      "slug": "polsia-docketfox-6",
+      "website": "https://docketfox-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T22:33:51.778289+00:00"
+    },
+    {
+      "name": "Quillroot",
+      "slug": "polsia-quillroot-0lg6sj",
+      "website": "https://quillroot-0lg6sj.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T22:33:57.476259+00:00"
+    },
+    {
+      "name": "Kadensa",
+      "slug": "polsia-kadensa-2",
+      "website": "https://kadensa-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T22:33:58.190147+00:00"
+    },
+    {
+      "name": "Peltreel",
+      "slug": "polsia-peltreel",
+      "website": "https://peltreel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T22:34:03.903601+00:00"
+    },
+    {
+      "name": "Frontclasp",
+      "slug": "polsia-frontclasp",
+      "website": "https://frontclasp.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T22:34:14.357071+00:00"
+    },
+    {
+      "name": "Staylens",
+      "slug": "polsia-staylens-2",
+      "website": "https://staylens-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T22:34:19.885460+00:00"
+    },
+    {
+      "name": "Hearthline",
+      "slug": "polsia-hearthline-wx1j93",
+      "description": "A 24/7 household AI for water and power outages. Watches every municipal feed your family depends on, files the right ticket, and keeps the neighborhood in the loop.",
+      "description_fr": "Une IA domestique 24h/24 et 7j/7 pour les pannes d'eau et d'électricité. Surveille chaque municipalité pour nourrir votre famille, dépose le bon ticket et tient le quartier au courant.",
+      "category": "AI & Machine Learning",
+      "website": "https://hearthline-wx1j93.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-04T22:36:00.950535+00:00"
+    },
+    {
+      "name": "Inkling",
+      "slug": "polsia-inkling-2",
+      "website": "https://inkling-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T22:34:36.079103+00:00"
     }
   ]
 }
