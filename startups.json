@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T14:45:35.199944+00:00",
+  "last_updated": "2026-08-04T16:35:03.385377+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -225631,58 +225631,79 @@
     {
       "name": "Theom",
       "slug": "polsia-theom",
+      "description": "Theom is an AI-native Data Operations Center that runs in-place inside Snowflake and Databricks — classify, monitor, and govern sensitive data without moving it.",
+      "description_fr": "Theom est un centre d'opérations de données natif d'IA qui s'exécute sur place dans Snowflake et Databricks : classifiez, surveillez et gérez les données sensibles sans les déplacer.",
+      "category": "AI & Machine Learning",
       "website": "https://theom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T14:43:34.855862+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T16:33:57.245663+00:00"
     },
     {
       "name": "Tideloop",
       "slug": "polsia-tideloop-3",
+      "description": "The single AI loop for cleaning ops — phone call to rebook, end to end.",
+      "description_fr": "La boucle d'IA unique pour les opérations de nettoyage : appel téléphonique pour modifier la réservation, de bout en bout.",
+      "category": "AI & Machine Learning",
       "website": "https://tideloop-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T14:43:40.336278+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T16:33:58.322358+00:00"
     },
     {
       "name": "Lotgraph",
       "slug": "polsia-lotgraph",
+      "description": "Map every NOI signal before you underwrite. Address-level climate, neighborhood, and parcel risk for multifamily acquisitions.",
+      "description_fr": "Cartographiez chaque signal NOI avant de souscrire. Risques liés au climat, au quartier et aux parcelles au niveau de l'adresse pour les acquisitions multifamiliales.",
+      "category": "Sustainability & Green",
       "website": "https://lotgraph.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T14:43:41.014422+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T16:33:59.267441+00:00"
     },
     {
       "name": "Crewloop",
       "slug": "polsia-crewloop-2",
+      "description": "Your creator business on autopilot. You just hit approve.",
+      "description_fr": "Votre entreprise de création en pilote automatique. Vous venez d'appuyer sur approuver.",
+      "category": "Other",
       "website": "https://crewloop-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T14:43:46.503904+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T16:34:00.383069+00:00"
     },
     {
       "name": "Curbhaul",
       "slug": "polsia-curbhaul-2",
+      "description": "AI-powered last-mile orchestration for small fleets, drivers, and local retailers.",
+      "description_fr": "Orchestration du dernier kilomètre basée sur l'IA pour les petites flottes, les conducteurs et les détaillants locaux.",
+      "category": "AI & Machine Learning",
       "website": "https://curbhaul-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T14:43:51.856767+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T16:34:01.391107+00:00"
     },
     {
       "name": "Marrowquill",
       "slug": "polsia-marrowquill",
+      "description": "Marrowquill — veteran RPG craft meets AI-augmented indie production. Branching dialogue, faction modeling, and authoring tooling refined on shipped AAA titles, licensed to solo developers and small studios.",
+      "description_fr": "Marrowquill : l'artisanat RPG vétéran rencontre la production indépendante augmentée par l'IA. Dialogue de branchement, modélisation de faction et outils de création affinés sur les titres AAA expédiés, sous licence pour les développeurs solo et les petits studios.",
+      "category": "AI & Machine Learning",
       "website": "https://marrowquill.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T14:43:57.407873+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T16:34:02.480764+00:00"
     },
     {
       "name": "Pitkeep",
       "slug": "polsia-pitkeep",
+      "description": "Pitkeep is the round-the-clock agent crew replacing your risk, compliance and CRM shifts — auditable decisions, regulator-ready, MGA · UKGC · GGL · NGCB · NJ.",
+      "description_fr": "Pitkeep est une équipe d'agents 24 heures sur 24 qui remplace vos équipes en matière de risque, de conformité et de CRM : décisions vérifiables, prêtes pour les régulateurs, MGA · UKGC · GGL · NGCB · NJ.",
+      "category": "Sales & CRM",
       "website": "https://pitkeep.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T14:44:02.847897+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T16:34:04.358762+00:00"
     },
     {
       "name": "Vendário",
@@ -225716,6 +225737,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-04T14:44:10.412465+00:00"
+    },
+    {
+      "name": "Wendelzeit",
+      "slug": "polsia-wendelzeit",
+      "website": "https://wendelzeit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T16:32:32.235572+00:00"
+    },
+    {
+      "name": "Trailback",
+      "slug": "polsia-trailback-2",
+      "website": "https://trailback-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T16:32:32.803364+00:00"
+    },
+    {
+      "name": "Plinthfox",
+      "slug": "polsia-plinthfox-2",
+      "website": "https://plinthfox-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T16:32:38.385359+00:00"
+    },
+    {
+      "name": "Pirschpost",
+      "slug": "polsia-pirschpost",
+      "website": "https://pirschpost.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T16:32:43.918446+00:00"
+    },
+    {
+      "name": "Grundværk",
+      "slug": "polsia-grundvrk",
+      "website": "https://grundvrk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T16:32:49.393736+00:00"
+    },
+    {
+      "name": "Kantrad",
+      "slug": "polsia-kantrad",
+      "website": "https://kantrad.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T16:32:54.775349+00:00"
+    },
+    {
+      "name": "Crowquill",
+      "slug": "polsia-crowquill",
+      "website": "https://crowquill.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T16:33:00.110163+00:00"
+    },
+    {
+      "name": "Hearthloom",
+      "slug": "polsia-hearthloom-3vc5er",
+      "website": "https://hearthloom-3vc5er.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T16:33:10.601690+00:00"
+    },
+    {
+      "name": "Pro-Tek Glass & Tint, LLC",
+      "slug": "polsia-pro-tek-glass-tint-llc",
+      "website": "https://pro-tek-glass-tint-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T16:33:15.866630+00:00"
+    },
+    {
+      "name": "Quillwright",
+      "slug": "polsia-quillwright-lilmb5",
+      "website": "https://quillwright-lilmb5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T16:33:21.240194+00:00"
     }
   ]
 }
