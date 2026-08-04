@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T04:31:42.168136+00:00",
+  "last_updated": "2026-08-04T07:19:33.116948+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -225209,12 +225209,15 @@
       "scraped_at": "2026-08-04T04:30:40.931938+00:00"
     },
     {
-      "name": "Catch The Key Inc",
+      "name": "Catch The Key Inc.",
       "slug": "polsia-catch-the-key-inc",
+      "description": "Toronto’s content-driven residential real estate team for buyers, sellers, and renters across the GTA and Greater Golden Horseshoe.",
+      "description_fr": "L'équipe immobilière résidentielle de Toronto axée sur le contenu pour les acheteurs, les vendeurs et les locataires de la région du Grand Toronto et du Grand Golden Horseshoe.",
+      "category": "Real Estate",
       "website": "https://catch-the-key-inc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T04:30:41.847775+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T07:19:12.555765+00:00"
     },
     {
       "name": "Limitless",
@@ -225227,34 +225230,46 @@
     {
       "name": "Powdersmith",
       "slug": "polsia-powdersmith",
+      "description": "Distilled character, powdered convenience. A craft lineup of single-serve powdered spirits for adults 21+ — drop a sachet into water and pour a full-flavored drink in seconds.",
+      "description_fr": "Caractère distillé, commodité poudrée. Une gamme artisanale de spiritueux en poudre en portion individuelle pour les adultes de 21 ans et plus : déposez un sachet dans l'eau et versez une boisson pleine de saveur en quelques secondes.",
+      "category": "Sustainability & Green",
       "website": "https://powdersmith.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T04:30:43.341243+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T07:19:15.163472+00:00"
     },
     {
       "name": "Express Auto Detailing",
       "slug": "polsia-express-auto-detailing",
+      "description": "Premium mobile auto detailing in the Triangle, NC — ceramic coating, PPF, and paint correction brought to your door.",
+      "description_fr": "Détails automobiles mobiles haut de gamme dans le Triangle, Caroline du Nord - revêtement céramique, PPF et correction de peinture apportés à votre porte.",
+      "category": "Other",
       "website": "https://express-auto-detailing.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T04:30:44.018056+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T07:19:16.569515+00:00"
     },
     {
       "name": "Velumière",
       "slug": "polsia-velumire",
+      "description": "Velumière — an invitation-only design studio pairing brand identity with architectural lighting for private parties, premieres, and multi-day immersive spectacles.",
+      "description_fr": "Velumière — un studio de design sur invitation uniquement associant identité de marque et éclairage architectural pour des soirées privées, des premières et des spectacles immersifs sur plusieurs jours.",
+      "category": "Marketing & Advertising",
       "website": "https://velumire.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T04:30:44.753048+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T07:19:17.796740+00:00"
     },
     {
       "name": "Outflank",
       "slug": "polsia-outflank-2",
+      "description": "AI agents that scout your competitors and brief you on Slack every morning.",
+      "description_fr": "Des agents IA qui surveillent vos concurrents et vous informent sur Slack chaque matin.",
+      "category": "AI & Machine Learning",
       "website": "https://outflank-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T04:30:45.474854+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T07:19:19.248971+00:00"
     },
     {
       "name": "Verthorn",
@@ -225267,18 +225282,107 @@
     {
       "name": "Stillroom",
       "slug": "polsia-stillroom-7",
+      "description": "A home-organizing practice for the heavy chapters — divorce, bereavement, retirement, neurodivergent overwhelm, a long-distance move. Paced to the person, not the contents of your closets.",
+      "description_fr": "Une pratique d'organisation de la maison pour les chapitres lourds – divorce, deuil, retraite, dépassement neurodivergent, déménagement longue distance. Au rythme de la personne, pas du contenu de vos placards.",
+      "category": "Entertainment & Media",
       "website": "https://stillroom-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T04:30:46.809413+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T07:19:21.566909+00:00"
     },
     {
-      "name": "Pilotari",
+      "name": "Pilotari · Solicitar demo",
       "slug": "polsia-pilotari",
+      "description": "Pilotari opera tus campañas en Meta, Google y TikTok con agentes de IA que trabajan 24/7 sobre tu tienda Shopify.",
+      "description_fr": "Pilotez vos campagnes sur Meta, Google et TikTok avec des agents d'IA qui travaillent 24h/24 et 7j/7 sur votre boutique Shopify.",
+      "category": "E-Commerce & Retail",
       "website": "https://pilotari.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-04T07:19:23.243698+00:00"
+    },
+    {
+      "name": "Quillroot",
+      "slug": "polsia-quillroot-n3wri6",
+      "website": "https://quillroot-n3wri6.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-04T04:30:47.432214+00:00"
+      "scraped_at": "2026-08-04T07:18:27.104616+00:00"
+    },
+    {
+      "name": "Tallyhawk",
+      "slug": "polsia-tallyhawk-hl1b2r",
+      "website": "https://tallyhawk-hl1b2r.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T07:18:27.804329+00:00"
+    },
+    {
+      "name": "Playfetti",
+      "slug": "polsia-playfetti",
+      "website": "https://playfetti.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T07:18:28.604925+00:00"
+    },
+    {
+      "name": "Costlark",
+      "slug": "polsia-costlark-2",
+      "website": "https://costlark-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T07:18:29.319992+00:00"
+    },
+    {
+      "name": "Taracea",
+      "slug": "polsia-taracea",
+      "website": "https://taracea.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T07:18:30.048972+00:00"
+    },
+    {
+      "name": "Vidame",
+      "slug": "polsia-vidame",
+      "website": "https://vidame.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T07:18:30.762549+00:00"
+    },
+    {
+      "name": "Kurskern",
+      "slug": "polsia-kurskern-2",
+      "website": "https://kurskern-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T07:18:31.490027+00:00"
+    },
+    {
+      "name": "Vumela Health",
+      "slug": "polsia-vumela-health",
+      "website": "https://vumela-health.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T07:18:32.304701+00:00"
+    },
+    {
+      "name": "Jimmy Q. GAMES",
+      "slug": "polsia-jimmy-q-games",
+      "website": "https://jimmy-q-games.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T07:18:37.816645+00:00"
+    },
+    {
+      "name": "Brelio",
+      "slug": "polsia-brelio",
+      "description": "Find RERA-verified brokers you can actually trust. Search by city, micro-locality, and language — compare verified past deals side-by-side.",
+      "description_fr": "Trouvez des courtiers vérifiés par RERA en qui vous pouvez réellement faire confiance. Recherchez par ville, micro-localité et langue : comparez côte à côte les offres passées vérifiées.",
+      "category": "Other",
+      "website": "https://brelio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-04T07:18:39.710562+00:00"
     }
   ]
 }
