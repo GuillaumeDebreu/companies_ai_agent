@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T20:04:20.841419+00:00",
+  "last_updated": "2026-08-04T21:24:45.687474+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -225961,26 +225961,35 @@
     {
       "name": "Commandments of Sin",
       "slug": "polsia-commandments-of-sin",
+      "description": "Intentional pleasure, curated as a luxury ritual across the seven deadly sins.",
+      "description_fr": "Un plaisir intentionnel, organisé comme un rituel de luxe à travers les sept péchés capitaux.",
+      "category": "Other",
       "website": "https://commandments-of-sin.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T20:02:04.346982+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T21:23:51.145769+00:00"
     },
     {
       "name": "Couthnote",
       "slug": "polsia-couthnote",
+      "description": "Couthnote is the always-on AI accounts-receivable agent. Polite, persistent, and always on duty — for small businesses, agencies, and solopreneurs.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://couthnote.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T20:02:14.842883+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T21:23:51.883251+00:00"
     },
     {
       "name": "Marketcrate",
       "slug": "polsia-marketcrate-2",
+      "description": "Build a custom share from farms near you.",
+      "description_fr": "Créez un partage personnalisé à partir de fermes proches de chez vous.",
+      "category": "Other",
       "website": "https://marketcrate-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T20:02:20.436804+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T21:23:52.958523+00:00"
     },
     {
       "name": "Hearthloom",
@@ -226004,10 +226013,13 @@
     {
       "name": "Buenclick",
       "slug": "polsia-buenclick",
+      "description": "Suite de plugins para WooCommerce con IA, suscripciones y pagos locales para el e-commerce latinoamericano.",
+      "description_fr": "Suite de plugins pour WooCommerce avec IA, abonnements et pages locales pour le commerce électronique latino-américain.",
+      "category": "E-Commerce & Retail",
       "website": "https://buenclick.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-04T20:02:31.739472+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-04T21:23:54.959121+00:00"
     },
     {
       "name": "Trathos",
@@ -226052,6 +226064,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-04T20:04:20.840181+00:00"
+    },
+    {
+      "name": "Riata Watt",
+      "slug": "polsia-riata-watt",
+      "website": "https://riata-watt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T21:22:29.172832+00:00"
+    },
+    {
+      "name": "Makersew",
+      "slug": "polsia-makersew",
+      "website": "https://makersew.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T21:22:29.961777+00:00"
+    },
+    {
+      "name": "Djého",
+      "slug": "polsia-djho",
+      "website": "https://djho.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T21:22:35.565353+00:00"
+    },
+    {
+      "name": "TRABAME",
+      "slug": "polsia-trabame",
+      "website": "https://trabame.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T21:22:41.212563+00:00"
+    },
+    {
+      "name": "Lenshalo",
+      "slug": "polsia-lenshalo",
+      "website": "https://lenshalo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T21:22:46.879258+00:00"
+    },
+    {
+      "name": "Helmlane",
+      "slug": "polsia-helmlane",
+      "website": "https://helmlane.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T21:22:52.465394+00:00"
+    },
+    {
+      "name": "Tacrune",
+      "slug": "polsia-tacrune",
+      "website": "https://tacrune.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T21:22:58.090024+00:00"
+    },
+    {
+      "name": "Cadenxa",
+      "slug": "polsia-cadenxa",
+      "website": "https://cadenxa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T21:23:03.479885+00:00"
+    },
+    {
+      "name": "Kolkana",
+      "slug": "polsia-kolkana",
+      "description": "Tu tienda en Mercado Libre y Amazon, gestionada por agentes IA las 24 horas. Kolkana automatiza precios, mensajes, inventario y reportes para vendedores latinoamericanos en múltiples marketplaces.",
+      "description_fr": "Votre boutique en Mercado Libre et Amazon, gérée par des agents IA pendant 24 heures. Kolkana automatise les prix, les rapports, les inventaires et les rapports pour les vendeurs latino-américains sur plusieurs marchés.",
+      "category": "E-Commerce & Retail",
+      "website": "https://kolkana.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-04T21:24:40.090131+00:00"
+    },
+    {
+      "name": "Haulerband",
+      "slug": "polsia-haulerband",
+      "website": "https://haulerband.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-04T21:23:14.548738+00:00"
     }
   ]
 }
