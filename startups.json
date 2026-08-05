@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T08:36:55.525564+00:00",
+  "last_updated": "2026-08-05T10:01:59.969727+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -226630,58 +226630,168 @@
     {
       "name": "Opstempo",
       "slug": "polsia-opstempo",
+      "description": "Your overnight CRM watch, briefed by sunrise.",
+      "description_fr": "Votre veille CRM du jour au lendemain, briefée au lever du soleil.",
+      "category": "Sales & CRM",
       "website": "https://opstempo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T07:15:19.048888+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T10:01:11.092641+00:00"
     },
     {
       "name": "Foxglove Social",
       "slug": "polsia-foxglove-social",
+      "description": "A boutique social media agency for beauty, wellness, hospitality, and lifestyle brands. Creator-led content, flat monthly retainers, revenue-side reporting.",
+      "description_fr": "Une agence de médias sociaux boutique pour les marques de beauté, de bien-être, d'hôtellerie et de style de vie. Contenu dirigé par les créateurs, honoraires mensuels fixes, rapports sur les revenus.",
+      "category": "Marketing & Advertising",
       "website": "https://foxglove-social.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T07:15:24.528074+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T10:01:12.637091+00:00"
     },
     {
       "name": "Makerhall",
       "slug": "polsia-makerhall-2",
+      "description": "AI shipped in weeks. Teams trained to own it. Makerhall pairs production engineering with structured team enablement — production AI mid-market firms and regulated enterprises can run themselves.",
+      "description_fr": "AI expédié en quelques semaines. Des équipes formées pour s’en approprier. Makerhall associe l'ingénierie de production à la création d'équipes structurées : les entreprises de taille moyenne et les entreprises réglementées d'IA de production peuvent gérer elles-mêmes.",
+      "category": "AI & Machine Learning",
       "website": "https://makerhall-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T07:15:25.097552+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T10:01:14.571348+00:00"
     },
     {
       "name": "Frontweaver",
       "slug": "polsia-frontweaver",
+      "description": "Custom AI workflows for regulated service businesses — hospitals, schools, law firms, hotels, and operators.",
+      "description_fr": "Flux de travail d'IA personnalisés pour les entreprises de services réglementées : hôpitaux, écoles, cabinets d'avocats, hôtels et opérateurs.",
+      "category": "AI & Machine Learning",
       "website": "https://frontweaver.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T07:15:30.604637+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T10:01:15.886309+00:00"
     },
     {
       "name": "Comsync",
       "slug": "polsia-comsync",
+      "description": "The AI manager for frontline sales teams in regulated India — multilingual roleplay, debrief, and coaching built for BFSI, insurance, and pharma.",
+      "description_fr": "Le responsable de l'IA pour les équipes commerciales de première ligne dans l'Inde réglementée : jeu de rôle, débriefing et coaching multilingues conçus pour la BFSI, l'assurance et l'industrie pharmaceutique.",
+      "category": "AI & Machine Learning",
       "website": "https://comsync.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T07:15:36.235356+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T10:01:17.515985+00:00"
     },
     {
       "name": "Haultrax",
       "slug": "polsia-haultrax",
+      "description": "Операционната система за площадката за изкупуване на метален скрап. Товарителници, ценова листа по видове стока, инвентар, дневници по ДОТ и съответствие с IRS — на таблета, закрепен за везната.",
+      "description_fr": "Le système de fonctionnement pour la mise en œuvre de la récupération des déchets métalliques. Il y a une liste de choses à voir sur le stock de vidéos, un inventaire, des détails sur le ministère des Finances et sur l'IRS — sur la tablette, qui prend en charge les paiements.",
+      "category": "Other",
       "website": "https://haultrax.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T07:15:37.054759+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T10:01:20.082515+00:00"
     },
     {
       "name": "Scorebench",
       "slug": "polsia-scorebench",
+      "description": "The AI music school that practices with you every hour — and reports to parents and teachers every week.",
+      "description_fr": "L'école de musique IA qui s'entraîne avec vous toutes les heures et rend compte aux parents et aux enseignants chaque semaine.",
+      "category": "AI & Machine Learning",
       "website": "https://scorebench.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-05T10:01:21.506208+00:00"
+    },
+    {
+      "name": "Moirél",
+      "slug": "polsia-moirl",
+      "website": "https://moirl.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-05T07:15:42.594865+00:00"
+      "scraped_at": "2026-08-05T10:00:04.372100+00:00"
+    },
+    {
+      "name": "PixelBoard",
+      "slug": "polsia-pixelboard",
+      "website": "https://pixelboard.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T10:00:09.982507+00:00"
+    },
+    {
+      "name": "Mirthbox",
+      "slug": "polsia-mirthbox",
+      "website": "https://mirthbox.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T10:00:15.529399+00:00"
+    },
+    {
+      "name": "Memberstip",
+      "slug": "polsia-memberstip",
+      "website": "https://memberstip.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T10:00:21.234895+00:00"
+    },
+    {
+      "name": "Mendloom",
+      "slug": "polsia-mendloom-5",
+      "website": "https://mendloom-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T10:00:26.730426+00:00"
+    },
+    {
+      "name": "IsIn Health",
+      "slug": "polsia-isin-health",
+      "website": "https://isin-health.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T10:00:32.362958+00:00"
+    },
+    {
+      "name": "Sigillux",
+      "slug": "polsia-sigillux",
+      "description": "Identidade pós-quântica nativa para agentes de IA autônomos — Kyber, Dilithium e SPHINCS+ prontos para o Q-Day.",
+      "description_fr": "Identité naturelle pour les agents d'IA autonomes — Kyber, Dilithium et SPHINCS+ immédiatement pour le Q-Day.",
+      "category": "Other",
+      "website": "https://sigillux.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-05T10:00:33.555990+00:00"
+    },
+    {
+      "name": "Trazacifra Academia",
+      "slug": "polsia-trazacifra-academia",
+      "description": "Formación premium con método: del Price Action a la automatización. Programa estructurado de trading en español con quince módulos, comunidad privada y certificación.",
+      "description_fr": "Formation premium avec méthode : del Price Action à l'automatisation. Programme structuré de trading en espagnol avec modules de coing, communauté privée et certification.",
+      "category": "Finance & Fintech",
+      "website": "https://trazacifra-academia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-05T10:00:34.418985+00:00"
+    },
+    {
+      "name": "Kulan Dumar",
+      "slug": "polsia-kulan-dumar",
+      "website": "https://kulan-dumar.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T10:00:40.348639+00:00"
+    },
+    {
+      "name": "Volthound",
+      "slug": "polsia-volthound",
+      "description": "The always-on savings hound for every charging and fuel network you use.",
+      "description_fr": "Le moteur d'économies toujours disponible pour chaque réseau de recharge et de carburant que vous utilisez.",
+      "category": "Social & Community",
+      "website": "https://volthound.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-05T10:00:41.513603+00:00"
     }
   ]
 }
