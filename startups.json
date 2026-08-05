@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T19:52:12.431753+00:00",
+  "last_updated": "2026-08-05T20:50:33.236758+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -227139,12 +227139,15 @@
       "scraped_at": "2026-08-05T16:18:03.536567+00:00"
     },
     {
-      "name": "Valoma",
+      "name": "Valoma — Onafhankelijk vakantieparken vergelijken",
       "slug": "polsia-valoma",
+      "description": "Onafhankelijk vergelijken en boeken van vakantieparken in Nederland. Actuele prijzen, live beschikbaarheid en eerlijke informatie — zonder verborgen kosten.",
+      "description_fr": "Onafhankelijk vergelijken en boeken van vakantieparken aux Pays-Bas. Actuele prijzen, live beschikbaarheid et eerlijke informatie — zonder verborgen kosten.",
+      "category": "Other",
       "website": "https://valoma.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T17:57:17.068151+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T20:49:16.718542+00:00"
     },
     {
       "name": "Stravect",
@@ -227160,10 +227163,13 @@
     {
       "name": "Trellisbeam",
       "slug": "polsia-trellisbeam",
+      "description": "Trellisbeam is the always-on AI agent that routes every Etsy listing, order, shipment, and payment signal into one Slack surface — so solo makers stop juggling the Seller app, carrier sites, and Stripe dashboards.",
+      "description_fr": "Trellisbeam est l'agent IA toujours actif qui achemine chaque annonce Etsy, commande, expédition et signal de paiement vers une seule surface Slack — afin que les créateurs solo arrêtent de jongler avec l'application Seller, les sites des transporteurs et les tableaux de bord Stripe.",
+      "category": "AI & Machine Learning",
       "website": "https://trellisbeam.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T17:57:18.264303+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T20:49:19.171150+00:00"
     },
     {
       "name": "Cowrypost",
@@ -227245,58 +227251,79 @@
     {
       "name": "Hearthbeat",
       "slug": "polsia-hearthbeat-6",
+      "description": "Hearthbeat is the 24/7 review, DM, and ad-spend monitor for the corner-store owner — drafted replies, parked complaints, and one readable weekly report, from $19/mo.",
+      "description_fr": "Hearthbeat est le moniteur d'évaluation, de DM et de dépenses publicitaires 24h/24 et 7j/7 pour le propriétaire du dépanneur : réponses rédigées, plaintes en attente et un rapport hebdomadaire lisible, à partir de 19 $/mois.",
+      "category": "E-Commerce & Retail",
       "website": "https://hearthbeat-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T19:46:11.595854+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T20:49:20.215037+00:00"
     },
     {
       "name": "Thessera",
       "slug": "polsia-thessera",
+      "description": "Thessera is a premium daily reflection app — one intentional minute a day to pause, breathe and reconnect, drawn from colour symbolism, angel numbers and lunar cycles.",
+      "description_fr": "Thessera est une application de réflexion quotidienne premium – une minute intentionnelle par jour pour faire une pause, respirer et se reconnecter, tirée du symbolisme des couleurs, des nombres angéliques et des cycles lunaires.",
+      "category": "Sustainability & Green",
       "website": "https://thessera.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T19:46:21.147002+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T20:49:22.414055+00:00"
     },
     {
       "name": "Owlloom",
       "slug": "polsia-owlloom-2",
+      "description": "A 24/7 AI-ops desk for solo DTC merchants. Watches stockouts, ad ROAS, rival prices, and reviews — and queues every move for one-click approval.",
+      "description_fr": "Un bureau d'opérations IA 24h/24 et 7j/7 pour les commerçants DTC solo. Surveille les ruptures de stock, le ROAS des annonces, les prix des concurrents et les avis, et met chaque mouvement en file d'attente pour une approbation en un clic.",
+      "category": "AI & Machine Learning",
       "website": "https://owlloom-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T19:46:28.931715+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T20:49:23.660546+00:00"
     },
     {
       "name": "Crewwright",
       "slug": "polsia-crewwright-tfx3k8",
+      "description": "Your AI operations manager for service-truck businesses. Crewwright picks up every call, books the job, dispatches the closest technician, sends quotes and invoices, and reports daily revenue insight to the owner.",
+      "description_fr": "Votre responsable des opérations IA pour les entreprises de camions de service. Crewwright répond à chaque appel, réserve le travail, envoie le technicien le plus proche, envoie des devis et des factures et rapporte des informations quotidiennes sur les revenus au propriétaire.",
+      "category": "AI & Machine Learning",
       "website": "https://crewwright-tfx3k8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T19:46:38.198730+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T20:49:25.498069+00:00"
     },
     {
       "name": "Roughin",
       "slug": "polsia-roughin-4",
+      "description": "Twenty years of kitchen remodel ops, Notionized. A contractor-grade operating system for professional kitchen remodelers and design-build firms — sub CRM by trade, budget-vs-actual, allowances, change orders, and a multi-project rollup.",
+      "description_fr": "Vingt ans d'opérations de rénovation de cuisine, Notionized. Un système d'exploitation de niveau entrepreneur pour les rénovateurs de cuisine professionnels et les entreprises de conception-construction : sous-CRM par métier, budget par rapport au réel, allocations, ordres de modification et cumul multi-projets.",
+      "category": "Sales & CRM",
       "website": "https://roughin-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T19:46:50.965704+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T20:49:26.669771+00:00"
     },
     {
       "name": "Hearthmark",
       "slug": "polsia-hearthmark-3j0uqx",
+      "description": "Step-by-step scam smarts for the people who raised us. A digital fraud-prevention course written for adults 60+.",
+      "description_fr": "Des astuces d'arnaque étape par étape pour les personnes qui nous ont élevés. Un cours de prévention de la fraude numérique destiné aux adultes de 60 ans et plus.",
+      "category": "Education",
       "website": "https://hearthmark-3j0uqx.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T19:47:01.736662+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T20:49:28.034430+00:00"
     },
     {
       "name": "Tawzen",
       "slug": "polsia-tawzen",
+      "description": "Algeria's B2B backbone for modern FMCG distribution — warehouses, route-served mini-markets, and a partner-shop upgrade programme.",
+      "description_fr": "L'épine dorsale B2B de l'Algérie pour la distribution moderne de produits de grande consommation : entrepôts, supérettes desservies par des itinéraires et programme de mise à niveau des magasins partenaires.",
+      "category": "E-Commerce & Retail",
       "website": "https://tawzen.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T19:47:15.781807+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T20:49:29.226787+00:00"
     },
     {
       "name": "Agape Trucking LLC",
@@ -227312,10 +227339,13 @@
     {
       "name": "Bookjaw",
       "slug": "polsia-bookjaw",
+      "description": "Bookjaw is the AI front desk that quotes, books, and frees Houston's trades from phone chaos — running calls, texts, and photos into booked appointments on ServiceTitan, Jobber, and Housecall Pro.",
+      "description_fr": "Bookjaw est la réception IA qui cotations, réserve et libère les échanges de Houston du chaos téléphonique - en passant des appels, des SMS et des photos vers des rendez-vous réservés sur ServiceTitan, Jobber et Housecall Pro.",
+      "category": "AI & Machine Learning",
       "website": "https://bookjaw.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-05T19:47:38.310948+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-05T20:49:31.146992+00:00"
     },
     {
       "name": "G5 Trailer Rentals",
@@ -227327,6 +227357,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-05T19:47:44.746111+00:00"
+    },
+    {
+      "name": "Georgia Drainfield Solutions",
+      "slug": "polsia-georgia-drainfield-solutions",
+      "website": "https://georgia-drainfield-solutions.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T20:48:05.072877+00:00"
+    },
+    {
+      "name": "Loamline",
+      "slug": "polsia-loamline-4",
+      "website": "https://loamline-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T20:48:05.770621+00:00"
+    },
+    {
+      "name": "Northmint",
+      "slug": "polsia-northmint",
+      "website": "https://northmint.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T20:48:11.260937+00:00"
+    },
+    {
+      "name": "Centsmith",
+      "slug": "polsia-centsmith",
+      "website": "https://centsmith.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T20:48:16.846823+00:00"
+    },
+    {
+      "name": "Rising Tide Antiques and Vintage",
+      "slug": "polsia-rising-tide-antiques-and-vintage",
+      "website": "https://rising-tide-antiques-and-vintage.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T20:48:17.555213+00:00"
+    },
+    {
+      "name": "Joshua Long Photography",
+      "slug": "polsia-joshua-long-photography",
+      "website": "https://joshua-long-photography.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T20:48:23.223304+00:00"
+    },
+    {
+      "name": "Sudsroom",
+      "slug": "polsia-sudsroom",
+      "website": "https://sudsroom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T20:48:33.736487+00:00"
+    },
+    {
+      "name": "Sponsmith",
+      "slug": "polsia-sponsmith",
+      "website": "https://sponsmith.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T20:48:44.234476+00:00"
+    },
+    {
+      "name": "Nordvakt",
+      "slug": "polsia-nordvakt",
+      "website": "https://nordvakt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T20:48:44.884105+00:00"
+    },
+    {
+      "name": "Openhearth",
+      "slug": "polsia-openhearth-2",
+      "website": "https://openhearth-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-05T20:48:50.323755+00:00"
     }
   ]
 }
