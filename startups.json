@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T09:14:54.032705+00:00",
+  "last_updated": "2026-08-06T11:36:56.148555+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -228012,26 +228012,35 @@
     {
       "name": "Clercole",
       "slug": "polsia-clercole",
+      "description": "Le secrétariat catholique sous veille IA, 24h sur 24 et sans rupture. Inscriptions, scolarité, absences, notes, emplois du temps et rapports — sous la responsabilité d'agents spécialisés respectant HDS et RGPD.",
+      "description_fr": "Le secrétariat catholique sous veille IA, 24h sur 24 et sans rupture. Inscriptions, scolarité, absences, notes, emplois du temps et rapports — sous la responsabilité d'agents spécialisés respectant HDS et RGPD.",
+      "category": "Other",
       "website": "https://clercole.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T09:12:49.845346+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T11:36:04.409281+00:00"
     },
     {
       "name": "Counterclaim",
       "slug": "polsia-counterclaim",
+      "description": "Counterclaim is an AI operator that monitors your linked accounts, flags forgotten subscriptions, and calls merchants to cancel, dispute, or refund — billed only when money lands back in your account.",
+      "description_fr": "Counterclaim est un opérateur d'IA qui surveille vos comptes liés, signale les abonnements oubliés et appelle les commerçants pour annuler, contester ou rembourser – facturé uniquement lorsque l'argent revient sur votre compte.",
+      "category": "AI & Machine Learning",
       "website": "https://counterclaim.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T09:12:55.558350+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T11:36:05.923141+00:00"
     },
     {
       "name": "Pithsmith",
       "slug": "polsia-pithsmith",
+      "description": "A micro-SaaS launch system for solo founders — name one painful workflow, prove it’s worth fixing, then ship in 4–8 weeks toward 400 payers.",
+      "description_fr": "Un système de lancement micro-SaaS pour les fondateurs solo : nommez un flux de travail pénible, prouvez qu'il vaut la peine d'être réparé, puis expédiez-le dans 4 à 8 semaines à 400 payeurs.",
+      "category": "Software & SaaS",
       "website": "https://pithsmith.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T09:13:06.278183+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T11:36:08.499100+00:00"
     },
     {
       "name": "Shakaaraah",
@@ -228047,18 +228056,24 @@
     {
       "name": "Lineside Tackle",
       "slug": "polsia-lineside-tackle",
+      "description": "Surf and bay tackle curated for Pacific stripers.",
+      "description_fr": "Matériel de surf et de baie réservé aux stripers du Pacifique.",
+      "category": "Other",
       "website": "https://lineside-tackle.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T09:13:22.876099+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T11:36:10.295888+00:00"
     },
     {
       "name": "Niteledger",
       "slug": "polsia-niteledger",
+      "description": "The 24/7 AI ops agent for solo sellers. Daily profit briefings across Shopify, Amazon, and TikTok Shop.",
+      "description_fr": "L'agent opérationnel IA 24h/24 et 7j/7 pour les vendeurs solo. Briefings quotidiens sur les bénéfices sur Shopify, Amazon et TikTok Shop.",
+      "category": "AI & Machine Learning",
       "website": "https://niteledger.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T09:13:28.600193+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T11:36:12.529247+00:00"
     },
     {
       "name": "Crestnote",
@@ -228103,6 +228118,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-06T09:13:38.815456+00:00"
+    },
+    {
+      "name": "Rowlume",
+      "slug": "polsia-rowlume",
+      "website": "https://rowlume.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T11:34:35.857829+00:00"
+    },
+    {
+      "name": "WrenchPilot",
+      "slug": "polsia-wrenchpilot-3",
+      "website": "https://wrenchpilot-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T11:34:43.742730+00:00"
+    },
+    {
+      "name": "Linchmark",
+      "slug": "polsia-linchmark-4symff",
+      "website": "https://linchmark-4symff.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T11:34:49.520608+00:00"
+    },
+    {
+      "name": "Helioscore",
+      "slug": "polsia-helioscore",
+      "description": "Cinematic scoring, vocal production, and orchestral craft — Vienna-based.",
+      "description_fr": "Composition cinématographique, production vocale et artisanat orchestral – basé à Vienne.",
+      "category": "Other",
+      "website": "https://helioscore.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-06T11:36:26.323513+00:00"
+    },
+    {
+      "name": "Patchkeep",
+      "slug": "polsia-patchkeep-2",
+      "website": "https://patchkeep-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T11:35:08.511014+00:00"
+    },
+    {
+      "name": "Braiseway",
+      "slug": "polsia-braiseway",
+      "website": "https://braiseway.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T11:35:14.189895+00:00"
+    },
+    {
+      "name": "Plansmith",
+      "slug": "polsia-plansmith-4",
+      "website": "https://plansmith-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T11:35:20.255891+00:00"
+    },
+    {
+      "name": "Tellarius",
+      "slug": "polsia-tellarius",
+      "website": "https://tellarius.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T11:35:25.903512+00:00"
+    },
+    {
+      "name": "Agnys",
+      "slug": "polsia-agnys",
+      "description": "The flight recorder for AI agents — compliance-grade evidence and observability.",
+      "description_fr": "L'enregistreur de vol pour les agents d'IA : preuves de conformité et observabilité.",
+      "category": "AI & Machine Learning",
+      "website": "https://agnys.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-06T11:36:55.079492+00:00"
+    },
+    {
+      "name": "Real Money Strategies",
+      "slug": "polsia-real-money-strategies",
+      "description": "Independent MWR Financial marketing arm helping everyday families pursue debt freedom, wealth-building, and a financial legacy.",
+      "description_fr": "Branche de marketing indépendante de MWR Financial qui aide les familles de tous les jours à s'affranchir de leurs dettes, à créer de la richesse et à conserver un héritage financier.",
+      "category": "Finance & Fintech",
+      "website": "https://real-money-strategies.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-06T11:36:56.147598+00:00"
     }
   ]
 }
