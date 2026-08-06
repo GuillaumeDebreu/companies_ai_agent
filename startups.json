@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T11:36:56.148555+00:00",
+  "last_updated": "2026-08-06T13:16:46.437878+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -228122,26 +228122,35 @@
     {
       "name": "Rowlume",
       "slug": "polsia-rowlume",
+      "description": "Des agents IA autonomes qui veillent 24h/24 et 7j/7 sur vos bases Airtable. Synchronisation bidirectionnelle, détection d'anomalies, relance des contacts dormants.",
+      "description_fr": "Des agents IA autonomes qui veillent 24h/24 et 7j/7 sur vos bases Airtable. Synchronisation bidirectionnelle, détection d'anomalies, relance des contacts dormants.",
+      "category": "AI & Machine Learning",
       "website": "https://rowlume.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T11:34:35.857829+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T13:15:30.761651+00:00"
     },
     {
       "name": "WrenchPilot",
       "slug": "polsia-wrenchpilot-3",
+      "description": "The AI back office for one-wrench plumbing shops. WrenchPilot answers every call 24/7, qualifies the job, sends a tight quote, dispatches the on-call plumber, and rebooks the next visit.",
+      "description_fr": "Le back-office IA pour les ateliers de plomberie à une clé. ScrewPilot répond à chaque appel 24 heures sur 24, 7 jours sur 7, qualifie le travail, envoie un devis précis, envoie le plombier de garde et réserve à nouveau la prochaine visite.",
+      "category": "AI & Machine Learning",
       "website": "https://wrenchpilot-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T11:34:43.742730+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T13:15:32.351888+00:00"
     },
     {
       "name": "Linchmark",
       "slug": "polsia-linchmark-4symff",
+      "description": "One expensive workflow per industry, run end to end. Linchmark takes the phone, the dispatch board, the quote, and the invoice off your office staff.",
+      "description_fr": "Un flux de travail coûteux par secteur, exécuté de bout en bout. Linchmark retire le téléphone, le tableau de répartition, le devis et la facture de votre personnel de bureau.",
+      "category": "Finance & Fintech",
       "website": "https://linchmark-4symff.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T11:34:49.520608+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T13:15:33.469344+00:00"
     },
     {
       "name": "Helioscore",
@@ -228157,18 +228166,24 @@
     {
       "name": "Patchkeep",
       "slug": "polsia-patchkeep-2",
+      "description": "Patchkeep is an always-on studio agent for indie electronic producers: 24/7 SoundCloud, Beatport and Spotify monitoring, auto-distribution to every DSP, continuous A/B experiments on cover artwork and release timing, and decisions routed to the producer only when they actually need a human call.",
+      "description_fr": "Patchkeep est un agent de studio permanent pour les producteurs électroniques indépendants : surveillance 24h/24 et 7j/7 de SoundCloud, Beatport et Spotify, distribution automatique sur chaque DSP, expériences A/B continues sur les pochettes et le calendrier de sortie, et décisions transmises au producteur uniquement lorsqu'il a réellement besoin d'un appel humain.",
+      "category": "Other",
       "website": "https://patchkeep-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T11:35:08.511014+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T13:15:35.745510+00:00"
     },
     {
       "name": "Braiseway",
       "slug": "polsia-braiseway",
+      "description": "Braiseway is the B2B marketplace for commercial kitchen and foodservice equipment supply — vetted suppliers, ERP-synced inventory, and an RFQ-to-purchase workflow tuned to quarterly capital procurement.",
+      "description_fr": "Braiseway est le marché B2B pour la fourniture d'équipements de cuisine commerciale et de restauration : fournisseurs sélectionnés, inventaire synchronisé avec l'ERP et flux de travail des appels d'offres à l'achat adapté aux achats d'investissements trimestriels.",
+      "category": "Food & Beverage",
       "website": "https://braiseway.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T11:35:14.189895+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T13:15:37.988888+00:00"
     },
     {
       "name": "Plansmith",
@@ -228181,10 +228196,13 @@
     {
       "name": "Tellarius",
       "slug": "polsia-tellarius",
+      "description": "Precision last-mile delivery for time-critical shipments.",
+      "description_fr": "Livraison précise du dernier kilomètre pour les expéditions urgentes.",
+      "category": "Logistics & Supply Chain",
       "website": "https://tellarius.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T11:35:25.903512+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T13:15:40.492944+00:00"
     },
     {
       "name": "Agnys",
@@ -228207,6 +228225,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-06T11:36:56.147598+00:00"
+    },
+    {
+      "name": "Arete Gallery",
+      "slug": "polsia-arete-gallery",
+      "website": "https://arete-gallery.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T13:14:37.089887+00:00"
+    },
+    {
+      "name": "Spotseer",
+      "slug": "polsia-spotseer",
+      "website": "https://spotseer.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T13:14:37.875034+00:00"
+    },
+    {
+      "name": "Foundrax",
+      "slug": "polsia-foundrax-3",
+      "website": "https://foundrax-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T13:14:38.634633+00:00"
+    },
+    {
+      "name": "Werkfuchs",
+      "slug": "polsia-werkfuchs-2",
+      "website": "https://werkfuchs-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T13:14:39.485686+00:00"
+    },
+    {
+      "name": "Tessera Slate",
+      "slug": "polsia-tessera-slate",
+      "website": "https://tessera-slate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T13:14:40.368737+00:00"
+    },
+    {
+      "name": "Tehnika",
+      "slug": "polsia-tehnika",
+      "website": "https://tehnika.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T13:14:46.084777+00:00"
+    },
+    {
+      "name": "Stockhaul",
+      "slug": "polsia-stockhaul-3",
+      "website": "https://stockhaul-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T13:14:51.797520+00:00"
+    },
+    {
+      "name": "Bivio",
+      "slug": "polsia-bivio-2",
+      "website": "https://bivio-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T13:14:52.671044+00:00"
+    },
+    {
+      "name": "Carrick",
+      "slug": "polsia-carrick-7",
+      "website": "https://carrick-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T13:14:58.304689+00:00"
+    },
+    {
+      "name": "Vesperstack",
+      "slug": "polsia-vesperstack-2",
+      "website": "https://vesperstack-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T13:15:08.899708+00:00"
     }
   ]
 }
