@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T14:11:12.145977+00:00",
+  "last_updated": "2026-08-06T15:34:07.062485+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -228229,10 +228229,13 @@
     {
       "name": "Arete Gallery",
       "slug": "polsia-arete-gallery",
+      "description": "Where virtue and art meet — rock-icon and contemporary fine art in New Hope, PA.",
+      "description_fr": "Là où la vertu et l'art se rencontrent : icône du rock et beaux-arts contemporains à New Hope, Pennsylvanie.",
+      "category": "Other",
       "website": "https://arete-gallery.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T13:14:37.089887+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T15:32:57.704098+00:00"
     },
     {
       "name": "Spotseer",
@@ -228245,26 +228248,35 @@
     {
       "name": "Foundrax",
       "slug": "polsia-foundrax-3",
+      "description": "Spin up a company, fully run by AI. Foundrax generates, launches, and operates entire businesses — from product to P&L — for individual founders on a flat monthly fee.",
+      "description_fr": "Créez une entreprise entièrement gérée par l’IA. Foundrax génère, lance et exploite des entreprises entières – du produit au P&L – pour les fondateurs individuels moyennant un forfait mensuel.",
+      "category": "AI & Machine Learning",
       "website": "https://foundrax-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T13:14:38.634633+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T15:32:59.731499+00:00"
     },
     {
       "name": "Werkfuchs",
       "slug": "polsia-werkfuchs-2",
+      "description": "Der KI-Geselle für deine Werkstatt. Werkfuchs automatisiert das gesamte Backoffice – vom Angebot bis zur Rechnung.",
+      "description_fr": "Der KI-Geselle für deine Werkstatt. Nous avons automatisé le fonctionnement du backoffice – pour vous aider à accéder à votre compte.",
+      "category": "Other",
       "website": "https://werkfuchs-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T13:14:39.485686+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T15:33:01.840432+00:00"
     },
     {
       "name": "Tessera Slate",
       "slug": "polsia-tessera-slate",
+      "description": "Productized service retainers, systematized to scale past the founder’s hours.",
+      "description_fr": "Des mandats de service produits, systématisés pour s'adapter au-delà des heures du fondateur.",
+      "category": "Other",
       "website": "https://tessera-slate.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T13:14:40.368737+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T15:33:03.282912+00:00"
     },
     {
       "name": "Tehnika",
@@ -228277,34 +228289,126 @@
     {
       "name": "Stockhaul",
       "slug": "polsia-stockhaul-3",
+      "description": "Stockhaul pairs an on-demand dump truck marketplace with a dirt, aggregate, and material sourcing hub, with DOT-ready e-tickets — so short-notice work is dispatched and priced in one place.",
+      "description_fr": "Stockhaul associe un marché de camions-benne à la demande à un centre d'approvisionnement en terre, en granulats et en matériaux, avec des billets électroniques prêts pour le DOT — de sorte que les travaux à court terme sont expédiés et tarifés en un seul endroit.",
+      "category": "E-Commerce & Retail",
       "website": "https://stockhaul-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T13:14:51.797520+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T15:33:05.597888+00:00"
     },
     {
       "name": "Bivio",
       "slug": "polsia-bivio-2",
+      "description": "Dos marketplaces, un agente. Vigilancia, venta y respuestas 24/7 bilingües para PyMEs.",
+      "description_fr": "Dos Marketplaces, un agent. Vigilance, vente et réponses 24h/24 et 7j/7 pour PyME.",
+      "category": "E-Commerce & Retail",
       "website": "https://bivio-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T13:14:52.671044+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T15:33:07.673562+00:00"
     },
     {
       "name": "Carrick",
       "slug": "polsia-carrick-7",
+      "description": "Carrick is always-on back-office AI for small, independent insurance agencies — watching renewals, chasing claims, and filing E&O so the front desk gets its hours back.",
+      "description_fr": "Carrick est une IA de back-office toujours active pour les petites agences d'assurance indépendantes : elle surveille les renouvellements, poursuit les réclamations et dépose les erreurs et omissions afin que la réception récupère ses heures.",
+      "category": "AI & Machine Learning",
       "website": "https://carrick-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-06T13:14:58.304689+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-06T15:33:09.873395+00:00"
     },
     {
       "name": "Vesperstack",
       "slug": "polsia-vesperstack-2",
+      "description": "Vesperstack is AI-native operations software for independent community pharmacies and independent funeral homes — one platform, deployed in under six weeks, with the compliance, succession, and communications primitives both sectors already share.",
+      "description_fr": "Vesperstack est un logiciel d'exploitation natif d'IA destiné aux pharmacies communautaires indépendantes et aux salons funéraires indépendants : une plate-forme, déployée en moins de six semaines, avec les primitives de conformité, de succession et de communication que les deux secteurs partagent déjà.",
+      "category": "Software & SaaS",
       "website": "https://vesperstack-2.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-06T15:33:11.444041+00:00"
+    },
+    {
+      "name": "Nightjar",
+      "slug": "polsia-nightjar-uo83aa",
+      "website": "https://nightjar-uo83aa.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-06T13:15:08.899708+00:00"
+      "scraped_at": "2026-08-06T15:32:08.764432+00:00"
+    },
+    {
+      "name": "Rewai",
+      "slug": "polsia-rewai",
+      "website": "https://rewai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T15:32:14.404439+00:00"
+    },
+    {
+      "name": "Prehawk",
+      "slug": "polsia-prehawk",
+      "website": "https://prehawk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T15:32:15.126007+00:00"
+    },
+    {
+      "name": "Trova Real Estate Services",
+      "slug": "polsia-trova-real-estate-services",
+      "website": "https://trova-real-estate-services.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T15:32:20.728359+00:00"
+    },
+    {
+      "name": "Pertune",
+      "slug": "polsia-pertune",
+      "website": "https://pertune.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T15:32:21.623092+00:00"
+    },
+    {
+      "name": "Prylor",
+      "slug": "polsia-prylor",
+      "website": "https://prylor.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T15:32:22.476176+00:00"
+    },
+    {
+      "name": "Stoopline",
+      "slug": "polsia-stoopline-2",
+      "website": "https://stoopline-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T15:32:23.164826+00:00"
+    },
+    {
+      "name": "DriftEarn",
+      "slug": "polsia-driftearn",
+      "website": "https://driftearn.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T15:32:28.543984+00:00"
+    },
+    {
+      "name": "Pilothaul",
+      "slug": "polsia-pilothaul",
+      "website": "https://pilothaul.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T15:32:34.186884+00:00"
+    },
+    {
+      "name": "Bocalys",
+      "slug": "polsia-bocalys",
+      "website": "https://bocalys.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-06T15:32:35.018941+00:00"
     }
   ]
 }
