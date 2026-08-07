@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T03:37:54.348565+00:00",
+  "last_updated": "2026-08-07T05:24:41.857993+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -228550,26 +228550,35 @@
     {
       "name": "ZICHRONOM",
       "slug": "polsia-zichronom",
+      "description": "An IRS-recognized 501(c)(3) nonprofit preserving the cemeteries and ohels of righteous Jewish leaders in Poland — a curated gateway to genealogy, Holocaust-era, and tzaddik memorial resources.",
+      "description_fr": "Une organisation à but non lucratif reconnue par l'IRS 501(c)(3) qui préserve les cimetières et les ohels des dirigeants juifs vertueux en Pologne - une passerelle organisée vers la généalogie, l'ère de l'Holocauste et les ressources commémoratives des Tsaddik.",
+      "category": "Sales & CRM",
       "website": "https://zichronom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T03:34:36.491899+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T05:22:28.910286+00:00"
     },
     {
       "name": "Boxhue",
       "slug": "polsia-boxhue",
+      "description": "Color-code your move, room by room.",
+      "description_fr": "Codez par couleur votre déménagement, pièce par pièce.",
+      "category": "Other",
       "website": "https://boxhue.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T03:34:52.483984+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T05:22:30.749677+00:00"
     },
     {
       "name": "Hatchloom",
       "slug": "polsia-hatchloom",
+      "description": "Hatchloom deploys AI-staffed service businesses for solopreneurs — agencies, consultancies, and booking-based practices — launched only after real customer demand is on the table.",
+      "description_fr": "Hatchloom déploie des entreprises de services dotées d'IA pour les solopreneurs (agences, cabinets de conseil et pratiques basées sur la réservation) lancées uniquement après que la demande réelle des clients soit sur la table.",
+      "category": "AI & Machine Learning",
       "website": "https://hatchloom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T03:35:08.483754+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T05:22:32.505831+00:00"
     },
     {
       "name": "Stavelite",
@@ -228585,10 +228594,13 @@
     {
       "name": "Jacqueline Brennan Skin",
       "slug": "polsia-jacqueline-brennan-skin",
+      "description": "Personalised skin journeys for lasting results, Mosman. Clinician-led aesthetic skin clinic on Sydney's Lower North Shore.",
+      "description_fr": "Des voyages cutanés personnalisés pour des résultats durables, Mosman. Clinique de peau esthétique dirigée par un clinicien sur la Basse-Côte-Nord de Sydney.",
+      "category": "Health & Wellness",
       "website": "https://jacqueline-brennan-skin.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T03:35:40.483833+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T05:22:33.291467+00:00"
     },
     {
       "name": "Cairnmark",
@@ -228644,6 +228656,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-07T03:36:14.677915+00:00"
+    },
+    {
+      "name": "Kinscribe",
+      "slug": "polsia-kinscribe",
+      "website": "https://kinscribe.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T05:20:14.593180+00:00"
+    },
+    {
+      "name": "Hatchcraft",
+      "slug": "polsia-hatchcraft-xg9gyu",
+      "website": "https://hatchcraft-xg9gyu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T05:20:29.869517+00:00"
+    },
+    {
+      "name": "Hawkwright",
+      "slug": "polsia-hawkwright-4",
+      "website": "https://hawkwright-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T05:20:45.856984+00:00"
+    },
+    {
+      "name": "Glasskite",
+      "slug": "polsia-glasskite",
+      "website": "https://glasskite.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T05:20:46.432971+00:00"
+    },
+    {
+      "name": "Onyxsmith",
+      "slug": "polsia-onyxsmith",
+      "description": "Skip the wait. Find the right skilled pro within minutes — Onyxsmith matches urgent service requests with vetted, trade-licensed pros in real time.",
+      "description_fr": "Évitez l'attente. Trouvez le bon professionnel qualifié en quelques minutes – Onyxsmith associe en temps réel les demandes de service urgentes à des professionnels agréés et agréés.",
+      "category": "Other",
+      "website": "https://onyxsmith.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-07T05:23:38.143982+00:00"
+    },
+    {
+      "name": "Churnkin",
+      "slug": "polsia-churnkin",
+      "website": "https://churnkin.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T05:21:17.857248+00:00"
+    },
+    {
+      "name": "Loomship",
+      "slug": "polsia-loomship-gkcl14",
+      "website": "https://loomship-gkcl14.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T05:21:33.857445+00:00"
+    },
+    {
+      "name": "SudStack",
+      "slug": "polsia-sudstack-2",
+      "website": "https://sudstack-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T05:21:34.464388+00:00"
+    },
+    {
+      "name": "Daywarden",
+      "slug": "polsia-daywarden-5",
+      "website": "https://daywarden-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T05:21:49.858773+00:00"
+    },
+    {
+      "name": "Hautemark",
+      "slug": "polsia-hautemark",
+      "website": "https://hautemark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T05:22:05.857691+00:00"
     }
   ]
 }
