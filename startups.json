@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T22:56:59.505878+00:00",
+  "last_updated": "2026-08-07T23:35:37.160361+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -230595,18 +230595,24 @@
     {
       "name": "Pockapad",
       "slug": "polsia-pockapad",
+      "description": "The gap, finally sealed. A car seat gap organizer that catches phones, keys, and wallets before they fall into the void.",
+      "description_fr": "La brèche, enfin comblée. Un organisateur d'espace pour les sièges de voiture qui attrape les téléphones, les clés et les portefeuilles avant qu'ils ne tombent dans le vide.",
+      "category": "Finance & Fintech",
       "website": "https://pockapad.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T22:54:35.613065+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T23:34:38.400311+00:00"
     },
     {
       "name": "Palmstead",
       "slug": "polsia-palmstead-2",
+      "description": "A calm, photography-forward website builder for independent massage therapists and small bodywork studios. Photo, price, practice — done by lunch.",
+      "description_fr": "Un créateur de sites Web calme et axé sur la photographie pour les massothérapeutes indépendants et les petits studios de carrosserie. Photo, prix, pratique — fait avant le déjeuner.",
+      "category": "Software & SaaS",
       "website": "https://palmstead-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T22:54:41.027087+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T23:34:40.150669+00:00"
     },
     {
       "name": "Slowwave",
@@ -230619,10 +230625,13 @@
     {
       "name": "Counterdose",
       "slug": "polsia-counterdose-2",
+      "description": "Always-on pharmacy agents for the refill loop. Counterdose orchestrates prior auths, drug-interaction checks, benefit verification, and dispatch for mail-order and specialty pharmacies.",
+      "description_fr": "Agents pharmaceutiques toujours disponibles pour la boucle de recharge. Counterdose orchestre les autorisations préalables, les contrôles d'interactions médicamenteuses, la vérification des prestations et l'expédition pour les pharmacies de vente par correspondance et spécialisées.",
+      "category": "Other",
       "website": "https://counterdose-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T22:54:52.247062+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T23:34:42.296673+00:00"
     },
     {
       "name": "Crystals Daily Leaf",
@@ -230635,26 +230644,35 @@
     {
       "name": "Kinetrace",
       "slug": "polsia-kinetrace-2",
+      "description": "Always-on AI agent for chemical plants — flag SOP deviations and auto-draft incident tickets for the next shift.",
+      "description_fr": "Agent d'IA toujours actif pour les usines chimiques : signalez les écarts aux SOP et rédigez automatiquement les tickets d'incident pour le prochain quart de travail.",
+      "category": "AI & Machine Learning",
       "website": "https://kinetrace-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T22:55:03.041095+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T23:34:49.218362+00:00"
     },
     {
       "name": "Veladora",
       "slug": "polsia-veladora-2",
+      "description": "Always-on intelligence for Hispanic streaming — weekly programming shortlists, ranked content-acquisition recommendations, and launch-timing reports for streamers, FAST channels, and MVPDs.",
+      "description_fr": "Intelligence permanente pour le streaming hispanique : listes restreintes de programmes hebdomadaires, recommandations d'acquisition de contenu classées et rapports de calendrier de lancement pour les streamers, les chaînes FAST et les MVPD.",
+      "category": "Entertainment & Media",
       "website": "https://veladora-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T22:55:08.655151+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T23:34:51.055794+00:00"
     },
     {
       "name": "FieldCadence",
       "slug": "polsia-fieldcadence",
+      "description": "FieldCadence is your AI offensive coordinator — from philosophy to Friday-night call sheet. Describe your offensive identity and opponent scouting, get a complete weekly game plan.",
+      "description_fr": "FieldCadence est votre coordinateur offensif d'IA – de la philosophie à la liste d'appel du vendredi soir. Décrivez votre identité offensive et la recherche de vos adversaires, obtenez un plan de match hebdomadaire complet.",
+      "category": "AI & Machine Learning",
       "website": "https://fieldcadence.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T22:55:14.263638+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T23:34:52.212138+00:00"
     },
     {
       "name": "Cordialhaus",
@@ -230677,6 +230695,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-07T22:55:21.590626+00:00"
+    },
+    {
+      "name": "Misewise",
+      "slug": "polsia-misewise-4",
+      "website": "https://misewise-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T23:33:12.171942+00:00"
+    },
+    {
+      "name": "Saltwash",
+      "slug": "polsia-saltwash",
+      "website": "https://saltwash.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T23:33:17.815427+00:00"
+    },
+    {
+      "name": "Frogtown Stitch",
+      "slug": "polsia-frogtown-stitch",
+      "website": "https://frogtown-stitch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T23:33:23.220215+00:00"
+    },
+    {
+      "name": "Fleetmote",
+      "slug": "polsia-fleetmote",
+      "website": "https://fleetmote.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T23:33:28.914045+00:00"
+    },
+    {
+      "name": "Hearthkeep",
+      "slug": "polsia-hearthkeep-c4o3ym",
+      "description": "Hearthkeep is an AI ops team that lives next to your Minecraft nodes: anti-cheat, moderation, scaling, backups, plugin rollouts, and player support — one mission control for the full hosting stack.",
+      "description_fr": "Hearthkeep est une équipe d'opérations d'IA qui vit à côté de vos nœuds Minecraft : anti-triche, modération, mise à l'échelle, sauvegardes, déploiements de plugins et assistance aux joueurs — un contrôle de mission pour la pile d'hébergement complète.",
+      "category": "AI & Machine Learning",
+      "website": "https://hearthkeep-c4o3ym.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-07T23:35:15.694652+00:00"
+    },
+    {
+      "name": "Scaldwell",
+      "slug": "polsia-scaldwell",
+      "website": "https://scaldwell.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T23:33:40.098045+00:00"
+    },
+    {
+      "name": "Bidaria",
+      "slug": "polsia-bidaria",
+      "website": "https://bidaria.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T23:33:45.750526+00:00"
+    },
+    {
+      "name": "WorkshopWeaver",
+      "slug": "polsia-workshopweaver",
+      "website": "https://workshopweaver.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T23:33:56.300189+00:00"
+    },
+    {
+      "name": "Marrowloom",
+      "slug": "polsia-marrowloom",
+      "description": "Cultural-first social media for heritage makers and independent craft brands.",
+      "description_fr": "Médias sociaux culturels d'abord pour les créateurs de patrimoine et les marques artisanales indépendantes.",
+      "category": "Marketing & Advertising",
+      "website": "https://marrowloom.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-07T23:33:57.245617+00:00"
+    },
+    {
+      "name": "Nullroute",
+      "slug": "polsia-nullroute",
+      "description": "A no-log VPN operated by people who actually run networks. RAM-only servers, anonymous signup, cash and Monero accepted, rolling third-party audits published in full.",
+      "description_fr": "Un VPN sans journalisation exploité par des personnes qui gèrent réellement des réseaux. Serveurs RAM uniquement, inscription anonyme, espèces et Monero acceptés, audits tiers continus publiés dans leur intégralité.",
+      "category": "Social & Community",
+      "website": "https://nullroute.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-07T23:33:58.447183+00:00"
     }
   ]
 }
