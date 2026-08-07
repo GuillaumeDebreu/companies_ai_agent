@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T13:10:47.932663+00:00",
+  "last_updated": "2026-08-07T14:20:07.856917+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -229412,10 +229412,13 @@
     {
       "name": "Oxbow",
       "slug": "polsia-oxbow-2",
+      "description": "A studio of vertical AI tools for the operators who actually run things — fleet dispatch, routing, inventory and back-of-house on one shared data spine.",
+      "description_fr": "Un studio d'outils d'IA verticaux pour les opérateurs qui gèrent réellement les choses : répartition de la flotte, routage, inventaire et back-of-house sur une seule colonne de données partagée.",
+      "category": "AI & Machine Learning",
       "website": "https://oxbow-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T13:08:04.834314+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T14:18:59.116028+00:00"
     },
     {
       "name": "Amavia Adventures",
@@ -229444,18 +229447,24 @@
     {
       "name": "Compresario",
       "slug": "polsia-compresario",
+      "description": "Always-on service operations agents for commercial HVAC fleets — predict failures, quote repairs, dispatch techs, and run service contracts end to end.",
+      "description_fr": "Agents d'exploitation de service toujours disponibles pour les flottes commerciales de CVC : prédisez les pannes, devis des réparations, répartissez les techniciens et exécutez les contrats de service de bout en bout.",
+      "category": "Logistics & Supply Chain",
       "website": "https://compresario.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T13:08:31.792023+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T14:19:07.608965+00:00"
     },
     {
       "name": "DraftToQuote",
       "slug": "polsia-drafttoquote",
+      "description": "DraftToQuote turns rough client briefs into polished, ready-to-send quotes in minutes — with scope, line-item pricing, totals, and your branding.",
+      "description_fr": "DraftToQuote transforme les briefs clients approximatifs en devis soignés et prêts à être envoyés en quelques minutes – avec la portée, le prix par article, les totaux et votre image de marque.",
+      "category": "Marketing & Advertising",
       "website": "https://drafttoquote.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T13:08:37.273500+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T14:19:09.855446+00:00"
     },
     {
       "name": "HamRadioMarket",
@@ -229471,18 +229480,24 @@
     {
       "name": "Nkyirim",
       "slug": "polsia-nkyirim",
+      "description": "Ghana's photo-verified operations desk for property maintenance — built for landlords who can't be on the ground.",
+      "description_fr": "Le bureau des opérations photo-vérifié du Ghana pour l'entretien des propriétés, conçu pour les propriétaires qui ne peuvent pas être sur place.",
+      "category": "Real Estate",
       "website": "https://nkyirim.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T13:08:53.039623+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T14:19:11.177651+00:00"
     },
     {
       "name": "Tillscope",
       "slug": "polsia-tillscope-4",
+      "description": "The 24/7 watchtower for Etsy and Shopify — never miss a sale or refund window.",
+      "description_fr": "La tour de surveillance 24h/24 et 7j/7 pour Etsy et Shopify : ne manquez jamais une fenêtre de vente ou de remboursement.",
+      "category": "E-Commerce & Retail",
       "website": "https://tillscope-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T13:08:58.363626+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T14:19:12.657571+00:00"
     },
     {
       "name": "Slatewire",
@@ -229491,6 +229506,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-08-07T13:09:03.739393+00:00"
+    },
+    {
+      "name": "Emberloop",
+      "slug": "polsia-emberloop",
+      "website": "https://emberloop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T14:17:53.592572+00:00"
+    },
+    {
+      "name": "Evertill",
+      "slug": "polsia-evertill",
+      "website": "https://evertill.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T14:17:54.333213+00:00"
+    },
+    {
+      "name": "VeeBoard",
+      "slug": "polsia-veeboard",
+      "website": "https://veeboard.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T14:17:59.911818+00:00"
+    },
+    {
+      "name": "Crescenda",
+      "slug": "polsia-crescenda-2",
+      "website": "https://crescenda-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T14:18:00.580224+00:00"
+    },
+    {
+      "name": "Sonamino",
+      "slug": "polsia-sonamino",
+      "website": "https://sonamino.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T14:18:06.000219+00:00"
+    },
+    {
+      "name": "Louéran",
+      "slug": "polsia-louran",
+      "website": "https://louran.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T14:18:06.920651+00:00"
+    },
+    {
+      "name": "Clanscrub",
+      "slug": "polsia-clanscrub",
+      "website": "https://clanscrub.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T14:18:07.564260+00:00"
+    },
+    {
+      "name": "Spyndx",
+      "slug": "polsia-spyndx",
+      "website": "https://spyndx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T14:18:12.981902+00:00"
+    },
+    {
+      "name": "Arguscrew",
+      "slug": "polsia-arguscrew",
+      "website": "https://arguscrew.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T14:18:18.544204+00:00"
+    },
+    {
+      "name": "Spectrum Connection",
+      "slug": "polsia-spectrum-connection",
+      "website": "https://spectrum-connection.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T14:18:23.922158+00:00"
     }
   ]
 }
