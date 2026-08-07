@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T13:05:08.116172+00:00",
+  "last_updated": "2026-08-07T13:10:47.932663+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -229308,34 +229308,46 @@
     {
       "name": "Plumbhook",
       "slug": "polsia-plumbhook",
+      "description": "Vertical lookup answers, plumbed from public records. Property, business, and ownership intelligence for skip tracers, investors, and due-diligence researchers.",
+      "description_fr": "Réponses de recherche verticale, extraites des archives publiques. Intelligence immobilière, commerciale et de propriété pour les traceurs de sauts, les investisseurs et les chercheurs en matière de diligence raisonnable.",
+      "category": "Real Estate",
       "website": "https://plumbhook.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T11:55:19.843631+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T13:09:36.263817+00:00"
     },
     {
       "name": "Bidloom",
       "slug": "polsia-bidloom-npp5wl",
+      "description": "Bidloom is the always-on AI agent that self-tunes bids and creative across Google, Meta, and TikTok — with creative scoring, auction-time signal blending, and a transparent audit trail.",
+      "description_fr": "Bidloom est l'agent d'IA toujours actif qui ajuste automatiquement les enchères et les créations sur Google, Meta et TikTok, avec une notation des créations, une fusion des signaux au moment des enchères et une piste d'audit transparente.",
+      "category": "AI & Machine Learning",
       "website": "https://bidloom-npp5wl.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T11:55:20.499182+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T13:09:38.033035+00:00"
     },
     {
       "name": "Twinvane",
       "slug": "polsia-twinvane-2",
+      "description": "Predictive AI agents for biomedical and aviation fleets — continuous monitoring, automatic work orders, audit-ready compliance.",
+      "description_fr": "Agents d'IA prédictifs pour les flottes biomédicales et aéronautiques : surveillance continue, ordres de travail automatiques, conformité prête pour l'audit.",
+      "category": "AI & Machine Learning",
       "website": "https://twinvane-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T11:55:21.177159+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T13:09:39.333005+00:00"
     },
     {
       "name": "Trivex",
       "slug": "polsia-trivex-2",
+      "description": "Three streams. Zero blind spots. Always-on AI compliance copilot for small and mid-sized businesses.",
+      "description_fr": "Trois flux. Zéro angle mort. Copilote de conformité IA toujours actif pour les petites et moyennes entreprises.",
+      "category": "AI & Machine Learning",
       "website": "https://trivex-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T11:55:26.712721+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T13:09:41.589788+00:00"
     },
     {
       "name": "Keelson Heritage",
@@ -229356,10 +229368,13 @@
     {
       "name": "Dmacsessentials",
       "slug": "polsia-dmacsessentials",
+      "description": "Dmacsessentials is an emerging essentials brand, just now taking shape. One inbox, open to press, partners, and curious onlookers.",
+      "description_fr": "Dmacsessentials est une marque émergente d'essentiels, qui vient tout juste de prendre forme. Une boîte mail ouverte à la presse, aux partenaires et aux curieux.",
+      "category": "Marketing & Advertising",
       "website": "https://dmacsessentials.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T11:55:43.538963+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T13:09:44.544840+00:00"
     },
     {
       "name": "Saltlamp",
@@ -229375,18 +229390,107 @@
     {
       "name": "Brickhaul",
       "slug": "polsia-brickhaul",
+      "description": "Self-service kiosks that turn dead phones into instant cash and rent pocket power on demand - airports, malls, and event venues.",
+      "description_fr": "Des bornes libre-service qui transforment les téléphones morts en argent instantané et louent de l'énergie de poche à la demande : aéroports, centres commerciaux et lieux d'événements.",
+      "category": "AI & Machine Learning",
       "website": "https://brickhaul.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T11:55:49.888124+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T13:09:46.284797+00:00"
     },
     {
       "name": "Loopsmith",
       "slug": "polsia-loopsmith-5",
+      "description": "AI workflow consulting for practices that want AI output without AI overhead. Two-to-four-week diagnostic, ranked automation roadmap, end-to-end managed service.",
+      "description_fr": "Conseil en matière de flux de travail d'IA pour les cabinets qui souhaitent obtenir une sortie d'IA sans surcharge d'IA. Diagnostic de deux à quatre semaines, feuille de route d'automatisation classée, service géré de bout en bout.",
+      "category": "AI & Machine Learning",
       "website": "https://loopsmith-5.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-07T13:09:47.376221+00:00"
+    },
+    {
+      "name": "Oxbow",
+      "slug": "polsia-oxbow-2",
+      "website": "https://oxbow-2.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-07T11:55:55.573721+00:00"
+      "scraped_at": "2026-08-07T13:08:04.834314+00:00"
+    },
+    {
+      "name": "Amavia Adventures",
+      "slug": "polsia-amavia-adventures",
+      "website": "https://amavia-adventures.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T13:08:10.293834+00:00"
+    },
+    {
+      "name": "Schutzbrief",
+      "slug": "polsia-schutzbrief",
+      "website": "https://schutzbrief.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T13:08:15.776230+00:00"
+    },
+    {
+      "name": "Quartermaster",
+      "slug": "polsia-quartermaster-3",
+      "website": "https://quartermaster-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T13:08:21.244105+00:00"
+    },
+    {
+      "name": "Compresario",
+      "slug": "polsia-compresario",
+      "website": "https://compresario.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T13:08:31.792023+00:00"
+    },
+    {
+      "name": "DraftToQuote",
+      "slug": "polsia-drafttoquote",
+      "website": "https://drafttoquote.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T13:08:37.273500+00:00"
+    },
+    {
+      "name": "HamRadioMarket",
+      "slug": "polsia-hamradiomarket",
+      "description": "Pan-European classifieds marketplace for amateur radio equipment — transceivers, antennas, amplifiers and more, for sale or wanted, across every EU country.",
+      "description_fr": "Marché paneuropéen de petites annonces d'équipements radioamateurs : émetteurs-récepteurs, antennes, amplificateurs et plus encore, à vendre ou recherchés, dans tous les pays de l'UE.",
+      "category": "E-Commerce & Retail",
+      "website": "https://hamradiomarket.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-07T13:10:26.889162+00:00"
+    },
+    {
+      "name": "Nkyirim",
+      "slug": "polsia-nkyirim",
+      "website": "https://nkyirim.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T13:08:53.039623+00:00"
+    },
+    {
+      "name": "Tillscope",
+      "slug": "polsia-tillscope-4",
+      "website": "https://tillscope-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T13:08:58.363626+00:00"
+    },
+    {
+      "name": "Slatewire",
+      "slug": "polsia-slatewire-2",
+      "website": "https://slatewire-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T13:09:03.739393+00:00"
     }
   ]
 }
