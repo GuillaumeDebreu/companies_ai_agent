@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T08:01:49.964598+00:00",
+  "last_updated": "2026-08-07T09:13:25.862150+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -228880,66 +228880,90 @@
     {
       "name": "MogulBarn",
       "slug": "polsia-mogulbarn",
+      "description": "A fresh business idea with the full launch playbook, delivered every day.",
+      "description_fr": "Une nouvelle idée d'entreprise avec le manuel de lancement complet, livré chaque jour.",
+      "category": "Other",
       "website": "https://mogulbarn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T07:59:39.079564+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T09:12:23.651347+00:00"
     },
     {
       "name": "Perchwatch",
       "slug": "polsia-perchwatch",
+      "description": "A fleet of AI agents that auto-file remediation tickets and ship daily RCA reports for data-center ops.",
+      "description_fr": "Une flotte d'agents IA qui déposent automatiquement des tickets de correction et envoient des rapports RCA quotidiens pour les opérations du centre de données.",
+      "category": "AI & Machine Learning",
       "website": "https://perchwatch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T07:59:44.800210+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T09:12:25.253482+00:00"
     },
     {
       "name": "Tideplinth",
       "slug": "polsia-tideplinth",
+      "description": "Zero platform fees. Every dollar to the creator.",
+      "description_fr": "Zéro frais de plateforme. Chaque dollar au créateur.",
+      "category": "Software & SaaS",
       "website": "https://tideplinth.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T07:59:45.606206+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T09:12:27.562522+00:00"
     },
     {
       "name": "Bellbearer",
       "slug": "polsia-bellbearer",
+      "description": "Done-for-you AI receptionist and lead-conversion system for local service businesses — every call answered, every lead booked, none of the work.",
+      "description_fr": "Réceptionniste IA et système de conversion de leads faits pour vous pour les entreprises de services locales : chaque appel répondu, chaque prospect réservé, aucun travail.",
+      "category": "AI & Machine Learning",
       "website": "https://bellbearer.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T07:59:51.199999+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T09:12:29.047805+00:00"
     },
     {
       "name": "Shiftwren",
       "slug": "polsia-shiftwren",
+      "description": "The shift-aware quality agent that flags drift, alerts the lead on duty, and files the reports.",
+      "description_fr": "L'agent qualité conscient des quarts de travail qui signale les dérives, alerte le responsable en service et classe les rapports.",
+      "category": "Marketing & Advertising",
       "website": "https://shiftwren.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T08:00:01.995825+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T09:12:30.068012+00:00"
     },
     {
       "name": "Reliquat",
       "slug": "polsia-reliquat-2",
+      "description": "The dunning desk for bootstrapped SaaS. Plugs into Stripe, runs a tunable recovery sequence, and surfaces recoverable MRR on one screen.",
+      "description_fr": "Le bureau de relance pour les SaaS bootstrapés. Se connecte à Stripe, exécute une séquence de récupération réglable et affiche le MRR récupérable sur un seul écran.",
+      "category": "Software & SaaS",
       "website": "https://reliquat-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T08:00:07.567834+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T09:12:31.680987+00:00"
     },
     {
       "name": "Pactward",
       "slug": "polsia-pactward-4",
+      "description": "Continuous compliance monitoring for mid-market companies. Pactward watches your code, cloud, data, and HR systems against every regulation you actually face.",
+      "description_fr": "Surveillance continue de la conformité pour les entreprises de taille intermédiaire. Pactward surveille votre code, votre cloud, vos données et vos systèmes RH par rapport à toutes les réglementations auxquelles vous êtes réellement confronté.",
+      "category": "Other",
       "website": "https://pactward-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T08:00:13.377824+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T09:12:33.090484+00:00"
     },
     {
       "name": "Brzęczka",
       "slug": "polsia-brzczka",
+      "description": "Całodobowa recepcjonistka AI dla klinik, salonów i kancelarii — po polsku, w polskim kalendarzu. 200–500 PLN miesięcznie.",
+      "description_fr": "Całodobowa recepcjonistka AI dla klinik, salonow i kancelarii — po polsku, w polskim kalendarzu. 200 à 500 PLN par mois.",
+      "category": "AI & Machine Learning",
       "website": "https://brzczka.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T08:00:19.060084+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-07T09:12:34.731090+00:00"
     },
     {
       "name": "Driftpost",
@@ -228955,10 +228979,93 @@
     {
       "name": "Searscope",
       "slug": "polsia-searscope",
+      "description": "Always-on AI agent watching your fryers, ovens, and walk-ins. Streams telemetry, dispatches work orders, keeps every cooler audit-ready.",
+      "description_fr": "Agent IA toujours actif surveillant vos friteuses, fours et walk-ins. Diffuse la télémétrie, distribue les bons de travail et garde chaque refroidisseur prêt pour un audit.",
+      "category": "AI & Machine Learning",
       "website": "https://searscope.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-07T09:12:35.914022+00:00"
+    },
+    {
+      "name": "Creatoons Studio",
+      "slug": "polsia-creatoons-studio",
+      "website": "https://creatoons-studio.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-07T08:00:30.087249+00:00"
+      "scraped_at": "2026-08-07T09:11:25.631741+00:00"
+    },
+    {
+      "name": "Buczek",
+      "slug": "polsia-buczek",
+      "website": "https://buczek.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T09:11:26.403352+00:00"
+    },
+    {
+      "name": "Heimvakt",
+      "slug": "polsia-heimvakt-3",
+      "website": "https://heimvakt-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T09:11:27.132225+00:00"
+    },
+    {
+      "name": "Bowlround",
+      "slug": "polsia-bowlround",
+      "website": "https://bowlround.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T09:11:27.874200+00:00"
+    },
+    {
+      "name": "Mirunabe",
+      "slug": "polsia-mirunabe",
+      "website": "https://mirunabe.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T09:11:33.504132+00:00"
+    },
+    {
+      "name": "Spendwright",
+      "slug": "polsia-spendwright-2",
+      "website": "https://spendwright-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T09:11:39.056778+00:00"
+    },
+    {
+      "name": "SynapsesAI",
+      "slug": "polsia-synapsesai",
+      "website": "https://synapsesai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T09:11:44.437055+00:00"
+    },
+    {
+      "name": "Cairnpilot",
+      "slug": "polsia-cairnpilot",
+      "website": "https://cairnpilot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T09:11:49.875195+00:00"
+    },
+    {
+      "name": "Backbolt",
+      "slug": "polsia-backbolt",
+      "website": "https://backbolt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T09:11:55.520403+00:00"
+    },
+    {
+      "name": "Twinmint",
+      "slug": "polsia-twinmint-2",
+      "website": "https://twinmint-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-07T09:12:01.125715+00:00"
     }
   ]
 }
