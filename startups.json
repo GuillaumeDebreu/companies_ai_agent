@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T03:50:04.931413+00:00",
+  "last_updated": "2026-08-08T04:44:28.526495+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -231024,12 +231024,15 @@
       "scraped_at": "2026-08-08T02:18:16.708762+00:00"
     },
     {
-      "name": "dannyxayasane",
+      "name": "Danny Xayasane",
       "slug": "polsia-dannyxayasane",
+      "description": "Personal brand and online presence of Danny Xayasane — a single, recognizable identity for the work published under one handle.",
+      "description_fr": "Marque personnelle et présence en ligne de Danny Xayasane — une identité unique et reconnaissable pour l'œuvre publiée sous une seule adresse.",
+      "category": "Marketing & Advertising",
       "website": "https://dannyxayasane.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T03:47:46.015792+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T04:43:30.822476+00:00"
     },
     {
       "name": "Mossbridge",
@@ -231042,26 +231045,35 @@
     {
       "name": "Nya Latam",
       "slug": "polsia-nya-latam",
+      "description": "Exclusive LATAM, South America & Asia distributor of Desiccare and Integra Boost humidity-control products — pharmaceutical, food, defense and cargo-grade.",
+      "description_fr": "Distributeur exclusif LATAM, Amérique du Sud et Asie des produits de contrôle de l'humidité Desiccare et Integra Boost – de qualité pharmaceutique, alimentaire, de défense et de fret.",
+      "category": "Food & Beverage",
       "website": "https://nya-latam.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T03:47:56.916008+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T04:43:33.455312+00:00"
     },
     {
       "name": "Glassroot",
       "slug": "polsia-glassroot",
+      "description": "Autonomous agents that watch every plant, sensor, and filing deadline.",
+      "description_fr": "Des agents autonomes qui surveillent chaque usine, chaque capteur et chaque date limite de dépôt.",
+      "category": "AI & Machine Learning",
       "website": "https://glassroot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T03:48:02.565328+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T04:43:35.503212+00:00"
     },
     {
       "name": "Vesperpost",
       "slug": "polsia-vesperpost-2",
+      "description": "Catholic author-led: self-published books, weekly letters, and a slow-mail reading circle.",
+      "description_fr": "Dirigé par un auteur catholique : livres auto-publiés, lettres hebdomadaires et cercle de lecture lente par courrier.",
+      "category": "Other",
       "website": "https://vesperpost-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T03:48:08.204966+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T04:43:36.908434+00:00"
     },
     {
       "name": "cortez3607",
@@ -231117,6 +231129,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-08T03:50:04.930519+00:00"
+    },
+    {
+      "name": "Humline",
+      "slug": "polsia-humline",
+      "website": "https://humline.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T04:42:11.077739+00:00"
+    },
+    {
+      "name": "Hawseye",
+      "slug": "polsia-hawseye",
+      "website": "https://hawseye.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T04:42:11.902078+00:00"
+    },
+    {
+      "name": "Marrowline",
+      "slug": "polsia-marrowline-6",
+      "website": "https://marrowline-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T04:42:12.790352+00:00"
+    },
+    {
+      "name": "Werktap",
+      "slug": "polsia-werktap",
+      "website": "https://werktap.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T04:42:13.789545+00:00"
+    },
+    {
+      "name": "Crewswift",
+      "slug": "polsia-crewswift",
+      "website": "https://crewswift.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T04:42:19.504810+00:00"
+    },
+    {
+      "name": "Vaultwright",
+      "slug": "polsia-vaultwright-4",
+      "website": "https://vaultwright-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T04:42:25.030242+00:00"
+    },
+    {
+      "name": "Pactstead",
+      "slug": "polsia-pactstead-2",
+      "website": "https://pactstead-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T04:42:25.870418+00:00"
+    },
+    {
+      "name": "Verdsigil",
+      "slug": "polsia-verdsigil",
+      "website": "https://verdsigil.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T04:42:31.538973+00:00"
+    },
+    {
+      "name": "Rebaz",
+      "slug": "polsia-rebaz",
+      "website": "https://rebaz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T04:42:37.320510+00:00"
+    },
+    {
+      "name": "Vouchtag",
+      "slug": "polsia-vouchtag",
+      "website": "https://vouchtag.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T04:42:43.058899+00:00"
     }
   ]
 }
