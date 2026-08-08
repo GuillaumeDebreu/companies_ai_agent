@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T20:28:44.727962+00:00",
+  "last_updated": "2026-08-08T21:02:53.535777+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -233717,66 +233717,90 @@
     {
       "name": "Trellis Reel",
       "slug": "polsia-trellis-reel",
+      "description": "Hyper-local short-form content and creator-marketing for Central Valley businesses.",
+      "description_fr": "Contenu court hyper-local et marketing des créateurs pour les entreprises de la vallée centrale.",
+      "category": "Marketing & Advertising",
       "website": "https://trellis-reel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T20:25:45.923401+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T21:01:37.848393+00:00"
     },
     {
       "name": "Tournery",
       "slug": "polsia-tournery",
+      "description": "A 24/7 online rep team for studio potters — agent-driven pricing, inquiry handling, packing, and curated overnight drops for functional ceramic ware.",
+      "description_fr": "Une équipe de représentation en ligne 24h/24 et 7j/7 pour les potiers d'atelier : tarification déterminée par les agents, traitement des demandes, emballage et livraisons nocturnes organisées pour les articles en céramique fonctionnels.",
+      "category": "Other",
       "website": "https://tournery.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T20:25:46.650311+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T21:01:39.118071+00:00"
     },
     {
       "name": "Kilnshift",
       "slug": "polsia-kilnshift",
+      "description": "An always-on AI agent that runs poke, wing, and burrito shops on skeleton crews — watches every order, schedules prep, watches inventory, and texts the owner a clean hourly P&L.",
+      "description_fr": "Un agent IA toujours actif qui gère des magasins de poke, d'ailes et de burrito avec des équipes réduites - surveille chaque commande, planifie la préparation, surveille l'inventaire et envoie au propriétaire un P&L horaire propre.",
+      "category": "AI & Machine Learning",
       "website": "https://kilnshift.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T20:25:47.437055+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T21:01:40.187092+00:00"
     },
     {
       "name": "Outpostroom",
       "slug": "polsia-outpostroom",
+      "description": "Always-on AI newsroom agents that monitor, draft, self-edit, and publish for niche subscription sites.",
+      "description_fr": "Des agents de rédaction IA toujours actifs qui surveillent, rédigent, auto-éditent et publient pour des sites d'abonnement de niche.",
+      "category": "AI & Machine Learning",
       "website": "https://outpostroom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T20:25:53.013709+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T21:01:41.600107+00:00"
     },
     {
       "name": "Earnpost",
       "slug": "polsia-earnpost",
+      "description": "Earnpost runs 24/7 AI tax diligence agents for private equity and corporate acquirers — quantifying exposures pre-close and stewarding indemnity erosion post-close.",
+      "description_fr": "Earnpost gère 24 heures sur 24 et 7 jours sur 7 des agents de diligence fiscale IA pour le capital-investissement et les acquéreurs d'entreprises – quantifiant les expositions avant la clôture et gérant l'érosion des indemnités après la clôture.",
+      "category": "AI & Machine Learning",
       "website": "https://earnpost.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T20:25:58.582985+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T21:01:42.844467+00:00"
     },
     {
       "name": "Tinselmind",
       "slug": "polsia-tinselmind",
+      "description": "AI-curated luxury seasonal decor, installed and managed end-to-end.",
+      "description_fr": "Décoration saisonnière de luxe organisée par l'IA, installée et gérée de bout en bout.",
+      "category": "AI & Machine Learning",
       "website": "https://tinselmind.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T20:26:04.214741+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T21:01:43.854343+00:00"
     },
     {
       "name": "Karvault",
       "slug": "polsia-karvault",
+      "description": "Karvault is a peer-to-peer used car marketplace where every vehicle is inspected, history-verified, and financed end-to-end — direct from one owner to another, without the dealer markup.",
+      "description_fr": "Karvault est un marché de voitures d'occasion peer-to-peer où chaque véhicule est inspecté, vérifié par son historique et financé de bout en bout, directement d'un propriétaire à un autre, sans majoration du concessionnaire.",
+      "category": "E-Commerce & Retail",
       "website": "https://karvault.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T20:26:09.663836+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T21:01:45.671310+00:00"
     },
     {
       "name": "Tensigram",
       "slug": "polsia-tensigram",
+      "description": "Autonomous FEA, thermal & fatigue audits, delivered weekly. Tensigram continuously runs structural risk checks on your CAD library and emails a Monday compliance digest.",
+      "description_fr": "Audits FEA, thermiques et de fatigue autonomes, réalisés chaque semaine. Tensigram effectue en permanence des contrôles des risques structurels sur votre bibliothèque CAO et envoie par courrier électronique un résumé de conformité le lundi.",
+      "category": "Marketing & Advertising",
       "website": "https://tensigram.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T20:26:15.287461+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T21:01:47.249892+00:00"
     },
     {
       "name": "Hawkmark",
@@ -233792,10 +233816,93 @@
     {
       "name": "Scharnier",
       "slug": "polsia-scharnier",
+      "description": "Wir automatisieren KMU, die deutsch sprechen. KI-gestützte Workflows für Vertrieb, Buchhaltung, Terminbuchung und Telefonie — DSGVO- und EU-AI-Act-konform.",
+      "description_fr": "Nous automatisons KMU, en allemand. KI-gestützte Workflows for Vertrieb, Buchhaltung, Terminbuchung et Telefonie — DSGVO- et EU-AI-Act-conforme.",
+      "category": "Productivity & Automation",
       "website": "https://scharnier.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T21:01:48.938301+00:00"
+    },
+    {
+      "name": "KAELIR",
+      "slug": "polsia-kaelir",
+      "website": "https://kaelir.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-08T20:26:26.232696+00:00"
+      "scraped_at": "2026-08-08T20:59:33.682366+00:00"
+    },
+    {
+      "name": "Carigem",
+      "slug": "polsia-carigem",
+      "website": "https://carigem.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:59:39.230391+00:00"
+    },
+    {
+      "name": "Turnwell",
+      "slug": "polsia-turnwell-9",
+      "website": "https://turnwell-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:59:39.856424+00:00"
+    },
+    {
+      "name": "Ofenwacht",
+      "slug": "polsia-ofenwacht",
+      "website": "https://ofenwacht.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:59:40.481295+00:00"
+    },
+    {
+      "name": "Crewyard",
+      "slug": "polsia-crewyard-k5bzp9",
+      "website": "https://crewyard-k5bzp9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:59:45.883128+00:00"
+    },
+    {
+      "name": "Bookwren",
+      "slug": "polsia-bookwren-x5kkk1",
+      "website": "https://bookwren-x5kkk1.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:59:51.515534+00:00"
+    },
+    {
+      "name": "Datedex",
+      "slug": "polsia-datedex",
+      "website": "https://datedex.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:59:56.894696+00:00"
+    },
+    {
+      "name": "Našilec",
+      "slug": "polsia-nailec",
+      "website": "https://nailec.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T21:00:07.472806+00:00"
+    },
+    {
+      "name": "Brushbench",
+      "slug": "polsia-brushbench",
+      "website": "https://brushbench.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T21:00:13.279127+00:00"
+    },
+    {
+      "name": "Termivore",
+      "slug": "polsia-termivore",
+      "website": "https://termivore.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T21:00:18.652931+00:00"
     }
   ]
 }
