@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T22:05:04.729487+00:00",
+  "last_updated": "2026-08-08T22:45:27.792309+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -234047,82 +234047,198 @@
     {
       "name": "Refundry",
       "slug": "polsia-refundry-2",
+      "description": "Refundry is an AI agentdesk that watches your accounts, finds forgotten and duplicate subscriptions, and recovers the money by cancelling trials, requesting refunds, and negotiating rates — on autopilot.",
+      "description_fr": "Refundry est un bureau d'agents IA qui surveille vos comptes, trouve les abonnements oubliés et en double et récupère l'argent en annulant les essais, en demandant des remboursements et en négociant les tarifs, sur pilote automatique.",
+      "category": "AI & Machine Learning",
       "website": "https://refundry-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T22:02:22.679309+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T22:44:16.393759+00:00"
     },
     {
       "name": "Trailward",
       "slug": "polsia-trailward",
+      "description": "Real-time drawdown enforcement for Apex-funded ES/NQ accounts. Trailward sizes every entry against your trailing threshold and DLL before it lands.",
+      "description_fr": "Application des retraits en temps réel pour les comptes ES/NQ financés par Apex. Trailward dimensionne chaque entrée par rapport à votre seuil final et à votre DLL avant qu'elle n'arrive.",
+      "category": "Other",
       "website": "https://trailward.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T22:02:23.206579+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T22:44:18.355538+00:00"
     },
     {
       "name": "Veille Atelier",
       "slug": "polsia-veille-atelier",
+      "description": "Slow-poured home fragrance, sourced in China, lit across Europe. Small-batch candles and reed diffusers with full CLP labelling and full allergen disclosure.",
+      "description_fr": "Parfum d'ambiance à diffusion lente, provenant de Chine, diffusé dans toute l'Europe. Bougies et diffuseurs à roseaux en petits lots avec étiquetage CLP complet et divulgation complète des allergènes.",
+      "category": "Other",
       "website": "https://veille-atelier.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T22:02:23.924340+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T22:44:19.707991+00:00"
     },
     {
       "name": "Tideline Apothecary",
       "slug": "polsia-tideline-apothecary",
+      "description": "Bulk botanicals, salves, sea moss & teas — sourced wild, shipped wholesale. Lot-coded, FDA-GMP-ready, and traceable to farm and grower.",
+      "description_fr": "Plantes en vrac, pommades, mousse de mer et thés – d'origine sauvage, expédiés en gros. Codé par lot, prêt pour la FDA-GMP et traçable jusqu'à la ferme et le producteur.",
+      "category": "Other",
       "website": "https://tideline-apothecary.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T22:02:29.344714+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T22:44:21.294760+00:00"
     },
     {
       "name": "AeroWick",
       "slug": "polsia-aerowick",
+      "description": "AeroWick is a set-and-forget 2.4 GHz watchdog that listens to every Bluetooth, Zigbee, and other nearby emission your Wi-Fi router ignores — and emails you a plain-English intrusion report every morning.",
+      "description_fr": "AeroWick est un chien de garde 2,4 GHz à configurer et à oublier qui écoute toutes les émissions Bluetooth, Zigbee et autres émissions à proximité ignorées par votre routeur Wi-Fi - et vous envoie chaque matin par e-mail un rapport d'intrusion en anglais simple.",
+      "category": "Newsletter & Email",
       "website": "https://aerowick.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T22:02:34.904650+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T22:44:23.378360+00:00"
     },
     {
       "name": "Recurve OS",
       "slug": "polsia-recurve-os",
+      "description": "An autonomous operating system that recaptures lost home-service revenue.",
+      "description_fr": "Un système d'exploitation autonome qui récupère les revenus perdus des services à domicile.",
+      "category": "Other",
       "website": "https://recurve-os.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T22:02:35.507413+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T22:44:25.175622+00:00"
     },
     {
       "name": "Kombu Studio",
       "slug": "polsia-kombu-studio",
+      "description": "L’agence créative 100 % en ligne, pensée pour TPE, associations et acteurs du loisir.",
+      "description_fr": "L’agence créative 100 % en ligne, pensée pour TPE, associations et acteurs du loisir.",
+      "category": "Other",
       "website": "https://kombu-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T22:02:41.116483+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T22:44:26.509605+00:00"
     },
     {
       "name": "Vortix Shield",
       "slug": "polsia-vortix-shield",
+      "description": "Discord-Sicherheit als Plattform – Backup, KI und API in einem Stack.",
+      "description_fr": "Discord-Sicherheit as Plattform – Sauvegarde, KI et API dans une pile.",
+      "category": "Software & SaaS",
       "website": "https://vortix-shield.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T22:02:46.681537+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T22:44:27.635079+00:00"
     },
     {
       "name": "RawGram",
       "slug": "polsia-rawgram",
+      "description": "RawGram is a premium image-first social platform for unfiltered sharing — a real-time feed and direct messages for creators and their circles.",
+      "description_fr": "RawGram est une plateforme sociale premium axée sur l'image pour un partage non filtré : un flux en temps réel et des messages directs pour les créateurs et leurs cercles.",
+      "category": "Software & SaaS",
       "website": "https://rawgram.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T22:02:52.119965+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T22:44:29.012905+00:00"
     },
     {
       "name": "Grovehaus",
       "slug": "polsia-grovehaus",
+      "description": "Grovehaus is the complete SPED classroom kit — worksheets, data graphs, task boxes, and station rotations, ready to print and run the same day.",
+      "description_fr": "Grovehaus est le kit complet de classe SPED : feuilles de travail, graphiques de données, boîtes de tâches et rotations de stations, prêts à être imprimés et exécutés le jour même.",
+      "category": "Other",
       "website": "https://grovehaus.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T22:44:30.457685+00:00"
+    },
+    {
+      "name": "Hatchpost",
+      "slug": "polsia-hatchpost-5yed4u",
+      "website": "https://hatchpost-5yed4u.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-08T22:02:57.500956+00:00"
+      "scraped_at": "2026-08-08T22:42:06.057407+00:00"
+    },
+    {
+      "name": "Pulse Social Media",
+      "slug": "polsia-pulse-social-media",
+      "website": "https://pulse-social-media.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T22:42:06.955763+00:00"
+    },
+    {
+      "name": "Ownstead",
+      "slug": "polsia-ownstead-4",
+      "website": "https://ownstead-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T22:42:12.666100+00:00"
+    },
+    {
+      "name": "Signight",
+      "slug": "polsia-signight",
+      "website": "https://signight.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T22:42:13.605342+00:00"
+    },
+    {
+      "name": "GooseWorks AI",
+      "slug": "polsia-gooseworks-ai",
+      "website": "https://gooseworks-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T22:42:19.321557+00:00"
+    },
+    {
+      "name": "Bridlepost",
+      "slug": "polsia-bridlepost",
+      "description": "The curated horse marketplace, vetted from listing to delivery.",
+      "description_fr": "Le marché des chevaux organisé, vérifié de l'inscription à la livraison.",
+      "category": "E-Commerce & Retail",
+      "website": "https://bridlepost.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T22:45:04.489687+00:00"
+    },
+    {
+      "name": "Brickwright",
+      "slug": "polsia-brickwright-wq3d3e",
+      "website": "https://brickwright-wq3d3e.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T22:42:30.647883+00:00"
+    },
+    {
+      "name": "Stillmere Cellars",
+      "slug": "polsia-stillmere-cellars",
+      "website": "https://stillmere-cellars.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T22:42:36.314687+00:00"
+    },
+    {
+      "name": "Pairhelm",
+      "slug": "polsia-pairhelm",
+      "website": "https://pairhelm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T22:42:46.863317+00:00"
+    },
+    {
+      "name": "Fernvault",
+      "slug": "polsia-fernvault",
+      "description": "A curated shelf of digital products, cloud tools, and growth subscriptions for solo operators and small teams. Vetted by Oakland consultant Mariah Schepers, with honest side-by-sides and plain-English setup help.",
+      "description_fr": "Une gamme organisée de produits numériques, d'outils cloud et d'abonnements de croissance pour les opérateurs solo et les petites équipes. Vérifié par la consultante d'Oakland, Mariah Schepers, avec une aide honnête à la configuration côte à côte et en anglais simple.",
+      "category": "Other",
+      "website": "https://fernvault.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T22:45:27.791350+00:00"
     }
   ]
 }
