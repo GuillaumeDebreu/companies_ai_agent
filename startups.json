@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T14:04:21.829717+00:00",
+  "last_updated": "2026-08-08T14:46:51.594012+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -232536,10 +232536,13 @@
     {
       "name": "Stipular",
       "slug": "polsia-stipular-3",
+      "description": "Forensic lookup for Minnesota-issued obligations. Trace any court bond, municipal note, or Article 8 certificate from the originating filing through every pledge, transfer, and resale.",
+      "description_fr": "Recherche médico-légale des obligations émises par le Minnesota. Retracez toute caution judiciaire, note municipale ou certificat de l'article 8 depuis le dépôt d'origine jusqu'à chaque gage, transfert et revente.",
+      "category": "Other",
       "website": "https://stipular-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T14:01:38.501247+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T14:45:44.155273+00:00"
     },
     {
       "name": "OVERBUILT INDUSTRIES",
@@ -232552,58 +232555,162 @@
     {
       "name": "Hooksmith",
       "slug": "polsia-hooksmith-4",
+      "description": "Short-form video, productized for high-growth SMBs. Twelve on-brand Reels, TikToks and Shorts a month, with hook-engineering on the first three seconds.",
+      "description_fr": "Vidéo courte, produite pour les PME à forte croissance. Douze Reels, TikToks et Shorts de marque par mois, avec une ingénierie d'accroche sur les trois premières secondes.",
+      "category": "Marketing & Advertising",
       "website": "https://hooksmith-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T14:01:44.816268+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T14:45:46.330506+00:00"
     },
     {
       "name": "Zaftig Compass",
       "slug": "polsia-zaftig-compass",
+      "description": "The non-clinical companion for navigating perimenopause, one symptom at a time. Personalized, evidence-graded protocols drawn from vetted supplements, sleep tools, movement, and lifestyle — with the honesty of a good friend who does the reading for you.",
+      "description_fr": "Le compagnon non clinique pour naviguer dans la périménopause, un symptôme à la fois. Des protocoles personnalisés et fondés sur des preuves, tirés de suppléments approuvés, d'outils de sommeil, de mouvements et de modes de vie, avec l'honnêteté d'un bon ami qui fait la lecture pour vous.",
+      "category": "Health & Wellness",
       "website": "https://zaftig-compass.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T14:01:50.458551+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T14:45:47.766838+00:00"
     },
     {
       "name": "Readiform",
       "slug": "polsia-readiform",
+      "description": "Continuous readiness scoring for startups and SMEs. AI agents score your market, operations, finance, and founder fit every week — and ship a prioritized Monday action plan.",
+      "description_fr": "Score de préparation continu pour les startups et les PME. Les agents d'IA évaluent chaque semaine votre adéquation au marché, à vos opérations, à vos finances et à votre fondateur - et proposent un plan d'action prioritaire le lundi.",
+      "category": "AI & Machine Learning",
       "website": "https://readiform.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T14:01:56.111959+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T14:45:49.434154+00:00"
     },
     {
       "name": "Sylva Holdings",
       "slug": "polsia-sylva-holdings",
+      "description": "An architect’s holding company for an interconnected corporate ecosystem.",
+      "description_fr": "Une holding d’architecte pour un écosystème d’entreprise interconnecté.",
+      "category": "Sustainability & Green",
       "website": "https://sylva-holdings.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T14:02:01.722858+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T14:45:50.845978+00:00"
     },
     {
       "name": "Emberwell",
       "slug": "polsia-emberwell-4",
+      "description": "The non-clinical operating system for perimenopause and menopause — tracking, protocols, supplements, and community for the daily lived experience.",
+      "description_fr": "Le système d'exploitation non clinique pour la périménopause et la ménopause : suivi, protocoles, suppléments et communauté pour l'expérience quotidienne.",
+      "category": "Health & Wellness",
       "website": "https://emberwell-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T14:02:07.355033+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T14:45:52.782911+00:00"
     },
     {
       "name": "Knothold",
       "slug": "polsia-knothold-2",
+      "description": "A decision-ledger agent that quietly audits every choice, flags contradictions, and delivers a weekly clarity digest.",
+      "description_fr": "Un agent de décision qui vérifie discrètement chaque choix, signale les contradictions et fournit un résumé hebdomadaire clair.",
+      "category": "Other",
       "website": "https://knothold-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T14:02:12.747787+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T14:45:53.976954+00:00"
     },
     {
       "name": "Yonderhand",
       "slug": "polsia-yonderhand",
+      "description": "Watches cattle, auctions, and weather. Texts you at dawn.",
+      "description_fr": "Surveille le bétail, les enchères et la météo. Il t'envoie un message à l'aube.",
+      "category": "Other",
       "website": "https://yonderhand.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T14:45:56.014408+00:00"
+    },
+    {
+      "name": "Mooglebloom",
+      "slug": "polsia-mooglebloom",
+      "website": "https://mooglebloom.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-08T14:02:23.553298+00:00"
+      "scraped_at": "2026-08-08T14:43:52.610703+00:00"
+    },
+    {
+      "name": "luka karlic designs",
+      "slug": "polsia-luka-karlic-designs",
+      "website": "https://luka-karlic-designs.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T14:43:53.430042+00:00"
+    },
+    {
+      "name": "Code 8 Services",
+      "slug": "polsia-code-8-services",
+      "website": "https://code-8-services.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T14:44:04.169873+00:00"
+    },
+    {
+      "name": "Cooper Customs",
+      "slug": "polsia-cooper-customs",
+      "website": "https://cooper-customs.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T14:44:09.729499+00:00"
+    },
+    {
+      "name": "Loombeam",
+      "slug": "polsia-loombeam",
+      "website": "https://loombeam.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T14:44:15.336570+00:00"
+    },
+    {
+      "name": "Lexigate",
+      "slug": "polsia-lexigate",
+      "website": "https://lexigate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T14:44:16.048777+00:00"
+    },
+    {
+      "name": "Courtkeep",
+      "slug": "polsia-courtkeep",
+      "website": "https://courtkeep.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T14:44:21.761285+00:00"
+    },
+    {
+      "name": "Klaryos",
+      "slug": "polsia-klaryos",
+      "website": "https://klaryos.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T14:44:27.389766+00:00"
+    },
+    {
+      "name": "Brickpost",
+      "slug": "polsia-brickpost-6",
+      "website": "https://brickpost-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T14:44:32.951792+00:00"
+    },
+    {
+      "name": "Filedwell",
+      "slug": "polsia-filedwell-4",
+      "description": "Always-on FDA filing agent built for small biotech and MedTech. Filedwell watches, files, and reports so founders do not have to live in RIM software.",
+      "description_fr": "Agent de dépôt FDA toujours actif, conçu pour les petites biotechnologies et MedTech. Filedwell surveille, classe et rapporte afin que les fondateurs n'aient pas à vivre dans le logiciel RIM.",
+      "category": "Software & SaaS",
+      "website": "https://filedwell-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T14:46:51.593184+00:00"
     }
   ]
 }
