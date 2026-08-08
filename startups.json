@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T08:57:08.880429+00:00",
+  "last_updated": "2026-08-08T09:40:45.571550+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -231668,50 +231668,68 @@
     {
       "name": "Say When",
       "slug": "polsia-say-when",
+      "description": "The social concierge that turns \"we should\" into \"see you there.\" Three vote-ready options, a deadline, and a locked plan the moment your group decides.",
+      "description_fr": "Le concierge social qui transforme « nous devrions » en « à bientôt ». Trois options prêtes au vote, une date limite et un plan verrouillé au moment où votre groupe le décide.",
+      "category": "Social & Community",
       "website": "https://say-when.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T08:54:53.458675+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T09:39:51.852280+00:00"
     },
     {
       "name": "Doodledust",
       "slug": "polsia-doodledust",
+      "description": "Doodledust turns any idea into a printable coloring book in minutes — pick a theme, age, and complexity, get a cohesive set of black-and-white illustrations, a matching cover, and a print-ready US Letter PDF delivered instantly.",
+      "description_fr": "Doodledust transforme n'importe quelle idée en un livre de coloriage imprimable en quelques minutes : choisissez un thème, un âge et une complexité, obtenez un ensemble cohérent d'illustrations en noir et blanc, une couverture assortie et un PDF de lettre américaine prêt à imprimer, livré instantanément.",
+      "category": "Other",
       "website": "https://doodledust.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T08:54:54.110486+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T09:39:53.987534+00:00"
     },
     {
       "name": "Kasstral",
       "slug": "polsia-kasstral",
+      "description": "L'agent comptable IA qui tient vos comptes 24 h/24, 7 j/7 — rapprochement bancaire, relances et détection d'anomalies pour les PME.",
+      "description_fr": "L'agent comptable IA qui tient vos comptes 24 h/24, 7 j/7 — rapprochement bancaire, relances et détection d'anomalies pour les PME.",
+      "category": "Other",
       "website": "https://kasstral.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T08:54:54.742091+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T09:39:55.447717+00:00"
     },
     {
       "name": "Oathwright",
       "slug": "polsia-oathwright-2",
+      "description": "Fractional ISSM fluent in CMMC, NIST SP 800-171, and RMF. A named security manager on contract for defense primes and subcontractors that handle CUI.",
+      "description_fr": "ISSM fractionnaire maîtrisant CMMC, NIST SP 800-171 et RMF. Un responsable de la sécurité nommé sous contrat pour les maîtres d'œuvre et les sous-traitants de la défense qui gèrent le CUI.",
+      "category": "Other",
       "website": "https://oathwright-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T08:55:00.128438+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T09:39:56.591735+00:00"
     },
     {
       "name": "Kaaro",
       "slug": "polsia-kaaro-2",
+      "description": "AI agents automating railroad back-office and operations work — data entry, incident reporting, billing, quoting, and yard-dwell reduction for North American railroads.",
+      "description_fr": "Agents IA automatisant le travail de back-office et d'exploitation des chemins de fer : saisie de données, rapports d'incidents, facturation, devis et réduction des arrêts dans les gares de triage pour les chemins de fer nord-américains.",
+      "category": "AI & Machine Learning",
       "website": "https://kaaro-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T08:55:05.486401+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T09:39:57.703614+00:00"
     },
     {
       "name": "Allotrac",
       "slug": "polsia-allotrac",
+      "description": "The 24/7 AI agent keeping every drop of irrigation inside your water rights.",
+      "description_fr": "L'agent IA 24h/24 et 7j/7 garde chaque goutte d'irrigation dans vos droits d'eau.",
+      "category": "AI & Machine Learning",
       "website": "https://allotrac.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T08:55:10.949518+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T09:39:58.884983+00:00"
     },
     {
       "name": "Paisapedia",
@@ -231727,10 +231745,13 @@
     {
       "name": "Bentang",
       "slug": "polsia-bentang",
+      "description": "The discoverable factory directory for Southeast Asia's tariff-favored exporters.",
+      "description_fr": "Le répertoire d'usines visible pour les exportateurs bénéficiant de tarifs préférentiels en Asie du Sud-Est.",
+      "category": "Other",
       "website": "https://bentang.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T08:55:27.364231+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T09:40:00.193616+00:00"
     },
     {
       "name": "Spilpunt",
@@ -231753,6 +231774,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-08T08:55:30.368849+00:00"
+    },
+    {
+      "name": "Bracken & Bird",
+      "slug": "polsia-bracken-bird",
+      "website": "https://bracken-bird.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T09:38:16.571331+00:00"
+    },
+    {
+      "name": "Castwise",
+      "slug": "polsia-castwise-5",
+      "website": "https://castwise-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T09:38:17.289404+00:00"
+    },
+    {
+      "name": "Mercavia",
+      "slug": "polsia-mercavia",
+      "website": "https://mercavia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T09:38:17.938872+00:00"
+    },
+    {
+      "name": "Headmason",
+      "slug": "polsia-headmason",
+      "website": "https://headmason.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T09:38:18.675231+00:00"
+    },
+    {
+      "name": "Matteo Homedecoration",
+      "slug": "polsia-matteo-homedecoration",
+      "website": "https://matteo-homedecoration.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T09:38:24.251468+00:00"
+    },
+    {
+      "name": "Picklee",
+      "slug": "polsia-picklee",
+      "website": "https://picklee.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T09:38:34.819517+00:00"
+    },
+    {
+      "name": "Erasmus Connect",
+      "slug": "polsia-erasmus-connect",
+      "description": "Die Community-App für Erasmus- und Austauschstudierende – Freundschaften schon vor der Ankunft knüpfen.",
+      "description_fr": "L'application communautaire pour les étudiants Erasmus et Austausch – Les amis sont également à la recherche de l'Ankunft knüpfen.",
+      "category": "Social & Community",
+      "website": "https://erasmus-connect.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T09:40:38.996147+00:00"
+    },
+    {
+      "name": "Molewright",
+      "slug": "polsia-molewright",
+      "website": "https://molewright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T09:38:46.012539+00:00"
+    },
+    {
+      "name": "Pivolex",
+      "slug": "polsia-pivolex",
+      "description": "DACH into CEE, localized in 24 hours. Hybrid AI-and-human localization for landing pages, ads, and emails across the CEE market — every asset reviewed by a native Balkan-speaker.",
+      "description_fr": "DACH vers CEE, localisé en 24 heures. Localisation hybride IA et humaine pour les pages de destination, les publicités et les e-mails sur le marché des PECO – chaque actif examiné par un locuteur natif des Balkans.",
+      "category": "AI & Machine Learning",
+      "website": "https://pivolex.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T09:38:47.408901+00:00"
+    },
+    {
+      "name": "Bidmast",
+      "slug": "polsia-bidmast-2",
+      "description": "Multi-portal bid intelligence for small government contractors.",
+      "description_fr": "Informations sur les offres multi-portails pour les petits entrepreneurs gouvernementaux.",
+      "category": "Other",
+      "website": "https://bidmast-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T09:40:45.570508+00:00"
     }
   ]
 }
