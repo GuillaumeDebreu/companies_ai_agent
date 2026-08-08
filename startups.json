@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T23:35:37.160361+00:00",
+  "last_updated": "2026-08-08T00:05:55.476726+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -230699,34 +230699,46 @@
     {
       "name": "Misewise",
       "slug": "polsia-misewise-4",
+      "description": "Smart food-cost audits, weekly. Upload invoices, menus, recipes, food-cost reports and waste logs; Misewise turns them into line-item food-cost analysis, ordering recommendations, waste alerts, prep lists, daily checklists, weekly management reports and employee SOPs — delivered by email every week for $299 a month, with no POS integration required.",
+      "description_fr": "Audits intelligents des coûts alimentaires, hebdomadaires. Téléchargez des factures, des menus, des recettes, des rapports sur le coût des aliments et des journaux de déchets ; Misewise les transforme en analyse des coûts alimentaires par article, recommandations de commande, alertes de gaspillage, listes de préparation, listes de contrôle quotidiennes, rapports de gestion hebdomadaires et SOP des employés – livrés par e-mail chaque semaine pour 299 $ par mois, sans aucune intégration de point de vente requise.",
+      "category": "Food & Beverage",
       "website": "https://misewise-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T23:33:12.171942+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T00:05:01.192474+00:00"
     },
     {
       "name": "Saltwash",
       "slug": "polsia-saltwash",
+      "description": "Steady, qualified leads for family-owned pool plastering and resurfacing shops in Bakersfield, Kern County, and the Central Coast.",
+      "description_fr": "Des prospects stables et qualifiés pour les ateliers familiaux de plâtrage et de resurfaçage de piscines à Bakersfield, dans le comté de Kern et sur la côte centrale.",
+      "category": "E-Commerce & Retail",
       "website": "https://saltwash.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T23:33:17.815427+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T00:05:02.450416+00:00"
     },
     {
       "name": "Frogtown Stitch",
       "slug": "polsia-frogtown-stitch",
+      "description": "Beyond Pittsburgh — Western Pennsylvania pride, stitched. Boutique tees, hoodies, and gear for the 412, 724, and 878.",
+      "description_fr": "Au-delà de Pittsburgh – Fierté de l’ouest de la Pennsylvanie, cousue. T-shirts, sweats à capuche et équipements boutique pour les 412, 724 et 878.",
+      "category": "Other",
       "website": "https://frogtown-stitch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T23:33:23.220215+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T00:05:03.575341+00:00"
     },
     {
       "name": "Fleetmote",
       "slug": "polsia-fleetmote",
+      "description": "Autonomous AI ops for multi-vendor managed print fleets. One pane of glass above HP, Xerox, Ricoh, Brother, Sharp, Konica Minolta, Kyocera, Canon and Lexmark.",
+      "description_fr": "Opérations d’IA autonomes pour les parcs d’impression gérés par plusieurs fournisseurs. Une vitre au-dessus de HP, Xerox, Ricoh, Brother, Sharp, Konica Minolta, Kyocera, Canon et Lexmark.",
+      "category": "AI & Machine Learning",
       "website": "https://fleetmote.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T23:33:28.914045+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T00:05:06.675072+00:00"
     },
     {
       "name": "Hearthkeep",
@@ -230742,10 +230754,13 @@
     {
       "name": "Scaldwell",
       "slug": "polsia-scaldwell",
+      "description": "Cooked-to-order hot meals, served in a cup. Unattended hot-meal vending that finishes raw ingredients sous-vide, in roughly three minutes.",
+      "description_fr": "Plats chauds préparés sur commande, servis dans une tasse. Vente sans surveillance de repas chauds qui finissent les ingrédients crus sous vide, en trois minutes environ.",
+      "category": "Food & Beverage",
       "website": "https://scaldwell.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T23:33:40.098045+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T00:05:07.856869+00:00"
     },
     {
       "name": "Bidaria",
@@ -230758,10 +230773,13 @@
     {
       "name": "WorkshopWeaver",
       "slug": "polsia-workshopweaver",
+      "description": "WorkshopWeaver ist das KI-gestützte Planungstool für professionelle Moderator:innen. Aus einer Zielbeschreibung entsteht in Minuten eine vollständige Workshop-Agenda mit Methoden, Zeitblöcken und Facilitation-Notes.",
+      "description_fr": "WorkshopWeaver est le tabouret de planification de gestion KI pour le modérateur professionnel. Aus einer Zielbeschreibung entsteht in Minuten a complet Workshop-Agenda mit Methoden, Zeitblöcken et Facilitation-Notes.",
+      "category": "E-Commerce & Retail",
       "website": "https://workshopweaver.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-07T23:33:56.300189+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T00:05:09.750293+00:00"
     },
     {
       "name": "Marrowloom",
@@ -230784,6 +230802,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-07T23:33:58.447183+00:00"
+    },
+    {
+      "name": "Menthorithm",
+      "slug": "polsia-menthorithm",
+      "website": "https://menthorithm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T00:03:26.994311+00:00"
+    },
+    {
+      "name": "Marégent",
+      "slug": "polsia-margent-6",
+      "website": "https://margent-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T00:03:27.779295+00:00"
+    },
+    {
+      "name": "Vervecrate",
+      "slug": "polsia-vervecrate",
+      "website": "https://vervecrate.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T00:03:33.391402+00:00"
+    },
+    {
+      "name": "Outhaul",
+      "slug": "polsia-outhaul-4",
+      "website": "https://outhaul-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T00:03:34.202830+00:00"
+    },
+    {
+      "name": "Brandward",
+      "slug": "polsia-brandward-5",
+      "website": "https://brandward-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T00:03:44.708813+00:00"
+    },
+    {
+      "name": "Ringkind",
+      "slug": "polsia-ringkind",
+      "website": "https://ringkind.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T00:03:50.357132+00:00"
+    },
+    {
+      "name": "Stubjet",
+      "slug": "polsia-stubjet",
+      "website": "https://stubjet.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T00:04:01.357026+00:00"
+    },
+    {
+      "name": "Pendlr",
+      "slug": "polsia-pendlr",
+      "website": "https://pendlr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T00:04:06.931076+00:00"
+    },
+    {
+      "name": "Slatepost",
+      "slug": "polsia-slatepost-3",
+      "website": "https://slatepost-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T00:04:12.303248+00:00"
+    },
+    {
+      "name": "The Shirtless Handyman",
+      "slug": "polsia-the-shirtless-handyman",
+      "description": "Seamless microcement, tadelakt and plaster luxury finishes — installed over existing tile, no demolition. New Orleans.",
+      "description_fr": "Finitions de luxe en béton ciré, tadelakt et plâtre sans couture — installées sur les carreaux existants, sans démolition. La Nouvelle-Orléans.",
+      "category": "Other",
+      "website": "https://the-shirtless-handyman.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T00:04:14.041747+00:00"
     }
   ]
 }
