@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T16:17:51.549090+00:00",
+  "last_updated": "2026-08-08T16:58:57.255495+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -232956,66 +232956,90 @@
     {
       "name": "Aisha POS",
       "slug": "polsia-aisha-pos",
+      "description": "Offline-first restaurant POS and automation platform for cafes and chains in Uzbekistan.",
+      "description_fr": "Première plateforme de point de vente et d'automatisation de restaurant hors ligne pour les cafés et les chaînes en Ouzbékistan.",
+      "category": "Software & SaaS",
       "website": "https://aisha-pos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T16:14:52.218817+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:57:46.998116+00:00"
     },
     {
       "name": "Tinkerwright",
       "slug": "polsia-tinkerwright-3",
+      "description": "Tinkerwright is an always-on AI agent that quietly maintains your GitHub repos: triages issues, ships small bounded PRs, and only pings you on decisions that count.",
+      "description_fr": "Tinkerwright est un agent d'IA toujours actif qui gère silencieusement vos dépôts GitHub : trie les problèmes, envoie de petits PR limités et vous envoie un ping uniquement sur les décisions qui comptent.",
+      "category": "AI & Machine Learning",
       "website": "https://tinkerwright-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T16:14:52.805276+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:57:48.786461+00:00"
     },
     {
       "name": "Loophouse",
       "slug": "polsia-loophouse-2",
+      "description": "A 24/7 AI operations desk for multichannel Shopify and Amazon brands under $10M GMV. One Slack channel, three operating loops, daily margin briefings.",
+      "description_fr": "Un bureau d'opérations d'IA 24h/24 et 7j/7 pour les marques multicanaux Shopify et Amazon d'un GMV inférieur à 10 millions de dollars. Un canal Slack, trois boucles opérationnelles, des briefings quotidiens sur les marges.",
+      "category": "AI & Machine Learning",
       "website": "https://loophouse-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T16:15:03.345071+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:57:49.738222+00:00"
     },
     {
       "name": "Brickmoor",
       "slug": "polsia-brickmoor-2",
+      "description": "Productized AI operations for healthcare and dental practices. We run the workflows that drain front-desk and billing teams — verified, package-priced.",
+      "description_fr": "Opérations d’IA produites pour les cabinets de soins de santé et dentaires. Nous gérons les flux de travail qui drainent les équipes de réception et de facturation – vérifiés et tarifés.",
+      "category": "AI & Machine Learning",
       "website": "https://brickmoor-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T16:15:08.881651+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:57:50.854870+00:00"
     },
     {
       "name": "Hearthside",
       "slug": "polsia-hearthside-7",
+      "description": "The always-on operations desk for independent restaurants. Watches reservations, reviews, distributor pricing and the phones — then acts, with a human approval layer on every reply and every order.",
+      "description_fr": "Le bureau des opérations toujours disponible pour les restaurants indépendants. Surveille les réservations, les avis, les prix des distributeurs et les téléphones, puis agit, avec une couche d'approbation humaine sur chaque réponse et chaque commande.",
+      "category": "Food & Beverage",
       "website": "https://hearthside-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T16:15:09.567751+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:57:52.060809+00:00"
     },
     {
       "name": "Ovada",
       "slug": "polsia-ovada",
+      "description": "AI quality operations teammate for FDA-regulated manufacturers.",
+      "description_fr": "Coéquipier des opérations de qualité de l'IA pour les fabricants réglementés par la FDA.",
+      "category": "AI & Machine Learning",
       "website": "https://ovada.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T16:15:15.229536+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:57:53.109988+00:00"
     },
     {
       "name": "VeilSway",
       "slug": "polsia-veilsway",
+      "description": "Always-on AI first-dance studio for couples — choreography, scheduling, and weekly prep to the aisle.",
+      "description_fr": "Studio de première danse IA toujours actif pour les couples : chorégraphie, programmation et préparation hebdomadaire à l'allée.",
+      "category": "AI & Machine Learning",
       "website": "https://veilsway.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T16:15:20.697071+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:57:54.191370+00:00"
     },
     {
       "name": "Yardstead",
       "slug": "polsia-yardstead-2",
+      "description": "The regional home-services operator that runs your whole property under one trusted local name — by AI, end to end.",
+      "description_fr": "L'opérateur régional de services à domicile qui gère l'ensemble de votre propriété sous un seul nom local de confiance – par l'IA, de bout en bout.",
+      "category": "AI & Machine Learning",
       "website": "https://yardstead-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T16:15:26.307859+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:57:55.204209+00:00"
     },
     {
       "name": "Granometar",
@@ -233028,10 +233052,93 @@
     {
       "name": "Island City Events",
       "slug": "polsia-island-city-events",
+      "description": "Local event planning and promotion for an island city’s celebrations and gatherings.",
+      "description_fr": "Planification et promotion d’événements locaux pour les célébrations et les rassemblements d’une ville insulaire.",
+      "category": "Other",
       "website": "https://island-city-events.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T16:58:02.805571+00:00"
+    },
+    {
+      "name": "Tendfellow",
+      "slug": "polsia-tendfellow",
+      "website": "https://tendfellow.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-08T16:15:37.151470+00:00"
+      "scraped_at": "2026-08-08T16:56:10.376780+00:00"
+    },
+    {
+      "name": "Tallynote",
+      "slug": "polsia-tallynote-2",
+      "website": "https://tallynote-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:56:10.915993+00:00"
+    },
+    {
+      "name": "Tallyhawk",
+      "slug": "polsia-tallyhawk-falu8i",
+      "website": "https://tallyhawk-falu8i.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:56:11.487077+00:00"
+    },
+    {
+      "name": "HailRoute",
+      "slug": "polsia-hailroute-4",
+      "website": "https://hailroute-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:56:16.915627+00:00"
+    },
+    {
+      "name": "Rejack",
+      "slug": "polsia-rejack",
+      "website": "https://rejack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:56:17.535152+00:00"
+    },
+    {
+      "name": "Tarvo",
+      "slug": "polsia-tarvo",
+      "website": "https://tarvo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:56:22.814179+00:00"
+    },
+    {
+      "name": "Turnwell",
+      "slug": "polsia-turnwell-8",
+      "website": "https://turnwell-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:56:28.262411+00:00"
+    },
+    {
+      "name": "Reslot",
+      "slug": "polsia-reslot-4",
+      "website": "https://reslot-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:56:28.871726+00:00"
+    },
+    {
+      "name": "Skiftvakt",
+      "slug": "polsia-skiftvakt",
+      "website": "https://skiftvakt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:56:34.337420+00:00"
+    },
+    {
+      "name": "Tinroof",
+      "slug": "polsia-tinroof-6",
+      "website": "https://tinroof-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:56:39.779615+00:00"
     }
   ]
 }
