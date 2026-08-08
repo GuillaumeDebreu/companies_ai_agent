@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T19:56:47.290543+00:00",
+  "last_updated": "2026-08-08T20:28:44.727962+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -233607,42 +233607,57 @@
     {
       "name": "Anchorstay",
       "slug": "polsia-anchorstay-7",
+      "description": "Always-on AI operations for every landlord and STR host — screening, leases, rent, maintenance, channel sync, and dynamic pricing in one dashboard.",
+      "description_fr": "Opérations d'IA toujours actives pour chaque propriétaire et hôte STR : sélection, baux, loyer, maintenance, synchronisation des canaux et tarification dynamique dans un seul tableau de bord.",
+      "category": "AI & Machine Learning",
       "website": "https://anchorstay-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T19:53:45.998555+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T20:27:47.119347+00:00"
     },
     {
       "name": "Vynts",
       "slug": "polsia-vynts-2",
+      "description": "An AI agent built right into your Mac video editor.",
+      "description_fr": "Un agent IA intégré directement à votre éditeur vidéo Mac.",
+      "category": "AI & Machine Learning",
       "website": "https://vynts-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T19:53:51.507008+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T20:27:48.326449+00:00"
     },
     {
       "name": "Oulton College",
       "slug": "polsia-oulton-college",
+      "description": "Connecting Students to Employers — hands-on health and public-service training in Moncton since 1956.",
+      "description_fr": "Connecter les étudiants aux employeurs — formation pratique en santé et en fonction publique à Moncton depuis 1956.",
+      "category": "Education",
       "website": "https://oulton-college.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T19:53:57.109402+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T20:27:49.268493+00:00"
     },
     {
       "name": "Neucel",
       "slug": "polsia-neucel",
+      "description": "Neucel is a London-based consumer wellness hardware company building INHALE, a multi-modal vagus-nerve wearable for stress, HRV, and sleep. Pre-selling now; ships Q4 2026.",
+      "description_fr": "Neucel est une entreprise londonienne de matériel de bien-être grand public qui construit INHALE, un nerf vague multimodal portable pour le stress, le VRC et le sommeil. Pré-vente maintenant ; expédié au quatrième trimestre 2026.",
+      "category": "Health & Wellness",
       "website": "https://neucel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T19:54:02.742517+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T20:27:50.826566+00:00"
     },
     {
       "name": "Rikkancs Reels",
       "slug": "polsia-rikkancs-reels",
+      "description": "Door-to-door short-form video for the shops that never go viral. €500/month, 12–16 clips, walked in once, posted every week.",
+      "description_fr": "Vidéo courte en porte-à-porte pour les magasins qui ne deviennent jamais viraux. 500 €/mois, 12 à 16 clips, présentés une fois, publiés chaque semaine.",
+      "category": "E-Commerce & Retail",
       "website": "https://rikkancs-reels.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T19:54:08.215500+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T20:27:52.166243+00:00"
     },
     {
       "name": "Valley Construction Associates LLC",
@@ -233691,10 +233706,96 @@
     {
       "name": "Kindlore",
       "slug": "polsia-kindlore",
+      "description": "Kindlore is an always-available AI life coach. Pick a focus — career, relationships, burnout, habits, purpose — and the app builds a coaching arc around it. When you're ready for a human, we match you with a vetted certified coach.",
+      "description_fr": "Kindlore est un coach de vie IA toujours disponible. Choisissez un objectif – carrière, relations, épuisement professionnel, habitudes, objectif – et l’application construit un arc de coaching autour de celui-ci. Lorsque vous êtes prêt à embaucher un humain, nous vous mettons en contact avec un coach certifié et agréé.",
+      "category": "AI & Machine Learning",
       "website": "https://kindlore.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T20:27:53.440936+00:00"
+    },
+    {
+      "name": "Trellis Reel",
+      "slug": "polsia-trellis-reel",
+      "website": "https://trellis-reel.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-08T19:54:40.821830+00:00"
+      "scraped_at": "2026-08-08T20:25:45.923401+00:00"
+    },
+    {
+      "name": "Tournery",
+      "slug": "polsia-tournery",
+      "website": "https://tournery.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:25:46.650311+00:00"
+    },
+    {
+      "name": "Kilnshift",
+      "slug": "polsia-kilnshift",
+      "website": "https://kilnshift.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:25:47.437055+00:00"
+    },
+    {
+      "name": "Outpostroom",
+      "slug": "polsia-outpostroom",
+      "website": "https://outpostroom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:25:53.013709+00:00"
+    },
+    {
+      "name": "Earnpost",
+      "slug": "polsia-earnpost",
+      "website": "https://earnpost.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:25:58.582985+00:00"
+    },
+    {
+      "name": "Tinselmind",
+      "slug": "polsia-tinselmind",
+      "website": "https://tinselmind.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:26:04.214741+00:00"
+    },
+    {
+      "name": "Karvault",
+      "slug": "polsia-karvault",
+      "website": "https://karvault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:26:09.663836+00:00"
+    },
+    {
+      "name": "Tensigram",
+      "slug": "polsia-tensigram",
+      "website": "https://tensigram.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:26:15.287461+00:00"
+    },
+    {
+      "name": "Hawkmark",
+      "slug": "polsia-hawkmark-5",
+      "description": "Autonomous AI sniping with margin on every pickup. Submit your want list — Hawkmark patrols StockX, GOAT, eBay and Flight Club, bids inside your budget, and logs fee-adjusted projected profit.",
+      "description_fr": "Tir d'élite autonome avec marge sur chaque pick-up. Soumettez votre liste de souhaits – Hawkmark patrouille StockX, GOAT, eBay et Flight Club, fait des offres dans les limites de votre budget et enregistre les bénéfices projetés ajustés en fonction des frais.",
+      "category": "AI & Machine Learning",
+      "website": "https://hawkmark-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T20:28:39.277952+00:00"
+    },
+    {
+      "name": "Scharnier",
+      "slug": "polsia-scharnier",
+      "website": "https://scharnier.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T20:26:26.232696+00:00"
     }
   ]
 }
