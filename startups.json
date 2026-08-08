@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T15:51:06.162946+00:00",
+  "last_updated": "2026-08-08T16:17:51.549090+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -232852,10 +232852,13 @@
     {
       "name": "Sozo Business Group",
       "slug": "polsia-sozo-business-group",
+      "description": "Ethiopia's gateway to study abroad, medical travel, and global visas — coordinated from Addis Ababa for students, patients, job-seekers and diaspora families.",
+      "description_fr": "La porte d'entrée de l'Éthiopie pour étudier à l'étranger, voyager pour des raisons médicales et obtenir des visas internationaux – coordonnée depuis Addis-Abeba pour les étudiants, les patients, les demandeurs d'emploi et les familles de la diaspora.",
+      "category": "Health & Wellness",
       "website": "https://sozo-business-group.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T15:48:17.823647+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:16:39.405940+00:00"
     },
     {
       "name": "Stålpuls",
@@ -232866,20 +232869,26 @@
       "scraped_at": "2026-08-08T15:48:18.413088+00:00"
     },
     {
-      "name": "Roostgate",
+      "name": "Polsia App",
       "slug": "polsia-roostgate-2",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
       "website": "https://roostgate-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T15:48:19.107712+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:16:40.558631+00:00"
     },
     {
       "name": "Counterhelm",
       "slug": "polsia-counterhelm",
+      "description": "Autonomous competitive intelligence for small businesses. Track competitor pricing, product, and positioning changes, scored for importance, with a weekly brief that tells you what to do next.",
+      "description_fr": "Veille concurrentielle autonome pour les petites entreprises. Suivez les changements de prix, de produits et de positionnement des concurrents, notés en fonction de leur importance, avec un briefing hebdomadaire qui vous indique quoi faire ensuite.",
+      "category": "Other",
       "website": "https://counterhelm.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T15:48:19.685613+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:16:41.705936+00:00"
     },
     {
       "name": "Pilora",
@@ -232892,10 +232901,13 @@
     {
       "name": "Crestward",
       "slug": "polsia-crestward-3",
+      "description": "Your 24/7 AI reputation agent for your personal brand — monitors the surface web, social, news, paste sites, leaks, and dark-web forums, scores each hit for risk, and lands a pre-drafted takedown on your dashboard.",
+      "description_fr": "Votre agent de réputation IA 24h/24 et 7j/7 pour votre marque personnelle : surveille le Web de surface, les réseaux sociaux, les sites d'actualités, les sites de collage, les fuites et les forums du dark web, note chaque appel en fonction du risque et effectue un retrait pré-rédigé sur votre tableau de bord.",
+      "category": "AI & Machine Learning",
       "website": "https://crestward-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T15:48:30.766817+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:16:49.025348+00:00"
     },
     {
       "name": "Hearthwise",
@@ -232911,10 +232923,13 @@
     {
       "name": "Trovabot",
       "slug": "polsia-trovabot",
+      "description": "Automatización con IA llave en mano para PYMEs: agentes, chatbots, RPA y conexiones nativas con Holded, Anfix, Quipu, Sage, HubSpot y más.",
+      "description_fr": "Automatisation avec une clé IA à la main pour les PYME : agents, chatbots, RPA et connexions natives avec Holded, Anfix, Quipu, Sage, HubSpot et plus encore.",
+      "category": "AI & Machine Learning",
       "website": "https://trovabot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T15:48:41.877673+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T16:16:50.439986+00:00"
     },
     {
       "name": "Lanternpost",
@@ -232930,10 +232945,93 @@
     {
       "name": "Molarloop",
       "slug": "polsia-molarloop",
+      "description": "The AI operations team your dental practice hires by the chair, not the seat. Done-for-you AI receptionist, missed-call text-back, recall sequences, and review workflows — live in about two weeks.",
+      "description_fr": "L’équipe des opérations d’IA de votre cabinet dentaire recrute pour le fauteuil et non pour le siège. Réceptionniste IA fait pour vous, retour de texte d'appel manqué, séquences de rappel et flux de travail de révision - en direct dans environ deux semaines.",
+      "category": "AI & Machine Learning",
       "website": "https://molarloop.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T16:16:52.460125+00:00"
+    },
+    {
+      "name": "Aisha POS",
+      "slug": "polsia-aisha-pos",
+      "website": "https://aisha-pos.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-08T15:49:03.034404+00:00"
+      "scraped_at": "2026-08-08T16:14:52.218817+00:00"
+    },
+    {
+      "name": "Tinkerwright",
+      "slug": "polsia-tinkerwright-3",
+      "website": "https://tinkerwright-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:14:52.805276+00:00"
+    },
+    {
+      "name": "Loophouse",
+      "slug": "polsia-loophouse-2",
+      "website": "https://loophouse-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:15:03.345071+00:00"
+    },
+    {
+      "name": "Brickmoor",
+      "slug": "polsia-brickmoor-2",
+      "website": "https://brickmoor-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:15:08.881651+00:00"
+    },
+    {
+      "name": "Hearthside",
+      "slug": "polsia-hearthside-7",
+      "website": "https://hearthside-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:15:09.567751+00:00"
+    },
+    {
+      "name": "Ovada",
+      "slug": "polsia-ovada",
+      "website": "https://ovada.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:15:15.229536+00:00"
+    },
+    {
+      "name": "VeilSway",
+      "slug": "polsia-veilsway",
+      "website": "https://veilsway.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:15:20.697071+00:00"
+    },
+    {
+      "name": "Yardstead",
+      "slug": "polsia-yardstead-2",
+      "website": "https://yardstead-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:15:26.307859+00:00"
+    },
+    {
+      "name": "Granometar",
+      "slug": "polsia-granometar",
+      "website": "https://granometar.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:15:31.705112+00:00"
+    },
+    {
+      "name": "Island City Events",
+      "slug": "polsia-island-city-events",
+      "website": "https://island-city-events.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T16:15:37.151470+00:00"
     }
   ]
 }
