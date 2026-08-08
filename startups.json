@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T11:20:41.758267+00:00",
+  "last_updated": "2026-08-08T11:51:36.962361+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -232105,42 +232105,57 @@
     {
       "name": "Praxisanker",
       "slug": "polsia-praxisanker-2",
+      "description": "Praxisanker berät kleine, nicht-ärztliche Gesundheitspraxen beim Wechsel von Papier und Telefon auf eine DSGVO-konforme digitale Lösung – herstellerneutral, mit Datenschutz-Folgenabschätzung und Mitarbeiterschulung.",
+      "description_fr": "Les cabinets d'avocats sont petits, mais n'ont pas de pratique commerciale au sein de l'entreprise Papier et téléphone au sein d'une loi numérique DSGVO-conforme – neutre, avec protection des données et mesures de protection des données.",
+      "category": "Software & SaaS",
       "website": "https://praxisanker-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T11:18:17.375943+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T11:50:44.740143+00:00"
     },
     {
       "name": "Vacape",
       "slug": "polsia-vacape",
+      "description": "Catch every gap. Keep every booking.",
+      "description_fr": "Attrapez chaque lacune. Conservez chaque réservation.",
+      "category": "Travel & Hospitality",
       "website": "https://vacape.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T11:18:18.104347+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T11:50:45.843525+00:00"
     },
     {
-      "name": "VANTRYNE",
+      "name": "Vantryne",
       "slug": "polsia-vantryne",
+      "description": "The 24/7 AI pricing agent for DTC brands on Amazon and Shopify. Reprice inside your guardrails, protect DTC margin, and win the Buy Box.",
+      "description_fr": "L'agent de tarification IA 24h/24 et 7j/7 pour les marques DTC sur Amazon et Shopify. Révisez le prix à l'intérieur de vos garde-corps, protégez la marge DTC et gagnez la Buy Box.",
+      "category": "AI & Machine Learning",
       "website": "https://vantryne.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T11:18:18.806011+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T11:50:46.965136+00:00"
     },
     {
       "name": "Trovepost",
       "slug": "polsia-trovepost",
+      "description": "Not another Gumroad — a marketplace wired to your newsletter funnel so templates and kits actually sell.",
+      "description_fr": "Pas un autre Gumroad – un marché connecté à votre entonnoir de newsletter afin que les modèles et les kits se vendent réellement.",
+      "category": "E-Commerce & Retail",
       "website": "https://trovepost.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T11:18:19.477386+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T11:50:48.020004+00:00"
     },
     {
       "name": "Kifaru Etch",
       "slug": "polsia-kifaru-etch",
+      "description": "Personalized laser markings for lodges, ranches & regiments. A 20W diode microstudio in Nanyuki.",
+      "description_fr": "Marquages ​​laser personnalisés pour lodges, ranchs et régiments. Un microstudio à diodes de 20W à Nanyuki.",
+      "category": "Other",
       "website": "https://kifaru-etch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T11:18:24.912364+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T11:50:48.962103+00:00"
     },
     {
       "name": "Selfwright",
@@ -232164,10 +232179,13 @@
     {
       "name": "Pilotcraft",
       "slug": "polsia-pilotcraft",
+      "description": "An autonomous AI growth operator for Shopify DTC brands. Continuously optimizes paid spend, creative, and listings across Meta, Google, TikTok, and Amazon — no human approval loop required.",
+      "description_fr": "Un opérateur de croissance autonome en IA pour les marques Shopify DTC. Optimise en permanence les dépenses payantes, les créations et les listes sur Meta, Google, TikTok et Amazon – aucune boucle d'approbation humaine n'est requise.",
+      "category": "AI & Machine Learning",
       "website": "https://pilotcraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T11:18:41.453060+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T11:50:50.448127+00:00"
     },
     {
       "name": "Platledger",
@@ -232190,6 +232208,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-08T11:20:41.757220+00:00"
+    },
+    {
+      "name": "Tonkanzel",
+      "slug": "polsia-tonkanzel",
+      "website": "https://tonkanzel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T11:48:58.854867+00:00"
+    },
+    {
+      "name": "Tallymark",
+      "slug": "polsia-tallymark-6g4pfb",
+      "website": "https://tallymark-6g4pfb.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T11:48:59.455942+00:00"
+    },
+    {
+      "name": "Offpitch",
+      "slug": "polsia-offpitch-2",
+      "website": "https://offpitch-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T11:49:09.948463+00:00"
+    },
+    {
+      "name": "Sunlit Autumn Boutique",
+      "slug": "polsia-sunlit-autumn-boutique",
+      "website": "https://sunlit-autumn-boutique.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T11:49:15.493897+00:00"
+    },
+    {
+      "name": "Cratewright",
+      "slug": "polsia-cratewright-9",
+      "website": "https://cratewright-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T11:49:20.960555+00:00"
+    },
+    {
+      "name": "Holdmark",
+      "slug": "polsia-holdmark-r2x4ko",
+      "website": "https://holdmark-r2x4ko.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T11:49:21.561190+00:00"
+    },
+    {
+      "name": "Ealani",
+      "slug": "polsia-ealani",
+      "description": "WhatsApp-first landing pages for Saudi small businesses. Jeddah-launched micro-agency delivering tap-to-chat sites for workshops, salons, clinics, and cafés.",
+      "description_fr": "Premières pages de destination WhatsApp pour les petites entreprises saoudiennes. Micro-agence lancée à Djeddah proposant des sites de discussion instantanée pour les ateliers, les salons, les cliniques et les cafés.",
+      "category": "E-Commerce & Retail",
+      "website": "https://ealani.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T11:51:28.680208+00:00"
+    },
+    {
+      "name": "Burrow Imagery",
+      "slug": "polsia-burrow-imagery",
+      "description": "Editorial-grade documentary, landscape, and fine-art photography of the American West and beyond — the working portfolio and archives of photographer and filmmaker Steele Burrow.",
+      "description_fr": "Photographie documentaire, de paysage et d'art de qualité éditoriale de l'Ouest américain et au-delà - le portfolio de travail et les archives du photographe et cinéaste Steele Burrow.",
+      "category": "Other",
+      "website": "https://burrow-imagery.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T11:51:30.209609+00:00"
+    },
+    {
+      "name": "Zunftbytes",
+      "slug": "polsia-zunftbytes",
+      "website": "https://zunftbytes.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T11:49:37.777035+00:00"
+    },
+    {
+      "name": "VALIENTE LLC",
+      "slug": "polsia-valiente-llc",
+      "description": "A Bridgeport-based clothing and accessories retailer — small-batch apparel, rooted in Fairfield County.",
+      "description_fr": "Un détaillant de vêtements et d'accessoires basé à Bridgeport – vêtements en petits lots, enraciné dans le comté de Fairfield.",
+      "category": "E-Commerce & Retail",
+      "website": "https://valiente-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T11:51:36.961037+00:00"
     }
   ]
 }
