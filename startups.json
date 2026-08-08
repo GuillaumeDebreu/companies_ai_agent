@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T17:37:39.438643+00:00",
+  "last_updated": "2026-08-08T18:04:13.496434+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -233170,58 +233170,79 @@
     {
       "name": "Quittwerk",
       "slug": "polsia-quittwerk-2",
+      "description": "Quittwerk ist der geführte E-Rechnungs-Service für Solo-Selbstständige und kleine Betriebe: Wir erstellen, versenden und archivieren XRechnung und ZUGFeRD/Factur-X revisionssicher nach § 14b UStG und § 34a UStDV.",
+      "description_fr": "Quittwerk est le service de recherche électronique proposé pour les personnes autonomes et les petites entreprises : nous proposons, expédions et archivons XRechnung et ZUGFeRD/Factur-X revisionssicher selon § 14b UStG et § 34a UStDV.",
+      "category": "Other",
       "website": "https://quittwerk-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T17:34:36.375653+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T18:03:19.232475+00:00"
     },
     {
       "name": "Searcherhood",
       "slug": "polsia-searcherhood",
+      "description": "Three buyer-side tools for first-time business acquirers — a Deal Analyzer, an SBA-ready Letter of Intent, and a Lender Tracker. No login, no subscription. Yours forever.",
+      "description_fr": "Trois outils côté acheteur pour les nouveaux acquéreurs d'entreprise : un analyseur de transactions, une lettre d'intention prête pour la SBA et un outil de suivi des prêteurs. Pas de connexion, pas d'abonnement. À vous pour toujours.",
+      "category": "Other",
       "website": "https://searcherhood.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T17:34:41.789637+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T18:03:21.273850+00:00"
     },
     {
       "name": "Mendril",
       "slug": "polsia-mendril-9",
+      "description": "An AI-native IT firm where autonomous agents patch, resolve, and report — around the clock.",
+      "description_fr": "Une société informatique native de l'IA où des agents autonomes corrigent, résolvent et génèrent des rapports, 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://mendril-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T17:34:47.403832+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T18:03:22.969842+00:00"
     },
     {
       "name": "Covelmark House",
       "slug": "polsia-covelmark-house",
+      "description": "Old-world craft. Modern provenance. A modern heritage house for small-batch Eau de Parfum — IFRA-compliant, hand-finished, and rooted in place.",
+      "description_fr": "Artisanat du vieux monde. Provenance moderne. Une maison patrimoniale moderne pour les eaux de parfum en petits lots – conforme à la norme IFRA, finie à la main et ancrée en place.",
+      "category": "Other",
       "website": "https://covelmark-house.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T17:34:52.783910+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T18:03:24.996345+00:00"
     },
     {
       "name": "Hitchpost",
       "slug": "polsia-hitchpost-5",
+      "description": "Operator-grade online-arbitrage and marketplace-dropshipping tooling. Mirror trending listings, mark up, and ship from the source.",
+      "description_fr": "Outils d'arbitrage en ligne et de dropshipping de qualité opérateur. Mettez en miroir les listes de tendances, annotez et expédiez à partir de la source.",
+      "category": "E-Commerce & Retail",
       "website": "https://hitchpost-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T17:34:58.401259+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T18:03:26.147608+00:00"
     },
     {
       "name": "Oddly Specific",
       "slug": "polsia-oddly-specific",
+      "description": "Print-on-demand merch for the tribe you thought nobody else belonged to. Tees, mugs, stickers and totes built for fanatically narrow obsessions.",
+      "description_fr": "Produits imprimés à la demande pour la tribu à laquelle vous pensiez que personne d'autre n'appartenait. T-shirts, mugs, autocollants et fourre-tout conçus pour les obsessions fanatiquement étroites.",
+      "category": "Other",
       "website": "https://oddly-specific.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T17:35:03.783832+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T18:03:27.422450+00:00"
     },
     {
       "name": "Outpostcast",
       "slug": "polsia-outpostcast",
+      "description": "Always-on AI podcast studio — trending topic to multi-platform publish, zero staff.",
+      "description_fr": "Studio de podcast AI toujours actif : sujet tendance pour la publication multiplateforme, sans personnel.",
+      "category": "AI & Machine Learning",
       "website": "https://outpostcast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T17:35:09.147629+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T18:03:29.051317+00:00"
     },
     {
       "name": "DRAW Marketing",
@@ -233237,18 +233258,113 @@
     {
       "name": "Brassward",
       "slug": "polsia-brassward-3",
+      "description": "Autonomous AI agents that build and maintain your web stack — 24/7. A flat monthly fee replaces your builds, hosting, and monitoring vendor stack.",
+      "description_fr": "Des agents d'IA autonomes qui créent et maintiennent votre pile Web, 24h/24 et 7j/7. Un forfait mensuel remplace votre pile de fournisseurs de builds, d’hébergement et de surveillance.",
+      "category": "AI & Machine Learning",
       "website": "https://brassward-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T17:35:20.194020+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T18:03:30.377595+00:00"
     },
     {
       "name": "Bootskamp Supply Co.",
       "slug": "polsia-bootskamp-supply-co",
+      "description": "One kit. Every guy's checklist, handled. Curated hand tools, BBQ, outdoor, automotive, and self-reliance gear — gift-ready bundles, shipped as one box.",
+      "description_fr": "Un kit. La liste de contrôle de chaque gars, traitée. Outils à main, équipements de barbecue, d'extérieur, d'automobile et d'autonomie sélectionnés : des lots prêts à offrir, expédiés dans une seule boîte.",
+      "category": "Other",
       "website": "https://bootskamp-supply-co.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T18:03:32.325054+00:00"
+    },
+    {
+      "name": "Discbot.io",
+      "slug": "polsia-discbotio",
+      "website": "https://discbotio.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-08T17:35:25.807081+00:00"
+      "scraped_at": "2026-08-08T18:01:19.032915+00:00"
+    },
+    {
+      "name": "SREXTREME",
+      "slug": "polsia-srextreme",
+      "website": "https://srextreme.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T18:01:19.706821+00:00"
+    },
+    {
+      "name": "Watchpost",
+      "slug": "polsia-watchpost-degeh1",
+      "website": "https://watchpost-degeh1.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T18:01:25.296520+00:00"
+    },
+    {
+      "name": "Permvigil",
+      "slug": "polsia-permvigil",
+      "website": "https://permvigil.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T18:01:30.772307+00:00"
+    },
+    {
+      "name": "Placeline",
+      "slug": "polsia-placeline-3",
+      "website": "https://placeline-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T18:01:36.312115+00:00"
+    },
+    {
+      "name": "Claimhound",
+      "slug": "polsia-claimhound-4",
+      "website": "https://claimhound-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T18:01:42.019664+00:00"
+    },
+    {
+      "name": "Fundfuchs",
+      "slug": "polsia-fundfuchs",
+      "description": "Fundfuchs ist die KI-gestützte Reseller-Plattform für Vinted, Kleinanzeigen und mobile.de. Scan, Gebot, Verhandlung, Tagesreport — europaweit.",
+      "description_fr": "Fundfuchs est la plateforme de revendeurs KI-gestützte pour Vinted, Kleinanzeigen et mobile.de. Scan, Gebot, Verhandlung, Tagesreport — europaweit.",
+      "category": "Other",
+      "website": "https://fundfuchs.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T18:04:07.060908+00:00"
+    },
+    {
+      "name": "Marginseer",
+      "slug": "polsia-marginseer",
+      "description": "A boutique market-intelligence service for indie founders. Each week we publish three to five data-vetted, high-margin niches — before the gurus find them.",
+      "description_fr": "Un service boutique d'intelligence de marché pour les fondateurs indépendants. Chaque semaine, nous publions trois à cinq niches à forte marge, vérifiées par les données, avant que les gourous ne les trouvent.",
+      "category": "Other",
+      "website": "https://marginseer.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T18:04:08.057920+00:00"
+    },
+    {
+      "name": "Hollowvane",
+      "slug": "polsia-hollowvane",
+      "description": "Real small-town disappearances, told slowly after dark. A YouTube-first true-horror channel for missing persons, cold cases, and the quiet vanishings the bigger narrators skip.",
+      "description_fr": "De véritables disparitions dans une petite ville, racontées lentement après la tombée de la nuit. Une première chaîne YouTube d'horreur vraie pour les personnes disparues, les affaires classées et les disparitions silencieuses que les plus grands narrateurs ignorent.",
+      "category": "Other",
+      "website": "https://hollowvane.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T18:01:54.257909+00:00"
+    },
+    {
+      "name": "BeadMeld",
+      "slug": "polsia-beadmeld",
+      "website": "https://beadmeld.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T18:01:59.862409+00:00"
     }
   ]
 }
