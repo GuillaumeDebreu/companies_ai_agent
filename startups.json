@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T12:49:32.147625+00:00",
+  "last_updated": "2026-08-08T13:22:06.340138+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -232319,34 +232319,46 @@
     {
       "name": "Holdwater",
       "slug": "polsia-holdwater-2",
+      "description": "Autonomous SRE agents that watch, diagnose, and fix — without waking engineers.",
+      "description_fr": "Des agents SRE autonomes qui surveillent, diagnostiquent et réparent — sans réveiller les ingénieurs.",
+      "category": "Other",
       "website": "https://holdwater-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T12:17:49.087848+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T13:21:12.299098+00:00"
     },
     {
       "name": "BrightRepeat",
       "slug": "polsia-brightrepeat",
+      "description": "Customer-growth automation for U.S. barbershops, hair salons, and independent stylists — real Google reviews, word-of-mouth referrals, repeat bookings, and reactivated clients, on autopilot.",
+      "description_fr": "Automatisation de la croissance de la clientèle pour les salons de coiffure, de coiffure et de stylistes indépendants américains : véritables avis Google, références de bouche à oreille, réservations répétées et clients réactivés, sur pilote automatique.",
+      "category": "E-Commerce & Retail",
       "website": "https://brightrepeat.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T12:17:54.558717+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T13:21:14.118653+00:00"
     },
     {
       "name": "Rememory",
       "slug": "polsia-rememory",
+      "description": "Release. Remember. Reimagine — a somatic creative practice for the soul-led life.",
+      "description_fr": "Libérer. Souviens-toi. Reimagine — une pratique créative somatique pour une vie dirigée par l'âme.",
+      "category": "Other",
       "website": "https://rememory.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T12:17:59.917425+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T13:21:15.204623+00:00"
     },
     {
       "name": "Bivystay",
       "slug": "polsia-bivystay",
+      "description": "Hourly repricing, 24/7 guest messaging, and instant cleaner dispatch for every rental, fully autonomous.",
+      "description_fr": "Retarification horaire, messagerie client 24h/24 et 7j/7 et répartition instantanée du personnel de nettoyage pour chaque location, entièrement autonome.",
+      "category": "Travel & Hospitality",
       "website": "https://bivystay.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T12:18:05.222940+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T13:21:16.224539+00:00"
     },
     {
       "name": "Veldpost",
@@ -232395,10 +232407,13 @@
     {
       "name": "Strauß 360°",
       "slug": "polsia-strau-360",
+      "description": "Hochauflösende 3D-Rundgänge, Dollhouse-Ansichten und Digital-Twin-Scans aus Niederbayern – in 24 Stunden geliefert.",
+      "description_fr": "Des objets de recherche 3D, des analyses de maisons de poupées et des scans jumeaux numériques en Basse-Bavière – en 24 heures.",
+      "category": "Other",
       "website": "https://strau-360.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T12:18:33.887707+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T13:21:17.225230+00:00"
     },
     {
       "name": "Tempestgate",
@@ -232410,6 +232425,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-08T12:18:35.169061+00:00"
+    },
+    {
+      "name": "Tallyhawk",
+      "slug": "polsia-tallyhawk-vqg84r",
+      "website": "https://tallyhawk-vqg84r.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T13:19:24.030029+00:00"
+    },
+    {
+      "name": "Hearthwisp",
+      "slug": "polsia-hearthwisp-2",
+      "website": "https://hearthwisp-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T13:19:29.641540+00:00"
+    },
+    {
+      "name": "Monomyth",
+      "slug": "polsia-monomyth",
+      "website": "https://monomyth.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T13:19:35.042139+00:00"
+    },
+    {
+      "name": "Filinghall",
+      "slug": "polsia-filinghall",
+      "website": "https://filinghall.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T13:19:40.581407+00:00"
+    },
+    {
+      "name": "Booklark",
+      "slug": "polsia-booklark-2",
+      "website": "https://booklark-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T13:19:46.021255+00:00"
+    },
+    {
+      "name": "Guttershaker",
+      "slug": "polsia-guttershaker",
+      "website": "https://guttershaker.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T13:19:51.589738+00:00"
+    },
+    {
+      "name": "Rentward",
+      "slug": "polsia-rentward-2",
+      "website": "https://rentward-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T13:19:57.038349+00:00"
+    },
+    {
+      "name": "Carbwright",
+      "slug": "polsia-carbwright",
+      "website": "https://carbwright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T13:20:02.412166+00:00"
+    },
+    {
+      "name": "Mosskeep",
+      "slug": "polsia-mosskeep-4",
+      "website": "https://mosskeep-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T13:20:07.810125+00:00"
+    },
+    {
+      "name": "Bivvy",
+      "slug": "polsia-bivvy-8",
+      "description": "The always-on co-host for short-term rentals. Bivvy watches every guest message, schedules cleanings, flags turnover issues, and emails you a Monday brief — so you stop reacting and start operating.",
+      "description_fr": "Le co-hôte toujours disponible pour les locations à court terme. Bivvy surveille chaque message de nos clients, planifie les nettoyages, signale les problèmes de rotation et vous envoie un briefing du lundi par e-mail – pour que vous arrêtiez de réagir et commenciez à fonctionner.",
+      "category": "Travel & Hospitality",
+      "website": "https://bivvy-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T13:20:09.386468+00:00"
     }
   ]
 }
