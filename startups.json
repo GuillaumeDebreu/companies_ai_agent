@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T09:40:45.571550+00:00",
+  "last_updated": "2026-08-08T10:11:01.353405+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -231778,50 +231778,68 @@
     {
       "name": "Bracken & Bird",
       "slug": "polsia-bracken-bird",
+      "description": "Museum-grade botanical art for considered interiors.",
+      "description_fr": "Art botanique de qualité musée pour des intérieurs réfléchis.",
+      "category": "Other",
       "website": "https://bracken-bird.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T09:38:16.571331+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T10:10:17.589063+00:00"
     },
     {
       "name": "Castwise",
       "slug": "polsia-castwise-5",
+      "description": "Castwise is the subscription platform built for working creators — tradespeople, coaches, teachers, and makers. 10% fees, 24-hour payouts, age verification and KYC bundled in.",
+      "description_fr": "Castwise est la plateforme d'abonnement conçue pour les créateurs en activité : artisans, coachs, enseignants et créateurs. Frais de 10 %, paiements en 24 heures, vérification de l'âge et KYC intégrés.",
+      "category": "Software & SaaS",
       "website": "https://castwise-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T09:38:17.289404+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T10:10:18.856548+00:00"
     },
     {
       "name": "Mercavia",
       "slug": "polsia-mercavia",
+      "description": "Agentes IA que vigilan precios, stock y reseñas en Mercado Libre y Amazon 24/7 para sellers hispanohablantes.",
+      "description_fr": "Agents IA qui surveillent les prix, les stocks et les recherches sur Mercado Libre et Amazon 24h/24 et 7j/7 pour les vendeurs hispanohablantes.",
+      "category": "Other",
       "website": "https://mercavia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T09:38:17.938872+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T10:10:19.815294+00:00"
     },
     {
       "name": "Headmason",
       "slug": "polsia-headmason",
+      "description": "Autonomous HVAC, lighting, and sensor ops for commercial building portfolios — no overnight desk.",
+      "description_fr": "Opérations autonomes de CVC, d’éclairage et de capteurs pour les portefeuilles de bâtiments commerciaux – pas de bureau de nuit.",
+      "category": "Other",
       "website": "https://headmason.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T09:38:18.675231+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T10:10:21.793081+00:00"
     },
     {
       "name": "Matteo Homedecoration",
       "slug": "polsia-matteo-homedecoration",
+      "description": "Stuckleisten, Deckenprofile und Akustikpaneele direkt ab Werk seit 1994",
+      "description_fr": "Stuckleisten, Deckenprofile et Akustikpaneele direkt ab Werk depuis 1994",
+      "category": "Sustainability & Green",
       "website": "https://matteo-homedecoration.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T09:38:24.251468+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T10:10:23.573616+00:00"
     },
     {
       "name": "Picklee",
       "slug": "polsia-picklee",
+      "description": "AI meal scanner built for parents feeding the whole family. Snap a plate, score the meal against seven nutrients, track every child.",
+      "description_fr": "Scanner de repas AI conçu pour les parents qui nourrissent toute la famille. Prenez une assiette, évaluez le repas en fonction de sept nutriments, suivez chaque enfant.",
+      "category": "AI & Machine Learning",
       "website": "https://picklee.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T09:38:34.819517+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T10:10:24.741142+00:00"
     },
     {
       "name": "Erasmus Connect",
@@ -231837,10 +231855,13 @@
     {
       "name": "Molewright",
       "slug": "polsia-molewright",
+      "description": "Always-on bid agent that turns site plans into priced proposals overnight — built for excavation, utility trenching, demolition, and site prep contractors.",
+      "description_fr": "Agent d'appel d'offres toujours disponible qui transforme les plans de site en propositions tarifaires du jour au lendemain - conçu pour les entrepreneurs en excavation, en tranchées de services publics, en démolition et en préparation de sites.",
+      "category": "Other",
       "website": "https://molewright.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T09:38:46.012539+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T10:10:26.857865+00:00"
     },
     {
       "name": "Pivolex",
@@ -231863,6 +231884,104 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-08T09:40:45.570508+00:00"
+    },
+    {
+      "name": "Tilthkeeper",
+      "slug": "polsia-tilthkeeper",
+      "website": "https://tilthkeeper.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T10:08:36.041985+00:00"
+    },
+    {
+      "name": "Pixmoor",
+      "slug": "polsia-pixmoor",
+      "website": "https://pixmoor.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T10:08:41.683431+00:00"
+    },
+    {
+      "name": "ميزاب",
+      "slug": "polsia-company-329711",
+      "website": "https://company-329711.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T10:08:47.230793+00:00"
+    },
+    {
+      "name": "Epoxy Flooring Ocala",
+      "slug": "polsia-epoxy-flooring-ocala",
+      "description": "Marion County's locally-owned residential and commercial epoxy flooring contractor. 100% solids epoxy with anti-slip additives — installed in 1–2 days across Ocala, The Villages, Gainesville, Clermont, Eustis, Leesburg, and Marion Oaks.",
+      "description_fr": "Entrepreneur local en revêtements de sol époxy résidentiels et commerciaux du comté de Marion. Époxy 100 % solides avec additifs antidérapants — installé en 1 à 2 jours à Ocala, The Villages, Gainesville, Clermont, Eustis, Leesburg et Marion Oaks.",
+      "category": "Other",
+      "website": "https://epoxy-flooring-ocala.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T10:10:49.871915+00:00"
+    },
+    {
+      "name": "Tillwright",
+      "slug": "polsia-tillwright-7",
+      "description": "The store-ops co-pilot that never clocks out. Inventory, pricing, ad-spend, checkout and customer replies — watched and fixed while you sleep.",
+      "description_fr": "Le copilote des opérations en magasin qui ne pointe jamais. Inventaire, tarification, dépenses publicitaires, paiement et réponses des clients : surveillés et corrigés pendant que vous dormez.",
+      "category": "E-Commerce & Retail",
+      "website": "https://tillwright-7.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T10:10:51.713303+00:00"
+    },
+    {
+      "name": "Tiltgrove",
+      "slug": "polsia-tiltgrove-2",
+      "website": "https://tiltgrove-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T10:09:03.890587+00:00"
+    },
+    {
+      "name": "Rigledger",
+      "slug": "polsia-rigledger-2",
+      "description": "Rigledger is the autonomous compliance agent for owner-operators and 1–5 truck fleets. It watches the ELD feed, flags HOS, DQ, and CSA risks in real time, and files MCS-150, IFTA, UCR, 2290, and BOC-3 for you.",
+      "description_fr": "Rigledger est l'agent de conformité autonome pour les propriétaires-exploitants et les flottes de 1 à 5 camions. Il surveille le flux ELD, signale les risques HOS, DQ et CSA en temps réel et classe les MCS-150, IFTA, UCR, 2290 et BOC-3 pour vous.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://rigledger-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T10:09:05.144060+00:00"
+    },
+    {
+      "name": "Jukeline",
+      "slug": "polsia-jukeline",
+      "description": "Jukeline projects over/under on every player prop line — pulling thousands of markets across NBA, NFL, MLB, NHL, WNBA, college football, and college basketball, then layering matchup, pace, usage, rest, weather and line movement on top to surface high-EV plays.",
+      "description_fr": "Jukeline projette le dessus/le dessous sur chaque ligne d'accessoires de joueur - attirant des milliers de marchés à travers la NBA, la NFL, la MLB, la NHL, la WNBA, le football universitaire et le basket-ball universitaire, puis superposant les matchs, le rythme, l'utilisation, le repos, la météo et le mouvement de la ligne pour faire surface des jeux à EV élevé.",
+      "category": "Other",
+      "website": "https://jukeline.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T10:10:59.432987+00:00"
+    },
+    {
+      "name": "Velcove",
+      "slug": "polsia-velcove",
+      "description": "The ephemeral dating app for verified adults. End-to-end encrypted, vanishing by default.",
+      "description_fr": "L'application de rencontres éphémères pour adultes vérifiés. Chiffré de bout en bout, disparaissant par défaut.",
+      "category": "Social & Community",
+      "website": "https://velcove.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T10:11:01.352270+00:00"
+    },
+    {
+      "name": "Diamondmint",
+      "slug": "polsia-diamondmint",
+      "description": "Baseball basics for every kid, every league — one dollar at a time.",
+      "description_fr": "Les bases du baseball pour chaque enfant, chaque ligue – un dollar à la fois.",
+      "category": "Other",
+      "website": "https://diamondmint.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T10:09:17.967447+00:00"
     }
   ]
 }
