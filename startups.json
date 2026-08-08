@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T11:51:36.962361+00:00",
+  "last_updated": "2026-08-08T12:20:13.474233+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -232212,26 +232212,35 @@
     {
       "name": "Tonkanzel",
       "slug": "polsia-tonkanzel",
+      "description": "Tonkanzel ist die KI-Vollagentur für deutschsprachige Content-Creator: plant Beiträge, schneidet Live-Highlights, antwortet in deinem Ton und meldet Performance-Spitzen – rund um die Uhr.",
+      "description_fr": "Tonkanzel est le KI-Vollagentur für deutschsprachige Content-Creator : plant Beiträge, schneidet Live-Highlights, réponse à votre ton et à mes performances-Spitzen – passe par la montre.",
+      "category": "Entertainment & Media",
       "website": "https://tonkanzel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T11:48:58.854867+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T12:19:36.070791+00:00"
     },
     {
       "name": "Tallymark",
       "slug": "polsia-tallymark-6g4pfb",
+      "description": "Turn your existing contacts into a continuously working pipeline. Tallymark is an AI SDR built from the salesperson’s seat — not a vendor’s roadmap.",
+      "description_fr": "Transformez vos contacts existants en un pipeline fonctionnant en continu. Tallymark est un SDR IA construit à partir du siège du vendeur, et non la feuille de route d'un fournisseur.",
+      "category": "AI & Machine Learning",
       "website": "https://tallymark-6g4pfb.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T11:48:59.455942+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T12:19:37.114797+00:00"
     },
     {
       "name": "Offpitch",
       "slug": "polsia-offpitch-2",
+      "description": "From airport pitch to alter ego single — the messy middle, documented. A self-produced docu-channel chronicling one founder’s unpolished comeback.",
+      "description_fr": "Du terrain d'aéroport au single alter ego - le milieu désordonné, documenté. Une chaîne documentaire autoproduite relatant le retour brutal d’un fondateur.",
+      "category": "AI & Machine Learning",
       "website": "https://offpitch-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T11:49:09.948463+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T12:19:38.074245+00:00"
     },
     {
       "name": "Sunlit Autumn Boutique",
@@ -232244,18 +232253,24 @@
     {
       "name": "Cratewright",
       "slug": "polsia-cratewright-9",
+      "description": "Project ops and material logistics for remodeling crews. One workflow for quotes, crew schedules, change orders, and kitted-on-site material delivery.",
+      "description_fr": "Opérations de projet et logistique matérielle pour les équipes de remodelage. Un flux de travail unique pour les devis, les horaires des équipes, les ordres de modification et la livraison du matériel préparé sur site.",
+      "category": "Logistics & Supply Chain",
       "website": "https://cratewright-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T11:49:20.960555+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T12:19:39.572938+00:00"
     },
     {
       "name": "Holdmark",
       "slug": "polsia-holdmark-r2x4ko",
+      "description": "Holdmark autonomously closes the maintenance loop for independent landlords — triaging, dispatching, and reconciling invoices from request to books.",
+      "description_fr": "Holdmark ferme de manière autonome la boucle de maintenance pour les propriétaires indépendants en triant, en répartissant et en rapprochant les factures de la demande aux livres.",
+      "category": "Finance & Fintech",
       "website": "https://holdmark-r2x4ko.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T11:49:21.561190+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T12:19:40.757289+00:00"
     },
     {
       "name": "Ealani",
@@ -232282,10 +232297,13 @@
     {
       "name": "Zunftbytes",
       "slug": "polsia-zunftbytes",
+      "description": "E-Rechnung im Handwerk — vor Ort eingeführt, nicht nur lizenziert. Format wählen, Buchhaltung koppeln, Rollen schulen. Am Montag danach läuft es.",
+      "description_fr": "E-Rechnung im Handwerk — vor Ort eingeführt, nicht nur lizenziert. Format wählen, Buchhaltung koppeln, Rollen schulen. Am Montag danach läuft es.",
+      "category": "Other",
       "website": "https://zunftbytes.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T11:49:37.777035+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T12:19:42.295607+00:00"
     },
     {
       "name": "VALIENTE LLC",
@@ -232297,6 +232315,101 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-08T11:51:36.961037+00:00"
+    },
+    {
+      "name": "Holdwater",
+      "slug": "polsia-holdwater-2",
+      "website": "https://holdwater-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T12:17:49.087848+00:00"
+    },
+    {
+      "name": "BrightRepeat",
+      "slug": "polsia-brightrepeat",
+      "website": "https://brightrepeat.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T12:17:54.558717+00:00"
+    },
+    {
+      "name": "Rememory",
+      "slug": "polsia-rememory",
+      "website": "https://rememory.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T12:17:59.917425+00:00"
+    },
+    {
+      "name": "Bivystay",
+      "slug": "polsia-bivystay",
+      "website": "https://bivystay.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T12:18:05.222940+00:00"
+    },
+    {
+      "name": "Veldpost",
+      "slug": "polsia-veldpost",
+      "description": "From dormant pages to active feeds — AI social content for SA small businesses.",
+      "description_fr": "Des pages dormantes aux flux actifs : contenu social IA pour les petites entreprises sud-africaines.",
+      "category": "AI & Machine Learning",
+      "website": "https://veldpost.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T12:20:04.965674+00:00"
+    },
+    {
+      "name": "Rimi Ritual",
+      "slug": "polsia-rimi-ritual",
+      "description": "A small, independent brand built around daily ritual.",
+      "description_fr": "Une petite marque indépendante construite autour d'un rituel quotidien.",
+      "category": "Marketing & Advertising",
+      "website": "https://rimi-ritual.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T12:20:05.683244+00:00"
+    },
+    {
+      "name": "Stem Solutions",
+      "slug": "polsia-stem-solutions",
+      "description": "Turnkey STEM, LEGO Education and digital classrooms for Kazakhstan's schools and kindergartens.",
+      "description_fr": "Classes clés en main STEM, LEGO Education et numériques pour les écoles et jardins d'enfants du Kazakhstan.",
+      "category": "Education",
+      "website": "https://stem-solutions.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T12:20:06.787832+00:00"
+    },
+    {
+      "name": "Tapedrop",
+      "slug": "polsia-tapedrop",
+      "description": "Tapedrop is the nightly RTL delivery channel for chip teams — autonomous agent fleets ingest your spec and drop lint-clean, simulation-verified, timing-closed IP in your repo each morning.",
+      "description_fr": "Tapedrop est le canal de livraison RTL nocturne pour les équipes de puces : des flottes d'agents autonomes ingèrent vos spécifications et déposent chaque matin une adresse IP propre, vérifiée par simulation et fermée dans le temps dans votre dépôt.",
+      "category": "Logistics & Supply Chain",
+      "website": "https://tapedrop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T12:20:08.130240+00:00"
+    },
+    {
+      "name": "Strauß 360°",
+      "slug": "polsia-strau-360",
+      "website": "https://strau-360.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T12:18:33.887707+00:00"
+    },
+    {
+      "name": "Tempestgate",
+      "slug": "polsia-tempestgate",
+      "description": "Tempestgate turns climate, weather, and hazard-risk feeds into pre-positioned, NIMS-aligned action — 24/7, for property portfolios, supply-chain nodes, and emergency-management teams.",
+      "description_fr": "Tempestgate transforme les flux climatiques, météorologiques et de risques en actions prépositionnées et alignées sur le NIMS – 24h/24 et 7j/7, pour les portefeuilles immobiliers, les nœuds de la chaîne d'approvisionnement et les équipes de gestion des urgences.",
+      "category": "Real Estate",
+      "website": "https://tempestgate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T12:18:35.169061+00:00"
     }
   ]
 }
