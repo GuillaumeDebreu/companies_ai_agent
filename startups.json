@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T19:27:20.645125+00:00",
+  "last_updated": "2026-08-08T19:56:47.290543+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -233497,42 +233497,57 @@
     {
       "name": "Cliventa",
       "slug": "polsia-cliventa",
+      "description": "Cada mensagem vira cliente. Automação conversacional para clínicas e serviços locais via WhatsApp Business API, site e SMS.",
+      "description_fr": "Chaque message vira cliente. Conversation automatique pour les cliniques et les services locaux via l'API WhatsApp Business, le site et les SMS.",
+      "category": "Software & SaaS",
       "website": "https://cliventa.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T19:24:32.158666+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T19:56:00.097046+00:00"
     },
     {
       "name": "Pharosight",
       "slug": "polsia-pharosight",
+      "description": "Premium accessibility apps for blind and low-vision users — on-device scene narration, document reading, and walked navigation.",
+      "description_fr": "Applications d'accessibilité haut de gamme pour les utilisateurs aveugles et malvoyants : narration de scènes sur l'appareil, lecture de documents et navigation piétonne.",
+      "category": "Other",
       "website": "https://pharosight.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T19:24:37.538485+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T19:56:01.245154+00:00"
     },
     {
       "name": "graphicthreadsexpress",
       "slug": "polsia-graphicthreadsexpress",
+      "description": "Small eBay shop for heat-pressed graphic tees and custom printed apparel. Pressed on demand, bundled at a discount.",
+      "description_fr": "Petite boutique eBay proposant des t-shirts graphiques pressés à chaud et des vêtements imprimés personnalisés. Pressé à la demande, regroupé à prix réduit.",
+      "category": "E-Commerce & Retail",
       "website": "https://graphicthreadsexpress.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T19:24:42.915736+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T19:56:03.083481+00:00"
     },
     {
       "name": "Filingwright",
       "slug": "polsia-filingwright-2",
+      "description": "Your always-on AI compliance agent for every license, permit, tax filing, and regulation across city, county, state, and federal agencies.",
+      "description_fr": "Votre agent de conformité IA toujours disponible pour chaque licence, permis, déclaration de revenus et réglementation dans les agences municipales, de comté, d'État et fédérales.",
+      "category": "AI & Machine Learning",
       "website": "https://filingwright-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T19:24:43.607017+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T19:56:04.750981+00:00"
     },
     {
       "name": "Hagstone Hollow",
       "slug": "polsia-hagstone-hollow",
+      "description": "Hagstone Hollow is a curated fantasy emporium — five imagined worlds of cottagecore and witchy home décor, picked by hand and sold as coherent kits.",
+      "description_fr": "Hagstone Hollow est un magasin fantastique organisé – cinq mondes imaginés de décoration intérieure cottagecore et sorcière, choisis à la main et vendus sous forme de kits cohérents.",
+      "category": "Real Estate",
       "website": "https://hagstone-hollow.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T19:24:49.125464+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T19:56:06.113343+00:00"
     },
     {
       "name": "Colazione",
@@ -233548,18 +233563,24 @@
     {
       "name": "Cuewright",
       "slug": "polsia-cuewright-7b0x9p",
+      "description": "Cast characters. Cue scenes. Ship audio drama. A desktop-first production suite for fiction podcasters.",
+      "description_fr": "Personnages moulés. Scènes de repère. Expédiez un drame audio. Une suite de production de bureau pour les podcasteurs de fiction.",
+      "category": "Entertainment & Media",
       "website": "https://cuewright-7b0x9p.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T19:24:59.965980+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T19:56:07.925221+00:00"
     },
     {
       "name": "PHYZHAUS",
       "slug": "polsia-phyzhaus",
+      "description": "The 24/7 AI co-teacher for K-12 PE and health programs. Auto-generates standards-aligned workout plans, flags health risks in real time, and keeps parents in the loop.",
+      "description_fr": "Le co-enseignant d'IA 24h/24 et 7j/7 pour les programmes d'éducation physique et de santé de la maternelle à la 12e année. Génère automatiquement des plans d'entraînement alignés sur les normes, signale les risques pour la santé en temps réel et tient les parents informés.",
+      "category": "AI & Machine Learning",
       "website": "https://phyzhaus.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-08T19:25:05.516562+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-08T19:56:09.332159+00:00"
     },
     {
       "name": "Diggin For Treats",
@@ -233582,6 +233603,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-08T19:27:20.643936+00:00"
+    },
+    {
+      "name": "Anchorstay",
+      "slug": "polsia-anchorstay-7",
+      "website": "https://anchorstay-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T19:53:45.998555+00:00"
+    },
+    {
+      "name": "Vynts",
+      "slug": "polsia-vynts-2",
+      "website": "https://vynts-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T19:53:51.507008+00:00"
+    },
+    {
+      "name": "Oulton College",
+      "slug": "polsia-oulton-college",
+      "website": "https://oulton-college.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T19:53:57.109402+00:00"
+    },
+    {
+      "name": "Neucel",
+      "slug": "polsia-neucel",
+      "website": "https://neucel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T19:54:02.742517+00:00"
+    },
+    {
+      "name": "Rikkancs Reels",
+      "slug": "polsia-rikkancs-reels",
+      "website": "https://rikkancs-reels.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T19:54:08.215500+00:00"
+    },
+    {
+      "name": "Valley Construction Associates LLC",
+      "slug": "polsia-valley-construction-associates-llc",
+      "description": "South Texas general contractor building master-planned communities from the ground up — subdivisions, residential, commercial, and concrete foundations.",
+      "description_fr": "L'entrepreneur général du sud du Texas construit des communautés planifiées à partir de zéro : subdivisions, fondations résidentielles, commerciales et en béton.",
+      "category": "Other",
+      "website": "https://valley-construction-associates-llc.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T19:56:38.443564+00:00"
+    },
+    {
+      "name": "Ideal Siding Pittsburgh",
+      "slug": "polsia-ideal-siding-pittsburgh",
+      "description": "Pittsburgh's James Hardie Preferred siding contractor. Full and partial replacements, targeted repairs, and new-build installs in fiber cement, vinyl, cedar, aluminum, and engineered wood. PA HIC #PA190000. Free upfront quotes.",
+      "description_fr": "L'entrepreneur en revêtement James Hardie Preferred de Pittsburgh. Remplacements complets et partiels, réparations ciblées et installations de nouvelles constructions en fibrociment, vinyle, cèdre, aluminium et bois d'ingénierie. PA HIC #PA190000. Devis initiaux gratuits.",
+      "category": "Other",
+      "website": "https://ideal-siding-pittsburgh.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T19:56:39.571798+00:00"
+    },
+    {
+      "name": "Venclex",
+      "slug": "polsia-venclex",
+      "description": "Agentes IA que cobran tus facturas 24/7 y solo te avisan cuando tu decisión cambia el juego.",
+      "description_fr": "Agents IA qui vous soutiennent 24h/24 et 7j/7 et vous avisent seul lorsque vous décidez de changer le jeu.",
+      "category": "Other",
+      "website": "https://venclex.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T19:56:40.830752+00:00"
+    },
+    {
+      "name": "Parkgate",
+      "slug": "polsia-parkgate",
+      "description": "Always-on coverage intelligence across every payer. Parkgate watches patient eligibility, benefits, and prior-authorization status 24/7 so revenue-cycle teams only step in on exceptions.",
+      "description_fr": "Des informations de couverture toujours disponibles pour chaque payeur. Parkgate surveille l'éligibilité des patients, les avantages et le statut de l'autorisation préalable 24h/24 et 7j/7 afin que les équipes chargées du cycle de revenus n'interviennent qu'en cas d'exceptions.",
+      "category": "Health & Wellness",
+      "website": "https://parkgate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-08T19:56:41.839064+00:00"
+    },
+    {
+      "name": "Kindlore",
+      "slug": "polsia-kindlore",
+      "website": "https://kindlore.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-08T19:54:40.821830+00:00"
     }
   ]
 }
