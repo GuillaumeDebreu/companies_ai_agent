@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T13:11:59.865377+00:00",
+  "last_updated": "2026-08-09T14:00:51.590632+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -235790,10 +235790,13 @@
     {
       "name": "Banditore",
       "slug": "polsia-banditore-2",
+      "description": "Il deal radar quotidiano per orologi vintage in Italia, Germania e Francia. Banditore scansiona eBay, Chrono24, Catawiki e Vinted e segnala solo i listing con almeno il 20% di margine stimato.",
+      "description_fr": "Il propose des radars quotidiens pour les orologi vintage en Italie, Allemagne et France. Les acheteurs ont scanné eBay, Chrono24, Catawiki et Vinted et ont annoncé leur inscription en solo avec une augmentation de 20% de la marge.",
+      "category": "Other",
       "website": "https://banditore-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T11:59:44.554765+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:59:37.943537+00:00"
     },
     {
       "name": "Leadshed",
@@ -235869,66 +235872,90 @@
     {
       "name": "Nightwarden",
       "slug": "polsia-nightwarden-h8w7v4",
+      "description": "An AI co-host that never logs off — pricing, messages, turnovers, and reporting in one loop.",
+      "description_fr": "Un co-hébergeur IA qui ne se déconnecte jamais : tarification, messages, chiffres d'affaires et reporting en une seule boucle.",
+      "category": "AI & Machine Learning",
       "website": "https://nightwarden-h8w7v4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T13:09:07.601831+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:59:41.384891+00:00"
     },
     {
       "name": "Shelfhawk",
       "slug": "polsia-shelfhawk-5",
+      "description": "The 24/7 autonomous ops agent built for DTC founders — watches competitor prices, reprices within margin guardrails, flags stockouts, and auto-restocking inside one transparent daily action log.",
+      "description_fr": "L'agent opérationnel autonome 24h/24 et 7j/7 conçu pour les fondateurs de DTC — surveille les prix des concurrents, refixe les prix dans les limites de marge, signale les ruptures de stock et le réapprovisionnement automatique dans un journal d'action quotidien transparent.",
+      "category": "Real Estate",
       "website": "https://shelfhawk-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T13:09:08.353631+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:59:42.815333+00:00"
     },
     {
       "name": "Chairmint",
       "slug": "polsia-chairmint",
+      "description": "An AI receptionist and follow-up engine for German dental practices. More booked appointments, fewer missed inquiries, zero extra hires.",
+      "description_fr": "Un moteur de réception et de suivi IA pour les cabinets dentaires allemands. Plus de rendez-vous pris, moins de demandes manquées, zéro embauche supplémentaire.",
+      "category": "AI & Machine Learning",
       "website": "https://chairmint.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T13:09:09.113781+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:59:43.941911+00:00"
     },
     {
       "name": "Quaystay",
       "slug": "polsia-quaystay",
+      "description": "Autonomous short-term rental management for hosts in regulated cities. Listings, dynamic pricing, guest messaging, cleaning dispatch, and licensing compliance — on one flat monthly per-property fee.",
+      "description_fr": "Gestion autonome des locations courte durée pour les hôtes dans les villes réglementées. Annonces, tarification dynamique, messagerie client, répartition du nettoyage et conformité des licences – sur un montant mensuel forfaitaire par propriété.",
+      "category": "Travel & Hospitality",
       "website": "https://quaystay.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T13:09:09.995083+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:59:45.134198+00:00"
     },
     {
       "name": "Hôteïa",
       "slug": "polsia-htea",
+      "description": "Hôteïa est l’agent IA qui orchestre vos locations courte durée de A à Z : tarification dynamique, messagerie voyageurs, ménages et conformité réglementaire.",
+      "description_fr": "Hôteïa est l’agent IA qui orchestre vos locations courtes durée de A à Z : tarification dynamique, messagerie voyageurs, ménages et conformité réglementaire.",
+      "category": "Other",
       "website": "https://htea.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T13:09:15.710091+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:59:46.380902+00:00"
     },
     {
       "name": "Booklark",
       "slug": "polsia-booklark-3",
+      "description": "Booklark is the autonomous finance agent for the five-person shop. It signs into carrier portals, flags overcharges, chases late payers, and meets you in your inbox every Monday morning with a plain-English digest of what changed.",
+      "description_fr": "Booklark est l'agent financier autonome du magasin de cinq personnes. Il se connecte aux portails des opérateurs, signale les surfacturations, traque les payeurs en retard et vous rencontre dans votre boîte de réception tous les lundis matin avec un résumé en anglais simple de ce qui a changé.",
+      "category": "E-Commerce & Retail",
       "website": "https://booklark-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T13:09:21.387834+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:59:48.530584+00:00"
     },
     {
       "name": "Yardstead Commons",
       "slug": "polsia-yardstead-commons",
+      "description": "Black men reclaiming land, building commons, cultivating autonomy.",
+      "description_fr": "Des hommes noirs récupèrent leurs terres, construisent des biens communs, cultivent leur autonomie.",
+      "category": "Marketing & Advertising",
       "website": "https://yardstead-commons.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T13:09:26.968679+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:59:54.162157+00:00"
     },
     {
       "name": "Échoppe",
       "slug": "polsia-choppe",
+      "description": "Sites web IA, retouches par des humains, pour les commerces de proximité.",
+      "description_fr": "Sites web IA, retouches par des humains, pour les commerces de proximité.",
+      "category": "Other",
       "website": "https://choppe.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T13:09:32.416905+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:59:55.358322+00:00"
     },
     {
       "name": "Wachtfeder",
@@ -235948,6 +235975,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-08-09T13:09:43.670124+00:00"
+    },
+    {
+      "name": "ÉpreuveGaming",
+      "slug": "polsia-preuvegaming",
+      "website": "https://preuvegaming.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:58:01.040845+00:00"
+    },
+    {
+      "name": "Chairline",
+      "slug": "polsia-chairline",
+      "website": "https://chairline.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:58:01.938123+00:00"
+    },
+    {
+      "name": "Nightquill",
+      "slug": "polsia-nightquill-6",
+      "website": "https://nightquill-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:58:02.771798+00:00"
+    },
+    {
+      "name": "Quillroot",
+      "slug": "polsia-quillroot-g52nav",
+      "website": "https://quillroot-g52nav.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:58:03.522486+00:00"
+    },
+    {
+      "name": "HaatLoop",
+      "slug": "polsia-haatloop",
+      "website": "https://haatloop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:58:09.000668+00:00"
+    },
+    {
+      "name": "Rozprysk",
+      "slug": "polsia-rozprysk",
+      "website": "https://rozprysk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:58:14.647694+00:00"
+    },
+    {
+      "name": "Vocevia",
+      "slug": "polsia-vocevia",
+      "website": "https://vocevia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:58:20.117044+00:00"
+    },
+    {
+      "name": "Voltwright",
+      "slug": "polsia-voltwright-4",
+      "website": "https://voltwright-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:58:20.799760+00:00"
+    },
+    {
+      "name": "Counterdraft",
+      "slug": "polsia-counterdraft-vkyihr",
+      "website": "https://counterdraft-vkyihr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:58:21.589365+00:00"
+    },
+    {
+      "name": "Stamproot",
+      "slug": "polsia-stamproot",
+      "website": "https://stamproot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:58:27.201542+00:00"
     }
   ]
 }
