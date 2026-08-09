@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T08:05:14.059581+00:00",
+  "last_updated": "2026-08-09T08:59:38.514004+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -235117,10 +235117,13 @@
     {
       "name": "Skaldkeeper",
       "slug": "polsia-skaldkeeper",
+      "description": "Skaldkeeper is the always-on AI officer for MMORPG and RP guilds — drafting raid schedules, flagging toxic chat with evidence, posting daily economy reports, and writing your guild's lore beats on autopilot.",
+      "description_fr": "Skaldkeeper est l'officier IA permanent des guildes MMORPG et RP : il rédige des programmes de raid, signale les discussions toxiques avec des preuves, publie des rapports économiques quotidiens et écrit les rythmes de votre guilde sur le pilote automatique.",
+      "category": "AI & Machine Learning",
       "website": "https://skaldkeeper.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T08:02:14.853189+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T08:58:23.610812+00:00"
     },
     {
       "name": "robotPOS",
@@ -235133,18 +235136,24 @@
     {
       "name": "Traliccio",
       "slug": "polsia-traliccio",
+      "description": "Traliccio è una web agency boutique per le PMI italiane: siti vetrina, siti aziendali ed e-commerce curati, con SEO locale, manutenzione continuativa e prezzi chiari fin dalla prima call.",
+      "description_fr": "Traliccio est une boutique d'agence Web pour le PMI italien : site vétérinaire, site spécialisé et curateur e-commerce, avec référencement local, gestion continue et prix pour les premiers appels.",
+      "category": "E-Commerce & Retail",
       "website": "https://traliccio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T08:02:21.155418+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T08:58:26.110906+00:00"
     },
     {
       "name": "Taktonaut",
       "slug": "polsia-taktonaut",
+      "description": "Taktonaut ist eine KI-Automatisierungsagentur für KMU in Deutschland: KI-Antwort in unter 60 Sekunden, mehr Termine per E-Mail, WhatsApp und Telefon.",
+      "description_fr": "Taktonaut est un agent d'automatisation KI pour KMU en Allemagne : réponse KI en moins de 60 secondes, plus de terminaison par e-mail, WhatsApp et téléphone.",
+      "category": "Other",
       "website": "https://taktonaut.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T08:02:21.800373+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T08:58:27.467150+00:00"
     },
     {
       "name": "Orders In",
@@ -235157,42 +235166,140 @@
     {
       "name": "Outpact",
       "slug": "polsia-outpact-4",
+      "description": "Always-on ad ops that bid, test, and actually pause. Outpact is a white-label digital ad agency that runs your Google and Meta campaigns 24/7 — adjusting bids, A/B testing creative, and pausing underperformers so SMBs and marketing agencies get disciplined paid media without staffing round-the-clock ops.",
+      "description_fr": "Des opérations publicitaires permanentes qui enchérissent, testent et mettent en pause. Outpact est une agence de publicité numérique en marque blanche qui gère vos campagnes Google et Meta 24 heures sur 24, 7 jours sur 7, en ajustant les enchères, en testant les créations A/B et en mettant en pause les sous-performants afin que les PME et les agences de marketing disposent de médias payants disciplinés sans embaucher du personnel 24 heures sur 24.",
+      "category": "Marketing & Advertising",
       "website": "https://outpact-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T08:02:32.716946+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T08:58:34.765525+00:00"
     },
     {
       "name": "Citanaut",
       "slug": "polsia-citanaut",
+      "description": "Get found on Google Maps. We handle the rest.",
+      "description_fr": "Soyez trouvé sur Google Maps. Nous nous occupons du reste.",
+      "category": "Other",
       "website": "https://citanaut.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T08:02:38.255247+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T08:58:36.730121+00:00"
     },
     {
       "name": "Quorumbeat",
       "slug": "polsia-quorumbeat-2",
+      "description": "An always-on ops agent for DJ and sound crews. Quorumbeat triages enquiries, matches gear, drafts the proposal and chases the booking — so a two-to-ten-person crew can run as many simultaneous events as a large agency.",
+      "description_fr": "Un agent opérationnel permanent pour les DJ et les équipes sonores. Quorumbeat trie les demandes, associe les équipements, rédige la proposition et effectue le suivi des réservations — afin qu'une équipe de deux à dix personnes puisse organiser autant d'événements simultanés qu'une grande agence.",
+      "category": "Travel & Hospitality",
       "website": "https://quorumbeat-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T08:02:38.897438+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T08:58:38.841395+00:00"
     },
     {
       "name": "Plumbwright",
       "slug": "polsia-plumbwright-jbhzwe",
+      "description": "Autonomous fund accounting — reconciliation, NAV, investor reporting, and compliance, around the clock.",
+      "description_fr": "Comptabilité de fonds autonome : rapprochement, valeur liquidative, rapports aux investisseurs et conformité, 24 heures sur 24.",
+      "category": "Finance & Fintech",
       "website": "https://plumbwright-jbhzwe.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T08:02:39.670755+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T08:58:40.662783+00:00"
     },
     {
       "name": "Plumbwise",
       "slug": "polsia-plumbwise-aqa2hg",
+      "description": "The community-discovery and outreach engine for bootstrapped SaaS founders. Drop in your niche, ICP, and one-line positioning — get a ranked shortlist of where your buyers actually hang out.",
+      "description_fr": "Le moteur de découverte et de sensibilisation de la communauté pour les fondateurs SaaS amorcés. Déposez votre niche, votre ICP et votre positionnement sur une seule ligne : obtenez une liste restreinte des endroits où vos acheteurs se trouvent réellement.",
+      "category": "Software & SaaS",
       "website": "https://plumbwise-aqa2hg.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-09T08:58:42.037420+00:00"
+    },
+    {
+      "name": "Pitchspire",
+      "slug": "polsia-pitchspire",
+      "website": "https://pitchspire.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-09T08:02:45.328671+00:00"
+      "scraped_at": "2026-08-09T08:56:32.354829+00:00"
+    },
+    {
+      "name": "Resplinter",
+      "slug": "polsia-resplinter",
+      "website": "https://resplinter.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T08:56:33.054954+00:00"
+    },
+    {
+      "name": "Kainuotė",
+      "slug": "polsia-kainuot",
+      "website": "https://kainuot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T08:56:33.865665+00:00"
+    },
+    {
+      "name": "Lexivia",
+      "slug": "polsia-lexivia",
+      "website": "https://lexivia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T08:56:34.627844+00:00"
+    },
+    {
+      "name": "Krovel",
+      "slug": "polsia-krovel",
+      "website": "https://krovel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T08:56:35.326155+00:00"
+    },
+    {
+      "name": "Halecrest",
+      "slug": "polsia-halecrest",
+      "website": "https://halecrest.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T08:56:40.822425+00:00"
+    },
+    {
+      "name": "Brickbloom",
+      "slug": "polsia-brickbloom-2",
+      "website": "https://brickbloom-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T08:56:46.221455+00:00"
+    },
+    {
+      "name": "Pridvor",
+      "slug": "polsia-pridvor-2",
+      "website": "https://pridvor-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T08:56:46.876699+00:00"
+    },
+    {
+      "name": "Karavantai",
+      "slug": "polsia-karavantai",
+      "description": "The always-on AI trade desk moving Central Asian goods into South Korean marketplaces.",
+      "description_fr": "Le bureau commercial de l'IA toujours actif qui transporte les produits d'Asie centrale vers les marchés sud-coréens.",
+      "category": "AI & Machine Learning",
+      "website": "https://karavantai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-09T08:59:32.907277+00:00"
+    },
+    {
+      "name": "LOOPHALL",
+      "slug": "polsia-loophall",
+      "website": "https://loophall.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T08:56:57.742132+00:00"
     }
   ]
 }
