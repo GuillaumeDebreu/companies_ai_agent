@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T02:52:56.922800+00:00",
+  "last_updated": "2026-08-09T04:09:27.833548+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -234579,58 +234579,79 @@
     {
       "name": "Bivvy",
       "slug": "polsia-bivvy-9",
+      "description": "The always-on AI co-host for indie short-term rental hosts. Monitors bookings, re-prices nightly, answers guests, schedules cleaners, files AirCover claims.",
+      "description_fr": "Le co-hôte IA toujours actif pour les hôtes indépendants de location à court terme. Surveille les réservations, retarifie tous les soirs, répond aux clients, planifie les nettoyeurs, dépose les réclamations AirCover.",
+      "category": "Travel & Hospitality",
       "website": "https://bivvy-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T02:49:59.873825+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T04:08:54.256041+00:00"
     },
     {
-      "name": "Hushknoll",
+      "name": "Personalized bedtime stories for kids",
       "slug": "polsia-hushknoll",
+      "description": "Personalized bedtime stories for kids — gentle tales woven around your child’s name, with screen-light narration and a privacy-first design built for families.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://hushknoll.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T02:50:00.668413+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T04:08:55.096034+00:00"
     },
     {
       "name": "Morrow",
       "slug": "polsia-morrow-3",
+      "description": "Personalized AI stories that build real-world character — your child as the main character, lesson by lesson.",
+      "description_fr": "Des histoires d'IA personnalisées qui construisent un personnage du monde réel – votre enfant comme personnage principal, leçon par leçon.",
+      "category": "AI & Machine Learning",
       "website": "https://morrow-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T02:50:01.531557+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T04:08:56.284536+00:00"
     },
     {
       "name": "Helmship",
       "slug": "polsia-helmship-3",
+      "description": "An always-on fleet of AI agents that operates inventory, price, ads and support so lean commerce brands wake up to a digest, not a backlog.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://helmship-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T02:50:07.130390+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T04:08:57.113907+00:00"
     },
     {
       "name": "Vellura",
       "slug": "polsia-vellura-10",
+      "description": "Cinematic polish, AI pacing—every frame on beat, on brand.",
+      "description_fr": "Finition cinématographique, rythme de l'IA : chaque image au rythme, à la marque.",
+      "category": "AI & Machine Learning",
       "website": "https://vellura-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T02:50:12.732873+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T04:08:58.115164+00:00"
     },
     {
       "name": "Plover",
       "slug": "polsia-plover-4",
+      "description": "48-hour customer-response kits for local businesses — review replies, missed-call text-backs, follow-up messages, and a Google Business Profile tidy-up. One-time payment.",
+      "description_fr": "Kits de réponse client sous 48 heures pour les entreprises locales : examen des réponses, rappels d'appels manqués, messages de suivi et mise au point du profil d'entreprise Google. Paiement unique.",
+      "category": "Finance & Fintech",
       "website": "https://plover-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T02:50:18.300537+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T04:08:59.298990+00:00"
     },
     {
       "name": "London Manya",
       "slug": "polsia-london-manya",
+      "description": "Premium sparkling palm wine, bottle-fermented in the Méthode Champenoise from sustainably harvested Nigerian palm sap. Batch 5 — The Soft Life Shayo — now shipping.",
+      "description_fr": "Vin de palme mousseux de première qualité, fermenté en bouteille selon la Méthode Champenoise à partir de sève de palmier nigériane récoltée de manière durable. Lot 5 – The Soft Life Shayo – maintenant expédié.",
+      "category": "Logistics & Supply Chain",
       "website": "https://london-manya.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T02:50:23.937622+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T04:09:00.289345+00:00"
     },
     {
       "name": "DECLINE_LEAKED_NCII_AGGREGATOR",
@@ -234643,10 +234664,13 @@
     {
       "name": "Untango Press",
       "slug": "polsia-untango-press",
+      "description": "Low-friction digital planners for scattered, easily-overwhelmed minds. Today-only views, brain-dump pages, gentle habit tracking, and emergency pages — across GoodNotes, Notability, PDF, Canva, Google Sheets, and Notion.",
+      "description_fr": "Des agendas numériques à faible friction pour les esprits dispersés et facilement submergés. Vues d'aujourd'hui uniquement, pages de vidage cérébral, suivi doux des habitudes et pages d'urgence - sur GoodNotes, Notability, PDF, Canva, Google Sheets et Notion.",
+      "category": "Other",
       "website": "https://untango-press.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T02:50:30.593046+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T04:09:02.820593+00:00"
     },
     {
       "name": "Halestone",
@@ -234658,6 +234682,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-09T02:52:56.921922+00:00"
+    },
+    {
+      "name": "NichePulse",
+      "slug": "polsia-nichepulse-8",
+      "website": "https://nichepulse-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T04:07:22.830057+00:00"
+    },
+    {
+      "name": "Clinivox Health",
+      "slug": "polsia-clinivox-health",
+      "website": "https://clinivox-health.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T04:07:24.150115+00:00"
+    },
+    {
+      "name": "Obliqo",
+      "slug": "polsia-obliqo",
+      "website": "https://obliqo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T04:07:24.892522+00:00"
+    },
+    {
+      "name": "Hourwell",
+      "slug": "polsia-hourwell",
+      "website": "https://hourwell.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T04:07:25.534295+00:00"
+    },
+    {
+      "name": "Tenderlark",
+      "slug": "polsia-tenderlark-9",
+      "website": "https://tenderlark-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T04:07:26.045610+00:00"
+    },
+    {
+      "name": "Kurzstoff",
+      "slug": "polsia-kurzstoff",
+      "website": "https://kurzstoff.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T04:07:26.676551+00:00"
+    },
+    {
+      "name": "Binnacle",
+      "slug": "polsia-binnacle-gihx4v",
+      "website": "https://binnacle-gihx4v.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T04:07:32.201407+00:00"
+    },
+    {
+      "name": "Keypost",
+      "slug": "polsia-keypost-2",
+      "website": "https://keypost-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T04:07:32.890691+00:00"
+    },
+    {
+      "name": "Quartermast",
+      "slug": "polsia-quartermast-6qjs8d",
+      "website": "https://quartermast-6qjs8d.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T04:07:38.267433+00:00"
+    },
+    {
+      "name": "Driftbolt",
+      "slug": "polsia-driftbolt-2",
+      "description": "Missed-call AI and trade automations for home-service operators, starting at $500/mo.",
+      "description_fr": "IA pour les appels manqués et automatisations commerciales pour les opérateurs de services à domicile, à partir de 500 $/mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://driftbolt-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-09T04:07:39.084450+00:00"
     }
   ]
 }
