@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T10:19:52.652064+00:00",
+  "last_updated": "2026-08-09T10:59:22.012723+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -235441,18 +235441,24 @@
     {
       "name": "Wobbegong Wheels",
       "slug": "polsia-wobbegong-wheels",
+      "description": "Dunwich-based vehicle hire on Minjerribah — trade-ready cars for the island workforce, compact 2WDs for visitors, and a daily elder courtesy shuttle along the ferry timetable.",
+      "description_fr": "Location de véhicules basée à Dunwich sur Minjerribah : des voitures prêtes à l'emploi pour la main-d'œuvre de l'île, des 2×4 compacts pour les visiteurs et une navette quotidienne gratuite pour les personnes âgées le long des horaires du ferry.",
+      "category": "Other",
       "website": "https://wobbegong-wheels.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T10:16:44.509178+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T10:58:22.747184+00:00"
     },
     {
       "name": "VIAROA",
       "slug": "polsia-viaroa",
+      "description": "Riidhailing, Carpool und ÖV – ei KI-gstützti App. Ei plattform wo alli Verchehrsmittel zämebringt.",
+      "description_fr": "Riidhailing, Carpool et ÖV – et l'application KI-gstützti. Cette plate-forme wo alli Verchehrsmittel zämebringt.",
+      "category": "Other",
       "website": "https://viaroa.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T10:16:45.240629+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T10:58:23.962767+00:00"
     },
     {
       "name": "Hybrid Networks",
@@ -235465,42 +235471,57 @@
     {
       "name": "Wegwart",
       "slug": "polsia-wegwart",
+      "description": "Wegwart ist der proaktive KI-Concierge für Reiseveranstalter, OTAs und Reiseagenturen. Routen werden autonom umorganisiert, Gäste informiert – bevor sie überhaupt anrufen.",
+      "description_fr": "Wegwart est le KI-Concierge proactif pour les agences de voyages, les OTA et les agences de voyages. Routen werden autonom umorganisiert, Gäste informiert – bevor sie überhaupt anrufen.",
+      "category": "Other",
       "website": "https://wegwart.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T10:16:56.436080+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T10:58:25.908984+00:00"
     },
     {
-      "name": "D. Alan Bowlby & Associates, Inc.",
+      "name": "D. Alan Bowlby & Associates",
       "slug": "polsia-d-alan-bowlby-associates-inc",
+      "description": "Texas commercial property tax appeals consultants serving Addison and statewide clients for 25+ years.",
+      "description_fr": "Consultants en matière d'appels en matière d'impôt foncier commercial au Texas au service d'Addison et de clients de tout l'État depuis plus de 25 ans.",
+      "category": "Real Estate",
       "website": "https://d-alan-bowlby-associates-inc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T10:17:02.001681+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T10:58:27.267477+00:00"
     },
     {
       "name": "Cielle",
       "slug": "polsia-cielle",
+      "description": "Cielle transforme vos demandes entrantes en rendez-vous qualifiés grâce à des agents IA et des workflows sur-mesure pour cabinets immobiliers, dentaires, juridiques et PME de service.",
+      "description_fr": "Cielle transforme vos demandes entrantes en rendez-vous qualifiés grâce à des agents IA et des workflows sur-mesure pour cabinets immobiliers, dentaires, juridiques et PME de service.",
+      "category": "Productivity & Automation",
       "website": "https://cielle.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T10:17:07.449071+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T10:58:29.136562+00:00"
     },
     {
       "name": "Solvewright",
       "slug": "polsia-solvewright",
+      "description": "Solvewright ist der globale Marktplatz für KI-gestützte Prozess­automatisierung. Beschreib dein Problem – unser Multi-Agent-System aus Claude und GPT baut die fertige Automatisierung.",
+      "description_fr": "Solvewright est la place de marché mondiale pour le processus d'automatisation de la gestion KI. Description du problème – utiliser le système multi-agents de Claude et GPT pour automatiser la fertige.",
+      "category": "AI & Machine Learning",
       "website": "https://solvewright.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T10:17:13.091613+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T10:58:30.523744+00:00"
     },
     {
       "name": "Choregos",
       "slug": "polsia-choregos",
+      "description": "24/7 AI ops for Greek fraternities and sororities — quietly watches dues, attendance, service hours, and engagement, then ships the weekly chapter health snapshot.",
+      "description_fr": "L'IA fonctionne 24h/24 et 7j/7 pour les fraternités et sororités grecques - surveille tranquillement les cotisations, la présence, les heures de service et l'engagement, puis envoie l'instantané hebdomadaire de la santé du chapitre.",
+      "category": "AI & Machine Learning",
       "website": "https://choregos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T10:17:18.455812+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T10:58:32.540074+00:00"
     },
     {
       "name": "Pocketplot",
@@ -235514,12 +235535,104 @@
       "scraped_at": "2026-08-09T10:19:47.163293+00:00"
     },
     {
-      "name": "VIGIE BOURSE",
+      "name": "Vigie Bourse",
       "slug": "polsia-vigie-bourse",
+      "description": "Desk de recherche et de trading piloté 24/7 par une constellation d'agents IA. Pour family offices, gestionnaires de patrimoine et desks institutionnels.",
+      "description_fr": "Desk de recherche et de trading piloté 24h/24 et 7j/7 par une constellation d'agents IA. Pour family offices, gestionnaires de patrimoine et desks institutionnels.",
+      "category": "Finance & Fintech",
       "website": "https://vigie-bourse.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-09T10:58:33.973039+00:00"
+    },
+    {
+      "name": "Trovex",
+      "slug": "polsia-trovex-ru4v1n",
+      "website": "https://trovex-ru4v1n.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-09T10:17:29.543651+00:00"
+      "scraped_at": "2026-08-09T10:56:31.124699+00:00"
+    },
+    {
+      "name": "Quillstead",
+      "slug": "polsia-quillstead-6",
+      "website": "https://quillstead-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T10:56:31.915685+00:00"
+    },
+    {
+      "name": "Bantamcrest",
+      "slug": "polsia-bantamcrest",
+      "website": "https://bantamcrest.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T10:56:32.746656+00:00"
+    },
+    {
+      "name": "Covemark",
+      "slug": "polsia-covemark",
+      "website": "https://covemark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T10:56:33.580508+00:00"
+    },
+    {
+      "name": "MehndMira",
+      "slug": "polsia-mehndmira",
+      "description": "A calm single page for solo mehendi artists — curated bridal gallery, transparent pricing, tutorial reels, and real reviews, all in one scroll.",
+      "description_fr": "Une seule page calme pour les artistes mehendi solo : une galerie de mariage organisée, des prix transparents, des bobines de didacticiels et de vraies critiques, le tout dans un seul parchemin.",
+      "category": "Education",
+      "website": "https://mehndmira.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-09T10:59:03.148184+00:00"
+    },
+    {
+      "name": "Stalica",
+      "slug": "polsia-stalica",
+      "website": "https://stalica.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T10:56:39.974301+00:00"
+    },
+    {
+      "name": "Yardlore",
+      "slug": "polsia-yardlore",
+      "description": "Neighborhood lawn fertilization and weed control, by Dan Lawrence and the Lawrence Landscape Group. Pet-safe, organic-leaning, region-specific — five to eight seasonal visits a year.",
+      "description_fr": "Fertilisation des pelouses de quartier et contrôle des mauvaises herbes, par Dan Lawrence et le Lawrence Landscape Group. Sans danger pour les animaux, à tendance biologique, spécifique à la région – cinq à huit visites saisonnières par an.",
+      "category": "Social & Community",
+      "website": "https://yardlore.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-09T10:59:09.665392+00:00"
+    },
+    {
+      "name": "Pressmark",
+      "slug": "polsia-pressmark-4",
+      "website": "https://pressmark-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T10:56:51.068233+00:00"
+    },
+    {
+      "name": "Klariq",
+      "slug": "polsia-klariq-4",
+      "website": "https://klariq-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T10:56:56.625278+00:00"
+    },
+    {
+      "name": "EasyByte",
+      "slug": "polsia-easybyte",
+      "description": "Senior-built custom software and applied AI from Madrid. Fixed scope, fixed price.",
+      "description_fr": "Logiciel personnalisé conçu par des seniors et IA appliquée de Madrid. Portée fixe, prix fixe.",
+      "category": "AI & Machine Learning",
+      "website": "https://easybyte.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-09T10:59:22.011550+00:00"
     }
   ]
 }
