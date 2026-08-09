@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T12:51:44.403728+00:00",
+  "last_updated": "2026-08-09T13:11:59.865377+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -235768,18 +235768,24 @@
     {
       "name": "Turnleaf Health",
       "slug": "polsia-turnleaf-health",
+      "description": "Turnleaf Health is a 20-year founder-led whole-person care practice integrating primary care, mental health, lifestyle medicine, healthy aging, and coaching under one team — measuring what changes for the patient.",
+      "description_fr": "Turnleaf Health est une pratique de soins intégraux dirigée par son fondateur depuis 20 ans intégrant les soins primaires, la santé mentale, la médecine du style de vie, le vieillissement en bonne santé et le coaching au sein d'une seule équipe – mesurant les changements pour le patient.",
+      "category": "Health & Wellness",
       "website": "https://turnleaf-health.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T11:59:43.420072+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:10:56.339053+00:00"
     },
     {
       "name": "Saltbox Asset Disposition",
       "slug": "polsia-saltbox-asset-disposition",
+      "description": "Certified end-of-life IT services for New England institutions. NIST 800-88 data sanitization, R2v3 + RIOS standards, HIPAA / FERPA-aligned processes.",
+      "description_fr": "Services informatiques certifiés en fin de vie pour les institutions de la Nouvelle-Angleterre. Désinfection des données NIST 800-88, normes R2v3 + RIOS, processus alignés HIPAA/FERPA.",
+      "category": "Other",
       "website": "https://saltbox-asset-disposition.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T11:59:44.012487+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:10:57.788786+00:00"
     },
     {
       "name": "Banditore",
@@ -235792,10 +235798,13 @@
     {
       "name": "Leadshed",
       "slug": "polsia-leadshed",
+      "description": "We send customers. You close deals.",
+      "description_fr": "Nous envoyons des clients. Vous concluez des affaires.",
+      "category": "Sales & CRM",
       "website": "https://leadshed.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T11:59:55.064771+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:10:59.917975+00:00"
     },
     {
       "name": "TapeWake",
@@ -235808,34 +235817,46 @@
     {
       "name": "Resellik",
       "slug": "polsia-resellik",
+      "description": "Resellik to gotowy model biznesowy dla młodych resellerów w Polsce: markowa odzież, trzy platformy i zysk każdego dnia.",
+      "description_fr": "Resellik to gotowy model biznesowy dla młodych revendrow w Polsce: markowa odzież, trzy platformy i zysk każdego dnia.",
+      "category": "Software & SaaS",
       "website": "https://resellik.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T12:00:01.180023+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:11:02.046358+00:00"
     },
     {
       "name": "Drumledger",
       "slug": "polsia-drumledger-3",
+      "description": "Always-on AI drumming up your unpaid invoices. Drumledger watches your books 24/7, nudges late payers on a polite cadence, and proposes a payment plan the moment a customer wavers.",
+      "description_fr": "Une IA toujours active qui gère vos factures impayées. Drumledger surveille vos livres 24 heures sur 24, 7 jours sur 7, encourage les payeurs en retard selon une cadence polie et propose un plan de paiement dès qu'un client hésite.",
+      "category": "AI & Machine Learning",
       "website": "https://drumledger-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T12:00:11.705657+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:11:03.833253+00:00"
     },
     {
       "name": "Foliard",
       "slug": "polsia-foliard-2",
+      "description": "Always-on AI finance agent for EU freelancers and small businesses — PSD2 banking, AI-driven AR follow-up, country-specific VAT, and quarterly filings, in one agent-first interface.",
+      "description_fr": "Agent financier IA toujours actif pour les indépendants et les petites entreprises de l'UE : services bancaires DSP2, suivi des AR piloté par l'IA, TVA spécifique au pays et déclarations trimestrielles, dans une seule interface axée sur l'agent.",
+      "category": "AI & Machine Learning",
       "website": "https://foliard-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T12:00:17.254784+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:11:06.194059+00:00"
     },
     {
       "name": "Tinroof",
       "slug": "polsia-tinroof-7",
+      "description": "Always-on attack surface management for small engineering teams. Tinroof finds exposed ports, leaked secrets, shadow SaaS, and dangling DNS, then opens a Linear, Jira, or GitHub issue the moment it's detected — with reproduction steps, evidence, and a suggested fix.",
+      "description_fr": "Gestion permanente de la surface d'attaque pour les petites équipes d'ingénierie. Tinroof trouve les ports exposés, les secrets divulgués, les SaaS fantômes et les DNS en suspens, puis ouvre un problème Linear, Jira ou GitHub dès qu'il est détecté – avec des étapes de reproduction, des preuves et une suggestion de correctif.",
+      "category": "Software & SaaS",
       "website": "https://tinroof-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T12:00:22.632255+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T13:11:08.011438+00:00"
     },
     {
       "name": "Riffpost",
@@ -235844,6 +235865,89 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-08-09T12:00:28.257296+00:00"
+    },
+    {
+      "name": "Nightwarden",
+      "slug": "polsia-nightwarden-h8w7v4",
+      "website": "https://nightwarden-h8w7v4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:09:07.601831+00:00"
+    },
+    {
+      "name": "Shelfhawk",
+      "slug": "polsia-shelfhawk-5",
+      "website": "https://shelfhawk-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:09:08.353631+00:00"
+    },
+    {
+      "name": "Chairmint",
+      "slug": "polsia-chairmint",
+      "website": "https://chairmint.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:09:09.113781+00:00"
+    },
+    {
+      "name": "Quaystay",
+      "slug": "polsia-quaystay",
+      "website": "https://quaystay.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:09:09.995083+00:00"
+    },
+    {
+      "name": "Hôteïa",
+      "slug": "polsia-htea",
+      "website": "https://htea.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:09:15.710091+00:00"
+    },
+    {
+      "name": "Booklark",
+      "slug": "polsia-booklark-3",
+      "website": "https://booklark-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:09:21.387834+00:00"
+    },
+    {
+      "name": "Yardstead Commons",
+      "slug": "polsia-yardstead-commons",
+      "website": "https://yardstead-commons.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:09:26.968679+00:00"
+    },
+    {
+      "name": "Échoppe",
+      "slug": "polsia-choppe",
+      "website": "https://choppe.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:09:32.416905+00:00"
+    },
+    {
+      "name": "Wachtfeder",
+      "slug": "polsia-wachtfeder",
+      "description": "Wachtfeder ist der autonome 24/7-KI-Wächter für deine Prompt-Pipelines: behält Token-Kosten, Latenz und Qualität im Blick, meldet Halluzinationen nach EU-AI-Act-Kriterien und optimiert Prompts per A/B-Test – ohne MLOps-Team.",
+      "description_fr": "La Fédération est une montre autonome 24h/24 et 7j/7 pour vos pipelines d'invites : le coût des jetons, les délais et la qualité du clic, les hallucinations selon les critères EU-AI-Act et les invites optimisées pour les tests A/B - sans l'équipe MLOps.",
+      "category": "Sales & CRM",
+      "website": "https://wachtfeder.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-09T13:11:54.320580+00:00"
+    },
+    {
+      "name": "Gigtrove",
+      "slug": "polsia-gigtrove",
+      "website": "https://gigtrove.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T13:09:43.670124+00:00"
     }
   ]
 }
