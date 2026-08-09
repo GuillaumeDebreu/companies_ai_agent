@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T19:07:52.481450+00:00",
+  "last_updated": "2026-08-09T19:48:35.907673+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -236835,42 +236835,57 @@
     {
       "name": "Griffin Devan",
       "slug": "polsia-griffin-devan",
+      "description": "Personal email address — not a business website.",
+      "description_fr": "Adresse e-mail personnelle – pas un site Web professionnel.",
+      "category": "Newsletter & Email",
       "website": "https://griffin-devan.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T19:05:02.030708+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T19:47:20.368340+00:00"
     },
     {
       "name": "Compward",
       "slug": "polsia-compward",
+      "description": "Weekly rental comp intelligence for small landlords. Your zip, your units, your edge — a Monday-morning brief that flags under-market and vacant units against fresh local comparables.",
+      "description_fr": "Intelligence hebdomadaire sur les loyers pour les petits propriétaires. Votre zip, vos unités, votre avantage – un briefing du lundi matin qui identifie les unités sous-marchés et vacantes par rapport à de nouveaux comparables locaux.",
+      "category": "Real Estate",
       "website": "https://compward.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T19:05:02.614213+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T19:47:21.563793+00:00"
     },
     {
       "name": "Splindex",
       "slug": "polsia-splindex-2",
+      "description": "Autonomous AI agents guarding every span of fiber — predicting faults, dispatching splicers, proving SLAs.",
+      "description_fr": "Des agents d’IA autonomes surveillent chaque tronçon de fibre – prédisant les pannes, répartissant les épisseurs, prouvant les SLA.",
+      "category": "AI & Machine Learning",
       "website": "https://splindex-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T19:05:03.251117+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T19:47:22.557996+00:00"
     },
     {
       "name": "Kehrwerk",
       "slug": "polsia-kehrwerk",
+      "description": "Feste Verträge. Feste Qualität. Echte Kalkulation. Gebäudereinigung für kleine und mittelgroße Unternehmen in Deutschland – fest kalkulierte Monatsverträge zwischen 400 und 900 Euro pro Standort.",
+      "description_fr": "Fête Verträge. Fête de la qualité. Un véritable calcul. Gebäudereinigung für small und mittelgroße Unternehmen in Deutschland – fest kalkulierte Monatsverträge zwischen 400 et 900 Euro pro Standort.",
+      "category": "Other",
       "website": "https://kehrwerk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T19:05:03.854122+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T19:47:23.876339+00:00"
     },
     {
       "name": "Linchmark",
       "slug": "polsia-linchmark-702ats",
+      "description": "Always-on AI agents that hunt counterfeits, file takedowns, and report what mattered today.",
+      "description_fr": "Des agents IA toujours actifs qui traquent les contrefaçons, effectuent des retraits et signalent ce qui compte aujourd'hui.",
+      "category": "AI & Machine Learning",
       "website": "https://linchmark-702ats.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T19:05:09.240537+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T19:47:24.753186+00:00"
     },
     {
       "name": "Tonvault",
@@ -236899,10 +236914,13 @@
     {
       "name": "Tilthcast",
       "slug": "polsia-tilthcast-2",
+      "description": "An autonomous agronomic agent for the working farm.",
+      "description_fr": "Un agent agronomique autonome pour l'exploitation agricole.",
+      "category": "Other",
       "website": "https://tilthcast-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-09T19:05:31.215301+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-09T19:47:36.613140+00:00"
     },
     {
       "name": "Kaur Accounting & Taxes",
@@ -236914,6 +236932,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-09T19:07:52.480314+00:00"
+    },
+    {
+      "name": "Lokalschnitt",
+      "slug": "polsia-lokalschnitt",
+      "website": "https://lokalschnitt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T19:45:24.940901+00:00"
+    },
+    {
+      "name": "Rondavend",
+      "slug": "polsia-rondavend",
+      "website": "https://rondavend.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T19:45:25.646499+00:00"
+    },
+    {
+      "name": "Crankreel",
+      "slug": "polsia-crankreel",
+      "website": "https://crankreel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T19:45:36.183904+00:00"
+    },
+    {
+      "name": "KIRPEK",
+      "slug": "polsia-kirpek",
+      "website": "https://kirpek.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T19:45:41.660689+00:00"
+    },
+    {
+      "name": "Roundsmith",
+      "slug": "polsia-roundsmith-4",
+      "website": "https://roundsmith-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T19:45:42.285291+00:00"
+    },
+    {
+      "name": "Zartonk",
+      "slug": "polsia-zartonk",
+      "website": "https://zartonk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T19:45:47.616053+00:00"
+    },
+    {
+      "name": "Vorderaar",
+      "slug": "polsia-vorderaar",
+      "website": "https://vorderaar.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T19:45:53.001094+00:00"
+    },
+    {
+      "name": "KaijuVault",
+      "slug": "polsia-kaijuvault",
+      "website": "https://kaijuvault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T19:45:58.463958+00:00"
+    },
+    {
+      "name": "Rootweave",
+      "slug": "polsia-rootweave",
+      "website": "https://rootweave.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T19:46:04.008847+00:00"
+    },
+    {
+      "name": "Miterpost",
+      "slug": "polsia-miterpost",
+      "website": "https://miterpost.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-09T19:46:04.529417+00:00"
     }
   ]
 }
