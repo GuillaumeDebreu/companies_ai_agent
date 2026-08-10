@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T01:52:05.014216+00:00",
+  "last_updated": "2026-08-10T03:02:11.033833+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -237795,50 +237795,68 @@
     {
       "name": "Orbex Data",
       "slug": "polsia-orbex-data",
+      "description": "AI-powered control tower for end-to-end freight visibility — ocean, air, and inland operations on one source of truth.",
+      "description_fr": "Tour de contrôle alimentée par l'IA pour une visibilité de bout en bout du fret : opérations maritimes, aériennes et intérieures sur une seule source de vérité.",
+      "category": "AI & Machine Learning",
       "website": "https://orbex-data.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T00:38:58.352190+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T03:01:11.911536+00:00"
     },
     {
       "name": "Wickthistle",
       "slug": "polsia-wickthistle",
+      "description": "Hand-poured candles and whipped body butters, made in small batches.",
+      "description_fr": "Bougies coulées à la main et beurres corporels fouettés, fabriqués en petits lots.",
+      "category": "Other",
       "website": "https://wickthistle.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T00:38:58.939466+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T03:01:13.054838+00:00"
     },
     {
       "name": "Onerift",
       "slug": "polsia-onerift",
+      "description": "One founder. AI crew. Zero process. Onerift is the operating system for solo founders who ship with an AI crew instead of a co-founder, a manager, or a roadmap.",
+      "description_fr": "Un fondateur. Équipage d'IA. Zéro processus. Onerift est le système d'exploitation destiné aux fondateurs solo qui expédient avec un équipage d'IA au lieu d'un co-fondateur, d'un manager ou d'une feuille de route.",
+      "category": "AI & Machine Learning",
       "website": "https://onerift.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T00:38:59.793497+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T03:01:14.724947+00:00"
     },
     {
       "name": "MarqueHumidor",
       "slug": "polsia-marquehumidor",
+      "description": "Always-on proxy bidding, authentication and insured shipping for collector cars and rare cigars.",
+      "description_fr": "Enchères par procuration, authentification et expédition assurée en permanence pour les voitures de collection et les cigares rares.",
+      "category": "Logistics & Supply Chain",
       "website": "https://marquehumidor.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T00:39:00.446914+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T03:01:15.948611+00:00"
     },
     {
       "name": "Aucelle",
       "slug": "polsia-aucelle",
+      "description": "An autonomous boutique for fashion, beauty, and home — a team of AI agents that scouts, lists, reprices, advertises, and supports your storefront around the clock.",
+      "description_fr": "Une boutique autonome pour la mode, la beauté et la maison : une équipe d'agents IA qui recherche, répertorie, retarifie, fait de la publicité et prend en charge votre vitrine 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://aucelle.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T00:39:01.294985+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T03:01:18.081989+00:00"
     },
     {
       "name": "Stockwake",
       "slug": "polsia-stockwake-8",
+      "description": "Always-on AI crew for small storefronts. You get the daily P&L brief — Inventory, Repricing, Support, Reviews, and Dunning run the loop, you decide only what matters.",
+      "description_fr": "Équipe d'IA toujours active pour les petites vitrines. Vous recevez le brief P&L quotidien : l'inventaire, la retarification, le support, les évaluations et la relance fonctionnent en boucle, vous décidez uniquement de ce qui compte.",
+      "category": "AI & Machine Learning",
       "website": "https://stockwake-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T00:39:01.967091+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T03:01:19.477283+00:00"
     },
     {
       "name": "Loamstack",
@@ -237851,10 +237869,13 @@
     {
       "name": "Palimpsest",
       "slug": "polsia-palimpsest-3",
+      "description": "Palimpsest is your private memory layer — every photo, receipt, screenshot, message, and document, made searchable by a personal AI.",
+      "description_fr": "Palimpseste est votre couche de mémoire privée : chaque photo, reçu, capture d'écran, message et document, rendu consultable par une IA personnelle.",
+      "category": "AI & Machine Learning",
       "website": "https://palimpsest-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T00:39:13.067353+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T03:01:21.311882+00:00"
     },
     {
       "name": "Loomroot",
@@ -237877,6 +237898,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-10T00:41:45.490489+00:00"
+    },
+    {
+      "name": "Shootmint",
+      "slug": "polsia-shootmint",
+      "website": "https://shootmint.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T02:58:55.364777+00:00"
+    },
+    {
+      "name": "Veripin",
+      "slug": "polsia-veripin",
+      "website": "https://veripin.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T02:58:56.029508+00:00"
+    },
+    {
+      "name": "Konvertell",
+      "slug": "polsia-konvertell",
+      "website": "https://konvertell.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T02:59:01.637025+00:00"
+    },
+    {
+      "name": "Lanza AI",
+      "slug": "polsia-lanza-ai",
+      "website": "https://lanza-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T02:59:07.270290+00:00"
+    },
+    {
+      "name": "Hexwatch",
+      "slug": "polsia-hexwatch-2",
+      "website": "https://hexwatch-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T02:59:12.881625+00:00"
+    },
+    {
+      "name": "Pelorus EduOps",
+      "slug": "polsia-pelorus-eduops",
+      "website": "https://pelorus-eduops.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T02:59:18.334333+00:00"
+    },
+    {
+      "name": "Velstay",
+      "slug": "polsia-velstay-2",
+      "website": "https://velstay-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T02:59:23.907173+00:00"
+    },
+    {
+      "name": "Mossbench",
+      "slug": "polsia-mossbench-4",
+      "website": "https://mossbench-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T02:59:29.349804+00:00"
+    },
+    {
+      "name": "Counterpost",
+      "slug": "polsia-counterpost-9",
+      "website": "https://counterpost-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T02:59:34.817115+00:00"
+    },
+    {
+      "name": "Roostr",
+      "slug": "polsia-roostr-epp9vv",
+      "description": "AI pricing desk for solo short-term rental hosts — 24/7 pricing agents, weekly revenue briefings, and instant ranking alerts.",
+      "description_fr": "Bureau de tarification IA pour les hôtes de location solo à court terme : agents de tarification 24h/24 et 7j/7, briefings hebdomadaires sur les revenus et alertes de classement instantanées.",
+      "category": "AI & Machine Learning",
+      "website": "https://roostr-epp9vv.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-10T03:02:11.032614+00:00"
     }
   ]
 }
