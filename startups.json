@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T11:40:02.270737+00:00",
+  "last_updated": "2026-08-10T12:33:43.469399+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -238553,18 +238553,24 @@
     {
       "name": "Smeltbench",
       "slug": "polsia-smeltbench",
+      "description": "Smeltbench is an AI-operated storefront of digital products — prompt packs, planners, workbooks, printables — minted, listed, and delivered on free-tier marketplaces. No inventory, no ads, no staff.",
+      "description_fr": "Smeltbench est une vitrine de produits numériques gérée par l'IA (packs d'invites, planificateurs, classeurs, imprimables) créés, répertoriés et livrés sur des marchés gratuits. Pas d'inventaire, pas de publicité, pas de personnel.",
+      "category": "E-Commerce & Retail",
       "website": "https://smeltbench.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T11:37:16.370540+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T12:32:40.713893+00:00"
     },
     {
       "name": "Ojass",
       "slug": "polsia-ojass",
+      "description": "Ojass keeps intangible heritage economically self-sustaining — connecting Kathmandu Valley craft communities with cultural tourists, researchers, and Nepal’s living ICH inventory.",
+      "description_fr": "Ojass maintient le patrimoine immatériel économiquement autonome en reliant les communautés artisanales de la vallée de Katmandou aux touristes culturels, aux chercheurs et à l’inventaire du PCI vivant du Népal.",
+      "category": "Sustainability & Green",
       "website": "https://ojass.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T11:37:21.941088+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T12:32:42.049880+00:00"
     },
     {
       "name": "Marbled",
@@ -238575,20 +238581,26 @@
       "scraped_at": "2026-08-10T11:37:27.321489+00:00"
     },
     {
-      "name": "Karlune",
+      "name": "Karlune — Le detailing nouvelle génération",
       "slug": "polsia-karlune",
+      "description": "Karlune réinvente le detailing automobile : robotique de précision, vision par ordinateur et IA pour un nettoyage sur-mesure, traçable et écoresponsable.",
+      "description_fr": "Karlune réinvente le détaillant automobile : robotique de précision, vision par ordinateur et IA pour un nettoyage sur-mesure, traçable et écoresponsable.",
+      "category": "Other",
       "website": "https://karlune.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T11:37:32.850953+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T12:32:44.092241+00:00"
     },
     {
       "name": "Repledge",
       "slug": "polsia-repledge",
+      "description": "Bridge the rental gap with what you're owed. Australian fintech helping tenants fund the bond on their new home using the refund still owed on the old one.",
+      "description_fr": "Comblez le déficit de loyer avec ce qui vous est dû. La fintech australienne aide les locataires à financer la caution de leur nouvelle maison en utilisant le remboursement encore dû sur l'ancienne.",
+      "category": "Real Estate",
       "website": "https://repledge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T11:37:38.408870+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T12:32:45.462549+00:00"
     },
     {
       "name": "Telenaut",
@@ -238604,10 +238616,13 @@
     {
       "name": "Milljay",
       "slug": "polsia-milljay",
+      "description": "Milljay — everyday essentials cut with a workwear-informed sensibility. Tees, hoodies, overshirts, and staple outerwear, priced $30–$180, made visible all the way back to the mill.",
+      "description_fr": "Milljay — des essentiels du quotidien coupés avec une sensibilité inspirée des vêtements de travail. Des t-shirts, des sweats à capuche, des surchemises et des vêtements d'extérieur de base, d'un prix compris entre 30 et 180 dollars, rendus visibles jusqu'à l'usine.",
+      "category": "Other",
       "website": "https://milljay.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T11:37:55.121630+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T12:32:47.412851+00:00"
     },
     {
       "name": "GlobeCapture",
@@ -238623,10 +238638,13 @@
     {
       "name": "Praatboek",
       "slug": "polsia-praatboek",
+      "description": "De AI-receptionist voor Nederlandse en Belgische tandartspraktijken. Vang elke lead. Boek elke afspraak. 24/7.",
+      "description_fr": "De AI-réceptionniste voor Nederlandse en Belgische tandartspraktijken. Vang elke mène. Boek elke afspraak. 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://praatboek.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T11:38:01.690706+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T12:32:48.798297+00:00"
     },
     {
       "name": "Cratewright",
@@ -238638,6 +238656,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-10T11:38:03.056835+00:00"
+    },
+    {
+      "name": "Nightglass",
+      "slug": "polsia-nightglass-6",
+      "website": "https://nightglass-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T12:30:42.443252+00:00"
+    },
+    {
+      "name": "Cratesignal",
+      "slug": "polsia-cratesignal-3",
+      "website": "https://cratesignal-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T12:30:43.096805+00:00"
+    },
+    {
+      "name": "Robolotse",
+      "slug": "polsia-robolotse",
+      "website": "https://robolotse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T12:30:53.615713+00:00"
+    },
+    {
+      "name": "Vexari",
+      "slug": "polsia-vexari-8",
+      "website": "https://vexari-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T12:30:58.843155+00:00"
+    },
+    {
+      "name": "Marésia",
+      "slug": "polsia-marsia",
+      "website": "https://marsia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T12:31:04.313667+00:00"
+    },
+    {
+      "name": "TermAnker",
+      "slug": "polsia-termanker",
+      "website": "https://termanker.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T12:31:09.660478+00:00"
+    },
+    {
+      "name": "Maqam",
+      "slug": "polsia-maqam-2",
+      "website": "https://maqam-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T12:31:15.227314+00:00"
+    },
+    {
+      "name": "Knocksmith",
+      "slug": "polsia-knocksmith-hbynre",
+      "website": "https://knocksmith-hbynre.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T12:31:20.677531+00:00"
+    },
+    {
+      "name": "Hopcraft",
+      "slug": "polsia-hopcraft",
+      "website": "https://hopcraft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T12:31:26.056281+00:00"
+    },
+    {
+      "name": "Marrowhouse",
+      "slug": "polsia-marrowhouse",
+      "description": "Bespoke AI operations, on a flat monthly retainer. A productized studio that builds and maintains custom AI workflows for small and mid-sized operators.",
+      "description_fr": "Opérations d'IA sur mesure, avec un forfait mensuel fixe. Un studio produit qui crée et gère des flux de travail d'IA personnalisés pour les opérateurs de petite et moyenne taille.",
+      "category": "AI & Machine Learning",
+      "website": "https://marrowhouse.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-10T12:33:43.468409+00:00"
     }
   ]
 }
