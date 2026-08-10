@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T09:45:44.813853+00:00",
+  "last_updated": "2026-08-10T10:51:27.133011+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -238339,10 +238339,13 @@
     {
       "name": "Vehiclo",
       "slug": "polsia-vehiclo",
+      "description": "La couche d'agents IA qui rend chaque CRM automobile autonome 24/7",
+      "description_fr": "La couche d'agents IA qui rend chaque CRM automobile autonome 24h/24 et 7j/7",
+      "category": "Sales & CRM",
       "website": "https://vehiclo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T09:42:29.174823+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T10:50:36.297255+00:00"
     },
     {
       "name": "Luit Studio",
@@ -238355,42 +238358,57 @@
     {
       "name": "Stoffwacht",
       "slug": "polsia-stoffwacht",
+      "description": "Stoffwacht ist eine KI-native Operations- und Handelsplattform für den Rohstoffmarkt. Autonome Software-Agenten beobachten rund um die Uhr globale Märkte für Öl, Gas, Strom, Metalle und Agrarrohstoffe, erstellen kontinuierlich Marktanalysen und Handelsvorschläge und liefern der Geschäftsleitung täglich P&L- sowie Risiko-Reports — mit klar abgegrenzten Freigabe-Workflows, die CFTC-konform bleiben.",
+      "description_fr": "Stoffwacht est une plate-forme d'exploitation et de vente native de KI pour le marché Rohstoff. Les agents Autonome Software s'occupent du marché mondial de l'huile, du gaz, du courant, des métaux et des produits agricoles, établissent des analyses de marché et des analyses de marché et des rapports de gestion et de gestion des rapports P&L sowie Risiko — mit klar abgegrenzten Flux de travail gratuits, conformes à la CFTC.",
+      "category": "Software & SaaS",
       "website": "https://stoffwacht.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T09:42:30.895541+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T10:50:38.168039+00:00"
     },
     {
       "name": "Daywright",
       "slug": "polsia-daywright-14jr46",
+      "description": "The 24/7 back-office agent for small e-commerce brands. Watches inventory, reprices listings, files sales tax, and briefs you each morning.",
+      "description_fr": "L'agent back-office 24h/24 et 7j/7 pour les petites marques de commerce électronique. Surveille l'inventaire, révise les prix des annonces, dépose la taxe de vente et vous informe chaque matin.",
+      "category": "E-Commerce & Retail",
       "website": "https://daywright-14jr46.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T09:42:36.495659+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T10:50:40.159670+00:00"
     },
     {
       "name": "Voelspriet",
       "slug": "polsia-voelspriet",
+      "description": "AI-merkbureau dat merken 24/7 verbindt met wat er leeft — signalen, sarcasme, culturele verwijzingen en wekelijkse rapporten.",
+      "description_fr": "AI-merkbureau dat merken 24/7 verbindt met water er left — signal, sarcasme, culturel verwijzingen et wekelijkse rapporten.",
+      "category": "AI & Machine Learning",
       "website": "https://voelspriet.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T09:42:41.976204+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T10:50:41.367381+00:00"
     },
     {
       "name": "Tinkergym",
       "slug": "polsia-tinkergym",
+      "description": "Autonomous AI coaches for active kids — wearable-aware, family-aware, and shipped with COPPA-grade data sovereignty. Weekly parent reports included.",
+      "description_fr": "Des coachs d'IA autonomes pour les enfants actifs : compatibles avec les appareils portables, adaptés à toute la famille et livrés avec une souveraineté des données de niveau COPPA. Rapports hebdomadaires pour les parents inclus.",
+      "category": "AI & Machine Learning",
       "website": "https://tinkergym.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T09:42:52.620159+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T10:50:42.625175+00:00"
     },
     {
       "name": "HOLDFAST",
       "slug": "polsia-holdfast-vdzv30",
+      "description": "Agentic CS that closes the loop on retention. HOLDFAST monitors every account in real time, ranks the work, and runs the play — save sequences, expansion pitches, check-ins — before a human has to.",
+      "description_fr": "Agentic CS qui boucle la boucle sur la rétention. HOLDFAST surveille chaque compte en temps réel, classe le travail et exécute la pièce (sauvegarde des séquences, extensions, enregistrements) avant qu'un humain n'ait à le faire.",
+      "category": "Other",
       "website": "https://holdfast-vdzv30.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T09:42:58.103397+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T10:50:44.584711+00:00"
     },
     {
       "name": "Klarscape",
@@ -238414,10 +238432,99 @@
     {
       "name": "Owlmark",
       "slug": "polsia-owlmark-qje2cb",
+      "description": "Owlmark is the compliance operations console for multi-property short-term rental hosts — permits, taxes, inspections, insurance certificates, and ordinance tracking in one dashboard.",
+      "description_fr": "Owlmark est la console des opérations de conformité pour les hôtes de location à court terme multi-propriétés : permis, taxes, inspections, certificats d'assurance et suivi des ordonnances dans un seul tableau de bord.",
+      "category": "Real Estate",
       "website": "https://owlmark-qje2cb.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-10T10:50:46.947321+00:00"
+    },
+    {
+      "name": "Ortschmied",
+      "slug": "polsia-ortschmied",
+      "website": "https://ortschmied.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-10T09:43:14.541075+00:00"
+      "scraped_at": "2026-08-10T10:48:30.609226+00:00"
+    },
+    {
+      "name": "VEGHE",
+      "slug": "polsia-veghe",
+      "website": "https://veghe.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T10:48:31.246679+00:00"
+    },
+    {
+      "name": "Agtsom",
+      "slug": "polsia-agtsom",
+      "website": "https://agtsom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T10:48:36.711887+00:00"
+    },
+    {
+      "name": "OpenHello",
+      "slug": "polsia-openhello",
+      "website": "https://openhello.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T10:48:42.178676+00:00"
+    },
+    {
+      "name": "Bolhaven",
+      "slug": "polsia-bolhaven",
+      "website": "https://bolhaven.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T10:48:47.713864+00:00"
+    },
+    {
+      "name": "Sourcelot",
+      "slug": "polsia-sourcelot",
+      "website": "https://sourcelot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T10:48:53.275092+00:00"
+    },
+    {
+      "name": "Staylatch",
+      "slug": "polsia-staylatch",
+      "website": "https://staylatch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T10:48:58.655266+00:00"
+    },
+    {
+      "name": "Mythcode",
+      "slug": "polsia-mythcode",
+      "description": "Gamle guder, ny støj — AI-drevet techno-metal fra algoritmens dyb. Et kollektivt lyd-univers hvor maskiner tjener myterne.",
+      "description_fr": "Gamle guder, ny støj — AI-drevet techno-metal fra algorithms dyb. Et le collectif lyd-univers pour masquer les mystères.",
+      "category": "AI & Machine Learning",
+      "website": "https://mythcode.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-10T10:51:20.737202+00:00"
+    },
+    {
+      "name": "Muirgrove",
+      "slug": "polsia-muirgrove",
+      "description": "Edinburgh's AI-orchestrated green cleaning operator. Audited, Modern-Slavery-compliant, carbon-negative-aligned labour — automated dispatch, photo QA, follow-ups, rebookings and supply alerts, running 24/7.",
+      "description_fr": "L'opérateur de nettoyage écologique d'Édimbourg orchestré par l'IA. Travail audité, conforme à l'esclavage moderne et aligné sur le bilan carbone négatif : expédition automatisée, contrôle qualité des photos, suivis, nouvelles réservations et alertes d'approvisionnement, fonctionnant 24h/24 et 7j/7.",
+      "category": "Sustainability & Green",
+      "website": "https://muirgrove.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-10T10:51:21.761119+00:00"
+    },
+    {
+      "name": "Quiverdesk",
+      "slug": "polsia-quiverdesk",
+      "website": "https://quiverdesk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T10:49:20.161333+00:00"
     }
   ]
 }
