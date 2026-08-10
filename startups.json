@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T04:49:39.444530+00:00",
+  "last_updated": "2026-08-10T06:06:23.364574+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -238012,42 +238012,57 @@
     {
       "name": "TshirtakiSou",
       "slug": "polsia-tshirtakisou",
+      "description": "Το μπλουζάκι σου, η δική σου ιστορία — custom & προσωποποιημένα μπλουζάκια με πληρωμές, stock control και αποστολή, όλα σε ένα ελληνικό e‑commerce κατάστημα.",
+      "description_fr": "Το μπλουζάκι σου, η δική σου ιστορία — custom & προσωποποιημένα μπλουζάκια Il s'agit notamment du contrôle des stocks et du commerce électronique.",
+      "category": "Other",
       "website": "https://tshirtakisou.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T04:46:42.288367+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T06:05:23.954604+00:00"
     },
     {
       "name": "Storhaven",
       "slug": "polsia-storhaven",
+      "description": "Always-on AI ops desk for lean DTC stores. Live inventory, SKU-level profit attribution, ROAS-floor automation, and dynamic reorder points in one concierge back office.",
+      "description_fr": "Bureau d'opérations d'IA toujours actif pour les magasins DTC allégés. Inventaire en direct, attribution des bénéfices au niveau du SKU, automatisation du ROAS plancher et points de réapprovisionnement dynamiques dans un back-office de conciergerie.",
+      "category": "AI & Machine Learning",
       "website": "https://storhaven.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T04:46:42.933909+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T06:05:25.758496+00:00"
     },
     {
       "name": "Masonode",
       "slug": "polsia-masonode-2",
+      "description": "Dubai design-build integrator delivering office fitout and IT infrastructure under a single contract. Smart-building ready on handover day.",
+      "description_fr": "Intégrateur de conception-construction de Dubaï fournissant l'aménagement de bureaux et l'infrastructure informatique dans le cadre d'un contrat unique. Bâtiment intelligent prêt le jour de la livraison.",
+      "category": "AI & Machine Learning",
       "website": "https://masonode-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T04:46:43.712948+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T06:05:27.945364+00:00"
     },
     {
       "name": "Hatchcraft",
       "slug": "polsia-hatchcraft-9ozjr5",
+      "description": "From manuscript to bookshelf, with a guide at every step. Hatchcraft bundles editorial, design, ISBN, formatting, and distribution into one guided publishing service for first-time authors.",
+      "description_fr": "Du manuscrit à la bibliothèque, avec un guide à chaque étape. Hatchcraft regroupe l'édition, la conception, l'ISBN, le formatage et la distribution dans un seul service de publication guidé pour les nouveaux auteurs.",
+      "category": "Other",
       "website": "https://hatchcraft-9ozjr5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T04:46:49.199464+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T06:05:29.632551+00:00"
     },
     {
       "name": "Phototrove",
       "slug": "polsia-phototrove",
+      "description": "Phototrove is an autonomous AI curator for premium stock libraries: watches submissions, writes XMP/IPTC keywords for human and AI model-licensing buyers, prices from live demand, and reports weekly to every photographer.",
+      "description_fr": "Phototrove est un conservateur d'IA autonome pour les bibliothèques de stock premium : surveille les soumissions, écrit des mots-clés XMP/IPTC pour les acheteurs de licences de modèles humains et IA, les prix de la demande en direct et des rapports hebdomadaires à chaque photographe.",
+      "category": "AI & Machine Learning",
       "website": "https://phototrove.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T04:46:54.853319+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T06:05:31.400374+00:00"
     },
     {
       "name": "Studrelay",
@@ -238063,10 +238078,13 @@
     {
       "name": "Lima's Enterprises",
       "slug": "polsia-limas-enterprises",
+      "description": "Lima's Enterprises — a small, independently operated business venture. Reach out directly to learn what we're working on.",
+      "description_fr": "Lima's Enterprises — une petite entreprise commerciale indépendante. Contactez-nous directement pour savoir sur quoi nous travaillons.",
+      "category": "Other",
       "website": "https://limas-enterprises.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T04:47:06.115723+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T06:05:33.123107+00:00"
     },
     {
       "name": "CounterPilot",
@@ -238093,10 +238111,96 @@
     {
       "name": "MentionMint",
       "slug": "polsia-mentionmint-k8doan",
+      "description": "Every review, caught in your voice — and the only ones that should reach you, do.",
+      "description_fr": "Chaque avis, capté par votre voix – et les seuls qui devraient vous parvenir, le font.",
+      "category": "Other",
       "website": "https://mentionmint-k8doan.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-10T06:05:34.891991+00:00"
+    },
+    {
+      "name": "Klinetik",
+      "slug": "polsia-klinetik",
+      "website": "https://klinetik.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-10T04:47:22.477008+00:00"
+      "scraped_at": "2026-08-10T06:03:02.468543+00:00"
+    },
+    {
+      "name": "Hostloom",
+      "slug": "polsia-hostloom-6",
+      "website": "https://hostloom-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T06:03:03.417811+00:00"
+    },
+    {
+      "name": "Sound Residential Solutions",
+      "slug": "polsia-sound-residential-solutions",
+      "website": "https://sound-residential-solutions.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T06:03:08.996616+00:00"
+    },
+    {
+      "name": "Strictly Underground",
+      "slug": "polsia-strictly-underground",
+      "website": "https://strictly-underground.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T06:03:14.699080+00:00"
+    },
+    {
+      "name": "Staylit",
+      "slug": "polsia-staylit-2",
+      "website": "https://staylit-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T06:03:20.333120+00:00"
+    },
+    {
+      "name": "Cheqwise",
+      "slug": "polsia-cheqwise",
+      "website": "https://cheqwise.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T06:03:26.215145+00:00"
+    },
+    {
+      "name": "Stamplark",
+      "slug": "polsia-stamplark",
+      "website": "https://stamplark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T06:03:31.864630+00:00"
+    },
+    {
+      "name": "Saltmark Studio",
+      "slug": "polsia-saltmark-studio",
+      "website": "https://saltmark-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T06:03:37.461713+00:00"
+    },
+    {
+      "name": "Recurry",
+      "slug": "polsia-recurry",
+      "description": "AI that finds, flags, and fixes every forgotten subscription.",
+      "description_fr": "Une IA qui trouve, signale et corrige chaque abonnement oublié.",
+      "category": "AI & Machine Learning",
+      "website": "https://recurry.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-10T06:06:17.908059+00:00"
+    },
+    {
+      "name": "Klovo",
+      "slug": "polsia-klovo-2",
+      "website": "https://klovo-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T06:03:48.739654+00:00"
     }
   ]
 }
