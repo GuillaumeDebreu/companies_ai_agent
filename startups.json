@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T03:02:11.033833+00:00",
+  "last_updated": "2026-08-10T04:49:39.444530+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -237902,74 +237902,101 @@
     {
       "name": "Shootmint",
       "slug": "polsia-shootmint",
+      "description": "Shootmint is the flat-rate AI agent built for photography studios — triaging leads, booking shoots, chasing invoices, and running follow-up on autopilot.",
+      "description_fr": "Shootmint est l'agent d'IA forfaitaire conçu pour les studios de photographie : tri des prospects, réservation de tournages, suivi des factures et suivi sur pilote automatique.",
+      "category": "AI & Machine Learning",
       "website": "https://shootmint.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T02:58:55.364777+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T04:48:46.210735+00:00"
     },
     {
       "name": "Veripin",
       "slug": "polsia-veripin",
+      "description": "Veripin is the Python supply chain agent that scans, hardens, fixes, and reports your dependencies — continuously, on autopilot.",
+      "description_fr": "Veripin est l'agent de chaîne d'approvisionnement Python qui analyse, renforce, corrige et signale vos dépendances, en continu, sur pilote automatique.",
+      "category": "Logistics & Supply Chain",
       "website": "https://veripin.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T02:58:56.029508+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T04:48:47.587744+00:00"
     },
     {
       "name": "Konvertell",
       "slug": "polsia-konvertell",
+      "description": "Smal AI-plattform för svenska SMB som kvalificerar leads, följer upp och stänger affärer.",
+      "description_fr": "Petite plate-forme d'IA pour les PME suédoises qui valorisent les leads, pour les entreprises les plus avancées.",
+      "category": "AI & Machine Learning",
       "website": "https://konvertell.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T02:59:01.637025+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T04:48:48.455869+00:00"
     },
     {
       "name": "Lanza AI",
       "slug": "polsia-lanza-ai",
+      "description": "An AI marketing team for solo doctors and small medical practices. Content, social, and Google Business updates — reviewed by you, posted by us. One plan, $197/mo.",
+      "description_fr": "Une équipe marketing IA pour les médecins solos et les petits cabinets médicaux. Mises à jour du contenu, des réseaux sociaux et de Google Business – examinées par vous, publiées par nos soins. Un forfait, 197 $/mois.",
+      "category": "AI & Machine Learning",
       "website": "https://lanza-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T02:59:07.270290+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T04:48:50.279973+00:00"
     },
     {
       "name": "Hexwatch",
       "slug": "polsia-hexwatch-2",
+      "description": "24/7 SDS, regulatory, and inventory patrols for small chemistry teams — with auto-drafted POs and reports.",
+      "description_fr": "Patrouilles SDS, réglementaires et d'inventaire 24h/24 et 7j/7 pour les petites équipes de chimie, avec bons de commande et rapports rédigés automatiquement.",
+      "category": "Other",
       "website": "https://hexwatch-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T02:59:12.881625+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T04:48:51.368103+00:00"
     },
     {
       "name": "Pelorus EduOps",
       "slug": "polsia-pelorus-eduops",
+      "description": "Fractional operations partner for charter schools, small districts, and education nonprofits — payroll, HR, AP/AR, grants, and state reporting run on flexible monthly engagements.",
+      "description_fr": "Partenaire d'opérations fractionnaires pour les écoles à charte, les petits districts et les organisations à but non lucratif dans le domaine de l'éducation : paie, ressources humaines, AP/AR, subventions et rapports d'État exécutés sur des engagements mensuels flexibles.",
+      "category": "Education",
       "website": "https://pelorus-eduops.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T02:59:18.334333+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T04:48:52.526374+00:00"
     },
     {
       "name": "Velstay",
       "slug": "polsia-velstay-2",
+      "description": "Autonomous property ops for short-term rentals — pricing, messaging, cleans, and weekly reporting, wired with compliance for the cities where getting it wrong is expensive.",
+      "description_fr": "Opérations immobilières autonomes pour les locations à court terme : tarification, messagerie, nettoyages et rapports hebdomadaires, câblés avec la conformité pour les villes où se tromper coûte cher.",
+      "category": "Real Estate",
       "website": "https://velstay-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T02:59:23.907173+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T04:48:53.648416+00:00"
     },
     {
       "name": "Mossbench",
       "slug": "polsia-mossbench-4",
+      "description": "The workbench for stacking solo creator income streams. One inventory, one inbox, one weekly payout view across every lane.",
+      "description_fr": "L'établi pour empiler les flux de revenus des créateurs solo. Un inventaire, une boîte de réception, une vue hebdomadaire des paiements sur chaque voie.",
+      "category": "Newsletter & Email",
       "website": "https://mossbench-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T02:59:29.349804+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T04:48:55.178538+00:00"
     },
     {
       "name": "Counterpost",
       "slug": "polsia-counterpost-9",
+      "description": "Counterpost is an always-on AI agent for local businesses — it replies to Google, Yelp, and Facebook reviews within minutes, answers after-hours web leads, and pings you the moment your star rating starts to slip.",
+      "description_fr": "Counterpost est un agent d'IA toujours actif pour les entreprises locales : il répond aux avis de Google, Yelp et Facebook en quelques minutes, répond aux pistes Web en dehors des heures d'ouverture et vous envoie un ping dès que votre note commence à baisser.",
+      "category": "AI & Machine Learning",
       "website": "https://counterpost-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T02:59:34.817115+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T04:48:57.055851+00:00"
     },
     {
       "name": "Roostr",
@@ -237981,6 +238008,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-10T03:02:11.032614+00:00"
+    },
+    {
+      "name": "TshirtakiSou",
+      "slug": "polsia-tshirtakisou",
+      "website": "https://tshirtakisou.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T04:46:42.288367+00:00"
+    },
+    {
+      "name": "Storhaven",
+      "slug": "polsia-storhaven",
+      "website": "https://storhaven.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T04:46:42.933909+00:00"
+    },
+    {
+      "name": "Masonode",
+      "slug": "polsia-masonode-2",
+      "website": "https://masonode-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T04:46:43.712948+00:00"
+    },
+    {
+      "name": "Hatchcraft",
+      "slug": "polsia-hatchcraft-9ozjr5",
+      "website": "https://hatchcraft-9ozjr5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T04:46:49.199464+00:00"
+    },
+    {
+      "name": "Phototrove",
+      "slug": "polsia-phototrove",
+      "website": "https://phototrove.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T04:46:54.853319+00:00"
+    },
+    {
+      "name": "Studrelay",
+      "slug": "polsia-studrelay",
+      "description": "Always-on front desk agent for every franchise location.",
+      "description_fr": "Agent de réception toujours disponible pour chaque emplacement de franchise.",
+      "category": "Other",
+      "website": "https://studrelay.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-10T04:49:26.268969+00:00"
+    },
+    {
+      "name": "Lima's Enterprises",
+      "slug": "polsia-limas-enterprises",
+      "website": "https://limas-enterprises.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T04:47:06.115723+00:00"
+    },
+    {
+      "name": "CounterPilot",
+      "slug": "polsia-counterpilot-dn2j5i",
+      "description": "Outcome-priced AI front-counter operations for local service businesses. A dedicated pilot answers, books, chases, and reviews — across WhatsApp, Instagram, SMS, and the phone line.",
+      "description_fr": "Opérations d'IA au comptoir, au prix du résultat, pour les entreprises de services locales. Un pilote dédié répond, livre, poursuit et critique – sur WhatsApp, Instagram, SMS et ligne téléphonique.",
+      "category": "AI & Machine Learning",
+      "website": "https://counterpilot-dn2j5i.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-10T04:49:32.678948+00:00"
+    },
+    {
+      "name": "Axlegent",
+      "slug": "polsia-axlegent-2",
+      "description": "Axlegent — the 24/7 AI back-office co-driver for one-truck operators. Watches load boards, negotiates with brokers, reconciles settlements, and pre-builds IFTA — so your rig runs like a small fleet.",
+      "description_fr": "Axlegent — le copilote de back-office IA 24h/24 et 7j/7 pour les opérateurs d'un seul camion. Surveille le chargement des planches, négocie avec les courtiers, rapproche les règlements et pré-construit l'IFTA — pour que votre plate-forme fonctionne comme une petite flotte.",
+      "category": "AI & Machine Learning",
+      "website": "https://axlegent-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-10T04:49:34.056905+00:00"
+    },
+    {
+      "name": "MentionMint",
+      "slug": "polsia-mentionmint-k8doan",
+      "website": "https://mentionmint-k8doan.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T04:47:22.477008+00:00"
     }
   ]
 }
