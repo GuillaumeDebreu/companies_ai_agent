@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T13:09:28.585285+00:00",
+  "last_updated": "2026-08-10T14:03:07.939073+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -238660,18 +238660,24 @@
     {
       "name": "Nightglass",
       "slug": "polsia-nightglass-6",
+      "description": "Always-on AI QA for indie games — smoke-test every commit, replay every bug, monitor your live players.",
+      "description_fr": "Contrôle qualité IA permanent pour les jeux indépendants : testez chaque commit, rejouez chaque bug, surveillez vos joueurs en direct.",
+      "category": "AI & Machine Learning",
       "website": "https://nightglass-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T12:30:42.443252+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T14:02:18.276528+00:00"
     },
     {
       "name": "Cratesignal",
       "slug": "polsia-cratesignal-3",
+      "description": "AI-guided FBA research, sourcing, and launch for first-time Amazon sellers.",
+      "description_fr": "Recherche, sourcing et lancement FBA guidés par l'IA pour les nouveaux vendeurs Amazon.",
+      "category": "AI & Machine Learning",
       "website": "https://cratesignal-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T12:30:43.096805+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T14:02:19.408053+00:00"
     },
     {
       "name": "Robolotse",
@@ -238684,26 +238690,35 @@
     {
       "name": "Vexari",
       "slug": "polsia-vexari-8",
+      "description": "AI agents run your card program's back office — onboarding, KYB review, transaction monitoring, merchant risk, and dispute triage on a sponsor-bank issuing rail.",
+      "description_fr": "Les agents IA gèrent le back-office de votre programme de carte : intégration, examen KYB, surveillance des transactions, risque marchand et tri des litiges sur un rail émetteur sponsor-banque.",
+      "category": "AI & Machine Learning",
       "website": "https://vexari-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T12:30:58.843155+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T14:02:21.584327+00:00"
     },
     {
       "name": "Marésia",
       "slug": "polsia-marsia",
+      "description": "Gestão autónoma de alojamento local nas costas de Portugal — pricing dinâmico, mensagens 24/7 e operações sem gestor humano, de Matosinhos ao Algarve.",
+      "description_fr": "Gestion autonome de l'hébergement local sur les côtes du Portugal — tarification dynamique, messages 24h/24 et 7j/7 et opérations à caractère humain, de Matosinhos à l'Algarve.",
+      "category": "Other",
       "website": "https://marsia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T12:31:04.313667+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T14:02:23.752848+00:00"
     },
     {
-      "name": "TermAnker",
+      "name": "Dentalis München",
       "slug": "polsia-termanker",
+      "description": "Moderne Zahnmedizin in München – Termin online buchen bei Dentalis München. Kontrolluntersuchung, professionelle Zahnreinigung und Röntgen-Diagnostik mit DSGVO-konformer Online-Buchung.",
+      "description_fr": "Moderne Zahnmedizin à München – Termin online Buchen bei Dentalis München. Contrôle, diagnostic professionnel et diagnostic en ligne avec conformité DSGVO en ligne.",
+      "category": "Other",
       "website": "https://termanker.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T12:31:09.660478+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T14:02:24.927062+00:00"
     },
     {
       "name": "Maqam",
@@ -238716,18 +238731,24 @@
     {
       "name": "Knocksmith",
       "slug": "polsia-knocksmith-hbynre",
+      "description": "Booked appointments for local trade businesses, every week. We find in-market customers, qualify them on a short call, and hand you a confirmed booking on your calendar.",
+      "description_fr": "Prise de rendez-vous pour les entreprises commerciales locales, chaque semaine. Nous trouvons des clients sur le marché, les qualifions lors d'un court appel et vous remettons une réservation confirmée sur votre calendrier.",
+      "category": "Travel & Hospitality",
       "website": "https://knocksmith-hbynre.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T12:31:20.677531+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T14:02:26.598546+00:00"
     },
     {
       "name": "Hopcraft",
       "slug": "polsia-hopcraft",
+      "description": "Airsoft gear, weatherproof indoor fields, and weekly leagues built for repeat play.",
+      "description_fr": "Équipement Airsoft, terrains intérieurs résistants aux intempéries et ligues hebdomadaires conçues pour le jeu répété.",
+      "category": "AI & Machine Learning",
       "website": "https://hopcraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-10T12:31:26.056281+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-10T14:02:27.900050+00:00"
     },
     {
       "name": "Marrowhouse",
@@ -238739,6 +238760,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-10T12:33:43.468409+00:00"
+    },
+    {
+      "name": "Cueline",
+      "slug": "polsia-cueline-7",
+      "website": "https://cueline-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T14:00:40.532354+00:00"
+    },
+    {
+      "name": "Stooplight Studio",
+      "slug": "polsia-stooplight-studio",
+      "website": "https://stooplight-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T14:00:41.326285+00:00"
+    },
+    {
+      "name": "ATELIA",
+      "slug": "polsia-atelia-2",
+      "website": "https://atelia-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T14:00:41.971782+00:00"
+    },
+    {
+      "name": "Peacock and Krow",
+      "slug": "polsia-peacock-and-krow",
+      "website": "https://peacock-and-krow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T14:00:47.554842+00:00"
+    },
+    {
+      "name": "Lynxhollow",
+      "slug": "polsia-lynxhollow",
+      "website": "https://lynxhollow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T14:00:53.025949+00:00"
+    },
+    {
+      "name": "Panda Queen",
+      "slug": "polsia-panda-queen",
+      "website": "https://panda-queen.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T14:00:58.495293+00:00"
+    },
+    {
+      "name": "Masonreach",
+      "slug": "polsia-masonreach",
+      "website": "https://masonreach.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T14:01:04.037957+00:00"
+    },
+    {
+      "name": "Pootmaat",
+      "slug": "polsia-pootmaat",
+      "website": "https://pootmaat.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T14:01:04.746618+00:00"
+    },
+    {
+      "name": "MeCameo",
+      "slug": "polsia-mecameo",
+      "website": "https://mecameo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T14:01:05.499610+00:00"
+    },
+    {
+      "name": "Mornhive",
+      "slug": "polsia-mornhive",
+      "website": "https://mornhive.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-10T14:01:06.099120+00:00"
     }
   ]
 }
