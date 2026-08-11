@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T13:06:23.932370+00:00",
+  "last_updated": "2026-08-11T13:46:03.497845+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -241106,42 +241106,57 @@
     {
       "name": "LocalCore",
       "slug": "polsia-localcore",
+      "description": "Gestión integral para kioscos, almacenes y comercios de cercanía en Argentina. Caja, stock con vencimientos, compras inteligentes, proveedores, panel remoto y asistente fiscal ARCA, todo en una sola plataforma.",
+      "description_fr": "Gestion intégrale des kiosques, des magasins et des commerces de cercanía en Argentine. Caja, stock con vencimientos, compras inteligentes, provenedores, panel remoto y asistente fiscal ARCA, tout cela sur une seule plateforme.",
+      "category": "Other",
       "website": "https://localcore.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-11T12:10:51.197053+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-11T13:44:50.124379+00:00"
     },
     {
       "name": "Vermilion Chapter",
       "slug": "polsia-vermilion-chapter",
+      "description": "Vermilion Chapter is an independent creative practice pairing senior brand strategists, designers, and storytellers with operators who have shipped through M&A integrations, CEO-led repositionings, and enterprise-wide digital transformations.",
+      "description_fr": "Vermilion Chapter est une pratique créative indépendante associant des stratèges de marque, des concepteurs et des conteurs expérimentés avec des opérateurs qui ont réalisé des intégrations de fusions et acquisitions, des repositionnements dirigés par le PDG et des transformations numériques à l'échelle de l'entreprise.",
+      "category": "Marketing & Advertising",
       "website": "https://vermilion-chapter.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-11T12:10:56.754979+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-11T13:44:51.828515+00:00"
     },
     {
       "name": "Toupile",
       "slug": "polsia-toupile",
+      "description": "Toupile — l'agent IA qui surveille les permis de construire et appels d'offres publics BOAMP, JOUE, TED. Alerte push en 60 secondes et devis pré-rempli.",
+      "description_fr": "Toupile — l'agent IA qui surveille les permis de construire et appels d'offres publics BOAMP, JOUE, TED. Alerte push en 60 secondes et devis pré-rempli.",
+      "category": "Sustainability & Green",
       "website": "https://toupile.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-11T12:10:57.471640+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-11T13:44:53.043330+00:00"
     },
     {
       "name": "Milefold",
       "slug": "polsia-milefold",
+      "description": "Milefold is the AI-native moving crew that answers every quote, books the job, dispatches the truck, and follows up — from one operations dashboard, 24/7.",
+      "description_fr": "Milefold est l'équipe de déménagement native de l'IA qui répond à chaque devis, réserve le travail, répartit le camion et assure le suivi, à partir d'un seul tableau de bord des opérations, 24h/24 et 7j/7.",
+      "category": "Software & SaaS",
       "website": "https://milefold.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-11T12:10:58.198834+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-11T13:44:54.529682+00:00"
     },
     {
       "name": "Hexclaim",
       "slug": "polsia-hexclaim",
+      "description": "Autonomous medical coding with pre-submission denial defense, built for ambulatory specialty practices.",
+      "description_fr": "Codage médical autonome avec défense de refus avant la soumission, conçu pour les cabinets spécialisés ambulatoires.",
+      "category": "Health & Wellness",
       "website": "https://hexclaim.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-11T12:11:03.671763+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-11T13:44:55.575537+00:00"
     },
     {
       "name": "Crestkey",
@@ -241154,18 +241169,24 @@
     {
       "name": "001 CARS",
       "slug": "polsia-001-cars",
+      "description": "Diskrete Langzeitmiete von Premium- und Luxusfahrzeugen in ganz Europa. Eine Marke der Nathaniel GmbH, Berlin.",
+      "description_fr": "Disques Langzeitmiete von Premium- und Luxusfahrzeugen in ganz Europa. Eine Marke der Nathaniel GmbH, Berlin.",
+      "category": "Other",
       "website": "https://001-cars.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-11T12:11:09.807934+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-11T13:44:57.649627+00:00"
     },
     {
       "name": "Eudaimonia",
       "slug": "polsia-eudaimonia-2",
+      "description": "Lokale macOS-Begleit-App für konzentriertes Arbeiten mit KI-gestützter Aufmerksamkeitserkennung.",
+      "description_fr": "Lokale macOS-Begleit-App for konzentriertes Arbeiten mit KI-gestützter Aufmerksamkeitserkennung.",
+      "category": "Other",
       "website": "https://eudaimonia-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-11T12:11:15.375315+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-11T13:44:58.649607+00:00"
     },
     {
       "name": "Kleidsicht",
@@ -241178,10 +241199,93 @@
     {
       "name": "VantFox",
       "slug": "polsia-vantfox",
+      "description": "Always-on AI that snipes underpriced cards across eBay, TCGplayer, Mercari, Whatnot, and Heritage Auctions — built for graded-Pokemon, MTG, Yu-Gi-Oh!, and Lorcana investors.",
+      "description_fr": "Une IA toujours active qui capture les cartes sous-évaluées sur eBay, TCGplayer, Mercari, Whatnot et Heritage Auctions – conçue pour les investisseurs classés Pokémon, MTG, Yu-Gi-Oh ! et Lorcana.",
+      "category": "AI & Machine Learning",
       "website": "https://vantfox.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-11T13:45:02.736033+00:00"
+    },
+    {
+      "name": "Cogmason",
+      "slug": "polsia-cogmason-2",
+      "website": "https://cogmason-2.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-11T12:11:26.480309+00:00"
+      "scraped_at": "2026-08-11T13:43:05.957843+00:00"
+    },
+    {
+      "name": "Anvilwright",
+      "slug": "polsia-anvilwright-2",
+      "website": "https://anvilwright-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-11T13:43:06.590773+00:00"
+    },
+    {
+      "name": "Tiny Wild Studio",
+      "slug": "polsia-tiny-wild-studio",
+      "website": "https://tiny-wild-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-11T13:43:07.221102+00:00"
+    },
+    {
+      "name": "Noktari",
+      "slug": "polsia-noktari",
+      "website": "https://noktari.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-11T13:43:07.823010+00:00"
+    },
+    {
+      "name": "Ratewright",
+      "slug": "polsia-ratewright",
+      "website": "https://ratewright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-11T13:43:13.238970+00:00"
+    },
+    {
+      "name": "Waxmark",
+      "slug": "polsia-waxmark",
+      "website": "https://waxmark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-11T13:43:18.652810+00:00"
+    },
+    {
+      "name": "Ponctio",
+      "slug": "polsia-ponctio",
+      "website": "https://ponctio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-11T13:43:23.995253+00:00"
+    },
+    {
+      "name": "Broomwright Property Co.",
+      "slug": "polsia-broomwright-property-co",
+      "website": "https://broomwright-property-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-11T13:43:29.563970+00:00"
+    },
+    {
+      "name": "Foreward",
+      "slug": "polsia-foreward-3",
+      "website": "https://foreward-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-11T13:43:30.518813+00:00"
+    },
+    {
+      "name": "Staybeam",
+      "slug": "polsia-staybeam-3",
+      "website": "https://staybeam-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-11T13:43:35.783952+00:00"
     }
   ]
 }
