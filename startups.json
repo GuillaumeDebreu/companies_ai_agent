@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T08:14:45.620877+00:00",
+  "last_updated": "2026-08-12T09:35:20.705030+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -242935,58 +242935,79 @@
     {
       "name": "Crustcore",
       "slug": "polsia-crustcore",
+      "description": "200 MW per well. Carbon-free, 24/7 baseload power from a millimeter-wave deep-geothermal rig.",
+      "description_fr": "200 MW par puits. Alimentation de base sans carbone, 24h/24 et 7j/7, provenant d'une plate-forme géothermique profonde à ondes millimétriques.",
+      "category": "Marketing & Advertising",
       "website": "https://crustcore.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T08:11:54.428418+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T09:34:01.945032+00:00"
     },
     {
       "name": "Watchwright",
       "slug": "polsia-watchwright-ry11c3",
+      "description": "Landing pages that design, test, and heal themselves — every hour, every week.",
+      "description_fr": "Des pages de destination qui se conçoivent, se testent et se réparent elles-mêmes, chaque heure, chaque semaine.",
+      "category": "Other",
       "website": "https://watchwright-ry11c3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T08:11:55.107351+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T09:34:03.525411+00:00"
     },
     {
       "name": "Vendant",
       "slug": "polsia-vendant-5",
+      "description": "Vendant runs a network of connected vending machines managed end-to-end by autonomous AI agents — reordering stock, tuning prices, and reporting weekly margins per location.",
+      "description_fr": "Vendant gère un réseau de distributeurs automatiques connectés, gérés de bout en bout par des agents d'IA autonomes, réorganisant les stocks, ajustant les prix et rendant compte des marges hebdomadaires par emplacement.",
+      "category": "AI & Machine Learning",
       "website": "https://vendant-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T08:11:56.000226+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T09:34:05.837767+00:00"
     },
     {
       "name": "Volumière Studio",
       "slug": "polsia-volumire-studio",
+      "description": "Rendus 3D photoréalistes pour architectes, promoteurs, agences immobilières et artisans — ateliers, visuels off-programme et walkthrough livrés en 4 à 5 jours ouvrés.",
+      "description_fr": "Rendus photoréalistes 3D pour architectes, promoteurs, agences immobilières et artisans — ateliers, visuels hors programme et procédure pas à pas livrés en 4 à 5 jours ouvrés.",
+      "category": "Other",
       "website": "https://volumire-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T08:12:01.519272+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T09:34:07.913260+00:00"
     },
     {
       "name": "Sammy's NYC Deli & Grill",
       "slug": "polsia-sammys-nyc-deli-grill",
+      "description": "NYC-style halal deli and grill bringing chopped cheese, smash burgers, and gyro heroes to Central New York, on South Main Street in North Syracuse.",
+      "description_fr": "Une charcuterie et un grill halal de style new-yorkais proposant du fromage haché, des smash burgers et des héros gyroscopiques au centre de New York, sur South Main Street, dans le nord de Syracuse.",
+      "category": "Other",
       "website": "https://sammys-nyc-deli-grill.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T08:12:12.102721+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T09:34:09.297583+00:00"
     },
     {
       "name": "Nocrev",
       "slug": "polsia-nocrev",
+      "description": "Autonomous pricing, fraud guardrails, and weekly revenue digests for independent short-term rental hosts.",
+      "description_fr": "Tarification autonome, garde-fous contre la fraude et résumés de revenus hebdomadaires pour les hôtes indépendants de location à court terme.",
+      "category": "Travel & Hospitality",
       "website": "https://nocrev.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T08:12:17.660457+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T09:34:10.585542+00:00"
     },
     {
       "name": "Rivetwise",
       "slug": "polsia-rivetwise-3",
+      "description": "AI-ops backbone for boutique consultancies and fractional founders — one-line brief in, SOW + invoice + recap out.",
+      "description_fr": "Colonne vertébrale des opérations d'IA pour les cabinets de conseil et les fondateurs fractionnaires : mémoire d'une seule ligne, SOW + facture + récapitulatif.",
+      "category": "AI & Machine Learning",
       "website": "https://rivetwise-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T08:12:23.215497+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T09:34:11.824683+00:00"
     },
     {
       "name": "Loomship",
@@ -242999,18 +243020,104 @@
     {
       "name": "Rivalcast",
       "slug": "polsia-rivalcast-6",
+      "description": "Rivalcast is the hourly competitor intelligence agent for independent Shopify merchants — price moves and stockouts caught, defended, and explained within the same window.",
+      "description_fr": "Rivalcast est l'agent horaire de veille concurrentielle pour les commerçants indépendants Shopify : les mouvements de prix et les ruptures de stock sont détectés, défendus et expliqués dans la même fenêtre.",
+      "category": "E-Commerce & Retail",
       "website": "https://rivalcast-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T08:12:39.239310+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T09:34:13.592107+00:00"
     },
     {
       "name": "Pluckr",
       "slug": "polsia-pluckr-3",
+      "description": "Real connections. Zero in-app purchases. Ever.",
+      "description_fr": "De vraies connexions. Zéro achat intégré. Jamais.",
+      "category": "Other",
       "website": "https://pluckr-3.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-12T09:34:15.027135+00:00"
+    },
+    {
+      "name": "Bellrock Tutoring",
+      "slug": "polsia-bellrock-tutoring",
+      "website": "https://bellrock-tutoring.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-12T08:12:45.296291+00:00"
+      "scraped_at": "2026-08-12T09:32:31.002438+00:00"
+    },
+    {
+      "name": "Alphabet IT",
+      "slug": "polsia-alphabet-it",
+      "website": "https://alphabet-it.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T09:32:31.777277+00:00"
+    },
+    {
+      "name": "Draftowl",
+      "slug": "polsia-draftowl-4",
+      "website": "https://draftowl-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T09:32:32.500957+00:00"
+    },
+    {
+      "name": "XII|VIII",
+      "slug": "polsia-xiiviii",
+      "website": "https://xiiviii.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T09:32:33.215393+00:00"
+    },
+    {
+      "name": "Tendersmith",
+      "slug": "polsia-tendersmith-4",
+      "website": "https://tendersmith-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T09:32:33.854967+00:00"
+    },
+    {
+      "name": "Sciame",
+      "slug": "polsia-sciame",
+      "website": "https://sciame.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T09:32:44.345098+00:00"
+    },
+    {
+      "name": "Hatchcraft",
+      "slug": "polsia-hatchcraft-kb39j6",
+      "website": "https://hatchcraft-kb39j6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T09:32:45.325899+00:00"
+    },
+    {
+      "name": "DuftAkt",
+      "slug": "polsia-duftakt",
+      "website": "https://duftakt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T09:32:46.172176+00:00"
+    },
+    {
+      "name": "Peticraft",
+      "slug": "polsia-peticraft",
+      "website": "https://peticraft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T09:32:47.645243+00:00"
+    },
+    {
+      "name": "Resply",
+      "slug": "polsia-resply-3",
+      "website": "https://resply-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T09:32:52.991725+00:00"
     }
   ]
 }
