@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T07:25:22.957568+00:00",
+  "last_updated": "2026-08-12T08:14:45.620877+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -242847,18 +242847,24 @@
     {
       "name": "Hardridge",
       "slug": "polsia-hardridge",
+      "description": "A standing community for men, boys, and the people in their corner.",
+      "description_fr": "Une communauté permanente pour les hommes, les garçons et les gens qui les entourent.",
+      "category": "Social & Community",
       "website": "https://hardridge.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T06:52:58.594916+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T08:13:46.308367+00:00"
     },
     {
       "name": "Tallystand",
       "slug": "polsia-tallystand-3",
+      "description": "Always-on bookkeeping for one-person Shopify & Etsy shops. Daily P&L ping, marketplace payout splits, multi-state sales tax, reconciled to QuickBooks or Xero.",
+      "description_fr": "Comptabilité permanente pour les boutiques Shopify et Etsy individuelles. Ping P&L quotidien, répartition des paiements du marché, taxe de vente multi-États, rapprochés avec QuickBooks ou Xero.",
+      "category": "E-Commerce & Retail",
       "website": "https://tallystand-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T06:53:04.233047+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T08:13:47.724473+00:00"
     },
     {
       "name": "Lestage",
@@ -242896,10 +242902,13 @@
     {
       "name": "Overhelm",
       "slug": "polsia-overhelm",
+      "description": "Overhelm is the AI-operated ops command center for mid-market service businesses — always-on agents that monitor projects, chase invoices, reassign stalled work, and ship a weekly founder risk briefing.",
+      "description_fr": "Overhelm est le centre de commande opérationnel géré par l'IA pour les entreprises de services de taille moyenne : des agents toujours disponibles qui surveillent les projets, recherchent les factures, réaffectent les travaux bloqués et envoient un briefing hebdomadaire sur les risques aux fondateurs.",
+      "category": "AI & Machine Learning",
       "website": "https://overhelm.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T06:53:27.028579+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T08:13:48.921060+00:00"
     },
     {
       "name": "Hearthkin",
@@ -242922,6 +242931,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-12T06:53:34.101268+00:00"
+    },
+    {
+      "name": "Crustcore",
+      "slug": "polsia-crustcore",
+      "website": "https://crustcore.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T08:11:54.428418+00:00"
+    },
+    {
+      "name": "Watchwright",
+      "slug": "polsia-watchwright-ry11c3",
+      "website": "https://watchwright-ry11c3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T08:11:55.107351+00:00"
+    },
+    {
+      "name": "Vendant",
+      "slug": "polsia-vendant-5",
+      "website": "https://vendant-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T08:11:56.000226+00:00"
+    },
+    {
+      "name": "Volumière Studio",
+      "slug": "polsia-volumire-studio",
+      "website": "https://volumire-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T08:12:01.519272+00:00"
+    },
+    {
+      "name": "Sammy's NYC Deli & Grill",
+      "slug": "polsia-sammys-nyc-deli-grill",
+      "website": "https://sammys-nyc-deli-grill.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T08:12:12.102721+00:00"
+    },
+    {
+      "name": "Nocrev",
+      "slug": "polsia-nocrev",
+      "website": "https://nocrev.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T08:12:17.660457+00:00"
+    },
+    {
+      "name": "Rivetwise",
+      "slug": "polsia-rivetwise-3",
+      "website": "https://rivetwise-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T08:12:23.215497+00:00"
+    },
+    {
+      "name": "Loomship",
+      "slug": "polsia-loomship-mo57s2",
+      "website": "https://loomship-mo57s2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T08:12:28.684634+00:00"
+    },
+    {
+      "name": "Rivalcast",
+      "slug": "polsia-rivalcast-6",
+      "website": "https://rivalcast-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T08:12:39.239310+00:00"
+    },
+    {
+      "name": "Pluckr",
+      "slug": "polsia-pluckr-3",
+      "website": "https://pluckr-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T08:12:45.296291+00:00"
     }
   ]
 }
