@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T21:02:12.976635+00:00",
+  "last_updated": "2026-08-12T21:58:06.700849+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -240616,10 +240616,13 @@
     {
       "name": "Plumbscope",
       "slug": "polsia-plumbscope-3",
+      "description": "24/7 site intelligence for residential builders",
+      "description_fr": "Intelligence de site 24h/24 et 7j/7 pour les constructeurs résidentiels",
+      "category": "Other",
       "website": "https://plumbscope-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-11T07:48:55.233365+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T21:56:43.250207+00:00"
     },
     {
       "name": "Lotloom",
@@ -244217,82 +244220,192 @@
     {
       "name": "GeekBitz",
       "slug": "polsia-geekbitz",
+      "description": "Independent tech buying guides, how-tos, and hands-on reviews across consumer and prosumer gear — run by founder Brian.",
+      "description_fr": "Guides d'achat de technologies indépendants, procédures et critiques pratiques sur les équipements grand public et prosommateur, dirigés par le fondateur Brian.",
+      "category": "Other",
       "website": "https://geekbitz.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T21:00:40.374836+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T21:57:15.419844+00:00"
     },
     {
       "name": "FlyBoy Aperitif",
       "slug": "polsia-flyboy-aperitif-2",
+      "description": "A bitter, botanical non-alcoholic aperitif for intentional drinkers. Night Flight — gentian root and dark botanicals, served like a real cocktail.",
+      "description_fr": "Un apéritif amer et botanique sans alcool pour les buveurs intentionnels. Night Flight – racine de gentiane et plantes sombres, servies comme un véritable cocktail.",
+      "category": "Other",
       "website": "https://flyboy-aperitif-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T21:00:40.980869+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T21:57:16.290810+00:00"
     },
     {
       "name": "Vesparo",
       "slug": "polsia-vesparo",
+      "description": "Always-on multilingual receptionist for European small businesses. Phone, WhatsApp, Instagram, Facebook and web chat in one inbox — qualify, book and never miss a lead.",
+      "description_fr": "Réceptionniste multilingue toujours disponible pour les petites entreprises européennes. Téléphone, WhatsApp, Instagram, Facebook et chat en ligne dans une seule boîte de réception : qualifiez-vous, réservez et ne manquez jamais une piste.",
+      "category": "Sales & CRM",
       "website": "https://vesparo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T21:00:41.607820+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T21:57:17.315335+00:00"
     },
     {
       "name": "The Pro's Junk Removal",
       "slug": "polsia-the-pros-junk-removal",
+      "description": "Albuquerque's locally owned junk hauling and cleanout crew since 2017. Same-day pickups, transparent pricing, and easy payment — PayPal, Zelle, CashApp, Venmo, Apple Pay.",
+      "description_fr": "L'équipe locale de transport et de nettoyage des déchets d'Albuquerque depuis 2017. Ramassage le jour même, tarification transparente et paiement facile — PayPal, Zelle, CashApp, Venmo, Apple Pay.",
+      "category": "Finance & Fintech",
       "website": "https://the-pros-junk-removal.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T21:00:42.572024+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T21:57:18.315433+00:00"
     },
     {
       "name": "Vuetinel",
       "slug": "polsia-vuetinel",
+      "description": "24/7 Vue site-health watchdog — errors, a11y, broken flows, and CVEs triaged to Slack and GitHub every day.",
+      "description_fr": "Surveillance de l'état du site Vue 24h/24 et 7j/7 : erreurs, flux interrompus et CVE triés quotidiennement vers Slack et GitHub.",
+      "category": "Health & Wellness",
       "website": "https://vuetinel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T21:00:43.779264+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T21:57:19.445494+00:00"
     },
     {
       "name": "Underhammer",
       "slug": "polsia-underhammer",
+      "description": "Hunt underpriced cards across every marketplace. Bid with the limits you set.",
+      "description_fr": "Recherchez des cartes sous-évaluées sur tous les marchés. Enchérissez avec les limites que vous fixez.",
+      "category": "E-Commerce & Retail",
       "website": "https://underhammer.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T21:00:44.377260+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T21:57:21.163903+00:00"
     },
     {
       "name": "Heimdrift",
       "slug": "polsia-heimdrift-2",
+      "description": "Heimdrift er en autonom AI-vert som driver korttidsutleie døgnet rundt for norske hytter og fritidseiendommer — på Airbnb, Booking.com og Finn.",
+      "description_fr": "Heimdrift est un pilote autonome doté d'une IA qui convient pour les hôtels norvégiens et les hôtels frits — sur Airbnb, Booking.com et Finn.",
+      "category": "Travel & Hospitality",
       "website": "https://heimdrift-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T21:00:45.054284+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T21:57:22.941045+00:00"
     },
     {
       "name": "Lintwarden",
       "slug": "polsia-lintwarden",
+      "description": "Residential air duct and dryer vent service. NADCA-certified deep cleaning, fire-prevention vent clearing, and full duct redesign — one crew for the whole system.",
+      "description_fr": "Service de conduits d’air résidentiels et de ventilation de sécheuse. Nettoyage en profondeur certifié NADCA, nettoyage des évents anti-incendie et refonte complète des conduits : une seule équipe pour l'ensemble du système.",
+      "category": "AI & Machine Learning",
       "website": "https://lintwarden.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T21:00:45.916460+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T21:57:24.607816+00:00"
     },
     {
       "name": "Cradlewerk",
       "slug": "polsia-cradlewerk",
+      "description": "Your life, scored — and the studio footage becomes tomorrow’s lead.",
+      "description_fr": "Votre vie est marquée – et les images du studio deviennent le protagoniste de demain.",
+      "category": "Sales & CRM",
       "website": "https://cradlewerk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-12T21:00:51.353957+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-12T21:57:25.680195+00:00"
     },
     {
       "name": "Nuitor",
       "slug": "polsia-nuitor",
+      "description": "Nuitor veille en continu les appels d’offres publics français et prépare, chaque matin, un dossier de réponse quasi prêt à valider.",
+      "description_fr": "Nuitor veille en continue les appels d’offres publiques français et prépare, chaque matin, un dossier de réponse quasi prêt à valider.",
+      "category": "Other",
       "website": "https://nuitor.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-12T21:57:26.659897+00:00"
+    },
+    {
+      "name": "Bulldash.live",
+      "slug": "polsia-bulldashlive",
+      "website": "https://bulldashlive.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-12T21:00:53.871262+00:00"
+      "scraped_at": "2026-08-12T21:56:01.949738+00:00"
+    },
+    {
+      "name": "Verdix",
+      "slug": "polsia-verdix-mzwqmo",
+      "website": "https://verdix-mzwqmo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T21:56:02.648290+00:00"
+    },
+    {
+      "name": "Nightperch",
+      "slug": "polsia-nightperch-3",
+      "website": "https://nightperch-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T21:56:03.169707+00:00"
+    },
+    {
+      "name": "Tandaro",
+      "slug": "polsia-tandaro",
+      "website": "https://tandaro.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T21:56:03.986425+00:00"
+    },
+    {
+      "name": "Plumbline",
+      "slug": "polsia-plumbline-oswg5g",
+      "website": "https://plumbline-oswg5g.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T21:56:04.560980+00:00"
+    },
+    {
+      "name": "South Georgia Sawdust LLC",
+      "slug": "polsia-south-georgia-sawdust-llc",
+      "website": "https://south-georgia-sawdust-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T21:56:09.967936+00:00"
+    },
+    {
+      "name": "Hearthstack",
+      "slug": "polsia-hearthstack-801vcm",
+      "website": "https://hearthstack-801vcm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T21:56:15.336908+00:00"
+    },
+    {
+      "name": "Nightkite",
+      "slug": "polsia-nightkite-2",
+      "website": "https://nightkite-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T21:56:20.900278+00:00"
+    },
+    {
+      "name": "VOLTREK",
+      "slug": "polsia-voltrek-4",
+      "website": "https://voltrek-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T21:56:21.543220+00:00"
+    },
+    {
+      "name": "Bindroot",
+      "slug": "polsia-bindroot",
+      "website": "https://bindroot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-12T21:56:27.111711+00:00"
     }
   ]
 }
