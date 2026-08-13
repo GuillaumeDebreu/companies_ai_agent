@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T10:18:49.146265+00:00",
+  "last_updated": "2026-08-13T11:15:32.859165+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -245299,58 +245299,79 @@
     {
       "name": "Refundling",
       "slug": "polsia-refundling",
+      "description": "AI agents that audit every bill, file the dispute, and swap you to a cheaper plan. Pay nothing upfront — Refundling only shares in documented savings.",
+      "description_fr": "Des agents IA qui vérifient chaque facture, déposent le litige et vous échangent vers un forfait moins cher. Ne payez rien d’avance – Le remboursement ne partage que les économies documentées.",
+      "category": "AI & Machine Learning",
       "website": "https://refundling.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T10:16:26.010906+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T11:14:31.428376+00:00"
     },
     {
       "name": "Plugcraft",
       "slug": "polsia-plugcraft",
+      "description": "The 24/7 AI A&R that runs your indie rap hustle on autopilot — royalties, playlists, drops, super-fans, and the Sunday dashboard, all in one agent.",
+      "description_fr": "L'IA A&R 24h/24 et 7j/7 qui gère votre activité de rap indépendant sur pilote automatique : redevances, listes de lecture, drops, super-fans et tableau de bord du dimanche, le tout dans un seul agent.",
+      "category": "AI & Machine Learning",
       "website": "https://plugcraft.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T10:16:26.733550+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T11:14:33.464781+00:00"
     },
     {
       "name": "Platra",
       "slug": "polsia-platra",
+      "description": "Always-on reputation guard for neighborhood businesses.",
+      "description_fr": "Gardien permanent de la réputation des entreprises du quartier.",
+      "category": "Other",
       "website": "https://platra.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T10:16:27.491168+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T11:14:34.733092+00:00"
     },
     {
       "name": "Erzählwacht",
       "slug": "polsia-erzhlwacht",
+      "description": "24/7 KI-Spielleiter für Solo- und Pen-&-Paper-Runden mit echter Regeltreue — Angriffswürfe, Rettungswürfe, Bedingungen und Zauber als ausführbare Mechanik.",
+      "description_fr": "24/7 KI-Spielleiter für Solo- und Pen-&-Paper-Runden mit echter Regeltreue — Angriffswürfe, Rettungswürfe, Bedingungen et Zauber als ausführbare Mechanik.",
+      "category": "Other",
       "website": "https://erzhlwacht.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T10:16:28.184448+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T11:14:36.415579+00:00"
     },
     {
       "name": "Sortwell",
       "slug": "polsia-sortwell-3",
+      "description": "Privacy-first inbox triage for independent UK insurance brokers. Sortwell classifies every email, SMS and form submission into insurance-specific categories, surfaces 60/30/7-day renewal warnings, and routes every outbound reply through a human-in-the-loop approval gate.",
+      "description_fr": "Triage des boîtes de réception axé sur la confidentialité pour les courtiers d'assurance indépendants du Royaume-Uni. Sortwell classe chaque e-mail, SMS et formulaire soumis dans des catégories spécifiques à l'assurance, affiche des avertissements de renouvellement de 60/30/7 jours et achemine chaque réponse sortante via une porte d'approbation humaine.",
+      "category": "Newsletter & Email",
       "website": "https://sortwell-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T10:16:28.920377+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T11:14:38.378017+00:00"
     },
     {
       "name": "Rondacero",
       "slug": "polsia-rondacero",
+      "description": "Cada mañana, las cinco cosas que tu negocio necesita arreglar hoy.",
+      "description_fr": "Chaque matin, les cinq raisons pour lesquelles votre entreprise doit s'arranger aujourd'hui.",
+      "category": "Other",
       "website": "https://rondacero.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T10:16:29.635548+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T11:14:40.137984+00:00"
     },
     {
       "name": "Hearshot",
       "slug": "polsia-hearshot-2",
+      "description": "Voice-first English fluency, tuned to your accent.",
+      "description_fr": "Maîtrise de l'anglais vocal d'abord, adaptée à votre accent.",
+      "category": "Other",
       "website": "https://hearshot-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T10:16:35.178578+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T11:14:40.975206+00:00"
     },
     {
       "name": "Helmshire",
@@ -245371,10 +245392,93 @@
     {
       "name": "Driftmark",
       "slug": "polsia-driftmark-3",
+      "description": "Driftmark is the autonomous revenue-ops agent that handles leads, invoices, and reconciliations overnight — joining CRM, ERP, billing, and bank feeds into one exception queue.",
+      "description_fr": "Driftmark est l'agent opérationnel autonome qui gère les leads, les factures et les rapprochements du jour au lendemain, en regroupant les flux CRM, ERP, facturation et bancaires dans une seule file d'attente d'exceptions.",
+      "category": "Sales & CRM",
       "website": "https://driftmark-3.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-13T11:14:43.147392+00:00"
+    },
+    {
+      "name": "PregãoLume",
+      "slug": "polsia-pregolume",
+      "website": "https://pregolume.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-13T10:16:51.878087+00:00"
+      "scraped_at": "2026-08-13T11:12:59.456176+00:00"
+    },
+    {
+      "name": "Raspberry Hollow Gifts",
+      "slug": "polsia-raspberry-hollow-gifts",
+      "website": "https://raspberry-hollow-gifts.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T11:13:09.802266+00:00"
+    },
+    {
+      "name": "Modcairn",
+      "slug": "polsia-modcairn",
+      "website": "https://modcairn.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T11:13:10.405044+00:00"
+    },
+    {
+      "name": "Pennyfold",
+      "slug": "polsia-pennyfold-2",
+      "website": "https://pennyfold-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T11:13:15.887114+00:00"
+    },
+    {
+      "name": "FolyamŐr",
+      "slug": "polsia-folyamr",
+      "website": "https://folyamr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T11:13:16.396894+00:00"
+    },
+    {
+      "name": "Refbox",
+      "slug": "polsia-refbox",
+      "website": "https://refbox.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T11:13:21.674294+00:00"
+    },
+    {
+      "name": "Roostward",
+      "slug": "polsia-roostward-5",
+      "website": "https://roostward-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T11:13:27.218037+00:00"
+    },
+    {
+      "name": "Tendamo",
+      "slug": "polsia-tendamo",
+      "website": "https://tendamo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T11:13:32.678601+00:00"
+    },
+    {
+      "name": "Cardúmen",
+      "slug": "polsia-cardmen",
+      "website": "https://cardmen.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T11:13:38.058819+00:00"
+    },
+    {
+      "name": "Vendmark",
+      "slug": "polsia-vendmark-zm0561",
+      "website": "https://vendmark-zm0561.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T11:13:43.287285+00:00"
     }
   ]
 }
