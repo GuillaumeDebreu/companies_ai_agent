@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T04:33:13.032549+00:00",
+  "last_updated": "2026-08-13T06:04:31.203720+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -244862,66 +244862,90 @@
     {
       "name": "Campintel",
       "slug": "polsia-campintel",
+      "description": "IA agéntica que monitorea tu campo en tiempo real: suelo, clima, plagas y precios. Actúa sola, sin paneles que revisar.",
+      "description_fr": "L'agent qui surveille votre terrain en temps réel : le climat, le climat, les plafonds et les prix. Actúa solo, sin paneles que révisar.",
+      "category": "Other",
       "website": "https://campintel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T04:31:58.984955+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T06:03:35.781413+00:00"
     },
     {
       "name": "Kelvline",
       "slug": "polsia-kelvline",
+      "description": "Pre-scored HVAC leads, delivered exclusive to one licensed operator per territory.",
+      "description_fr": "Des pistes CVC pré-notées, livrées exclusivement à un opérateur agréé par territoire.",
+      "category": "Sales & CRM",
       "website": "https://kelvline.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T04:31:59.924333+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T06:03:37.561617+00:00"
     },
     {
       "name": "Merchain",
       "slug": "polsia-merchain",
+      "description": "The AI work engine built for how e-commerce teams actually operate.",
+      "description_fr": "Le moteur de travail d'IA conçu pour le fonctionnement réel des équipes de commerce électronique.",
+      "category": "AI & Machine Learning",
       "website": "https://merchain.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T04:32:00.784461+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T06:03:39.010580+00:00"
     },
     {
       "name": "Mostrador Studio",
       "slug": "polsia-mostrador-studio",
+      "description": "El mostrador digital del comercio de barrio: gestión de redes sociales para tiendas, restaurantes y pequeños negocios que quieren pasar de la cuenta personal al mostrador.",
+      "description_fr": "L'afficheur numérique du commerce de quartier : gestion des réseaux sociaux pour les clients, les restaurants et les petits commerces qui souhaitent passer du compte personnel à l'afficheur.",
+      "category": "Food & Beverage",
       "website": "https://mostrador-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T04:32:01.694233+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T06:03:41.281842+00:00"
     },
     {
       "name": "Shifaa Safar",
       "slug": "polsia-shifaa-safar",
+      "description": "Healing journeys from the Gulf to Egypt — end-to-end medical travel with a single transparent price, JCI-accredited Egyptian hospitals and Gulf-trained Arabic-speaking case managers.",
+      "description_fr": "Voyages de guérison du Golfe à l'Égypte : voyages médicaux de bout en bout avec un prix unique transparent, des hôpitaux égyptiens accrédités par JCI et des gestionnaires de cas arabophones formés dans le Golfe.",
+      "category": "Health & Wellness",
       "website": "https://shifaa-safar.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T04:32:02.467888+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T06:03:43.209064+00:00"
     },
     {
       "name": "Cairnpost",
       "slug": "polsia-cairnpost-f247he",
+      "description": "State-specific HOA compliance filings — drafted, formatted, and submitted by a US-based operator team. For managers of fewer than 500 communities.",
+      "description_fr": "Dépôts de conformité HOA spécifiques à l'État — rédigés, formatés et soumis par une équipe d'opérateurs basée aux États-Unis. Pour les gestionnaires de moins de 500 communautés.",
+      "category": "Other",
       "website": "https://cairnpost-f247he.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T04:32:03.443161+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T06:03:45.205087+00:00"
     },
     {
       "name": "Purser",
       "slug": "polsia-purser-5",
+      "description": "Reprice, restock, review, and report — your storefront on autopilot. The autonomous operator for solo Amazon and Shopify sellers.",
+      "description_fr": "Révisez le prix, réapprovisionnez, examinez et créez des rapports : votre vitrine sur pilote automatique. L'opérateur autonome pour les vendeurs solo Amazon et Shopify.",
+      "category": "E-Commerce & Retail",
       "website": "https://purser-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T04:32:04.443597+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T06:03:47.086995+00:00"
     },
     {
       "name": "Drumhaul",
       "slug": "polsia-drumhaul-2",
+      "description": "Drumhaul — the 24/7 AI operations desk for Nigerian haulage fleets. Match idle trucks to loads, monitor live GPS, and cut empty miles.",
+      "description_fr": "Drumhaul - le bureau des opérations d'IA 24h/24 et 7j/7 pour les flottes de transport nigérianes. Associez les camions inutilisés aux charges, surveillez le GPS en direct et réduisez les kilomètres à vide.",
+      "category": "AI & Machine Learning",
       "website": "https://drumhaul-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T04:32:05.277865+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T06:03:48.580914+00:00"
     },
     {
       "name": "Husk Fight Wear LLC",
@@ -244934,10 +244958,93 @@
     {
       "name": "Chaincourse",
       "slug": "polsia-chaincourse",
+      "description": "The outsourced delivery department for small and midsize businesses that can't afford a fumble — same-day bonded couriers, verified chain-of-custody handoffs, and notarized proof of delivery.",
+      "description_fr": "Le service de livraison externalisé pour les petites et moyennes entreprises qui ne peuvent pas se permettre de tâtonner : coursiers sous caution le jour même, transferts de chaîne de traçabilité vérifiés et preuve de livraison notariée.",
+      "category": "Education",
       "website": "https://chaincourse.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-13T06:03:56.005393+00:00"
+    },
+    {
+      "name": "CoverFactory.be",
+      "slug": "polsia-coverfactorybe",
+      "website": "https://coverfactorybe.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-13T04:32:06.710643+00:00"
+      "scraped_at": "2026-08-13T06:02:24.495017+00:00"
+    },
+    {
+      "name": "Cedarwell Counsel",
+      "slug": "polsia-cedarwell-counsel",
+      "website": "https://cedarwell-counsel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T06:02:25.012511+00:00"
+    },
+    {
+      "name": "Veilwire",
+      "slug": "polsia-veilwire",
+      "website": "https://veilwire.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T06:02:25.936758+00:00"
+    },
+    {
+      "name": "Strookboek",
+      "slug": "polsia-strookboek",
+      "website": "https://strookboek.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T06:02:26.626989+00:00"
+    },
+    {
+      "name": "Klavexa",
+      "slug": "polsia-klavexa",
+      "website": "https://klavexa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T06:02:27.203285+00:00"
+    },
+    {
+      "name": "Platelogic",
+      "slug": "polsia-platelogic-3",
+      "website": "https://platelogic-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T06:02:32.695742+00:00"
+    },
+    {
+      "name": "Stillmark",
+      "slug": "polsia-stillmark-mrfsre",
+      "website": "https://stillmark-mrfsre.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T06:02:43.243808+00:00"
+    },
+    {
+      "name": "Bruñido Studio",
+      "slug": "polsia-bruido-studio",
+      "website": "https://bruido-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T06:02:48.734564+00:00"
+    },
+    {
+      "name": "Murmora",
+      "slug": "polsia-murmora",
+      "website": "https://murmora.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T06:02:54.200298+00:00"
+    },
+    {
+      "name": "Makerwright",
+      "slug": "polsia-makerwright-2",
+      "website": "https://makerwright-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T06:02:59.814277+00:00"
     }
   ]
 }
