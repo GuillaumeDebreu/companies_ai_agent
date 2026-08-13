@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T19:46:07.092028+00:00",
+  "last_updated": "2026-08-13T20:25:00.903363+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -246250,18 +246250,24 @@
     {
       "name": "SPIELKERN",
       "slug": "polsia-spielkern",
+      "description": "Dein individuelles Fußballtrainingssystem – persönlich geplant, monatlich weiterentwickelt.",
+      "description_fr": "Dein individuel Fußballtrainingssystem – persönlich geplant, monatlich weiterentwickelt.",
+      "category": "Education",
       "website": "https://spielkern.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T19:42:56.774900+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T20:24:00.519611+00:00"
     },
     {
       "name": "Green Guard Pest Solutions",
       "slug": "polsia-green-guard-pest-solutions",
+      "description": "Minnesota's eco-friendly residential pest control with 20+ years of trusted service — exterior barrier sprays, rodent exclusion, and quarterly yard treatments built around integrated pest management.",
+      "description_fr": "La lutte antiparasitaire résidentielle respectueuse de l'environnement du Minnesota avec plus de 20 ans de service de confiance : pulvérisations de barrière extérieure, exclusion des rongeurs et traitements de cour trimestriels construits autour de la lutte antiparasitaire intégrée.",
+      "category": "Sustainability & Green",
       "website": "https://green-guard-pest-solutions.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T19:42:57.498230+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T20:24:02.028289+00:00"
     },
     {
       "name": "Yanantin",
@@ -246274,42 +246280,57 @@
     {
       "name": "Keystead",
       "slug": "polsia-keystead-dnz43w",
+      "description": "A full property team for landlords with one to nine units. AI agents watch rent, dispatch contractors, and file the compliance paperwork — bundled into one flat monthly bill.",
+      "description_fr": "Une équipe immobilière complète pour les propriétaires possédant un à neuf logements. Les agents IA surveillent les loyers, répartissent les sous-traitants et remplissent les documents de conformité, regroupés en une seule facture mensuelle forfaitaire.",
+      "category": "Real Estate",
       "website": "https://keystead-dnz43w.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T19:42:59.273423+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T20:24:03.863683+00:00"
     },
     {
       "name": "Reprieve",
       "slug": "polsia-reprieve-4",
+      "description": "Closed-loop observability for production ML — drift detected, rollback executed, audit trail intact.",
+      "description_fr": "Observabilité en boucle fermée pour le ML de production : dérive détectée, restauration exécutée, piste d'audit intacte.",
+      "category": "Other",
       "website": "https://reprieve-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T19:43:00.137731+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T20:24:05.765851+00:00"
     },
     {
       "name": "Outbrief",
       "slug": "polsia-outbrief-6",
+      "description": "Outbrief turns recorded client calls into ready-to-send scopes of work, proposals, and project briefs — in your agency’s own template, voice, and pricing.",
+      "description_fr": "Outbrief transforme les appels clients enregistrés en étendues de travail, propositions et résumés de projet prêts à être envoyés, dans le modèle, la voix et les tarifs de votre agence.",
+      "category": "Consulting & Services",
       "website": "https://outbrief-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T19:43:10.794574+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T20:24:07.926345+00:00"
     },
     {
       "name": "Battlement",
       "slug": "polsia-battlement",
+      "description": "Always-on AI SOC. Watches, triages, remediates, and reports on the signals your existing EDR, XDR, and SIEM produce.",
+      "description_fr": "SOC IA toujours actif. Surveillez, triez, corrigez et créez des rapports sur les signaux produits par vos EDR, XDR et SIEM existants.",
+      "category": "AI & Machine Learning",
       "website": "https://battlement.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T19:43:16.180786+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T20:24:09.264365+00:00"
     },
     {
       "name": "Vestpost",
       "slug": "polsia-vestpost",
+      "description": "Your 24/7 inbox advocate for chargebacks, refunds, and recovered revenue — agentic AI that watches the inbox, builds evidence, and reports wins every Monday.",
+      "description_fr": "Votre boîte de réception 24h/24 et 7j/7 défend les rétrofacturations, les remboursements et la récupération des revenus : une IA agentique qui surveille la boîte de réception, rassemble des preuves et rapporte les victoires tous les lundis.",
+      "category": "AI & Machine Learning",
       "website": "https://vestpost.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T19:43:21.812056+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T20:24:10.421689+00:00"
     },
     {
       "name": "Groclane",
@@ -246326,6 +246347,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-08-13T19:43:33.238847+00:00"
+    },
+    {
+      "name": "Caracola Media",
+      "slug": "polsia-caracola-media",
+      "website": "https://caracola-media.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T20:22:40.219933+00:00"
+    },
+    {
+      "name": "Cogsmith",
+      "slug": "polsia-cogsmith-sbqj83",
+      "website": "https://cogsmith-sbqj83.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T20:22:40.933222+00:00"
+    },
+    {
+      "name": "Kartoog",
+      "slug": "polsia-kartoog",
+      "website": "https://kartoog.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T20:22:41.509121+00:00"
+    },
+    {
+      "name": "Tessellink",
+      "slug": "polsia-tessellink",
+      "website": "https://tessellink.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T20:22:42.149799+00:00"
+    },
+    {
+      "name": "Trellion",
+      "slug": "polsia-trellion",
+      "website": "https://trellion.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T20:22:42.788502+00:00"
+    },
+    {
+      "name": "Безсънец",
+      "slug": "polsia-company-352532",
+      "website": "https://company-352532.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T20:22:48.411203+00:00"
+    },
+    {
+      "name": "Coghaven",
+      "slug": "polsia-coghaven",
+      "website": "https://coghaven.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T20:22:49.019604+00:00"
+    },
+    {
+      "name": "Brandwarden",
+      "slug": "polsia-brandwarden-2",
+      "website": "https://brandwarden-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T20:22:54.557143+00:00"
+    },
+    {
+      "name": "Codebeacon",
+      "slug": "polsia-codebeacon-3",
+      "website": "https://codebeacon-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T20:23:00.016002+00:00"
+    },
+    {
+      "name": "Recourio",
+      "slug": "polsia-recourio",
+      "website": "https://recourio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T20:23:00.548022+00:00"
     }
   ]
 }
