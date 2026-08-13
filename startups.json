@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T13:40:45.815202+00:00",
+  "last_updated": "2026-08-13T14:45:07.229682+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -245617,10 +245617,13 @@
     {
       "name": "Mendrite",
       "slug": "polsia-mendrite-8",
+      "description": "Autonomous AI compliance agent for seed-stage SaaS chasing SOC 2 and ISO 27001 — auto-drafted remediation PRs and weekly auditor-ready evidence packs.",
+      "description_fr": "Agent de conformité IA autonome pour les SaaS en phase d'amorçage suivant SOC 2 et ISO 27001 — PR de remédiation rédigés automatiquement et ensembles de preuves hebdomadaires prêts pour l'auditeur.",
+      "category": "AI & Machine Learning",
       "website": "https://mendrite-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T13:38:05.460791+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T14:44:02.975510+00:00"
     },
     {
       "name": "Marrowstack",
@@ -245633,34 +245636,46 @@
     {
       "name": "Switchgear",
       "slug": "polsia-switchgear-2",
+      "description": "Switchgear is the 24/7 AI ops layer for flat-rate MSP helpdesks. It auto-resolves tier-1, audits identity drift, and ships a weekly SLA report to every managed tenant.",
+      "description_fr": "Switchgear est la couche opérationnelle d’IA 24h/24 et 7j/7 pour les services d’assistance MSP à tarif forfaitaire. Il résout automatiquement le niveau 1, audite la dérive d'identité et envoie un rapport SLA hebdomadaire à chaque locataire géré.",
+      "category": "AI & Machine Learning",
       "website": "https://switchgear-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T13:38:11.604563+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T14:44:04.311211+00:00"
     },
     {
       "name": "Gridsmith",
       "slug": "polsia-gridsmith-3",
+      "description": "Autonomous AI crew for tile & flooring contractors — from quote to paid, 24/7.",
+      "description_fr": "Équipe d'IA autonome pour les entrepreneurs en carrelage et revêtement de sol — du devis au paiement, 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://gridsmith-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T13:38:12.321352+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T14:44:05.281756+00:00"
     },
     {
       "name": "Effigia",
       "slug": "polsia-effigia",
+      "description": "Votre styliste IA et cabine d’essayage virtuelle, depuis votre téléphone.",
+      "description_fr": "Votre styliste IA et cabine d’essai virtuelle, depuis votre téléphone.",
+      "category": "Other",
       "website": "https://effigia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T13:38:12.944435+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T14:44:06.784653+00:00"
     },
     {
       "name": "Oddling",
       "slug": "polsia-oddling-3",
+      "description": "Oddling is a monthly subscription discovery box that ships one sealed, AI-personalized delight — boutique artisan goods, niche treats, or spontaneous local experiences — matched to a recipient’s taste profile. Allergen-safe, provenance-disclosed, and replaceable.",
+      "description_fr": "Oddling est une boîte de découverte par abonnement mensuel qui contient un délice scellé et personnalisé par l'IA – des produits artisanaux de boutique, des friandises de niche ou des expériences locales spontanées – adaptés au profil gustatif du destinataire. Sans danger pour les allergènes, provenance divulguée et remplaçable.",
+      "category": "AI & Machine Learning",
       "website": "https://oddling-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T13:38:13.570418+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T14:44:08.889619+00:00"
     },
     {
       "name": "Cratedog",
@@ -245673,26 +245688,115 @@
     {
       "name": "Atalaya",
       "slug": "polsia-atalaya-6ktfzn",
+      "description": "Atalaya es el agente de IA autónomo que opera tu tienda online las 24 horas: vigila ventas, inventario y ROAS, ajusta precios y pausa anuncios, y cada mañana entrega un brief con 3 a 5 decisiones priorizadas.",
+      "description_fr": "Atalaya est l'agent d'IA autonome qui exploite votre boutique en ligne 24 heures sur 24 : veille sur les ventes, inventaire et ROAS, réglage des prix et pauses annonces, et chaque fois qu'il entrega un bref avec 3 à 5 décisions prioritaires.",
+      "category": "Other",
       "website": "https://atalaya-6ktfzn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T13:38:24.826898+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T14:44:11.035178+00:00"
     },
     {
       "name": "Eyriecast",
       "slug": "polsia-eyriecast",
+      "description": "Your AI-led outbound agency — niche signals to booked calls, no SDRs needed.",
+      "description_fr": "Votre agence sortante dirigée par l'IA : des signaux de niche pour les appels réservés, aucun SDR nécessaire.",
+      "category": "AI & Machine Learning",
       "website": "https://eyriecast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T13:38:30.309732+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T14:44:12.722932+00:00"
     },
     {
       "name": "Heimring",
       "slug": "polsia-heimring",
+      "description": "Heimring ist die Assistenz-Plattform mit autonomen KI-Agenten rund um die Uhr für lizenzierte Münchner Immobilienmakler – von Objektscreening und Preisanalyse bis Notarstermin, EU-AI-Act-konform.",
+      "description_fr": "Il s'agit de la plate-forme d'assistance avec des agents KI autonomes et de l'entreprise de construction d'immeubles municipaux agréés – par le dépistage d'objets et l'analyse de prix jusqu'à la fin de la notation, conforme à la loi EU-AI.",
+      "category": "Other",
       "website": "https://heimring.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-13T14:44:13.611636+00:00"
+    },
+    {
+      "name": "Joltcrate",
+      "slug": "polsia-joltcrate",
+      "website": "https://joltcrate.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-13T13:38:35.761730+00:00"
+      "scraped_at": "2026-08-13T14:42:44.768089+00:00"
+    },
+    {
+      "name": "CentiFolk",
+      "slug": "polsia-centifolk",
+      "website": "https://centifolk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T14:42:45.415151+00:00"
+    },
+    {
+      "name": "Skyway Relay",
+      "slug": "polsia-skyway-relay",
+      "website": "https://skyway-relay.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T14:42:45.907003+00:00"
+    },
+    {
+      "name": "Cobblemark",
+      "slug": "polsia-cobblemark-9",
+      "website": "https://cobblemark-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T14:42:46.568013+00:00"
+    },
+    {
+      "name": "Hearhoist",
+      "slug": "polsia-hearhoist",
+      "website": "https://hearhoist.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T14:42:47.171537+00:00"
+    },
+    {
+      "name": "Nubblo",
+      "slug": "polsia-nubblo",
+      "website": "https://nubblo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T14:42:52.642534+00:00"
+    },
+    {
+      "name": "Kennelbill",
+      "slug": "polsia-kennelbill",
+      "website": "https://kennelbill.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T14:42:58.275473+00:00"
+    },
+    {
+      "name": "Quill & Reel",
+      "slug": "polsia-quill-reel",
+      "website": "https://quill-reel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T14:43:03.885239+00:00"
+    },
+    {
+      "name": "LILY&",
+      "slug": "polsia-lily",
+      "website": "https://lily.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T14:43:09.520925+00:00"
+    },
+    {
+      "name": "Roostmark",
+      "slug": "polsia-roostmark-3",
+      "website": "https://roostmark-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T14:43:14.839579+00:00"
     }
   ]
 }
