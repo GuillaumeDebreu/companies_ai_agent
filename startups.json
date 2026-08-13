@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T21:14:45.734757+00:00",
+  "last_updated": "2026-08-13T22:06:27.502040+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -246469,10 +246469,13 @@
     {
       "name": "Helmswell",
       "slug": "polsia-helmswell-f898d2",
+      "description": "An agentic control plane for regulated life-sciences products — Vault, RIM, and QMS orchestration with 21 CFR Part 11, GAMP 5, and ISO 13485 audit trails.",
+      "description_fr": "Un plan de contrôle agent pour les produits réglementés des sciences de la vie : orchestration Vault, RIM et QMS avec pistes d'audit 21 CFR Part 11, GAMP 5 et ISO 13485.",
+      "category": "Other",
       "website": "https://helmswell-f898d2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T21:11:45.603841+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T22:05:42.156813+00:00"
     },
     {
       "name": "Boughshelf",
@@ -246485,10 +246488,13 @@
     {
       "name": "Burrard Penny",
       "slug": "polsia-burrard-penny",
+      "description": "Free and cheap things to do in Metro Vancouver, every week.",
+      "description_fr": "Activités gratuites et bon marché à faire dans la région métropolitaine de Vancouver, chaque semaine.",
+      "category": "Other",
       "website": "https://burrard-penny.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T21:11:56.535715+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T22:05:44.624562+00:00"
     },
     {
       "name": "AgioVolt",
@@ -246501,26 +246507,35 @@
     {
       "name": "Harkmark",
       "slug": "polsia-harkmark-4",
+      "description": "A confirmation-gated AI intake assistant. Drop in everything; nothing happens until you say OKAY.",
+      "description_fr": "Un assistant d'admission IA avec confirmation. Déposez tout ; rien ne se passe jusqu'à ce que vous disiez OK.",
+      "category": "AI & Machine Learning",
       "website": "https://harkmark-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T21:12:12.646307+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T22:05:57.816912+00:00"
     },
     {
       "name": "Riposte",
       "slug": "polsia-riposte-8",
+      "description": "Riposte is the AI competitor radar for indie founders. Six signal sources monitored around the clock; every week you get a decoded briefing and a recommended counter-move — not just a digest.",
+      "description_fr": "Riposte est le radar des concurrents de l'IA pour les fondateurs indépendants. Six sources de signaux surveillées 24 heures sur 24 ; chaque semaine, vous recevez un briefing décodé et une contre-attaque recommandée – pas seulement un résumé.",
+      "category": "AI & Machine Learning",
       "website": "https://riposte-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T21:12:18.194685+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T22:06:00.622904+00:00"
     },
     {
       "name": "Rimnest",
       "slug": "polsia-rimnest",
+      "description": "A soft anti-slip perch for the bathtub rim, built for the minute most people spend shaving their legs in a hurry.",
+      "description_fr": "Un perchoir doux et antidérapant pour le bord de la baignoire, conçu pour le moment où la plupart des gens passent à se raser les jambes en toute hâte.",
+      "category": "Other",
       "website": "https://rimnest.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T21:12:23.650643+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T22:06:01.889451+00:00"
     },
     {
       "name": "Aisleward",
@@ -246533,10 +246548,93 @@
     {
       "name": "Rojëtar",
       "slug": "polsia-rojtar",
+      "description": "Agjenti yt 24/7: inventar, furnizime, klientë dhe raporte në shqip.",
+      "description_fr": "Travaillez 24h/24 et 7j/7 : inventez, fournissez, client et rapport sur l'achat.",
+      "category": "Other",
       "website": "https://rojtar.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-13T22:06:08.824360+00:00"
+    },
+    {
+      "name": "Harridan",
+      "slug": "polsia-harridan",
+      "website": "https://harridan.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-13T21:12:29.569191+00:00"
+      "scraped_at": "2026-08-13T22:04:20.968807+00:00"
+    },
+    {
+      "name": "Creatorê",
+      "slug": "polsia-creator",
+      "website": "https://creator.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T22:04:21.929080+00:00"
+    },
+    {
+      "name": "BiletWyjścia",
+      "slug": "polsia-biletwyjcia",
+      "website": "https://biletwyjcia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T22:04:22.853845+00:00"
+    },
+    {
+      "name": "Double-Rats Golf",
+      "slug": "polsia-double-rats-golf",
+      "website": "https://double-rats-golf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T22:04:23.665392+00:00"
+    },
+    {
+      "name": "Pulsocita",
+      "slug": "polsia-pulsocita-2",
+      "website": "https://pulsocita-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T22:04:24.561500+00:00"
+    },
+    {
+      "name": "Jumel'AO",
+      "slug": "polsia-jumelao",
+      "website": "https://jumelao.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T22:04:25.606251+00:00"
+    },
+    {
+      "name": "Wovryn",
+      "slug": "polsia-wovryn",
+      "website": "https://wovryn.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T22:04:26.479635+00:00"
+    },
+    {
+      "name": "Hearloom",
+      "slug": "polsia-hearloom-2eavqq",
+      "website": "https://hearloom-2eavqq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T22:04:27.349791+00:00"
+    },
+    {
+      "name": "Hafitha",
+      "slug": "polsia-hafitha",
+      "website": "https://hafitha.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T22:04:28.177981+00:00"
+    },
+    {
+      "name": "ChasquiIA",
+      "slug": "polsia-chasquiia",
+      "website": "https://chasquiia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T22:04:29.053343+00:00"
     }
   ]
 }
