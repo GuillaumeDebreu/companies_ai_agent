@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T02:02:57.796828+00:00",
+  "last_updated": "2026-08-13T02:46:56.307288+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -244654,42 +244654,57 @@
     {
       "name": "Blackseed Catering & Cafe",
       "slug": "polsia-blackseed-catering-cafe",
+      "description": "100% Aboriginal-owned mobile catering bringing bush tucker culture to every table. Serving corporate, government, schools, and community events across NSW.",
+      "description_fr": "Restauration mobile 100 % autochtone apportant la culture du bush tucker à chaque table. Au service des événements d'entreprise, gouvernementaux, scolaires et communautaires dans toute la Nouvelle-Galles du Sud.",
+      "category": "Food & Beverage",
       "website": "https://blackseed-catering-cafe.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T00:06:39.889095+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T02:45:45.183492+00:00"
     },
     {
       "name": "Driftqueue",
       "slug": "polsia-driftqueue",
+      "description": "Your morning watchlist, curated overnight by AI — no searching required.",
+      "description_fr": "Votre liste de surveillance du matin, organisée du jour au lendemain par l'IA — aucune recherche requise.",
+      "category": "AI & Machine Learning",
       "website": "https://driftqueue.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T00:06:40.865142+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T02:45:46.834407+00:00"
     },
     {
       "name": "Honeybell Grain",
       "slug": "polsia-honeybell-grain",
+      "description": "Heirloom grains and fresh-milled flour, delivered to your door. Curated subscription boxes sourced from small, farm-direct mills and growers.",
+      "description_fr": "Céréales anciennes et farine fraîchement moulue, livrées à votre porte. Boîtes d'abonnement sélectionnées provenant de petites usines et de producteurs directement à la ferme.",
+      "category": "Other",
       "website": "https://honeybell-grain.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T00:06:41.834112+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T02:45:48.882092+00:00"
     },
     {
       "name": "Catchback",
       "slug": "polsia-catchback-4",
+      "description": "Catchback turns missed calls into booked jobs for independent auto repair, tire, and tint shops — with text-back, intake, scheduling, follow-up, and a revenue dashboard.",
+      "description_fr": "Catchback transforme les appels manqués en tâches réservées pour les ateliers indépendants de réparation automobile, de pneus et de teintes – avec réponse par SMS, prise en charge, planification, suivi et tableau de bord des revenus.",
+      "category": "Software & SaaS",
       "website": "https://catchback-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T00:06:42.568105+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T02:45:51.056307+00:00"
     },
     {
       "name": "Compasswright",
       "slug": "polsia-compasswright-6",
+      "description": "From analyst-heavy to always-on. Compasswright is an AI-native advisory firm — continuously running agents for mid-market operators, family offices, and PE sponsors.",
+      "description_fr": "De l'analyse intensive à l'analyse permanente. Compasswright est une société de conseil native en IA qui gère en permanence des agents pour les opérateurs de taille intermédiaire, les family offices et les sponsors PE.",
+      "category": "AI & Machine Learning",
       "website": "https://compasswright-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T00:06:43.429144+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T02:45:52.367041+00:00"
     },
     {
       "name": "Platlens",
@@ -244708,28 +244723,117 @@
       "scraped_at": "2026-08-13T00:06:49.712213+00:00"
     },
     {
-      "name": "Constellationlog",
+      "name": "Constellog",
       "slug": "polsia-constellationlog",
+      "description": "Track, build, and conquer across every HoYoverse world — a free companion log for Genshin Impact, Honkai: Star Rail, and Zenless Zone Zero.",
+      "description_fr": "Suivez, construisez et conquérez dans tous les mondes HoYoverse – un journal compagnon gratuit pour Genshin Impact, Honkai : Star Rail et Zenless Zone Zero.",
+      "category": "Other",
       "website": "https://constellationlog.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T00:06:55.328802+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T02:45:55.409511+00:00"
     },
     {
       "name": "Prebuttal",
       "slug": "polsia-prebuttal",
+      "description": "Watch the story. Draft the reply. Same day.",
+      "description_fr": "Regardez l'histoire. Rédigez la réponse. Le même jour.",
+      "category": "Other",
       "website": "https://prebuttal.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T00:07:00.959812+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-13T02:45:57.576170+00:00"
     },
     {
       "name": "Sunwright",
       "slug": "polsia-sunwright-4",
+      "description": "Autonomous solar operations across every inverter brand, battery, and balance of system — one agent for the long tail of residential and small commercial fleets.",
+      "description_fr": "Opérations solaires autonomes pour chaque marque d’onduleur, batterie et équilibre du système – un agent pour la longue traîne des flottes résidentielles et petites commerciales.",
+      "category": "Marketing & Advertising",
       "website": "https://sunwright-4.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-13T02:45:59.119771+00:00"
+    },
+    {
+      "name": "Trovepost",
+      "slug": "polsia-trovepost-10",
+      "website": "https://trovepost-10.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-13T00:07:06.617936+00:00"
+      "scraped_at": "2026-08-13T02:44:10.066618+00:00"
+    },
+    {
+      "name": "Steeple & Steel",
+      "slug": "polsia-steeple-steel",
+      "website": "https://steeple-steel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T02:44:15.800582+00:00"
+    },
+    {
+      "name": "HaggleHawk",
+      "slug": "polsia-hagglehawk-4",
+      "website": "https://hagglehawk-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T02:44:21.504145+00:00"
+    },
+    {
+      "name": "Verdax",
+      "slug": "polsia-verdax-3",
+      "website": "https://verdax-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T02:44:22.328204+00:00"
+    },
+    {
+      "name": "Pickem Sports Club",
+      "slug": "polsia-pickem-sports-club",
+      "website": "https://pickem-sports-club.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T02:44:27.895986+00:00"
+    },
+    {
+      "name": "CVNexus",
+      "slug": "polsia-cvnexus",
+      "website": "https://cvnexus.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T02:44:38.474770+00:00"
+    },
+    {
+      "name": "Stillbooth",
+      "slug": "polsia-stillbooth",
+      "website": "https://stillbooth.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T02:44:43.957186+00:00"
+    },
+    {
+      "name": "Quoteneer",
+      "slug": "polsia-quoteneer",
+      "website": "https://quoteneer.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T02:44:49.408935+00:00"
+    },
+    {
+      "name": "Stayvane",
+      "slug": "polsia-stayvane-4",
+      "website": "https://stayvane-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T02:44:55.027310+00:00"
+    },
+    {
+      "name": "Treadframe",
+      "slug": "polsia-treadframe",
+      "website": "https://treadframe.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-13T02:45:00.595867+00:00"
     }
   ]
 }
