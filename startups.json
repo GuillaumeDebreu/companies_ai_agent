@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T16:28:34.525438+00:00",
+  "last_updated": "2026-08-14T17:32:18.326320+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -248186,82 +248186,192 @@
     {
       "name": "Verideed",
       "slug": "polsia-verideed",
+      "description": "Compliance tooling for wholesale real estate assignments — state-aware contract templates, disclosure tracking, and audit trails for solo wholesalers and small investor teams.",
+      "description_fr": "Outils de conformité pour les missions immobilières de gros : modèles de contrat tenant compte de l'État, suivi des divulgations et pistes d'audit pour les grossistes individuels et les équipes de petits investisseurs.",
+      "category": "Real Estate",
       "website": "https://verideed.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T16:25:58.249704+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T17:31:14.329957+00:00"
     },
     {
       "name": "LocalBizGuys.com",
       "slug": "polsia-localbizguyscom",
+      "description": "The #1 Local SEO agency helping small businesses dominate the Google Maps 3-Pack. A managed, done-for-you 7-step system with area exclusivity.",
+      "description_fr": "L'agence de référencement local n°1 qui aide les petites entreprises à dominer le pack de 3 Google Maps. Un système en 7 étapes géré et fait pour vous avec une exclusivité de zone.",
+      "category": "Marketing & Advertising",
       "website": "https://localbizguyscom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T16:25:58.946358+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T17:31:15.302311+00:00"
     },
     {
       "name": "Ilimu",
       "slug": "polsia-ilimu",
+      "description": "School operations software for small and medium private schools across Nigeria. Built twice for real schools in Bauchi — now a subscription yours can run in an afternoon.",
+      "description_fr": "Logiciel d'exploitation scolaire pour les petites et moyennes écoles privées du Nigeria. Construit deux fois pour de vraies écoles à Bauchi — désormais, votre abonnement peut fonctionner en un après-midi.",
+      "category": "Software & SaaS",
       "website": "https://ilimu.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T16:25:59.567052+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T17:31:16.893931+00:00"
     },
     {
       "name": "Paywisp",
       "slug": "polsia-paywisp",
+      "description": "Paywisp is a vertical AI agent that revives failed recurring payments for DTC and SaaS — classifying root causes and recapturing 30–45% of at-risk revenue, on autopilot.",
+      "description_fr": "Paywisp est un agent d'IA vertical qui relance les paiements récurrents échoués pour DTC et SaaS, en classant les causes profondes et en récupérant 30 à 45 % des revenus à risque, sur pilote automatique.",
+      "category": "AI & Machine Learning",
       "website": "https://paywisp.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T16:26:10.470596+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T17:31:18.607117+00:00"
     },
     {
       "name": "Sigmara",
       "slug": "polsia-sigmara",
+      "description": "Sigmara watches SS7, SIGTRAN, Diameter, and roaming traffic around the clock — flagging smishing, IRSF, and SIM-swap fraud at the moment it appears, filing takedown and refund tickets, and emailing your trust-and-fraud team a daily briefing.",
+      "description_fr": "Sigmara surveille SS7, SIGTRAN, Diameter et le trafic itinérant 24 heures sur 24 – signalant les fraudes par smishing, IRSF et échange de carte SIM au moment où elles apparaissent, déposant des tickets de retrait et de remboursement et envoyant par courrier électronique un briefing quotidien à votre équipe de confiance et de fraude.",
+      "category": "Newsletter & Email",
       "website": "https://sigmara.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T16:26:11.450754+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T17:31:20.733218+00:00"
     },
     {
       "name": "Filamint",
       "slug": "polsia-filamint",
+      "description": "Design, print, and replicate — local 3D printing for makers and small businesses.",
+      "description_fr": "Concevez, imprimez et reproduisez : impression 3D locale pour les créateurs et les petites entreprises.",
+      "category": "Other",
       "website": "https://filamint.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T16:26:12.132863+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T17:31:21.997953+00:00"
     },
     {
       "name": "Rackwake",
       "slug": "polsia-rackwake",
+      "description": "Autonomous agents for energy, load, and uptime inside every rack. Rackwake turns today’s firefighting ops team into a calm, autonomous control loop.",
+      "description_fr": "Agents autonomes pour l’énergie, la charge et la disponibilité à l’intérieur de chaque rack. Rackwake transforme l’équipe de lutte contre les incendies d’aujourd’hui en une boucle de contrôle calme et autonome.",
+      "category": "AI & Machine Learning",
       "website": "https://rackwake.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T16:26:17.575901+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T17:31:23.036915+00:00"
     },
     {
       "name": "Sundrip",
       "slug": "polsia-sundrip",
+      "description": "Sundrip is an always-on AI creative ops agent for small DTC teams. It watches every ad, flags the ones losing money after 48 hours, and ships ten fresh variants before you open your laptop.",
+      "description_fr": "Sundrip est un agent opérationnel créatif IA toujours actif pour les petites équipes DTC. Il surveille chaque publicité, signale celles qui perdent de l'argent après 48 heures et expédie dix nouvelles variantes avant que vous n'ouvriez votre ordinateur portable.",
+      "category": "AI & Machine Learning",
       "website": "https://sundrip.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T16:26:18.283669+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T17:31:24.929007+00:00"
     },
     {
       "name": "The Autism Shop",
       "slug": "polsia-the-autism-shop",
+      "description": "Australia's sensory and autism resource shop, run by a neurodivergent Perth family. Curated sensory tools, weighted products, fidget toys and NDIS-friendly invoices — free Australia-wide shipping, every order.",
+      "description_fr": "Boutique australienne de ressources sensorielles et sur l'autisme, gérée par une famille neurodivergente de Perth. Outils sensoriels sélectionnés, produits lestés, jouets fidget et factures compatibles NDIS – livraison gratuite dans toute l'Australie pour chaque commande.",
+      "category": "Finance & Fintech",
       "website": "https://the-autism-shop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T16:26:18.936798+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T17:31:26.814630+00:00"
     },
     {
       "name": "NitiBima",
       "slug": "polsia-nitibima",
+      "description": "Always-on AI that runs your entire insurance stack.",
+      "description_fr": "Une IA toujours active qui gère l’ensemble de votre pile d’assurance.",
+      "category": "AI & Machine Learning",
       "website": "https://nitibima.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-14T17:31:28.002808+00:00"
+    },
+    {
+      "name": "Marginwake",
+      "slug": "polsia-marginwake-pqzmwa",
+      "website": "https://marginwake-pqzmwa.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-14T16:26:24.476265+00:00"
+      "scraped_at": "2026-08-14T17:29:46.648996+00:00"
+    },
+    {
+      "name": "Hatid",
+      "slug": "polsia-hatid",
+      "website": "https://hatid.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T17:29:47.304932+00:00"
+    },
+    {
+      "name": "Velvetgrove",
+      "slug": "polsia-velvetgrove-2",
+      "website": "https://velvetgrove-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T17:29:47.917473+00:00"
+    },
+    {
+      "name": "Cairn",
+      "slug": "polsia-cairn-xkw69q",
+      "website": "https://cairn-xkw69q.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T17:29:48.571522+00:00"
+    },
+    {
+      "name": "Coreto",
+      "slug": "polsia-coreto-2",
+      "website": "https://coreto-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T17:29:49.229211+00:00"
+    },
+    {
+      "name": "Meest International Sp. z o.o.",
+      "slug": "polsia-meest-international-sp-z-oo",
+      "website": "https://meest-international-sp-z-oo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T17:29:54.820631+00:00"
+    },
+    {
+      "name": "Hatchpost",
+      "slug": "polsia-hatchpost-zfrozm",
+      "website": "https://hatchpost-zfrozm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T17:30:05.326379+00:00"
+    },
+    {
+      "name": "Folkstead",
+      "slug": "polsia-folkstead",
+      "website": "https://folkstead.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T17:30:11.204268+00:00"
+    },
+    {
+      "name": "Akairon",
+      "slug": "polsia-akairon",
+      "website": "https://akairon.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T17:30:16.836453+00:00"
+    },
+    {
+      "name": "Linktico",
+      "slug": "polsia-linktico",
+      "website": "https://linktico.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T17:30:17.482547+00:00"
     }
   ]
 }
