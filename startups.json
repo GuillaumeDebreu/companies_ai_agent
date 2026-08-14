@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T08:06:56.858946+00:00",
+  "last_updated": "2026-08-14T09:20:48.822991+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -247320,26 +247320,35 @@
     {
       "name": "Krateau",
       "slug": "polsia-krateau",
+      "description": "Eco-audited pet crates — vetted, weighed, and shipped plastic-free by supply-chain insiders.",
+      "description_fr": "Caisses pour animaux de compagnie éco-auditées – vérifiées, pesées et expédiées sans plastique par des initiés de la chaîne d'approvisionnement.",
+      "category": "Sustainability & Green",
       "website": "https://krateau.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T08:03:57.897493+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T09:19:46.252684+00:00"
     },
     {
       "name": "TENDELIA",
       "slug": "polsia-tendelia",
+      "description": "TENDELIA — l'agent IA qui ne rate aucun appel d'offres européen pour votre entreprise.",
+      "description_fr": "TENDELIA — l'agent IA qui ne note aucun appel d'offres européennes pour votre entreprise.",
+      "category": "Other",
       "website": "https://tendelia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T08:03:58.655710+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T09:19:47.737209+00:00"
     },
     {
       "name": "Drosera Aerospace",
       "slug": "polsia-drosera-aerospace",
+      "description": "AI-driven tracking and laser removal of small orbital debris. A sensor mesh, on-orbit inference, and IoT ground radar catalog sub‑20 cm fragments while a directed‑energy payload deorbits priority objects without rendezvous-and-grapple infrastructure.",
+      "description_fr": "Suivi piloté par l’IA et élimination au laser des petits débris orbitaux. Un maillage de capteurs, une inférence en orbite et un radar au sol IoT cataloguent des fragments inférieurs à 20 cm, tandis qu'une charge utile à énergie dirigée désorbite les objets prioritaires sans infrastructure de rendez-vous et de grappin.",
+      "category": "AI & Machine Learning",
       "website": "https://drosera-aerospace.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T08:04:04.293295+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T09:19:49.306463+00:00"
     },
     {
       "name": "Lidador",
@@ -247352,10 +247361,13 @@
     {
       "name": "Capstan",
       "slug": "polsia-capstan-uhzcre",
+      "description": "Capstan is the AI staff platform engineer that reviews every infrastructure change before it reaches production — surfacing risk, cost, breaking API changes, and policy violations grounded in your own standards.",
+      "description_fr": "Capstan est l'ingénieur de plate-forme d'IA qui examine chaque changement d'infrastructure avant qu'il n'atteigne la production – en faisant ressortir les risques, les coûts, les modifications d'API et les violations de politiques fondées sur vos propres normes.",
+      "category": "Software & SaaS",
       "website": "https://capstan-uhzcre.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T08:04:17.068489+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T09:19:51.509924+00:00"
     },
     {
       "name": "Luxus Experiences Africa",
@@ -247390,10 +247402,13 @@
     {
       "name": "Tiluchi",
       "slug": "polsia-tiluchi",
+      "description": "Agencia de IA conversacional para negocios locales en LATAM. Automatizamos atención, reservas y ventas por WhatsApp Business, en español y con tono local.",
+      "description_fr": "Agence de conversation pour les entreprises locales en LATAM. Nous automatisons notre attention, nos réserves et nos ventes pour WhatsApp Business, en espagnol et avec le ton local.",
+      "category": "Other",
       "website": "https://tiluchi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T08:04:39.419732+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T09:19:58.556029+00:00"
     },
     {
       "name": "Mensol",
@@ -247405,6 +247420,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-14T08:06:56.857927+00:00"
+    },
+    {
+      "name": "Kotwaak",
+      "slug": "polsia-kotwaak",
+      "website": "https://kotwaak.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T09:17:26.205657+00:00"
+    },
+    {
+      "name": "FoundrySpar",
+      "slug": "polsia-foundryspar",
+      "website": "https://foundryspar.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T09:17:31.836919+00:00"
+    },
+    {
+      "name": "Vesswell",
+      "slug": "polsia-vesswell",
+      "website": "https://vesswell.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T09:17:32.782131+00:00"
+    },
+    {
+      "name": "Probeform",
+      "slug": "polsia-probeform",
+      "website": "https://probeform.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T09:17:38.560590+00:00"
+    },
+    {
+      "name": "Tallycast",
+      "slug": "polsia-tallycast-7",
+      "website": "https://tallycast-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T09:17:44.199660+00:00"
+    },
+    {
+      "name": "ClipStudios.ai",
+      "slug": "polsia-clipstudiosai",
+      "description": "ClipStudios.ai bundles 15+ leading AI video models, audio tools, and C2PA-stamped provenance into one EU-hosted, GDPR-native studio subscription from €20/month.",
+      "description_fr": "ClipStudios.ai regroupe plus de 15 modèles vidéo d'IA, outils audio et provenance estampillés C2PA dans un seul abonnement studio hébergé dans l'UE et natif RGPD à partir de 20 €/mois.",
+      "category": "AI & Machine Learning",
+      "website": "https://clipstudiosai.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-14T09:20:33.443851+00:00"
+    },
+    {
+      "name": "Short-Form Content Growth",
+      "slug": "polsia-short-form-content-growth",
+      "website": "https://short-form-content-growth.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T09:17:55.386352+00:00"
+    },
+    {
+      "name": "مَيَازِيب",
+      "slug": "polsia-company-354409",
+      "website": "https://company-354409.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T09:18:01.099949+00:00"
+    },
+    {
+      "name": "Rudoskop",
+      "slug": "polsia-rudoskop",
+      "description": "Diennakts AI aģenti karjeru iekārtām, biržas cenām un ESG normām — vienā aģentu vadītā darbplūsmā ar edge computing.",
+      "description_fr": "Aujourd'hui, l'IA s'intéresse aux normes ESG et s'inscrit dans le cadre de l'informatique de pointe.",
+      "category": "AI & Machine Learning",
+      "website": "https://rudoskop.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-14T09:20:46.502629+00:00"
+    },
+    {
+      "name": "Bailveille",
+      "slug": "polsia-bailveille",
+      "description": "Bailveille est une conciergerie dopée à l'intelligence artificielle, disponible 24h/24 et 7j/7, pensée pour les petits propriétaires bailleurs français en location longue durée.",
+      "description_fr": "Bailveille est une conciergerie dopée à l'intelligence artificielle, disponible 24h/24 et 7j/7, pensée pour les petits propriétaires bailleurs français en localisation longue durée.",
+      "category": "Other",
+      "website": "https://bailveille.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-14T09:20:48.821660+00:00"
     }
   ]
 }
