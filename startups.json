@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T13:38:44.453594+00:00",
+  "last_updated": "2026-08-14T14:38:52.212651+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -246111,10 +246111,13 @@
     {
       "name": "Nightcel",
       "slug": "polsia-nightcel",
+      "description": "Always-on AI dispatch and auto-quoting for commercial repair shops.",
+      "description_fr": "Répartition IA et devis automatique en permanence pour les ateliers de réparation commerciaux.",
+      "category": "AI & Machine Learning",
       "website": "https://nightcel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T17:40:18.781851+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T14:37:17.942938+00:00"
     },
     {
       "name": "Marquesina",
@@ -246141,10 +246144,13 @@
     {
       "name": "Hagglefox",
       "slug": "polsia-hagglefox-3",
+      "description": "Hunts the deal that actually lands lowest at your door.",
+      "description_fr": "Recherche l'offre qui atterrit le plus bas à votre porte.",
+      "category": "Other",
       "website": "https://hagglefox-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-13T17:40:25.866611+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T14:37:19.970384+00:00"
     },
     {
       "name": "Nischgold",
@@ -247372,10 +247378,13 @@
     {
       "name": "Luxus Experiences Africa",
       "slug": "polsia-luxus-experiences-africa",
+      "description": "Bespoke luxury safaris and wellness journeys across Africa and beyond.",
+      "description_fr": "Safaris de luxe sur mesure et voyages de bien-être à travers l'Afrique et au-delà.",
+      "category": "Health & Wellness",
       "website": "https://luxus-experiences-africa.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T08:04:22.706415+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T14:37:47.195298+00:00"
     },
     {
       "name": "Tradehearth",
@@ -247861,10 +247870,13 @@
     {
       "name": "Airport Transportation MN",
       "slug": "polsia-airport-transportation-mn",
+      "description": "24/7 metered taxi service to and from Minneapolis–Saint Paul International Airport (MSP).",
+      "description_fr": "Service de taxi avec compteur 24h/24 et 7j/7 depuis et vers l'aéroport international de Minneapolis-Saint Paul (MSP).",
+      "category": "AI & Machine Learning",
       "website": "https://airport-transportation-mn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T13:35:41.750081+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T14:37:50.238338+00:00"
     },
     {
       "name": "ToasterShooter Gaming",
@@ -247880,18 +247892,24 @@
     {
       "name": "Draftspan",
       "slug": "polsia-draftspan",
+      "description": "From stuck chapter to defended doctorate — in 12 weeks. Dissertation coaching by a civil engineer for All-But-Dissertation PhD candidates.",
+      "description_fr": "Du chapitre bloqué au doctorat soutenu – en 12 semaines. Accompagnement de thèse par un ingénieur civil pour les doctorants All-But-Dissertation.",
+      "category": "Education",
       "website": "https://draftspan.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T13:35:58.001787+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T14:37:51.428367+00:00"
     },
     {
       "name": "Quietpost",
       "slug": "polsia-quietpost-4",
+      "description": "Always-on inbox triage. Quiet until a human is required — an AI-operated document intake vault that classifies, redacts, and routes to the right reviewer.",
+      "description_fr": "Triage permanent de la boîte de réception. Silencieux jusqu'à ce qu'un humain soit requis - un coffre-fort de réception de documents géré par l'IA qui classe, rédige et achemine vers le bon réviseur.",
+      "category": "AI & Machine Learning",
       "website": "https://quietpost-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T13:35:59.218981+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T14:37:53.871019+00:00"
     },
     {
       "name": "Fowler's Fast Fit",
@@ -247904,34 +247922,126 @@
     {
       "name": "Alvéos",
       "slug": "polsia-alvos",
+      "description": "L'uniforme des métiers de bouche, plus léger, plus respirant, livré partout. Vêtements professionnels personnalisés, conçus et expédiés depuis l'atelier-stock français.",
+      "description_fr": "L'uniforme des métiers de bouche, plus léger, plus respirant, livré partout. Vêtements personnalisés professionnels, conçus et expédiés depuis l'atelier-stock français.",
+      "category": "Other",
       "website": "https://alvos.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T13:36:05.684501+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T14:37:55.981812+00:00"
     },
     {
       "name": "Storm Cloud Security",
       "slug": "polsia-storm-cloud-security",
+      "description": "Solo cybersecurity consultancy for DoD contractors and federal agencies moving workloads into the cloud — NIST SP 800-37 / 800-53 assessments, ATO packaging, and C-SCRM.",
+      "description_fr": "Conseil solo en cybersécurité pour les sous-traitants du DoD et les agences fédérales déplaçant des charges de travail vers le cloud – évaluations NIST SP 800-37/800-53, packaging ATO et C-SCRM.",
+      "category": "Sales & CRM",
       "website": "https://storm-cloud-security.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T13:36:11.128313+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T14:37:58.111780+00:00"
     },
     {
       "name": "Mossroot",
       "slug": "polsia-mossroot-9",
+      "description": "Find your niche. Ship a micro-SaaS. Stay solo. Mossroot is a launchpad for solo founders turning one workflow observation into a $9–$49/month business that earns from day one.",
+      "description_fr": "Trouvez votre créneau. Expédiez un micro-SaaS. Restez seul. Mossroot est une rampe de lancement pour les fondateurs solo qui transforment une observation de flux de travail en une entreprise de 9 à 49 $/mois qui gagne dès le premier jour.",
+      "category": "Software & SaaS",
       "website": "https://mossroot-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T13:36:16.685442+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-14T14:38:00.171416+00:00"
     },
     {
       "name": "Penumbra",
       "slug": "polsia-penumbra-ibxdei",
+      "description": "An always-on AI studio that drafts your sign’s daily story — across email, video, newsletter, and shipped ritual kits.",
+      "description_fr": "Un studio d'IA toujours actif qui rédige l'histoire quotidienne de votre enseigne – par courrier électronique, vidéo, newsletter et kits rituels expédiés.",
+      "category": "AI & Machine Learning",
       "website": "https://penumbra-ibxdei.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-14T14:38:01.685045+00:00"
+    },
+    {
+      "name": "Yakka",
+      "slug": "polsia-yakka",
+      "website": "https://yakka.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-14T13:36:22.116999+00:00"
+      "scraped_at": "2026-08-14T14:36:30.483044+00:00"
+    },
+    {
+      "name": "Velocura",
+      "slug": "polsia-velocura-5",
+      "website": "https://velocura-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T14:36:31.368502+00:00"
+    },
+    {
+      "name": "Skedwright",
+      "slug": "polsia-skedwright-2",
+      "website": "https://skedwright-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T14:36:32.293532+00:00"
+    },
+    {
+      "name": "Pumpvault",
+      "slug": "polsia-pumpvault",
+      "website": "https://pumpvault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T14:36:33.091999+00:00"
+    },
+    {
+      "name": "Auricline",
+      "slug": "polsia-auricline",
+      "website": "https://auricline.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T14:36:34.174340+00:00"
+    },
+    {
+      "name": "Tradewake",
+      "slug": "polsia-tradewake-0c1bdl",
+      "website": "https://tradewake-0c1bdl.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T14:36:34.855527+00:00"
+    },
+    {
+      "name": "Veloura Mane",
+      "slug": "polsia-veloura-mane",
+      "website": "https://veloura-mane.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T14:36:35.868242+00:00"
+    },
+    {
+      "name": "Plumbhour",
+      "slug": "polsia-plumbhour-2",
+      "website": "https://plumbhour-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T14:36:41.744664+00:00"
+    },
+    {
+      "name": "Wattgraf",
+      "slug": "polsia-wattgraf",
+      "website": "https://wattgraf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T14:36:42.720962+00:00"
+    },
+    {
+      "name": "Snagwright",
+      "slug": "polsia-snagwright",
+      "website": "https://snagwright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-14T14:36:43.557982+00:00"
     }
   ]
 }
