@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T20:17:12.778319+00:00",
+  "last_updated": "2026-08-15T20:45:32.503832+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -253894,50 +253894,68 @@
     {
       "name": "Keybearer",
       "slug": "polsia-keybearer",
+      "description": "Your 24/7 short-term rental operations team. Watches guest messages, reprices nightly, routes turnovers, files occupancy tax, and triages maintenance — so your listings run themselves.",
+      "description_fr": "Votre équipe d'opérations de location courte durée 24h/24 et 7j/7. Surveille les messages des clients, retarifie tous les soirs, achemine les chiffres d'affaires, dépose les taxes de séjour et trie la maintenance - afin que vos annonces fonctionnent toutes seules.",
+      "category": "Travel & Hospitality",
       "website": "https://keybearer.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T20:13:35.744812+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T20:44:15.302698+00:00"
     },
     {
       "name": "Razgovoroteka",
       "slug": "polsia-razgovoroteka",
+      "description": "Donorska platforma za psihoedukativnu knjigu „Deset razgovora\" — Natko Gereš, hrvatski psihijatar i psihoanalitički psihoterapeut u edukaciji. Pretvorite donaciju u razgovor koji liječi.",
+      "description_fr": "Donorska platforma za psihoedukativnu knjigu « Deset razgovora » — Natko Gereš, hrvatski psihijatar et psihoanalitički psihoterapeut u edukaciji. Pretvorite donaciju u razgovor koji liječi.",
+      "category": "Software & SaaS",
       "website": "https://razgovoroteka.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T20:13:36.670649+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T20:44:17.894974+00:00"
     },
     {
       "name": "Knopfwerk",
       "slug": "polsia-knopfwerk",
+      "description": "One-Pager für Schweizer KMU, die Anrufe bringen — nicht nur Klicks.",
+      "description_fr": "One-Pager pour le KMU suisse, l'Anrufe apporte — pas de clics.",
+      "category": "Other",
       "website": "https://knopfwerk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T20:13:37.633378+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T20:44:19.340038+00:00"
     },
     {
       "name": "Steeplework",
       "slug": "polsia-steeplework",
+      "description": "Always-on AI marketing agents for higher education teams. End-to-end social, paid, and analytics — without the firefighting.",
+      "description_fr": "Agents marketing IA toujours disponibles pour les équipes de l'enseignement supérieur. Réseaux sociaux, payants et analytiques de bout en bout, sans lutte contre les incendies.",
+      "category": "AI & Machine Learning",
       "website": "https://steeplework.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T20:13:43.427694+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T20:44:20.861423+00:00"
     },
     {
       "name": "Pinrail",
       "slug": "polsia-pinrail",
+      "description": "Always-on AI oversight for Navy and USMC program execution. Pinrail streams telemetry from SAP, S/4HANA and the ERP systems behind NAVSUP, NAVAIR, NAVSEA, NAVWAR, ONR, SSP and BUMED — carrying the audit trail a DCAA reviewer or Marine Corps financial audit expects.",
+      "description_fr": "Surveillance permanente de l'IA pour l'exécution des programmes de la Marine et de l'USMC. Pinrail diffuse la télémétrie de SAP, S/4HANA et des systèmes ERP derrière NAVSUP, NAVAIR, NAVSEA, NAVWAR, ONR, SSP et BUMED – transportant la piste d'audit attendue par un réviseur de la DCAA ou un audit financier du Corps des Marines.",
+      "category": "AI & Machine Learning",
       "website": "https://pinrail.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T20:13:49.086782+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T20:44:22.082664+00:00"
     },
     {
       "name": "Hexmark",
       "slug": "polsia-hexmark-5",
+      "description": "Continuous dark-web and repo exposure defense, ranked and ready to remediate. Autonomous agents hunt leaked credentials, stolen cookies, and hard-coded secrets around the clock.",
+      "description_fr": "Défense continue contre l'exposition au dark web et aux repo, classée et prête à être corrigée. Les agents autonomes traquent les identifiants divulgués, les cookies volés et les secrets codés en dur 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://hexmark-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T20:13:50.020353+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T20:44:23.753879+00:00"
     },
     {
       "name": "hug",
@@ -253953,26 +253971,118 @@
     {
       "name": "Driftr",
       "slug": "polsia-driftr",
+      "description": "Driftr runs a no-login money audit from your CSV, PDF statement, screenshots or pasted transactions — and shows you exactly where your money is drifting off.",
+      "description_fr": "Driftr effectue un audit financier sans connexion à partir de votre relevé CSV, PDF, captures d'écran ou transactions collées – et vous montre exactement où votre argent dérive.",
+      "category": "Other",
       "website": "https://driftr.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T20:14:01.374701+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T20:44:25.953862+00:00"
     },
     {
       "name": "Misewright",
       "slug": "polsia-misewright-5",
+      "description": "Misewright is the always-on operations agent for independent restaurants and cafés — watching supplier prices, demand, and weather, then re-pricing menus, re-ordering ingredients, and negotiating with vendors on your behalf.",
+      "description_fr": "Misewright est l'agent opérationnel permanent des restaurants et cafés indépendants : il surveille les prix des fournisseurs, la demande et la météo, puis révise les prix des menus, commande à nouveau les ingrédients et négocie avec les fournisseurs en votre nom.",
+      "category": "Food & Beverage",
       "website": "https://misewright-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T20:14:06.995672+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T20:44:28.089569+00:00"
     },
     {
       "name": "Howlback",
       "slug": "polsia-howlback",
+      "description": "Howlback is the AI receptionist that recovers lost jobs from missed calls. Texts the caller back, qualifies the lead, books the appointment, and hounds them until they engage. Built for HVAC, plumbing, roofing, legal, dental, and home-service shops.",
+      "description_fr": "Howlback est la réceptionniste IA qui récupère les emplois perdus suite aux appels manqués. Envoie un SMS à l'appelant, qualifie le prospect, prend rendez-vous et le traque jusqu'à ce qu'il s'engage. Conçu pour les ateliers de CVC, de plomberie, de toiture, juridiques, dentaires et de services à domicile.",
+      "category": "AI & Machine Learning",
       "website": "https://howlback.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T20:44:29.414026+00:00"
+    },
+    {
+      "name": "Cryoroll",
+      "slug": "polsia-cryoroll",
+      "website": "https://cryoroll.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-15T20:14:12.563005+00:00"
+      "scraped_at": "2026-08-15T20:41:46.559230+00:00"
+    },
+    {
+      "name": "Tandora",
+      "slug": "polsia-tandora",
+      "website": "https://tandora.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T20:41:47.328134+00:00"
+    },
+    {
+      "name": "Klipsmed",
+      "slug": "polsia-klipsmed",
+      "website": "https://klipsmed.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T20:41:48.098991+00:00"
+    },
+    {
+      "name": "LoteVivo",
+      "slug": "polsia-lotevivo",
+      "website": "https://lotevivo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T20:41:49.011480+00:00"
+    },
+    {
+      "name": "Cairn",
+      "slug": "polsia-cairn-36ana5",
+      "website": "https://cairn-36ana5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T20:41:49.778302+00:00"
+    },
+    {
+      "name": "Tendercraft",
+      "slug": "polsia-tendercraft-10",
+      "website": "https://tendercraft-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T20:42:00.270474+00:00"
+    },
+    {
+      "name": "SimpleMoney.studio",
+      "slug": "polsia-simplemoneystudio",
+      "description": "Simple money tools for real life. Printable and digital planners designed to help you budget, pay down debt, and organize your bills — without complicated software.",
+      "description_fr": "Des outils financiers simples pour la vraie vie. Planificateurs imprimables et numériques conçus pour vous aider à établir votre budget, à rembourser vos dettes et à organiser vos factures, sans logiciel compliqué.",
+      "category": "Software & SaaS",
+      "website": "https://simplemoneystudio.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T20:45:10.037898+00:00"
+    },
+    {
+      "name": "Foxglove Atlas",
+      "slug": "polsia-foxglove-atlas",
+      "website": "https://foxglove-atlas.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T20:42:11.397013+00:00"
+    },
+    {
+      "name": "TradeCatch",
+      "slug": "polsia-tradecatch",
+      "website": "https://tradecatch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T20:42:12.145575+00:00"
+    },
+    {
+      "name": "Klippørn",
+      "slug": "polsia-klipprn",
+      "website": "https://klipprn.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T20:42:22.541103+00:00"
     }
   ]
 }
