@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T17:32:39.163715+00:00",
+  "last_updated": "2026-08-15T17:54:10.635146+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -253139,26 +253139,35 @@
     {
       "name": "The Roughneck Room",
       "slug": "polsia-the-roughneck-room",
+      "description": "Dickinson's first dedicated adult-entertainment venue — built for the Bakken oilfield, ag operators, and the Stark County shift.",
+      "description_fr": "Le premier lieu de divertissement pour adultes de Dickinson, construit pour le champ pétrolifère de Bakken, les exploitants agricoles et l'équipe du comté de Stark.",
+      "category": "Entertainment & Media",
       "website": "https://the-roughneck-room.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T17:29:17.239318+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T17:52:49.874495+00:00"
     },
     {
       "name": "Wardpaw",
       "slug": "polsia-wardpaw",
+      "description": "Wardpaw is the 24/7 AI copilot that keeps patients, prescriptions, and par levels in sync for modern veterinary clinics.",
+      "description_fr": "Wardpaw est le copilote d'IA 24h/24 et 7j/7 qui synchronise les patients, les ordonnances et les niveaux par pour les cliniques vétérinaires modernes.",
+      "category": "AI & Machine Learning",
       "website": "https://wardpaw.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T17:29:21.402645+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T17:52:51.357767+00:00"
     },
     {
       "name": "Monomark",
       "slug": "polsia-monomark",
+      "description": "Plataforma de agentes IA que conecta oferta de residuos PET con plantas de reciclaje molecular 24/7, con matching por composición, pureza NIR y cumplimiento EFSA.",
+      "description_fr": "Plateforme d'agents IA qui connecte une offre de résidus PET avec des plantes de recyclage moléculaire 24h/24 et 7j/7, avec correspondance par composition, purement NIR et complétée par l'EFSA.",
+      "category": "Other",
       "website": "https://monomark.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T17:29:22.161707+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T17:52:53.972699+00:00"
     },
     {
       "name": "Nomofylax",
@@ -253171,10 +253180,13 @@
     {
       "name": "Borvio",
       "slug": "polsia-borvio",
+      "description": "Borvio is the always-on AI receptionist for local service businesses — answers every channel, books the job, and follows up around the clock. Built for non-technical owners.",
+      "description_fr": "Borvio est le réceptionniste IA permanent pour les entreprises de services locales : il répond à tous les canaux, réserve le travail et assure le suivi 24 heures sur 24. Conçu pour les propriétaires non techniques.",
+      "category": "AI & Machine Learning",
       "website": "https://borvio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T17:29:28.640501+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T17:52:55.914693+00:00"
     },
     {
       "name": "The LeadsLab",
@@ -253190,10 +253202,13 @@
     {
       "name": "Itervia",
       "slug": "polsia-itervia",
+      "description": "Itervia trasforma le pratiche amministrative italiane — permesso di soggiorno, ISEE, SPID, cittadinanza, partita IVA — in checklist interattive con documenti, tempi, costi e scadenze, in italiano, inglese, portoghese, spagnolo e francese.",
+      "description_fr": "Itervia transforme la pratique administrative italienne — permis de séjour, ISEE, SPID, cittadinanza, partita IVA — en liste de contrôle interactive avec les documents, les délais, les coûts et les échelles, en italien, anglais, portugais, espagnol et français.",
+      "category": "Other",
       "website": "https://itervia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T17:29:35.008819+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T17:52:57.637708+00:00"
     },
     {
       "name": "Orbite",
@@ -253209,10 +253224,13 @@
     {
       "name": "Ankori",
       "slug": "polsia-ankori",
+      "description": "Ankori is je persoonlijke AI-assistent die al je digitale administratie automatisch samenbrengt in één rustig dashboard — abonnementen, facturen, contracten en meer.",
+      "description_fr": "Ankori est une personne assistée par l'IA de l'administration numérique automatiquement intégrée dans un tableau de bord rustique — abonnement, fabrication, contrat et plus.",
+      "category": "Software & SaaS",
       "website": "https://ankori.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T17:29:46.369400+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T17:52:59.445999+00:00"
     },
     {
       "name": "Reelmith",
@@ -253224,6 +253242,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-15T17:32:39.162678+00:00"
+    },
+    {
+      "name": "Timetrica SRL",
+      "slug": "polsia-timetrica-srl",
+      "website": "https://timetrica-srl.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T17:50:32.841923+00:00"
+    },
+    {
+      "name": "Schlüsselweg",
+      "slug": "polsia-schlsselweg",
+      "website": "https://schlsselweg.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T17:50:33.730351+00:00"
+    },
+    {
+      "name": "OpsGida",
+      "slug": "polsia-opsgida",
+      "website": "https://opsgida.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T17:50:34.541844+00:00"
+    },
+    {
+      "name": "Bricoton",
+      "slug": "polsia-bricoton",
+      "website": "https://bricoton.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T17:50:35.489559+00:00"
+    },
+    {
+      "name": "CoilCatch",
+      "slug": "polsia-coilcatch-2",
+      "website": "https://coilcatch-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T17:50:41.265352+00:00"
+    },
+    {
+      "name": "Bondwright",
+      "slug": "polsia-bondwright-7",
+      "website": "https://bondwright-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T17:50:51.860161+00:00"
+    },
+    {
+      "name": "Caseweave",
+      "slug": "polsia-caseweave-2",
+      "website": "https://caseweave-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T17:50:57.405922+00:00"
+    },
+    {
+      "name": "Steadward",
+      "slug": "polsia-steadward-uv1ew5",
+      "website": "https://steadward-uv1ew5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T17:50:58.328381+00:00"
+    },
+    {
+      "name": "Ternel",
+      "slug": "polsia-ternel",
+      "website": "https://ternel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T17:51:09.012817+00:00"
+    },
+    {
+      "name": "Plait",
+      "slug": "polsia-plait-5",
+      "website": "https://plait-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T17:51:14.763114+00:00"
     }
   ]
 }
