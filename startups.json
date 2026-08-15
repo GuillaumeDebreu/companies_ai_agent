@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T19:13:56.032051+00:00",
+  "last_updated": "2026-08-15T19:38:44.804663+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -253575,42 +253575,57 @@
     {
       "name": "Korelia",
       "slug": "polsia-korelia",
+      "description": "Agence web autonome pour PME — du pixel au patch, par des agents IA. Forfait mensuel, conformité RGPD, rapport hebdomadaire.",
+      "description_fr": "Agence web autonome pour PME — du pixel au patch, par des agents IA. Forfait mensuel, conformité RGPD, rapport hebdomadaire.",
+      "category": "Other",
       "website": "https://korelia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T19:10:43.597264+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:37:38.789742+00:00"
     },
     {
       "name": "Funkenflug",
       "slug": "polsia-funkenflug",
+      "description": "Autonome Marketing-Agenten, die Trends greifen, posten, antworten und reporten – rund um die Uhr.",
+      "description_fr": "Agents de marketing autonomes qui étudient les tendances, publient des messages, répondent et publient des rapports – et les joignent à la montre.",
+      "category": "Marketing & Advertising",
       "website": "https://funkenflug.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T19:10:49.205980+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:37:40.352417+00:00"
     },
     {
       "name": "Sakeon",
       "slug": "polsia-sakeon",
+      "description": "AI orchestration for sovereign cyber exposure management. Unifying CTEM, AEV and CRQ inside one self-hosted operating model with a human-approval gate.",
+      "description_fr": "Orchestration de l’IA pour la gestion de la cyber-exposition souveraine. Unification de CTEM, AEV et CRQ dans un modèle opérationnel auto-hébergé avec une porte d'approbation humaine.",
+      "category": "AI & Machine Learning",
       "website": "https://sakeon.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T19:10:54.865446+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:37:41.486341+00:00"
     },
     {
       "name": "Cutnova",
       "slug": "polsia-cutnova",
+      "description": "Always-on AI agent for concrete cutting contractors. Cuts RFQs into bids at takeoff-accurate prices, dispatches crews, and tracks every blade hour until the cut is done.",
+      "description_fr": "Agent IA toujours actif pour les entrepreneurs en découpe de béton. Coupe les appels d'offres en offres à des prix précis au décollage, répartit les équipages et suit chaque heure de lame jusqu'à ce que la coupe soit terminée.",
+      "category": "AI & Machine Learning",
       "website": "https://cutnova.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T19:11:00.401084+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:37:43.308118+00:00"
     },
     {
       "name": "Halecraft",
       "slug": "polsia-halecraft-2",
+      "description": "Always-current HIPAA documentation for independent small practices. Policies, training, BAA files, and audit-ready evidence — kept current as the rules shift.",
+      "description_fr": "Documentation HIPAA toujours à jour pour les petits cabinets indépendants. Politiques, formations, dossiers BAA et preuves prêtes à être auditées – tenus à jour à mesure que les règles évoluent.",
+      "category": "Education",
       "website": "https://halecraft-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T19:11:06.101660+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:37:44.649490+00:00"
     },
     {
       "name": "Quicio",
@@ -253626,10 +253641,13 @@
     {
       "name": "Stillfox",
       "slug": "polsia-stillfox-2",
+      "description": "Autonomous repo ops for solo devs. Stillfox watches every dependency update, security advisory, and CI failure — then opens a focused, review-ready pull request with the fix and a Slack-ready blurb.",
+      "description_fr": "Opérations de dépôt autonomes pour les développeurs solo. Stillfox surveille chaque mise à jour de dépendance, avis de sécurité et échec de CI, puis ouvre une demande d'extraction ciblée et prête à être révisée avec le correctif et un texte de présentation prêt pour Slack.",
+      "category": "Other",
       "website": "https://stillfox-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T19:11:17.344721+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:37:46.733154+00:00"
     },
     {
       "name": "Cumbrera Atlas",
@@ -253652,6 +253670,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-15T19:11:24.866217+00:00"
+    },
+    {
+      "name": "PandillaPixel",
+      "slug": "polsia-pandillapixel",
+      "website": "https://pandillapixel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:34:43.962004+00:00"
+    },
+    {
+      "name": "Vertrim",
+      "slug": "polsia-vertrim",
+      "website": "https://vertrim.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:34:48.305842+00:00"
+    },
+    {
+      "name": "BoVagt",
+      "slug": "polsia-bovagt",
+      "website": "https://bovagt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:34:59.880547+00:00"
+    },
+    {
+      "name": "Jobfangst",
+      "slug": "polsia-jobfangst",
+      "website": "https://jobfangst.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:35:00.804593+00:00"
+    },
+    {
+      "name": "Tampify AI",
+      "slug": "polsia-tampify-ai",
+      "website": "https://tampify-ai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:35:12.089575+00:00"
+    },
+    {
+      "name": "Gavelog",
+      "slug": "polsia-gavelog",
+      "website": "https://gavelog.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:35:17.884290+00:00"
+    },
+    {
+      "name": "Sleeveboard",
+      "slug": "polsia-sleeveboard",
+      "description": "Your recruiting desk, briefed every morning. Sleeveboard scans 800M+ profiles overnight and delivers a ranked shortlist with fit reasoning to each hiring manager before 9am.",
+      "description_fr": "Votre bureau de recrutement, briefé chaque matin. Sleeveboard analyse plus de 800 millions de profils pendant la nuit et fournit une liste restreinte classée avec un raisonnement approprié à chaque responsable du recrutement avant 9 heures du matin.",
+      "category": "Other",
+      "website": "https://sleeveboard.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T19:38:32.317661+00:00"
+    },
+    {
+      "name": "Hushwright",
+      "slug": "polsia-hushwright-5",
+      "website": "https://hushwright-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:35:29.451619+00:00"
+    },
+    {
+      "name": "Bidonaut",
+      "slug": "polsia-bidonaut",
+      "website": "https://bidonaut.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:35:35.058137+00:00"
+    },
+    {
+      "name": "Drinks FM",
+      "slug": "polsia-drinks-fm",
+      "description": "Mobiele cocktailcatering en workshops aan huis in Flevoland — van complete barervaring tot interactieve proeverij, bij jou op locatie.",
+      "description_fr": "Cocktails et ateliers mobiles dans une maison du Flevoland — un service complet de services interactifs, disponible sur place.",
+      "category": "E-Commerce & Retail",
+      "website": "https://drinks-fm.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T19:38:44.803673+00:00"
     }
   ]
 }
