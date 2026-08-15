@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T18:51:58.408662+00:00",
+  "last_updated": "2026-08-15T19:13:56.032051+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -253452,42 +253452,57 @@
     {
       "name": "Stayscope",
       "slug": "polsia-stayscope-2",
+      "description": "Hospitality audits and OTA pricing intelligence for hotel operators. Property Improvement Plans, mystery-shopper inspections, and live rate-parity monitoring — one platform from the inspector to the board.",
+      "description_fr": "Audits hôteliers et veille tarifaire OTA pour les hôteliers. Plans d'amélioration immobilière, inspections de clients mystères et surveillance en direct de la parité des taux : une plate-forme de l'inspecteur au conseil d'administration.",
+      "category": "Travel & Hospitality",
       "website": "https://stayscope-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T18:12:43.525419+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:12:52.275251+00:00"
     },
     {
       "name": "Vendaria",
       "slug": "polsia-vendaria-4",
+      "description": "Convierte cada consulta en una cita agendada, 24/7 y en cada canal. Vendaria es la recepcionista con IA para clínicas dentales y estéticas hispanas en Estados Unidos.",
+      "description_fr": "Passez chaque consultation dans une ville agendada, 24h/24 et 7j/7 et sur chaque canal. Vendaria est la réceptionniste de l'IA pour les cliniques dentaires et esthétiques hispaniques aux États-Unis.",
+      "category": "Other",
       "website": "https://vendaria-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T18:48:39.335387+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:12:54.428613+00:00"
     },
     {
       "name": "The Only Voxx",
       "slug": "polsia-the-only-voxx",
+      "description": "Human-written songs and AI-voiced performances for storytellers, filmmakers and independent artists. Every track written and produced by founder Lionell \"Mr. Lomax\" Lomax.",
+      "description_fr": "Chansons écrites par des humains et performances vocales de l'IA pour conteurs, cinéastes et artistes indépendants. Chaque morceau est écrit et produit par le fondateur Lionell \"Mr. Lomax\" Lomax.",
+      "category": "AI & Machine Learning",
       "website": "https://the-only-voxx.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T18:48:40.160262+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:12:55.246244+00:00"
     },
     {
       "name": "Relayduct",
       "slug": "polsia-relayduct",
+      "description": "Relayduct is the 24/7 lead-recovery and conversion platform built for small and mid-size HVAC companies that lose revenue to slow response times, missed calls, and unanswered web inquiries.",
+      "description_fr": "Relayduct est la plate-forme de récupération et de conversion de leads 24h/24 et 7j/7, conçue pour les petites et moyennes entreprises de CVC qui perdent des revenus en raison du ralentissement des temps de réponse, des appels manqués et des demandes Web sans réponse.",
+      "category": "Software & SaaS",
       "website": "https://relayduct.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T18:48:40.944894+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:12:56.936875+00:00"
     },
     {
-      "name": "Pupocarros",
+      "name": "Pupocarros — Miami auto broker",
       "slug": "polsia-pupocarros",
+      "description": "Pre-qualify in minutes, drive home in the right car. South Florida's trusted vehicle broker for Spanish-speaking buyers.",
+      "description_fr": "Pré-qualifiez-vous en quelques minutes, rentrez chez vous dans la bonne voiture. Le courtier automobile de confiance du sud de la Floride pour les acheteurs hispanophones.",
+      "category": "Other",
       "website": "https://pupocarros.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T18:48:46.473047+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:12:58.230242+00:00"
     },
     {
       "name": "Hilltree Creative",
@@ -253500,10 +253515,13 @@
     {
       "name": "Shoplore",
       "slug": "polsia-shoplore",
+      "description": "Shoplore is an AI floor manager that answers every factory question in plain English — connecting to your MES, SCADA, PLCs, IIoT sensors, CMMS and plant cameras in one conversational copilot.",
+      "description_fr": "Shoplore est un gestionnaire d'étage IA qui répond à toutes les questions de l'usine dans un anglais simple — en se connectant à vos MES, SCADA, API, capteurs IIoT, GMAO et caméras d'usine dans un seul copilote conversationnel.",
+      "category": "AI & Machine Learning",
       "website": "https://shoplore.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T18:48:57.737503+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:13:04.868221+00:00"
     },
     {
       "name": "Pressstand",
@@ -253516,26 +253534,124 @@
     {
       "name": "Sabrepost",
       "slug": "polsia-sabrepost",
+      "description": "Sabrepost is the AI-native publishing platform that drafts, ships, and improves your landing page on its own — priced for small businesses, not enterprises.",
+      "description_fr": "Sabrepost est la plate-forme de publication native d'IA qui rédige, expédie et améliore elle-même votre page de destination, à un prix adapté aux petites entreprises et non aux grandes entreprises.",
+      "category": "Software & SaaS",
       "website": "https://sabrepost.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T18:48:59.376004+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:13:11.408092+00:00"
     },
     {
       "name": "Tinkloom",
       "slug": "polsia-tinkloom",
+      "description": "Autonomous dropshipping, from trending sound to delivered order.",
+      "description_fr": "Dropshipping autonome, du son de tendance à la commande livrée.",
+      "category": "Logistics & Supply Chain",
       "website": "https://tinkloom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T18:49:00.173495+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T19:13:12.746063+00:00"
     },
     {
       "name": "Toolpost",
       "slug": "polsia-toolpost-2",
+      "description": "Always-on AI operations crew that watches your RS-485 and Modbus sensor networks, flags drift, files work orders, and reorders parts — for the mixed-vintage industrial shop.",
+      "description_fr": "Une équipe d'opérations d'IA toujours active qui surveille vos réseaux de capteurs RS-485 et Modbus, signale la dérive, classe les bons de travail et réordonne les pièces – pour l'atelier industriel mixte.",
+      "category": "AI & Machine Learning",
       "website": "https://toolpost-2.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T19:13:15.155999+00:00"
+    },
+    {
+      "name": "Foundless",
+      "slug": "polsia-foundless",
+      "website": "https://foundless.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-15T18:49:05.867597+00:00"
+      "scraped_at": "2026-08-15T19:10:38.129204+00:00"
+    },
+    {
+      "name": "Korelia",
+      "slug": "polsia-korelia",
+      "website": "https://korelia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:10:43.597264+00:00"
+    },
+    {
+      "name": "Funkenflug",
+      "slug": "polsia-funkenflug",
+      "website": "https://funkenflug.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:10:49.205980+00:00"
+    },
+    {
+      "name": "Sakeon",
+      "slug": "polsia-sakeon",
+      "website": "https://sakeon.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:10:54.865446+00:00"
+    },
+    {
+      "name": "Cutnova",
+      "slug": "polsia-cutnova",
+      "website": "https://cutnova.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:11:00.401084+00:00"
+    },
+    {
+      "name": "Halecraft",
+      "slug": "polsia-halecraft-2",
+      "website": "https://halecraft-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:11:06.101660+00:00"
+    },
+    {
+      "name": "Quicio",
+      "slug": "polsia-quicio-4",
+      "description": "Spain reimagined — cinematic transformations, relocation vlogs, and a no-fluff take on Spanish real estate, in one channel.",
+      "description_fr": "L'Espagne réinventée : transformations cinématographiques, vlogs de délocalisation et vision sans fioritures de l'immobilier espagnol, sur une seule chaîne.",
+      "category": "Real Estate",
+      "website": "https://quicio-4.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T19:13:48.819122+00:00"
+    },
+    {
+      "name": "Stillfox",
+      "slug": "polsia-stillfox-2",
+      "website": "https://stillfox-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T19:11:17.344721+00:00"
+    },
+    {
+      "name": "Cumbrera Atlas",
+      "slug": "polsia-cumbrera-atlas",
+      "description": "Mantenimiento preventivo residencial de techos y exteriores. Tres paquetes recurrentes con procesos estandarizados y reporte fotográfico documentado.",
+      "description_fr": "Entretien préventif résidentiel de techniques et extérieurs. Trois paquets récurrents avec des processus standardisés et un rapport photographique documenté.",
+      "category": "Real Estate",
+      "website": "https://cumbrera-atlas.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T19:13:56.030920+00:00"
+    },
+    {
+      "name": "Plumbkey",
+      "slug": "polsia-plumbkey-2",
+      "description": "Plumbkey buys homes directly from motivated sellers in all 50 states — foreclosure, probate, code violations, and tired landlords. A clean cash offer within days.",
+      "description_fr": "Plumbkey achète des maisons directement auprès de vendeurs motivés dans les 50 États : saisies immobilières, homologation, violations du code et propriétaires fatigués. Une offre en espèces propre en quelques jours.",
+      "category": "Real Estate",
+      "website": "https://plumbkey-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T19:11:24.866217+00:00"
     }
   ]
 }
