@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T05:37:35.092141+00:00",
+  "last_updated": "2026-08-15T05:59:54.163754+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -250350,10 +250350,13 @@
     {
       "name": "Catenix",
       "slug": "polsia-catenix",
+      "description": "AI-driven reliability for chemical-processing plants that can't afford to stop. Catenix turns vibration, temperature, and pressure data into plain-English risk scores, root-cause hypotheses, and OSHA PSM / EPA RMP-compliant reports.",
+      "description_fr": "Fiabilité basée sur l'IA pour les usines de transformation chimique qui ne peuvent pas se permettre de s'arrêter. Catenix transforme les données de vibrations, de température et de pression en scores de risque, en hypothèses de causes profondes et en rapports conformes aux RMP OSHA PSM/EPA.",
+      "category": "AI & Machine Learning",
       "website": "https://catenix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T05:35:59.133778+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T05:59:29.422329+00:00"
     },
     {
       "name": "Element 78Legacy",
@@ -250366,34 +250369,46 @@
     {
       "name": "HaloSignal",
       "slug": "polsia-halosignal",
+      "description": "Always-on AI ad ops for Shopify DTC brands — minus the agency retainer. Meta + Google, human-reviewed creative, founder-readable weekly reporting.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://halosignal.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T05:36:00.496598+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T05:59:30.830705+00:00"
     },
     {
       "name": "Trailmesh",
       "slug": "polsia-trailmesh",
+      "description": "Tap. Route. Mint. Repeat.",
+      "description_fr": "Robinet. Itinéraire. Menthe. Répéter.",
+      "category": "Other",
       "website": "https://trailmesh.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T05:36:01.308596+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T05:59:31.283190+00:00"
     },
     {
       "name": "Stoatwise",
       "slug": "polsia-stoatwise-3",
+      "description": "Always-on pipeline patrol that learns your playbook — auto-enriches stale CRM records, drafts follow-ups in your team’s voice, and pings the right rep the moment a prospect goes cold.",
+      "description_fr": "Patrouille de pipeline toujours active qui apprend votre manuel de jeu : enrichit automatiquement les enregistrements CRM obsolètes, rédige les suivis avec la voix de votre équipe et envoie un ping au bon représentant dès qu'un prospect devient froid.",
+      "category": "Sales & CRM",
       "website": "https://stoatwise-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T05:36:01.960060+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T05:59:32.820171+00:00"
     },
     {
       "name": "Claimcadence",
       "slug": "polsia-claimcadence",
+      "description": "Photo-scoped FNOL, auto-routed adjusters, carrier-ready daily briefs. AI-native claims triage and field-inspection coordination for property carriers.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://claimcadence.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T05:36:02.980560+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T05:59:33.703302+00:00"
     },
     {
       "name": "Crewyard",
@@ -250414,18 +250429,104 @@
     {
       "name": "Lunchyard",
       "slug": "polsia-lunchyard",
+      "description": "The social home for food trucks — community, creator profiles, event coordination and QR ordering, all in one mobile-first feed.",
+      "description_fr": "Le foyer social pour les food trucks : communauté, profils de créateurs, coordination d'événements et commande QR, le tout dans un seul flux mobile.",
+      "category": "Social & Community",
       "website": "https://lunchyard.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T05:36:05.091081+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T05:59:41.749477+00:00"
     },
     {
       "name": "Kurrawara",
       "slug": "polsia-kurrawara",
+      "description": "Always-on AI care, co-designed with community for remote Aboriginal health.",
+      "description_fr": "Des soins d'IA toujours actifs, conçus conjointement avec la communauté pour la santé des Autochtones éloignés.",
+      "category": "AI & Machine Learning",
       "website": "https://kurrawara.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T05:59:42.951336+00:00"
+    },
+    {
+      "name": "Starting Blokk",
+      "slug": "polsia-starting-blokk",
+      "website": "https://starting-blokk.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-15T05:36:05.762062+00:00"
+      "scraped_at": "2026-08-15T05:58:17.550607+00:00"
+    },
+    {
+      "name": "Dockwurk",
+      "slug": "polsia-dockwurk",
+      "website": "https://dockwurk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T05:58:18.295147+00:00"
+    },
+    {
+      "name": "Puentela",
+      "slug": "polsia-puentela",
+      "website": "https://puentela.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T05:58:18.886915+00:00"
+    },
+    {
+      "name": "Letlotlo",
+      "slug": "polsia-letlotlo",
+      "website": "https://letlotlo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T05:58:19.559024+00:00"
+    },
+    {
+      "name": "Stooplit",
+      "slug": "polsia-stooplit-2",
+      "website": "https://stooplit-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T05:58:20.203226+00:00"
+    },
+    {
+      "name": "Stogéo",
+      "slug": "polsia-stogo",
+      "website": "https://stogo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T05:58:20.952544+00:00"
+    },
+    {
+      "name": "Rencong",
+      "slug": "polsia-rencong",
+      "website": "https://rencong.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T05:58:21.556324+00:00"
+    },
+    {
+      "name": "Cofferkin",
+      "slug": "polsia-cofferkin",
+      "website": "https://cofferkin.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T05:58:22.250103+00:00"
+    },
+    {
+      "name": "Anchorpost",
+      "slug": "polsia-anchorpost-iih42j",
+      "website": "https://anchorpost-iih42j.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T05:58:23.060035+00:00"
+    },
+    {
+      "name": "Headwater",
+      "slug": "polsia-headwater-9eoijx",
+      "website": "https://headwater-9eoijx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T05:58:24.021392+00:00"
     }
   ]
 }
