@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T21:32:24.894819+00:00",
+  "last_updated": "2026-08-15T21:52:36.698634+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -254221,66 +254221,90 @@
     {
       "name": "Rentwrench",
       "slug": "polsia-rentwrench",
+      "description": "Rentwrench is property management for independent landlords running 1–20 units — closing the loop from maintenance request to vendor invoice in one dashboard.",
+      "description_fr": "Rentwrench est une gestion immobilière destinée aux propriétaires indépendants exploitant 1 à 20 logements, bouclant la boucle de la demande de maintenance à la facture du fournisseur dans un seul tableau de bord.",
+      "category": "Real Estate",
       "website": "https://rentwrench.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T21:29:18.241867+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T21:51:26.481424+00:00"
     },
     {
       "name": "PANELFIRE",
       "slug": "polsia-panelfire",
+      "description": "Pick a judge. Take the heat. PANELFIRE turns your selfie, bio, résumé, or text thread into a brutally entertaining verdict card from an AI judge you choose — built to be screenshotted.",
+      "description_fr": "Choisissez un juge. Prenez la chaleur. PANELFIRE transforme votre selfie, votre biographie, votre CV ou votre fil de discussion en une carte de verdict brutalement divertissante d'un juge IA de votre choix, conçue pour être capturée.",
+      "category": "AI & Machine Learning",
       "website": "https://panelfire.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T21:29:19.126989+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T21:51:28.162344+00:00"
     },
     {
       "name": "Orderwright",
       "slug": "polsia-orderwright-2",
+      "description": "Orderwright is the always-on procurement desk for mid-market manufacturers and retailers — autonomous agents that scan suppliers, renegotiate POs, and keep an immutable audit trail around the clock.",
+      "description_fr": "Orderwright est le service d'approvisionnement permanent pour les fabricants et les détaillants du marché intermédiaire : des agents autonomes qui analysent les fournisseurs, renégocient les bons de commande et conservent une piste d'audit immuable 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://orderwright-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T21:29:20.018293+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T21:51:30.360172+00:00"
     },
     {
       "name": "Halo Air",
       "slug": "polsia-halo-air",
+      "description": "Halo Air makes the invisible visible — a rugged AR headset that fuses thermal, EMF, and radar sensing into hands-on electrical diagnostics for the field.",
+      "description_fr": "Halo Air rend l'invisible visible : un casque AR robuste qui fusionne la détection thermique, EMF et radar dans des diagnostics électriques pratiques pour le terrain.",
+      "category": "AI & Machine Learning",
       "website": "https://halo-air.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T21:29:25.551138+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T21:51:31.655134+00:00"
     },
     {
-      "name": "Jarmech's LLC",
+      "name": "Specwright",
       "slug": "polsia-jarmechs-llc",
+      "description": "Specwright is an AI-native proposal engineering platform for industrial, utility, and energy tenders — autonomously drafting bids scored against your catalog, certifications, and the full requirement matrix.",
+      "description_fr": "Specwright est une plateforme d'ingénierie de propositions native d'IA pour les appels d'offres industriels, de services publics et d'énergie — rédigeant de manière autonome des offres évaluées par rapport à votre catalogue, vos certifications et la matrice complète des exigences.",
+      "category": "Software & SaaS",
       "website": "https://jarmechs-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T21:29:26.136762+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T21:51:33.192656+00:00"
     },
     {
       "name": "Veritab",
       "slug": "polsia-veritab",
+      "description": "Audited AI tools, ranked by what they actually deliver.",
+      "description_fr": "Outils d'IA audités, classés en fonction de ce qu'ils fournissent réellement.",
+      "category": "AI & Machine Learning",
       "website": "https://veritab.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T21:29:31.695761+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T21:51:33.878310+00:00"
     },
     {
-      "name": "Klesio",
+      "name": "Klesio — Κανένας πελάτης δεν χάνεται ξανά",
       "slug": "polsia-klesio",
+      "description": "Klesio — ο ψηφιακός υπάλληλος υποδοχής για οδοντιατρεία και μικρές επιχειρήσεις υπηρεσιών. Απαντά, κλείνει και ακολουθεί πελάτες 24/7, στα ελληνικά και αγγλικά.",
+      "description_fr": "Klesio — ο ψηφιακός υπάλληλος υποδοχής για οδοντιατρεία και μικρές επιχερήσεις υπηρεσιών. Il s'agit d'un service 24 heures sur 24, 7 jours sur 7, pour que vous puissiez le faire.",
+      "category": "Other",
       "website": "https://klesio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T21:29:32.230104+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T21:51:35.505563+00:00"
     },
     {
       "name": "Plumbline",
       "slug": "polsia-plumbline-q0a0dl",
+      "description": "The always-on accounts-receivable agent. Watches every invoice, chases every late payment, and keeps the books balanced — for one-person finance teams.",
+      "description_fr": "L'agent des comptes clients toujours disponible. Surveille chaque facture, traque chaque retard de paiement et maintient les comptes en équilibre – pour les équipes financières composées d'une seule personne.",
+      "category": "Finance & Fintech",
       "website": "https://plumbline-q0a0dl.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T21:29:33.743962+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T21:51:37.901386+00:00"
     },
     {
       "name": "Clubly",
@@ -254296,10 +254320,96 @@
     {
       "name": "Rozhodovák",
       "slug": "polsia-rozhodovk",
+      "description": "24/7 AI agent, ktorý nepretržite monitoruje verejné obstarávacie portály v strednej Európe a pomáha stavebným firmám vyhrávať tendre.",
+      "description_fr": "Agent IA 24 heures sur 24, 7 jours sur 7, qui vous permet de surveiller en permanence votre entreprise en Europe et en Europe.",
+      "category": "AI & Machine Learning",
       "website": "https://rozhodovk.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T21:51:39.517801+00:00"
+    },
+    {
+      "name": "Latchkey Stays",
+      "slug": "polsia-latchkey-stays",
+      "website": "https://latchkey-stays.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-15T21:29:50.014538+00:00"
+      "scraped_at": "2026-08-15T21:49:13.746356+00:00"
+    },
+    {
+      "name": "PlantonIA",
+      "slug": "polsia-plantonia",
+      "website": "https://plantonia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T21:49:14.589571+00:00"
+    },
+    {
+      "name": "Plotmark",
+      "slug": "polsia-plotmark-8",
+      "website": "https://plotmark-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T21:49:15.247860+00:00"
+    },
+    {
+      "name": "Foundryfront",
+      "slug": "polsia-foundryfront",
+      "website": "https://foundryfront.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T21:49:16.065938+00:00"
+    },
+    {
+      "name": "Staytally",
+      "slug": "polsia-staytally",
+      "website": "https://staytally.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T21:49:16.778839+00:00"
+    },
+    {
+      "name": "Tryblo",
+      "slug": "polsia-tryblo",
+      "website": "https://tryblo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T21:49:22.397616+00:00"
+    },
+    {
+      "name": "Marketloom",
+      "slug": "polsia-marketloom-3",
+      "website": "https://marketloom-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T21:49:32.989032+00:00"
+    },
+    {
+      "name": "Trovecar",
+      "slug": "polsia-trovecar",
+      "website": "https://trovecar.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T21:49:38.564873+00:00"
+    },
+    {
+      "name": "Cranksmith",
+      "slug": "polsia-cranksmith-6",
+      "description": "Setup-and-automation for the boring work. We install AI-assisted workflows for hotels, restaurants, real estate, clinics, and shops — so you keep running the business.",
+      "description_fr": "Configuration et automatisation pour les travaux ennuyeux. Nous installons des flux de travail assistés par l'IA pour les hôtels, les restaurants, l'immobilier, les cliniques et les magasins, afin que vous puissiez continuer à gérer votre entreprise.",
+      "category": "Productivity & Automation",
+      "website": "https://cranksmith-6.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T21:52:31.076454+00:00"
+    },
+    {
+      "name": "Cuadra Visual",
+      "slug": "polsia-cuadra-visual",
+      "website": "https://cuadra-visual.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T21:49:50.042154+00:00"
     }
   ]
 }
