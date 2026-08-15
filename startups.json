@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T08:51:19.446806+00:00",
+  "last_updated": "2026-08-15T09:15:13.888459+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -250991,34 +250991,46 @@
     {
       "name": "Fynbox",
       "slug": "polsia-fynbox",
+      "description": "A small wonder, every day.",
+      "description_fr": "Une petite merveille, chaque jour.",
+      "category": "Other",
       "website": "https://fynbox.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T08:48:29.903699+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T09:14:11.320471+00:00"
     },
     {
       "name": "Fristfalke",
       "slug": "polsia-fristfalke",
+      "description": "Fristfalke ist ein Always-on-KI-Agent für österreichische EPU und Kleinunternehmen, der Fristen, Behördenpost und Kündigungen rund um die Uhr überwacht und automatisch beantwortet.",
+      "description_fr": "Fristfalke est un agent Always-on-KI pour l'EPU et les petits fournisseurs d'Autriche, le Fristen, le Behördenpost et les Kündigungen qui s'occupent de la surveillance de la montre et du traitement automatique.",
+      "category": "Other",
       "website": "https://fristfalke.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T08:48:30.568836+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T09:14:12.459491+00:00"
     },
     {
       "name": "Tallyfold",
       "slug": "polsia-tallyfold-6",
+      "description": "Four streams. One dashboard. Every dollar.",
+      "description_fr": "Quatre flux. Un tableau de bord. Chaque dollar.",
+      "category": "Software & SaaS",
       "website": "https://tallyfold-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T08:48:36.212952+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T09:14:13.599722+00:00"
     },
     {
       "name": "Crumbcast",
       "slug": "polsia-crumbcast-2",
+      "description": "The AI agent that bakes, posts, and sells for artisan food brands — sourdough bakeries, small-batch sauces, and DTC pantry startups.",
+      "description_fr": "L'agent IA qui prépare, publie et vend pour des marques de produits alimentaires artisanaux : boulangeries au levain, sauces en petits lots et startups de garde-manger DTC.",
+      "category": "AI & Machine Learning",
       "website": "https://crumbcast-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T08:48:41.846536+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T09:14:15.336191+00:00"
     },
     {
       "name": "Valuconnect Solutions",
@@ -251034,26 +251046,35 @@
     {
       "name": "Talentquench",
       "slug": "polsia-talentquench",
+      "description": "Premium 12–16 week AI, MLOps, and security cohorts with a money-back placement track — built for mid-career engineers pivoting into the highest-paying technical niches.",
+      "description_fr": "Cohortes premium d'IA, MLOps et de sécurité de 12 à 16 semaines avec un parcours de placement avec remboursement - conçu pour les ingénieurs en milieu de carrière qui s'orientent vers les niches techniques les mieux rémunérées.",
+      "category": "AI & Machine Learning",
       "website": "https://talentquench.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T08:48:52.617761+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T09:14:17.582405+00:00"
     },
     {
       "name": "Stovio",
       "slug": "polsia-stovio",
+      "description": "Always-on STR operations with a Monday morning brief. Pricing, guest replies, cleaning, and maintenance — for solo short-term rental operators.",
+      "description_fr": "Opérations STR toujours actives avec un briefing le lundi matin. Tarification, réponses des clients, nettoyage et maintenance – pour les opérateurs de location solo à court terme.",
+      "category": "Travel & Hospitality",
       "website": "https://stovio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T08:48:58.059451+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T09:14:18.894709+00:00"
     },
     {
       "name": "Brolga Recruits",
       "slug": "polsia-brolga-recruits",
+      "description": "Hybrid AI + human recruiting for Australian SMEs. A flat monthly retainer delivers role scoping, sourcing, AI-assisted screening and a curated shortlist — without the $10,000+ agency fee.",
+      "description_fr": "Hybride IA + recrutement humain pour les PME australiennes. Une rémunération mensuelle forfaitaire permet de définir la définition des rôles, le sourcing, la sélection assistée par l'IA et une liste restreinte organisée, sans les frais d'agence de plus de 10 000 $.",
+      "category": "AI & Machine Learning",
       "website": "https://brolga-recruits.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T08:49:03.601016+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T09:14:20.430356+00:00"
     },
     {
       "name": "RajawaliOps",
@@ -251065,6 +251086,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-15T08:51:19.445447+00:00"
+    },
+    {
+      "name": "Polsevakt",
+      "slug": "polsia-polsevakt",
+      "website": "https://polsevakt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T09:12:12.928994+00:00"
+    },
+    {
+      "name": "Steepside",
+      "slug": "polsia-steepside",
+      "website": "https://steepside.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T09:12:13.764254+00:00"
+    },
+    {
+      "name": "808 ke koko aina LLC",
+      "slug": "polsia-808-ke-koko-aina-llc",
+      "website": "https://808-ke-koko-aina-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T09:12:19.348326+00:00"
+    },
+    {
+      "name": "Marrowpost",
+      "slug": "polsia-marrowpost-6",
+      "website": "https://marrowpost-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T09:12:20.197072+00:00"
+    },
+    {
+      "name": "KliekStoor",
+      "slug": "polsia-kliekstoor",
+      "website": "https://kliekstoor.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T09:12:21.438714+00:00"
+    },
+    {
+      "name": "Blockpact",
+      "slug": "polsia-blockpact",
+      "website": "https://blockpact.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T09:12:26.999354+00:00"
+    },
+    {
+      "name": "Holmehearth",
+      "slug": "polsia-holmehearth",
+      "website": "https://holmehearth.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T09:12:32.646048+00:00"
+    },
+    {
+      "name": "Narumeni",
+      "slug": "polsia-narumeni",
+      "website": "https://narumeni.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T09:12:38.375728+00:00"
+    },
+    {
+      "name": "Jogőr",
+      "slug": "polsia-jogr",
+      "website": "https://jogr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T09:12:44.180710+00:00"
+    },
+    {
+      "name": "Tax Bridge Accounting",
+      "slug": "polsia-tax-bridge-accounting",
+      "description": "Helping businesses make better financial decisions across the UAE, Saudi Arabia and the USA.",
+      "description_fr": "Aider les entreprises à prendre de meilleures décisions financières aux Émirats arabes unis, en Arabie saoudite et aux États-Unis.",
+      "category": "Finance & Fintech",
+      "website": "https://tax-bridge-accounting.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T09:15:13.887398+00:00"
     }
   ]
 }
