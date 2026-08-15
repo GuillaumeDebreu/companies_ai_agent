@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T04:04:26.092864+00:00",
+  "last_updated": "2026-08-15T04:43:38.644334+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -250020,58 +250020,79 @@
     {
       "name": "Heirloom Hands",
       "slug": "polsia-heirloom-hands",
+      "description": "Quiet, dependable non-medical companion and respite care for families who want an aging loved one to remain safely and comfortably at home.",
+      "description_fr": "",
+      "category": "Health & Wellness",
       "website": "https://heirloom-hands.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T04:02:26.938516+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T04:43:14.976816+00:00"
     },
     {
       "name": "SquireCreations LLC",
       "slug": "polsia-squirecreations-llc",
+      "description": "Conroe-area general contractor and custom builder for homes, remodels, and finish carpentry.",
+      "description_fr": "Entrepreneur général et constructeur sur mesure de la région de Conroe pour les maisons, les rénovations et la menuiserie de finition.",
+      "category": "Other",
       "website": "https://squirecreations-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T04:02:32.439686+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T04:43:16.784397+00:00"
     },
     {
       "name": "Maniva",
       "slug": "polsia-maniva",
+      "description": "Maniva es la mano derecha remota para profesionales y pequeños negocios brasileños: atención humana de WhatsApp, agenda, presupuestos y reportes claros, en paquetes mensuales desde R$500.",
+      "description_fr": "La maniva est la main droite à distance pour les professionnels et les petits entrepreneurs brésiliens : attention humaine de WhatsApp, agenda, présupposés et rapports clairs, dans des paquets mensuels à partir de 500 R$.",
+      "category": "Other",
       "website": "https://maniva.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T04:02:33.044201+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T04:43:18.698365+00:00"
     },
     {
       "name": "Cratecipher",
       "slug": "polsia-cratecipher",
+      "description": "Custom album covers, mixtape art, and accompanying visuals for indie hip-hop artists — built by an independent artist with AI-augmented production.",
+      "description_fr": "Couvertures d'album personnalisées, illustrations de mixtape et visuels d'accompagnement pour les artistes hip-hop indépendants, créés par un artiste indépendant avec une production augmentée par l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://cratecipher.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T04:02:38.764745+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T04:43:20.551689+00:00"
     },
     {
       "name": "Brattice",
       "slug": "polsia-brattice",
+      "description": "Audit-ready compliance documentation, sourced from your site-floor notes. MSHA- and OSHA-aligned evidence for heavy-industry operators.",
+      "description_fr": "Documentation de conformité prête pour l'audit, provenant de vos notes sur le site. Preuves alignées sur MSHA et OSHA pour les opérateurs de l’industrie lourde.",
+      "category": "Other",
       "website": "https://brattice.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T04:02:39.378112+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T04:43:22.286307+00:00"
     },
     {
       "name": "Outfield Roasters",
       "slug": "polsia-outfield-roasters",
+      "description": "Family-farm direct, AI-orchestrated single-origin coffee delivered on schedule.",
+      "description_fr": "Café d'origine unique direct d'une ferme familiale, orchestré par l'IA, livré dans les délais.",
+      "category": "AI & Machine Learning",
       "website": "https://outfield-roasters.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T04:02:40.045210+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T04:43:24.663077+00:00"
     },
     {
       "name": "Oakpost",
       "slug": "polsia-oakpost",
+      "description": "Your 24/7 AI back office for the one-person life and final-expense shop. Oakpost qualifies leads, books appointments, drives follow-up, and ships a daily production report.",
+      "description_fr": "Votre back-office IA 24h/24 et 7j/7 pour la vie d'une seule personne et les dépenses finales. Oakpost qualifie les prospects, prend des rendez-vous, assure le suivi et envoie un rapport de production quotidien.",
+      "category": "AI & Machine Learning",
       "website": "https://oakpost.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T04:02:44.293667+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T04:43:27.315764+00:00"
     },
     {
       "name": "Countervault",
@@ -250087,10 +250108,13 @@
     {
       "name": "Vantameld",
       "slug": "polsia-vantameld",
+      "description": "Autonomous AI agents keeping FHIR pipelines honest, 24/7. Vantameld writes its own regression tests against live Epic, Oracle Health, MEDITECH, and payer-side FHIR endpoints — catching missing Patient and Observation resources, TEFCA breaks, and interoperability regressions the moment vendor upgrades or config changes break a data flow.",
+      "description_fr": "Des agents d'IA autonomes assurent l'honnêteté des pipelines FHIR, 24h/24 et 7j/7. Vantameld écrit ses propres tests de régression sur les points de terminaison en direct d'Epic, Oracle Health, MEDITECH et FHIR côté payeur - détectant les ressources patient et d'observation manquantes, les ruptures TEFCA et les régressions d'interopérabilité au moment où les mises à niveau du fournisseur ou les modifications de configuration interrompent un flux de données.",
+      "category": "AI & Machine Learning",
       "website": "https://vantameld.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T04:02:46.295894+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T04:43:28.586379+00:00"
     },
     {
       "name": "Telar Studio",
@@ -250102,6 +250126,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-15T04:02:48.170716+00:00"
+    },
+    {
+      "name": "Nuhaira",
+      "slug": "polsia-nuhaira",
+      "website": "https://nuhaira.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T04:41:54.361603+00:00"
+    },
+    {
+      "name": "Lepas Johannesburg",
+      "slug": "polsia-lepas-johannesburg",
+      "website": "https://lepas-johannesburg.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T04:41:55.115641+00:00"
+    },
+    {
+      "name": "Kinward",
+      "slug": "polsia-kinward-2",
+      "website": "https://kinward-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T04:41:56.127809+00:00"
+    },
+    {
+      "name": "HumanGrid",
+      "slug": "polsia-humangrid",
+      "website": "https://humangrid.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T04:41:57.108176+00:00"
+    },
+    {
+      "name": "Glyphbloom",
+      "slug": "polsia-glyphbloom",
+      "website": "https://glyphbloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T04:41:58.189272+00:00"
+    },
+    {
+      "name": "Tackhaus",
+      "slug": "polsia-tackhaus",
+      "website": "https://tackhaus.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T04:41:58.911692+00:00"
+    },
+    {
+      "name": "Sawmantic",
+      "slug": "polsia-sawmantic",
+      "website": "https://sawmantic.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T04:41:59.749506+00:00"
+    },
+    {
+      "name": "Houblonixel",
+      "slug": "polsia-houblonixel",
+      "website": "https://houblonixel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T04:42:00.505374+00:00"
+    },
+    {
+      "name": "Hiram",
+      "slug": "polsia-hiram",
+      "website": "https://hiram.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T04:42:01.698495+00:00"
+    },
+    {
+      "name": "Bitacora",
+      "slug": "polsia-bitacora",
+      "website": "https://bitacora.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T04:42:02.485388+00:00"
     }
   ]
 }
