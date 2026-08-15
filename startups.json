@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T13:23:19.782494+00:00",
+  "last_updated": "2026-08-15T13:51:57.608369+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -250490,10 +250490,13 @@
     {
       "name": "Letlotlo",
       "slug": "polsia-letlotlo",
+      "description": "Always-on AI bookkeeping and reconciliation for Lesotho and SADC small businesses. Pulls bank feeds, auto-categorises against Lesotho and SADC rules, and delivers audit-ready statements every morning.",
+      "description_fr": "Comptabilité et rapprochement IA permanents pour les petites entreprises du Lesotho et de la SADC. Extrait les flux bancaires, les catégorise automatiquement par rapport aux règles du Lesotho et de la SADC et fournit chaque matin des relevés prêts à être audités.",
+      "category": "AI & Machine Learning",
       "website": "https://letlotlo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T05:58:19.559024+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T13:50:01.818406+00:00"
     },
     {
       "name": "Stooplit",
@@ -252051,42 +252054,57 @@
     {
       "name": "ALTORA",
       "slug": "polsia-altora",
+      "description": "Charter privato on-demand, prenotabile in pochi minuti, con totale trasparenza su costi ed emissioni.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://altora.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T13:20:08.545678+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T13:50:43.825976+00:00"
     },
     {
       "name": "Ignyx",
       "slug": "polsia-ignyx",
+      "description": "From diode to UV — one brand, every workshop. Diode, CO2, MOPA fiber, and UV lasers under one warranty and one software experience.",
+      "description_fr": "De la diode à l'UV : une marque, chaque atelier. Lasers à diode, CO2, fibre MOPA et UV sous une seule garantie et une seule expérience logicielle.",
+      "category": "Software & SaaS",
       "website": "https://ignyx.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T13:20:09.424936+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T13:50:45.722578+00:00"
     },
     {
       "name": "Mavura",
       "slug": "polsia-mavura",
+      "description": "Always-on AI triage and dispatch for Namibia’s prehospital front line.",
+      "description_fr": "Triage et répartition de l'IA en permanence pour la première ligne préhospitalière de Namibie.",
+      "category": "AI & Machine Learning",
       "website": "https://mavura.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T13:20:10.138653+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T13:50:47.249412+00:00"
     },
     {
       "name": "Cotmark",
       "slug": "polsia-cotmark",
+      "description": "Cotmark is set-and-forget AI co-hosting for short-term rentals — repricing, 24/7 guest messages, cleaner dispatch, and disputes, all in one autonomous agent.",
+      "description_fr": "Cotmark est un co-hébergement IA paramétrable et oublié pour les locations à court terme : retarification, messages invités 24h/24 et 7j/7, répartition plus propre et litiges, le tout dans un seul agent autonome.",
+      "category": "AI & Machine Learning",
       "website": "https://cotmark.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T13:20:10.967467+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T13:50:49.357049+00:00"
     },
     {
       "name": "Tasaya",
       "slug": "polsia-tasaya",
+      "description": "Tu auditor de suscripciones SaaS potenciado por IA, sin contratos enterprise.",
+      "description_fr": "Votre auditeur d'abonnements SaaS renforcé par IA, sans contrat d'entreprise.",
+      "category": "Software & SaaS",
       "website": "https://tasaya.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T13:20:11.936980+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T13:50:51.085642+00:00"
     },
     {
       "name": "Avyőr",
@@ -252099,26 +252117,35 @@
     {
       "name": "Jobwake",
       "slug": "polsia-jobwake-5",
+      "description": "AI that turns missed trades enquiries into booked jobs, in seconds.",
+      "description_fr": "Une IA qui transforme les demandes de transactions manquées en emplois réservés, en quelques secondes.",
+      "category": "AI & Machine Learning",
       "website": "https://jobwake-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T13:20:23.195980+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T13:50:53.555530+00:00"
     },
     {
       "name": "Pelagic Studio",
       "slug": "polsia-pelagic-studio",
+      "description": "AI short-form video for creators who play by the rules. Build platform-native vertical edits with built-in C2PA provenance and disclosures.",
+      "description_fr": "Vidéo courte IA pour les créateurs qui respectent les règles. Créez des modifications verticales natives de la plate-forme avec la provenance et les divulgations C2PA intégrées.",
+      "category": "AI & Machine Learning",
       "website": "https://pelagic-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T13:20:28.743477+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T13:50:54.721528+00:00"
     },
     {
       "name": "Dealwake",
       "slug": "polsia-dealwake-2",
+      "description": "Dealwake is an always-on AI car-buying agent that monitors Facebook Marketplace, Craigslist, AutoTrader, Cars.com, CarGurus, and eBay Motors 24/7, scores every new listing against live comps, and sends calibrated outreach to sellers so your team wakes up to qualified conversations.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://dealwake-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T13:20:34.415160+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T13:50:55.594308+00:00"
     },
     {
       "name": "Dusk Liney",
@@ -252130,6 +252157,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-15T13:23:19.781371+00:00"
+    },
+    {
+      "name": "Haylon",
+      "slug": "polsia-haylon",
+      "website": "https://haylon.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T13:48:18.195409+00:00"
+    },
+    {
+      "name": "Quirkit",
+      "slug": "polsia-quirkit-2",
+      "website": "https://quirkit-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T13:48:23.838508+00:00"
+    },
+    {
+      "name": "CaughtShift",
+      "slug": "polsia-caughtshift",
+      "website": "https://caughtshift.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T13:48:24.727916+00:00"
+    },
+    {
+      "name": "Tutela",
+      "slug": "polsia-tutela",
+      "website": "https://tutela.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T13:48:30.495018+00:00"
+    },
+    {
+      "name": "Mercedes-Benz of Oakland",
+      "slug": "polsia-mercedes-benz-of-oakland",
+      "website": "https://mercedes-benz-of-oakland.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T13:48:41.048391+00:00"
+    },
+    {
+      "name": "ATALAI",
+      "slug": "polsia-atalai",
+      "website": "https://atalai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T13:48:41.841673+00:00"
+    },
+    {
+      "name": "Talentcairn",
+      "slug": "polsia-talentcairn",
+      "website": "https://talentcairn.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T13:48:47.348415+00:00"
+    },
+    {
+      "name": "Rintocco",
+      "slug": "polsia-rintocco-2",
+      "website": "https://rintocco-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T13:48:53.028318+00:00"
+    },
+    {
+      "name": "Hearthwright",
+      "slug": "polsia-hearthwright-azdgx8",
+      "website": "https://hearthwright-azdgx8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T13:48:58.820606+00:00"
+    },
+    {
+      "name": "Uzuko",
+      "slug": "polsia-uzuko",
+      "website": "https://uzuko.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T13:49:04.542526+00:00"
     }
   ]
 }
