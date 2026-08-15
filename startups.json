@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T15:01:16.021642+00:00",
+  "last_updated": "2026-08-15T15:31:22.353736+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -252485,10 +252485,13 @@
     {
       "name": "Loopback",
       "slug": "polsia-loopback-ra8gkt",
+      "description": "Loopback is an AI permit department for HVAC, electrical, plumbing, and solar contractors. File, track, correct, and close permits across thousands of municipalities — one flat monthly seat per company.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://loopback-ra8gkt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T14:57:48.454347+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T15:30:17.779418+00:00"
     },
     {
       "name": "Cairnwise",
@@ -252501,42 +252504,57 @@
     {
       "name": "Bascule",
       "slug": "polsia-bascule-2cc2nm",
+      "description": "Bascule is the AI settlement agent for cross-border commerce — it watches invoices, reconciles payments, triages mismatches, and drafts the next move on stablecoin and fiat rails.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://bascule-2cc2nm.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T14:57:54.565435+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T15:30:18.776950+00:00"
     },
     {
       "name": "Wobblebloom Tales",
       "slug": "polsia-wobblebloom-tales",
+      "description": "Watch the daily episode of Wobblebloom Tales — a 30-day Humpty Dumpty mini-season.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://wobblebloom-tales.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T14:58:00.103844+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T15:30:19.574000+00:00"
     },
     {
       "name": "Naisync",
       "slug": "polsia-naisync",
+      "description": "Offline-tolerant sales and stock tracker for Nigerian small shops — Naira, Paystack, WhatsApp.",
+      "description_fr": "Ventes et suivi des stocks tolérants hors ligne pour les petits magasins nigérians – Naira, Paystack, WhatsApp.",
+      "category": "E-Commerce & Retail",
       "website": "https://naisync.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T14:58:10.491506+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T15:30:20.664610+00:00"
     },
     {
       "name": "Holdstead",
       "slug": "polsia-holdstead-5",
+      "description": "Continuous vendor compliance without the chase. The always-on AI vendor compliance department for GRC, procurement, and risk leaders.",
+      "description_fr": "Conformité continue des fournisseurs sans poursuite. Le service de conformité des fournisseurs d'IA toujours actif pour les responsables GRC, achats et risques.",
+      "category": "AI & Machine Learning",
       "website": "https://holdstead-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T14:58:16.294985+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T15:30:21.909053+00:00"
     },
     {
       "name": "Roadwright",
       "slug": "polsia-roadwright-2",
+      "description": "Roadwright — one-operator mobile mechanic service for heavy-duty trucks and rural breakdowns. Highway shoulders, job sites, farm lanes, driveways.",
+      "description_fr": "Roadwright — service de mécanique mobile à opérateur unique pour les camions lourds et les pannes en milieu rural. Accotements d'autoroutes, chantiers, voies agricoles, allées.",
+      "category": "Other",
       "website": "https://roadwright-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T14:58:16.948058+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T15:30:23.159316+00:00"
     },
     {
       "name": "Claimwright",
@@ -252552,18 +252570,104 @@
     {
       "name": "Cántaro",
       "slug": "polsia-cntaro-4",
+      "description": "Agentes de IA que velan 24/7 por los lanzamientos de artistas independientes — detectan subidas no autorizadas, negocian licencias de sync y consolidan tus regalías en un único panel.",
+      "description_fr": "Agents d'IA qui travaillent 24 heures sur 24 et 7 jours sur 7 pour les projets d'artistes indépendants — détectent les subventions non autorisées, négocient les licences de synchronisation et consolident vos regalías dans un panneau unique.",
+      "category": "Other",
       "website": "https://cntaro-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T14:58:38.139885+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T15:30:25.008072+00:00"
     },
     {
       "name": "Legacy Made By Neal LLC",
       "slug": "polsia-legacy-made-by-neal-llc",
+      "description": "A firearms safety and shooting-skills academy rooted in lifelong coaching, mentorship, and legacy.",
+      "description_fr": "Une académie de sécurité des armes à feu et de techniques de tir ancrée dans l'encadrement, le mentorat et l'héritage de toute une vie.",
+      "category": "Education",
       "website": "https://legacy-made-by-neal-llc.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T15:30:26.849122+00:00"
+    },
+    {
+      "name": "FrontScope",
+      "slug": "polsia-frontscope",
+      "website": "https://frontscope.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-15T14:58:43.699743+00:00"
+      "scraped_at": "2026-08-15T15:28:31.606328+00:00"
+    },
+    {
+      "name": "Yanz Satay Corner",
+      "slug": "polsia-yanz-satay-corner",
+      "website": "https://yanz-satay-corner.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T15:28:32.263201+00:00"
+    },
+    {
+      "name": "Helmsmark",
+      "slug": "polsia-helmsmark-z1xubi",
+      "website": "https://helmsmark-z1xubi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T15:28:32.971809+00:00"
+    },
+    {
+      "name": "Longwatch",
+      "slug": "polsia-longwatch-2",
+      "website": "https://longwatch-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T15:28:38.490142+00:00"
+    },
+    {
+      "name": "Fundamental Wellness of Nebraska",
+      "slug": "polsia-fundamental-wellness-of-nebraska",
+      "website": "https://fundamental-wellness-of-nebraska.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T15:28:44.138272+00:00"
+    },
+    {
+      "name": "Pausepoint Press",
+      "slug": "polsia-pausepoint-press",
+      "website": "https://pausepoint-press.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T15:28:44.687229+00:00"
+    },
+    {
+      "name": "Lindylu",
+      "slug": "polsia-lindylu",
+      "website": "https://lindylu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T15:28:45.313644+00:00"
+    },
+    {
+      "name": "Basiflo",
+      "slug": "polsia-basiflo",
+      "website": "https://basiflo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T15:28:50.993989+00:00"
+    },
+    {
+      "name": "Quaymark",
+      "slug": "polsia-quaymark-t7mucu",
+      "website": "https://quaymark-t7mucu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T15:28:51.595571+00:00"
+    },
+    {
+      "name": "Marginalia",
+      "slug": "polsia-marginalia-3rz2hv",
+      "website": "https://marginalia-3rz2hv.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T15:28:52.335330+00:00"
     }
   ]
 }
