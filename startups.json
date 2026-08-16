@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T23:04:07.119267+00:00",
+  "last_updated": "2026-08-16T23:32:36.781235+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -259960,10 +259960,13 @@
     {
       "name": "Sentinel Cadre",
       "slug": "polsia-sentinel-cadre",
+      "description": "Unifying, certifying, and elevating the private security profession — anchored in Jamaica, architected for global replication.",
+      "description_fr": "Unifier, certifier et élever la profession de sécurité privée – ancrée en Jamaïque, conçue pour une réplication mondiale.",
+      "category": "Other",
       "website": "https://sentinel-cadre.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T23:00:51.670569+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T23:31:37.934685+00:00"
     },
     {
       "name": "ProuteVisuals",
@@ -259976,58 +259979,79 @@
     {
       "name": "Yapfire",
       "slug": "polsia-yapfire",
+      "description": "Always-on listening, smart drafting, instant alerts for real fires. The reputation copilot for solo founders and small consumer brands.",
+      "description_fr": "Écoute permanente, rédaction intelligente, alertes instantanées en cas d'incendies réels. Le copilote de réputation pour les fondateurs solo et les petites marques grand public.",
+      "category": "Marketing & Advertising",
       "website": "https://yapfire.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T23:00:58.357689+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T23:31:44.683015+00:00"
     },
     {
       "name": "TrailPaws",
       "slug": "polsia-trailpaws-3",
+      "description": "Gear for the trail crew that runs on four legs. Breed-specific hiking tees, trail-tested hoodies, and matching owner-and-dog bandanas — built for dog-hikers, not generic dog-mom merch.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://trailpaws-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T23:01:00.439055+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T23:31:45.360333+00:00"
     },
     {
       "name": "Alianza Industrial",
       "slug": "polsia-alianza-industrial",
+      "description": "Convertimos crecimiento en resultados medibles. Consultoría, marketing B2B, CRM/ERP y software para PYMES y empresas en expansión.",
+      "description_fr": "Nous convertissons notre croissance en résultats médicaux. Consultation, marketing B2B, CRM/ERP et logiciels pour PYMES et entreprises en expansion.",
+      "category": "Sales & CRM",
       "website": "https://alianza-industrial.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T23:01:01.210733+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T23:31:46.661180+00:00"
     },
     {
       "name": "Trussmark",
       "slug": "polsia-trussmark-10",
+      "description": "Audit-ready HIPAA, SOC 2, and state compliance documentation for the small practices the big firms won’t take on.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://trussmark-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T23:01:06.806184+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T23:31:47.630913+00:00"
     },
     {
       "name": "Cliptide",
       "slug": "polsia-cliptide-4",
+      "description": "Cliptide is the AI-powered clipping agency for gaming creators. Live streams watched 24/7, highlights auto-cut, ready to post across TikTok, Shorts, Reels, and X.",
+      "description_fr": "Cliptide est l'agence de découpage basée sur l'IA pour les créateurs de jeux. Diffusions en direct regardées 24h/24 et 7j/7, mises en avant coupées automatiquement, prêtes à être publiées sur TikTok, Shorts, Reels et X.",
+      "category": "AI & Machine Learning",
       "website": "https://cliptide-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T23:01:08.159820+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T23:31:48.896280+00:00"
     },
     {
       "name": "Clerksmith",
       "slug": "polsia-clerksmith-4",
+      "description": "Compliance paperwork, automated and human-verified. Recurring filings for small operators — covered by software and a senior sign-off.",
+      "description_fr": "Documents de conformité, automatisés et vérifiés par des humains. Dépôts récurrents pour les petits opérateurs — couverts par un logiciel et une approbation senior.",
+      "category": "Software & SaaS",
       "website": "https://clerksmith-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T23:01:13.652254+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T23:31:49.964080+00:00"
     },
     {
       "name": "Cronolex",
       "slug": "polsia-cronolex-2",
+      "description": "El agente 24/7 que opera el back-office de tu despacho pequeño — intake, agenda, borradores y vencimientos, vigilados cada mañana con un dashboard de KPIs.",
+      "description_fr": "",
+      "category": "Software & SaaS",
       "website": "https://cronolex-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T23:01:14.481360+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T23:31:50.859839+00:00"
     },
     {
       "name": "Pricedocket",
@@ -260036,6 +260060,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-08-16T23:01:19.948312+00:00"
+    },
+    {
+      "name": "Guilded Hare Studios",
+      "slug": "polsia-guilded-hare-studios",
+      "website": "https://guilded-hare-studios.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T23:29:26.374159+00:00"
+    },
+    {
+      "name": "Tallymom",
+      "slug": "polsia-tallymom",
+      "website": "https://tallymom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T23:29:27.155056+00:00"
+    },
+    {
+      "name": "Cinegent",
+      "slug": "polsia-cinegent",
+      "website": "https://cinegent.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T23:29:27.973547+00:00"
+    },
+    {
+      "name": "Passwright",
+      "slug": "polsia-passwright-4",
+      "website": "https://passwright-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T23:29:33.643867+00:00"
+    },
+    {
+      "name": "DirtTorque",
+      "slug": "polsia-dirttorque",
+      "website": "https://dirttorque.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T23:29:34.313857+00:00"
+    },
+    {
+      "name": "Skarv",
+      "slug": "polsia-skarv-2",
+      "website": "https://skarv-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T23:29:34.959350+00:00"
+    },
+    {
+      "name": "Cordillera Bakehouse",
+      "slug": "polsia-cordillera-bakehouse",
+      "website": "https://cordillera-bakehouse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T23:29:35.663546+00:00"
+    },
+    {
+      "name": "Sopherim",
+      "slug": "polsia-sopherim",
+      "website": "https://sopherim.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T23:29:41.164171+00:00"
+    },
+    {
+      "name": "Twinstride",
+      "slug": "polsia-twinstride",
+      "website": "https://twinstride.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T23:29:42.007200+00:00"
+    },
+    {
+      "name": "Foxmint",
+      "slug": "polsia-foxmint-5",
+      "website": "https://foxmint-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T23:29:47.571104+00:00"
     }
   ]
 }
