@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T02:50:47.378568+00:00",
+  "last_updated": "2026-08-16T03:38:52.396570+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -255196,50 +255196,68 @@
     {
       "name": "YAZY Enterprise",
       "slug": "polsia-yazy-enterprise",
+      "description": "A federated home for teaching, media, and sport — one backend, every division its own house.",
+      "description_fr": "Une maison fédérée pour l'enseignement, les médias et le sport : un backend, chaque division sa propre maison.",
+      "category": "Education",
       "website": "https://yazy-enterprise.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T02:47:06.731260+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T03:37:49.825123+00:00"
     },
     {
       "name": "Coatcraft",
       "slug": "polsia-coatcraft-2",
+      "description": "Master the brush. Own the business. A working painting contractor and accredited trade school training the next generation of painters and painting-business owners.",
+      "description_fr": "Maîtrisez le pinceau. Posséder l'entreprise. Un entrepreneur en peinture en activité et une école de métiers accréditée qui forme la prochaine génération de peintres et de propriétaires d'entreprises de peinture.",
+      "category": "Education",
       "website": "https://coatcraft-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T02:47:07.575411+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T03:37:51.279871+00:00"
     },
     {
-      "name": "AI-Powered Autonomous Marine Service Network",
+      "name": "MarineSight AI",
       "slug": "polsia-ai-powered-autonomous-marine-service-network",
+      "description": "24/7 AI diagnostics and autonomous drone service for every boat, jet ski, and commercial vessel. Predict failures before they strand your fleet.",
+      "description_fr": "Diagnostics IA 24h/24 et 7j/7 et service de drones autonomes pour chaque bateau, jet ski et navire commercial. Prévoyez les pannes avant qu’elles ne bloquent votre flotte.",
+      "category": "AI & Machine Learning",
       "website": "https://ai-powered-autonomous-marine-service-network.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T02:47:13.303010+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T03:37:52.903586+00:00"
     },
     {
       "name": "Tappetrove",
       "slug": "polsia-tappetrove",
+      "description": "Mobile-first parts comparison for classic car restorers—fitment-verified, shipping-inclusive.",
+      "description_fr": "Comparaison de pièces mobiles pour les restaurateurs de voitures classiques : compatibilité vérifiée, frais d'expédition compris.",
+      "category": "E-Commerce & Retail",
       "website": "https://tappetrove.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T02:47:23.852521+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T03:37:53.849346+00:00"
     },
     {
       "name": "Sleeprite",
       "slug": "polsia-sleeprite-2",
+      "description": "Your 24/7 AI agent crew for solo indie game studios. Sleeprite runs the publishing backend — sales watch, Discord moderation, bug triage, social queue — so the solo dev keeps shipping the next build.",
+      "description_fr": "Votre équipe d'agents IA 24h/24 et 7j/7 pour les studios de jeux indépendants solo. Sleeprite gère le backend de publication – surveillance des ventes, modération Discord, triage des bogues, file d'attente sociale – afin que le développeur solo continue de livrer la prochaine version.",
+      "category": "AI & Machine Learning",
       "website": "https://sleeprite-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T02:47:29.384203+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T03:37:54.994127+00:00"
     },
     {
       "name": "Lapstone",
       "slug": "polsia-lapstone-4",
+      "description": "Lapstone is a mobile detailing service that brings showroom-quality car care to your curb — sealed mats, on-board water recovery, and pro-grade products in every booking.",
+      "description_fr": "Lapstone est un service d'esthétique mobile qui apporte à votre trottoir un entretien automobile de qualité salle d'exposition : tapis scellés, récupération d'eau à bord et produits de qualité professionnelle dans chaque réservation.",
+      "category": "Travel & Hospitality",
       "website": "https://lapstone-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T02:47:35.029034+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T03:37:56.229796+00:00"
     },
     {
       "name": "Quivax",
@@ -255274,10 +255292,93 @@
     {
       "name": "Pricevane",
       "slug": "polsia-pricevane-5",
+      "description": "Pricevane is the agentic repricing teammate that watches every storefront so your margins don't slip.",
+      "description_fr": "Pricevane est le partenaire agent de repricing qui surveille chaque vitrine afin que vos marges ne diminuent pas.",
+      "category": "E-Commerce & Retail",
       "website": "https://pricevane-5.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-16T03:37:58.073644+00:00"
+    },
+    {
+      "name": "Agentibus",
+      "slug": "polsia-agentibus",
+      "website": "https://agentibus.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-16T02:48:02.510600+00:00"
+      "scraped_at": "2026-08-16T03:35:31.649622+00:00"
+    },
+    {
+      "name": "Buckcrest",
+      "slug": "polsia-buckcrest",
+      "website": "https://buckcrest.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T03:35:37.575091+00:00"
+    },
+    {
+      "name": "Hearloom",
+      "slug": "polsia-hearloom-1vb5v7",
+      "website": "https://hearloom-1vb5v7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T03:35:42.936492+00:00"
+    },
+    {
+      "name": "Hushbloom",
+      "slug": "polsia-hushbloom-9",
+      "website": "https://hushbloom-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T03:35:48.331239+00:00"
+    },
+    {
+      "name": "Presshall",
+      "slug": "polsia-presshall",
+      "website": "https://presshall.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T03:35:48.902229+00:00"
+    },
+    {
+      "name": "Closr",
+      "slug": "polsia-closr-8vpkfy",
+      "website": "https://closr-8vpkfy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T03:35:54.217406+00:00"
+    },
+    {
+      "name": "Heightsmith",
+      "slug": "polsia-heightsmith",
+      "website": "https://heightsmith.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T03:35:59.779654+00:00"
+    },
+    {
+      "name": "Alentia",
+      "slug": "polsia-alentia-2",
+      "website": "https://alentia-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T03:36:05.216205+00:00"
+    },
+    {
+      "name": "Cobijo",
+      "slug": "polsia-cobijo-6",
+      "website": "https://cobijo-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T03:36:10.603711+00:00"
+    },
+    {
+      "name": "Cloakpath",
+      "slug": "polsia-cloakpath",
+      "website": "https://cloakpath.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T03:36:15.980871+00:00"
     }
   ]
 }
