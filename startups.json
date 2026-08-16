@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T18:36:03.597544+00:00",
+  "last_updated": "2026-08-16T19:02:43.749940+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -258672,34 +258672,46 @@
     {
       "name": "Notebloom",
       "slug": "polsia-notebloom-2",
+      "description": "Original AI music with rights attached.",
+      "description_fr": "Musique originale d'IA avec droits attachés.",
+      "category": "AI & Machine Learning",
       "website": "https://notebloom-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T18:32:16.531200+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T19:01:44.881589+00:00"
     },
     {
       "name": "Stillpoint",
       "slug": "polsia-stillpoint-h2hgf6",
+      "description": "A TAT diagnostics layer for anatomic pathology labs. See exactly where samples stall, why they stall, and which interventions compress time-to-diagnosis first.",
+      "description_fr": "Une couche de diagnostic TAT pour les laboratoires d'anatomopathologie. Découvrez exactement où les échantillons stagnent, pourquoi ils stagnent et quelles interventions réduisent en premier le temps de diagnostic.",
+      "category": "Other",
       "website": "https://stillpoint-h2hgf6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T18:32:17.657441+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T19:01:48.828769+00:00"
     },
     {
       "name": "SalaLume",
       "slug": "polsia-salalume",
+      "description": "Conexão, suporte e gestão para escolas com Chromebooks, Chromecast e projetores.",
+      "description_fr": "Connexion, support et gestion pour les écoles avec Chromebooks, Chromecast et projets.",
+      "category": "Other",
       "website": "https://salalume.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T18:32:18.403679+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T19:01:49.817798+00:00"
     },
     {
       "name": "NexusPath",
       "slug": "polsia-nexuspath-3",
+      "description": "AI-driven career platform with resume scanning, mentorship, and referral pathways for students and job seekers.",
+      "description_fr": "Plateforme de carrière basée sur l'IA avec numérisation de CV, mentorat et parcours de référence pour les étudiants et les demandeurs d'emploi.",
+      "category": "Education",
       "website": "https://nexuspath-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T18:32:24.019842+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T19:01:50.776187+00:00"
     },
     {
       "name": "Quillwright",
@@ -258715,10 +258727,13 @@
     {
       "name": "Quillframe",
       "slug": "polsia-quillframe",
+      "description": "The AI-edit studio and storefront built for photographers and videographers.",
+      "description_fr": "Le studio et la vitrine d'édition IA conçus pour les photographes et vidéastes.",
+      "category": "AI & Machine Learning",
       "website": "https://quillframe.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T18:32:35.378001+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T19:01:51.873102+00:00"
     },
     {
       "name": "Poliwacht",
@@ -258745,10 +258760,13 @@
     {
       "name": "Sigilpost",
       "slug": "polsia-sigilpost-dngil1",
+      "description": "B2B email verification API: POST an address, receive a verdict (valid / invalid / risky) with a 0–100 confidence score, MX presence, and a disposable-email flag — under 400 ms at p95.",
+      "description_fr": "API de vérification des e-mails B2B : POSTez une adresse, recevez un verdict (valide/invalide/risqué) avec un score de confiance de 0 à 100, une présence MX et un indicateur d'e-mail jetable — moins de 400 ms à la p95.",
+      "category": "Software & SaaS",
       "website": "https://sigilpost-dngil1.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T18:32:52.171951+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T19:01:53.230043+00:00"
     },
     {
       "name": "Scholar Grove Rentals",
@@ -258760,6 +258778,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-16T18:32:53.362642+00:00"
+    },
+    {
+      "name": "Cap'n Marrowe's Topsail Quest",
+      "slug": "polsia-capn-marrowes-topsail-quest",
+      "website": "https://capn-marrowes-topsail-quest.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T18:59:07.568026+00:00"
+    },
+    {
+      "name": "Laterbloom",
+      "slug": "polsia-laterbloom-7",
+      "website": "https://laterbloom-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T18:59:08.266898+00:00"
+    },
+    {
+      "name": "Roadplex",
+      "slug": "polsia-roadplex",
+      "website": "https://roadplex.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T18:59:08.964073+00:00"
+    },
+    {
+      "name": "Stowfox",
+      "slug": "polsia-stowfox",
+      "website": "https://stowfox.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T18:59:09.564743+00:00"
+    },
+    {
+      "name": "Refinery",
+      "slug": "polsia-refinery",
+      "website": "https://refinery.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T18:59:10.316437+00:00"
+    },
+    {
+      "name": "Versemason",
+      "slug": "polsia-versemason",
+      "website": "https://versemason.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T18:59:20.892923+00:00"
+    },
+    {
+      "name": "Civic Lattice",
+      "slug": "polsia-civic-lattice",
+      "website": "https://civic-lattice.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T18:59:26.452895+00:00"
+    },
+    {
+      "name": "Stormwake",
+      "slug": "polsia-stormwake",
+      "description": "Autonomous AI agents forecasting street-level floods — fusing rainfall, river, tide, and IoT feeds hours before water rises.",
+      "description_fr": "Des agents d’IA autonomes prédisent les inondations au niveau des rues – fusionnant les précipitations, les rivières, les marées et les flux IoT des heures avant la montée des eaux.",
+      "category": "AI & Machine Learning",
+      "website": "https://stormwake.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-16T19:02:32.823459+00:00"
+    },
+    {
+      "name": "Abohof",
+      "slug": "polsia-abohof",
+      "website": "https://abohof.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T18:59:37.972140+00:00"
+    },
+    {
+      "name": "Leanseer",
+      "slug": "polsia-leanseer",
+      "website": "https://leanseer.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T18:59:43.520606+00:00"
     }
   ]
 }
