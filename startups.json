@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T21:59:15.901546+00:00",
+  "last_updated": "2026-08-16T22:26:25.123868+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -259636,26 +259636,35 @@
     {
       "name": "Brickkiln",
       "slug": "polsia-brickkiln",
+      "description": "A 24/7 AI receptionist built for one-truck trades. Answers every call, qualifies the job, books it onto your tech’s calendar.",
+      "description_fr": "Une réceptionniste IA 24h/24 et 7j/7 conçue pour les échanges avec un seul camion. Répond à chaque appel, qualifie le travail, le réserve sur le calendrier de votre technicien.",
+      "category": "AI & Machine Learning",
       "website": "https://brickkiln.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T21:55:42.793549+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:26:05.518565+00:00"
     },
     {
       "name": "Stratagent",
       "slug": "polsia-stratagent",
+      "description": "Geotechnical agents that turn sensor streams into PMI-ready site intelligence.",
+      "description_fr": "Des agents géotechniques qui transforment les flux de capteurs en informations de site prêtes pour le PMI.",
+      "category": "Other",
       "website": "https://stratagent.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T21:55:43.397608+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:26:06.587038+00:00"
     },
     {
       "name": "Tapstreet",
       "slug": "polsia-tapstreet",
+      "description": "Programmed NFC Google review cards, walked in by hand. Toronto door-to-door service for barbershops, cafés, salons, and auto shops.",
+      "description_fr": "Cartes d'examen NFC Google programmées, entrées à la main. Service porte-à-porte à Toronto pour les salons de coiffure, les cafés, les salons et les ateliers automobiles.",
+      "category": "E-Commerce & Retail",
       "website": "https://tapstreet.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T21:55:49.050741+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:26:08.318715+00:00"
     },
     {
       "name": "Polsia App",
@@ -259671,34 +259680,46 @@
     {
       "name": "Nightrove",
       "slug": "polsia-nightrove",
+      "description": "Autonomous AI agents running your short-term rental — guest messaging in any language, dynamic pricing, cleaning dispatch, review replies. 24/7.",
+      "description_fr": "Des agents IA autonomes gèrent votre location à court terme : messagerie client dans n'importe quelle langue, tarification dynamique, répartition du nettoyage, réponses aux commentaires. 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://nightrove.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T21:56:05.094210+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:26:10.697605+00:00"
     },
     {
       "name": "Mythwake",
       "slug": "polsia-mythwake",
+      "description": "AI-native live ops for always-on MMO worlds. Mythwake keeps economies, moderation, and content on rails 24/7.",
+      "description_fr": "Opérations en direct natives d'IA pour des mondes MMO toujours actifs. Mythwake maintient les économies, la modération et le contenu sur les rails 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://mythwake.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T21:56:10.464444+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:26:12.601043+00:00"
     },
     {
       "name": "Wrenchmade",
       "slug": "polsia-wrenchmade",
+      "description": "Apparel for the people who actually wrench. Tees, hoodies, hats, and shop merch built around real dealership and shop culture — designed in the lift bay, not the marketing room.",
+      "description_fr": "Des vêtements pour ceux qui déchirent réellement. Des t-shirts, des sweats à capuche, des chapeaux et des produits dérivés construits autour d'une véritable culture de concessionnaire et de magasin – conçus dans l'ascenseur, pas dans la salle de marketing.",
+      "category": "E-Commerce & Retail",
       "website": "https://wrenchmade.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T21:56:15.773526+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:26:13.850241+00:00"
     },
     {
       "name": "Talven",
       "slug": "polsia-talven-2",
+      "description": "Find-and-fix water-loss analytics for small and mid-tier water utilities. Monthly subzone risk scoring, recovered gallons, and EPA-ready reports.",
+      "description_fr": "",
+      "category": "Sustainability & Green",
       "website": "https://talven-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T21:56:17.271036+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:26:14.797440+00:00"
     },
     {
       "name": "Piedrake",
@@ -259711,10 +259732,93 @@
     {
       "name": "Sembrador",
       "slug": "polsia-sembrador",
+      "description": "Fully managed AI outbound for B2B teams. Agents monitor prospect signals 24/7, draft in English and Spanish, send from warmed mailboxes, and book meetings straight onto your calendar — with a live pipeline you can watch.",
+      "description_fr": "IA sortante entièrement gérée pour les équipes B2B. Les agents surveillent les signaux des prospects 24h/24 et 7j/7, rédigent en anglais et en espagnol, envoient depuis des boîtes aux lettres chauffées et planifient des réunions directement sur votre calendrier, avec un pipeline en direct que vous pouvez regarder.",
+      "category": "Sales & CRM",
       "website": "https://sembrador.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-16T22:26:17.457973+00:00"
+    },
+    {
+      "name": "Boutique Costa Azul",
+      "slug": "polsia-boutique-costa-azul",
+      "website": "https://boutique-costa-azul.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-16T21:56:28.222215+00:00"
+      "scraped_at": "2026-08-16T22:24:06.668058+00:00"
+    },
+    {
+      "name": "WardHalo",
+      "slug": "polsia-wardhalo",
+      "website": "https://wardhalo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:24:07.471943+00:00"
+    },
+    {
+      "name": "Terra Haul Fabricators",
+      "slug": "polsia-terra-haul-fabricators",
+      "website": "https://terra-haul-fabricators.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:24:08.373672+00:00"
+    },
+    {
+      "name": "Plaitlore",
+      "slug": "polsia-plaitlore",
+      "website": "https://plaitlore.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:24:09.236093+00:00"
+    },
+    {
+      "name": "Clamber",
+      "slug": "polsia-clamber",
+      "website": "https://clamber.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:24:10.378213+00:00"
+    },
+    {
+      "name": "Barlovento",
+      "slug": "polsia-barlovento",
+      "website": "https://barlovento.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:24:11.249058+00:00"
+    },
+    {
+      "name": "Tapmark",
+      "slug": "polsia-tapmark",
+      "website": "https://tapmark.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:24:11.950725+00:00"
+    },
+    {
+      "name": "Patrolhaus",
+      "slug": "polsia-patrolhaus",
+      "website": "https://patrolhaus.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:24:12.651920+00:00"
+    },
+    {
+      "name": "QuoteCraft",
+      "slug": "polsia-quotecraft-6",
+      "website": "https://quotecraft-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:24:13.484037+00:00"
+    },
+    {
+      "name": "Pelorus",
+      "slug": "polsia-pelorus-lcc9gv",
+      "website": "https://pelorus-lcc9gv.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:24:14.204624+00:00"
     }
   ]
 }
