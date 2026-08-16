@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T22:26:25.123868+00:00",
+  "last_updated": "2026-08-16T22:50:03.006698+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -259743,82 +259743,192 @@
     {
       "name": "Boutique Costa Azul",
       "slug": "polsia-boutique-costa-azul",
+      "description": "Hotel boutique de playa a pasos del mar en Punta Cana. 50 habitaciones, atención personal y una ubicación caminable en Bávaro.",
+      "description_fr": "Hôtel boutique de playa à pasos del mar à Punta Cana. 50 chambres, une attention personnelle et une localisation accessible à Bávaro.",
+      "category": "Travel & Hospitality",
       "website": "https://boutique-costa-azul.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T22:24:06.668058+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:48:57.338811+00:00"
     },
     {
       "name": "WardHalo",
       "slug": "polsia-wardhalo",
+      "description": "Always-on AI infection surveillance from the cameras you already own. Privacy-preserving depth sensing, real-time clinician nudges, and structured shift-end reporting for infection-preventionists.",
+      "description_fr": "Surveillance permanente des infections par l'IA à partir des caméras que vous possédez déjà. Détection de profondeur préservant la confidentialité, coups de pouce des cliniciens en temps réel et rapports structurés de fin de travail pour les préventeurs des infections.",
+      "category": "AI & Machine Learning",
       "website": "https://wardhalo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T22:24:07.471943+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:48:58.908491+00:00"
     },
     {
       "name": "Terra Haul Fabricators",
       "slug": "polsia-terra-haul-fabricators",
+      "description": "Custom heavy-duty water trucks for construction, mining, and fire-suppression crews.",
+      "description_fr": "Camions-citernes lourds personnalisés pour les équipes de construction, d'exploitation minière et de lutte contre les incendies.",
+      "category": "Other",
       "website": "https://terra-haul-fabricators.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T22:24:08.373672+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:49:00.445515+00:00"
     },
     {
       "name": "Plaitlore",
       "slug": "polsia-plaitlore",
+      "description": "Tarot, twists and tailor-made craft — all booked in one creator's studio. Spiritual guidance, hair care, and made-to-order customization under one founder-led roof.",
+      "description_fr": "Tarot, rebondissements et créations sur mesure, le tout réservé dans le studio d'un seul créateur. Conseils spirituels, soins capillaires et personnalisation sur commande sous un même toit dirigé par le fondateur.",
+      "category": "Other",
       "website": "https://plaitlore.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T22:24:09.236093+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:49:01.789725+00:00"
     },
     {
       "name": "Clamber",
       "slug": "polsia-clamber",
+      "description": "Clamber — esports wagering that climbs with your handle. Tiered rooms, faster limits, and fatter rakeback unlocked by settled volume, not sign-up bonuses.",
+      "description_fr": "Clamber – des paris esports qui grimpent avec votre poignée. Des salles à plusieurs niveaux, des limites plus rapides et un rakeback plus important débloqués par un volume réglé, et non par des bonus d'inscription.",
+      "category": "Other",
       "website": "https://clamber.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T22:24:10.378213+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:49:03.090204+00:00"
     },
     {
       "name": "Barlovento",
       "slug": "polsia-barlovento",
+      "description": "Talento remoto e IA para agencias digitales más rentables. Equipo especializado de LATAM y sudeste asiático, combinado con flujos asistidos por IA.",
+      "description_fr": "Talent à distance et IA pour les agences numériques les plus rentables. Equipe spécialisée en LATAM et sud-est asiatique, combinée avec des flux assistés par IA.",
+      "category": "Real Estate",
       "website": "https://barlovento.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T22:24:11.249058+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:49:05.170537+00:00"
     },
     {
       "name": "Tapmark",
       "slug": "polsia-tapmark",
+      "description": "The tap-to-join loyalty kit that replaces a recurring subscription with a single purchase. One kit, one tap, every customer back in line.",
+      "description_fr": "Le kit de fidélité Tap-to-Join qui remplace un abonnement récurrent par un achat unique. Un kit, un robinet, chaque client de nouveau en ligne.",
+      "category": "Other",
       "website": "https://tapmark.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T22:24:11.950725+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:49:06.570442+00:00"
     },
     {
       "name": "Patrolhaus",
       "slug": "polsia-patrolhaus",
+      "description": "The autonomous property desk that briefs landlords every morning — overnight triage, vendor dispatch, and rent reminders without you babysitting your inbox.",
+      "description_fr": "Le bureau immobilier autonome qui informe les propriétaires chaque matin : triage de nuit, répartition des fournisseurs et rappels de loyer sans que vous surveilliez votre boîte de réception.",
+      "category": "Real Estate",
       "website": "https://patrolhaus.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T22:24:12.651920+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:49:08.082398+00:00"
     },
     {
       "name": "QuoteCraft",
       "slug": "polsia-quotecraft-6",
+      "description": "AI-powered quoting for Canadian tradespeople who need the right price, fast. Margin-aware, GST-correct, CAD-native.",
+      "description_fr": "Des soumissions basées sur l'IA pour les artisans canadiens qui ont besoin du bon prix, rapidement. Tenir compte des marges, corriger la TPS et être natif en CAO.",
+      "category": "AI & Machine Learning",
       "website": "https://quotecraft-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T22:24:13.484037+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T22:49:09.849287+00:00"
     },
     {
       "name": "Pelorus",
       "slug": "polsia-pelorus-lcc9gv",
+      "description": "Pelorus is the AI-agent permit and inspection concierge built for Orange County — dispatching 24/7 watchers across all 34 OC city portals so contractors and homeowners never chase a status page again.",
+      "description_fr": "Pelorus est le concierge de permis d'agent IA et d'inspection conçu pour le comté d'Orange - envoyant des observateurs 24h/24 et 7j/7 sur les 34 portails de la ville d'OC afin que les entrepreneurs et les propriétaires ne recherchent plus jamais une page de statut.",
+      "category": "AI & Machine Learning",
       "website": "https://pelorus-lcc9gv.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-16T22:49:11.540823+00:00"
+    },
+    {
+      "name": "Café Vereda",
+      "slug": "polsia-caf-vereda",
+      "website": "https://caf-vereda.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-16T22:24:14.204624+00:00"
+      "scraped_at": "2026-08-16T22:46:25.498072+00:00"
+    },
+    {
+      "name": "QuestForge",
+      "slug": "polsia-questforge-11",
+      "website": "https://questforge-11.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:46:26.432950+00:00"
+    },
+    {
+      "name": "Calltap",
+      "slug": "polsia-calltap-2",
+      "website": "https://calltap-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:46:28.006283+00:00"
+    },
+    {
+      "name": "Covelo",
+      "slug": "polsia-covelo-6",
+      "website": "https://covelo-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:46:33.848333+00:00"
+    },
+    {
+      "name": "BantayTinda",
+      "slug": "polsia-bantaytinda",
+      "website": "https://bantaytinda.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:46:35.767470+00:00"
+    },
+    {
+      "name": "Ledger Yard Co.",
+      "slug": "polsia-ledger-yard-co",
+      "website": "https://ledger-yard-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:46:41.798844+00:00"
+    },
+    {
+      "name": "Zócalo Studio",
+      "slug": "polsia-zcalo-studio",
+      "website": "https://zcalo-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:46:47.452170+00:00"
+    },
+    {
+      "name": "Lodgerune",
+      "slug": "polsia-lodgerune",
+      "website": "https://lodgerune.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:46:48.406087+00:00"
+    },
+    {
+      "name": "Sagestead",
+      "slug": "polsia-sagestead-2",
+      "website": "https://sagestead-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:46:54.073703+00:00"
+    },
+    {
+      "name": "Repour",
+      "slug": "polsia-repour-7",
+      "website": "https://repour-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T22:46:59.705393+00:00"
     }
   ]
 }
