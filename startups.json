@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T19:50:47.084654+00:00",
+  "last_updated": "2026-08-16T20:03:37.649147+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -249584,10 +249584,13 @@
     {
       "name": "Plumbwell",
       "slug": "polsia-plumbwell-8",
+      "description": "A 180-day mission system across 7 life pillars — mind, body, money, identity. One action a day, tracked week after week.",
+      "description_fr": "Un système de mission de 180 jours autour de 7 piliers de la vie : esprit, corps, argent, identité. Une action par jour, suivie semaine après semaine.",
+      "category": "Other",
       "website": "https://plumbwell-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-14T23:42:47.352270+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T20:00:55.137203+00:00"
     },
     {
       "name": "Claravio",
@@ -258990,50 +258993,68 @@
     {
       "name": "Plumgrade",
       "slug": "polsia-plumgrade",
+      "description": "A pregnancy safety grade for every product on your shelf. Plumgrade scores cookware, skin care, water filters, and baby gear against the chemicals proven to affect fetal development — BPA, phthalates, parabens, PFAS, and microplastics.",
+      "description_fr": "Une note de sécurité pendant la grossesse pour chaque produit sur votre étagère. Plumgrade évalue les ustensiles de cuisine, les soins de la peau, les filtres à eau et les équipements pour bébés par rapport aux produits chimiques dont il est prouvé qu'ils affectent le développement du fœtus : BPA, phtalates, parabènes, PFAS et microplastiques.",
+      "category": "Other",
       "website": "https://plumgrade.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T19:47:22.971023+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T20:02:34.672359+00:00"
     },
     {
       "name": "Knollmark",
       "slug": "polsia-knollmark-3",
+      "description": "An always-on AI agent that lists, bids, and closes wholesale potato sales for smallholders.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://knollmark-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T19:47:28.590031+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T20:02:35.646899+00:00"
     },
     {
       "name": "Shiftsight",
       "slug": "polsia-shiftsight",
+      "description": "Verified watch, smart dispatch, morning shift reports. AI agents across your existing cameras cut false dispatches in half.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://shiftsight.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T19:47:29.565786+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T20:02:36.557199+00:00"
     },
     {
       "name": "Tradebench",
       "slug": "polsia-tradebench-4",
+      "description": "Tradebench is the AI-native back office for UK tradespeople — smart scheduling, photo-to-quote, automated comms, invoicing and compliance in one place.",
+      "description_fr": "Tradebench est le back-office natif de l'IA pour les artisans britanniques : planification intelligente, photo vers devis, communications automatisées, facturation et conformité en un seul endroit.",
+      "category": "AI & Machine Learning",
       "website": "https://tradebench-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T19:47:35.143634+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T20:02:37.968304+00:00"
     },
     {
       "name": "Cotiledon",
       "slug": "polsia-cotiledon",
+      "description": "Prima agenție de social media din România dedicată exclusiv clinicilor private de maternitate, spitalelor private cu secții de obstetrică și centrelor de fertilitate. Marketing empatic pentru maternitatea privată din România.",
+      "description_fr": "Première agence de médias sociaux en Roumanie dédiée exclusivement aux cliniciens privés de maternité, aux hôpitaux privés avec section d'obstétrique et au centre de fécondation. Marketing empatique pour la maternité privée en Roumanie.",
+      "category": "Marketing & Advertising",
       "website": "https://cotiledon.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T19:47:40.795634+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T20:02:39.232993+00:00"
     },
     {
       "name": "Sidestone",
       "slug": "polsia-sidestone",
+      "description": "Find the side business that actually fits you.",
+      "description_fr": "Trouvez l'activité secondaire qui vous convient réellement.",
+      "category": "Other",
       "website": "https://sidestone.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T19:47:46.510451+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T20:02:41.543485+00:00"
     },
     {
       "name": "Reqlatch",
@@ -259067,6 +259088,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-16T19:50:47.083500+00:00"
+    },
+    {
+      "name": "Voxstead",
+      "slug": "polsia-voxstead-6",
+      "website": "https://voxstead-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T20:00:16.943191+00:00"
+    },
+    {
+      "name": "Loomstead",
+      "slug": "polsia-loomstead-q3kds1",
+      "website": "https://loomstead-q3kds1.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T20:00:22.632192+00:00"
+    },
+    {
+      "name": "Quillmoor",
+      "slug": "polsia-quillmoor-4",
+      "website": "https://quillmoor-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T20:00:23.598678+00:00"
+    },
+    {
+      "name": "Kithnote",
+      "slug": "polsia-kithnote",
+      "website": "https://kithnote.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T20:00:29.307569+00:00"
+    },
+    {
+      "name": "Hailmoto",
+      "slug": "polsia-hailmoto",
+      "website": "https://hailmoto.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T20:00:31.833257+00:00"
+    },
+    {
+      "name": "Afterring",
+      "slug": "polsia-afterring-4",
+      "website": "https://afterring-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T20:00:37.504819+00:00"
+    },
+    {
+      "name": "Galiafox",
+      "slug": "polsia-galiafox",
+      "website": "https://galiafox.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T20:00:38.292315+00:00"
+    },
+    {
+      "name": "Marżownik",
+      "slug": "polsia-marownik-3",
+      "website": "https://marownik-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T20:00:39.117448+00:00"
+    },
+    {
+      "name": "BuffBench",
+      "slug": "polsia-buffbench",
+      "website": "https://buffbench.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T20:00:44.595115+00:00"
+    },
+    {
+      "name": "VerbaVault",
+      "slug": "polsia-verbavault",
+      "website": "https://verbavault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T20:00:50.225493+00:00"
     }
   ]
 }
