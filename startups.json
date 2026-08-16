@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T01:20:55.972007+00:00",
+  "last_updated": "2026-08-16T01:47:59.976909+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -254979,18 +254979,24 @@
     {
       "name": "Tongue and Groove Tools",
       "slug": "polsia-tongue-and-groove-tools",
+      "description": "Jobsite-tested guides, tool picks, and fix-it advice for tongue-and-groove ceiling and wall installs — published by Herb.",
+      "description_fr": "Guides testés sur le chantier, choix d'outils et conseils de réparation pour les installations de plafonds et de murs à rainure et languette — publiés par Herb.",
+      "category": "Other",
       "website": "https://tongue-and-groove-tools.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:56:46.636291+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T01:47:04.142906+00:00"
     },
     {
       "name": "Aurellion",
       "slug": "polsia-aurellion",
+      "description": "Esmeraldas brasileiras autênticas de Minas Gerais para joalheiros e lapidários. Aurellion — comerciante portuguesa de pedras preciosas, sediada em Coimbra.",
+      "description_fr": "Esmeraldas brasileiras authentiques de Minas Gerais pour joalheiros et lapidarios. Aurellion — commerçante portugaise de pierres précieuses, sediada à Coimbra.",
+      "category": "Software & SaaS",
       "website": "https://aurellion.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:56:52.265463+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T01:47:05.875631+00:00"
     },
     {
       "name": "Routemint",
@@ -255014,18 +255020,24 @@
     {
       "name": "Saltpith",
       "slug": "polsia-saltpith",
+      "description": "From the bath to the gym bag — the everyday stack for recovery, sleep, and the days between resets.",
+      "description_fr": "Du bain au sac de sport : la pile quotidienne pour la récupération, le sommeil et les jours entre les réinitialisations.",
+      "category": "Sustainability & Green",
       "website": "https://saltpith.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:57:09.154916+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T01:47:07.523344+00:00"
     },
     {
       "name": "Senteria",
       "slug": "polsia-senteria",
+      "description": "L'agenzia AI-native che veglia 24/7 su mercati, brief e campagne. Strategia, brief e performance orchestrati da agenti autonomi.",
+      "description_fr": "L'agence AI-native veille 24h/24 et 7j/7 sur vos marchés, brèves et campagnes. Stratégies, brèves et performances orchestrales des agents autonomes.",
+      "category": "AI & Machine Learning",
       "website": "https://senteria.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:57:19.646965+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T01:47:08.897125+00:00"
     },
     {
       "name": "Turnwell",
@@ -255041,26 +255053,124 @@
     {
       "name": "Watchlight",
       "slug": "polsia-watchlight",
+      "description": "Always-on review monitoring, on-brand replies, and owner-grade alerts for local service businesses — flat monthly fee per location.",
+      "description_fr": "Surveillance permanente des avis, réponses adaptées à la marque et alertes de niveau propriétaire pour les entreprises de services locales – frais mensuels fixes par emplacement.",
+      "category": "Marketing & Advertising",
       "website": "https://watchlight.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:57:30.764482+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T01:47:10.472634+00:00"
     },
     {
       "name": "Coxn",
       "slug": "polsia-coxn",
+      "description": "Text one local number for every boat problem — engine, canvas, diver, detailer, captain. Coxn dispatches the right pro from your phone.",
+      "description_fr": "Envoyez un SMS à un numéro local pour chaque problème de bateau : moteur, toile, plongeur, dessinateur, capitaine. Coxn envoie le bon professionnel depuis votre téléphone.",
+      "category": "Other",
       "website": "https://coxn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:57:36.400706+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T01:47:11.869326+00:00"
     },
     {
       "name": "Loftward",
       "slug": "polsia-loftward",
+      "description": "Loftward — the AI-native control plane for hosting. Stop clicking cPanel. Start talking to your hosting.",
+      "description_fr": "Loftward — le plan de contrôle natif de l'IA pour l'hébergement. Arrêtez de cliquer sur cPanel. Commencez à parler à votre hébergement.",
+      "category": "AI & Machine Learning",
       "website": "https://loftward.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-16T01:47:13.476316+00:00"
+    },
+    {
+      "name": "Kilnring",
+      "slug": "polsia-kilnring-2",
+      "website": "https://kilnring-2.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-15T23:57:41.932024+00:00"
+      "scraped_at": "2026-08-16T01:44:31.374847+00:00"
+    },
+    {
+      "name": "Recru.ca",
+      "slug": "polsia-recruca",
+      "website": "https://recruca.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T01:44:36.968600+00:00"
+    },
+    {
+      "name": "Mys Construction Inc",
+      "slug": "polsia-mys-construction-inc",
+      "website": "https://mys-construction-inc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T01:44:47.538586+00:00"
+    },
+    {
+      "name": "Latchpost",
+      "slug": "polsia-latchpost-wvbcbh",
+      "website": "https://latchpost-wvbcbh.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T01:44:53.086808+00:00"
+    },
+    {
+      "name": "Klothcrate",
+      "slug": "polsia-klothcrate",
+      "description": "Pickup by noon. Folded by dinner. Same-day laundry pickup and drop-off for city apartments — a weekend of washing compressed into a single afternoon.",
+      "description_fr": "Récupération vers midi. Plié par le dîner. Ramassage et dépôt du linge le jour même pour les appartements en ville : un week-end de lessive compressé en un seul après-midi.",
+      "category": "Real Estate",
+      "website": "https://klothcrate.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-16T01:47:41.381957+00:00"
+    },
+    {
+      "name": "Calendrante",
+      "slug": "polsia-calendrante",
+      "description": "Riempiamo il tuo calendario con clienti pronti a firmare. Agenzia di appuntamenti qualificati per studi dentistici, cliniche estetiche, location wedding, immobiliari di lusso e avvocati.",
+      "description_fr": "Nous vous proposons votre calendrier avec vos clients immédiatement au cabinet. Agence d'agences qualifiées pour les études de dentiste, d'esthétique clinique, de mariage, d'immobilier de luxe et d'avocats.",
+      "category": "Health & Wellness",
+      "website": "https://calendrante.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-16T01:47:42.081073+00:00"
+    },
+    {
+      "name": "Plumbpost",
+      "slug": "polsia-plumbpost-w2jxn1",
+      "description": "Autonomous agents and owned field crews — the first AI-native maintenance firm without the coordination middle layer.",
+      "description_fr": "Agents autonomes et équipes de terrain détenues – la première entreprise de maintenance native d’IA sans couche intermédiaire de coordination.",
+      "category": "AI & Machine Learning",
+      "website": "https://plumbpost-w2jxn1.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-16T01:47:43.841112+00:00"
+    },
+    {
+      "name": "Trimreach",
+      "slug": "polsia-trimreach",
+      "website": "https://trimreach.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T01:45:14.856361+00:00"
+    },
+    {
+      "name": "Zodika",
+      "slug": "polsia-zodika",
+      "website": "https://zodika.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T01:45:15.506347+00:00"
+    },
+    {
+      "name": "Tocado",
+      "slug": "polsia-tocado",
+      "website": "https://tocado.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T01:45:20.996220+00:00"
     }
   ]
 }
