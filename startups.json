@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T19:02:43.749940+00:00",
+  "last_updated": "2026-08-16T19:31:04.342586+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -258790,34 +258790,46 @@
     {
       "name": "Laterbloom",
       "slug": "polsia-laterbloom-7",
+      "description": "One trusted guide for families navigating aging parents — annual membership with in-home assessment, vetted referrals, and monthly check-ins.",
+      "description_fr": "Un guide fiable pour les familles confrontées à des parents vieillissants : adhésion annuelle avec évaluation à domicile, références vérifiées et enregistrements mensuels.",
+      "category": "Real Estate",
       "website": "https://laterbloom-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T18:59:08.266898+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T19:29:46.657660+00:00"
     },
     {
       "name": "Roadplex",
       "slug": "polsia-roadplex",
+      "description": "AI agents running mobile auto glass shops around the clock.",
+      "description_fr": "Des agents IA gèrent des magasins de verre automobile mobiles 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://roadplex.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T18:59:08.964073+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T19:29:48.065473+00:00"
     },
     {
       "name": "Stowfox",
       "slug": "polsia-stowfox",
+      "description": "On-demand pickup and delivery for the heavy stuff movers skip — propane, water jugs, ice, mulch, firewood, and bulk supplies, from a background-checked flatbed driver, often within the hour.",
+      "description_fr": "Ramassage et livraison à la demande des objets lourds que les déménageurs évitent : propane, carafes d'eau, glace, paillis, bois de chauffage et fournitures en vrac, par un chauffeur à plat dont les antécédents ont été vérifiés, souvent dans l'heure.",
+      "category": "Logistics & Supply Chain",
       "website": "https://stowfox.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T18:59:09.564743+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T19:29:49.727539+00:00"
     },
     {
       "name": "Refinery",
       "slug": "polsia-refinery",
+      "description": "Detection, revocation, and remediation for AI-generated content. Built for enterprise content, legal, and compliance teams.",
+      "description_fr": "Détection, révocation et correction du contenu généré par l'IA. Conçu pour les équipes de contenu d'entreprise, juridiques et de conformité.",
+      "category": "Entertainment & Media",
       "website": "https://refinery.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T18:59:10.316437+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T19:29:51.007022+00:00"
     },
     {
       "name": "Versemason",
@@ -258830,10 +258842,13 @@
     {
       "name": "Civic Lattice",
       "slug": "polsia-civic-lattice",
+      "description": "AI-assisted deliberation infrastructure for public participation and policy input — built for host organisations and procurement teams that need trustworthy digital participation.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://civic-lattice.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T18:59:26.452895+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T19:29:52.735444+00:00"
     },
     {
       "name": "Stormwake",
@@ -258849,10 +258864,13 @@
     {
       "name": "Abohof",
       "slug": "polsia-abohof",
+      "description": "Abohof sammelt vergessene Abos ein, kündigt sie automatisch und verhandelt jährlich Strom-, Internet- und Versicherungs­preise neu. Erfolgsbasiert, ohne Abo, made in Germany.",
+      "description_fr": "Abohof sammelt vergessene Abos ein, kündigt sie automatisch et verhandelt jährlich Strom-, Internet- et Versicherungspreise neu. Erfolgsbasiert, sans Abo, fabriqué en Allemagne.",
+      "category": "Other",
       "website": "https://abohof.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-16T18:59:37.972140+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-16T19:29:53.805736+00:00"
     },
     {
       "name": "Leanseer",
@@ -258861,6 +258879,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-08-16T18:59:43.520606+00:00"
+    },
+    {
+      "name": "Rivetlab",
+      "slug": "polsia-rivetlab",
+      "website": "https://rivetlab.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T19:27:34.518220+00:00"
+    },
+    {
+      "name": "Briarworth",
+      "slug": "polsia-briarworth",
+      "website": "https://briarworth.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T19:27:36.015183+00:00"
+    },
+    {
+      "name": "RinnovaIA",
+      "slug": "polsia-rinnovaia",
+      "website": "https://rinnovaia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T19:27:36.782737+00:00"
+    },
+    {
+      "name": "Stratum Ledger",
+      "slug": "polsia-stratum-ledger",
+      "website": "https://stratum-ledger.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T19:27:37.330266+00:00"
+    },
+    {
+      "name": "Misewise",
+      "slug": "polsia-misewise-7",
+      "website": "https://misewise-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T19:27:37.966634+00:00"
+    },
+    {
+      "name": "Husbandry",
+      "slug": "polsia-husbandry",
+      "website": "https://husbandry.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T19:27:43.293957+00:00"
+    },
+    {
+      "name": "Eclipton",
+      "slug": "polsia-eclipton",
+      "website": "https://eclipton.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T19:27:44.110512+00:00"
+    },
+    {
+      "name": "Wildroot Herbcraft",
+      "slug": "polsia-wildroot-herbcraft",
+      "website": "https://wildroot-herbcraft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T19:27:54.545847+00:00"
+    },
+    {
+      "name": "Petrio",
+      "slug": "polsia-petrio",
+      "website": "https://petrio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T19:27:55.307959+00:00"
+    },
+    {
+      "name": "Steelcroft",
+      "slug": "polsia-steelcroft",
+      "website": "https://steelcroft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-16T19:27:56.056671+00:00"
     }
   ]
 }
