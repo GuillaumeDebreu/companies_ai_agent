@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T23:42:48.208252+00:00",
+  "last_updated": "2026-08-16T00:00:13.737998+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -254869,58 +254869,79 @@
     {
       "name": "Carivexa",
       "slug": "polsia-carivexa",
+      "description": "Exclusive, pre-qualified patient appointments for specialty medical practices.",
+      "description_fr": "Rendez-vous exclusifs et pré-qualifiés pour les cabinets médicaux spécialisés.",
+      "category": "Health & Wellness",
       "website": "https://carivexa.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:39:20.019215+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T23:59:13.738656+00:00"
     },
     {
       "name": "Moxán",
       "slug": "polsia-moxn",
+      "description": "Operamos tu consultorio mientras tú atiendes pacientes. Agencia mexicana de operaciones con IA para clínicas y consultorios.",
+      "description_fr": "Operamos tu consultorio mientras tu atiendes patients. Agence mexicaine d'opérations avec IA pour cliniques et consultants.",
+      "category": "Other",
       "website": "https://moxn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:39:21.230690+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T23:59:14.948426+00:00"
     },
     {
       "name": "Leadquench",
       "slug": "polsia-leadquench-2",
+      "description": "Done-for-you AI follow-up for local businesses. Missed-call text-back, nurture, calendar booking, reminders, and review requests — live in days, running every month.",
+      "description_fr": "Suivi IA fait pour vous pour les entreprises locales. Renvoi de SMS d'appel manqué, suivi, réservation de calendrier, rappels et demandes de révision - en direct en quelques jours, chaque mois.",
+      "category": "AI & Machine Learning",
       "website": "https://leadquench-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:39:26.896071+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T23:59:16.122925+00:00"
     },
     {
       "name": "Heughuis",
       "slug": "polsia-heughuis",
+      "description": "Een autonome, privacy-eerste AI-compagnon waarmee families de persoonlijkheid, verhalen en stemmen van dierbaren bewaren in een veilig levend nalatenschapsarchief.",
+      "description_fr": "Une compagnie d'IA autonome et soucieuse de la vie privée est armée de familles de personnes qui se méfient d'un chef d'accusation secret.",
+      "category": "AI & Machine Learning",
       "website": "https://heughuis.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:39:37.543086+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T23:59:18.072772+00:00"
     },
     {
       "name": "Tropelia",
       "slug": "polsia-tropelia-2",
+      "description": "Agentes de IA que custodian tu reputación en marketplaces 24/7 — Mercado Libre, Amazon y Shopify.",
+      "description_fr": "Agents d'IA qui gardent votre réputation sur les marchés 24h/24 et 7j/7 — Mercado Libre, Amazon et Shopify.",
+      "category": "E-Commerce & Retail",
       "website": "https://tropelia-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:39:38.367300+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T23:59:19.396662+00:00"
     },
     {
       "name": "Tarvo",
       "slug": "polsia-tarvo-4",
+      "description": "Agentes de IA que auditam suas contas de luz, água e gás 24/7 e abrem protocolos automaticamente junto às concessionárias, com base nas normas da ANEEL, ARSESP e órgãos análogos.",
+      "description_fr": "Agents d'IA qui vérifient vos comptes de lumière, d'eau et de gaz 24h/24 et 7j/7 et établissent automatiquement des protocoles conjointement avec les concessionnaires, sur la base des normes de l'ANEEL, de l'ARSESP et des organisations analogues.",
+      "category": "Other",
       "website": "https://tarvo-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:39:39.249956+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T23:59:20.340256+00:00"
     },
     {
       "name": "Braséro & Levain",
       "slug": "polsia-brasro-levain",
+      "description": "Bar-restaurant-boulangerie au cœur d’Angoulême : pain au levain charentais, smash burgers au braséro, hot-dogs gourmets et viennoiseries du fournil, du petit-déjeuner au dernier verre.",
+      "description_fr": "Bar-restaurant-boulangerie au cœur d'Angoulême : pain au levain charentais, smash burgers au braséro, hot-dogs gourmets et viennoiseries du fournil, du petit-déjeuner au dernier verre.",
+      "category": "Food & Beverage",
       "website": "https://brasro-levain.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:39:45.677699+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T23:59:22.135839+00:00"
     },
     {
       "name": "Wicks & Things LLC",
@@ -254936,10 +254957,13 @@
     {
       "name": "Atalaya",
       "slug": "polsia-atalaya-ww5ez5",
+      "description": "Tres tiendas. Un agente. Las 24 horas. Atalaya une MercadoLibre, Shopify y Tiendanube bajo un único agente de IA que opera tu e-commerce mientras dormís.",
+      "description_fr": "Tres tiendas. Un agent. Las 24 heures. Atalaya un MercadoLibre, Shopify y Tiendanube bajo un unique agent de IA qui exploite votre e-commerce pendant votre sommeil.",
+      "category": "E-Commerce & Retail",
       "website": "https://atalaya-ww5ez5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-15T23:39:56.684928+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-15T23:59:23.682518+00:00"
     },
     {
       "name": "Loopmark",
@@ -254951,6 +254975,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-15T23:42:48.207164+00:00"
+    },
+    {
+      "name": "Tongue and Groove Tools",
+      "slug": "polsia-tongue-and-groove-tools",
+      "website": "https://tongue-and-groove-tools.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T23:56:46.636291+00:00"
+    },
+    {
+      "name": "Aurellion",
+      "slug": "polsia-aurellion",
+      "website": "https://aurellion.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T23:56:52.265463+00:00"
+    },
+    {
+      "name": "Routemint",
+      "slug": "polsia-routemint-6",
+      "website": "https://routemint-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T23:56:52.818074+00:00"
+    },
+    {
+      "name": "Lux Gems",
+      "slug": "polsia-lux-gems",
+      "description": "Fine gemstone jewelry, sourced direct and priced right. Traceable supply chains, quality craftsmanship, and transparent pricing on colored-stone and diamond-led pieces.",
+      "description_fr": "Bijoux en pierres précieuses fines, provenant directement et au juste prix. Chaînes d'approvisionnement traçables, savoir-faire de qualité et prix transparents sur les pièces en pierres colorées et en diamants.",
+      "category": "Real Estate",
+      "website": "https://lux-gems.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T23:59:35.485710+00:00"
+    },
+    {
+      "name": "Saltpith",
+      "slug": "polsia-saltpith",
+      "website": "https://saltpith.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T23:57:09.154916+00:00"
+    },
+    {
+      "name": "Senteria",
+      "slug": "polsia-senteria",
+      "website": "https://senteria.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T23:57:19.646965+00:00"
+    },
+    {
+      "name": "Turnwell",
+      "slug": "polsia-turnwell-c9f4mq",
+      "description": "Turnwell is an autonomous co-host for short-term rentals — dynamic repricing, 24/7 guest messaging, cleaner turnovers, and maintenance triage on autopilot.",
+      "description_fr": "Turnwell est un co-hébergeur autonome pour les locations à court terme : retarification dynamique, messagerie client 24h/24 et 7j/7, chiffres d'affaires plus propres et triage de la maintenance sur pilote automatique.",
+      "category": "Travel & Hospitality",
+      "website": "https://turnwell-c9f4mq.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-15T23:59:57.334268+00:00"
+    },
+    {
+      "name": "Watchlight",
+      "slug": "polsia-watchlight",
+      "website": "https://watchlight.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T23:57:30.764482+00:00"
+    },
+    {
+      "name": "Coxn",
+      "slug": "polsia-coxn",
+      "website": "https://coxn.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T23:57:36.400706+00:00"
+    },
+    {
+      "name": "Loftward",
+      "slug": "polsia-loftward",
+      "website": "https://loftward.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-15T23:57:41.932024+00:00"
     }
   ]
 }
