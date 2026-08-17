@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T20:49:41.655019+00:00",
+  "last_updated": "2026-08-17T21:15:02.215689+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -263595,10 +263595,13 @@
     {
       "name": "CompassPoint Community Services",
       "slug": "polsia-compasspoint-community-services",
+      "description": "Day, residential, and employment support for adults with developmental disabilities — coordinated by one care team across every stage of adult life.",
+      "description_fr": "Soutien de jour, d'hébergement et d'emploi pour les adultes ayant une déficience intellectuelle - coordonné par une seule équipe de soins à chaque étape de la vie adulte.",
+      "category": "Social & Community",
       "website": "https://compasspoint-community-services.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T20:47:08.689789+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T21:13:49.141371+00:00"
     },
     {
       "name": "Aurelume",
@@ -263611,66 +263614,170 @@
     {
       "name": "Underledger",
       "slug": "polsia-underledger",
+      "description": "Autonomous bookkeeping built for one-person businesses. Underledger watches your inbox, categorizes expenses, chases overdue invoices, and ships a tax-ready P&L each month.",
+      "description_fr": "Comptabilité autonome conçue pour les entreprises individuelles. Underledger surveille votre boîte de réception, catégorise les dépenses, recherche les factures en retard et envoie chaque mois un compte de résultat prêt pour l'impôt.",
+      "category": "Finance & Fintech",
       "website": "https://underledger.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T20:47:10.210353+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T21:13:51.280566+00:00"
     },
     {
       "name": "Tressora",
       "slug": "polsia-tressora-3",
+      "description": "Le back-office bancaire commercial, orchestré en continu par des agents IA de confiance.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://tressora-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T20:47:11.407401+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T21:13:52.232529+00:00"
     },
     {
       "name": "Equitable Access Studio",
       "slug": "polsia-equitable-access-studio",
+      "description": "Designing inclusive products, services, and workplaces from the ground up.",
+      "description_fr": "Concevoir des produits, des services et des lieux de travail inclusifs à partir de la base.",
+      "category": "Other",
       "website": "https://equitable-access-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T20:47:17.021654+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T21:13:53.750199+00:00"
     },
     {
       "name": "Pivotsmith",
       "slug": "polsia-pivotsmith-2",
+      "description": "Vertical AI services that ship outcomes, not model demos. Pre-tuned RAG, multi-model routing, eval dashboards and audit-ready logging for revenue, legal and creator teams.",
+      "description_fr": "Des services d'IA verticaux qui fournissent des résultats, et non des démonstrations de modèles. RAG préréglé, routage multimodèle, tableaux de bord d'évaluation et journalisation prête pour l'audit pour les équipes commerciales, juridiques et de création.",
+      "category": "AI & Machine Learning",
       "website": "https://pivotsmith-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T20:47:17.745224+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T21:13:55.396167+00:00"
     },
     {
       "name": "Meridian Reach Studio",
       "slug": "polsia-meridian-reach-studio",
+      "description": "Brand strategy, web design, and digital campaigns for growing small businesses.",
+      "description_fr": "Stratégie de marque, conception de sites Web et campagnes numériques pour les petites entreprises en croissance.",
+      "category": "Marketing & Advertising",
       "website": "https://meridian-reach-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T20:47:23.165228+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T21:13:56.661400+00:00"
     },
     {
       "name": "Prowlcast",
       "slug": "polsia-prowlcast-3",
+      "description": "An autonomous AI operator for your faceless YouTube channel — scouts niches, scripts, voices, edits, schedules, and replies on a consistent persona. From first trend signal to weekly revenue brief.",
+      "description_fr": "Un opérateur d'IA autonome pour votre chaîne YouTube sans visage : recherche des niches, des scripts, des voix, des modifications, des programmes et des réponses sur une personnalité cohérente. Du premier signal de tendance au briefing hebdomadaire sur les revenus.",
+      "category": "AI & Machine Learning",
       "website": "https://prowlcast-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T20:47:23.856114+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T21:13:58.380707+00:00"
     },
     {
       "name": "Meridia AI",
       "slug": "polsia-meridia-ai",
+      "description": "AI-powered video intelligence for Africa and the Caribbean — people counting, crowd analytics, PPE detection and operational dashboards built on Dahua, Hikvision, Tiandy and Uniview.",
+      "description_fr": "Intelligence vidéo basée sur l'IA pour l'Afrique et les Caraïbes : comptage de personnes, analyse des foules, détection des EPI et tableaux de bord opérationnels basés sur Dahua, Hikvision, Tiandy et Uniview.",
+      "category": "AI & Machine Learning",
       "website": "https://meridia-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T20:47:29.213678+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T21:14:00.732643+00:00"
     },
     {
       "name": "Veillekot",
       "slug": "polsia-veillekot",
+      "description": "24/7 AI-verhuurassistent voor Belgische en Franse koten en stadskamers.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://veillekot.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-17T21:14:01.518594+00:00"
+    },
+    {
+      "name": "Castscope",
+      "slug": "polsia-castscope",
+      "website": "https://castscope.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-17T20:47:34.678080+00:00"
+      "scraped_at": "2026-08-17T21:11:42.134631+00:00"
+    },
+    {
+      "name": "Rescoldo Studio",
+      "slug": "polsia-rescoldo-studio",
+      "website": "https://rescoldo-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T21:11:43.001397+00:00"
+    },
+    {
+      "name": "Brushwork Studio Co.",
+      "slug": "polsia-brushwork-studio-co",
+      "website": "https://brushwork-studio-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T21:11:44.040501+00:00"
+    },
+    {
+      "name": "Partport",
+      "slug": "polsia-partport",
+      "website": "https://partport.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T21:11:49.555408+00:00"
+    },
+    {
+      "name": "ZipLane Leads",
+      "slug": "polsia-ziplane-leads",
+      "website": "https://ziplane-leads.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T21:11:50.413330+00:00"
+    },
+    {
+      "name": "AthleteConnect Hub",
+      "slug": "polsia-athleteconnect-hub",
+      "website": "https://athleteconnect-hub.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T21:11:56.263159+00:00"
+    },
+    {
+      "name": "Plinth",
+      "slug": "polsia-plinth-t4zp50",
+      "website": "https://plinth-t4zp50.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T21:12:01.907324+00:00"
+    },
+    {
+      "name": "Wobblehaus",
+      "slug": "polsia-wobblehaus",
+      "website": "https://wobblehaus.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T21:12:07.547242+00:00"
+    },
+    {
+      "name": "Meridian Career Strategy",
+      "slug": "polsia-meridian-career-strategy",
+      "website": "https://meridian-career-strategy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T21:12:08.362054+00:00"
+    },
+    {
+      "name": "Sob Quina",
+      "slug": "polsia-sob-quina",
+      "website": "https://sob-quina.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T21:12:18.891359+00:00"
     }
   ]
 }
