@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T18:40:00.525950+00:00",
+  "last_updated": "2026-08-17T18:56:47.575926+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -263063,66 +263063,90 @@
     {
       "name": "Molarpost",
       "slug": "polsia-molarpost",
+      "description": "AI agents running specialty chemical distribution around the clock — sourcing, FX hedging, logistics, compliance, invoicing.",
+      "description_fr": "Des agents IA assurent la distribution de produits chimiques spécialisés 24 heures sur 24 : approvisionnement, couverture des changes, logistique, conformité, facturation.",
+      "category": "AI & Machine Learning",
       "website": "https://molarpost.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:02:18.912968+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T18:55:48.101576+00:00"
     },
     {
       "name": "Cendre",
       "slug": "polsia-cendre",
+      "description": "Autonomous carbon accounting and CSRD reporting for SME manufacturers and freight operators.",
+      "description_fr": "Comptabilité carbone autonome et reporting CSRD pour les PME manufacturières et les opérateurs de fret.",
+      "category": "Finance & Fintech",
       "website": "https://cendre.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:02:19.617764+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T18:55:50.078711+00:00"
     },
     {
       "name": "Turnoviva",
       "slug": "polsia-turnoviva",
+      "description": "Agente IA 24/7 que opera tu clínica por WhatsApp y entrega un único reporte diario al director.",
+      "description_fr": "Agent IA 24h/24 et 7j/7 qui travaille sur votre clinique par WhatsApp et entre un journal unique avec le directeur.",
+      "category": "Other",
       "website": "https://turnoviva.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:02:25.186566+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T18:55:51.405991+00:00"
     },
     {
-      "name": "Thrum",
+      "name": "Thrum — sub",
       "slug": "polsia-thrum-6",
+      "description": "Sub-40ms lossless wireless audio for the pickiest ears. A USB wireless dongle built around a closed-firmware transport with openly released schematics, PCB files, and a 3D-printable enclosure.",
+      "description_fr": "Audio sans fil sans perte inférieur à 40 ms pour les oreilles les plus exigeantes. Un dongle USB sans fil construit autour d'un transport de micrologiciel fermé avec des schémas, des fichiers PCB et un boîtier imprimable en 3D.",
+      "category": "Other",
       "website": "https://thrum-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:02:30.872239+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T18:55:52.763841+00:00"
     },
     {
       "name": "Praxpath",
       "slug": "polsia-praxpath",
+      "description": "White-glove AI operations for independent dental practices — a 24/7 AI receptionist, auto-booking, two-way SMS, no-show recovery, and dormant-patient reactivation, billed on outcomes, not seats.",
+      "description_fr": "Opérations d'IA en gants blancs pour les cabinets dentaires indépendants : réceptionniste IA 24h/24 et 7j/7, réservation automatique, SMS bidirectionnels, récupération en cas de non-présentation et réactivation des patients dormants, facturés en fonction des résultats et non des sièges.",
+      "category": "AI & Machine Learning",
       "website": "https://praxpath.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:02:36.249862+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T18:55:54.986828+00:00"
     },
     {
-      "name": "Coastline HVAC-R Group",
+      "name": "Coastline HVAC",
       "slug": "polsia-coastline-hvac-r-group",
+      "description": "Heating, cooling, and refrigeration service for South Florida homes and businesses. Licensed, on-call, and ready for hurricane-season surge.",
+      "description_fr": "Service de chauffage, de climatisation et de réfrigération pour les maisons et les entreprises du sud de la Floride. Autorisé, de garde et prêt à faire face aux vagues de la saison des ouragans.",
+      "category": "Other",
       "website": "https://coastline-hvac-r-group.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:02:41.637146+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T18:55:56.197703+00:00"
     },
     {
       "name": "Recavi",
       "slug": "polsia-recavi-2",
+      "description": "Recavi es el agente de IA que atiende los mensajes de WhatsApp Business de tu tienda 24/7, confirma pedidos, envía enlaces de cobro y escala lo importante al dueño.",
+      "description_fr": "Recavi est l'agent de IA qui reçoit les messages WhatsApp Business de votre journée 24h/24 et 7j/7, confirme les commandes, envoie les liens du fil et escalade l'importance jusqu'au rendez-vous.",
+      "category": "Other",
       "website": "https://recavi-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:02:47.268974+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T18:55:58.456246+00:00"
     },
     {
       "name": "Northcrest Lifestyle",
       "slug": "polsia-northcrest-lifestyle",
+      "description": "Wellness gear and everyday essentials for a healthier home life — fitness, recovery, sleep, and ergonomic picks, all in one storefront.",
+      "description_fr": "Équipement de bien-être et essentiels du quotidien pour une vie à la maison plus saine : produits de remise en forme, de récupération, de sommeil et d'ergonomie, le tout dans une seule vitrine.",
+      "category": "Health & Wellness",
       "website": "https://northcrest-lifestyle.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:02:52.742248+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T18:55:59.578794+00:00"
     },
     {
       "name": "Tutelaria",
@@ -263135,10 +263159,102 @@
     {
       "name": "Plingwa",
       "slug": "polsia-plingwa",
+      "description": "WhatsApp replies that quote, book and chase every lead — even after hours. Built for South Africa's trades and small service businesses.",
+      "description_fr": "WhatsApp répond à cette citation, réserve et poursuit chaque piste, même après les heures d'ouverture. Conçu pour les métiers et les petites entreprises de services d'Afrique du Sud.",
+      "category": "Marketing & Advertising",
       "website": "https://plingwa.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-17T18:56:00.894368+00:00"
+    },
+    {
+      "name": "MizanInbox",
+      "slug": "polsia-mizaninbox",
+      "website": "https://mizaninbox.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-17T18:03:03.894115+00:00"
+      "scraped_at": "2026-08-17T18:53:41.162305+00:00"
+    },
+    {
+      "name": "Switchhill",
+      "slug": "polsia-switchhill",
+      "website": "https://switchhill.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T18:53:42.065457+00:00"
+    },
+    {
+      "name": "Crewsmith",
+      "slug": "polsia-crewsmith-vb3on2",
+      "website": "https://crewsmith-vb3on2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T18:53:47.512416+00:00"
+    },
+    {
+      "name": "Plumestack",
+      "slug": "polsia-plumestack",
+      "website": "https://plumestack.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T18:53:53.119175+00:00"
+    },
+    {
+      "name": "Tallymark",
+      "slug": "polsia-tallymark-302oyt",
+      "website": "https://tallymark-302oyt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T18:53:58.686980+00:00"
+    },
+    {
+      "name": "Veraxis",
+      "slug": "polsia-veraxis-6",
+      "website": "https://veraxis-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T18:54:04.152761+00:00"
+    },
+    {
+      "name": "Frostleaf Drycraft",
+      "slug": "polsia-frostleaf-drycraft",
+      "description": "Microgreens and small-batch freeze-drying co-packing for Canadian food makers — owner-operated in the Yellowhead region.",
+      "description_fr": "Co-emballage de micropousses et de lyophilisation en petits lots pour les fabricants de produits alimentaires canadiens – exploité par le propriétaire dans la région de Yellowhead.",
+      "category": "Marketing & Advertising",
+      "website": "https://frostleaf-drycraft.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-17T18:56:39.878694+00:00"
+    },
+    {
+      "name": "Mobita Studio",
+      "slug": "polsia-mobita-studio",
+      "website": "https://mobita-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T18:54:15.130220+00:00"
+    },
+    {
+      "name": "Dawnwright",
+      "slug": "polsia-dawnwright-8",
+      "description": "Dawnwright is an always-on spend guard for independent ecommerce brands. AI sentries scan your ad accounts every hour, pause what is bleeding, and ship a dawn brief by 7am.",
+      "description_fr": "Dawnwright est un gardien permanent des dépenses pour les marques de commerce électronique indépendantes. Des sentinelles IA analysent vos comptes publicitaires toutes les heures, mettent en pause ce qui saigne et envoient un briefing à l'aube avant 7 heures du matin.",
+      "category": "AI & Machine Learning",
+      "website": "https://dawnwright-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-17T18:56:46.323568+00:00"
+    },
+    {
+      "name": "Unspool",
+      "slug": "polsia-unspool",
+      "description": "Minimalist womenswear, drafted and restocked by AI agents around the clock.",
+      "description_fr": "Des vêtements minimalistes pour femmes, rédigés et réapprovisionnés par des agents d'IA 24 heures sur 24.",
+      "category": "AI & Machine Learning",
+      "website": "https://unspool.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-17T18:56:47.574826+00:00"
     }
   ]
 }
