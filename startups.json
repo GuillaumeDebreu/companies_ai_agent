@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T19:28:27.349120+00:00",
+  "last_updated": "2026-08-17T19:54:26.548258+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -263277,10 +263277,13 @@
     {
       "name": "Hearthwise",
       "slug": "polsia-hearthwise-fujrdu",
+      "description": "Patient in-home and remote tech help for older adults across North Carolina — and steady peace of mind for the families who love them.",
+      "description_fr": "Aide technique à domicile et à distance pour les personnes âgées de Caroline du Nord – et tranquillité d'esprit constante pour les familles qui les aiment.",
+      "category": "Health & Wellness",
       "website": "https://hearthwise-fujrdu.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T19:25:06.383004+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:53:18.772134+00:00"
     },
     {
       "name": "Qissa",
@@ -263293,10 +263296,13 @@
     {
       "name": "Pluralverse",
       "slug": "polsia-pluralverse",
+      "description": "A verified community feed for ethically non-monogamous couples and the thirds who want to be courted as equals — not hunted.",
+      "description_fr": "Un flux communautaire vérifié pour les couples éthiquement non monogames et les tiers qui veulent être courtisés sur un pied d’égalité – et non chassés.",
+      "category": "Social & Community",
       "website": "https://pluralverse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T19:25:12.875547+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:53:20.656386+00:00"
     },
     {
       "name": "Fanelaki",
@@ -263309,50 +263315,148 @@
     {
       "name": "Circuit Vault",
       "slug": "polsia-circuit-vault",
+      "description": "A curated online store for everyday consumer electronics and accessories — gadgets, audio gear, smart-home devices, computer peripherals, and mobile accessories, all in one storefront.",
+      "description_fr": "Une boutique en ligne organisée pour les appareils électroniques et accessoires grand public du quotidien : gadgets, équipements audio, appareils pour maison intelligente, périphériques informatiques et accessoires mobiles, le tout dans une seule vitrine.",
+      "category": "E-Commerce & Retail",
       "website": "https://circuit-vault.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T19:25:24.223242+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:53:23.292051+00:00"
     },
     {
       "name": "Ordsmed",
       "slug": "polsia-ordsmed",
+      "description": "Hurtigere indhold. Dansk kvalitet. Menneskelig finish. AI-assisteret video, tekst og design leveret af danske redaktører og designere.",
+      "description_fr": "Indhold Hurtigère. Dansk kvalitet. Finition Menneskelig. Vidéo assistée par l'IA, texte et design tirés de la rédaction et du concepteur.",
+      "category": "AI & Machine Learning",
       "website": "https://ordsmed.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T19:25:29.785307+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:53:24.459859+00:00"
     },
     {
       "name": "Yardwise",
       "slug": "polsia-yardwise-4",
+      "description": "Yardwise is the autonomous 24/7 ops agent for self-storage portfolios — watching occupancy, climate, access, and payments across every property.",
+      "description_fr": "Yardwise est l'agent opérationnel autonome 24h/24 et 7j/7 pour les portefeuilles de self-stockage, surveillant l'occupation, le climat, l'accès et les paiements dans chaque propriété.",
+      "category": "Finance & Fintech",
       "website": "https://yardwise-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T19:25:35.483759+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:53:26.538014+00:00"
     },
     {
       "name": "AnteHawk",
       "slug": "polsia-antehawk",
+      "description": "AnteHawk is the player-facing AI that audits your full online casino footprint before you cash out — flagging duplicate profiles, overlapping bonuses, expired KYC and the clawback triggers hidden in operator T&Cs.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://antehawk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T19:25:41.208620+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:53:27.964418+00:00"
     },
     {
       "name": "Frameshelf",
       "slug": "polsia-frameshelf",
+      "description": "A curated short-form video library for home, property, and lifestyle storytelling — captioned, consistent, and cleared for commercial use.",
+      "description_fr": "Une vidéothèque courte organisée pour la narration de la maison, de la propriété et du style de vie – sous-titrée, cohérente et autorisée à un usage commercial.",
+      "category": "Real Estate",
       "website": "https://frameshelf.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T19:25:51.946964+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:53:29.320185+00:00"
     },
     {
       "name": "Snagwire",
       "slug": "polsia-snagwire",
+      "description": "Snagwire is the always-on AI crew that patrols trending drops, drafts scripts, schedules cross-platform uploads and shields you from Content ID strikes — built for solo YouTube creators in narrow verticals.",
+      "description_fr": "Snagwire est l'équipe d'IA toujours active qui patrouille les tendances, rédige des scripts, planifie des téléchargements multiplateformes et vous protège des attaques Content ID - conçue pour les créateurs YouTube solo dans des secteurs verticaux étroits.",
+      "category": "AI & Machine Learning",
       "website": "https://snagwire.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-17T19:53:30.681235+00:00"
+    },
+    {
+      "name": "Lumenstrand",
+      "slug": "polsia-lumenstrand",
+      "website": "https://lumenstrand.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-17T19:25:57.591930+00:00"
+      "scraped_at": "2026-08-17T19:51:30.595703+00:00"
+    },
+    {
+      "name": "Sableglass",
+      "slug": "polsia-sableglass",
+      "website": "https://sableglass.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:51:31.251169+00:00"
+    },
+    {
+      "name": "Moonshift Nest",
+      "slug": "polsia-moonshift-nest",
+      "website": "https://moonshift-nest.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:51:37.003669+00:00"
+    },
+    {
+      "name": "Quitwright",
+      "slug": "polsia-quitwright",
+      "website": "https://quitwright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:51:42.469601+00:00"
+    },
+    {
+      "name": "ChantIA",
+      "slug": "polsia-chantia-3",
+      "website": "https://chantia-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:51:43.202022+00:00"
+    },
+    {
+      "name": "LogiSettle",
+      "slug": "polsia-logisettle",
+      "website": "https://logisettle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:51:44.014406+00:00"
+    },
+    {
+      "name": "Dropsmith",
+      "slug": "polsia-dropsmith-3",
+      "website": "https://dropsmith-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:51:49.548024+00:00"
+    },
+    {
+      "name": "MistMarshal",
+      "slug": "polsia-mistmarshal",
+      "website": "https://mistmarshal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:51:55.179798+00:00"
+    },
+    {
+      "name": "Stillwater Therapy Spa",
+      "slug": "polsia-stillwater-therapy-spa",
+      "website": "https://stillwater-therapy-spa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:51:55.958722+00:00"
+    },
+    {
+      "name": "SpinAxle",
+      "slug": "polsia-spinaxle",
+      "website": "https://spinaxle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:52:01.644257+00:00"
     }
   ]
 }
