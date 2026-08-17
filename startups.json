@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T03:12:46.201629+00:00",
+  "last_updated": "2026-08-17T04:05:37.440328+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -260495,10 +260495,13 @@
     {
       "name": "Zuncho",
       "slug": "polsia-zuncho",
+      "description": "Fuerza textil que se viste.",
+      "description_fr": "Fuerza textile que se viste.",
+      "category": "Other",
       "website": "https://zuncho.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T03:09:09.061074+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T04:04:20.985732+00:00"
     },
     {
       "name": "Madderhue",
@@ -260511,34 +260514,46 @@
     {
       "name": "Helicrio",
       "slug": "polsia-helicrio",
+      "description": "Agentes de IA que operan bancos privados de sangre de cordón y tejido las 24 horas: viabilidad, cumplimiento FDA/AABB/FACT y estabilidad térmica en tiempo real.",
+      "description_fr": "",
+      "category": "Marketing & Advertising",
       "website": "https://helicrio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T03:09:14.980367+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T04:04:22.555032+00:00"
     },
     {
       "name": "Vorkpunt",
       "slug": "polsia-vorkpunt",
+      "description": "Vier AI-agenten, één cateringoperatie.",
+      "description_fr": "Vier AI-agenten, één cateringoperatie.",
+      "category": "AI & Machine Learning",
       "website": "https://vorkpunt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T03:09:20.790379+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T04:04:23.369325+00:00"
     },
     {
       "name": "Loomcraft",
       "slug": "polsia-loomcraft-3",
+      "description": "A token-gated content community with DAO governance and creator-level rewards. Independent writers, artists, and collectives, onchain.",
+      "description_fr": "Une communauté de contenu fermée par jetons avec une gouvernance DAO et des récompenses au niveau du créateur. Écrivains, artistes et collectifs indépendants, en chaîne.",
+      "category": "Entertainment & Media",
       "website": "https://loomcraft-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T03:09:26.329494+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T04:04:25.752820+00:00"
     },
     {
       "name": "RiffReel",
       "slug": "polsia-riffreel",
+      "description": "Hot takes on the internet's wildest clips. Short-form reaction compilations engineered for TikTok, Reels, and Shorts.",
+      "description_fr": "Hot reprend les clips les plus fous d'Internet. Compilations de réactions courtes conçues pour TikTok, Reels et Shorts.",
+      "category": "Other",
       "website": "https://riffreel.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T03:09:36.485507+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T04:04:27.428997+00:00"
     },
     {
       "name": "Linchwright",
@@ -260583,6 +260598,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-17T03:12:46.200139+00:00"
+    },
+    {
+      "name": "Plaatelier",
+      "slug": "polsia-plaatelier",
+      "website": "https://plaatelier.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T04:01:39.882643+00:00"
+    },
+    {
+      "name": "Fogón Sobremesa",
+      "slug": "polsia-fogn-sobremesa",
+      "website": "https://fogn-sobremesa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T04:01:40.466890+00:00"
+    },
+    {
+      "name": "Korvane",
+      "slug": "polsia-korvane-wdaxko",
+      "website": "https://korvane-wdaxko.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T04:01:51.031778+00:00"
+    },
+    {
+      "name": "Bandcast",
+      "slug": "polsia-bandcast-2",
+      "website": "https://bandcast-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T04:01:56.334301+00:00"
+    },
+    {
+      "name": "Ahomka",
+      "slug": "polsia-ahomka-2",
+      "website": "https://ahomka-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T04:02:01.989803+00:00"
+    },
+    {
+      "name": "Treen",
+      "slug": "polsia-treen-2",
+      "website": "https://treen-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T04:02:02.684526+00:00"
+    },
+    {
+      "name": "Copaví",
+      "slug": "polsia-copav",
+      "website": "https://copav.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T04:02:08.196412+00:00"
+    },
+    {
+      "name": "Werksguard",
+      "slug": "polsia-werksguard",
+      "website": "https://werksguard.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T04:02:18.682251+00:00"
+    },
+    {
+      "name": "Verticaya",
+      "slug": "polsia-verticaya",
+      "website": "https://verticaya.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T04:02:24.234798+00:00"
+    },
+    {
+      "name": "Hearthhook",
+      "slug": "polsia-hearthhook",
+      "website": "https://hearthhook.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T04:02:29.538768+00:00"
     }
   ]
 }
