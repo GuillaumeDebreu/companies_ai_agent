@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T18:56:47.575926+00:00",
+  "last_updated": "2026-08-17T19:28:27.349120+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -263170,26 +263170,35 @@
     {
       "name": "MizanInbox",
       "slug": "polsia-mizaninbox",
+      "description": "AI-powered omnichannel inbox for WhatsApp, chat, and email—built for growing businesses.",
+      "description_fr": "Boîte de réception omnicanale alimentée par l'IA pour WhatsApp, le chat et la messagerie électronique, conçue pour les entreprises en croissance.",
+      "category": "Newsletter & Email",
       "website": "https://mizaninbox.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:53:41.162305+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:27:17.560108+00:00"
     },
     {
       "name": "Switchhill",
       "slug": "polsia-switchhill",
+      "description": "The always-on AI front desk for Texas home-service shops. Switchhill answers every call, qualifies the lead, books the job, and follows up around the clock.",
+      "description_fr": "La réception IA toujours active pour les magasins de services à domicile du Texas. Switchhill répond à chaque appel, qualifie le prospect, réserve le travail et assure le suivi 24 heures sur 24.",
+      "category": "AI & Machine Learning",
       "website": "https://switchhill.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:53:42.065457+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:27:19.538101+00:00"
     },
     {
       "name": "Crewsmith",
       "slug": "polsia-crewsmith-vb3on2",
+      "description": "Crewsmith is the AI operations layer for small home-service businesses — automating the admin work between a new lead and a paid invoice so owners can focus on the work, not the back office.",
+      "description_fr": "Crewsmith est la couche opérationnelle d'IA pour les petites entreprises de services à domicile : elle automatise le travail administratif entre un nouveau prospect et une facture payée afin que les propriétaires puissent se concentrer sur le travail et non sur le back-office.",
+      "category": "AI & Machine Learning",
       "website": "https://crewsmith-vb3on2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:53:47.512416+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:27:21.737931+00:00"
     },
     {
       "name": "Plumestack",
@@ -263202,18 +263211,24 @@
     {
       "name": "Tallymark",
       "slug": "polsia-tallymark-302oyt",
+      "description": "Know what your competitors did before your 9am.",
+      "description_fr": "Sachez ce que vos concurrents ont fait avant 9 heures du matin.",
+      "category": "Other",
       "website": "https://tallymark-302oyt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:53:58.686980+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:27:23.980546+00:00"
     },
     {
       "name": "Veraxis",
       "slug": "polsia-veraxis-6",
+      "description": "AI-native rule engine and 24/7 audit-ready compliance for NBFCs and digital lenders.",
+      "description_fr": "Moteur de règles natif d’IA et conformité prête à l’audit 24h/24 et 7j/7 pour les NBFC et les prêteurs numériques.",
+      "category": "AI & Machine Learning",
       "website": "https://veraxis-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:54:04.152761+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:27:25.196947+00:00"
     },
     {
       "name": "Frostleaf Drycraft",
@@ -263229,10 +263244,13 @@
     {
       "name": "Mobita Studio",
       "slug": "polsia-mobita-studio",
+      "description": "Estúdio criativo autônomo 24/7: briefings, design e entregas operadas por agentes de IA — para freelancers e pequenos criadores.",
+      "description_fr": "Studio de création autonome 24h/24 et 7j/7 : briefings, conception et entretiens opérationnels avec des agents d'IA — pour les indépendants et les petits créateurs.",
+      "category": "Consulting & Services",
       "website": "https://mobita-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T18:54:15.130220+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T19:27:26.601001+00:00"
     },
     {
       "name": "Dawnwright",
@@ -263255,6 +263273,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-17T18:56:47.574826+00:00"
+    },
+    {
+      "name": "Hearthwise",
+      "slug": "polsia-hearthwise-fujrdu",
+      "website": "https://hearthwise-fujrdu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:25:06.383004+00:00"
+    },
+    {
+      "name": "Qissa",
+      "slug": "polsia-qissa",
+      "website": "https://qissa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:25:12.024797+00:00"
+    },
+    {
+      "name": "Pluralverse",
+      "slug": "polsia-pluralverse",
+      "website": "https://pluralverse.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:25:12.875547+00:00"
+    },
+    {
+      "name": "Fanelaki",
+      "slug": "polsia-fanelaki",
+      "website": "https://fanelaki.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:25:18.566361+00:00"
+    },
+    {
+      "name": "Circuit Vault",
+      "slug": "polsia-circuit-vault",
+      "website": "https://circuit-vault.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:25:24.223242+00:00"
+    },
+    {
+      "name": "Ordsmed",
+      "slug": "polsia-ordsmed",
+      "website": "https://ordsmed.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:25:29.785307+00:00"
+    },
+    {
+      "name": "Yardwise",
+      "slug": "polsia-yardwise-4",
+      "website": "https://yardwise-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:25:35.483759+00:00"
+    },
+    {
+      "name": "AnteHawk",
+      "slug": "polsia-antehawk",
+      "website": "https://antehawk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:25:41.208620+00:00"
+    },
+    {
+      "name": "Frameshelf",
+      "slug": "polsia-frameshelf",
+      "website": "https://frameshelf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:25:51.946964+00:00"
+    },
+    {
+      "name": "Snagwire",
+      "slug": "polsia-snagwire",
+      "website": "https://snagwire.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T19:25:57.591930+00:00"
     }
   ]
 }
