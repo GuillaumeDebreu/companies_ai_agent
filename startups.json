@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T13:05:37.914689+00:00",
+  "last_updated": "2026-08-17T13:52:10.602747+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -261988,44 +261988,59 @@
       "scraped_at": "2026-08-17T13:04:41.713947+00:00"
     },
     {
-      "name": "Hearthbelle",
+      "name": "Polsia App",
       "slug": "polsia-hearthbelle",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
       "website": "https://hearthbelle.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T13:02:19.454370+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T13:51:12.161677+00:00"
     },
     {
       "name": "Quillon",
       "slug": "polsia-quillon-sxcb3g",
+      "description": "Lightweight, AI-augmented SOC and helpdesk workspace for lean security and IT teams. Built on Python, Streamlit, and a Gemini-powered triage assistant.",
+      "description_fr": "Espace de travail SOC et support technique léger et augmenté par l'IA pour des équipes de sécurité et informatiques réduites. Construit sur Python, Streamlit et un assistant de tri alimenté par Gemini.",
+      "category": "AI & Machine Learning",
       "website": "https://quillon-sxcb3g.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T13:02:20.388179+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T13:51:13.414360+00:00"
     },
     {
       "name": "Aaveraja",
       "slug": "polsia-aaveraja",
+      "description": "Tekoälyagentit valvovat ja vastaavat – 24/7 pk-yrityksen puolesta. Cyber-turvapalvelu 10–250 hengen organisaatioille.",
+      "description_fr": "Tekoälyagentit valvovat javastaavat – 24/7 pk-yrityksen puolesta. Cyber-turvapalvelu 10–250 hengen organisaatioille.",
+      "category": "Other",
       "website": "https://aaveraja.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T13:02:21.110070+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T13:51:14.712651+00:00"
     },
     {
       "name": "Hearthnote",
       "slug": "polsia-hearthnote-7wky4d",
+      "description": "Hearthnote is the AI-native reputation manager for local service businesses. Every Google, Yelp and Facebook review watched, every reply drafted on-brand, and every negative escalated within minutes.",
+      "description_fr": "Hearthnote est le gestionnaire de réputation natif de l'IA pour les entreprises de services locales. Chaque avis Google, Yelp et Facebook consulté, chaque réponse rédigée en fonction de la marque et chaque avis négatif s'est intensifié en quelques minutes.",
+      "category": "AI & Machine Learning",
       "website": "https://hearthnote-7wky4d.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T13:02:21.945365+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T13:51:16.183310+00:00"
     },
     {
       "name": "Stencilly",
       "slug": "polsia-stencilly",
+      "description": "Embeddable design infrastructure for product teams. A white-label, API-first design toolkit software teams drop into their own product.",
+      "description_fr": "Infrastructure de conception intégrable pour les équipes produit. Les équipes logicielles d'une boîte à outils de conception en marque blanche et axée sur l'API se lancent dans leur propre produit.",
+      "category": "Software & SaaS",
       "website": "https://stencilly.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T13:02:27.432460+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T13:51:17.838501+00:00"
     },
     {
       "name": "Ironbourse",
@@ -262046,26 +262061,115 @@
     {
       "name": "Mainbrace",
       "slug": "polsia-mainbrace-qtohi1",
+      "description": "A boring folder layout for Actix-web. Actix still does HTTP.",
+      "description_fr": "Une disposition de dossier ennuyeuse pour Actix-web. Actix utilise toujours HTTP.",
+      "category": "Other",
       "website": "https://mainbrace-qtohi1.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T13:02:39.481209+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T13:51:21.933011+00:00"
     },
     {
       "name": "Brickpost",
       "slug": "polsia-brickpost-bve7qw",
+      "description": "Vertical SaaS tools for the trades that built your block. Scheduling, dispatch, compliance, and work-order tracking sized for small contractors who have outgrown spreadsheets.",
+      "description_fr": "Des outils SaaS verticaux pour les métiers qui ont construit votre bloc. La planification, l'expédition, la conformité et le suivi des bons de travail sont adaptés aux petits entrepreneurs qui n'ont plus de feuilles de calcul.",
+      "category": "Software & SaaS",
       "website": "https://brickpost-bve7qw.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T13:02:45.037446+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T13:51:23.148155+00:00"
     },
     {
       "name": "TenVox",
       "slug": "polsia-tenvox",
+      "description": "Agentes de IA que vigilan y responden la reputación de tu restaurante 24/7.",
+      "description_fr": "Agents de IA qui veillent et répondent à la réputation de votre restaurant 24h/24 et 7j/7.",
+      "category": "Food & Beverage",
       "website": "https://tenvox.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-17T13:51:24.657776+00:00"
+    },
+    {
+      "name": "Auktolith",
+      "slug": "polsia-auktolith",
+      "website": "https://auktolith.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-17T13:02:50.489595+00:00"
+      "scraped_at": "2026-08-17T13:49:22.059596+00:00"
+    },
+    {
+      "name": "Passfold",
+      "slug": "polsia-passfold",
+      "website": "https://passfold.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T13:49:22.976549+00:00"
+    },
+    {
+      "name": "DøgnPilot",
+      "slug": "polsia-dgnpilot",
+      "website": "https://dgnpilot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T13:49:23.763118+00:00"
+    },
+    {
+      "name": "Brindlepath Software Studio",
+      "slug": "polsia-brindlepath-software-studio",
+      "website": "https://brindlepath-software-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T13:49:24.501225+00:00"
+    },
+    {
+      "name": "Vereda Plural",
+      "slug": "polsia-vereda-plural",
+      "website": "https://vereda-plural.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T13:49:25.259397+00:00"
+    },
+    {
+      "name": "RondaVecinal",
+      "slug": "polsia-rondavecinal",
+      "website": "https://rondavecinal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T13:49:26.190682+00:00"
+    },
+    {
+      "name": "Nobloom",
+      "slug": "polsia-nobloom",
+      "website": "https://nobloom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T13:49:26.863217+00:00"
+    },
+    {
+      "name": "Cronotitular",
+      "slug": "polsia-cronotitular",
+      "website": "https://cronotitular.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T13:49:32.483528+00:00"
+    },
+    {
+      "name": "SurCause",
+      "slug": "polsia-surcause",
+      "website": "https://surcause.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T13:49:37.957906+00:00"
+    },
+    {
+      "name": "Helpstead",
+      "slug": "polsia-helpstead",
+      "website": "https://helpstead.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T13:49:43.403128+00:00"
     }
   ]
 }
