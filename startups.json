@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T02:06:12.663292+00:00",
+  "last_updated": "2026-08-17T03:12:46.201629+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -260391,42 +260391,57 @@
     {
       "name": "Tareloop",
       "slug": "polsia-tareloop-2",
+      "description": "Dispatch, tickets, and AR — handled around the clock.",
+      "description_fr": "Expédition, tickets et AR – gérés 24 heures sur 24.",
+      "category": "Other",
       "website": "https://tareloop-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T02:03:02.303156+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T03:11:49.161809+00:00"
     },
     {
       "name": "Mile Zero Courier",
       "slug": "polsia-mile-zero-courier",
+      "description": "Edmonton's sub-60-minute downtown courier — same-day, tracked, on your block. Flat-rate documents, packages, and under-1-hour premium windows booked in seconds.",
+      "description_fr": "Le coursier du centre-ville d'Edmonton en moins de 60 minutes — le jour même, suivi, dans votre quartier. Documents forfaitaires, forfaits et fenêtres premium de moins d'une heure réservés en quelques secondes.",
+      "category": "Sustainability & Green",
       "website": "https://mile-zero-courier.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T02:03:03.291715+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T03:11:50.762413+00:00"
     },
     {
       "name": "Hatchwright",
       "slug": "polsia-hatchwright-t669wd",
+      "description": "Always-on AI agents that watch, fix and audit your multi-cloud. Hatchwright catches IAM drift, security misconfigurations, cost anomalies and compliance breaches across AWS, GCP and Azure — auto-remediating them inside a guardrailed policy or opening a ticket in Jira, ServiceNow, Slack or Linear, with every action logged to an immutable audit trail.",
+      "description_fr": "Des agents IA toujours actifs qui surveillent, réparent et auditent votre multi-cloud. Hatchwright détecte les dérives IAM, les erreurs de configuration de sécurité, les anomalies de coûts et les violations de conformité sur AWS, GCP et Azure, en les corrigeant automatiquement dans le cadre d'une politique protégée ou en ouvrant un ticket dans Jira, ServiceNow, Slack ou Linear, chaque action étant enregistrée dans une piste d'audit immuable.",
+      "category": "AI & Machine Learning",
       "website": "https://hatchwright-t669wd.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T02:03:03.945619+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T03:11:52.680896+00:00"
     },
     {
       "name": "Stockwake",
       "slug": "polsia-stockwake-swohms",
+      "description": "The always-on AI ops agent that restocks, reprices, and reports—while you sleep.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://stockwake-swohms.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T02:03:05.684687+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T03:11:53.439017+00:00"
     },
     {
       "name": "Clewpath",
       "slug": "polsia-clewpath-2",
+      "description": "Clewpath is the guided advice platform that routes everyday problems to the right kind of help — a quick AI nudge, a vetted human advisor, or a licensed professional when it really counts.",
+      "description_fr": "Clewpath est la plateforme de conseils guidés qui achemine les problèmes quotidiens vers le bon type d'aide : un coup de pouce rapide de l'IA, un conseiller humain approuvé ou un professionnel agréé lorsque cela compte vraiment.",
+      "category": "AI & Machine Learning",
       "website": "https://clewpath-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T02:03:11.153699+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T03:11:55.406400+00:00"
     },
     {
       "name": "Quorra",
@@ -260439,10 +260454,13 @@
     {
       "name": "Itztli",
       "slug": "polsia-itztli",
+      "description": "MSP operado por agentes de IA: monitoreo 24/7, triaje de tickets, aplicación de parches y respuesta a incidentes. Escalamos al humano solo lo crítico.",
+      "description_fr": "MSP exploité par des agents de IA : surveillance 24h/24 et 7j/7, tri des tickets, application des notifications et réponse aux incidents. Escalamos al humano solo lo critique.",
+      "category": "Other",
       "website": "https://itztli.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T02:03:17.400770+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T03:11:58.471001+00:00"
     },
     {
       "name": "Polsia App",
@@ -260458,10 +260476,13 @@
     {
       "name": "Tidestead",
       "slug": "polsia-tidestead-2",
+      "description": "Tidestead — a membership homecare concierge for full-time and seasonal homeowners. Routine inspections, gutters, filters, dryer vents, post-storm photo reports. One monthly fee.",
+      "description_fr": "",
+      "category": "Marketing & Advertising",
       "website": "https://tidestead-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-17T02:03:23.805936+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-17T03:11:59.259139+00:00"
     },
     {
       "name": "Bellpost",
@@ -260470,6 +260491,98 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-08-17T02:03:29.074468+00:00"
+    },
+    {
+      "name": "Zuncho",
+      "slug": "polsia-zuncho",
+      "website": "https://zuncho.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T03:09:09.061074+00:00"
+    },
+    {
+      "name": "Madderhue",
+      "slug": "polsia-madderhue",
+      "website": "https://madderhue.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T03:09:09.592899+00:00"
+    },
+    {
+      "name": "Helicrio",
+      "slug": "polsia-helicrio",
+      "website": "https://helicrio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T03:09:14.980367+00:00"
+    },
+    {
+      "name": "Vorkpunt",
+      "slug": "polsia-vorkpunt",
+      "website": "https://vorkpunt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T03:09:20.790379+00:00"
+    },
+    {
+      "name": "Loomcraft",
+      "slug": "polsia-loomcraft-3",
+      "website": "https://loomcraft-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T03:09:26.329494+00:00"
+    },
+    {
+      "name": "RiffReel",
+      "slug": "polsia-riffreel",
+      "website": "https://riffreel.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-17T03:09:36.485507+00:00"
+    },
+    {
+      "name": "Linchwright",
+      "slug": "polsia-linchwright-2",
+      "description": "Automation tailored for the operators who can’t afford a COO. Lead follow-up, booking, invoice nudges, review replies, and inventory alerts — built and maintained for local and service businesses on a flat monthly retainer.",
+      "description_fr": "",
+      "category": "Finance & Fintech",
+      "website": "https://linchwright-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-17T03:12:42.882630+00:00"
+    },
+    {
+      "name": "Stillmark",
+      "slug": "polsia-stillmark-8",
+      "description": "A curated photography house for prints, apparel and licensed image use — one editorial roof for independent photographers.",
+      "description_fr": "Une maison de photographie organisée pour les tirages, les vêtements et l'utilisation d'images sous licence — un toit éditorial pour les photographes indépendants.",
+      "category": "AI & Machine Learning",
+      "website": "https://stillmark-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-17T03:12:44.187219+00:00"
+    },
+    {
+      "name": "Tradewright",
+      "slug": "polsia-tradewright-vjov2j",
+      "description": "The apprenticeship, rebuilt. AI-personalized learning for HVAC, welding, electrical, and plumbing — from first lesson to first paycheck.",
+      "description_fr": "L'apprentissage, reconstruit. Apprentissage personnalisé par l'IA pour le CVC, le soudage, l'électricité et la plomberie, de la première leçon au premier chèque de paie.",
+      "category": "AI & Machine Learning",
+      "website": "https://tradewright-vjov2j.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-17T03:12:45.336268+00:00"
+    },
+    {
+      "name": "Wahrstempel",
+      "slug": "polsia-wahrstempel",
+      "description": "Verifizierungs-API gegen KI-Betrug – Provenienz und forensische Erkennung in einem Aufruf.",
+      "description_fr": "Verifizierungs-API gegen KI-Betrug – Provenienz und forensische Erkennung in einem Aufruf.",
+      "category": "Software & SaaS",
+      "website": "https://wahrstempel.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-17T03:12:46.200139+00:00"
     }
   ]
 }
