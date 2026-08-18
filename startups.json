@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T02:07:49.920892+00:00",
+  "last_updated": "2026-08-18T03:08:31.166168+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -264576,18 +264576,24 @@
     {
       "name": "Celaje",
       "slug": "polsia-celaje",
+      "description": "Celaje es un agente de IA que vigila 24/7 tarifas premium, mistake fares, millas y hoteles 4-5 estrellas; detecta caídas agresivas, ejecuta reservas o las escala a un concierge humano.",
+      "description_fr": "Celaje est un agent de IA qui veille 24h/24 et 7j/7 sur les tarifs premium, les tarifs d'erreur, les hôtels et les hôtels 4-5 étoiles ; détectez des caídas agresivas, ejecuta reservas o lascala a un concierge humano.",
+      "category": "Travel & Hospitality",
       "website": "https://celaje.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T02:04:47.665055+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T03:07:25.323843+00:00"
     },
     {
-      "name": "Guette-Cap",
+      "name": "Guette",
       "slug": "polsia-guette-cap",
+      "description": "Prospection, diligence, suivi : des agents IA qui veillent sur votre amorçage 24/7.",
+      "description_fr": "Prospection, diligence, suivi : des agents IA qui veillent sur votre amorçage 24h/24 et 7j/7.",
+      "category": "Sales & CRM",
       "website": "https://guette-cap.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T02:04:48.663560+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T03:07:26.865560+00:00"
     },
     {
       "name": "Anveshan",
@@ -264608,50 +264614,151 @@
     {
       "name": "Bubbloop",
       "slug": "polsia-bubbloop",
+      "description": "Bubbloop is the snappy, rewards-first bubble-pop game for casual players. Pop bubbles, stack daily rewards, and chase a new high score every day.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://bubbloop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T02:04:56.327527+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T03:07:29.898355+00:00"
     },
     {
       "name": "Mornhawk",
       "slug": "polsia-mornhawk-2",
+      "description": "The overnight QA crew. Mornhawk patrols your checkout, APIs and SDKs around the clock and rolls one ranked triage ticket into your inbox before standup.",
+      "description_fr": "L’équipe d’assurance qualité de nuit. Mornhawk patrouille 24 heures sur 24 dans votre caisse, vos API et vos SDK et envoie un ticket de tri classé dans votre boîte de réception avant de vous lancer.",
+      "category": "Software & SaaS",
       "website": "https://mornhawk-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T02:04:57.340139+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T03:07:31.739122+00:00"
     },
     {
       "name": "Marula Muse",
       "slug": "polsia-marula-muse",
+      "description": "Small-batch scented body butters for the modern fragrance-layering ritual. Whipped marula, shea and kokum — refillable ceramic vessels, full INCI transparency.",
+      "description_fr": "Beurres corporels parfumés en petits lots pour le rituel moderne de superposition de parfums. Marula fouetté, karité et kokum — récipients en céramique rechargeables, transparence INCI totale.",
+      "category": "Other",
       "website": "https://marula-muse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T02:05:03.053224+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T03:07:33.137083+00:00"
     },
     {
       "name": "PreFormed",
       "slug": "polsia-preformed",
+      "description": "Insurance-ready screening, waivers and incident logs for solo Australian personal trainers.",
+      "description_fr": "Contrôles, renonciations et journaux d'incidents prêts à être assurés pour les entraîneurs personnels australiens solo.",
+      "category": "Other",
       "website": "https://preformed.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T02:05:04.021977+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T03:07:34.860466+00:00"
     },
     {
       "name": "Stratarch",
       "slug": "polsia-stratarch",
+      "description": "Autonomous agents, with humans still on the risk desk. An AI-native hedge fund where cooperating trading agents screen markets, score positions, enforce limits, and file daily reports — behind a human governance layer.",
+      "description_fr": "Des agents autonomes, avec des humains toujours au bureau des risques. Un fonds spéculatif natif d'IA dans lequel les agents commerciaux coopérants examinent les marchés, notent les positions, imposent des limites et déposent des rapports quotidiens, derrière une couche de gouvernance humaine.",
+      "category": "AI & Machine Learning",
       "website": "https://stratarch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T02:05:04.868698+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T03:07:36.866390+00:00"
     },
     {
       "name": "Solewright",
       "slug": "polsia-solewright-9",
+      "description": "From idea to drop, in one AI pipeline. Solewright turns a half-baked product idea into a launch-ready drop — designs, branding, packaging, mockups, margin math, and a production-ready brief.",
+      "description_fr": "De l’idée au lancement, dans un seul pipeline d’IA. Solewright transforme une idée de produit à moitié cuite en une solution prête à être lancée : conceptions, image de marque, emballage, maquettes, calcul des marges et un brief prêt pour la production.",
+      "category": "AI & Machine Learning",
       "website": "https://solewright-9.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-18T03:07:38.157987+00:00"
+    },
+    {
+      "name": "Plotfolk",
+      "slug": "polsia-plotfolk",
+      "website": "https://plotfolk.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-18T02:05:10.430739+00:00"
+      "scraped_at": "2026-08-18T03:05:30.948145+00:00"
+    },
+    {
+      "name": "Hatchmark",
+      "slug": "polsia-hatchmark-09cyfi",
+      "website": "https://hatchmark-09cyfi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T03:05:31.829342+00:00"
+    },
+    {
+      "name": "MamaBars",
+      "slug": "polsia-mamabars",
+      "website": "https://mamabars.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T03:05:32.700209+00:00"
+    },
+    {
+      "name": "Hearthwright",
+      "slug": "polsia-hearthwright-ppylr3",
+      "website": "https://hearthwright-ppylr3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T03:05:33.549166+00:00"
+    },
+    {
+      "name": "Luciérnaga",
+      "slug": "polsia-lucirnaga",
+      "website": "https://lucirnaga.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T03:05:34.777982+00:00"
+    },
+    {
+      "name": "Snapwright",
+      "slug": "polsia-snapwright-3",
+      "website": "https://snapwright-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T03:05:35.864372+00:00"
+    },
+    {
+      "name": "Engrana",
+      "slug": "polsia-engrana",
+      "website": "https://engrana.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T03:05:41.504029+00:00"
+    },
+    {
+      "name": "Kengele",
+      "slug": "polsia-kengele",
+      "website": "https://kengele.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T03:05:47.156839+00:00"
+    },
+    {
+      "name": "Owling",
+      "slug": "polsia-owling",
+      "website": "https://owling.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T03:05:52.692740+00:00"
+    },
+    {
+      "name": "Petalmark",
+      "slug": "polsia-petalmark-3",
+      "description": "An independent, mobile-first boutique for everyday apparel, accessories, and small-batch gifts — refreshed often, shipped quietly.",
+      "description_fr": "Une boutique indépendante et mobile proposant des vêtements, des accessoires et des cadeaux en petits lots pour le quotidien, souvent rafraîchis et expédiés en silence.",
+      "category": "Other",
+      "website": "https://petalmark-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-18T03:08:31.165147+00:00"
     }
   ]
 }
