@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T19:02:22.517799+00:00",
+  "last_updated": "2026-08-18T19:36:51.121848+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -267495,10 +267495,13 @@
     {
       "name": "Werfgeest",
       "slug": "polsia-werfgeest",
+      "description": "AI-agenten die je werf continu aansturen — bewaakt je 3D-model, genereert bouwpakketten en stuurt engineers en monteurs proactief aan.",
+      "description_fr": "Les agents d'IA travaillent en continu pour assurer leur collaboration — en créant un modèle 3D, des paquets générés par des ingénieurs et des monteurs proactifs.",
+      "category": "AI & Machine Learning",
       "website": "https://werfgeest.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T18:59:31.934200+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T19:35:48.139530+00:00"
     },
     {
       "name": "Apothekron",
@@ -267519,58 +267522,159 @@
     {
       "name": "Crewloom",
       "slug": "polsia-crewloom-qvrm1m",
+      "description": "Vertical HR and workforce software built for construction and healthcare — mobile-first crew scheduling, demand forecasting, and trade-tuned compliance, priced per active user.",
+      "description_fr": "Logiciel vertical de ressources humaines et de main-d'œuvre conçu pour la construction et les soins de santé : planification des équipes mobiles, prévision de la demande et conformité adaptée aux métiers, tarifé par utilisateur actif.",
+      "category": "Health & Wellness",
       "website": "https://crewloom-qvrm1m.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T18:59:34.660511+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T19:35:56.210177+00:00"
     },
     {
       "name": "Frictiq",
       "slug": "polsia-frictiq-2",
+      "description": "Chaque lundi, des correctifs UX Web3 prêts à implémenter.",
+      "description_fr": "Chaque lundi, des correctifs UX Web3 prêts à implémenter.",
+      "category": "Other",
       "website": "https://frictiq-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T18:59:40.277576+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T19:35:57.466499+00:00"
     },
     {
       "name": "Carbonaut",
       "slug": "polsia-carbonaut",
+      "description": "Carbon audits, contracts, and filings — on autopilot.",
+      "description_fr": "Audits carbone, contrats et dépôts – sur pilote automatique.",
+      "category": "Sustainability & Green",
       "website": "https://carbonaut.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T18:59:41.025880+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T19:35:59.313282+00:00"
     },
     {
       "name": "Bowline",
       "slug": "polsia-bowline-476dud",
+      "description": "AI-native demand planning for Shopify, NetSuite, Brightpearl & 3PL signals — every forecast returned with the driver that moved it.",
+      "description_fr": "Planification de la demande native par l'IA pour les signaux Shopify, NetSuite, Brightpearl et 3PL : chaque prévision est renvoyée avec le pilote qui l'a déplacée.",
+      "category": "E-Commerce & Retail",
       "website": "https://bowline-476dud.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T18:59:41.805656+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T19:36:01.231923+00:00"
     },
     {
       "name": "Tarja",
       "slug": "polsia-tarja",
+      "description": "Contaduría autónoma 24/7 para freelancers y PYMES en LATAM. Categorización instantánea, vigilancia fiscal y reportes multimoneda.",
+      "description_fr": "Contaduría autónoma 24/7 pour les indépendants et PYMES en LATAM. Catégorisation instantanée, surveillance fiscale et rapports multimonétaires.",
+      "category": "Consulting & Services",
       "website": "https://tarja.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T18:59:42.839461+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T19:36:02.767325+00:00"
     },
     {
       "name": "Pharelle",
       "slug": "polsia-pharelle-3",
+      "description": "Veille 24h/24, briefing à l’aube, coaching dans la journée — l’agent IA dédié aux réseaux de magasins retail.",
+      "description_fr": "Veille 24h/24, briefing à l’aube, coaching dans la journée — l’agent IA dédié aux réseaux de magasins retail.",
+      "category": "E-Commerce & Retail",
       "website": "https://pharelle-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T18:59:48.469637+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T19:36:04.225011+00:00"
     },
     {
       "name": "Statelume",
       "slug": "polsia-statelume",
+      "description": "Autonomous legislative intelligence for drug-policy and criminal-justice reform — federal plus all 50 states, every hour, every committee.",
+      "description_fr": "Intelligence législative autonome pour la réforme de la politique antidrogue et de la justice pénale – au niveau fédéral et dans les 50 États, toutes les heures, dans chaque comité.",
+      "category": "Other",
       "website": "https://statelume.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-18T19:36:05.389387+00:00"
+    },
+    {
+      "name": "TRATO",
+      "slug": "polsia-trato",
+      "website": "https://trato.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-18T18:59:49.200659+00:00"
+      "scraped_at": "2026-08-18T19:34:11.671904+00:00"
+    },
+    {
+      "name": "Tarkelo",
+      "slug": "polsia-tarkelo",
+      "website": "https://tarkelo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T19:34:12.322306+00:00"
+    },
+    {
+      "name": "Maincharm",
+      "slug": "polsia-maincharm",
+      "website": "https://maincharm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T19:34:12.971285+00:00"
+    },
+    {
+      "name": "Nightcap",
+      "slug": "polsia-nightcap-6",
+      "website": "https://nightcap-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T19:34:13.657889+00:00"
+    },
+    {
+      "name": "Marginchime",
+      "slug": "polsia-marginchime-2",
+      "website": "https://marginchime-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T19:34:14.255453+00:00"
+    },
+    {
+      "name": "Nocticlave",
+      "slug": "polsia-nocticlave",
+      "website": "https://nocticlave.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T19:34:14.837478+00:00"
+    },
+    {
+      "name": "Korten",
+      "slug": "polsia-korten",
+      "website": "https://korten.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T19:34:15.500832+00:00"
+    },
+    {
+      "name": "Lanesmith",
+      "slug": "polsia-lanesmith-2",
+      "website": "https://lanesmith-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T19:34:21.288735+00:00"
+    },
+    {
+      "name": "Wapline",
+      "slug": "polsia-wapline",
+      "website": "https://wapline.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T19:34:26.919314+00:00"
+    },
+    {
+      "name": "Hatchmark",
+      "slug": "polsia-hatchmark-jjyjrb",
+      "website": "https://hatchmark-jjyjrb.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T19:34:27.852541+00:00"
     }
   ]
 }
