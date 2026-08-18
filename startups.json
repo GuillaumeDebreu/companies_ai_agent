@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T22:25:38.955951+00:00",
+  "last_updated": "2026-08-18T22:52:32.483333+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -268363,82 +268363,192 @@
     {
       "name": "Haltside",
       "slug": "polsia-haltside",
+      "description": "Haltside is the hyperlocal discovery app for what’s worth pulling over for. Read your GPS, layer the points nearby, surface something worth walking into.",
+      "description_fr": "Haltside est l'application de découverte hyperlocale pour savoir ce qui vaut la peine de s'arrêter. Lisez votre GPS, superposez les points à proximité, découvrez quelque chose qui vaut la peine d'être visité.",
+      "category": "Marketing & Advertising",
       "website": "https://haltside.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T22:23:36.365896+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T22:51:35.575394+00:00"
     },
     {
       "name": "Recourse",
       "slug": "polsia-recourse-2sa6i8",
+      "description": "Recourse is a private-label product studio that designs around the complaints buried in Amazon 1- and 2-star reviews. Every SKU starts with the loudest, most repeated pain in one stubborn category.",
+      "description_fr": "Recourse est un studio de produits de marque privée qui conçoit autour des plaintes enfouies dans les avis Amazon 1 et 2 étoiles. Chaque SKU commence par la douleur la plus forte et la plus répétée dans une catégorie tenace.",
+      "category": "Education",
       "website": "https://recourse-2sa6i8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T22:23:37.330879+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T22:51:36.911633+00:00"
     },
     {
       "name": "Tempward",
       "slug": "polsia-tempward",
+      "description": "Closed-loop thermal AI for cross-OEM clean-tech fleets. The SLA itself is the product.",
+      "description_fr": "IA thermique en boucle fermée pour les flottes de technologies propres multi-OEM. Le SLA lui-même est le produit.",
+      "category": "AI & Machine Learning",
       "website": "https://tempward.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T22:23:38.211516+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T22:51:38.451294+00:00"
     },
     {
       "name": "Knockstride",
       "slug": "polsia-knockstride",
+      "description": "Γεμίζουμε το ημερολόγιο της επιχείρησής σας με ποιοτικά leads — μετρημένα σε έσοδα, όχι σε ώρες.",
+      "description_fr": "Γεμίζουμε το ημερολόγιο της επιχείρησής σας με ποιοτικά leads — μετρημένα σε έσοδα, όχι σε ώρες.",
+      "category": "Sales & CRM",
       "website": "https://knockstride.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T22:23:39.017671+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T22:51:40.186626+00:00"
     },
     {
       "name": "Pithpost",
       "slug": "polsia-pithpost-2",
+      "description": "Pithpost turns a CSV of target company URLs into vertical-aware research dossiers + AI-drafted cold emails. Built for service-provider sales teams.",
+      "description_fr": "Pithpost transforme un CSV d'URL d'entreprises cibles en dossiers de recherche verticaux + e-mails froids rédigés par l'IA. Conçu pour les équipes commerciales des prestataires de services.",
+      "category": "Sales & CRM",
       "website": "https://pithpost-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T22:23:39.887075+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T22:51:41.643017+00:00"
     },
     {
       "name": "Dovidár",
       "slug": "polsia-dovidr",
+      "description": "Autonómny 24/7 FinOps agent pre AI a cloud infraštruktúru — observabilita, cost allocation a akčné odporúčania v jednom dashboarde.",
+      "description_fr": "Agent FinOps autonome 24h/24 et 7j/7 pour l'IA et l'infrastructure cloud - observabilité, répartition des coûts et gestion active de chaque tableau de bord.",
+      "category": "AI & Machine Learning",
       "website": "https://dovidr.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T22:23:40.621285+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T22:51:42.861692+00:00"
     },
     {
       "name": "Välähdys",
       "slug": "polsia-vlhdys",
+      "description": "Spontaanit elämykset yhdellä pyyhkäisyllä.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://vlhdys.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T22:23:41.402961+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T22:51:43.757901+00:00"
     },
     {
       "name": "Advership",
       "slug": "polsia-advership",
+      "description": "Adversarial CI built for solo founders and vibe coders. One-click pipelines that bundle AI red-teaming, dependency-integrity scans, fuzzing, and prompt-injection suites — plain-English reports, indie-hacker pricing.",
+      "description_fr": "Adversarial CI conçu pour les fondateurs solo et les codeurs d'ambiance. Pipelines en un clic qui regroupent des suites d'équipe rouge d'IA, d'analyses d'intégrité des dépendances, de fuzzing et d'injection rapide - rapports en anglais simple, tarification des pirates indépendants.",
+      "category": "AI & Machine Learning",
       "website": "https://advership.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T22:23:42.307285+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T22:51:45.384224+00:00"
     },
     {
       "name": "Ironvane",
       "slug": "polsia-ironvane-5",
+      "description": "Always-on agent ops for CMMC and FedRAMP defense suppliers — autonomous tier-one SOC, audit-ready control coverage, and remediation artifacts primed for assessors and 3PAOs.",
+      "description_fr": "",
+      "category": "Entertainment & Media",
       "website": "https://ironvane-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T22:23:43.399806+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T22:51:46.142458+00:00"
     },
     {
       "name": "Auftragschmied",
       "slug": "polsia-auftragschmied",
+      "description": "Vertikale SaaS für Handwerksbetriebe: Eingehende Kundenanfragen automatisch in prüfbare Angebote verwandeln und konsequent nachverfolgen.",
+      "description_fr": "Vertikale SaaS für Handwerksbetriebe: Eingehende Kundenanfragen automatisch in prüfbare Angebote verwandeln et conséquent nachverfolgen.",
+      "category": "Software & SaaS",
       "website": "https://auftragschmied.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-18T22:51:47.321446+00:00"
+    },
+    {
+      "name": "Sonnéa",
+      "slug": "polsia-sonna",
+      "website": "https://sonna.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-18T22:23:44.210656+00:00"
+      "scraped_at": "2026-08-18T22:49:45.116821+00:00"
+    },
+    {
+      "name": "Tarsier",
+      "slug": "polsia-tarsier-7",
+      "website": "https://tarsier-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T22:49:45.755330+00:00"
+    },
+    {
+      "name": "Ronda",
+      "slug": "polsia-ronda-6",
+      "website": "https://ronda-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T22:49:46.406535+00:00"
+    },
+    {
+      "name": "Vigari",
+      "slug": "polsia-vigari",
+      "website": "https://vigari.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T22:49:51.992933+00:00"
+    },
+    {
+      "name": "Plekkern",
+      "slug": "polsia-plekkern",
+      "website": "https://plekkern.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T22:49:57.346132+00:00"
+    },
+    {
+      "name": "Parchmark",
+      "slug": "polsia-parchmark-2",
+      "website": "https://parchmark-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T22:49:58.173485+00:00"
+    },
+    {
+      "name": "Hatchmark",
+      "slug": "polsia-hatchmark-iyivev",
+      "website": "https://hatchmark-iyivev.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T22:50:03.673369+00:00"
+    },
+    {
+      "name": "Postpith",
+      "slug": "polsia-postpith",
+      "website": "https://postpith.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T22:50:04.434836+00:00"
+    },
+    {
+      "name": "Plumbmark",
+      "slug": "polsia-plumbmark-5tt1sq",
+      "website": "https://plumbmark-5tt1sq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T22:50:05.253150+00:00"
+    },
+    {
+      "name": "Relume",
+      "slug": "polsia-relume-5",
+      "website": "https://relume-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T22:50:10.653904+00:00"
     }
   ]
 }
