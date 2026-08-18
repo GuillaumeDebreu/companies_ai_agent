@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T18:39:04.131091+00:00",
+  "last_updated": "2026-08-18T19:02:22.517799+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -267397,10 +267397,13 @@
     {
       "name": "Helicescope",
       "slug": "polsia-helicescope",
+      "description": "A holographic order-book sculpture with a newsroom voice.",
+      "description_fr": "Une sculpture de carnet de commandes holographique avec une voix de rédaction.",
+      "category": "Other",
       "website": "https://helicescope.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T18:13:57.545295+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T19:01:26.130910+00:00"
     },
     {
       "name": "HonorHaus",
@@ -267429,26 +267432,35 @@
     {
       "name": "Linwren",
       "slug": "polsia-linwren",
+      "description": "Around-the-clock ops intelligence for T&D line contractors. Linwren watches switching orders, storm-restoration tickets, and OSHA 1910.269 tailboards so the paper trail survives a 14-hour storm shift.",
+      "description_fr": "Intelligence opérationnelle 24 heures sur 24 pour les sous-traitants de la ligne T&D. Linwren surveille les ordres de changement de vitesse, les tickets de restauration en cas de tempête et les panneaux OSHA 1910.269 afin que la trace écrite survive à un quart de tempête de 14 heures.",
+      "category": "Other",
       "website": "https://linwren.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T18:14:01.163008+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T19:01:30.711442+00:00"
     },
     {
       "name": "Cornerstone Build Works",
       "slug": "polsia-cornerstone-build-works",
+      "description": "General contracting and residential construction services for homeowners and small property investors.",
+      "description_fr": "Services d'entreprise générale et de construction résidentielle pour les propriétaires et les petits investisseurs immobiliers.",
+      "category": "Real Estate",
       "website": "https://cornerstone-build-works.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T18:14:11.639641+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T19:01:32.349478+00:00"
     },
     {
-      "name": "Bookwarden",
+      "name": "Polsia App",
       "slug": "polsia-bookwarden-9",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
       "website": "https://bookwarden-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T18:14:12.363352+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T19:01:33.255679+00:00"
     },
     {
       "name": "Polsia App",
@@ -267464,10 +267476,13 @@
     {
       "name": "Cutspring Cohort",
       "slug": "polsia-cutspring-cohort",
+      "description": "Full-stack video editor training for India's short-form creators. Cohort-based, EMI-supported, with an outcome guarantee.",
+      "description_fr": "Formation d'éditeur vidéo full-stack pour les créateurs indiens de formats courts. Basé sur une cohorte, soutenu par EMI, avec une garantie de résultats.",
+      "category": "Education",
       "website": "https://cutspring-cohort.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T18:14:18.816059+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T19:01:34.401664+00:00"
     },
     {
       "name": "Wokipop",
@@ -267476,6 +267491,86 @@
       "source": "polsia",
       "status": "pending",
       "scraped_at": "2026-08-18T18:14:19.717717+00:00"
+    },
+    {
+      "name": "Werfgeest",
+      "slug": "polsia-werfgeest",
+      "website": "https://werfgeest.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T18:59:31.934200+00:00"
+    },
+    {
+      "name": "Apothekron",
+      "slug": "polsia-apothekron",
+      "website": "https://apothekron.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T18:59:32.860195+00:00"
+    },
+    {
+      "name": "Hurrica",
+      "slug": "polsia-hurrica",
+      "website": "https://hurrica.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T18:59:33.661117+00:00"
+    },
+    {
+      "name": "Crewloom",
+      "slug": "polsia-crewloom-qvrm1m",
+      "website": "https://crewloom-qvrm1m.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T18:59:34.660511+00:00"
+    },
+    {
+      "name": "Frictiq",
+      "slug": "polsia-frictiq-2",
+      "website": "https://frictiq-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T18:59:40.277576+00:00"
+    },
+    {
+      "name": "Carbonaut",
+      "slug": "polsia-carbonaut",
+      "website": "https://carbonaut.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T18:59:41.025880+00:00"
+    },
+    {
+      "name": "Bowline",
+      "slug": "polsia-bowline-476dud",
+      "website": "https://bowline-476dud.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T18:59:41.805656+00:00"
+    },
+    {
+      "name": "Tarja",
+      "slug": "polsia-tarja",
+      "website": "https://tarja.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T18:59:42.839461+00:00"
+    },
+    {
+      "name": "Pharelle",
+      "slug": "polsia-pharelle-3",
+      "website": "https://pharelle-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T18:59:48.469637+00:00"
+    },
+    {
+      "name": "Statelume",
+      "slug": "polsia-statelume",
+      "website": "https://statelume.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T18:59:49.200659+00:00"
     }
   ]
 }
