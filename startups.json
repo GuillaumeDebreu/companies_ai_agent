@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T16:04:34.639240+00:00",
+  "last_updated": "2026-08-18T16:47:44.511751+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -266859,10 +266859,13 @@
     {
       "name": "Refluff Studio",
       "slug": "polsia-refluff-studio",
+      "description": "Mail-in restoration that brings worn down and feather pillows back to factory-fresh loft.",
+      "description_fr": "Restauration par courrier qui ramène les oreillers usés et en plumes au loft frais d'usine.",
+      "category": "Other",
       "website": "https://refluff-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T15:39:51.972564+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T16:46:44.677938+00:00"
     },
     {
       "name": "NeonMark Studio",
@@ -266966,82 +266969,192 @@
     {
       "name": "Gavelhold",
       "slug": "polsia-gavelhold",
+      "description": "Every U.S. auction lot, in one category-sorted feed. Browse government surplus, estate sales, autos, real estate, and more — across every state and platform.",
+      "description_fr": "Chaque lot de vente aux enchères aux États-Unis, dans un seul flux trié par catégorie. Parcourez les excédents gouvernementaux, les ventes de biens immobiliers, les automobiles, l'immobilier et bien plus encore, dans tous les États et sur toutes les plateformes.",
+      "category": "Software & SaaS",
       "website": "https://gavelhold.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T16:02:15.967294+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T16:46:45.804387+00:00"
     },
     {
       "name": "Quoinroom",
       "slug": "polsia-quoinroom",
+      "description": "A niche storefront built for shoppers who return. Deep vertical curation, mobile-first checkout, and a repeat-purchase layer for the second order — the real order.",
+      "description_fr": "",
+      "category": "E-Commerce & Retail",
       "website": "https://quoinroom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T16:02:17.040953+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T16:46:47.258388+00:00"
     },
     {
       "name": "Careavant",
       "slug": "polsia-careavant",
+      "description": "Compassionate care, exactly when you need it. Careavant connects you with licensed clinicians 24/7 — video visits, e-prescriptions, lab bookings, and continuous remote monitoring, all in one HIPAA-compliant portal.",
+      "description_fr": "",
+      "category": "Health & Wellness",
       "website": "https://careavant.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T16:02:17.903845+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T16:46:48.674540+00:00"
     },
     {
       "name": "Crewstead",
       "slug": "polsia-crewstead-9",
+      "description": "An always-on AI crew for short-term rentals — repricing, guest messaging, cleanings, and maintenance, before you notice them.",
+      "description_fr": "Une équipe d'IA toujours active pour les locations à court terme : retarification, messages clients, nettoyages et maintenance, avant que vous ne les remarquiez.",
+      "category": "AI & Machine Learning",
       "website": "https://crewstead-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T16:02:18.648708+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T16:46:50.525989+00:00"
     },
     {
       "name": "Namespar",
       "slug": "polsia-namespar",
+      "description": "24/7 AI agents that catch, appraise, and resell expired domains at scale — across GoDaddy Auctions, NameJet, DropCatch, SnapNames, Sedo, and registry channels.",
+      "description_fr": "Des agents d'IA 24h/24 et 7j/7 qui capturent, évaluent et revendent les domaines expirés à grande échelle, via GoDaddy Auctions, NameJet, DropCatch, SnapNames, Sedo et les canaux de registre.",
+      "category": "AI & Machine Learning",
       "website": "https://namespar.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T16:02:19.545892+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T16:46:52.642895+00:00"
     },
     {
       "name": "Tallyward",
       "slug": "polsia-tallyward-9yfrj0",
+      "description": "The AI bookkeeper that never stops watching the money. Categorizes, reconciles, chases invoices, and forecasts cash flow on top of QuickBooks.",
+      "description_fr": "Le comptable IA qui ne cesse de surveiller l'argent. Catégorise, rapproche, recherche les factures et prévoit les flux de trésorerie sur QuickBooks.",
+      "category": "AI & Machine Learning",
       "website": "https://tallyward-9yfrj0.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T16:02:20.902842+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T16:46:54.548396+00:00"
     },
     {
       "name": "Humcast",
       "slug": "polsia-humcast",
+      "description": "Humcast runs the back office of community composting networks — bin-level pickups, contamination logs, and diversion reports on a single audit-ready record.",
+      "description_fr": "Humcast gère le back-office des réseaux de compostage communautaire : collectes au niveau des bacs, journaux de contamination et rapports de détournement sur un seul enregistrement prêt à être audité.",
+      "category": "Social & Community",
       "website": "https://humcast.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T16:02:21.824257+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T16:46:56.669429+00:00"
     },
     {
       "name": "Anchorstead",
       "slug": "polsia-anchorstead-3",
+      "description": "Acquiring and retrofitting small multifamily properties into universally-designed rental housing for adults aging in place.",
+      "description_fr": "",
+      "category": "Real Estate",
       "website": "https://anchorstead-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T16:02:22.779116+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T16:46:57.661579+00:00"
     },
     {
       "name": "Snapdeed",
       "slug": "polsia-snapdeed",
+      "description": "Wholesale house-flipping platform with state-aware contracts and built-in deal sourcing.",
+      "description_fr": "Plateforme de vente en gros de maisons avec contrats sensibles à l'État et recherche de transactions intégrée.",
+      "category": "Software & SaaS",
       "website": "https://snapdeed.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-18T16:02:28.631305+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-18T16:46:59.612835+00:00"
     },
     {
       "name": "Spürnase",
       "slug": "polsia-sprnase",
+      "description": "Der 24/7-KI-Agent für Margen, Lager und Wettbewerb im E-Commerce — überwacht Preise, Lager und Großhandel und handelt, statt nur Daten zu liefern.",
+      "description_fr": "L'agent KI 24h/24 et 7j/7 pour les produits de vente au détail, de vente au détail et de commerce électronique dans le commerce électronique — überwacht Preise, Lager und Großhandel und handelt, statt nur Daten zu liefern.",
+      "category": "E-Commerce & Retail",
       "website": "https://sprnase.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-18T16:47:01.533074+00:00"
+    },
+    {
+      "name": "PermianFrost Mobile RV",
+      "slug": "polsia-permianfrost-mobile-rv",
+      "website": "https://permianfrost-mobile-rv.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-18T16:02:29.420078+00:00"
+      "scraped_at": "2026-08-18T16:44:36.822260+00:00"
+    },
+    {
+      "name": "Helmhaul",
+      "slug": "polsia-helmhaul-2",
+      "website": "https://helmhaul-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T16:44:37.771904+00:00"
+    },
+    {
+      "name": "Voxwoven",
+      "slug": "polsia-voxwoven",
+      "website": "https://voxwoven.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T16:44:38.930394+00:00"
+    },
+    {
+      "name": "ModuloZero",
+      "slug": "polsia-modulozero",
+      "website": "https://modulozero.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T16:44:39.897170+00:00"
+    },
+    {
+      "name": "Black Moon Vending",
+      "slug": "polsia-black-moon-vending",
+      "website": "https://black-moon-vending.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T16:44:45.509242+00:00"
+    },
+    {
+      "name": "Beadle",
+      "slug": "polsia-beadle-2",
+      "website": "https://beadle-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T16:44:51.194432+00:00"
+    },
+    {
+      "name": "Cairnmark",
+      "slug": "polsia-cairnmark-9b0yjm",
+      "website": "https://cairnmark-9b0yjm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T16:44:56.937441+00:00"
+    },
+    {
+      "name": "Pantryfox",
+      "slug": "polsia-pantryfox",
+      "website": "https://pantryfox.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T16:45:02.980373+00:00"
+    },
+    {
+      "name": "Frontpost",
+      "slug": "polsia-frontpost-9",
+      "website": "https://frontpost-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T16:45:04.134852+00:00"
+    },
+    {
+      "name": "Kidfold",
+      "slug": "polsia-kidfold",
+      "website": "https://kidfold.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-18T16:45:09.889570+00:00"
     }
   ]
 }
