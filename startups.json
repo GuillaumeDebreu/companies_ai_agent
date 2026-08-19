@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T21:04:59.261423+00:00",
+  "last_updated": "2026-08-19T21:38:41.154257+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -272316,66 +272316,90 @@
     {
       "name": "Quiltia",
       "slug": "polsia-quiltia",
+      "description": "Agentes de IA fiscal para PyMEs mexicanas. Automatiza CFDI 4.0, DIOT, ISR e IVA bajo RESICO, PFAE y Régimen General — sin intervención humana.",
+      "description_fr": "Agents de IA fiscal para PyMEs mexicains. Automatisation CFDI 4.0, DIOT, ISR et IVA sous RESICO, PFAE et Régime général — sans intervention humaine.",
+      "category": "Other",
       "website": "https://quiltia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T21:02:01.640390+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T21:37:30.854388+00:00"
     },
     {
       "name": "Tailledger",
       "slug": "polsia-tailledger",
+      "description": "Always-open charter desk and settlement room for private aviation. A 24/7, two-shift AI operation that quotes, holds, and clears flights for Part 135 operators and members.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://tailledger.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T21:02:02.376060+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T21:37:31.983994+00:00"
     },
     {
       "name": "Dockgaze",
       "slug": "polsia-dockgaze",
+      "description": "Dockgaze is an AI dock agent that watches carrier ETAs, assigns bays, prints labels, and pages dispatchers for mid-to-large North American logistics hubs.",
+      "description_fr": "Dockgaze est un agent de quai IA qui surveille les ETA des transporteurs, attribue des baies, imprime des étiquettes et page les répartiteurs pour les centres logistiques nord-américains de moyenne à grande taille.",
+      "category": "AI & Machine Learning",
       "website": "https://dockgaze.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T21:02:03.335833+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T21:37:34.819018+00:00"
     },
     {
       "name": "Glassroom",
       "slug": "polsia-glassroom",
+      "description": "Glassroom turns the public-garden experience into an always-on service: AI agents read live plant sensors to curate rotating exhibitions and dispatch care plans to your living room.",
+      "description_fr": "Glassroom transforme l'expérience du jardin public en un service permanent : des agents IA lisent les capteurs de plantes vivantes pour organiser des expositions tournantes et envoyer des plans d'entretien dans votre salon.",
+      "category": "AI & Machine Learning",
       "website": "https://glassroom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T21:02:08.998573+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T21:37:36.390077+00:00"
     },
     {
       "name": "Maparacá",
       "slug": "polsia-maparac",
+      "description": "Plataforma de dados de mobilidade para cidades médias brasileiras.",
+      "description_fr": "Plateforme de données de mobilité pour les villes médiatiques brésiliennes.",
+      "category": "Other",
       "website": "https://maparac.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T21:02:10.382180+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T21:37:37.990713+00:00"
     },
     {
       "name": "La Fábrica de Reyes",
       "slug": "polsia-la-fbrica-de-reyes",
+      "description": "Congelados listos para cocinar, elaborados como en casa y listos para tu comercio.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://la-fbrica-de-reyes.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T21:02:20.851601+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T21:37:39.116834+00:00"
     },
     {
       "name": "Quartermast",
       "slug": "polsia-quartermast-pz68ii",
+      "description": "The 24/7 ops agent for Shopify and Amazon storefronts. Inventory, repricing, replies, anomaly detection — one officer for two marketplaces.",
+      "description_fr": "L'agent opérationnel 24h/24 et 7j/7 pour les vitrines Shopify et Amazon. Inventaire, retarification, réponses, détection d'anomalies : un agent pour deux places de marché.",
+      "category": "E-Commerce & Retail",
       "website": "https://quartermast-pz68ii.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T21:02:21.469061+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T21:37:40.450486+00:00"
     },
     {
       "name": "OfferScope Reviews",
       "slug": "polsia-offerscope-reviews",
+      "description": "Independent affiliate reviews of trending digital products across wellness, wealth and lifestyle — transparent, disclosure-first, ad-light.",
+      "description_fr": "Examens indépendants des affiliés sur les produits numériques tendances en matière de bien-être, de richesse et de style de vie – transparents, axés sur la divulgation et à la lumière de la publicité.",
+      "category": "Health & Wellness",
       "website": "https://offerscope-reviews.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T21:02:22.223953+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T21:37:41.718070+00:00"
     },
     {
       "name": "Tibra",
@@ -272388,10 +272412,93 @@
     {
       "name": "CLT Facility Pros",
       "slug": "polsia-clt-facility-pros",
+      "description": "Charlotte's B2B cleaning & facility maintenance built for recurring revenue — a small roster of long-term commercial contracts along the I-85 corridor.",
+      "description_fr": "L'entreprise de nettoyage et d'entretien des installations B2B de Charlotte a été construite pour générer des revenus récurrents : une petite liste de contrats commerciaux à long terme le long du corridor I-85.",
+      "category": "Sales & CRM",
       "website": "https://clt-facility-pros.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-19T21:37:44.367516+00:00"
+    },
+    {
+      "name": "Pourfolio",
+      "slug": "polsia-pourfolio-3",
+      "website": "https://pourfolio-3.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-19T21:02:28.476500+00:00"
+      "scraped_at": "2026-08-19T21:35:14.092845+00:00"
+    },
+    {
+      "name": "ParQuote",
+      "slug": "polsia-parquote",
+      "website": "https://parquote.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T21:35:15.061392+00:00"
+    },
+    {
+      "name": "Coyameza",
+      "slug": "polsia-coyameza",
+      "website": "https://coyameza.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T21:35:16.124377+00:00"
+    },
+    {
+      "name": "Atalaya",
+      "slug": "polsia-atalaya-y89rgt",
+      "website": "https://atalaya-y89rgt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T21:35:17.087000+00:00"
+    },
+    {
+      "name": "Drifthatch",
+      "slug": "polsia-drifthatch",
+      "website": "https://drifthatch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T21:35:18.096111+00:00"
+    },
+    {
+      "name": "Vestrida",
+      "slug": "polsia-vestrida",
+      "website": "https://vestrida.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T21:35:19.534871+00:00"
+    },
+    {
+      "name": "Plumbline",
+      "slug": "polsia-plumbline-jdq07y",
+      "website": "https://plumbline-jdq07y.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T21:35:20.718557+00:00"
+    },
+    {
+      "name": "Handcarry",
+      "slug": "polsia-handcarry-2",
+      "website": "https://handcarry-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T21:35:21.744343+00:00"
+    },
+    {
+      "name": "Booklift",
+      "slug": "polsia-booklift-4",
+      "website": "https://booklift-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T21:35:22.891557+00:00"
+    },
+    {
+      "name": "Akọdà",
+      "slug": "polsia-akd",
+      "website": "https://akd.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T21:35:23.890060+00:00"
     }
   ]
 }
