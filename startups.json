@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T07:01:17.361263+00:00",
+  "last_updated": "2026-08-19T07:50:04.860643+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -269646,18 +269646,24 @@
     {
       "name": "Vangnet",
       "slug": "polsia-vangnet-2",
+      "description": "Stop losing the leads you already paid for.",
+      "description_fr": "Arrêtez de perdre les leads pour lesquels vous avez déjà payé.",
+      "category": "Sales & CRM",
       "website": "https://vangnet-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T06:59:08.337031+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T07:49:17.667190+00:00"
     },
     {
       "name": "Hearthfold",
       "slug": "polsia-hearthfold-10",
+      "description": "Hearthfold turns photos and guided answers into heirloom life-story books — keepsakes for grandparents, a baby’s first year, anniversaries and more.",
+      "description_fr": "Hearthfold transforme des photos et des réponses guidées en livres d'histoires de vie - des souvenirs pour les grands-parents, la première année d'un bébé, les anniversaires et plus encore.",
+      "category": "Real Estate",
       "website": "https://hearthfold-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T06:59:09.294592+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T07:49:19.707082+00:00"
     },
     {
       "name": "Plinth",
@@ -269686,10 +269692,13 @@
     {
       "name": "Mossletter",
       "slug": "polsia-mossletter",
+      "description": "Pen pals, picked with care. A curated matchmaking service for people who want a real letter-writing friendship.",
+      "description_fr": "Des correspondants, choisis avec soin. Un service de mise en relation organisé pour les personnes qui souhaitent une véritable amitié écrite.",
+      "category": "Other",
       "website": "https://mossletter.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T06:59:12.474367+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T07:49:22.491326+00:00"
     },
     {
       "name": "PierNorth Rentals",
@@ -269702,18 +269711,104 @@
     {
       "name": "Plumbmark",
       "slug": "polsia-plumbmark-xgq79p",
+      "description": "Booked calendars on tap for local service businesses. A done-for-you lead engine that turns ad spend into ready-to-buy jobs sitting in your CRM.",
+      "description_fr": "Calendriers réservés disponibles pour les entreprises de services locales. Un moteur de leads conçu pour vous qui transforme les dépenses publicitaires en emplois prêts à acheter dans votre CRM.",
+      "category": "Sales & CRM",
       "website": "https://plumbmark-xgq79p.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T06:59:14.054778+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T07:49:23.929017+00:00"
     },
     {
       "name": "Pomarchos",
       "slug": "polsia-pomarchos",
+      "description": "Από κάθε κλικ σε πραγματικό κέρδος για δημιουργούς και μικρές επιχειρήσεις — affiliate marketing με αυτοματοποιημένη αντιστοίχιση σε υψηλόμισθες κατηγορίες, συμμόρφωση με τον κανόνα Affiliate Marketing Rule (16 CFR 680) και first-party tracking στη μετά-cookie εποχή.",
+      "description_fr": "Από κάθε κλικ σε πραγματικό κέρδος για δημιουργούς και μικρές επιχειρήσεις — marketing d'affiliation Vous pouvez également utiliser la règle de marketing d'affiliation (16 CFR 680) pour le suivi de première partie et les cookies.",
+      "category": "Marketing & Advertising",
       "website": "https://pomarchos.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-19T07:49:25.576723+00:00"
+    },
+    {
+      "name": "Complyduct",
+      "slug": "polsia-complyduct",
+      "website": "https://complyduct.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-19T06:59:14.838446+00:00"
+      "scraped_at": "2026-08-19T07:47:15.950717+00:00"
+    },
+    {
+      "name": "Funkensaat",
+      "slug": "polsia-funkensaat",
+      "website": "https://funkensaat.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T07:47:16.869510+00:00"
+    },
+    {
+      "name": "Morsello",
+      "slug": "polsia-morsello",
+      "website": "https://morsello.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T07:47:17.983056+00:00"
+    },
+    {
+      "name": "Crewzero",
+      "slug": "polsia-crewzero-3",
+      "website": "https://crewzero-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T07:47:18.796620+00:00"
+    },
+    {
+      "name": "Pismoteka",
+      "slug": "polsia-pismoteka",
+      "website": "https://pismoteka.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T07:47:20.613437+00:00"
+    },
+    {
+      "name": "Bowline",
+      "slug": "polsia-bowline-lv7coa",
+      "website": "https://bowline-lv7coa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T07:47:21.585649+00:00"
+    },
+    {
+      "name": "Plinth AI",
+      "slug": "polsia-plinth-ai-3",
+      "website": "https://plinth-ai-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T07:47:27.215448+00:00"
+    },
+    {
+      "name": "Quartermast",
+      "slug": "polsia-quartermast-zt9ryz",
+      "website": "https://quartermast-zt9ryz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T07:47:33.040300+00:00"
+    },
+    {
+      "name": "Kuwento Bayan",
+      "slug": "polsia-kuwento-bayan",
+      "website": "https://kuwento-bayan.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T07:47:38.488972+00:00"
+    },
+    {
+      "name": "Callwright",
+      "slug": "polsia-callwright-9",
+      "website": "https://callwright-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T07:47:44.317774+00:00"
     }
   ]
 }
