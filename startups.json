@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T13:06:50.374384+00:00",
+  "last_updated": "2026-08-19T13:57:06.371370+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -270699,42 +270699,57 @@
     {
       "name": "HakikaHomes",
       "slug": "polsia-hakikahomes",
+      "description": "Verified homes across Kenya — houses, bedsitters, hostels & short-stay rentals. Every listing physically inspected before going live.",
+      "description_fr": "Logements vérifiés à travers le Kenya - maisons, studios, auberges et locations de courte durée. Chaque annonce est physiquement inspectée avant d'être mise en ligne.",
+      "category": "Travel & Hospitality",
       "website": "https://hakikahomes.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T13:03:39.063213+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T13:55:50.381672+00:00"
     },
     {
       "name": "Siftstream",
       "slug": "polsia-siftstream-2",
+      "description": "AI-native hiring software for small business teams. Resume scoring, one-way video interviews, and pre-hire assessments in one ranked workflow.",
+      "description_fr": "Logiciel de recrutement natif d'IA pour les équipes de petites entreprises. Reprenez la notation des CV, les entretiens vidéo à sens unique et les évaluations préalables à l'embauche dans un flux de travail classé.",
+      "category": "Software & SaaS",
       "website": "https://siftstream-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T13:03:39.917378+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T13:55:51.548635+00:00"
     },
     {
       "name": "TutorPing",
       "slug": "polsia-tutorping",
+      "description": "AI tutoring delivered through chat, on the phone students already use. Step-by-step lessons for K-12 learners across East Africa, aligned to the national curriculum up to Form 4.",
+      "description_fr": "Tutorat IA dispensé par chat, sur le téléphone que les étudiants utilisent déjà. Leçons étape par étape pour les apprenants de la maternelle à la 12e année à travers l'Afrique de l'Est, alignées sur le programme national jusqu'à la Form 4.",
+      "category": "AI & Machine Learning",
       "website": "https://tutorping.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T13:03:40.738709+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T13:55:53.249725+00:00"
     },
     {
       "name": "Pulsestack",
       "slug": "polsia-pulsestack-s4db41",
+      "description": "One unified view of your wearable health data, personalized by AI.",
+      "description_fr": "Une vue unifiée de vos données de santé portables, personnalisée par l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://pulsestack-s4db41.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T13:03:46.469662+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T13:55:54.361045+00:00"
     },
     {
       "name": "Quiremark",
       "slug": "polsia-quiremark-10",
+      "description": "Objects to think by. Designed to become. Premium journals and editorial design products for self-discovery, creative work, and intentional living.",
+      "description_fr": "Des objets sur lesquels réfléchir. Conçu pour devenir. Revues haut de gamme et produits de conception éditoriale pour la découverte de soi, le travail créatif et la vie intentionnelle.",
+      "category": "Sustainability & Green",
       "website": "https://quiremark-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T13:03:47.613455+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T13:55:55.842872+00:00"
     },
     {
       "name": "Meridian Talent Brand",
@@ -270747,34 +270762,126 @@
     {
       "name": "Halyard",
       "slug": "polsia-halyard-pnoop4",
+      "description": "Halyard — an always-on AI trade desk. Agents watch supplier inboxes, track shipments, draft customs paperwork, source vendors, and flag margin or compliance issues. Humans sign off. Built for small and mid-sized import-export operations.",
+      "description_fr": "Halyard – un bureau commercial IA toujours actif. Les agents surveillent les boîtes de réception des fournisseurs, suivent les expéditions, rédigent les documents douaniers, s'adressent aux fournisseurs et signalent les problèmes de marge ou de conformité. Les humains se déconnectent. Conçu pour les opérations d’import-export de petite et moyenne taille.",
+      "category": "AI & Machine Learning",
       "website": "https://halyard-pnoop4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T13:03:53.984991+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T13:55:58.619859+00:00"
     },
     {
       "name": "CircuitPath",
       "slug": "polsia-circuitpath",
+      "description": "Structured CBT and ACT programs for anxiety, stress and burnout — not meditation. Join the waitlist before launch.",
+      "description_fr": "Programmes structurés de TCC et d'ACT pour l'anxiété, le stress et l'épuisement professionnel – pas de méditation. Rejoignez la liste d'attente avant le lancement.",
+      "category": "Other",
       "website": "https://circuitpath.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T13:03:54.767905+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T13:55:59.964577+00:00"
     },
     {
       "name": "Rankshed",
       "slug": "polsia-rankshed",
+      "description": "A productized local-search retainer for residential HVAC and plumbing owner-operators — GBP optimization, ongoing local SEO, and a steady stream of new five-star reviews, every month.",
+      "description_fr": "Un outil de recherche locale produit pour les propriétaires-exploitants de systèmes de CVC et de plomberie résidentiels : optimisation GBP, référencement local continu et flux constant de nouveaux avis cinq étoiles, chaque mois.",
+      "category": "Marketing & Advertising",
       "website": "https://rankshed.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T13:03:56.118057+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T13:56:02.817203+00:00"
     },
     {
       "name": "Pixelvine Studio",
       "slug": "polsia-pixelvine-studio",
+      "description": "Web, mobile, and digital marketing services for small businesses.",
+      "description_fr": "Services de marketing Web, mobile et numérique pour les petites entreprises.",
+      "category": "Marketing & Advertising",
       "website": "https://pixelvine-studio.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-19T13:56:03.848124+00:00"
+    },
+    {
+      "name": "Pavio Curto",
+      "slug": "polsia-pavio-curto",
+      "website": "https://pavio-curto.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-19T13:03:57.363232+00:00"
+      "scraped_at": "2026-08-19T13:53:43.237360+00:00"
+    },
+    {
+      "name": "Cornerstone Appliance Co.",
+      "slug": "polsia-cornerstone-appliance-co",
+      "website": "https://cornerstone-appliance-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T13:53:43.937595+00:00"
+    },
+    {
+      "name": "AulaFaro",
+      "slug": "polsia-aulafaro",
+      "website": "https://aulafaro.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T13:53:44.715277+00:00"
+    },
+    {
+      "name": "Tarvex",
+      "slug": "polsia-tarvex-8t4voh",
+      "website": "https://tarvex-8t4voh.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T13:53:45.413467+00:00"
+    },
+    {
+      "name": "Noctógrafo",
+      "slug": "polsia-noctgrafo",
+      "website": "https://noctgrafo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T13:53:50.953232+00:00"
+    },
+    {
+      "name": "Kasimbula Industrial Group",
+      "slug": "polsia-kasimbula-industrial-group",
+      "website": "https://kasimbula-industrial-group.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T13:53:54.274215+00:00"
+    },
+    {
+      "name": "Velaria",
+      "slug": "polsia-velaria-8",
+      "website": "https://velaria-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T13:53:55.033147+00:00"
+    },
+    {
+      "name": "Repstral",
+      "slug": "polsia-repstral-5",
+      "website": "https://repstral-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T13:53:55.774366+00:00"
+    },
+    {
+      "name": "Pallekraal",
+      "slug": "polsia-pallekraal",
+      "website": "https://pallekraal.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T13:54:01.118939+00:00"
+    },
+    {
+      "name": "Klipcove",
+      "slug": "polsia-klipcove",
+      "website": "https://klipcove.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T13:54:06.658179+00:00"
     }
   ]
 }
