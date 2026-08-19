@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T18:51:34.903818+00:00",
+  "last_updated": "2026-08-19T19:16:35.612748+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -271775,34 +271775,46 @@
     {
       "name": "Tilewright",
       "slug": "polsia-tilewright",
+      "description": "Plan the kitchen or bath. Price every piece in real time.",
+      "description_fr": "Planifiez la cuisine ou la salle de bain. Évaluez chaque pièce en temps réel.",
+      "category": "Food & Beverage",
       "website": "https://tilewright.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T18:47:44.536608+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T19:15:43.375188+00:00"
     },
     {
       "name": "Cayhouse",
       "slug": "polsia-cayhouse",
+      "description": "Your marketing department — without the overhead. Cayhouse is the fractional growth team for Caribbean SMBs.",
+      "description_fr": "Votre service marketing – sans frais généraux. Cayhouse est l'équipe de croissance fractionnée pour les PME des Caraïbes.",
+      "category": "Marketing & Advertising",
       "website": "https://cayhouse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T18:47:50.233674+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T19:15:44.679299+00:00"
     },
     {
       "name": "Trinquete",
       "slug": "polsia-trinquete-4",
+      "description": "Socio de crecimiento alineado a tu revenue, no a tus entregables. CMO fraccional para PYMES y negocios digitales hispanohablantes.",
+      "description_fr": "Socio de crecimiento aligné sur vos revenus, pas sur vos entregables. CMO fractionnaire pour PYMES et entreprises numériques hispanohablantes.",
+      "category": "Other",
       "website": "https://trinquete-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T18:47:51.070912+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T19:15:46.017023+00:00"
     },
     {
       "name": "Pactsmith",
       "slug": "polsia-pactsmith-6",
+      "description": "The scope-creep-proof starter kit for solo freelancers. Numbered clauses, ready-to-send templates, no subscription.",
+      "description_fr": "",
+      "category": "Consulting & Services",
       "website": "https://pactsmith-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T18:47:52.013749+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T19:15:47.000846+00:00"
     },
     {
       "name": "Tryvane",
@@ -271815,42 +271827,137 @@
     {
       "name": "Tiddo",
       "slug": "polsia-tiddo",
+      "description": "Tiddo is an always-on ECE aide: monitors milestones, drafts weekly plans, and sends daily parent updates.",
+      "description_fr": "Tiddo est une aide ECE toujours disponible : surveille les étapes importantes, rédige des plans hebdomadaires et envoie des mises à jour quotidiennes aux parents.",
+      "category": "AI & Machine Learning",
       "website": "https://tiddo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T18:47:58.427557+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T19:15:53.782444+00:00"
     },
     {
       "name": "Tebari",
       "slug": "polsia-tebari",
+      "description": "Always-on AI health checks for African SMB software. Watch the jobs, dashboards and data pipelines that run your business — every night — so a junior IT lead can act the next morning.",
+      "description_fr": "Bilans de santé de l’IA en permanence pour les logiciels des PME africaines. Surveillez les tâches, les tableaux de bord et les pipelines de données qui gèrent votre entreprise, chaque nuit, afin qu'un responsable informatique junior puisse agir le lendemain matin.",
+      "category": "Software & SaaS",
       "website": "https://tebari.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T18:47:59.385954+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T19:15:54.773112+00:00"
     },
     {
       "name": "Praxium",
       "slug": "polsia-praxium-4",
+      "description": "Praxium is an always-on AI-agent service for independent dental and veterinary clinics that runs local SEO and reputation management end-to-end: monitors Google, Yelp, and Healthgrades, responds in your clinic's voice, ships weekly GBP updates, escalates negatives to Slack or SMS, and benchmarks you against nearby dental and vet competitors — including AI-search visibility on ChatGPT, Gemini, and Google AI Overviews.",
+      "description_fr": "Praxium est un service d'agent IA toujours actif pour les cliniques dentaires et vétérinaires indépendantes qui gère le référencement local et la gestion de la réputation de bout en bout : surveille Google, Yelp et Healthgrades, répond avec la voix de votre clinique, envoie des mises à jour hebdomadaires en GBP, transmet les négatifs à Slack ou SMS et vous compare aux concurrents dentaires et vétérinaires à proximité - y compris la visibilité de la recherche IA sur ChatGPT, Gemini et Google AI Overviews.",
+      "category": "AI & Machine Learning",
       "website": "https://praxium-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T18:48:09.932500+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T19:15:56.134693+00:00"
     },
     {
       "name": "Yachana",
       "slug": "polsia-yachana",
+      "description": "Yachana: plataforma AI-native de ERP, CRM, RPA y agentes LLM para PYMEs verticales en Colombia y LATAM. Vigilancia, constructoras, educación y comercios.",
+      "description_fr": "Yachana : plateforme IA native de ERP, CRM, RPA et agents LLM pour PYME verticales en Colombie et LATAM. Vigilance, constructeurs, éducation et commerce.",
+      "category": "AI & Machine Learning",
       "website": "https://yachana.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T18:48:15.469678+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T19:15:57.336810+00:00"
     },
     {
       "name": "Lacquerlab",
       "slug": "polsia-lacquerlab",
+      "description": "Your always-on design team, without the hire. Lacquerlab turns brand briefs into on-brand social posts, ad creatives, and landing-page visuals — 24/7, with a human review queue.",
+      "description_fr": "Votre équipe de conception toujours disponible, sans embauche. Lacquerlab transforme les briefs de marque en publications sociales, créations publicitaires et visuels de page de destination, 24h/24 et 7j/7, avec une file d'attente de révision humaine.",
+      "category": "Marketing & Advertising",
       "website": "https://lacquerlab.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-19T19:15:59.232445+00:00"
+    },
+    {
+      "name": "FuelRoute",
+      "slug": "polsia-fuelroute",
+      "website": "https://fuelroute.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-19T18:48:21.113777+00:00"
+      "scraped_at": "2026-08-19T19:13:44.596132+00:00"
+    },
+    {
+      "name": "Esténix",
+      "slug": "polsia-estnix",
+      "website": "https://estnix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T19:13:45.306920+00:00"
+    },
+    {
+      "name": "Lumínica",
+      "slug": "polsia-lumnica",
+      "website": "https://lumnica.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T19:13:46.024574+00:00"
+    },
+    {
+      "name": "Cleatmark",
+      "slug": "polsia-cleatmark-5",
+      "website": "https://cleatmark-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T19:13:47.342252+00:00"
+    },
+    {
+      "name": "Aegis Federal AI Solutions",
+      "slug": "polsia-aegis-federal-ai-solutions",
+      "website": "https://aegis-federal-ai-solutions.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T19:13:48.185614+00:00"
+    },
+    {
+      "name": "Raqib",
+      "slug": "polsia-raqib-2",
+      "website": "https://raqib-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T19:13:49.044258+00:00"
+    },
+    {
+      "name": "Watchweave",
+      "slug": "polsia-watchweave",
+      "website": "https://watchweave.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T19:13:49.788060+00:00"
+    },
+    {
+      "name": "Backspire",
+      "slug": "polsia-backspire",
+      "website": "https://backspire.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T19:13:50.696508+00:00"
+    },
+    {
+      "name": "Mahneon",
+      "slug": "polsia-mahneon",
+      "website": "https://mahneon.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T19:13:51.367222+00:00"
+    },
+    {
+      "name": "Audicell",
+      "slug": "polsia-audicell",
+      "website": "https://audicell.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T19:13:52.158624+00:00"
     }
   ]
 }
