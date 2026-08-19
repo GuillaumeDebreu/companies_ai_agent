@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T03:33:39.486732+00:00",
+  "last_updated": "2026-08-19T04:19:33.311612+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -269115,42 +269115,57 @@
     {
       "name": "Prancheta",
       "slug": "polsia-prancheta-2",
+      "description": "Pacotes curados de templates digitais para Notion e Google Sheets. Comece a se organizar esta semana, sem aprender a montar planilha do zero.",
+      "description_fr": "Offres de modèles numériques pour Notion et Google Sheets. Comece a se organizar this semana, sem aprender a montar planilha do zero.",
+      "category": "Other",
       "website": "https://prancheta-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T03:30:30.898034+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:19:19.914863+00:00"
     },
     {
       "name": "Rookshard Studio",
       "slug": "polsia-rookshard-studio",
+      "description": "Hand-crafted tabletop commissions for D&D — characters, villains, lore, and session recaps written by a real human, not AI.",
+      "description_fr": "Commandes de table fabriquées à la main pour D&D : personnages, méchants, traditions et récapitulatifs de sessions écrits par un véritable humain, pas par l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://rookshard-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T03:30:31.797899+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:19:20.716712+00:00"
     },
     {
       "name": "Klarblink",
       "slug": "polsia-klarblink",
+      "description": "Klarblink er en AI-drevet compliance-agent for norske små og mellomstore bedrifter — overvåker arbeidsmiljø, GDPR, A-melding og NIS2 døgnet rundt.",
+      "description_fr": "Klarblink est un agent de conformité de recherche d'IA pour les propriétaires de magasins nordiques et de magasins en gros — encadré par le RGPD, la fusion A et le code NIS2.",
+      "category": "AI & Machine Learning",
       "website": "https://klarblink.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T03:30:32.489679+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:19:22.146471+00:00"
     },
     {
       "name": "Marrowside",
       "slug": "polsia-marrowside-2",
+      "description": "Structured video courses for narrow, underserved verticals — built one vertical, one instructor, one rigorous path at a time.",
+      "description_fr": "Cours vidéo structurés pour les secteurs verticaux étroits et mal desservis : construits un secteur vertical, un instructeur, un parcours rigoureux à la fois.",
+      "category": "Education",
       "website": "https://marrowside-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T03:30:38.238524+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:19:23.223387+00:00"
     },
     {
       "name": "Yerbántica",
       "slug": "polsia-yerbntica",
+      "description": "Marketing de afiliación especializado en bienestar, hierbas y suplementos naturales.",
+      "description_fr": "Marketing d'affiliation spécialisé en bien-être, hierbas et suppléments naturels.",
+      "category": "Marketing & Advertising",
       "website": "https://yerbntica.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T03:30:50.153915+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:19:24.494344+00:00"
     },
     {
       "name": "Bowline Local",
@@ -269166,10 +269181,13 @@
     {
       "name": "Vesperhearth",
       "slug": "polsia-vesperhearth",
+      "description": "Boutique OnlyFans management for creators who would rather create than chat.",
+      "description_fr": "Gestion de boutique OnlyFans pour les créateurs qui préfèrent créer plutôt que discuter.",
+      "category": "Other",
       "website": "https://vesperhearth.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T03:31:06.448740+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:19:25.458206+00:00"
     },
     {
       "name": "Tonefold",
@@ -269193,10 +269211,93 @@
     {
       "name": "Cratewake",
       "slug": "polsia-cratewake-8rn897",
+      "description": "Cratewake is the 24/7 inventory agent for small online stores — forecasts, POs, and weekly P&L in one inbox. Stops stockouts, drafts purchase orders, and sends a calm Monday summary.",
+      "description_fr": "Cratewake est l'agent d'inventaire 24h/24 et 7j/7 pour les petites boutiques en ligne : prévisions, bons de commande et P&L hebdomadaires dans une seule boîte de réception. Arrête les ruptures de stock, rédige les bons de commande et envoie un résumé calme du lundi.",
+      "category": "E-Commerce & Retail",
       "website": "https://cratewake-8rn897.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-19T04:19:27.180334+00:00"
+    },
+    {
+      "name": "Plotpick",
+      "slug": "polsia-plotpick",
+      "website": "https://plotpick.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-19T03:31:18.935647+00:00"
+      "scraped_at": "2026-08-19T04:17:55.492595+00:00"
+    },
+    {
+      "name": "Holdmark",
+      "slug": "polsia-holdmark-6rbk40",
+      "website": "https://holdmark-6rbk40.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:17:56.264939+00:00"
+    },
+    {
+      "name": "Plankraft",
+      "slug": "polsia-plankraft-2",
+      "website": "https://plankraft-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:17:56.909139+00:00"
+    },
+    {
+      "name": "Monterey bay Pedicabss",
+      "slug": "polsia-monterey-bay-pedicabss",
+      "website": "https://monterey-bay-pedicabss.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:17:57.547841+00:00"
+    },
+    {
+      "name": "Janktamer",
+      "slug": "polsia-janktamer",
+      "website": "https://janktamer.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:17:58.575940+00:00"
+    },
+    {
+      "name": "Makerloom",
+      "slug": "polsia-makerloom-6",
+      "website": "https://makerloom-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:17:59.314407+00:00"
+    },
+    {
+      "name": "Passglass",
+      "slug": "polsia-passglass",
+      "website": "https://passglass.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:17:59.880207+00:00"
+    },
+    {
+      "name": "Werkstrom",
+      "slug": "polsia-werkstrom",
+      "website": "https://werkstrom.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:18:00.506444+00:00"
+    },
+    {
+      "name": "Stipendi",
+      "slug": "polsia-stipendi",
+      "website": "https://stipendi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:18:01.134594+00:00"
+    },
+    {
+      "name": "Plotpulse",
+      "slug": "polsia-plotpulse-5",
+      "website": "https://plotpulse-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:18:01.825965+00:00"
     }
   ]
 }
