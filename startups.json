@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T04:19:33.311612+00:00",
+  "last_updated": "2026-08-19T04:58:13.081383+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -269222,10 +269222,13 @@
     {
       "name": "Plotpick",
       "slug": "polsia-plotpick",
+      "description": "Plotpick is a UGC micro-drama app where real people turn their own lives into short, episodic vertical videos — and the audience votes on what happens next.",
+      "description_fr": "Plotpick est une application de micro-drame UGC dans laquelle de vraies personnes transforment leur propre vie en courtes vidéos verticales épisodiques – et le public vote sur ce qui se passera ensuite.",
+      "category": "Entertainment & Media",
       "website": "https://plotpick.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T04:17:55.492595+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:57:42.195896+00:00"
     },
     {
       "name": "Holdmark",
@@ -269238,66 +269241,170 @@
     {
       "name": "Plankraft",
       "slug": "polsia-plankraft-2",
+      "description": "Struktur für Content-Creator – Notion-Vorlagen, die Ideen, Rhythmus und Sponsoring zusammenhalten.",
+      "description_fr": "Structure pour les créateurs de contenu – Notion-Vorlagen, die Ideen, Rhythmus et Sponsoring zusammenhalten.",
+      "category": "Entertainment & Media",
       "website": "https://plankraft-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T04:17:56.909139+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:57:48.845657+00:00"
     },
     {
-      "name": "Monterey bay Pedicabss",
+      "name": "CoastSpoke Pedicabs",
       "slug": "polsia-monterey-bay-pedicabss",
+      "description": "Human-powered rides for the bay-side traveler — flag a pedicab on the waterfront or text for a pickup, anywhere along the harbor.",
+      "description_fr": "Des manèges à propulsion humaine pour le voyageur au bord de la baie : signalez un cyclo-pousse sur le front de mer ou envoyez un SMS pour une camionnette, n'importe où le long du port.",
+      "category": "Travel & Hospitality",
       "website": "https://monterey-bay-pedicabss.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T04:17:57.547841+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:57:50.216818+00:00"
     },
     {
       "name": "Janktamer",
       "slug": "polsia-janktamer",
+      "description": "Friendly fixes for your game's jank, mods, and meltdowns. A patient human troubleshooter joins your screen share and walks you through the fix — no jargon, no shaming.",
+      "description_fr": "Des correctifs conviviaux pour les erreurs, les mods et les effondrements de votre jeu. Un dépanneur humain patient rejoint votre partage d'écran et vous guide à travers le correctif – sans jargon, sans honte.",
+      "category": "Health & Wellness",
       "website": "https://janktamer.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T04:17:58.575940+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:57:52.061364+00:00"
     },
     {
       "name": "Makerloom",
       "slug": "polsia-makerloom-6",
+      "description": "Turn a one-line idea into a full brand, store, and supply chain. The AI-native brand studio for first-time founders, side-hustlers, and creator-economy solopreneurs.",
+      "description_fr": "Transformez une idée unique en une marque, un magasin et une chaîne d'approvisionnement complets. Le studio de marque natif d'IA pour les nouveaux fondateurs, les arnaqueurs et les solopreneurs de l'économie des créateurs.",
+      "category": "AI & Machine Learning",
       "website": "https://makerloom-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T04:17:59.314407+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:57:53.776680+00:00"
     },
     {
       "name": "Passglass",
       "slug": "polsia-passglass",
+      "description": "Lawyer-defensible bias audits at every stage of your hiring funnel.",
+      "description_fr": "Des audits de préjugés défendables par des avocats à chaque étape de votre entonnoir de recrutement.",
+      "category": "Other",
       "website": "https://passglass.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T04:17:59.880207+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:57:55.004398+00:00"
     },
     {
       "name": "Werkstrom",
       "slug": "polsia-werkstrom",
+      "description": "Autonomous project control for kitchen furniture, order to install. One agent that pulls orders from the ERP, schedules against real warehouse capacity, books install crews by live availability, and pushes live status to dealer and homeowner.",
+      "description_fr": "Contrôle de projet autonome pour les meubles de cuisine, commande à installer. Un agent qui extrait les commandes de l'ERP, planifie en fonction de la capacité réelle de l'entrepôt, réserve les équipes d'installation en fonction de la disponibilité en direct et transmet le statut en direct au concessionnaire et au propriétaire.",
+      "category": "Food & Beverage",
       "website": "https://werkstrom.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T04:18:00.506444+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:57:57.030700+00:00"
     },
     {
       "name": "Stipendi",
       "slug": "polsia-stipendi",
+      "description": "Des agents IA qui défendent les contrats de votre PME — surveillance continue, mises en demeure conformes au droit français et journal d’audit aligné EU AI Act / RGPD.",
+      "description_fr": "Des agents IA qui défendent les contrats de votre PME — surveillance continue, mises en demeure conformes au droit français et journal d’audit aligné EU AI Act / RGPD.",
+      "category": "AI & Machine Learning",
       "website": "https://stipendi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-19T04:18:01.134594+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-19T04:57:58.226171+00:00"
     },
     {
       "name": "Plotpulse",
       "slug": "polsia-plotpulse-5",
+      "description": "Permits, code violations, listing flips — pre-scored leads booked onto your calendar.",
+      "description_fr": "Permis, violations de code, retournements de listes – prospects pré-notés réservés sur votre calendrier.",
+      "category": "Sales & CRM",
       "website": "https://plotpulse-5.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-19T04:58:00.127898+00:00"
+    },
+    {
+      "name": "Knockbook",
+      "slug": "polsia-knockbook",
+      "website": "https://knockbook.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-19T04:18:01.825965+00:00"
+      "scraped_at": "2026-08-19T04:56:08.827549+00:00"
+    },
+    {
+      "name": "SelloBit",
+      "slug": "polsia-sellobit",
+      "website": "https://sellobit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:56:09.650364+00:00"
+    },
+    {
+      "name": "Kayakalpa",
+      "slug": "polsia-kayakalpa",
+      "website": "https://kayakalpa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:56:10.464065+00:00"
+    },
+    {
+      "name": "Tradecatch",
+      "slug": "polsia-tradecatch-2",
+      "website": "https://tradecatch-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:56:11.171290+00:00"
+    },
+    {
+      "name": "Specwright",
+      "slug": "polsia-specwright-4du10e",
+      "website": "https://specwright-4du10e.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:56:11.883563+00:00"
+    },
+    {
+      "name": "Verdigris",
+      "slug": "polsia-verdigris",
+      "website": "https://verdigris.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:56:12.775914+00:00"
+    },
+    {
+      "name": "Earnedpress",
+      "slug": "polsia-earnedpress",
+      "website": "https://earnedpress.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:56:13.524544+00:00"
+    },
+    {
+      "name": "Marginpike",
+      "slug": "polsia-marginpike",
+      "website": "https://marginpike.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:56:14.403021+00:00"
+    },
+    {
+      "name": "Tongueprint",
+      "slug": "polsia-tongueprint-2",
+      "website": "https://tongueprint-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:56:15.358745+00:00"
+    },
+    {
+      "name": "Cairnflume",
+      "slug": "polsia-cairnflume",
+      "website": "https://cairnflume.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-19T04:56:17.098447+00:00"
     }
   ]
 }
