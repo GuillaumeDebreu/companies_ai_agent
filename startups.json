@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T05:16:48.332254+00:00",
+  "last_updated": "2026-08-20T05:51:47.838410+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -273603,82 +273603,192 @@
     {
       "name": "mdtrovehaus",
       "slug": "polsia-mdtrovehaus",
+      "description": "mdtrovehaus is a coin-powered marketplace where AI-built stories, audiobooks, and creator tools meet verified talent — across five storefronts, one wallet.",
+      "description_fr": "mdtrovehaus est un marché alimenté par des pièces de monnaie où des histoires, des livres audio et des outils de création créés par l'IA rencontrent des talents vérifiés - sur cinq vitrines, un seul portefeuille.",
+      "category": "E-Commerce & Retail",
       "website": "https://mdtrovehaus.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-20T05:14:04.950050+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-20T05:51:27.343754+00:00"
     },
     {
       "name": "Hardstand",
       "slug": "polsia-hardstand-5",
+      "description": "Hardstand runs the AI front desk for Australian small businesses. 24/7 AI receptionist, automated enquiry replies, online booking, review requests and quote follow-ups — setup once, recurring monthly.",
+      "description_fr": "Hardstand gère la réception IA pour les petites entreprises australiennes. Réceptionniste IA 24h/24 et 7j/7, réponses automatisées aux demandes de renseignements, réservation en ligne, demandes d'avis et suivis de devis — configuration une fois, récurrente mensuellement.",
+      "category": "AI & Machine Learning",
       "website": "https://hardstand-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-20T05:14:05.875271+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-20T05:51:28.670431+00:00"
     },
     {
       "name": "Gridiron Pulse",
       "slug": "polsia-gridiron-pulse",
+      "description": "Pick, play, and compete with fellow NFL fans every week. Confidence pools, squad showdowns, and live leaderboards for the whole league.",
+      "description_fr": "Choisissez, jouez et affrontez d'autres fans de la NFL chaque semaine. Pools de confiance, confrontations d'équipes et classements en direct pour toute la ligue.",
+      "category": "Marketing & Advertising",
       "website": "https://gridiron-pulse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-20T05:14:06.735348+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-20T05:51:30.189719+00:00"
     },
     {
       "name": "Cratewerk",
       "slug": "polsia-cratewerk",
+      "description": "A rotating fleet of professional-grade maker tools — laser cutters, kilns, CNC routers, screen presses — delivered to your bench for $89 a month.",
+      "description_fr": "Une flotte tournante d'outils de fabrication de qualité professionnelle - découpeuses laser, fours, routeurs CNC, presses sérigraphiques - livrées sur votre établi pour 89 $ par mois.",
+      "category": "Logistics & Supply Chain",
       "website": "https://cratewerk.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-20T05:14:07.419939+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-20T05:51:32.227269+00:00"
     },
     {
       "name": "Comerzia",
       "slug": "polsia-comerzia",
+      "description": "AI content studio for the independent shops and service businesses that anchor your neighborhood — Reels, photo assets, paid ads, and bilingual posts on autopilot.",
+      "description_fr": "Studio de contenu IA pour les magasins indépendants et les entreprises de services qui ancrent votre quartier : bobines, ressources photo, publicités payantes et publications bilingues sur pilote automatique.",
+      "category": "AI & Machine Learning",
       "website": "https://comerzia.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-20T05:14:08.159929+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-20T05:51:33.964252+00:00"
     },
     {
       "name": "Tendered",
       "slug": "polsia-tendered-7",
+      "description": "Overnight municipal-portal scanner for small HVAC and electrical contractors. Wake up to matched bids and AI-drafted bid letters ready to send.",
+      "description_fr": "Scanner de portail municipal de nuit pour les petits entrepreneurs en CVC et en électricité. Réveillez-vous avec des offres correspondantes et des lettres d'offre rédigées par l'IA prêtes à être envoyées.",
+      "category": "AI & Machine Learning",
       "website": "https://tendered-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-20T05:14:09.126282+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-20T05:51:35.191366+00:00"
     },
     {
       "name": "Buza",
       "slug": "polsia-buza",
+      "description": "The WhatsApp sales desk South African service businesses run on autopilot — qualifies leads, sends quotes, books appointments, takes deposits.",
+      "description_fr": "Les entreprises de services sud-africaines du bureau de vente WhatsApp fonctionnent sur pilote automatique : qualifient les prospects, envoient des devis, prennent des rendez-vous, acceptent les dépôts.",
+      "category": "Sales & CRM",
       "website": "https://buza.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-20T05:14:09.829930+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-20T05:51:36.773087+00:00"
     },
     {
       "name": "Wirewright",
       "slug": "polsia-wirewright-4",
+      "description": "Always-on AI managed services for .NET, Angular, and Azure apps. Triage alerts, ship hotfixes, autoscale within budget, and surface weekly uptime reports — priced below a single on-call SRE rotation.",
+      "description_fr": "Services gérés d'IA toujours actifs pour les applications .NET, Angular et Azure. Triez les alertes, expédiez les correctifs, effectuez une mise à l'échelle automatique dans les limites du budget et publiez des rapports de disponibilité hebdomadaires, à un prix inférieur à une seule rotation SRE sur appel.",
+      "category": "AI & Machine Learning",
       "website": "https://wirewright-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-20T05:14:10.547906+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-20T05:51:38.057431+00:00"
     },
     {
       "name": "Aftvox",
       "slug": "polsia-aftvox",
+      "description": "The AI receptionist that never misses a $5,000 call — done-for-you voice agents for dental, med-spa, HVAC, and law firms.",
+      "description_fr": "La réceptionniste IA qui ne manque jamais un appel de 5 000 $ : des agents vocaux faits pour vous pour les cabinets dentaires, médicaux, de CVC et d'avocats.",
+      "category": "AI & Machine Learning",
       "website": "https://aftvox.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-20T05:14:11.208510+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-20T05:51:39.254041+00:00"
     },
     {
       "name": "Kroba",
       "slug": "polsia-kroba",
+      "description": "Atención 24/7 con IA para salones, clínicas y técnicos — sin código, sin perder clientes.",
+      "description_fr": "Attention 24h/24 et 7j/7 avec IA pour les salons, cliniques et techniciens — sans code, sans perdre de clients.",
+      "category": "Other",
       "website": "https://kroba.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-20T05:51:41.070407+00:00"
+    },
+    {
+      "name": "Snagback",
+      "slug": "polsia-snagback-8",
+      "website": "https://snagback-8.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-20T05:14:11.832623+00:00"
+      "scraped_at": "2026-08-20T05:49:11.587617+00:00"
+    },
+    {
+      "name": "Premark",
+      "slug": "polsia-premark-3",
+      "website": "https://premark-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-20T05:49:12.299124+00:00"
+    },
+    {
+      "name": "Vendoki",
+      "slug": "polsia-vendoki-2",
+      "website": "https://vendoki-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-20T05:49:13.067471+00:00"
+    },
+    {
+      "name": "ForkFable",
+      "slug": "polsia-forkfable",
+      "website": "https://forkfable.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-20T05:49:13.837454+00:00"
+    },
+    {
+      "name": "Bayouhaul",
+      "slug": "polsia-bayouhaul",
+      "website": "https://bayouhaul.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-20T05:49:14.632463+00:00"
+    },
+    {
+      "name": "Saltline",
+      "slug": "polsia-saltline-ehj9rr",
+      "website": "https://saltline-ehj9rr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-20T05:49:15.396004+00:00"
+    },
+    {
+      "name": "Foxkeep",
+      "slug": "polsia-foxkeep-7",
+      "website": "https://foxkeep-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-20T05:49:16.194331+00:00"
+    },
+    {
+      "name": "Threshold & Thrive",
+      "slug": "polsia-threshold-thrive",
+      "website": "https://threshold-thrive.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-20T05:49:17.514020+00:00"
+    },
+    {
+      "name": "Bellowmark",
+      "slug": "polsia-bellowmark-3",
+      "website": "https://bellowmark-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-20T05:49:18.273957+00:00"
+    },
+    {
+      "name": "StoneCrest Hardscapes",
+      "slug": "polsia-stonecrest-hardscapes",
+      "website": "https://stonecrest-hardscapes.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-20T05:49:19.068279+00:00"
     }
   ]
 }
