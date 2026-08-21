@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T10:06:12.558236+00:00",
+  "last_updated": "2026-08-21T10:45:01.599586+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -278250,18 +278250,24 @@
     {
       "name": "Zovnica",
       "slug": "polsia-zovnica",
+      "description": "Zovnica je AI-agencija za zakazivanje sastanaka koja lokalnim tvrtkama popunjava kalendar kvalificiranim terminima — bez hladnih poziva i bez zapošljavanja SDR-a.",
+      "description_fr": "L'AI-agencija za zakazivanje sastanaka koja lokalnim tvrtkama popunjava kalendar kvalificiranim terminima — bez hladnih poziva i bez zapošljavanja SDR-a.",
+      "category": "AI & Machine Learning",
       "website": "https://zovnica.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T10:02:51.852849+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T10:44:02.738606+00:00"
     },
     {
       "name": "Cradl",
       "slug": "polsia-cradl-3",
+      "description": "Reusable shippers, rented by the cycle — pooled across partner micro-warehouses and 3PL dropsites, with per-month pricing that scales to your real cycle volume.",
+      "description_fr": "Des expéditeurs réutilisables, loués au cycle – regroupés entre des micro-entrepôts partenaires et des sites de dépôt 3PL, avec une tarification mensuelle qui s'adapte à votre volume de cycle réel.",
+      "category": "Real Estate",
       "website": "https://cradl-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T10:02:57.550782+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T10:44:04.199799+00:00"
     },
     {
       "name": "Pipwright",
@@ -278274,10 +278280,13 @@
     {
       "name": "Vynelis",
       "slug": "polsia-vynelis",
+      "description": "La mutuelle santé qui apprend de votre vie pour mieux vous couvrir — 24h/24, 100% IA.",
+      "description_fr": "La mutuelle santé qui apprend de votre vie pour mieux vous couvrir — 24h/24, 100% IA.",
+      "category": "Other",
       "website": "https://vynelis.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T10:03:09.280521+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T10:44:05.583301+00:00"
     },
     {
       "name": "Knockturn",
@@ -278293,10 +278302,13 @@
     {
       "name": "BanQuan AI",
       "slug": "polsia-banquan-ai",
+      "description": "Agent AI vận hành tòa nhà 24/7: giám sát điện, nước, HVAC, an ninh, PCCC; tiếp nhận yêu cầu cư dân và phân công kỹ thuật viên tự động theo SLA.",
+      "description_fr": "L'agent AI est présent 24h/24 et 7j/7 : il est présent, CVC, et PCCC ; Vous pouvez maintenant vous connecter avec le SLA.",
+      "category": "AI & Machine Learning",
       "website": "https://banquan-ai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T10:03:20.587619+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T10:44:07.033355+00:00"
     },
     {
       "name": "Phareon",
@@ -278341,6 +278353,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-21T10:06:12.556735+00:00"
+    },
+    {
+      "name": "Plumbline",
+      "slug": "polsia-plumbline-v773yf",
+      "website": "https://plumbline-v773yf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T10:41:47.883751+00:00"
+    },
+    {
+      "name": "Položkoměr",
+      "slug": "polsia-polokomr",
+      "website": "https://polokomr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T10:41:48.796461+00:00"
+    },
+    {
+      "name": "Carricode",
+      "slug": "polsia-carricode",
+      "website": "https://carricode.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T10:41:54.512320+00:00"
+    },
+    {
+      "name": "Vendari",
+      "slug": "polsia-vendari-bmf2cx",
+      "website": "https://vendari-bmf2cx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T10:42:00.185690+00:00"
+    },
+    {
+      "name": "Rostrai",
+      "slug": "polsia-rostrai",
+      "website": "https://rostrai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T10:42:05.787990+00:00"
+    },
+    {
+      "name": "Phōtágo",
+      "slug": "polsia-phtgo",
+      "website": "https://phtgo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T10:42:06.533257+00:00"
+    },
+    {
+      "name": "KerjaNadi",
+      "slug": "polsia-kerjanadi",
+      "website": "https://kerjanadi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T10:42:12.431930+00:00"
+    },
+    {
+      "name": "Hagglebird",
+      "slug": "polsia-hagglebird-3",
+      "website": "https://hagglebird-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T10:42:17.836543+00:00"
+    },
+    {
+      "name": "Graftr",
+      "slug": "polsia-graftr-2",
+      "website": "https://graftr-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T10:42:23.391906+00:00"
+    },
+    {
+      "name": "Kaguacore",
+      "slug": "polsia-kaguacore",
+      "website": "https://kaguacore.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T10:42:29.019786+00:00"
     }
   ]
 }
