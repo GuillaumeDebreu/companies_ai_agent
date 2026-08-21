@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T18:37:21.555119+00:00",
+  "last_updated": "2026-08-21T18:52:16.359452+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -279653,82 +279653,192 @@
     {
       "name": "Pomodeck",
       "slug": "polsia-pomodeck",
+      "description": "A desktop focus timer with hardware companion plugins and AI-assisted day planning.",
+      "description_fr": "Une minuterie de mise au point sur le bureau avec des plugins compagnons matériels et une planification quotidienne assistée par l'IA.",
+      "category": "AI & Machine Learning",
       "website": "https://pomodeck.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T17:58:58.327280+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T18:51:13.621283+00:00"
     },
     {
       "name": "Klaro",
       "slug": "polsia-klaro-3",
+      "description": "Vos réunions, sans vous. Klaro est l'agent vocal qui rejoint vos appels, détecte les décisions, rédige les suivis et pousse le tout dans Notion, Slack et votre CRM.",
+      "description_fr": "Vos réunions, sans vous. Klaro est l'agent vocal qui rejoint vos appels, détecte les décisions, rédige les suivis et pousse le tout dans Notion, Slack et votre CRM.",
+      "category": "Sales & CRM",
       "website": "https://klaro-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T17:58:59.047716+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T18:51:14.614973+00:00"
     },
     {
       "name": "Reeltide",
       "slug": "polsia-reeltide-3",
+      "description": "Autonomous video ops for digital newsrooms — agents that ingest, transcode, caption, screen and publish without an editor in the loop.",
+      "description_fr": "Opérations vidéo autonomes pour les salles de rédaction numériques : agents qui ingèrent, transcodent, sous-titrent, filtrent et publient sans qu'un éditeur soit impliqué.",
+      "category": "Entertainment & Media",
       "website": "https://reeltide-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T17:59:04.521422+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T18:51:16.005735+00:00"
     },
     {
       "name": "Custode",
       "slug": "polsia-custode-5",
+      "description": "The autonomous art agent that scouts, validates, and acts for collectors.",
+      "description_fr": "L'agent d'art autonome qui repère, valide et agit pour les collectionneurs.",
+      "category": "Other",
       "website": "https://custode-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T17:59:09.923526+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T18:51:17.243541+00:00"
     },
     {
       "name": "Vesperbid",
       "slug": "polsia-vesperbid",
+      "description": "Never-sleeping AI agents that monitor procurement portals, draft compliant responses, and submit bids before the deadline closes.",
+      "description_fr": "Des agents d'IA qui ne dorment jamais et qui surveillent les portails d'approvisionnement, rédigent des réponses conformes et soumettent des offres avant la clôture de la date limite.",
+      "category": "AI & Machine Learning",
       "website": "https://vesperbid.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T17:59:10.621788+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T18:51:18.194814+00:00"
     },
     {
       "name": "Quillow",
       "slug": "polsia-quillow-4",
+      "description": "24/7 end-of-life coordination with a licensed funeral director behind every case. Quillow pairs an always-on AI concierge with one director who oversees many active cases at once.",
+      "description_fr": "Coordination de fin de vie 24h/24 et 7j/7 avec un directeur de pompes funèbres agréé derrière chaque cas. Quillow associe un concierge IA toujours actif à un directeur qui supervise plusieurs dossiers actifs à la fois.",
+      "category": "AI & Machine Learning",
       "website": "https://quillow-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T17:59:16.314877+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T18:51:19.501998+00:00"
     },
     {
       "name": "Pulsewell",
       "slug": "polsia-pulsewell-5",
+      "description": "Always-on CRO agents that watch your live Framer site, design and A/B test new variants, then ship the winners back — overnight, no handoff.",
+      "description_fr": "Des agents CRO toujours disponibles qui surveillent votre site Framer en direct, conçoivent et testent A/B de nouvelles variantes, puis renvoient les gagnants – du jour au lendemain, sans transfert.",
+      "category": "Other",
       "website": "https://pulsewell-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T17:59:21.787319+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T18:51:20.572929+00:00"
     },
     {
       "name": "Holdfast",
       "slug": "polsia-holdfast-1cmgov",
+      "description": "A 24/7 multi-agent back office for one-person carpentry and joinery shops. Quoting, bookings, materials, cashflow and weekly client updates — run for you while you cut wood.",
+      "description_fr": "Un back office multi-agents 24h/24 et 7j/7 pour les ateliers de menuiserie et menuiserie individuels. Devis, réservations, matériaux, flux de trésorerie et mises à jour hebdomadaires des clients : travaillez pour vous pendant que vous coupez du bois.",
+      "category": "E-Commerce & Retail",
       "website": "https://holdfast-1cmgov.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T17:59:27.327685+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T18:51:21.590150+00:00"
     },
     {
       "name": "Falsenote",
       "slug": "polsia-falsenote",
+      "description": "Every review, heard, answered, and vetted — in minutes. An always-on AI reputation agent for the small-business owner.",
+      "description_fr": "Chaque avis, entendu, répondu et vérifié – en quelques minutes. Un agent de réputation IA toujours actif pour le propriétaire de petite entreprise.",
+      "category": "AI & Machine Learning",
       "website": "https://falsenote.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T17:59:32.682325+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T18:51:22.768305+00:00"
     },
     {
       "name": "MtaaPulse",
       "slug": "polsia-mtaapulse",
+      "description": "AI-built Reels engineered to fill bookings, not just feeds. Nairobi-based content studio for Kenyan small and mid-sized businesses — barbershops, salons, restaurants, gyms, car dealers, hotels and Airbnb hosts.",
+      "description_fr": "Reels construits par l'IA conçus pour remplir les réservations, pas seulement les flux. Studio de contenu basé à Nairobi pour les petites et moyennes entreprises kenyanes : salons de coiffure, salons, restaurants, salles de sport, concessionnaires automobiles, hôtels et hôtes Airbnb.",
+      "category": "Travel & Hospitality",
       "website": "https://mtaapulse.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-21T18:51:24.464815+00:00"
+    },
+    {
+      "name": "HatchReel",
+      "slug": "polsia-hatchreel-3",
+      "website": "https://hatchreel-3.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-21T17:59:38.337011+00:00"
+      "scraped_at": "2026-08-21T18:49:21.451768+00:00"
+    },
+    {
+      "name": "Mendwell",
+      "slug": "polsia-mendwell-9yl15z",
+      "website": "https://mendwell-9yl15z.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T18:49:22.279805+00:00"
+    },
+    {
+      "name": "Tugon",
+      "slug": "polsia-tugon-4",
+      "website": "https://tugon-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T18:49:23.090480+00:00"
+    },
+    {
+      "name": "Anomalix",
+      "slug": "polsia-anomalix-5",
+      "website": "https://anomalix-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T18:49:28.707410+00:00"
+    },
+    {
+      "name": "Alkatmester",
+      "slug": "polsia-alkatmester",
+      "website": "https://alkatmester.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T18:49:29.395835+00:00"
+    },
+    {
+      "name": "Nightjar",
+      "slug": "polsia-nightjar-hfsdid",
+      "website": "https://nightjar-hfsdid.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T18:49:35.084396+00:00"
+    },
+    {
+      "name": "Tappstopp",
+      "slug": "polsia-tappstopp",
+      "website": "https://tappstopp.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T18:49:37.015809+00:00"
+    },
+    {
+      "name": "Northbeam Studio Group",
+      "slug": "polsia-northbeam-studio-group",
+      "website": "https://northbeam-studio-group.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T18:49:42.746001+00:00"
+    },
+    {
+      "name": "Provend",
+      "slug": "polsia-provend-icm7bq",
+      "website": "https://provend-icm7bq.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T18:49:43.354355+00:00"
+    },
+    {
+      "name": "Ribbonink",
+      "slug": "polsia-ribbonink",
+      "website": "https://ribbonink.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T18:49:48.904456+00:00"
     }
   ]
 }
