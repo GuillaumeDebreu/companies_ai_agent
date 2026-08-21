@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T08:55:16.560635+00:00",
+  "last_updated": "2026-08-21T09:32:14.000513+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -278036,10 +278036,13 @@
     {
       "name": "Coastal Smoke Festival",
       "slug": "polsia-coastal-smoke-festival",
+      "description": "A one-day regional BBQ festival celebrating low-and-slow cooking, craft beer, and community.",
+      "description_fr": "Un festival de barbecue régional d'une journée célébrant la cuisine lente et lente, la bière artisanale et la communauté.",
+      "category": "Social & Community",
       "website": "https://coastal-smoke-festival.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T08:52:09.897588+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T09:31:21.619301+00:00"
     },
     {
       "name": "X-ploregroup",
@@ -278052,18 +278055,24 @@
     {
       "name": "Vendcast",
       "slug": "polsia-vendcast-62qu8n",
+      "description": "Always-on supplier intelligence — flagging risk and drafting the response. Vendcast watches vendor financials, sanctions exposure, ESG controversies, adverse media, and shipping signals, and auto-drafts the mitigation memo before the stockout or the enforcement letter.",
+      "description_fr": "Informations permanentes sur les fournisseurs : signalement des risques et rédaction de la réponse. Vendcast surveille les données financières des fournisseurs, l'exposition aux sanctions, les controverses ESG, les médias défavorables et les signaux d'expédition, et rédige automatiquement la note d'atténuation avant la rupture de stock ou la lettre d'application.",
+      "category": "Finance & Fintech",
       "website": "https://vendcast-62qu8n.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T08:52:16.384680+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T09:31:24.097753+00:00"
     },
     {
       "name": "Muster",
       "slug": "polsia-muster-5",
+      "description": "AI-native field crews. Dispatched and photo-verified in minutes.",
+      "description_fr": "Des équipes de terrain natives de l'IA. Expédié et photo-vérifié en quelques minutes.",
+      "category": "AI & Machine Learning",
       "website": "https://muster-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T08:52:21.932638+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T09:31:25.828755+00:00"
     },
     {
       "name": "Bidwright",
@@ -278090,10 +278099,13 @@
     {
       "name": "Shearvox",
       "slug": "polsia-shearvox",
+      "description": "The 24/7 AI receptionist built for barbershops. Answers every call and text, books into your calendar, sends reminders, and recovers the appointments that walk out the door.",
+      "description_fr": "La réceptionniste IA 24h/24 et 7j/7 conçue pour les salons de coiffure. Répond à chaque appel et SMS, réserve dans votre calendrier, envoie des rappels et récupère les rendez-vous qui sortent de la porte.",
+      "category": "AI & Machine Learning",
       "website": "https://shearvox.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T08:52:38.618972+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-21T09:31:27.613970+00:00"
     },
     {
       "name": "Tradewright",
@@ -278127,6 +278139,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-21T08:55:16.559695+00:00"
+    },
+    {
+      "name": "Spoilr",
+      "slug": "polsia-spoilr-2",
+      "website": "https://spoilr-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T09:29:04.574208+00:00"
+    },
+    {
+      "name": "Bathwright",
+      "slug": "polsia-bathwright",
+      "website": "https://bathwright.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T09:29:05.311670+00:00"
+    },
+    {
+      "name": "Ordinor",
+      "slug": "polsia-ordinor",
+      "website": "https://ordinor.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T09:29:06.148145+00:00"
+    },
+    {
+      "name": "Saafroot",
+      "slug": "polsia-saafroot",
+      "website": "https://saafroot.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T09:29:11.721546+00:00"
+    },
+    {
+      "name": "Vocura",
+      "slug": "polsia-vocura-2",
+      "website": "https://vocura-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T09:29:17.431155+00:00"
+    },
+    {
+      "name": "Cozycritterprints",
+      "slug": "polsia-cozycritterprints",
+      "website": "https://cozycritterprints.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T09:29:23.059201+00:00"
+    },
+    {
+      "name": "Blessed Journey VI",
+      "slug": "polsia-blessed-journey-vi",
+      "website": "https://blessed-journey-vi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T09:29:28.707940+00:00"
+    },
+    {
+      "name": "Diamondwright",
+      "slug": "polsia-diamondwright",
+      "description": "An always-on AI staff for college baseball programs. One agent for video review, recruiting, training, and reporting.",
+      "description_fr": "Une équipe d'IA toujours active pour les programmes de baseball universitaire. Un seul agent pour l'examen des vidéos, le recrutement, la formation et le reporting.",
+      "category": "AI & Machine Learning",
+      "website": "https://diamondwright.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-21T09:32:12.651979+00:00"
+    },
+    {
+      "name": "EROGIA",
+      "slug": "polsia-erogia",
+      "description": "EROGIA è l’agente AI 24/7 che trova, scrive e rendiconta i bandi pubblici per la tua PMI italiana.",
+      "description_fr": "EROGIA est un agent IA 24h/24 et 7j/7 qui vous aide à écrire et à rendre vos services publics pour votre PMI italien.",
+      "category": "AI & Machine Learning",
+      "website": "https://erogia.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-21T09:29:35.339863+00:00"
+    },
+    {
+      "name": "Goodroid",
+      "slug": "polsia-goodroid",
+      "description": "Testreszabott szoftvermegoldások KKV-knak – mobilról felhőig, mesterséges intelligenciával.",
+      "description_fr": "Testreszabott szoftvermegoldások KKV-knak – mobilról felhőig, mesterséges intelligenciával.",
+      "category": "Other",
+      "website": "https://goodroid.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-21T09:32:13.999244+00:00"
     }
   ]
 }
