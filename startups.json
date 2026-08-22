@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T04:09:34.619934+00:00",
+  "last_updated": "2026-08-22T04:49:59.387637+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -281502,10 +281502,13 @@
     {
       "name": "Paperlane",
       "slug": "polsia-paperlane",
+      "description": "Done-for-you AI workflows for small professional service firms — law, accounting, insurance, real estate, and clinics. Built on Make, n8n, Zapier, and Claude.",
+      "description_fr": "Des flux de travail d'IA conçus pour vous pour les petites sociétés de services professionnels : droit, comptabilité, assurance, immobilier et cliniques. Construit sur Make, n8n, Zapier et Claude.",
+      "category": "AI & Machine Learning",
       "website": "https://paperlane.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T04:06:51.951728+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T04:49:03.645328+00:00"
     },
     {
       "name": "Weft Health",
@@ -281518,42 +281521,57 @@
     {
       "name": "Mintmark",
       "slug": "polsia-mintmark-zz86zo",
+      "description": "Compliance for the operator the enterprise stack forgot.",
+      "description_fr": "Conformité pour l'opérateur que la pile d'entreprise a oubliée.",
+      "category": "Other",
       "website": "https://mintmark-zz86zo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T04:06:53.433045+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T04:49:05.387688+00:00"
     },
     {
-      "name": "Spoken Letters LLC",
+      "name": "Inkwell Post",
       "slug": "polsia-spoken-letters-llc",
+      "description": "Personal messages hand-penned on premium paper, sealed in wax, and mailed for you by Inkwell Post — a service by Spoken Letters LLC.",
+      "description_fr": "Messages personnels écrits à la main sur du papier de qualité supérieure, scellés dans de la cire et postés pour vous par Inkwell Post — un service de Spoken Letters LLC.",
+      "category": "Other",
       "website": "https://spoken-letters-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T04:06:58.894018+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T04:49:06.733795+00:00"
     },
     {
       "name": "Edwin",
       "slug": "polsia-edwin",
+      "description": "Agentes de IA vigilan tus reseñas en Google, Yelp y TripAdvisor y solo te avisan por Slack cuando importa.",
+      "description_fr": "Les agents de IA veillent sur vos recherches sur Google, Yelp et TripAdvisor et vous conseillent uniquement sur Slack lorsqu'ils importent.",
+      "category": "Other",
       "website": "https://edwin.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T04:07:04.289483+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T04:49:08.571615+00:00"
     },
     {
       "name": "Abbelo",
       "slug": "polsia-abbelo",
+      "description": "AI-driven coaching that turns ambition into structured progress — guided programmes, shared goals, and a creator studio.",
+      "description_fr": "Un coaching basé sur l'IA qui transforme l'ambition en progrès structuré : programmes guidés, objectifs partagés et studio de création.",
+      "category": "AI & Machine Learning",
       "website": "https://abbelo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T04:07:09.852860+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T04:49:09.545450+00:00"
     },
     {
       "name": "Snatchblock",
       "slug": "polsia-snatchblock",
+      "description": "Back-office autopilot for small crane and rigging crews. Triage quotes, validate NCCCO, schedule against wind windows, chase invoices — even at midnight.",
+      "description_fr": "Pilote automatique de back-office pour les petites équipes de grues et de gréage. Triez les devis, validez NCCCO, planifiez en fonction des fenêtres de vent, recherchez les factures, même à minuit.",
+      "category": "Finance & Fintech",
       "website": "https://snatchblock.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T04:07:15.533664+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T04:49:11.356953+00:00"
     },
     {
       "name": "Yaaqov Hulm",
@@ -281569,10 +281587,13 @@
     {
       "name": "Atersol",
       "slug": "polsia-atersol",
+      "description": "El sistema operativo del técnico de climatización y energía solar.",
+      "description_fr": "Le système opérationnel du technique de climatisation et d’énergie solaire.",
+      "category": "Sustainability & Green",
       "website": "https://atersol.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T04:07:31.739494+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T04:49:12.374772+00:00"
     },
     {
       "name": "Stratagen",
@@ -281584,6 +281605,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-22T04:07:33.713029+00:00"
+    },
+    {
+      "name": "Saakshar",
+      "slug": "polsia-saakshar",
+      "website": "https://saakshar.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T04:47:06.306441+00:00"
+    },
+    {
+      "name": "Citaló",
+      "slug": "polsia-cital-2",
+      "website": "https://cital-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T04:47:11.899127+00:00"
+    },
+    {
+      "name": "Plumbmark",
+      "slug": "polsia-plumbmark-wuty8a",
+      "website": "https://plumbmark-wuty8a.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T04:47:17.338949+00:00"
+    },
+    {
+      "name": "Counterglow",
+      "slug": "polsia-counterglow",
+      "website": "https://counterglow.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T04:47:22.958301+00:00"
+    },
+    {
+      "name": "Stave",
+      "slug": "polsia-stave-3",
+      "website": "https://stave-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T04:47:28.866118+00:00"
+    },
+    {
+      "name": "Barnsberry",
+      "slug": "polsia-barnsberry",
+      "website": "https://barnsberry.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T04:47:35.018473+00:00"
+    },
+    {
+      "name": "Klass Tech",
+      "slug": "polsia-klass-tech",
+      "description": "Ghana-based premium metal and glass fabrication. Security gates, window grills, handrails, glass doors and storefronts — welded and glazed under one roof.",
+      "description_fr": "Fabrication de métal et de verre haut de gamme basée au Ghana. Barrières de sécurité, grilles de fenêtres, mains courantes, portes vitrées et devantures de magasins – soudées et vitrées sous un même toit.",
+      "category": "E-Commerce & Retail",
+      "website": "https://klass-tech.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-22T04:49:46.956580+00:00"
+    },
+    {
+      "name": "Errandbee",
+      "slug": "polsia-errandbee",
+      "website": "https://errandbee.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T04:47:46.111350+00:00"
+    },
+    {
+      "name": "Originmark",
+      "slug": "polsia-originmark-2",
+      "description": "Insurance for the work behind every post.",
+      "description_fr": "Assurance pour le travail derrière chaque poste.",
+      "category": "Other",
+      "website": "https://originmark-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-22T04:49:54.047847+00:00"
+    },
+    {
+      "name": "Cacaokade",
+      "slug": "polsia-cacaokade",
+      "website": "https://cacaokade.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T04:47:57.275133+00:00"
     }
   ]
 }
