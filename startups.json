@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T23:41:12.627084+00:00",
+  "last_updated": "2026-08-22T00:01:29.195278+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -280958,18 +280958,24 @@
     {
       "name": "VanGleam",
       "slug": "polsia-vangleam",
+      "description": "On-site detailing built around your fleet’s schedule. Recurring wash and detail programs for work vans, pickups, and commercial fleets — crews come to your lot.",
+      "description_fr": "Détails sur site construits autour du calendrier de votre flotte. Programmes récurrents de lavage et de détail pour les fourgonnettes de travail, les camionnettes et les flottes commerciales : des équipes viennent sur votre terrain.",
+      "category": "Logistics & Supply Chain",
       "website": "https://vangleam.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T23:38:29.367466+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T00:00:11.295118+00:00"
     },
     {
       "name": "Lotwave",
       "slug": "polsia-lotwave",
+      "description": "Lotwave installs, tunes, and maintains AI voice reception and lead routing for dealerships, detail shops, and service bays. Vapi + GoHighLevel + n8n, scoped to the lot and the bay.",
+      "description_fr": "Lotwave installe, ajuste et gère la réception vocale IA et le routage des prospects pour les concessionnaires, les ateliers de détail et les baies de service. Vapi + GoHighLevel + n8n, limité au terrain et à la baie.",
+      "category": "AI & Machine Learning",
       "website": "https://lotwave.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T23:38:30.200244+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T00:00:12.536136+00:00"
     },
     {
       "name": "Werkbeam",
@@ -280982,58 +280988,159 @@
     {
       "name": "Kindredbound",
       "slug": "polsia-kindredbound",
+      "description": "The biography of your relationship — from first hello to where you stand today, bound and kept.",
+      "description_fr": "La biographie de votre relation – du premier bonjour à votre situation actuelle, liée et conservée.",
+      "category": "Other",
       "website": "https://kindredbound.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T23:38:36.558926+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T00:00:14.326829+00:00"
     },
     {
       "name": "Skerry",
       "slug": "polsia-skerry-4",
+      "description": "Skerry is the 24/7 agent crew that learns your team's standards, reviews every pull request, and ships a morning code-health digest to Slack.",
+      "description_fr": "Skerry est l'équipe d'agents 24h/24 et 7j/7 qui apprend les normes de votre équipe, examine chaque demande d'extraction et envoie un résumé matinal de santé du code à Slack.",
+      "category": "Health & Wellness",
       "website": "https://skerry-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T23:38:37.415289+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T00:00:15.387176+00:00"
     },
     {
       "name": "Counterpilot",
       "slug": "polsia-counterpilot-meyets",
+      "description": "Autonomous store operator for solo Shopify merchants. Wake up to a daily revenue, margin, and stock-out digest.",
+      "description_fr": "Opérateur de magasin autonome pour les marchands Shopify solo. Réveillez-vous avec un résumé quotidien des revenus, des marges et des ruptures de stock.",
+      "category": "E-Commerce & Retail",
       "website": "https://counterpilot-meyets.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T23:38:42.926647+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T00:00:16.472682+00:00"
     },
     {
       "name": "Loomsignal",
       "slug": "polsia-loomsignal-8",
+      "description": "Always-on AI agents that learn your voice, qualify every channel, and escalate only what needs you — WhatsApp, email, web chat, voice, and DMs in one inbox.",
+      "description_fr": "Des agents IA toujours actifs qui apprennent votre voix, qualifient chaque canal et transmettent uniquement ce qui a besoin de vous : WhatsApp, e-mail, chat Web, voix et DM dans une seule boîte de réception.",
+      "category": "AI & Machine Learning",
       "website": "https://loomsignal-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T23:38:48.494773+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T00:00:18.101799+00:00"
     },
     {
       "name": "Codicil",
       "slug": "polsia-codicil-s0sz8a",
+      "description": "AI agents that draft responses your SOC 2 auditor can read — connected to GitHub, AWS, Notion, and HR.",
+      "description_fr": "Agents IA qui rédigent les réponses que votre auditeur SOC 2 peut lire – connectés à GitHub, AWS, Notion et HR.",
+      "category": "AI & Machine Learning",
       "website": "https://codicil-s0sz8a.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T23:38:49.256228+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T00:00:19.205770+00:00"
     },
     {
       "name": "Mythrake",
       "slug": "polsia-mythrake",
+      "description": "Mythrake is the public-facing layer of the MythOS myth-busting engine. Always-on AI agents chase viral claims back to primary source, score them on a transparent rubric, and publish a citation-rich evidence card.",
+      "description_fr": "Mythrake est la couche publique du moteur de lutte contre les mythes MythOS. Les agents d'IA toujours actifs traquent les allégations virales jusqu'à la source principale, les notent sur une rubrique transparente et publient une fiche de preuves riche en citations.",
+      "category": "AI & Machine Learning",
       "website": "https://mythrake.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-21T23:38:54.711399+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T00:00:20.723738+00:00"
     },
     {
       "name": "Hearthwise",
       "slug": "polsia-hearthwise-av0np8",
+      "description": "AI care coordination for home health and aging-in-place — turning clinician handoffs, family messages, and authorization paperwork into one accountable plan.",
+      "description_fr": "Coordination des soins par l'IA pour la santé à domicile et le vieillissement sur place : transformant les transferts de cliniciens, les messages familiaux et les documents d'autorisation en un seul plan responsable.",
+      "category": "AI & Machine Learning",
       "website": "https://hearthwise-av0np8.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-22T00:00:22.185724+00:00"
+    },
+    {
+      "name": "Infralink Austral",
+      "slug": "polsia-infralink-austral",
+      "website": "https://infralink-austral.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-21T23:39:00.531130+00:00"
+      "scraped_at": "2026-08-21T23:58:22.033379+00:00"
+    },
+    {
+      "name": "Provend",
+      "slug": "polsia-provend-ta73qh",
+      "website": "https://provend-ta73qh.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T23:58:22.925793+00:00"
+    },
+    {
+      "name": "Antiphon",
+      "slug": "polsia-antiphon-10",
+      "website": "https://antiphon-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T23:58:23.607227+00:00"
+    },
+    {
+      "name": "Hygeionix",
+      "slug": "polsia-hygeionix",
+      "website": "https://hygeionix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T23:58:24.628724+00:00"
+    },
+    {
+      "name": "OffRounds",
+      "slug": "polsia-offrounds",
+      "website": "https://offrounds.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T23:58:25.300705+00:00"
+    },
+    {
+      "name": "Operosa",
+      "slug": "polsia-operosa",
+      "website": "https://operosa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T23:58:30.738406+00:00"
+    },
+    {
+      "name": "Kindling",
+      "slug": "polsia-kindling-hao82b",
+      "website": "https://kindling-hao82b.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T23:58:41.330866+00:00"
+    },
+    {
+      "name": "Sodalite",
+      "slug": "polsia-sodalite",
+      "website": "https://sodalite.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T23:58:42.020721+00:00"
+    },
+    {
+      "name": "Northbench",
+      "slug": "polsia-northbench-6widu3",
+      "website": "https://northbench-6widu3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T23:58:47.496672+00:00"
+    },
+    {
+      "name": "Llavín",
+      "slug": "polsia-llavn-2",
+      "website": "https://llavn-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-21T23:58:53.031206+00:00"
     }
   ]
 }
