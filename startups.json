@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T07:42:40.653980+00:00",
+  "last_updated": "2026-08-22T08:03:25.456117+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -282133,58 +282133,79 @@
     {
       "name": "Trusswright",
       "slug": "polsia-trusswright-6",
+      "description": "Always-on AI agents running your residential project from brief to handover.",
+      "description_fr": "Des agents IA toujours disponibles qui gèrent votre projet résidentiel du briefing à la livraison.",
+      "category": "AI & Machine Learning",
       "website": "https://trusswright-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:39:41.198413+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:02:18.019387+00:00"
     },
     {
       "name": "Betonwacht",
       "slug": "polsia-betonwacht",
+      "description": "24/7 AI-platform voor slim betononderhoud — IoT-sensoren, dronebeelden en inspectiefoto’s gevoed door computer vision, gekoppeld aan NEN 2767 en de Wet Kwaliteitsborging voor het Bouwen.",
+      "description_fr": "Plateforme d'IA 24h/24 et 7j/7 pour un logement en béton mince — Capteurs IoT, contrôle de drone et vision par ordinateur de porte d'inspection, conforme à la norme NEN 2767 et à l'environnement humide pour le bâtiment.",
+      "category": "Software & SaaS",
       "website": "https://betonwacht.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:39:42.003117+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:02:19.813590+00:00"
     },
     {
       "name": "Rephaus",
       "slug": "polsia-rephaus-3",
+      "description": "Strength gear, dorm-built. Compact iron and recovery hardware for college students who train in rooms, basements, and campus rec centers — pre-validated through Discord, Greek-life, Reddit, and TikTok before any SKU is cast.",
+      "description_fr": "Équipement de musculation, construit en dortoir. Fer à repasser compact et matériel de récupération pour les étudiants qui s'entraînent dans des salles, des sous-sols et des centres de loisirs du campus – pré-validés via Discord, Greek-life, Reddit et TikTok avant la diffusion d'un SKU.",
+      "category": "Education",
       "website": "https://rephaus-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:39:43.106196+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:02:21.403643+00:00"
     },
     {
-      "name": "BlackFrame Barcelona Fotografía & Video profesional",
+      "name": "BlackFrame Barcelona",
       "slug": "polsia-blackframe-barcelona-fotografa-video-profesional",
+      "description": "Enmarcado a medida y arte decorativo contemporáneo en Barcelona",
+      "description_fr": "Enmarcado a medida et arte decorativo contemporain à Barcelone",
+      "category": "Sustainability & Green",
       "website": "https://blackframe-barcelona-fotografa-video-profesional.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:39:48.901973+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:02:22.447868+00:00"
     },
     {
       "name": "Milltakt",
       "slug": "polsia-milltakt",
+      "description": "Milltakt is an AI-staffed contract CNC machining shop. Always-on scheduling, AS9100-grade FAI on every run, parts shipped every week.",
+      "description_fr": "Milltakt est un atelier d'usinage CNC sous contrat doté d'un personnel IA. Planification permanente, FAI de qualité AS9100 à chaque cycle, pièces expédiées chaque semaine.",
+      "category": "AI & Machine Learning",
       "website": "https://milltakt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:39:49.648275+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:02:23.529641+00:00"
     },
     {
       "name": "Sparhawk",
       "slug": "polsia-sparhawk-5",
+      "description": "Sparhawk deploys autonomous agents that watch CVE feeds in real time and open tested pull requests the moment a vulnerability is published — Slack-native, OSS-flat.",
+      "description_fr": "Sparhawk déploie des agents autonomes qui surveillent les flux CVE en temps réel et ouvrent des demandes d'extraction testées dès qu'une vulnérabilité est publiée – natif Slack, OSS-flat.",
+      "category": "AI & Machine Learning",
       "website": "https://sparhawk-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:39:55.128567+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:02:25.366471+00:00"
     },
     {
       "name": "Precision Turf Design LLC",
       "slug": "polsia-precision-turf-design-llc",
+      "description": "Design-build services for athletic and synthetic turf fields — site evaluation, sub-base engineering, drainage design, system specification, and full construction through certification.",
+      "description_fr": "Services de conception-construction de terrains de sport et de gazon synthétique : évaluation du site, ingénierie de la sous-base, conception du drainage, spécification du système et construction complète via certification.",
+      "category": "Other",
       "website": "https://precision-turf-design-llc.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:40:00.775344+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:02:27.669388+00:00"
     },
     {
       "name": "Crewpan",
@@ -282197,10 +282218,13 @@
     {
       "name": "Wildhare",
       "slug": "polsia-wildhare-3",
+      "description": "Wildhare runs niche-down content + lead-gen retainers for one high-LTV local vertical at a time — 20 short-form videos, captions, a calendar and an automated follow-up engine, every month.",
+      "description_fr": "Wildhare propose du contenu de niche + des rétentions de génération de leads pour un secteur vertical local à LTV élevée à la fois : 20 vidéos courtes, des légendes, un calendrier et un moteur de suivi automatisé, chaque mois.",
+      "category": "Entertainment & Media",
       "website": "https://wildhare-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:40:16.956252+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:02:29.979975+00:00"
     },
     {
       "name": "Parroto",
@@ -282212,6 +282236,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-22T07:42:40.653134+00:00"
+    },
+    {
+      "name": "Būstužvalga",
+      "slug": "polsia-bstuvalga",
+      "website": "https://bstuvalga.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:00:41.364733+00:00"
+    },
+    {
+      "name": "Bidwright",
+      "slug": "polsia-bidwright-izivo8",
+      "website": "https://bidwright-izivo8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:00:42.235827+00:00"
+    },
+    {
+      "name": "Lotguard",
+      "slug": "polsia-lotguard-2",
+      "website": "https://lotguard-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:00:43.168525+00:00"
+    },
+    {
+      "name": "Wardgrove",
+      "slug": "polsia-wardgrove",
+      "website": "https://wardgrove.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:00:43.996095+00:00"
+    },
+    {
+      "name": "Revigo",
+      "slug": "polsia-revigo",
+      "website": "https://revigo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:00:44.994165+00:00"
+    },
+    {
+      "name": "Hearthorn",
+      "slug": "polsia-hearthorn-3",
+      "website": "https://hearthorn-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:00:50.573947+00:00"
+    },
+    {
+      "name": "Kavrix",
+      "slug": "polsia-kavrix",
+      "website": "https://kavrix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:00:56.271703+00:00"
+    },
+    {
+      "name": "ALKORI",
+      "slug": "polsia-alkori",
+      "website": "https://alkori.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:00:57.542516+00:00"
+    },
+    {
+      "name": "Plothaus",
+      "slug": "polsia-plothaus-8",
+      "website": "https://plothaus-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:01:03.124316+00:00"
+    },
+    {
+      "name": "Cratewerk",
+      "slug": "polsia-cratewerk-2",
+      "website": "https://cratewerk-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:01:08.749101+00:00"
     }
   ]
 }
