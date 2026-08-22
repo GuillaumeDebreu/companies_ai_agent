@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T08:03:25.456117+00:00",
+  "last_updated": "2026-08-22T08:43:43.588407+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -282240,10 +282240,13 @@
     {
       "name": "Būstužvalga",
       "slug": "polsia-bstuvalga",
+      "description": "Jūsų asmeninis NT žvalgas Baltijos rinkoje – 24/7 seka skelbimus, kainų pokyčius ir nuomos tendencijas Vilniuje, Klaipėdoje, Rygoje ir Taline.",
+      "description_fr": "Jūsų asmeninis NT žvalgas Baltijos rinkoje – 24/7 seka skelbimus, kainų pokyčius ir nuomos tendencijas Vilniuje, Klaipėdoje, Rygoje ir Taline.",
+      "category": "Other",
       "website": "https://bstuvalga.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T08:00:41.364733+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:42:38.247017+00:00"
     },
     {
       "name": "Bidwright",
@@ -282256,66 +282259,173 @@
     {
       "name": "Lotguard",
       "slug": "polsia-lotguard-2",
+      "description": "Flat-fee preventive maintenance for small landlords. Stop chasing plumber emergencies — predictable monthly OpEx, scheduled upkeep, and a vetted contractor network.",
+      "description_fr": "Entretien préventif forfaitaire pour les petits propriétaires. Arrêtez de courir après les urgences de plombier : des dépenses d'exploitation mensuelles prévisibles, un entretien programmé et un réseau d'entrepreneurs approuvés.",
+      "category": "Real Estate",
       "website": "https://lotguard-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T08:00:43.168525+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:42:44.899159+00:00"
     },
     {
       "name": "Wardgrove",
       "slug": "polsia-wardgrove",
+      "description": "Always-on AI moderation that learns your tone, escalates the edge cases, and emails a daily audit trail.",
+      "description_fr": "Modération IA permanente qui apprend votre ton, fait remonter les cas extrêmes et envoie par e-mail une piste d'audit quotidienne.",
+      "category": "AI & Machine Learning",
       "website": "https://wardgrove.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T08:00:43.996095+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:42:46.304574+00:00"
     },
     {
       "name": "Revigo",
       "slug": "polsia-revigo",
+      "description": "Revigo è l'agente AI always-on che veglia sui tuoi deal, riqualifica i lead freddi e recapita ogni mattina un brief azionabile al commercial team.",
+      "description_fr": "Revigo est l'agent AI toujours actif qui veut votre affaire, se qualifie pour diriger Freddi et récapitule chaque jour un bref travail de l'équipe commerciale.",
+      "category": "AI & Machine Learning",
       "website": "https://revigo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T08:00:44.994165+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:42:47.925852+00:00"
     },
     {
       "name": "Hearthorn",
       "slug": "polsia-hearthorn-3",
+      "description": "The always-on community ops team for indie creators across Discord, Twitch, Reddit, and YouTube.",
+      "description_fr": "L'équipe d'opérations communautaires toujours active pour les créateurs indépendants sur Discord, Twitch, Reddit et YouTube.",
+      "category": "Social & Community",
       "website": "https://hearthorn-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T08:00:50.573947+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:42:48.999275+00:00"
     },
     {
       "name": "Kavrix",
       "slug": "polsia-kavrix",
+      "description": "Always-on commerce ops for cross-border merchants — Caucasus corridor and beyond.",
+      "description_fr": "Opérations commerciales permanentes pour les commerçants transfrontaliers – corridor du Caucase et au-delà.",
+      "category": "Other",
       "website": "https://kavrix.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T08:00:56.271703+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:42:50.290536+00:00"
     },
     {
       "name": "ALKORI",
       "slug": "polsia-alkori",
+      "description": "ALKORI — autonomous dispatch for the Albania–Corfu shore corridor. AI-agent ops monitoring ferries, cruise arrivals, sea state and border variables 24/7.",
+      "description_fr": "ALKORI — répartition autonome pour le corridor côtier Albanie-Corfou. Les agents IA surveillent les ferries, les arrivées de croisières, l'état de la mer et les variables aux frontières 24h/24 et 7j/7.",
+      "category": "AI & Machine Learning",
       "website": "https://alkori.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T08:00:57.542516+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:42:51.219653+00:00"
     },
     {
       "name": "Plothaus",
       "slug": "polsia-plothaus-8",
+      "description": "Plothaus — the WhatsApp-first CRM built for African realtors. A shared inbox, a property-tuned pipeline, an AI assistant that only answers from your own listings.",
+      "description_fr": "Plothaus — le premier CRM WhatsApp conçu pour les agents immobiliers africains. Une boîte de réception partagée, un pipeline optimisé pour les propriétés, un assistant IA qui répond uniquement à partir de vos propres annonces.",
+      "category": "AI & Machine Learning",
       "website": "https://plothaus-8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T08:01:03.124316+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T08:42:52.592212+00:00"
     },
     {
       "name": "Cratewerk",
       "slug": "polsia-cratewerk-2",
+      "description": "Agentes de IA operando tu sello electrónico las 24 horas",
+      "description_fr": "Agents de IA opérant sur votre vente électronique 24 heures sur 24",
+      "category": "Other",
       "website": "https://cratewerk-2.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-22T08:42:54.200087+00:00"
+    },
+    {
+      "name": "ManszárdAtelier",
+      "slug": "polsia-manszrdatelier",
+      "website": "https://manszrdatelier.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-22T08:01:08.749101+00:00"
+      "scraped_at": "2026-08-22T08:40:47.868524+00:00"
+    },
+    {
+      "name": "Quillion",
+      "slug": "polsia-quillion-b9d9ud",
+      "website": "https://quillion-b9d9ud.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:40:48.647661+00:00"
+    },
+    {
+      "name": "Čuvarkuća",
+      "slug": "polsia-uvarkua-2",
+      "website": "https://uvarkua-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:40:54.296854+00:00"
+    },
+    {
+      "name": "Visiloop",
+      "slug": "polsia-visiloop",
+      "website": "https://visiloop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:40:59.776394+00:00"
+    },
+    {
+      "name": "Mitgeher",
+      "slug": "polsia-mitgeher",
+      "website": "https://mitgeher.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:41:05.151612+00:00"
+    },
+    {
+      "name": "Schakelhof",
+      "slug": "polsia-schakelhof",
+      "website": "https://schakelhof.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:41:10.503710+00:00"
+    },
+    {
+      "name": "CipherCrew",
+      "slug": "polsia-ciphercrew",
+      "website": "https://ciphercrew.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:41:16.108557+00:00"
+    },
+    {
+      "name": "Crateway",
+      "slug": "polsia-crateway",
+      "website": "https://crateway.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:41:26.703327+00:00"
+    },
+    {
+      "name": "Quotidelle",
+      "slug": "polsia-quotidelle",
+      "website": "https://quotidelle.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T08:41:32.515905+00:00"
+    },
+    {
+      "name": "Preworn",
+      "slug": "polsia-preworn-2",
+      "description": "Wear what you already own.",
+      "description_fr": "Portez ce que vous possédez déjà.",
+      "category": "Other",
+      "website": "https://preworn-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-22T08:41:33.877226+00:00"
     }
   ]
 }
