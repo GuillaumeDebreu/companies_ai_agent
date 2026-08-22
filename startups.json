@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T01:48:21.704626+00:00",
+  "last_updated": "2026-08-22T02:43:32.642746+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -281175,10 +281175,13 @@
     {
       "name": "Wakegrove",
       "slug": "polsia-wakegrove",
+      "description": "Run your ops on autopilot — review by morning coffee. Wakegrove is an always-on AI chief-of-staff that drafts replies, books meetings, chases invoices, and ships a single morning brief.",
+      "description_fr": "Exécutez vos opérations en pilote automatique – examinez-les avant le café du matin. Wakegrove est un chef d'état-major de l'IA toujours disponible qui rédige des réponses, planifie des réunions, recherche les factures et envoie un briefing matinal.",
+      "category": "AI & Machine Learning",
       "website": "https://wakegrove.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T01:43:04.586166+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T02:42:24.719699+00:00"
     },
     {
       "name": "Cinderpost",
@@ -281191,18 +281194,24 @@
     {
       "name": "Codestamp",
       "slug": "polsia-codestamp",
+      "description": "Photo, voice, stamped paperwork for licensed trades.",
+      "description_fr": "Photo, voix, documents tamponnés pour les métiers agréés.",
+      "category": "Other",
       "website": "https://codestamp.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T01:43:16.200655+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T02:42:27.101194+00:00"
     },
     {
       "name": "Faro Cifrado",
       "slug": "polsia-faro-cifrado",
+      "description": "Práctica boutique colombiana que lleva a empresas medianas de la adopción de IA al ROI medible y auditado, en 90 días. Gobernanza bajo ISO/IEC 42001, NIST AI RMF y Ley 1581.",
+      "description_fr": "Pratique boutique colombienne qui s'adresse aux entreprises médianes pour l'adoption de l'IA au retour sur investissement prévisible et audité, en 90 jours. Normes ISO/IEC 42001, NIST AI RMF et Ley 1581.",
+      "category": "AI & Machine Learning",
       "website": "https://faro-cifrado.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T01:43:20.455173+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T02:42:28.316698+00:00"
     },
     {
       "name": "Hawkpost",
@@ -281251,10 +281260,13 @@
     {
       "name": "Brandwright",
       "slug": "polsia-brandwright-lv1634",
+      "description": "Brandwright — your 24/7 sponsorship agent. Scouting brand-fit pitches, negotiating your rate, drafting contracts and routing signature, and issuing same-day payouts once content goes live.",
+      "description_fr": "Brandwright — votre agent de parrainage 24h/24 et 7j/7. Rechercher des arguments adaptés à la marque, négocier votre tarif, rédiger des contrats et des signatures d'acheminement, et émettre des paiements le jour même une fois le contenu mis en ligne.",
+      "category": "Marketing & Advertising",
       "website": "https://brandwright-lv1634.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T01:43:58.582392+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T02:42:30.586552+00:00"
     },
     {
       "name": "Lamplight Reply",
@@ -281266,6 +281278,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-22T01:48:21.703654+00:00"
+    },
+    {
+      "name": "GremIA",
+      "slug": "polsia-gremia",
+      "website": "https://gremia.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T02:40:21.713847+00:00"
+    },
+    {
+      "name": "Tallymark",
+      "slug": "polsia-tallymark-4iwb0b",
+      "website": "https://tallymark-4iwb0b.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T02:40:23.071215+00:00"
+    },
+    {
+      "name": "Metro Cash Offers",
+      "slug": "polsia-metro-cash-offers",
+      "website": "https://metro-cash-offers.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T02:40:24.248333+00:00"
+    },
+    {
+      "name": "Trenchside",
+      "slug": "polsia-trenchside",
+      "website": "https://trenchside.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T02:40:30.085296+00:00"
+    },
+    {
+      "name": "Bookhawk",
+      "slug": "polsia-bookhawk-7",
+      "website": "https://bookhawk-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T02:40:35.745771+00:00"
+    },
+    {
+      "name": "Playsheet",
+      "slug": "polsia-playsheet-3",
+      "website": "https://playsheet-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T02:40:46.274861+00:00"
+    },
+    {
+      "name": "Tributary",
+      "slug": "polsia-tributary-rviy95",
+      "website": "https://tributary-rviy95.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T02:40:47.384133+00:00"
+    },
+    {
+      "name": "Kilnfleet",
+      "slug": "polsia-kilnfleet",
+      "website": "https://kilnfleet.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T02:40:53.107820+00:00"
+    },
+    {
+      "name": "Bollard",
+      "slug": "polsia-bollard-hagrne",
+      "website": "https://bollard-hagrne.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T02:40:58.948516+00:00"
+    },
+    {
+      "name": "Vacalm",
+      "slug": "polsia-vacalm",
+      "website": "https://vacalm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T02:41:04.675994+00:00"
     }
   ]
 }
