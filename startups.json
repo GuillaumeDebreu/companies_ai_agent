@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T05:15:53.122772+00:00",
+  "last_updated": "2026-08-22T05:47:59.530709+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -281719,34 +281719,46 @@
     {
       "name": "Crewbell",
       "slug": "polsia-crewbell-2",
+      "description": "Always-on AI front desk for the trades — never miss a call, never miss a booking. Detailers, roofers, med spas, barbers and more.",
+      "description_fr": "Réception IA toujours active pour les métiers : ne manquez jamais un appel, ne manquez jamais une réservation. Dessinateurs, couvreurs, spas médicaux, barbiers et plus encore.",
+      "category": "AI & Machine Learning",
       "website": "https://crewbell-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T05:13:02.705247+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T05:46:54.808292+00:00"
     },
     {
       "name": "ARX OPERA",
       "slug": "polsia-arx-opera",
+      "description": "Intervención operativa, control y rentabilidad en industria láctea y de alimentos en México y Latinoamérica.",
+      "description_fr": "Intervention opérationnelle, contrôle et rentabilité dans l'industrie laitière et alimentaire au Mexique et en Amérique Latine.",
+      "category": "Marketing & Advertising",
       "website": "https://arx-opera.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T05:13:13.423581+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T05:46:56.454305+00:00"
     },
     {
       "name": "Hamal",
       "slug": "polsia-hamal",
+      "description": "Returns-first AI agents for the always-on DTC brand. Resolve return tickets, refunds, and fraud signal — autonomously.",
+      "description_fr": "Renvoie les premiers agents IA pour la marque DTC toujours active. Résolvez les billets de retour, les remboursements et les signaux de fraude de manière autonome.",
+      "category": "AI & Machine Learning",
       "website": "https://hamal.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T05:13:14.549325+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T05:46:58.114910+00:00"
     },
     {
       "name": "Nightjar",
       "slug": "polsia-nightjar-jsr2mq",
+      "description": "24/7 CI triage and self-healing PRs — humans only when it truly matters.",
+      "description_fr": "Triage CI 24h/24 et 7j/7 et PR d'auto-guérison - des humains uniquement lorsque cela compte vraiment.",
+      "category": "Other",
       "website": "https://nightjar-jsr2mq.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T05:13:15.613408+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T05:46:59.167521+00:00"
     },
     {
       "name": "Plihos",
@@ -281759,26 +281771,35 @@
     {
       "name": "TradePeak",
       "slug": "polsia-tradepeak",
+      "description": "AI-powered lead generation built trade by trade—websites, 24/7 call answering, and follow-up tuned for HVAC, plumbing, roofing, cleaning, landscaping, and more.",
+      "description_fr": "Génération de leads basée sur l'IA, métier par métier : sites Web, réponse aux appels 24h/24 et 7j/7 et suivi optimisé pour le CVC, la plomberie, la toiture, le nettoyage, l'aménagement paysager, etc.",
+      "category": "Software & SaaS",
       "website": "https://tradepeak.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T05:13:22.141325+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T05:47:01.464431+00:00"
     },
     {
       "name": "Clutchcue",
       "slug": "polsia-clutchcue",
+      "description": "Score, rewrite, and rank every hook before the scroll wins. Clutchcue is an AI hook lab that grades every opener on a 1–100 scale and spins 20 stronger variants in seconds.",
+      "description_fr": "Marquez, réécrivez et classez chaque crochet avant que le parchemin ne gagne. Clutchcue est un laboratoire de crochets IA qui note chaque ouvre-porte sur une échelle de 1 à 100 et fait tourner 20 variantes plus puissantes en quelques secondes.",
+      "category": "AI & Machine Learning",
       "website": "https://clutchcue.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T05:13:28.028547+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T05:47:02.554256+00:00"
     },
     {
       "name": "Counterhauler",
       "slug": "polsia-counterhauler",
+      "description": "The always-on operations agent for small e-commerce sellers — reorders stock, negotiates freight, and reports bleeding-margin SKUs before they eat the quarter.",
+      "description_fr": "L'agent opérationnel permanent pour les petits vendeurs de commerce électronique : réorganise les stocks, négocie le fret et signale les SKU à marge saignante avant de consommer le trimestre.",
+      "category": "E-Commerce & Retail",
       "website": "https://counterhauler.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T05:13:29.478412+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T05:47:04.749554+00:00"
     },
     {
       "name": "Hostloom",
@@ -281790,6 +281811,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-22T05:15:53.121796+00:00"
+    },
+    {
+      "name": "REINCARNATED",
+      "slug": "polsia-reincarnated-2",
+      "website": "https://reincarnated-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T05:45:00.506310+00:00"
+    },
+    {
+      "name": "Hermeon",
+      "slug": "polsia-hermeon",
+      "website": "https://hermeon.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T05:45:01.180059+00:00"
+    },
+    {
+      "name": "Dancegotfun",
+      "slug": "polsia-dancegotfun",
+      "website": "https://dancegotfun.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T05:45:06.675479+00:00"
+    },
+    {
+      "name": "Anchorlight Prayer Network",
+      "slug": "polsia-anchorlight-prayer-network",
+      "website": "https://anchorlight-prayer-network.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T05:45:12.268966+00:00"
+    },
+    {
+      "name": "Quillon",
+      "slug": "polsia-quillon-xbl6rx",
+      "website": "https://quillon-xbl6rx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T05:45:17.940942+00:00"
+    },
+    {
+      "name": "Cocowix Candles",
+      "slug": "polsia-cocowix-candles",
+      "website": "https://cocowix-candles.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T05:45:23.571544+00:00"
+    },
+    {
+      "name": "RepGrade",
+      "slug": "polsia-repgrade",
+      "website": "https://repgrade.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T05:45:29.185476+00:00"
+    },
+    {
+      "name": "Mottlepress",
+      "slug": "polsia-mottlepress",
+      "website": "https://mottlepress.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T05:45:34.561557+00:00"
+    },
+    {
+      "name": "Hopsmyth",
+      "slug": "polsia-hopsmyth",
+      "website": "https://hopsmyth.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T05:45:44.887300+00:00"
+    },
+    {
+      "name": "Resaca Terminals",
+      "slug": "polsia-resaca-terminals",
+      "description": "Trebling Brownsville bulk-liquids capacity for cross-border hydrocarbon trade.",
+      "description_fr": "Triplement de la capacité de Brownsville en vrac liquide pour le commerce transfrontalier d'hydrocarbures.",
+      "category": "Sustainability & Green",
+      "website": "https://resaca-terminals.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-22T05:47:59.529891+00:00"
     }
   ]
 }
