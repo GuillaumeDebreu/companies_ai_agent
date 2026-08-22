@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T16:45:43.159371+00:00",
+  "last_updated": "2026-08-22T17:04:45.445863+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -284298,28 +284298,37 @@
       "scraped_at": "2026-08-22T16:44:52.482757+00:00"
     },
     {
-      "name": "Crumbshift",
+      "name": "Polsia App",
       "slug": "polsia-crumbshift-2",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
       "website": "https://crumbshift-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T16:43:09.418203+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:03:34.145815+00:00"
     },
     {
       "name": "Ponudobran",
       "slug": "polsia-ponudobran",
+      "description": "Vaš 24/7 AI čuvar građevinskih tendera — od oglasne table do gotovog prijedloga.",
+      "description_fr": "Vaš 24/7 AI čuvar građevinskih tendrea — od oglasne table do gotovog prijedloga.",
+      "category": "AI & Machine Learning",
       "website": "https://ponudobran.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T16:43:10.355832+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:03:35.957570+00:00"
     },
     {
       "name": "Waywright",
       "slug": "polsia-waywright-9",
+      "description": "The whole trip, optimized for you — AI-powered travel planning across flights, lodging, ground transport, and on-trip experiences.",
+      "description_fr": "L'intégralité du voyage, optimisée pour vous : planification de voyage basée sur l'IA pour les vols, l'hébergement, les transports terrestres et les expériences de voyage.",
+      "category": "AI & Machine Learning",
       "website": "https://waywright-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T16:43:11.149232+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:03:36.860824+00:00"
     },
     {
       "name": "Hilotrón",
@@ -284332,50 +284341,148 @@
     {
       "name": "Домовко",
       "slug": "polsia-company-398069",
+      "description": "Домовко е български AI агент 24/7 за краткосрочни наеми — отговаря на гостите на Airbnb и Booking, коригира нощните цени, управлява екипите за почистване и изпраща сутрешен отчет по имот.",
+      "description_fr": "Un agent d'IA domestique et belge 24h/24 et 7j/7 pour les noms d'entreprises — ouvrir un hôtel sur Airbnb et réserver, créer des chambres, mettre en place une équipe pour l'hébergement et изпраща сутрешен отчет по имот.",
+      "category": "AI & Machine Learning",
       "website": "https://company-398069.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T16:43:12.477556+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:03:39.522179+00:00"
     },
     {
       "name": "Alizéo",
       "slug": "polsia-alizo",
+      "description": "Votre boutique e-commerce en pilote automatique. Alizéo est l'agent IA autonome qui surveille vos annonces, ajuste vos prix, répond à vos clients 24h/24 et publie chaque matin un rapport de marges.",
+      "description_fr": "Votre boutique e-commerce en pilote automatique. Alizéo est l'agent IA autonome qui surveille vos annonces, ajuste vos prix, répond à vos clients 24h/24 et publie chaque matin un rapport de marges.",
+      "category": "E-Commerce & Retail",
       "website": "https://alizo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T16:43:18.080560+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:03:41.822976+00:00"
     },
     {
       "name": "Trashogar",
       "slug": "polsia-trashogar",
+      "description": "Todos los servicios para tu nueva vida, en una sola app. Marketplace para la comunidad latina en España.",
+      "description_fr": "Tous les services pour votre nouvelle vie, dans une seule application. Marché pour la communauté latine en Espagne.",
+      "category": "E-Commerce & Retail",
       "website": "https://trashogar.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T16:43:18.875011+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:03:43.876410+00:00"
     },
     {
-      "name": "Transpago.net",
+      "name": "VitrinaCobro",
       "slug": "polsia-transpagonet",
+      "description": "Página de cobro sin comisiones para micronegocios: comparte hasta 5 cuentas bancarias, tu QR y un botón directo a WhatsApp para que tus clientes te paguen por SPEI o ACH.",
+      "description_fr": "Page de connexion sans commissions pour les micro-entreprises : partagez jusqu'à 5 comptes bancaires, votre QR et un bouton direct vers WhatsApp pour que vos clients vous paguen par SPEI ou ACH.",
+      "category": "Other",
       "website": "https://transpagonet.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T16:43:24.408064+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:03:45.679876+00:00"
     },
     {
       "name": "Macrosage",
       "slug": "polsia-macrosage",
+      "description": "Macrosage is a 24/7 AI nutrition coach that watches your daily food log, delivers real-time macro feedback, and rewrites your meal plan every week from actual progress.",
+      "description_fr": "Macrosage est un coach nutritionnel IA 24h/24 et 7j/7 qui surveille votre journal alimentaire quotidien, fournit des commentaires macro en temps réel et réécrit votre plan de repas chaque semaine à partir des progrès réels.",
+      "category": "AI & Machine Learning",
       "website": "https://macrosage.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T16:43:30.185016+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:03:47.788727+00:00"
     },
     {
       "name": "Biddlet",
       "slug": "polsia-biddlet",
+      "description": "Biddlet — a mobile-first marketplace for small digital tasks. Buyers post work, a global pool of skilled workers claims and delivers it. Flat 10% fee. Workers keep 90%.",
+      "description_fr": "Biddlet — une place de marché mobile pour les petites tâches numériques. Les acheteurs publient leur travail, un pool mondial de travailleurs qualifiés le réclame et le livre. Frais forfaitaires de 10%. Les ouvriers en gardent 90 %.",
+      "category": "E-Commerce & Retail",
       "website": "https://biddlet.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-22T17:03:49.159686+00:00"
+    },
+    {
+      "name": "Bowline",
+      "slug": "polsia-bowline-rq6e90",
+      "website": "https://bowline-rq6e90.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-22T16:43:35.670646+00:00"
+      "scraped_at": "2026-08-22T17:02:02.721541+00:00"
+    },
+    {
+      "name": "RikSaarthi",
+      "slug": "polsia-riksaarthi",
+      "website": "https://riksaarthi.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:02:03.697451+00:00"
+    },
+    {
+      "name": "Spillway",
+      "slug": "polsia-spillway-6",
+      "website": "https://spillway-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:02:09.626819+00:00"
+    },
+    {
+      "name": "Club Default",
+      "slug": "polsia-club-default",
+      "website": "https://club-default.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:02:10.558389+00:00"
+    },
+    {
+      "name": "Maracá Trails",
+      "slug": "polsia-marac-trails",
+      "website": "https://marac-trails.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:02:16.287837+00:00"
+    },
+    {
+      "name": "Vendrace",
+      "slug": "polsia-vendrace",
+      "website": "https://vendrace.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:02:17.219198+00:00"
+    },
+    {
+      "name": "Nightwarden",
+      "slug": "polsia-nightwarden-klzg1t",
+      "website": "https://nightwarden-klzg1t.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:02:22.942896+00:00"
+    },
+    {
+      "name": "Pluckpost",
+      "slug": "polsia-pluckpost-5",
+      "website": "https://pluckpost-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:02:23.805296+00:00"
+    },
+    {
+      "name": "Bowline",
+      "slug": "polsia-bowline-ciynv3",
+      "website": "https://bowline-ciynv3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:02:26.820177+00:00"
+    },
+    {
+      "name": "Allocast",
+      "slug": "polsia-allocast",
+      "website": "https://allocast.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:02:27.865980+00:00"
     }
   ]
 }
