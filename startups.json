@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T07:04:46.385997+00:00",
+  "last_updated": "2026-08-22T07:42:40.653980+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -282029,10 +282029,13 @@
     {
       "name": "Roznama",
       "slug": "polsia-roznama",
+      "description": "Always-on back office for the neighborhood store. Roznama is a 24/7 AI operations layer for kirana shops and independent retailers across South Asia — quietly watching WhatsApp and POS orders, flagging low stock, drafting supplier reorders, and sending a plain-language morning briefing.",
+      "description_fr": "Back-office permanent pour le magasin de quartier. Roznama est une couche d'opérations d'IA 24h/24 et 7j/7 pour les magasins Kirana et les détaillants indépendants de toute l'Asie du Sud : elle surveille tranquillement les commandes WhatsApp et POS, signale les stocks faibles, rédige les commandes des fournisseurs et envoie un briefing matinal en langage clair.",
+      "category": "E-Commerce & Retail",
       "website": "https://roznama.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:01:53.170124+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T07:41:34.090448+00:00"
     },
     {
       "name": "MiseOrchestra",
@@ -282045,34 +282048,46 @@
     {
       "name": "Black Xcellence Mining and Services",
       "slug": "polsia-black-xcellence-mining-and-services",
+      "description": "Black-owned mineral extraction, consulting and mine-services partner for South African juniors.",
+      "description_fr": "Partenaire d'extraction minière, de conseil et de services miniers appartenant à des Noirs pour les juniors sud-africaines.",
+      "category": "Consulting & Services",
       "website": "https://black-xcellence-mining-and-services.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:01:59.562881+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T07:41:36.605039+00:00"
     },
     {
       "name": "Yasira",
       "slug": "polsia-yasira",
+      "description": "DCT-verified Yas Island stays with the attractions baked in. Apartments, villas and hotel-serviced residences across Ferrari World, Warner Bros., SeaWorld, Yas Marina and Yas Bay.",
+      "description_fr": "L'île de Yas, vérifiée par DCT, reste avec les attractions intégrées. Appartements, villas et résidences hôtelières à travers Ferrari World, Warner Bros., SeaWorld, Yas Marina et Yas Bay.",
+      "category": "Travel & Hospitality",
       "website": "https://yasira.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:02:01.068785+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T07:41:38.554476+00:00"
     },
     {
       "name": "CleanCSV",
       "slug": "polsia-cleancsv",
+      "description": "CSV sauber in Sekunden – komplett im Browser, nie hochgeladen.",
+      "description_fr": "Sauver CSV en secondes – complet dans le navigateur, sans chargement excessif.",
+      "category": "Other",
       "website": "https://cleancsv.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:02:06.640744+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T07:41:39.751899+00:00"
     },
     {
       "name": "Promptwright",
       "slug": "polsia-promptwright",
+      "description": "Promptwright turns natural-language prompts into production-ready web apps — front end, back end, schema, auth, and one-click deploy.",
+      "description_fr": "Promptwright transforme les invites en langage naturel en applications Web prêtes pour la production : front-end, back-end, schéma, authentification et déploiement en un clic.",
+      "category": "Other",
       "website": "https://promptwright.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:02:12.321399+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T07:41:41.004878+00:00"
     },
     {
       "name": "StripCraft",
@@ -282085,10 +282100,13 @@
     {
       "name": "LigaCzujka",
       "slug": "polsia-ligaczujka",
+      "description": "LigaCzujka — agenci AI czuwający nad Twoją ligą 24/7. Monitoring wyników, kontuzji i value betów w Premier League, La Liga, Serie A, Bundeslidze i kolejnych ligach.",
+      "description_fr": "LigaCzujka — agence AI czuwający nad Twoją ligą 24/7. Surveillance des prix, des contacts et des valeurs entre la Premier League, la Liga, la Serie A, la Bundeslidze et la ligue nationale.",
+      "category": "AI & Machine Learning",
       "website": "https://ligaczujka.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:02:24.143491+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T07:41:43.032912+00:00"
     },
     {
       "name": "Dvobrist",
@@ -282104,10 +282122,96 @@
     {
       "name": "MareScope",
       "slug": "polsia-marescope",
+      "description": "A longitudinal AI dossier for every horse — observational reports, never a diagnosis.",
+      "description_fr": "Un dossier longitudinal d’IA pour chaque cheval – des rapports d’observation, jamais de diagnostic.",
+      "category": "AI & Machine Learning",
       "website": "https://marescope.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-22T07:41:44.928264+00:00"
+    },
+    {
+      "name": "Trusswright",
+      "slug": "polsia-trusswright-6",
+      "website": "https://trusswright-6.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-22T07:02:35.313097+00:00"
+      "scraped_at": "2026-08-22T07:39:41.198413+00:00"
+    },
+    {
+      "name": "Betonwacht",
+      "slug": "polsia-betonwacht",
+      "website": "https://betonwacht.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T07:39:42.003117+00:00"
+    },
+    {
+      "name": "Rephaus",
+      "slug": "polsia-rephaus-3",
+      "website": "https://rephaus-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T07:39:43.106196+00:00"
+    },
+    {
+      "name": "BlackFrame Barcelona Fotografía & Video profesional",
+      "slug": "polsia-blackframe-barcelona-fotografa-video-profesional",
+      "website": "https://blackframe-barcelona-fotografa-video-profesional.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T07:39:48.901973+00:00"
+    },
+    {
+      "name": "Milltakt",
+      "slug": "polsia-milltakt",
+      "website": "https://milltakt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T07:39:49.648275+00:00"
+    },
+    {
+      "name": "Sparhawk",
+      "slug": "polsia-sparhawk-5",
+      "website": "https://sparhawk-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T07:39:55.128567+00:00"
+    },
+    {
+      "name": "Precision Turf Design LLC",
+      "slug": "polsia-precision-turf-design-llc",
+      "website": "https://precision-turf-design-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T07:40:00.775344+00:00"
+    },
+    {
+      "name": "Crewpan",
+      "slug": "polsia-crewpan",
+      "website": "https://crewpan.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T07:40:06.313936+00:00"
+    },
+    {
+      "name": "Wildhare",
+      "slug": "polsia-wildhare-3",
+      "website": "https://wildhare-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T07:40:16.956252+00:00"
+    },
+    {
+      "name": "Parroto",
+      "slug": "polsia-parroto",
+      "description": "Mirror top crypto traders. Auto-replicate every signal.",
+      "description_fr": "Miroir des meilleurs traders de crypto. Répliquez automatiquement chaque signal.",
+      "category": "Finance & Fintech",
+      "website": "https://parroto.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-22T07:42:40.653134+00:00"
     }
   ]
 }
