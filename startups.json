@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T10:01:17.226358+00:00",
+  "last_updated": "2026-08-22T10:34:52.090703+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -282040,10 +282040,13 @@
     {
       "name": "MiseOrchestra",
       "slug": "polsia-miseorchestra",
+      "description": "L'agent IA qui orchestre commandes, carte et avis 24h/24 sur Uber Eats, Deliveroo, Just Eat, Glovo et DoorDash.",
+      "description_fr": "L'agent IA qui orchestre commandes, carte et avis 24h/24 sur Uber Eats, Deliveroo, Just Eat, Glovo et DoorDash.",
+      "category": "E-Commerce & Retail",
       "website": "https://miseorchestra.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T07:01:53.953258+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T10:33:32.377715+00:00"
     },
     {
       "name": "Black Xcellence Mining and Services",
@@ -282671,42 +282674,57 @@
     {
       "name": "Carrel",
       "slug": "polsia-carrel-lc2x22",
+      "description": "Carrel — specialist data labeling and cleaning for medical, industrial, and geospatial AI. Vetted domain practitioners, compliant annotation rooms, audit-ready datasets.",
+      "description_fr": "Carrel – spécialiste de l'étiquetage et du nettoyage des données pour l'IA médicale, industrielle et géospatiale. Praticiens du domaine approuvés, salles d'annotations conformes, ensembles de données prêts pour l'audit.",
+      "category": "AI & Machine Learning",
       "website": "https://carrel-lc2x22.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T09:58:06.157491+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T10:33:43.405233+00:00"
     },
     {
       "name": "Bauerei",
       "slug": "polsia-bauerei",
+      "description": "Bauerei ist die KI-Werkstatt für Citizen Developer. Beschreib dein Produkt in einfacher Sprache, die KI entwirft App, Landingpage, Onboarding und Abo-Flow – inklusive kompletter Distributions-Pipeline. Gründer:innen, Produktmanager:innen, Marketingleiter:innen und Designer:innen veröffentlichen so eine Flotte kleiner Apps in Tagen statt Monaten.",
+      "description_fr": "Bauerei est le KI-Werkstatt pour Citizen Developer. Description du produit dans une seule page, l'application KI, la page d'accueil, l'intégration et l'Abo-Flow – y compris le pipeline de distribution complet. Gründer:innen, Produktmanager:innen, Marketingleiter:innen et Designer:innen veröffentlichen so a Flotte kleiner Apps in Tagen statt Monaten.",
+      "category": "Marketing & Advertising",
       "website": "https://bauerei.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T09:58:07.153722+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T10:33:45.482062+00:00"
     },
     {
       "name": "RiscaFina",
       "slug": "polsia-riscafina",
+      "description": "RiscaFina — papelaria criativa, material escolar e suprimentos de escritório com curadoria criteriosa para professores, escolas, estudantes e pequenos negócios.",
+      "description_fr": "RiscaFina — papier créatif, matériel scolaire et suppléments de rédaction avec curadoria criteriosa pour professeurs, écoles, étudiants et petits professionnels.",
+      "category": "Other",
       "website": "https://riscafina.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T09:58:12.882857+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T10:33:47.418815+00:00"
     },
     {
       "name": "PatchHound",
       "slug": "polsia-patchhound-3",
+      "description": "Your 24/7 SRE, in a single pull request. PatchHound watches production, drafts fixes, and opens PRs for human review.",
+      "description_fr": "Votre SRE 24h/24 et 7j/7, en une seule pull request. PatchHound surveille la production, rédige des correctifs et ouvre les PR pour examen humain.",
+      "category": "Other",
       "website": "https://patchhound-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T09:58:18.427977+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T10:33:49.400557+00:00"
     },
     {
       "name": "Jawabu",
       "slug": "polsia-jawabu-2",
+      "description": "Jawabu turns scattered, last-minute hiring into one batched request — verified crews for facility managers and growing businesses across East Africa.",
+      "description_fr": "Jawabu transforme les embauches dispersées de dernière minute en une seule demande groupée : des équipes vérifiées pour les gestionnaires d'installations et les entreprises en croissance à travers l'Afrique de l'Est.",
+      "category": "Other",
       "website": "https://jawabu-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T09:58:23.893014+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T10:33:51.910401+00:00"
     },
     {
       "name": "ATR CONSULTING",
@@ -282719,34 +282737,126 @@
     {
       "name": "Cuadrito Studio",
       "slug": "polsia-cuadrito-studio",
+      "description": "Llevamos reels listos a los comercios de tu colonia. Paquetes mensuales de videos cortos con subtítulos, miniaturas y calendario de publicación en español — Starter $1,000, Growth $2,000, Pro $3,500 MXN. Escríbenos por WhatsApp.",
+      "description_fr": "Llevamos reels listos a los comercios de tu colonia. Paquets mensuels de vidéos courtes avec sous-titres, miniatures et calendrier de publication en espagnol – Starter 1 000 $, Growth 2 000 $, Pro 3 500 $ MXN. Écrit par WhatsApp.",
+      "category": "Entertainment & Media",
       "website": "https://cuadrito-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T09:58:30.363032+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T10:33:54.867807+00:00"
     },
     {
       "name": "Driftway",
       "slug": "polsia-driftway-3",
+      "description": "A tidy storefront for the things you make once and sell forever — uploads, checkout, payouts.",
+      "description_fr": "Une vitrine bien rangée pour les choses que vous fabriquez une fois et vendez pour toujours : téléchargements, paiement, paiements.",
+      "category": "E-Commerce & Retail",
       "website": "https://driftway-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T09:58:35.903036+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T10:33:56.546751+00:00"
     },
     {
       "name": "Chartwright",
       "slug": "polsia-chartwright-7",
+      "description": "Always-on AP agents tuned for college and university controllers. Ingest, three-way match, and post to Workday, Banner, PeopleSoft, Oracle Fusion, and Kuali — chartstring intact.",
+      "description_fr": "Agents AP toujours actifs, adaptés aux contrôleurs des collèges et universités. Ingérez, faites une correspondance à trois et publiez sur Workday, Banner, PeopleSoft, Oracle Fusion et Kuali — chaîne de graphique intacte.",
+      "category": "Other",
       "website": "https://chartwright-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T09:58:41.557041+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T10:33:58.314685+00:00"
     },
     {
       "name": "Tradebench",
       "slug": "polsia-tradebench-5",
+      "description": "Booked jobs, not just leads — for one trade in one city. A flat monthly retainer tied to confirmed bookings, not marketing fluff.",
+      "description_fr": "Des emplois réservés, pas seulement des prospects – pour un métier dans une ville. Une provision mensuelle fixe liée aux réservations confirmées, et non à des publicités marketing.",
+      "category": "Marketing & Advertising",
       "website": "https://tradebench-5.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-22T10:33:59.607393+00:00"
+    },
+    {
+      "name": "Talvox",
+      "slug": "polsia-talvox-2",
+      "website": "https://talvox-2.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-22T09:58:52.104930+00:00"
+      "scraped_at": "2026-08-22T10:31:52.215734+00:00"
+    },
+    {
+      "name": "Goalmouth",
+      "slug": "polsia-goalmouth",
+      "website": "https://goalmouth.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T10:31:53.177689+00:00"
+    },
+    {
+      "name": "Kvasir",
+      "slug": "polsia-kvasir-5",
+      "website": "https://kvasir-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T10:31:54.239782+00:00"
+    },
+    {
+      "name": "Carrick",
+      "slug": "polsia-carrick-mva6tu",
+      "website": "https://carrick-mva6tu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T10:31:55.387108+00:00"
+    },
+    {
+      "name": "Echoppe",
+      "slug": "polsia-echoppe-2",
+      "website": "https://echoppe-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T10:31:56.401617+00:00"
+    },
+    {
+      "name": "Helstøbt",
+      "slug": "polsia-helstbt",
+      "website": "https://helstbt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T10:32:01.668093+00:00"
+    },
+    {
+      "name": "Plumehaus",
+      "slug": "polsia-plumehaus-6",
+      "website": "https://plumehaus-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T10:32:07.283299+00:00"
+    },
+    {
+      "name": "Compliform",
+      "slug": "polsia-compliform-7",
+      "website": "https://compliform-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T10:32:12.853159+00:00"
+    },
+    {
+      "name": "Bivouac",
+      "slug": "polsia-bivouac-jafq88",
+      "website": "https://bivouac-jafq88.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T10:32:18.590609+00:00"
+    },
+    {
+      "name": "Pikaflip",
+      "slug": "polsia-pikaflip",
+      "website": "https://pikaflip.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T10:32:24.384169+00:00"
     }
   ]
 }
