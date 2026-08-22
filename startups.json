@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T17:04:45.445863+00:00",
+  "last_updated": "2026-08-22T17:33:55.200747+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -284407,82 +284407,192 @@
     {
       "name": "Bowline",
       "slug": "polsia-bowline-rq6e90",
+      "description": "Qualified B2B meetings, on the calendar. Per-meeting priced fractional SDR for service companies that need a steady flow of first-call appointments.",
+      "description_fr": "Des rendez-vous B2B qualifiés, au calendrier. DTS fractionnés à prix par réunion pour les entreprises de services qui ont besoin d'un flux constant de rendez-vous au premier appel.",
+      "category": "Sales & CRM",
       "website": "https://bowline-rq6e90.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T17:02:02.721541+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:32:43.313936+00:00"
     },
     {
       "name": "RikSaarthi",
       "slug": "polsia-riksaarthi",
+      "description": "RikSaarthi on New Delhiin suunniteltu super-sovellus, joka yhdistää sähköisten rikshojen kimppakyydin, Hop-On Hop-Off -kulttuurireitit ja älykkään akunhallinnan yhdeksi saumattomaksi ekosysteemiksi — Delhin vuoden 2030 sähköistämistavoitteen tueksi.",
+      "description_fr": "RikSaarthi on New Delhiin suunniteltu super-sovellus, joka yhdistää rikshojen kimppakyydin, Hop-On Hop-Off -kulttuurireitit ja älykkään akunhallinnan yhdeksi saumattomaksi ekosysteemiksi — Delhin vuoden 2030 sähköistämistavoitteen tueksi.",
+      "category": "Other",
       "website": "https://riksaarthi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T17:02:03.697451+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:32:44.910951+00:00"
     },
     {
       "name": "Spillway",
       "slug": "polsia-spillway-6",
+      "description": "Spillway deploys AI agents that continuously monitor AWS, GCP, and Azure billing to eliminate cloud waste before it accrues — with per-action rollback, FinOps Foundation-aligned reporting, and a weekly digest in your Slack and Jira.",
+      "description_fr": "Spillway déploie des agents d'IA qui surveillent en permanence la facturation AWS, GCP et Azure pour éliminer le gaspillage du cloud avant qu'il ne s'accumule — avec une restauration par action, des rapports alignés sur FinOps Foundation et un résumé hebdomadaire dans votre Slack et Jira.",
+      "category": "AI & Machine Learning",
       "website": "https://spillway-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T17:02:09.626819+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:32:46.953277+00:00"
     },
     {
       "name": "Club Default",
       "slug": "polsia-club-default",
+      "description": "Club Default — the least exclusive exclusive club in the world. A satirical identity brand for every reluctant participant in raising humans.",
+      "description_fr": "",
+      "category": "Marketing & Advertising",
       "website": "https://club-default.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T17:02:10.558389+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:32:47.938321+00:00"
     },
     {
       "name": "Maracá Trails",
       "slug": "polsia-marac-trails",
+      "description": "Ancestral rhythm, untamed highlands — curated Bahia journeys. A boutique travel atelier stitching Salvador da Bahia’s living Afro-Diasporic culture with the wild luxury of Chapada Diamantina and the Costa do Dendê.",
+      "description_fr": "Rythme ancestral, hauts plateaux sauvages — voyages organisés à Bahia. Un atelier de voyage boutique alliant la culture afro-diasporique vivante de Salvador da Bahia au luxe sauvage de la Chapada Diamantina et de la Costa do Dendê.",
+      "category": "Travel & Hospitality",
       "website": "https://marac-trails.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T17:02:16.287837+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:32:50.351036+00:00"
     },
     {
       "name": "Vendrace",
       "slug": "polsia-vendrace",
+      "description": "Autonomous programmatic, with auditable guardrails. Vendrace operates your paid media end-to-end while every bid, reallocation, and creative rotation is logged for full reproducibility.",
+      "description_fr": "Programmatique autonome, avec garde-fous auditables. Vendrace gère vos médias payants de bout en bout tandis que chaque offre, réallocation et rotation créative est enregistrée pour une reproductibilité totale.",
+      "category": "Entertainment & Media",
       "website": "https://vendrace.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T17:02:17.219198+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:32:51.593583+00:00"
     },
     {
-      "name": "Nightwarden",
+      "name": "Polsia App",
       "slug": "polsia-nightwarden-klzg1t",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
       "website": "https://nightwarden-klzg1t.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T17:02:22.942896+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:32:52.799985+00:00"
     },
     {
       "name": "Pluckpost",
       "slug": "polsia-pluckpost-5",
+      "description": "AI-curated 'best of' picks that fit how you actually buy — a weekly digest, a long-form post, a YouTube Short and a TikTok from one editor-checked script.",
+      "description_fr": "Les meilleurs choix sélectionnés par l'IA qui correspondent à la façon dont vous achetez réellement : un résumé hebdomadaire, une publication longue, un court métrage YouTube et un TikTok à partir d'un script vérifié par l'éditeur.",
+      "category": "AI & Machine Learning",
       "website": "https://pluckpost-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T17:02:23.805296+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:32:55.150237+00:00"
     },
     {
       "name": "Bowline",
       "slug": "polsia-bowline-ciynv3",
+      "description": "Bowline is an always-on AI operator for indie SaaS founders. It triages Sentry crash reports, Stripe webhook events, and in-app feedback overnight, and only pages you when revenue is actually on the line.",
+      "description_fr": "Bowline est un opérateur d'IA toujours actif pour les fondateurs indépendants de SaaS. Il trie les rapports d'erreur de Sentry, les événements de webhook Stripe et les commentaires dans l'application pendant la nuit, et vous page uniquement lorsque les revenus sont réellement en jeu.",
+      "category": "AI & Machine Learning",
       "website": "https://bowline-ciynv3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T17:02:26.820177+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-22T17:32:56.517221+00:00"
     },
     {
       "name": "Allocast",
       "slug": "polsia-allocast",
+      "description": "Recycle capital, kill dead edge, attribute every basis point. A 24/7 portfolio-level capital allocation engine for runners of multiple live systematic strategies.",
+      "description_fr": "Recyclez le capital, éliminez les impasses, attribuez chaque point de base. Un moteur d'allocation de capital au niveau du portefeuille 24h/24 et 7j/7 pour les utilisateurs de plusieurs stratégies systématiques en direct.",
+      "category": "Software & SaaS",
       "website": "https://allocast.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-22T17:32:58.358213+00:00"
+    },
+    {
+      "name": "Caretide",
+      "slug": "polsia-caretide-nsbfn5",
+      "website": "https://caretide-nsbfn5.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-22T17:02:27.865980+00:00"
+      "scraped_at": "2026-08-22T17:31:01.080057+00:00"
+    },
+    {
+      "name": "Wingward",
+      "slug": "polsia-wingward-2",
+      "website": "https://wingward-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:31:02.273438+00:00"
+    },
+    {
+      "name": "Halyard",
+      "slug": "polsia-halyard-c0tyr5",
+      "website": "https://halyard-c0tyr5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:31:03.135555+00:00"
+    },
+    {
+      "name": "Outclause",
+      "slug": "polsia-outclause-3",
+      "website": "https://outclause-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:31:08.638414+00:00"
+    },
+    {
+      "name": "Northglade",
+      "slug": "polsia-northglade",
+      "website": "https://northglade.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:31:14.271866+00:00"
+    },
+    {
+      "name": "TallerkenTjek",
+      "slug": "polsia-tallerkentjek",
+      "website": "https://tallerkentjek.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:31:15.481132+00:00"
+    },
+    {
+      "name": "Pelorus",
+      "slug": "polsia-pelorus-zfnqe0",
+      "website": "https://pelorus-zfnqe0.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:31:21.094477+00:00"
+    },
+    {
+      "name": "Tradewake",
+      "slug": "polsia-tradewake-k3xztj",
+      "website": "https://tradewake-k3xztj.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:31:26.726649+00:00"
+    },
+    {
+      "name": "Anagnosis",
+      "slug": "polsia-anagnosis",
+      "website": "https://anagnosis.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:31:27.555959+00:00"
+    },
+    {
+      "name": "AvenueExpressions",
+      "slug": "polsia-avenueexpressions-2",
+      "website": "https://avenueexpressions-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-22T17:31:33.113716+00:00"
     }
   ]
 }
