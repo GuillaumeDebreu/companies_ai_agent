@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T10:57:59.945665+00:00",
+  "last_updated": "2026-08-23T11:24:48.837634+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -287975,50 +287975,68 @@
     {
       "name": "Cellborne",
       "slug": "polsia-cellborne",
+      "description": "Mobile battery state-of-health certifications for used EVs — lab-grade diagnostics at the curb.",
+      "description_fr": "Certifications d’état de santé des batteries mobiles pour les véhicules électriques d’occasion – diagnostics de qualité laboratoire en bordure de rue.",
+      "category": "Health & Wellness",
       "website": "https://cellborne.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T10:55:15.295570+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:23:45.679733+00:00"
     },
     {
       "name": "Redrift",
       "slug": "polsia-redrift",
+      "description": "Always-on AI that finds broken SaaS flows and ships the fix from Slack.",
+      "description_fr": "Une IA toujours active qui détecte les flux SaaS interrompus et envoie le correctif depuis Slack.",
+      "category": "AI & Machine Learning",
       "website": "https://redrift.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T10:55:16.226688+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:23:47.765955+00:00"
     },
     {
       "name": "Höft Solutions",
       "slug": "polsia-hft-solutions",
+      "description": "Unabhängige IT-Beratung für KMU mit Fokus auf europäische und Open-Source-Lösungen – Hardware, Software und IT-Strategie ohne Herstellerbindung.",
+      "description_fr": "Une organisation informatique unique pour KMU avec des thèmes européens et des solutions Open Source – Matériel, logiciels et stratégie informatique sans engagement.",
+      "category": "Software & SaaS",
       "website": "https://hft-solutions.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T10:55:21.790540+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:23:49.744776+00:00"
     },
     {
       "name": "Aeropro global",
       "slug": "polsia-aeropro-global",
+      "description": "Aircraft maintenance, repair, and appearance solutions for general aviation operators.",
+      "description_fr": "Solutions de maintenance, de réparation et d'apparence d'avions pour les exploitants de l'aviation générale.",
+      "category": "AI & Machine Learning",
       "website": "https://aeropro-global.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T10:55:27.312174+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:23:52.184145+00:00"
     },
     {
       "name": "Linchpost",
       "slug": "polsia-linchpost-7",
+      "description": "Boutique γραφείο παραγωγής leads για εργολάβους οικιακών υπηρεσιών — τοπικά leads, πραγματικά κλεισίματα.",
+      "description_fr": "Boutique γραφείο παραγωγής leads για εργολάβους οικιακών υπηρεσιών — τοπικά leads, πραγματικά κλεισίματα.",
+      "category": "Sales & CRM",
       "website": "https://linchpost-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T10:55:32.893107+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:23:54.287258+00:00"
     },
     {
       "name": "Loslaterne",
       "slug": "polsia-loslaterne",
+      "description": "Provenienz-Befunde im Ton einer Museumskarte, zugestellt sobald ein Lot auftaucht.",
+      "description_fr": "Provenienz-Befunde im Ton einer Museumskarte, zugestellt sobald ein Lot auftaucht.",
+      "category": "Other",
       "website": "https://loslaterne.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T10:55:38.576224+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:23:56.568677+00:00"
     },
     {
       "name": "Rabbit's Foot Handyman Services LLC",
@@ -288060,6 +288078,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-23T10:55:57.331735+00:00"
+    },
+    {
+      "name": "Weftwise",
+      "slug": "polsia-weftwise-4",
+      "website": "https://weftwise-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:21:40.296580+00:00"
+    },
+    {
+      "name": "r-pac",
+      "slug": "polsia-r-pac",
+      "website": "https://r-pac.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:21:46.109933+00:00"
+    },
+    {
+      "name": "Pelagic West Subsea",
+      "slug": "polsia-pelagic-west-subsea",
+      "website": "https://pelagic-west-subsea.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:21:51.736856+00:00"
+    },
+    {
+      "name": "Tindrel",
+      "slug": "polsia-tindrel-9",
+      "website": "https://tindrel-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:21:52.713620+00:00"
+    },
+    {
+      "name": "Ravelin",
+      "slug": "polsia-ravelin-0koyzt",
+      "website": "https://ravelin-0koyzt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:21:58.393611+00:00"
+    },
+    {
+      "name": "Belbaken",
+      "slug": "polsia-belbaken",
+      "website": "https://belbaken.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:22:04.285993+00:00"
+    },
+    {
+      "name": "Kelpr",
+      "slug": "polsia-kelpr",
+      "website": "https://kelpr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:22:09.915525+00:00"
+    },
+    {
+      "name": "TAMRÉ",
+      "slug": "polsia-tamr",
+      "website": "https://tamr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:22:15.738156+00:00"
+    },
+    {
+      "name": "EchoVault",
+      "slug": "polsia-echovault-3",
+      "description": "Encrypted therapy session notes, captured by you and for you. EchoVault turns recorded sessions into private, end-to-end encrypted notes only you can read.",
+      "description_fr": "Notes de séance de thérapie cryptées, capturées par vous et pour vous. EchoVault transforme les sessions enregistrées en notes privées cryptées de bout en bout que vous seul pouvez lire.",
+      "category": "Health & Wellness",
+      "website": "https://echovault-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-23T11:24:48.836726+00:00"
+    },
+    {
+      "name": "Suddle",
+      "slug": "polsia-suddle",
+      "description": "Wheels and whiskers, washed and groomed at your curb — doorstep car care and pet grooming scheduled in one slot.",
+      "description_fr": "Roues et moustaches, lavées et soignées sur votre trottoir - entretien de la voiture à domicile et toilettage des animaux programmés dans un seul emplacement.",
+      "category": "Other",
+      "website": "https://suddle.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-23T11:22:22.595247+00:00"
     }
   ]
 }
