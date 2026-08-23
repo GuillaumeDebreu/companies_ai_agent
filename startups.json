@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T11:24:48.837634+00:00",
+  "last_updated": "2026-08-23T11:46:00.763961+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -288082,42 +288082,57 @@
     {
       "name": "Weftwise",
       "slug": "polsia-weftwise-4",
+      "description": "Curated pre-loved clothing, released in weekly drops.",
+      "description_fr": "Des vêtements pré-aimés sélectionnés, publiés en gouttes hebdomadaires.",
+      "category": "Other",
       "website": "https://weftwise-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T11:21:40.296580+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:44:41.010773+00:00"
     },
     {
-      "name": "r-pac",
+      "name": "r",
       "slug": "polsia-r-pac",
+      "description": "Global packaging, trim, and item-level RFID for retail and apparel brands.",
+      "description_fr": "Emballages mondiaux, garnitures et RFID au niveau des articles pour les marques de vente au détail et de vêtements.",
+      "category": "E-Commerce & Retail",
       "website": "https://r-pac.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T11:21:46.109933+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:44:42.275999+00:00"
     },
     {
       "name": "Pelagic West Subsea",
       "slug": "polsia-pelagic-west-subsea",
+      "description": "Integrated subsea engineering, diving and ROV intervention services for West African offshore operators.",
+      "description_fr": "Services intégrés d’ingénierie sous-marine, de plongée et d’intervention ROV pour les opérateurs offshore d’Afrique de l’Ouest.",
+      "category": "Other",
       "website": "https://pelagic-west-subsea.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T11:21:51.736856+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:44:44.049483+00:00"
     },
     {
       "name": "Tindrel",
       "slug": "polsia-tindrel-9",
+      "description": "Autonomous cloud operations for cloud-native teams. From first alert to postmortem, on autopilot.",
+      "description_fr": "Opérations cloud autonomes pour les équipes cloud natives. De la première alerte à l'autopsie, en pilote automatique.",
+      "category": "Other",
       "website": "https://tindrel-9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T11:21:52.713620+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:44:46.373001+00:00"
     },
     {
       "name": "Ravelin",
       "slug": "polsia-ravelin-0koyzt",
+      "description": "RGPD et cybersécurité des PME, scannés chaque jour par l’IA.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://ravelin-0koyzt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T11:21:58.393611+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:44:47.367268+00:00"
     },
     {
       "name": "Belbaken",
@@ -288130,18 +288145,24 @@
     {
       "name": "Kelpr",
       "slug": "polsia-kelpr",
+      "description": "Kelpr is a fully managed AI phone team for appointment-driven businesses. We install, tune, and run AI receptionists that answer every call and book every job.",
+      "description_fr": "Kelpr est une équipe téléphonique IA entièrement gérée pour les entreprises sur rendez-vous. Nous installons, ajustons et dirigeons des réceptionnistes IA qui répondent à chaque appel et réservent chaque travail.",
+      "category": "AI & Machine Learning",
       "website": "https://kelpr.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T11:22:09.915525+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:44:53.915690+00:00"
     },
     {
       "name": "TAMRÉ",
       "slug": "polsia-tamr",
+      "description": "Date-sweetened chocolate spread. Zero added sugar, vegan, gluten-free, clean-label — a 220g jar of indulgence families actually trust.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://tamr.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T11:22:15.738156+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T11:44:54.649344+00:00"
     },
     {
       "name": "EchoVault",
@@ -288164,6 +288185,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-23T11:22:22.595247+00:00"
+    },
+    {
+      "name": "Bellbird",
+      "slug": "polsia-bellbird-10",
+      "website": "https://bellbird-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:42:49.935292+00:00"
+    },
+    {
+      "name": "Tassello",
+      "slug": "polsia-tassello-5",
+      "website": "https://tassello-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:42:50.703790+00:00"
+    },
+    {
+      "name": "Koroneika",
+      "slug": "polsia-koroneika",
+      "website": "https://koroneika.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:42:56.137002+00:00"
+    },
+    {
+      "name": "Plumbline Group",
+      "slug": "polsia-plumbline-group",
+      "website": "https://plumbline-group.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:42:57.356625+00:00"
+    },
+    {
+      "name": "Helmship",
+      "slug": "polsia-helmship-8",
+      "website": "https://helmship-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:43:03.722554+00:00"
+    },
+    {
+      "name": "Bexa",
+      "slug": "polsia-bexa",
+      "website": "https://bexa.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:43:09.419437+00:00"
+    },
+    {
+      "name": "Pacecast",
+      "slug": "polsia-pacecast-2",
+      "website": "https://pacecast-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:43:11.086327+00:00"
+    },
+    {
+      "name": "Vardiya",
+      "slug": "polsia-vardiya",
+      "website": "https://vardiya.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:43:16.588990+00:00"
+    },
+    {
+      "name": "Silver Shadow Co.",
+      "slug": "polsia-silver-shadow-co",
+      "website": "https://silver-shadow-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:43:22.221703+00:00"
+    },
+    {
+      "name": "Kopo",
+      "slug": "polsia-kopo-2",
+      "website": "https://kopo-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T11:43:32.796887+00:00"
     }
   ]
 }
