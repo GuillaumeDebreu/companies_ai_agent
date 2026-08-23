@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T07:40:54.567461+00:00",
+  "last_updated": "2026-08-23T08:03:03.683302+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -287208,34 +287208,46 @@
     {
       "name": "Tenderline",
       "slug": "polsia-tenderline-aa6hk5",
+      "description": "Solo GovCon capture desk: monitor, fit-score, draft, and ping before every deadline.",
+      "description_fr": "Bureau de capture Solo GovCon : surveillez, score d'ajustement, brouillon et ping avant chaque date limite.",
+      "category": "Other",
       "website": "https://tenderline-aa6hk5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T07:37:56.247643+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T08:02:09.155444+00:00"
     },
     {
       "name": "Launchplan",
       "slug": "polsia-launchplan",
+      "description": "Daily validated startup ideas with scorecards, build prompts, and on-demand niche research.",
+      "description_fr": "Idées de startup validées quotidiennement avec des tableaux de bord, des invites de création et des recherches de niche à la demande.",
+      "category": "Other",
       "website": "https://launchplan.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T07:38:01.967549+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T08:02:10.284925+00:00"
     },
     {
-      "name": "Klimavagt",
+      "name": "Klimavagt — Din AI",
       "slug": "polsia-klimavagt",
+      "description": "Klimavagt er en AI-agent-platform, der overvåger energiforbrug og CO2-udledning for danske SMV'er — og automatisk håndterer ESG-dokumentation under CSRD døgnet rundt.",
+      "description_fr": "Il s'agit d'une plate-forme d'agents IA qui fournit un réseau énergétique global et une gestion du CO2 pour les SMV — et gère automatiquement la documentation ESG sous CSRD.",
+      "category": "AI & Machine Learning",
       "website": "https://klimavagt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T07:38:02.835103+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T08:02:11.500391+00:00"
     },
     {
       "name": "AppealIQ",
       "slug": "polsia-appealiq-5",
+      "description": "An honest verdict on your property tax appeal — even when the answer is don't file.",
+      "description_fr": "Un verdict honnête sur votre appel en matière d'impôt foncier, même si la réponse est de ne pas déposer votre plainte.",
+      "category": "Real Estate",
       "website": "https://appealiq-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T07:38:08.304662+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T08:02:12.748784+00:00"
     },
     {
       "name": "Orison",
@@ -287251,10 +287263,13 @@
     {
       "name": "Vedilio",
       "slug": "polsia-vedilio",
+      "description": "Agenti AI 24/7 che sorvegliano il cantiere tra visione artificiale, sensori IoT e documentazione per anticipare ritardi, scostamenti e non conformità.",
+      "description_fr": "Agents AI 24h/24 et 7j/7 qui assurent le suivi de la vision artificielle, des capteurs IoT et de la documentation pour anticiper les retards, les frais et les non-conformités.",
+      "category": "AI & Machine Learning",
       "website": "https://vedilio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-23T07:38:19.572966+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T08:02:14.071572+00:00"
     },
     {
       "name": "Tranquera",
@@ -287299,6 +287314,95 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-23T07:40:54.566444+00:00"
+    },
+    {
+      "name": "Northbridge Transformation Partners",
+      "slug": "polsia-northbridge-transformation-partners",
+      "website": "https://northbridge-transformation-partners.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T08:00:08.968894+00:00"
+    },
+    {
+      "name": "WatchPOP",
+      "slug": "polsia-watchpop",
+      "website": "https://watchpop.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T08:00:10.264747+00:00"
+    },
+    {
+      "name": "Benchwright",
+      "slug": "polsia-benchwright-x1essd",
+      "website": "https://benchwright-x1essd.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T08:00:11.106728+00:00"
+    },
+    {
+      "name": "Millesimo",
+      "slug": "polsia-millesimo",
+      "website": "https://millesimo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T08:00:16.488888+00:00"
+    },
+    {
+      "name": "Prybell",
+      "slug": "polsia-prybell",
+      "description": "Prybell gives freelance designers and small agencies a real-time edge in their local area by flagging every “I need a website” signal the moment it appears.",
+      "description_fr": "Prybell donne aux concepteurs indépendants et aux petites agences un avantage en temps réel dans leur région en signalant chaque signal « J'ai besoin d'un site Web » dès qu'il apparaît.",
+      "category": "Consulting & Services",
+      "website": "https://prybell.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-23T08:02:38.351806+00:00"
+    },
+    {
+      "name": "Marktfix",
+      "slug": "polsia-marktfix",
+      "website": "https://marktfix.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T08:00:27.761967+00:00"
+    },
+    {
+      "name": "Bladewright",
+      "slug": "polsia-bladewright",
+      "description": "Field notes in. Professional blade reports out. Bladewright turns on-site inspection notes into signed-off PDF reports for small European blade-service crews.",
+      "description_fr": "Notes de terrain entrées. Rapports de lames professionnelles. Bladewright transforme les notes d'inspection sur site en rapports PDF signés pour les petites équipes européennes d'entretien des lames.",
+      "category": "Other",
+      "website": "https://bladewright.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-23T08:02:45.644805+00:00"
+    },
+    {
+      "name": "Cogwise",
+      "slug": "polsia-cogwise-2",
+      "website": "https://cogwise-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T08:00:43.959582+00:00"
+    },
+    {
+      "name": "Sestante",
+      "slug": "polsia-sestante-3",
+      "website": "https://sestante-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T08:00:49.541247+00:00"
+    },
+    {
+      "name": "Stayloom",
+      "slug": "polsia-stayloom-8",
+      "description": "Stayloom is the full-stack AI co-host for short-term rentals — syncing listings, repricing nightly, dispatching cleaners, replying to guests, and handling the permit and tax work so hosts reclaim their week.",
+      "description_fr": "Stayloom est le co-hébergeur IA complet pour les locations à court terme : synchronisation des annonces, modification des prix tous les soirs, répartition des nettoyeurs, réponse aux clients et gestion des permis et des taxes afin que les hôtes récupèrent leur semaine.",
+      "category": "AI & Machine Learning",
+      "website": "https://stayloom-8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-23T08:03:03.681952+00:00"
     }
   ]
 }
