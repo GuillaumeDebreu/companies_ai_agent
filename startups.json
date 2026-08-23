@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T01:22:20.870512+00:00",
+  "last_updated": "2026-08-23T01:55:06.304925+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -283239,10 +283239,13 @@
     {
       "name": "Skimranger",
       "slug": "polsia-skimranger",
+      "description": "Your always-on agent for catching, claiming, and chasing back hidden hotel and F&B charges.",
+      "description_fr": "Votre agent permanent pour détecter, réclamer et récupérer les frais cachés d'hôtel et de restauration.",
+      "category": "Travel & Hospitality",
       "website": "https://skimranger.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T11:58:13.805591+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T01:53:33.593100+00:00"
     },
     {
       "name": "Ergosleuth",
@@ -286239,18 +286242,24 @@
     {
       "name": "Subsmithy",
       "slug": "polsia-subsmithy",
+      "description": "Boutique AI agency for SMBs — custom websites, workflow automations and micro-SaaS, packaged as one managed monthly subscription.",
+      "description_fr": "Agence Boutique AI pour PME : sites Web personnalisés, automatisations de flux de travail et micro-SaaS, regroupés sous la forme d'un abonnement mensuel géré.",
+      "category": "AI & Machine Learning",
       "website": "https://subsmithy.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T23:57:27.983234+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T01:53:49.158685+00:00"
     },
     {
       "name": "Soukai",
       "slug": "polsia-soukai",
+      "description": "Conecta talleres artesanales marroquíes con boutiques globales. Marketplace B2B con IA trilingüe, MOQs flexibles y reportes diarios por taller.",
+      "description_fr": "Connectez les boutiques artisanales du marché aux boutiques globales. Marketplace B2B avec IA trilingue, MOQ flexibles et rapports par jour plus longs.",
+      "category": "AI & Machine Learning",
       "website": "https://soukai.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T23:57:28.656660+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T01:53:50.420540+00:00"
     },
     {
       "name": "Ritualshelf",
@@ -286263,26 +286272,35 @@
     {
       "name": "NorthBranch Wholesale Co.",
       "slug": "polsia-northbranch-wholesale-co",
+      "description": "Canadian wholesale distributor of premium cannabis accessories and lifestyle goods — sourcing, private-label, and nationwide supply for licensed retailers.",
+      "description_fr": "Distributeur en gros canadien d'accessoires de cannabis et de produits de style de vie haut de gamme — approvisionnement, marque privée et approvisionnement à l'échelle nationale pour les détaillants agréés.",
+      "category": "E-Commerce & Retail",
       "website": "https://northbranch-wholesale-co.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T23:57:39.753951+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T01:53:58.556103+00:00"
     },
     {
       "name": "Recce",
       "slug": "polsia-recce-2",
+      "description": "Recce is an AI war room over your broker. Six specialist agents debate every position before a Lead Trader issues a verdict — research, not advice; your broker keeps custody.",
+      "description_fr": "Recce est une salle de guerre IA sur votre courtier. Six agents spécialisés débattent de chaque position avant qu'un Lead Trader ne rende son verdict : une recherche, pas un conseil ; votre courtier en garde la garde.",
+      "category": "AI & Machine Learning",
       "website": "https://recce-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T23:57:40.505689+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T01:54:00.533067+00:00"
     },
     {
       "name": "Pool&modul",
       "slug": "polsia-poolmodul",
+      "description": "Piscinas modulares, swim spas y saunas con entrega directa desde fabricante.",
+      "description_fr": "Piscines modulaires, spas de nage et saunas avec entrée directe par le fabricant.",
+      "category": "Other",
       "website": "https://poolmodul.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T23:57:45.972107+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T01:54:02.053486+00:00"
     },
     {
       "name": "Cubling",
@@ -286295,26 +286313,118 @@
     {
       "name": "Paceward",
       "slug": "polsia-paceward-3",
+      "description": "Your 24/7 AI running coach — recalibrates mid-run, prevents overreach.",
+      "description_fr": "Votre coach de course IA 24h/24 et 7j/7 : se recalibre à mi-course, évite les excès.",
+      "category": "AI & Machine Learning",
       "website": "https://paceward-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T23:57:52.342243+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T01:54:05.012541+00:00"
     },
     {
       "name": "Idlefoot",
       "slug": "polsia-idlefoot",
+      "description": "AI FinOps agents that cut your cloud bill 24/7 — kill zombies, right-size live, mail the savings every Monday.",
+      "description_fr": "Des agents AI FinOps qui réduisent votre facture cloud 24h/24 et 7j/7 : tuez les zombies, redimensionnez-les en direct et envoyez les économies par courrier tous les lundis.",
+      "category": "AI & Machine Learning",
       "website": "https://idlefoot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-22T23:57:58.086895+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-23T01:54:07.446738+00:00"
     },
     {
-      "name": "Taylor bristol",
+      "name": "Taylor Bristol",
       "slug": "polsia-taylor-bristol",
+      "description": "Personal real estate advisory for buyers, sellers, and relocators across the Colorado Front Range — Denver, Boulder, and surrounding communities.",
+      "description_fr": "Conseils immobiliers personnels pour les acheteurs, les vendeurs et les déménageurs de tout le Colorado Front Range – Denver, Boulder et les communautés environnantes.",
+      "category": "Real Estate",
       "website": "https://taylor-bristol.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-23T01:54:09.148640+00:00"
+    },
+    {
+      "name": "Estúdio Vereda",
+      "slug": "polsia-estdio-vereda-2",
+      "website": "https://estdio-vereda-2.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-22T23:58:03.650179+00:00"
+      "scraped_at": "2026-08-23T01:51:58.234864+00:00"
+    },
+    {
+      "name": "Evil Sosiety Studios",
+      "slug": "polsia-evil-sosiety-studios",
+      "website": "https://evil-sosiety-studios.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T01:51:59.337331+00:00"
+    },
+    {
+      "name": "Knockwright",
+      "slug": "polsia-knockwright-6",
+      "website": "https://knockwright-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T01:52:00.193480+00:00"
+    },
+    {
+      "name": "Greykettle Coffee Co.",
+      "slug": "polsia-greykettle-coffee-co",
+      "website": "https://greykettle-coffee-co.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T01:52:05.971573+00:00"
+    },
+    {
+      "name": "Stackwright",
+      "slug": "polsia-stackwright-10",
+      "website": "https://stackwright-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T01:52:11.589607+00:00"
+    },
+    {
+      "name": "Tapete Studio",
+      "slug": "polsia-tapete-studio",
+      "website": "https://tapete-studio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T01:52:17.293516+00:00"
+    },
+    {
+      "name": "Mahnfeder",
+      "slug": "polsia-mahnfeder",
+      "website": "https://mahnfeder.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T01:52:22.906572+00:00"
+    },
+    {
+      "name": "Spendseer",
+      "slug": "polsia-spendseer",
+      "website": "https://spendseer.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T01:52:28.580627+00:00"
+    },
+    {
+      "name": "Veladora",
+      "slug": "polsia-veladora-8",
+      "website": "https://veladora-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-23T01:52:34.189063+00:00"
+    },
+    {
+      "name": "TradeStead",
+      "slug": "polsia-tradestead-3",
+      "description": "A purpose-built New Zealand marketplace for the trades — tools, building materials, machinery, second-hand gear, a tradespeople directory and a jobs board, woven with AI.",
+      "description_fr": "Un marché néo-zélandais spécialement conçu pour les métiers : outils, matériaux de construction, machines, équipements d'occasion, un annuaire des artisans et un tableau d'emplois, tissés avec l'IA.",
+      "category": "AI & Machine Learning",
+      "website": "https://tradestead-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-23T01:55:06.304117+00:00"
     }
   ]
 }
