@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T17:22:06.604376+00:00",
+  "last_updated": "2026-08-24T17:55:08.902256+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -293493,42 +293493,57 @@
     {
       "name": "Harborlight Insurance Advisors",
       "slug": "polsia-harborlight-insurance-advisors",
+      "description": "Independent guidance for life insurance, final expense, and mortgage protection planning.",
+      "description_fr": "Conseils indépendants pour la planification de l’assurance-vie, des dépenses finales et de la protection hypothécaire.",
+      "category": "Real Estate",
       "website": "https://harborlight-insurance-advisors.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-24T17:18:54.353396+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-24T17:54:14.788559+00:00"
     },
     {
-      "name": "Crucibledrop",
+      "name": "Polsia App",
       "slug": "polsia-crucibledrop",
+      "description": "A Polsia-generated application.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://crucibledrop.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-24T17:18:55.350533+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-24T17:54:15.587682+00:00"
     },
     {
       "name": "Timonel",
       "slug": "polsia-timonel-2",
+      "description": "Tu tienda Shopify operando sola, con reportes cada lunes. El agente de IA que cuida inventario, precios y email de tu DTC — en español.",
+      "description_fr": "",
+      "category": "E-Commerce & Retail",
       "website": "https://timonel-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-24T17:18:56.353789+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-24T17:54:16.561277+00:00"
     },
     {
       "name": "Nightglass",
       "slug": "polsia-nightglass-vxv2ap",
+      "description": "Always-on AI SRE for microservices. Triage, playbooks, postmortems in Slack.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://nightglass-vxv2ap.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-24T17:19:01.841609+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-24T17:54:17.505568+00:00"
     },
     {
       "name": "Maravelo",
       "slug": "polsia-maravelo",
+      "description": "AI-кохост 24/7: динамічна ціна, відповіді гостям, прибирання та щоденний звіт для власників короткострокової оренди.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://maravelo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-24T17:19:07.367428+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-24T17:54:18.392015+00:00"
     },
     {
       "name": "Crateside Brands",
@@ -293555,26 +293570,115 @@
     {
       "name": "Algorithmaze",
       "slug": "polsia-algorithmaze",
+      "description": "Custom AI, IoT and automation engineering paired with a hands-on talent accelerator.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://algorithmaze.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-24T17:19:24.626605+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-24T17:54:19.056926+00:00"
     },
     {
       "name": "Reeltjie",
       "slug": "polsia-reeltjie",
+      "description": "Short-form video packages for South African small businesses. Monthly reels, TikToks and Shorts edited and delivered over WhatsApp.",
+      "description_fr": "",
+      "category": "Entertainment & Media",
       "website": "https://reeltjie.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-24T17:19:30.517783+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-24T17:54:19.830935+00:00"
     },
     {
       "name": "Vaultwright",
       "slug": "polsia-vaultwright-6",
+      "description": "Always-on agents wrap your mainframe core — open APIs, compliance, and a weekly scorecard.",
+      "description_fr": "",
+      "category": "Software & SaaS",
       "website": "https://vaultwright-6.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-24T17:54:20.559363+00:00"
+    },
+    {
+      "name": "Confido",
+      "slug": "polsia-confido",
+      "website": "https://confido.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-24T17:19:36.082122+00:00"
+      "scraped_at": "2026-08-24T17:52:24.088407+00:00"
+    },
+    {
+      "name": "Earnestground",
+      "slug": "polsia-earnestground",
+      "website": "https://earnestground.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-24T17:52:25.211235+00:00"
+    },
+    {
+      "name": "honest hustles",
+      "slug": "polsia-honest-hustles",
+      "website": "https://honest-hustles.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-24T17:52:30.852606+00:00"
+    },
+    {
+      "name": "Master Pre-Health Academy",
+      "slug": "polsia-master-pre-health-academy",
+      "website": "https://master-pre-health-academy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-24T17:52:31.653252+00:00"
+    },
+    {
+      "name": "Forkwatch",
+      "slug": "polsia-forkwatch",
+      "website": "https://forkwatch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-24T17:52:32.467937+00:00"
+    },
+    {
+      "name": "Common Roots Education Fund",
+      "slug": "polsia-common-roots-education-fund",
+      "website": "https://common-roots-education-fund.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-24T17:52:37.986075+00:00"
+    },
+    {
+      "name": "Belmonit",
+      "slug": "polsia-belmonit",
+      "website": "https://belmonit.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-24T17:52:38.693901+00:00"
+    },
+    {
+      "name": "Recoupant",
+      "slug": "polsia-recoupant-2",
+      "website": "https://recoupant-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-24T17:52:39.388131+00:00"
+    },
+    {
+      "name": "Confedeon",
+      "slug": "polsia-confedeon",
+      "website": "https://confedeon.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-24T17:52:40.148106+00:00"
+    },
+    {
+      "name": "Dawnduty",
+      "slug": "polsia-dawnduty",
+      "website": "https://dawnduty.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-24T17:52:40.907456+00:00"
     }
   ]
 }
