@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T04:14:21.275727+00:00",
+  "last_updated": "2026-08-25T04:58:01.212825+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -295200,10 +295200,13 @@
     {
       "name": "Dastyor",
       "slug": "polsia-dastyor",
+      "description": "Your AI agent in the gig economy — built for Central Asia. Dastyor scans marketplaces, drafts proposals, structures contracts, and follows up on payments while you focus on the actual work.",
+      "description_fr": "Votre agent IA dans l’économie des petits boulots – conçu pour l’Asie centrale. Dastyor analyse les marchés, rédige des propositions, structure les contrats et assure le suivi des paiements pendant que vous vous concentrez sur le travail réel.",
+      "category": "AI & Machine Learning",
       "website": "https://dastyor.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-25T04:10:57.692412+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-25T04:56:49.036054+00:00"
     },
     {
       "name": "Clarrat",
@@ -295216,10 +295219,13 @@
     {
       "name": "Bua Bot",
       "slug": "polsia-bua-bot",
+      "description": "Never miss a customer again — your 24/7 WhatsApp business assistant for South African SMEs.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://bua-bot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-25T04:10:59.974337+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-25T04:56:55.253694+00:00"
     },
     {
       "name": "Cage Innovations",
@@ -295232,50 +295238,148 @@
     {
       "name": "Pirinola",
       "slug": "polsia-pirinola-6",
+      "description": "Automatización con IA para PyMEs mexicanas: sitio web que convierte, bot de WhatsApp 24/7, agenda automática y CRM conversacional en un solo producto en español.",
+      "description_fr": "",
+      "category": "Sales & CRM",
       "website": "https://pirinola-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-25T04:11:06.318152+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-25T04:56:56.804483+00:00"
     },
     {
       "name": "Pretil",
       "slug": "polsia-pretil-6",
+      "description": "Redes sociales con raíz de barrio — la agencia de contenido para pequeños comercios y negocios locales que quieren dejar de ser invisibles en Instagram, TikTok y Facebook.",
+      "description_fr": "",
+      "category": "Social & Community",
       "website": "https://pretil-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-25T04:11:07.023088+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-25T04:56:57.521442+00:00"
     },
     {
       "name": "Spitwise",
       "slug": "polsia-spitwise",
+      "description": "Spitwise — the 24/7 AI operator that runs your catering business end-to-end: monitors enquiries, prices menus, schedules chefs and equipment, and rolls each night into a per-job P&L.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://spitwise.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-25T04:11:07.776320+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-25T04:56:58.313689+00:00"
     },
     {
-      "name": "qudus cleaning services",
+      "name": "Qudus Cleaning Services",
       "slug": "polsia-qudus-cleaning-services",
+      "description": "Premium on-demand cleaning services for homes, offices, and short-stay properties.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://qudus-cleaning-services.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-25T04:11:13.398032+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-25T04:56:59.281771+00:00"
     },
     {
       "name": "Fluxali",
       "slug": "polsia-fluxali",
+      "description": "Votre trésorerie freelance pilotée par l'IA, sans jamais lever le petit doigt.",
+      "description_fr": "",
+      "category": "Consulting & Services",
       "website": "https://fluxali.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-25T04:11:23.953220+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-25T04:56:59.965856+00:00"
     },
     {
       "name": "Shieldkin",
       "slug": "polsia-shieldkin",
+      "description": "One tap shields you, your children, and your identity from harm.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://shieldkin.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-25T04:57:00.843431+00:00"
+    },
+    {
+      "name": "Stackwren",
+      "slug": "polsia-stackwren-5",
+      "website": "https://stackwren-5.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-25T04:11:29.497892+00:00"
+      "scraped_at": "2026-08-25T04:54:24.455299+00:00"
+    },
+    {
+      "name": "Signscape",
+      "slug": "polsia-signscape",
+      "website": "https://signscape.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-25T04:54:34.941386+00:00"
+    },
+    {
+      "name": "Makerside",
+      "slug": "polsia-makerside",
+      "website": "https://makerside.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-25T04:54:35.737496+00:00"
+    },
+    {
+      "name": "Ravelin",
+      "slug": "polsia-ravelin-856x84",
+      "website": "https://ravelin-856x84.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-25T04:54:36.495884+00:00"
+    },
+    {
+      "name": "Reel Detailer",
+      "slug": "polsia-reel-detailer",
+      "website": "https://reel-detailer.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-25T04:54:41.964091+00:00"
+    },
+    {
+      "name": "Cardinal",
+      "slug": "polsia-cardinal-2",
+      "website": "https://cardinal-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-25T04:54:47.677873+00:00"
+    },
+    {
+      "name": "Velqo",
+      "slug": "polsia-velqo-2",
+      "website": "https://velqo-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-25T04:54:53.380958+00:00"
+    },
+    {
+      "name": "Haulwright",
+      "slug": "polsia-haulwright-10",
+      "website": "https://haulwright-10.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-25T04:54:59.110136+00:00"
+    },
+    {
+      "name": "Ekvor",
+      "slug": "polsia-ekvor",
+      "website": "https://ekvor.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-25T04:55:04.543963+00:00"
+    },
+    {
+      "name": "TutupKas",
+      "slug": "polsia-tutupkas",
+      "website": "https://tutupkas.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-25T04:55:10.206374+00:00"
     }
   ]
 }
