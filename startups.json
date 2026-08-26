@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T06:50:43.471735+00:00",
+  "last_updated": "2026-08-26T07:25:46.166570+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -299269,26 +299269,35 @@
     {
       "name": "Harmonic Relay",
       "slug": "polsia-harmonic-relay",
+      "description": "Simple digital distribution for independent music creators",
+      "description_fr": "",
+      "category": "Entertainment & Media",
       "website": "https://harmonic-relay.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T06:21:35.172151+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T07:24:25.423613+00:00"
     },
     {
-      "name": "BlockWhistle",
+      "name": "Polsia App",
       "slug": "polsia-blockwhistle-3",
+      "description": "A Polsia-generated application.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://blockwhistle-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T06:21:36.575463+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T07:24:26.091974+00:00"
     },
     {
-      "name": "Signalweft",
+      "name": "Polsia App",
       "slug": "polsia-signalweft-3",
+      "description": "A Polsia-generated application.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://signalweft-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T06:21:38.014926+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T07:24:27.100666+00:00"
     },
     {
       "name": "RafterPing",
@@ -299301,50 +299310,140 @@
     {
       "name": "Kernwacht",
       "slug": "polsia-kernwacht-3",
+      "description": "Autonomous AI SOC for Germany's Mittelstand — NIS2-ready, fully managed. Enterprise-grade threat hunting, phishing simulations, and audit-ready evidence, from below €3,000 a month.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://kernwacht-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T06:21:44.879414+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T07:24:29.744698+00:00"
     },
     {
-      "name": "Tijolume",
+      "name": "Polsia App",
       "slug": "polsia-tijolume",
+      "description": "A Polsia-generated application.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://tijolume.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T06:21:45.716235+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T07:24:30.752222+00:00"
     },
     {
       "name": "BrambleCue",
       "slug": "polsia-bramblecue-5",
+      "description": "Rights-clear music matched to every video moment.",
+      "description_fr": "",
+      "category": "Entertainment & Media",
       "website": "https://bramblecue-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T06:21:52.366355+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T07:24:31.458782+00:00"
     },
     {
       "name": "Formcairn",
       "slug": "polsia-formcairn-2",
+      "description": "Prior authorization paperwork, organized for the clinic team.",
+      "description_fr": "",
+      "category": "Health & Wellness",
       "website": "https://formcairn-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T06:21:58.250903+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T07:24:32.505684+00:00"
     },
     {
       "name": "Proofburrow",
       "slug": "polsia-proofburrow",
+      "description": "Hands-on SOC 2 readiness for small SaaS teams.",
+      "description_fr": "",
+      "category": "Software & SaaS",
       "website": "https://proofburrow.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T06:22:04.167671+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T07:24:33.454618+00:00"
     },
     {
       "name": "Planwright",
       "slug": "polsia-planwright-8",
+      "description": "PASS applications and business plans, written for SSI and SSDI entrepreneurs.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://planwright-8.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-26T07:24:34.168050+00:00"
+    },
+    {
+      "name": "Waila",
+      "slug": "polsia-waila",
+      "website": "https://waila.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-26T06:22:05.684221+00:00"
+      "scraped_at": "2026-08-26T07:22:51.405486+00:00"
+    },
+    {
+      "name": "Patrol One",
+      "slug": "polsia-patrol-one",
+      "website": "https://patrol-one.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-26T07:23:01.955297+00:00"
+    },
+    {
+      "name": "Zwooft",
+      "slug": "polsia-zwooft",
+      "website": "https://zwooft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-26T07:23:02.892129+00:00"
+    },
+    {
+      "name": "Knotspan",
+      "slug": "polsia-knotspan",
+      "website": "https://knotspan.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-26T07:23:04.134283+00:00"
+    },
+    {
+      "name": "Dabam",
+      "slug": "polsia-dabam",
+      "website": "https://dabam.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-26T07:23:10.008971+00:00"
+    },
+    {
+      "name": "Mossbarks",
+      "slug": "polsia-mossbarks-7",
+      "website": "https://mossbarks-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-26T07:23:11.067979+00:00"
+    },
+    {
+      "name": "Brassbell",
+      "slug": "polsia-brassbell-7",
+      "website": "https://brassbell-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-26T07:23:16.985846+00:00"
+    },
+    {
+      "name": "Asterkiln",
+      "slug": "polsia-asterkiln",
+      "website": "https://asterkiln.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-26T07:23:22.619756+00:00"
+    },
+    {
+      "name": "Riffspool",
+      "slug": "polsia-riffspool",
+      "website": "https://riffspool.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-26T07:23:28.181018+00:00"
     }
   ]
 }
