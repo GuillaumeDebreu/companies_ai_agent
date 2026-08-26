@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T07:25:46.166570+00:00",
+  "last_updated": "2026-08-26T08:09:24.412569+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -299376,18 +299376,24 @@
     {
       "name": "Waila",
       "slug": "polsia-waila",
+      "description": "Booking and live wait times for everyday service businesses.",
+      "description_fr": "",
+      "category": "Travel & Hospitality",
       "website": "https://waila.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T07:22:51.405486+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T08:08:30.791642+00:00"
     },
     {
       "name": "Patrol One",
       "slug": "polsia-patrol-one",
+      "description": "Gestão operacional e de frotas para equipes em movimento.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://patrol-one.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T07:23:01.955297+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T08:08:32.538124+00:00"
     },
     {
       "name": "Zwooft",
@@ -299398,52 +299404,165 @@
       "scraped_at": "2026-08-26T07:23:02.892129+00:00"
     },
     {
-      "name": "Knotspan",
+      "name": "Polsia App",
       "slug": "polsia-knotspan",
+      "description": "A Polsia-generated application.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://knotspan.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T07:23:04.134283+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T08:08:43.859497+00:00"
     },
     {
       "name": "Dabam",
       "slug": "polsia-dabam",
+      "description": "La décision se joue, tout le monde est d’accord.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://dabam.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T07:23:10.008971+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T08:08:44.581668+00:00"
     },
     {
       "name": "Mossbarks",
       "slug": "polsia-mossbarks-7",
+      "description": "One hero formula. Every dog, healthier. Mossbarks is a private-label, subscription-first dog wellness brand built around a single category-defining SKU.",
+      "description_fr": "",
+      "category": "Health & Wellness",
       "website": "https://mossbarks-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T07:23:11.067979+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T08:08:45.455316+00:00"
     },
     {
       "name": "Brassbell",
       "slug": "polsia-brassbell-7",
+      "description": "An always-on operations desk with a human in the loop.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://brassbell-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T07:23:16.985846+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T08:08:46.100277+00:00"
     },
     {
       "name": "Asterkiln",
       "slug": "polsia-asterkiln",
+      "description": "Powering dependable AI infrastructure from the energy source outward.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://asterkiln.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-26T07:23:22.619756+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-26T08:08:46.723380+00:00"
     },
     {
       "name": "Riffspool",
       "slug": "polsia-riffspool",
+      "description": "From rising trends to smarter branded short-form video.",
+      "description_fr": "",
+      "category": "Marketing & Advertising",
       "website": "https://riffspool.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-26T08:08:47.497430+00:00"
+    },
+    {
+      "name": "@DigitalBySheila",
+      "slug": "polsia-digitalbysheila",
+      "website": "https://digitalbysheila.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-26T07:23:28.181018+00:00"
+      "scraped_at": "2026-08-26T08:06:34.549526+00:00"
+    },
+    {
+      "name": "Polsia App",
+      "slug": "polsia-brimnook-5",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
+      "website": "https://brimnook-5.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-26T08:08:53.585451+00:00"
+    },
+    {
+      "name": "Whiskerwicket",
+      "slug": "polsia-whiskerwicket",
+      "website": "https://whiskerwicket.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-26T08:06:45.533678+00:00"
+    },
+    {
+      "name": "Polsia App",
+      "slug": "polsia-milecairn",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
+      "website": "https://milecairn.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-26T08:09:00.459433+00:00"
+    },
+    {
+      "name": "Cairvane",
+      "slug": "polsia-cairvane",
+      "website": "https://cairvane.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-26T08:06:56.798336+00:00"
+    },
+    {
+      "name": "Polsia App",
+      "slug": "polsia-cairncart",
+      "description": "A Polsia-generated application.",
+      "description_fr": "",
+      "category": "Other",
+      "website": "https://cairncart.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-26T08:09:07.578722+00:00"
+    },
+    {
+      "name": "Polsia App",
+      "slug": "polsia-mockvue",
+      "description": "A Polsia-generated application.",
+      "description_fr": "Une application générée par Polsia.",
+      "category": "Other",
+      "website": "https://mockvue.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-26T08:07:08.997110+00:00"
+    },
+    {
+      "name": "Blockwhistle",
+      "slug": "polsia-blockwhistle-4",
+      "website": "https://blockwhistle-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-26T08:07:14.792128+00:00"
+    },
+    {
+      "name": "CinderSaffron",
+      "slug": "polsia-cindersaffron",
+      "description": "Creative testing and accountable media growth across the US and India.",
+      "description_fr": "",
+      "category": "Entertainment & Media",
+      "website": "https://cindersaffron.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-26T08:09:13.649194+00:00"
+    },
+    {
+      "name": "G308",
+      "slug": "polsia-g308",
+      "website": "https://g308.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-26T08:07:30.993010+00:00"
     }
   ]
 }
