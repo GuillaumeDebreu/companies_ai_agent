@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T16:19:55.257516+00:00",
+  "last_updated": "2026-08-29T18:44:30.632171+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -301758,10 +301758,13 @@
     {
       "name": "NoshStamp",
       "slug": "polsia-noshstamp",
+      "description": "Turn verified meal moments into useful rewards.",
+      "description_fr": "Transformez les moments de repas vérifiés en récompenses utiles.",
+      "category": "Food & Beverage",
       "website": "https://noshstamp.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T15:20:47.442536+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T18:43:40.524295+00:00"
     },
     {
       "name": "Zarvén",
@@ -301774,50 +301777,68 @@
     {
       "name": "Morrowkin",
       "slug": "polsia-morrowkin-hk9gaz",
+      "description": "Your life, retold as a living story universe.",
+      "description_fr": "Votre vie, racontée comme un univers d'histoire vivante.",
+      "category": "Other",
       "website": "https://morrowkin-hk9gaz.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T15:20:54.283144+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T18:43:43.055500+00:00"
     },
     {
       "name": "Rookpath",
       "slug": "polsia-rookpath",
+      "description": "Continuous accessibility care for growing online stores.",
+      "description_fr": "Soins d’accessibilité continus pour les boutiques en ligne en pleine croissance.",
+      "category": "E-Commerce & Retail",
       "website": "https://rookpath.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T15:21:00.002525+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T18:43:44.712277+00:00"
     },
     {
       "name": "Drillstitch",
       "slug": "polsia-drillstitch",
+      "description": "Ready-to-run training resources for the fire service.",
+      "description_fr": "Ressources de formation prêtes à l’emploi pour les services d’incendie.",
+      "category": "Education",
       "website": "https://drillstitch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T15:21:06.163902+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T18:43:45.852210+00:00"
     },
     {
       "name": "Pencairn",
       "slug": "polsia-pencairn",
+      "description": "Thoughtful digital kits for making the next step feel more possible.",
+      "description_fr": "Des kits numériques bien pensés pour rendre la prochaine étape plus possible.",
+      "category": "Other",
       "website": "https://pencairn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T15:21:13.058338+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T18:43:47.029513+00:00"
     },
     {
       "name": "richer",
       "slug": "polsia-richer",
+      "description": "Assistência financeira simples para decisões mais conscientes.",
+      "description_fr": "Assistance financière simple pour prendre des décisions plus conscientes.",
+      "category": "Other",
       "website": "https://richer.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T15:21:18.799910+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T18:43:48.337961+00:00"
     },
     {
       "name": "Счётодром",
       "slug": "polsia-company-450684",
+      "description": "Автоматический контроль оплат и ясный план денежных потоков",
+      "description_fr": "Panneau de contrôle automatique et plan de travail défini pour les véhicules",
+      "category": "Other",
       "website": "https://company-450684.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T15:21:24.604216+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T18:43:50.344339+00:00"
     },
     {
       "name": "DocketThimble",
@@ -301833,10 +301854,102 @@
     {
       "name": "Nachtstuur",
       "slug": "polsia-nachtstuur",
+      "description": "De stille nachtwacht voor foutloze webshopoperaties.",
+      "description_fr": "De stille nachtwacht voor foutloze webshopoperaties.",
+      "category": "E-Commerce & Retail",
       "website": "https://nachtstuur.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-29T18:43:51.859175+00:00"
+    },
+    {
+      "name": "Nudgebriar",
+      "slug": "polsia-nudgebriar-3",
+      "website": "https://nudgebriar-3.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-29T15:21:35.860002+00:00"
+      "scraped_at": "2026-08-29T18:42:56.722980+00:00"
+    },
+    {
+      "name": "Morrowmote",
+      "slug": "polsia-morrowmote-i3qcjg",
+      "website": "https://morrowmote-i3qcjg.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T18:42:57.496013+00:00"
+    },
+    {
+      "name": "Nookrelay",
+      "slug": "polsia-nookrelay-cf24zn",
+      "website": "https://nookrelay-cf24zn.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T18:42:58.291732+00:00"
+    },
+    {
+      "name": "nav-secure",
+      "slug": "polsia-nav-secure",
+      "website": "https://nav-secure.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T18:43:03.914777+00:00"
+    },
+    {
+      "name": "Mowbriar",
+      "slug": "polsia-mowbriar",
+      "website": "https://mowbriar.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T18:43:09.537409+00:00"
+    },
+    {
+      "name": "Brisca Ofício",
+      "slug": "polsia-brisca-ofcio",
+      "website": "https://brisca-ofcio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T18:43:14.944330+00:00"
+    },
+    {
+      "name": "Rulebraid",
+      "slug": "polsia-rulebraid-4",
+      "website": "https://rulebraid-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T18:43:20.484693+00:00"
+    },
+    {
+      "name": "Lecturnook",
+      "slug": "polsia-lecturnook",
+      "description": "Turn expert sessions into ready-to-learn courses.",
+      "description_fr": "",
+      "category": "Education",
+      "website": "https://lecturnook.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-29T18:44:30.631367+00:00"
+    },
+    {
+      "name": "RiffCairn",
+      "slug": "polsia-riffcairn-36kdnj",
+      "description": "Turning real fan energy into measurable artist momentum.",
+      "description_fr": "Transformer la véritable énergie des fans en un élan d’artiste mesurable.",
+      "category": "Other",
+      "website": "https://riffcairn-36kdnj.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-29T18:43:32.511740+00:00"
+    },
+    {
+      "name": "Riftmark",
+      "slug": "polsia-riftmark-3",
+      "description": "Fixed-scope data pipeline audits with a clear path to remediation.",
+      "description_fr": "Audits de pipeline de données à portée fixe avec un chemin clair vers la remédiation.",
+      "category": "Sales & CRM",
+      "website": "https://riftmark-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-29T18:43:35.737689+00:00"
     }
   ]
 }
