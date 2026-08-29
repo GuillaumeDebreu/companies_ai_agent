@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T20:31:40.516131+00:00",
+  "last_updated": "2026-08-29T21:20:45.101748+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -301769,10 +301769,13 @@
     {
       "name": "Zarvén",
       "slug": "polsia-zarvn-3",
+      "description": "La operación diaria de tu negocio, siempre atendida y en movimiento.",
+      "description_fr": "L'opération quotidienne de votre entreprise, toujours attentive et en mouvement.",
+      "category": "Other",
       "website": "https://zarvn-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T15:20:48.673300+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T21:19:42.632723+00:00"
     },
     {
       "name": "Morrowkin",
@@ -301865,58 +301868,79 @@
     {
       "name": "Nudgebriar",
       "slug": "polsia-nudgebriar-3",
+      "description": "Turn missed inquiries into booked business.",
+      "description_fr": "Transformez les demandes manquées en affaires réservées.",
+      "category": "Other",
       "website": "https://nudgebriar-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T18:42:56.722980+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T21:19:43.797704+00:00"
     },
     {
       "name": "Morrowmote",
       "slug": "polsia-morrowmote-i3qcjg",
+      "description": "An always-on operations co-pilot for independent online sellers.",
+      "description_fr": "Un copilote opérationnel permanent pour les vendeurs en ligne indépendants.",
+      "category": "Other",
       "website": "https://morrowmote-i3qcjg.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T18:42:57.496013+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T21:19:45.069997+00:00"
     },
     {
       "name": "Nookrelay",
       "slug": "polsia-nookrelay-cf24zn",
+      "description": "The AI operations desk for better local events.",
+      "description_fr": "Le bureau des opérations IA pour de meilleurs événements locaux.",
+      "category": "AI & Machine Learning",
       "website": "https://nookrelay-cf24zn.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T18:42:58.291732+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T21:19:45.991019+00:00"
     },
     {
-      "name": "nav-secure",
+      "name": "Orivane",
       "slug": "polsia-nav-secure",
+      "description": "A clear operational register for issues, ownership, evidence, and closure.",
+      "description_fr": "Un registre opérationnel clair pour les problèmes, la propriété, les preuves et la clôture.",
+      "category": "Other",
       "website": "https://nav-secure.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T18:43:03.914777+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T21:19:47.794305+00:00"
     },
     {
       "name": "Mowbriar",
       "slug": "polsia-mowbriar",
+      "description": "Qualified local lawn-care leads, routed fast.",
+      "description_fr": "Des prospects locaux qualifiés pour l'entretien des pelouses, acheminés rapidement.",
+      "category": "Sales & CRM",
       "website": "https://mowbriar.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T18:43:09.537409+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T21:19:49.078212+00:00"
     },
     {
       "name": "Brisca Ofício",
       "slug": "polsia-brisca-ofcio",
+      "description": "Da primeira ferramenta ao serviço de climatização bem vendido.",
+      "description_fr": "Le premier ferramenta au service de climatisation sera vendu.",
+      "category": "Other",
       "website": "https://brisca-ofcio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T18:43:14.944330+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T21:19:51.139155+00:00"
     },
     {
       "name": "Rulebraid",
       "slug": "polsia-rulebraid-4",
+      "description": "Practical compliance intelligence for operators in rule-heavy local markets.",
+      "description_fr": "Des informations pratiques sur la conformité pour les opérateurs sur des marchés locaux soumis à de nombreuses règles.",
+      "category": "Other",
       "website": "https://rulebraid-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T18:43:20.484693+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T21:19:52.959677+00:00"
     },
     {
       "name": "Lecturnook",
@@ -301950,6 +301974,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-29T18:43:35.737689+00:00"
+    },
+    {
+      "name": "Triage Finch",
+      "slug": "polsia-triage-finch",
+      "website": "https://triage-finch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T21:18:51.978053+00:00"
+    },
+    {
+      "name": "Pendlark",
+      "slug": "polsia-pendlark-29u3a0",
+      "website": "https://pendlark-29u3a0.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T21:18:52.762116+00:00"
+    },
+    {
+      "name": "Rookbell",
+      "slug": "polsia-rookbell-rw2jm9",
+      "website": "https://rookbell-rw2jm9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T21:18:58.351264+00:00"
+    },
+    {
+      "name": "Loomcairn",
+      "slug": "polsia-loomcairn-4",
+      "website": "https://loomcairn-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T21:19:03.817616+00:00"
+    },
+    {
+      "name": "Rivetmoss",
+      "slug": "polsia-rivetmoss-5o7kp6",
+      "website": "https://rivetmoss-5o7kp6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T21:19:09.430702+00:00"
+    },
+    {
+      "name": "IndexMoth",
+      "slug": "polsia-indexmoth",
+      "website": "https://indexmoth.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T21:19:15.155073+00:00"
+    },
+    {
+      "name": "Hearthsignal",
+      "slug": "polsia-hearthsignal-5qbqzf",
+      "website": "https://hearthsignal-5qbqzf.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T21:19:20.628861+00:00"
+    },
+    {
+      "name": "Funkelkerb",
+      "slug": "polsia-funkelkerb",
+      "website": "https://funkelkerb.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T21:19:26.328122+00:00"
+    },
+    {
+      "name": "Bamborê",
+      "slug": "polsia-bambor",
+      "description": "Açaí no centro, sobremesas que fazem o pedido valer mais.",
+      "description_fr": "Açaí no centro, sobremesas que fazem o pedido valer mais.",
+      "category": "Other",
+      "website": "https://bambor.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-29T21:20:39.600234+00:00"
+    },
+    {
+      "name": "BrokerBridge",
+      "slug": "polsia-brokerbridge",
+      "website": "https://brokerbridge.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T21:19:37.520970+00:00"
     }
   ]
 }
