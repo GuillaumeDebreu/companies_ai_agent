@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T21:20:45.101748+00:00",
+  "last_updated": "2026-08-29T23:28:02.960424+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -301978,50 +301978,68 @@
     {
       "name": "Triage Finch",
       "slug": "polsia-triage-finch",
+      "description": "Fractional support operations for growing technology teams",
+      "description_fr": "Opérations de support fractionné pour les équipes technologiques en croissance",
+      "category": "Other",
       "website": "https://triage-finch.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T21:18:51.978053+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T23:26:50.972567+00:00"
     },
     {
       "name": "Pendlark",
       "slug": "polsia-pendlark-29u3a0",
+      "description": "An owner-controlled command desk for the work between apps.",
+      "description_fr": "Un bureau de commande contrôlé par le propriétaire pour le travail entre les applications.",
+      "category": "Other",
       "website": "https://pendlark-29u3a0.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T21:18:52.762116+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T23:26:52.841312+00:00"
     },
     {
       "name": "Rookbell",
       "slug": "polsia-rookbell-rw2jm9",
+      "description": "Turn missed calls into booked, paid jobs.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://rookbell-rw2jm9.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T21:18:58.351264+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T23:26:53.559369+00:00"
     },
     {
       "name": "Loomcairn",
       "slug": "polsia-loomcairn-4",
+      "description": "The AI operations layer for safer, more responsive public clinics.",
+      "description_fr": "La couche opérationnelle d’IA pour des cliniques publiques plus sûres et plus réactives.",
+      "category": "AI & Machine Learning",
       "website": "https://loomcairn-4.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T21:19:03.817616+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T23:26:55.363547+00:00"
     },
     {
       "name": "Rivetmoss",
       "slug": "polsia-rivetmoss-5o7kp6",
+      "description": "The trusted marketplace for hard-to-source industrial parts.",
+      "description_fr": "Le marché de confiance pour les pièces industrielles difficiles à trouver.",
+      "category": "E-Commerce & Retail",
       "website": "https://rivetmoss-5o7kp6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T21:19:09.430702+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T23:26:56.449376+00:00"
     },
     {
       "name": "IndexMoth",
       "slug": "polsia-indexmoth",
+      "description": "A fixed-price SEO audit for independent online shops.",
+      "description_fr": "",
+      "category": "E-Commerce & Retail",
       "website": "https://indexmoth.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-29T21:19:15.155073+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-29T23:26:57.180541+00:00"
     },
     {
       "name": "Hearthsignal",
@@ -302053,10 +302071,93 @@
     {
       "name": "BrokerBridge",
       "slug": "polsia-brokerbridge",
+      "description": "AI-assisted trade planning with human approval at every step.",
+      "description_fr": "Planification commerciale assistée par l'IA avec l'approbation humaine à chaque étape.",
+      "category": "AI & Machine Learning",
       "website": "https://brokerbridge.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-08-29T23:27:00.940390+00:00"
+    },
+    {
+      "name": "TallyRook",
+      "slug": "polsia-tallyrook-oy82ae",
+      "website": "https://tallyrook-oy82ae.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-08-29T21:19:37.520970+00:00"
+      "scraped_at": "2026-08-29T23:25:49.236897+00:00"
+    },
+    {
+      "name": "Rookmantle",
+      "slug": "polsia-rookmantle-9",
+      "website": "https://rookmantle-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T23:25:55.375649+00:00"
+    },
+    {
+      "name": "Kundu Kite",
+      "slug": "polsia-kundu-kite",
+      "website": "https://kundu-kite.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T23:26:00.843332+00:00"
+    },
+    {
+      "name": "Mendloom",
+      "slug": "polsia-mendloom-6tikr1",
+      "website": "https://mendloom-6tikr1.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T23:26:06.456099+00:00"
+    },
+    {
+      "name": "NocnyWątek",
+      "slug": "polsia-nocnywtek",
+      "website": "https://nocnywtek.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T23:26:12.066055+00:00"
+    },
+    {
+      "name": "PuntaNexo",
+      "slug": "polsia-puntanexo",
+      "website": "https://puntanexo.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T23:26:22.663099+00:00"
+    },
+    {
+      "name": "Tracequill",
+      "slug": "polsia-tracequill-7",
+      "website": "https://tracequill-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T23:26:28.147458+00:00"
+    },
+    {
+      "name": "Kitepulp",
+      "slug": "polsia-kitepulp",
+      "website": "https://kitepulp.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T23:26:33.867936+00:00"
+    },
+    {
+      "name": "Vezuno",
+      "slug": "polsia-vezuno-vm3ne1",
+      "website": "https://vezuno-vm3ne1.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T23:26:39.476692+00:00"
+    },
+    {
+      "name": "ARConnectX",
+      "slug": "polsia-arconnectx",
+      "website": "https://arconnectx.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-29T23:26:45.389769+00:00"
     }
   ]
 }
