@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T11:25:57.509257+00:00",
+  "last_updated": "2026-08-30T13:02:51.973419+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -302299,34 +302299,46 @@
     {
       "name": "DocketRook",
       "slug": "polsia-docketrook-gk6ooh",
+      "description": "Turn one receipt into a clean purchase record you can review and confirm.",
+      "description_fr": "Transformez un reçu en un dossier d'achat propre que vous pouvez examiner et confirmer.",
+      "category": "Sustainability & Green",
       "website": "https://docketrook-gk6ooh.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-30T07:19:16.522068+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-30T13:01:54.709088+00:00"
     },
     {
       "name": "Pactelmo",
       "slug": "polsia-pactelmo-2",
+      "description": "Agentes que encuentran, recuperan y protegen cada euro empresarial.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://pactelmo-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-30T07:19:17.226268+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-30T13:01:55.194432+00:00"
     },
     {
       "name": "PawLedger",
       "slug": "polsia-pawledger-6",
+      "description": "Simple practice software for veterinary teams.",
+      "description_fr": "Logiciel de pratique simple pour les équipes vétérinaires.",
+      "category": "Software & SaaS",
       "website": "https://pawledger-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-30T07:19:22.656525+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-30T13:01:56.452780+00:00"
     },
     {
       "name": "Tallynook",
       "slug": "polsia-tallynook-hnclc6",
+      "description": "The always-on operations desk for local businesses.",
+      "description_fr": "Le bureau des opérations toujours disponible pour les entreprises locales.",
+      "category": "Other",
       "website": "https://tallynook-hnclc6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-30T07:19:28.108332+00:00"
+      "status": "live",
+      "scraped_at": "2026-08-30T13:01:58.406936+00:00"
     },
     {
       "name": "Blinkettle",
@@ -302393,6 +302405,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-08-30T07:19:54.343648+00:00"
+    },
+    {
+      "name": "Caroline Mignaux",
+      "slug": "polsia-caroline-mignaux",
+      "website": "https://caroline-mignaux.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-30T13:00:59.937049+00:00"
+    },
+    {
+      "name": "Margekraai",
+      "slug": "polsia-margekraai",
+      "website": "https://margekraai.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-30T13:01:05.589939+00:00"
+    },
+    {
+      "name": "RafterPing",
+      "slug": "polsia-rafterping-nhcybn",
+      "website": "https://rafterping-nhcybn.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-30T13:01:11.222104+00:00"
+    },
+    {
+      "name": "Pacturn",
+      "slug": "polsia-pacturn-5",
+      "website": "https://pacturn-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-30T13:01:16.740574+00:00"
+    },
+    {
+      "name": "Ternwatt",
+      "slug": "polsia-ternwatt",
+      "website": "https://ternwatt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-30T13:01:22.229687+00:00"
+    },
+    {
+      "name": "Steadhelm",
+      "slug": "polsia-steadhelm-5",
+      "website": "https://steadhelm-5.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-30T13:01:27.748581+00:00"
+    },
+    {
+      "name": "Proofwake",
+      "slug": "polsia-proofwake-2",
+      "website": "https://proofwake-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-30T13:01:33.234597+00:00"
+    },
+    {
+      "name": "Margepique",
+      "slug": "polsia-margepique",
+      "website": "https://margepique.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-30T13:01:38.542058+00:00"
+    },
+    {
+      "name": "Brackenhelm",
+      "slug": "polsia-brackenhelm",
+      "website": "https://brackenhelm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-30T13:01:44.132697+00:00"
+    },
+    {
+      "name": "Rookrelay",
+      "slug": "polsia-rookrelay-omf57z",
+      "website": "https://rookrelay-omf57z.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-08-30T13:01:49.512775+00:00"
     }
   ]
 }
