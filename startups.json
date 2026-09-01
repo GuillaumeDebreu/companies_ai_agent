@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T03:59:34.776483+00:00",
+  "last_updated": "2026-09-01T07:49:33.362595+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -303173,10 +303173,13 @@
     {
       "name": "Kadruma",
       "slug": "polsia-kadruma",
+      "description": "Contenido que convierte consultas en citas para clínicas estéticas.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://kadruma.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-08-31T20:03:06.473412+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-01T07:47:58.063881+00:00"
     },
     {
       "name": "Slatewarden",
@@ -303351,26 +303354,35 @@
     {
       "name": "Caisalto",
       "slug": "polsia-caisalto-zbbtn5",
+      "description": "A central que mantém a operação da sua empresa em dia.",
+      "description_fr": "Une centrale qui gère l'exploitation de votre entreprise dans le jour.",
+      "category": "Other",
       "website": "https://caisalto-zbbtn5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-01T02:05:34.159155+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-01T07:48:25.293982+00:00"
     },
     {
       "name": "Nimbopauta",
       "slug": "polsia-nimbopauta-2",
+      "description": "Conteúdo de nicho pesquisado, revisado e publicado com consistência.",
+      "description_fr": "Conteúdo de nicho pesquisado, révisé et publié avec cohérence.",
+      "category": "Other",
       "website": "https://nimbopauta-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-01T02:05:39.818155+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-01T07:48:27.482959+00:00"
     },
     {
       "name": "RafterWren",
       "slug": "polsia-rafterwren-3",
+      "description": "Turn every home-service inquiry into a booked opportunity.",
+      "description_fr": "Transformez chaque demande de service à domicile en une opportunité réservée.",
+      "category": "Other",
       "website": "https://rafterwren-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-01T02:05:45.703154+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-01T07:48:30.125903+00:00"
     },
     {
       "name": "Yardwink",
@@ -303397,10 +303409,13 @@
     {
       "name": "Hushknot",
       "slug": "polsia-hushknot-2",
+      "description": "Better CPAP nights through trusted guidance and thoughtful comfort.",
+      "description_fr": "De meilleures nuits CPAP grâce à des conseils fiables et un confort réfléchi.",
+      "category": "Other",
       "website": "https://hushknot-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-01T02:06:09.616115+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-01T07:48:36.165506+00:00"
     },
     {
       "name": "Scopetack",
@@ -303427,10 +303442,13 @@
     {
       "name": "Zarpaclic",
       "slug": "polsia-zarpaclic",
+      "description": "Tecnología y marketing para convertir negocios locales en oportunidades globales.",
+      "description_fr": "Technologie et marketing pour convertir les entreprises locales en opportunités mondiales.",
+      "category": "Marketing & Advertising",
       "website": "https://zarpaclic.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-01T02:06:34.606001+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-01T07:48:39.145311+00:00"
     },
     {
       "name": "Counterkin",
@@ -303442,6 +303460,98 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-09-01T02:06:35.456417+00:00"
+    },
+    {
+      "name": "Miznook",
+      "slug": "polsia-miznook",
+      "website": "https://miznook.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-01T07:45:41.743847+00:00"
+    },
+    {
+      "name": "LatticeSpring",
+      "slug": "polsia-latticespring",
+      "website": "https://latticespring.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-01T07:45:47.632018+00:00"
+    },
+    {
+      "name": "Cairnbyte",
+      "slug": "polsia-cairnbyte-3",
+      "description": "Practical AI workflows for people who have work to get done.",
+      "description_fr": "Des workflows d'IA pratiques pour les personnes qui ont du travail à accomplir.",
+      "category": "AI & Machine Learning",
+      "website": "https://cairnbyte-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-09-01T07:48:57.672434+00:00"
+    },
+    {
+      "name": "Rookdocket",
+      "slug": "polsia-rookdocket-9",
+      "website": "https://rookdocket-9.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-01T07:46:08.111316+00:00"
+    },
+    {
+      "name": "Rookrelay",
+      "slug": "polsia-rookrelay-3ersa1",
+      "website": "https://rookrelay-3ersa1.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-01T07:46:15.795372+00:00"
+    },
+    {
+      "name": "Sahara",
+      "slug": "polsia-sahara-2",
+      "description": "Transformação organizacional para empresas em evolução.",
+      "description_fr": "",
+      "category": "Other",
+      "website": "https://sahara-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-09-01T07:49:14.460755+00:00"
+    },
+    {
+      "name": "Panelproof",
+      "slug": "polsia-panelproof",
+      "website": "https://panelproof.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-01T07:46:28.087795+00:00"
+    },
+    {
+      "name": "Mosswren",
+      "slug": "polsia-mosswren-3",
+      "website": "https://mosswren-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-01T07:46:34.978551+00:00"
+    },
+    {
+      "name": "Selenook",
+      "slug": "polsia-selenook",
+      "description": "AI control for every chemical order, shipment, and compliance exception.",
+      "description_fr": "Contrôle IA pour chaque commande, expédition et exception de conformité de produits chimiques.",
+      "category": "AI & Machine Learning",
+      "website": "https://selenook.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-09-01T07:49:32.141820+00:00"
+    },
+    {
+      "name": "Metrune",
+      "slug": "polsia-metrune-3",
+      "description": "Better sleep and metabolic health, measured over time.",
+      "description_fr": "Un meilleur sommeil et une meilleure santé métabolique, mesurés au fil du temps.",
+      "category": "Health & Wellness",
+      "website": "https://metrune-3.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-09-01T07:49:33.361725+00:00"
     }
   ]
 }
