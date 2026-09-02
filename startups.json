@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T16:07:06.258027+00:00",
+  "last_updated": "2026-09-02T17:23:32.278365+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -304343,34 +304343,46 @@
     {
       "name": "Morrowtap",
       "slug": "polsia-morrowtap-whyw3t",
+      "description": "Turn unanswered calls into booked local-business jobs.",
+      "description_fr": "Transformez les appels sans réponse en emplois réservés pour votre entreprise locale.",
+      "category": "Other",
       "website": "https://morrowtap-whyw3t.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-02T13:37:54.800755+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-02T17:22:20.617203+00:00"
     },
     {
       "name": "Brimward",
       "slug": "polsia-brimward-yq7snt",
+      "description": "A focused catalog quality scanner for specialty retail teams.",
+      "description_fr": "Un scanner ciblé de qualité de catalogue pour les équipes de vente au détail spécialisées.",
+      "category": "E-Commerce & Retail",
       "website": "https://brimward-yq7snt.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-02T13:37:55.763416+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-02T17:22:21.920678+00:00"
     },
     {
       "name": "BrindleIndex",
       "slug": "polsia-brindleindex",
+      "description": "Data-backed search products for overlooked B2B decisions.",
+      "description_fr": "",
+      "category": "Sales & CRM",
       "website": "https://brindleindex.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-02T13:38:01.397049+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-02T17:22:22.449966+00:00"
     },
     {
       "name": "VoxPollen",
       "slug": "polsia-voxpollen",
+      "description": "One SaaS recording, five strategic posts every week — done-for-you short-form video for B2B SaaS teams.",
+      "description_fr": "",
+      "category": "Software & SaaS",
       "website": "https://voxpollen.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-02T13:38:07.540536+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-02T17:22:22.928631+00:00"
     },
     {
       "name": "Noticelark",
@@ -304391,26 +304403,115 @@
     {
       "name": "Glyntide",
       "slug": "polsia-glyntide",
+      "description": "Fresh endocrine evidence, made clear for every care conversation.",
+      "description_fr": "De nouvelles preuves endocriniennes, clairement indiquées pour chaque conversation sur les soins.",
+      "category": "Other",
       "website": "https://glyntide.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-02T13:38:24.230215+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-02T17:22:28.616969+00:00"
     },
     {
       "name": "Mucklet",
       "slug": "polsia-mucklet",
+      "description": "Clean messy CSVs quickly, privately, and without enterprise complexity.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://mucklet.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-02T13:38:29.861802+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-02T17:22:29.331310+00:00"
     },
     {
       "name": "Nodvakt",
       "slug": "polsia-nodvakt",
+      "description": "AI som håller projektens trådar samman, dygnet runt — med mänsklig styrning och spårbar kontroll.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://nodvakt.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-09-02T17:22:31.424748+00:00"
+    },
+    {
+      "name": "Wickledger",
+      "slug": "polsia-wickledger-7",
+      "website": "https://wickledger-7.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-09-02T13:38:35.445042+00:00"
+      "scraped_at": "2026-09-02T17:21:22.847857+00:00"
+    },
+    {
+      "name": "Rooktide",
+      "slug": "polsia-rooktide-5glmqw",
+      "website": "https://rooktide-5glmqw.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-02T17:21:28.390960+00:00"
+    },
+    {
+      "name": "CedarBridge Support",
+      "slug": "polsia-cedarbridge-support",
+      "website": "https://cedarbridge-support.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-02T17:21:34.019982+00:00"
+    },
+    {
+      "name": "Nœudveille",
+      "slug": "polsia-nudveille",
+      "website": "https://nudveille.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-02T17:21:39.637936+00:00"
+    },
+    {
+      "name": "Lumbreta",
+      "slug": "polsia-lumbreta-7",
+      "website": "https://lumbreta-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-02T17:21:45.027410+00:00"
+    },
+    {
+      "name": "Abarcén",
+      "slug": "polsia-abarcn-3",
+      "website": "https://abarcn-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-02T17:21:50.658762+00:00"
+    },
+    {
+      "name": "Poptolík",
+      "slug": "polsia-poptolk",
+      "website": "https://poptolk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-02T17:21:56.317783+00:00"
+    },
+    {
+      "name": "shree",
+      "slug": "polsia-shree",
+      "website": "https://shree.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-02T17:22:01.927145+00:00"
+    },
+    {
+      "name": "Mrvokaz",
+      "slug": "polsia-mrvokaz",
+      "website": "https://mrvokaz.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-02T17:22:07.297023+00:00"
+    },
+    {
+      "name": "Successedd Venue LLC",
+      "slug": "polsia-successedd-venue-llc",
+      "website": "https://successedd-venue-llc.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-02T17:22:12.660512+00:00"
     }
   ]
 }
