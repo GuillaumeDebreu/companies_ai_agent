@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T05:02:36.755797+00:00",
+  "last_updated": "2026-09-03T09:40:16.359768+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -304875,34 +304875,46 @@
     {
       "name": "PicketWren",
       "slug": "polsia-picketwren-2",
+      "description": "The AI coordinator that turns local service requests into completed jobs.",
+      "description_fr": "Le coordinateur IA qui transforme les demandes de service locales en tâches terminées.",
+      "category": "AI & Machine Learning",
       "website": "https://picketwren-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-03T05:00:26.809035+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-03T09:39:16.550800+00:00"
     },
     {
       "name": "Kistenwacht",
       "slug": "polsia-kistenwacht-2",
+      "description": "Der autonome Betriebsdienst für reibungslose Online-Shops.",
+      "description_fr": "Le service d'assistance autonome pour les boutiques en ligne reibungslose.",
+      "category": "E-Commerce & Retail",
       "website": "https://kistenwacht-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-03T05:00:34.489306+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-03T09:39:17.564631+00:00"
     },
     {
       "name": "Cúmbaro",
       "slug": "polsia-cmbaro-2",
+      "description": "La banca mexicana que piensa, protege y opera en tiempo real.",
+      "description_fr": "La banque mexicaine qui piensa, protégée et opéra en temps réel.",
+      "category": "Other",
       "website": "https://cmbaro-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-03T05:00:40.183793+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-03T09:39:18.878074+00:00"
     },
     {
       "name": "Marnook",
       "slug": "polsia-marnook-yfb7hf",
+      "description": "A trusted route to carefully selected overseas goods for Chinese shoppers.",
+      "description_fr": "Un itinéraire fiable vers des produits étrangers soigneusement sélectionnés pour les acheteurs chinois.",
+      "category": "E-Commerce & Retail",
       "website": "https://marnook-yfb7hf.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-03T05:00:45.746705+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-03T09:39:20.188052+00:00"
     },
     {
       "name": "Voxcairn",
@@ -304947,6 +304959,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-09-03T05:00:59.537518+00:00"
+    },
+    {
+      "name": "Rillpost",
+      "slug": "polsia-rillpost-3",
+      "website": "https://rillpost-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-03T09:38:21.437319+00:00"
+    },
+    {
+      "name": "hof des saveur",
+      "slug": "polsia-hof-des-saveur",
+      "website": "https://hof-des-saveur.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-03T09:38:27.061474+00:00"
+    },
+    {
+      "name": "Odzivkres",
+      "slug": "polsia-odzivkres",
+      "website": "https://odzivkres.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-03T09:38:28.010638+00:00"
+    },
+    {
+      "name": "MorrowLatch",
+      "slug": "polsia-morrowlatch-1jkgcu",
+      "website": "https://morrowlatch-1jkgcu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-03T09:38:28.963346+00:00"
+    },
+    {
+      "name": "账穹隼",
+      "slug": "polsia-company-483044",
+      "website": "https://company-483044.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-03T09:38:34.679199+00:00"
+    },
+    {
+      "name": "Rawtide",
+      "slug": "polsia-rawtide",
+      "website": "https://rawtide.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-03T09:38:40.377540+00:00"
+    },
+    {
+      "name": "Rookspoke",
+      "slug": "polsia-rookspoke-2m5vd4",
+      "website": "https://rookspoke-2m5vd4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-03T09:38:45.945816+00:00"
+    },
+    {
+      "name": "DocketWisp",
+      "slug": "polsia-docketwisp-38hnru",
+      "website": "https://docketwisp-38hnru.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-03T09:38:51.664580+00:00"
+    },
+    {
+      "name": "Zigarrasto",
+      "slug": "polsia-zigarrasto",
+      "description": "Corridas curtas, escolhas rápidas, recordes difíceis de largar.",
+      "description_fr": "",
+      "category": "Sustainability & Green",
+      "website": "https://zigarrasto.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-09-03T09:40:10.663818+00:00"
+    },
+    {
+      "name": "Rastro Humano",
+      "slug": "polsia-rastro-humano",
+      "website": "https://rastro-humano.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-03T09:39:02.892092+00:00"
     }
   ]
 }
