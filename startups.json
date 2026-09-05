@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T20:01:35.789742+00:00",
+  "last_updated": "2026-09-05T20:21:21.892085+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -306909,50 +306909,68 @@
     {
       "name": "PactRook",
       "slug": "polsia-pactrook-rq3gg6",
+      "description": "The operating layer for always-on secured lending execution.",
+      "description_fr": "La couche opérationnelle pour une exécution permanente des prêts sécurisés.",
+      "category": "Other",
       "website": "https://pactrook-rq3gg6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-05T18:08:40.789920+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-05T20:20:22.740446+00:00"
     },
     {
       "name": "Riffmote",
       "slug": "polsia-riffmote-5",
+      "description": "Your always-on AI operations desk for creator growth.",
+      "description_fr": "Votre bureau d'opérations d'IA toujours actif pour la croissance des créateurs.",
+      "category": "AI & Machine Learning",
       "website": "https://riffmote-5.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-05T18:08:51.368345+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-05T20:20:25.251466+00:00"
     },
     {
       "name": "Kithbrick",
       "slug": "polsia-kithbrick",
+      "description": "Prefab homes built for lower-impact living.",
+      "description_fr": "Maisons préfabriquées construites pour une vie à moindre impact.",
+      "category": "Other",
       "website": "https://kithbrick.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-05T18:09:01.860757+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-05T20:20:26.513959+00:00"
     },
     {
       "name": "Yardkin",
       "slug": "polsia-yardkin-2",
+      "description": "One trusted place for every job your community needs done.",
+      "description_fr": "Un lieu de confiance pour chaque travail dont votre communauté a besoin.",
+      "category": "Social & Community",
       "website": "https://yardkin-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-05T18:09:07.351316+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-05T20:20:28.075712+00:00"
     },
     {
       "name": "Voxmender",
       "slug": "polsia-voxmender",
+      "description": "Turn every missed call into a booked opportunity.",
+      "description_fr": "Transformez chaque appel manqué en une opportunité réservée.",
+      "category": "Other",
       "website": "https://voxmender.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-05T18:09:12.635659+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-05T20:20:29.499319+00:00"
     },
     {
       "name": "Oruvi",
       "slug": "polsia-oruvi",
+      "description": "Fair mobile credit for the people traditional finance misses.",
+      "description_fr": "Un crédit mobile équitable pour les personnes qui manquent à la finance traditionnelle.",
+      "category": "Other",
       "website": "https://oruvi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-05T18:09:23.108884+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-05T20:20:31.018746+00:00"
     },
     {
       "name": "RafterRelay",
@@ -306986,6 +307004,92 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-09-05T18:11:02.360810+00:00"
+    },
+    {
+      "name": "Quillpact",
+      "slug": "polsia-quillpact-yh7xps",
+      "website": "https://quillpact-yh7xps.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-05T20:19:21.255681+00:00"
+    },
+    {
+      "name": "BrackenSignal",
+      "slug": "polsia-brackensignal-2",
+      "website": "https://brackensignal-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-05T20:19:21.879890+00:00"
+    },
+    {
+      "name": "Faldra",
+      "slug": "polsia-faldra-8",
+      "website": "https://faldra-8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-05T20:19:22.554745+00:00"
+    },
+    {
+      "name": "Yukéntra",
+      "slug": "polsia-yukntra",
+      "website": "https://yukntra.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-05T20:19:27.958519+00:00"
+    },
+    {
+      "name": "ForgeThread",
+      "slug": "polsia-forgethread-2",
+      "website": "https://forgethread-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-05T20:19:39.048520+00:00"
+    },
+    {
+      "name": "PactRook",
+      "slug": "polsia-pactrook-usxn64",
+      "website": "https://pactrook-usxn64.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-05T20:19:44.443391+00:00"
+    },
+    {
+      "name": "RoamLatch",
+      "slug": "polsia-roamlatch-2",
+      "description": "Safer towing, smoother camping, from hitch-up to homebound.",
+      "description_fr": "",
+      "category": "Other",
+      "website": "https://roamlatch-2.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-09-05T20:21:10.030945+00:00"
+    },
+    {
+      "name": "Rookmint",
+      "slug": "polsia-rookmint-pvm9p8",
+      "description": "Reliable digital support, amplified by AI and guided by people.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
+      "website": "https://rookmint-pvm9p8.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-09-05T20:21:10.577674+00:00"
+    },
+    {
+      "name": "Rufmosaik",
+      "slug": "polsia-rufmosaik-2",
+      "website": "https://rufmosaik-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-05T20:20:00.983062+00:00"
+    },
+    {
+      "name": "Migalume",
+      "slug": "polsia-migalume-mwt0sy",
+      "website": "https://migalume-mwt0sy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-05T20:20:06.371872+00:00"
     }
   ]
 }
