@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T15:04:03.168919+00:00",
+  "last_updated": "2026-09-06T17:17:49.245420+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -307656,10 +307656,13 @@
     {
       "name": "Pystypulssi",
       "slug": "polsia-pystypulssi",
+      "description": "Lyhytvideot, jotka tuovat paikallisyritykset näkyviksi.",
+      "description_fr": "",
+      "category": "Entertainment & Media",
       "website": "https://pystypulssi.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T14:24:59.258297+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T17:16:31.759009+00:00"
     },
     {
       "name": "Kithquarry",
@@ -307672,50 +307675,68 @@
     {
       "name": "Kansvonk",
       "slug": "polsia-kansvonk-10",
+      "description": "Van stille prospectlijst naar een gevulde zakelijke agenda.",
+      "description_fr": "",
+      "category": "Sales & CRM",
       "website": "https://kansvonk-10.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T14:25:14.843354+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T17:16:32.615496+00:00"
     },
     {
       "name": "TinkerQuill",
       "slug": "polsia-tinkerquill-2",
+      "description": "Story-led learning for curious children and confident grown-ups.",
+      "description_fr": "",
+      "category": "Education",
       "website": "https://tinkerquill-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T14:25:20.223097+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T17:16:33.098792+00:00"
     },
     {
       "name": "Orvaku",
       "slug": "polsia-orvaku",
+      "description": "Secure, practical IT service management for Africa’s institutions.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://orvaku.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T14:25:25.600042+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T17:16:33.585242+00:00"
     },
     {
       "name": "Ravelens",
       "slug": "polsia-ravelens",
+      "description": "The autonomous operations layer for modern photography businesses.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://ravelens.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T14:25:35.918814+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T17:16:34.002641+00:00"
     },
     {
       "name": "RivetRook",
       "slug": "polsia-rivetrook-n2j1wf",
+      "description": "Compliance records that keep small trade crews audit-ready.",
+      "description_fr": "",
+      "category": "Sustainability & Green",
       "website": "https://rivetrook-n2j1wf.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T14:25:41.304096+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T17:16:34.419714+00:00"
     },
     {
       "name": "Fernwurz",
       "slug": "polsia-fernwurz",
+      "description": "Österreichische und süddeutsche Familiengeschichten für die Welt von heute.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://fernwurz.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T14:25:46.683988+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T17:16:34.838900+00:00"
     },
     {
       "name": "Tu viaje El Tigre",
@@ -307738,6 +307759,89 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-09-06T14:27:12.180019+00:00"
+    },
+    {
+      "name": "Kiteweld",
+      "slug": "polsia-kiteweld-x3prfp",
+      "website": "https://kiteweld-x3prfp.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T17:15:09.782786+00:00"
+    },
+    {
+      "name": "Lidaro",
+      "slug": "polsia-lidaro",
+      "website": "https://lidaro.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T17:15:20.115546+00:00"
+    },
+    {
+      "name": "Morrow Cipher",
+      "slug": "polsia-morrow-cipher",
+      "website": "https://morrow-cipher.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T17:15:25.505482+00:00"
+    },
+    {
+      "name": "Scortèra",
+      "slug": "polsia-scortra-3",
+      "website": "https://scortra-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T17:15:35.731460+00:00"
+    },
+    {
+      "name": "Kvasotraga",
+      "slug": "polsia-kvasotraga",
+      "website": "https://kvasotraga.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T17:15:41.122644+00:00"
+    },
+    {
+      "name": "Bananuckle Bar",
+      "slug": "polsia-bananuckle-bar",
+      "website": "https://bananuckle-bar.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T17:15:51.599817+00:00"
+    },
+    {
+      "name": "Historiklang",
+      "slug": "polsia-historiklang",
+      "website": "https://historiklang.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T17:15:56.879661+00:00"
+    },
+    {
+      "name": "Marshall RE Inestments",
+      "slug": "polsia-marshall-re-inestments",
+      "website": "https://marshall-re-inestments.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T17:16:07.218906+00:00"
+    },
+    {
+      "name": "Bedbeam",
+      "slug": "polsia-bedbeam",
+      "website": "https://bedbeam.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T17:16:17.458256+00:00"
+    },
+    {
+      "name": "HarborLink",
+      "slug": "polsia-harborlink",
+      "description": "Private, trusted connections for meaningful professional opportunities.",
+      "description_fr": "",
+      "category": "Other",
+      "website": "https://harborlink.polsia.app",
+      "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-09-06T17:17:49.244575+00:00"
     }
   ]
 }
