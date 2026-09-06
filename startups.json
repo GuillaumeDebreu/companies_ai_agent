@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T17:17:49.245420+00:00",
+  "last_updated": "2026-09-06T19:18:47.085032+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -307648,10 +307648,13 @@
     {
       "name": "RivetCue",
       "slug": "polsia-rivetcue-s0n1k8",
+      "description": "The daily control layer for construction projects.",
+      "description_fr": "La couche de contrôle quotidienne pour les projets de construction.",
+      "category": "Other",
       "website": "https://rivetcue-s0n1k8.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T11:42:08.986450+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T19:17:42.071114+00:00"
     },
     {
       "name": "Pystypulssi",
@@ -307763,18 +307766,24 @@
     {
       "name": "Kiteweld",
       "slug": "polsia-kiteweld-x3prfp",
+      "description": "Make complex work run cleanly.",
+      "description_fr": "Faites en sorte que les travaux complexes se déroulent proprement.",
+      "category": "Other",
       "website": "https://kiteweld-x3prfp.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T17:15:09.782786+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T19:17:44.357456+00:00"
     },
     {
       "name": "Lidaro",
       "slug": "polsia-lidaro",
+      "description": "Agentes de IA que transformam conversas em vendas e eficiência",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://lidaro.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T17:15:20.115546+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T19:17:44.927717+00:00"
     },
     {
       "name": "Morrow Cipher",
@@ -307787,26 +307796,35 @@
     {
       "name": "Scortèra",
       "slug": "polsia-scortra-3",
+      "description": "L’agente operativo che tiene il negozio sempre pronto.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://scortra-3.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T17:15:35.731460+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T19:17:45.721300+00:00"
     },
     {
       "name": "Kvasotraga",
       "slug": "polsia-kvasotraga",
+      "description": "AI suputnik koji vodi pivovaru i otkriva sljedeću priliku.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://kvasotraga.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T17:15:41.122644+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T19:17:46.255973+00:00"
     },
     {
       "name": "Bananuckle Bar",
       "slug": "polsia-bananuckle-bar",
+      "description": "Chocolate-dipped banana, peanut butter, and walnut goodness for better-for-you cravings.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://bananuckle-bar.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T17:15:51.599817+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T19:17:46.767979+00:00"
     },
     {
       "name": "Historiklang",
@@ -307827,10 +307845,13 @@
     {
       "name": "Bedbeam",
       "slug": "polsia-bedbeam",
+      "description": "Smarter food-growing plans for small urban spaces.",
+      "description_fr": "",
+      "category": "Food & Beverage",
       "website": "https://bedbeam.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T17:16:17.458256+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T19:17:48.129338+00:00"
     },
     {
       "name": "HarborLink",
@@ -307842,6 +307863,86 @@
       "source": "polsia",
       "status": "live",
       "scraped_at": "2026-09-06T17:17:49.244575+00:00"
+    },
+    {
+      "name": "Curbwink",
+      "slug": "polsia-curbwink-4",
+      "website": "https://curbwink-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T19:16:42.418247+00:00"
+    },
+    {
+      "name": "Mappatch",
+      "slug": "polsia-mappatch",
+      "website": "https://mappatch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T19:16:47.952661+00:00"
+    },
+    {
+      "name": "Knotivane",
+      "slug": "polsia-knotivane",
+      "website": "https://knotivane.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T19:16:53.421858+00:00"
+    },
+    {
+      "name": "Brinweft",
+      "slug": "polsia-brinweft",
+      "website": "https://brinweft.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T19:17:03.809806+00:00"
+    },
+    {
+      "name": "RookDocket",
+      "slug": "polsia-rookdocket-3zo6qt",
+      "website": "https://rookdocket-3zo6qt.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T19:17:09.200232+00:00"
+    },
+    {
+      "name": "Ügynaptár",
+      "slug": "polsia-gynaptr",
+      "website": "https://gynaptr.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T19:17:14.671990+00:00"
+    },
+    {
+      "name": "Harborline Realty",
+      "slug": "polsia-harborline-realty",
+      "website": "https://harborline-realty.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T19:17:20.044345+00:00"
+    },
+    {
+      "name": "Ringwisp",
+      "slug": "polsia-ringwisp-6",
+      "website": "https://ringwisp-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T19:17:25.422003+00:00"
+    },
+    {
+      "name": "Maltmend",
+      "slug": "polsia-maltmend",
+      "website": "https://maltmend.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T19:17:30.798741+00:00"
+    },
+    {
+      "name": "Kasskadu",
+      "slug": "polsia-kasskadu",
+      "website": "https://kasskadu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T19:17:36.176513+00:00"
     }
   ]
 }
