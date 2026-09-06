@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T21:29:04.280232+00:00",
+  "last_updated": "2026-09-06T23:04:33.326323+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -307974,10 +307974,13 @@
     {
       "name": "KampusKite",
       "slug": "polsia-kampuskite",
+      "description": "The trusted starting point for student life in Nigeria.",
+      "description_fr": "Le point de départ fiable pour la vie étudiante au Nigeria.",
+      "category": "Education",
       "website": "https://kampuskite.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T21:27:06.082704+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T23:03:28.594301+00:00"
     },
     {
       "name": "Brighthatch",
@@ -307990,66 +307993,170 @@
     {
       "name": "ClaspRoot",
       "slug": "polsia-clasproot",
+      "description": "Supplement compliance, mapped from product to state.",
+      "description_fr": "Conformité des suppléments, cartographiée d'un produit à l'autre.",
+      "category": "Other",
       "website": "https://clasproot.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T21:27:16.827517+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T23:03:30.602912+00:00"
     },
     {
       "name": "Bondrook",
       "slug": "polsia-bondrook",
+      "description": "Book trusted local help, with accountability built in.",
+      "description_fr": "Réservez une aide locale fiable, avec responsabilité intégrée.",
+      "category": "Other",
       "website": "https://bondrook.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T21:27:22.132977+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T23:03:31.670694+00:00"
     },
     {
       "name": "Kneebrim",
       "slug": "polsia-kneebrim",
+      "description": "A cooler, cleaner rest for the knee beside your console.",
+      "description_fr": "Un repose-genoux plus frais et plus propre à côté de votre console.",
+      "category": "Other",
       "website": "https://kneebrim.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T21:27:27.508601+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T23:03:33.559581+00:00"
     },
     {
       "name": "Pingsprig",
       "slug": "polsia-pingsprig-6",
+      "description": "The overnight operations desk for local businesses.",
+      "description_fr": "Le bureau des opérations de nuit pour les entreprises locales.",
+      "category": "Other",
       "website": "https://pingsprig-6.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T21:27:32.889403+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T23:03:34.410957+00:00"
     },
     {
       "name": "Bellwren",
       "slug": "polsia-bellwren-3se2i7",
+      "description": "A managed AI front desk that turns every call into booked business.",
+      "description_fr": "Une réception gérée par l'IA qui transforme chaque appel en affaire réservée.",
+      "category": "AI & Machine Learning",
       "website": "https://bellwren-3se2i7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T21:27:38.260228+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T23:03:35.312390+00:00"
     },
     {
       "name": "Siftlark",
       "slug": "polsia-siftlark-7",
+      "description": "Autonomous QA from code change to release confidence.",
+      "description_fr": "Assurance qualité autonome depuis la modification du code jusqu'à la libération de la confiance.",
+      "category": "Other",
       "website": "https://siftlark-7.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T21:27:43.637145+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T23:03:36.653343+00:00"
     },
     {
       "name": "Veldnock",
       "slug": "polsia-veldnock",
+      "description": "Hunt smarter, shoot better, live the wild.",
+      "description_fr": "Chassez plus intelligemment, tirez mieux, vivez dans la nature.",
+      "category": "Other",
       "website": "https://veldnock.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-06T21:27:49.016365+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-06T23:03:38.354782+00:00"
     },
     {
       "name": "Nivvick",
       "slug": "polsia-nivvick-7",
+      "description": "Color the wild heart of the Alaska Arctic.",
+      "description_fr": "Colorez le cœur sauvage de l’Arctique de l’Alaska.",
+      "category": "Other",
       "website": "https://nivvick-7.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-09-06T23:03:39.634896+00:00"
+    },
+    {
+      "name": "Courtwisp",
+      "slug": "polsia-courtwisp",
+      "website": "https://courtwisp.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-09-06T21:27:54.136160+00:00"
+      "scraped_at": "2026-09-06T23:02:46.632932+00:00"
+    },
+    {
+      "name": "LessonCask",
+      "slug": "polsia-lessoncask",
+      "website": "https://lessoncask.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T23:02:47.247958+00:00"
+    },
+    {
+      "name": "BasinThread",
+      "slug": "polsia-basinthread-2",
+      "website": "https://basinthread-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T23:02:47.735260+00:00"
+    },
+    {
+      "name": "NoshHelm",
+      "slug": "polsia-noshhelm",
+      "website": "https://noshhelm.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T23:02:48.307817+00:00"
+    },
+    {
+      "name": "Morrowick Grooming",
+      "slug": "polsia-morrowick-grooming",
+      "website": "https://morrowick-grooming.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T23:02:53.819463+00:00"
+    },
+    {
+      "name": "LifeTwin",
+      "slug": "polsia-lifetwin-2",
+      "website": "https://lifetwin-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T23:02:59.379245+00:00"
+    },
+    {
+      "name": "Tramabita",
+      "slug": "polsia-tramabita-4",
+      "website": "https://tramabita-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T23:03:04.753111+00:00"
+    },
+    {
+      "name": "Afterbell",
+      "slug": "polsia-afterbell-b8s9jy",
+      "website": "https://afterbell-b8s9jy.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T23:03:10.126459+00:00"
+    },
+    {
+      "name": "Morrowpin",
+      "slug": "polsia-morrowpin-35r6q8",
+      "website": "https://morrowpin-35r6q8.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T23:03:15.668917+00:00"
+    },
+    {
+      "name": "Bidwisp",
+      "slug": "polsia-bidwisp-4",
+      "website": "https://bidwisp-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-06T23:03:21.135132+00:00"
     }
   ]
 }
