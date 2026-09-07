@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T21:12:50.044822+00:00",
+  "last_updated": "2026-09-07T22:49:20.313896+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -308607,42 +308607,57 @@
     {
       "name": "Plunge Care",
       "slug": "polsia-plunge-care",
+      "description": "Quick, non-emergency healthcare with licensed providers who review your request and help clarify the next step.",
+      "description_fr": "Des soins de santé rapides et non urgents avec des prestataires agréés qui examinent votre demande et vous aident à clarifier la prochaine étape.",
+      "category": "Health & Wellness",
       "website": "https://plunge-care.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-07T20:05:12.166483+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-07T22:48:20.158519+00:00"
     },
     {
-      "name": "Winkettle",
+      "name": "FlipCheck",
       "slug": "polsia-winkettle-mkb608",
+      "description": "A clearer way to decide what to buy, what to list, and when to walk away.",
+      "description_fr": "Une façon plus claire de décider quoi acheter, quoi mettre en vente et quand partir.",
+      "category": "Other",
       "website": "https://winkettle-mkb608.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-07T20:05:17.543887+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-07T22:48:21.343416+00:00"
     },
     {
       "name": "Mahlatse",
       "slug": "polsia-mahlatse",
+      "description": "AI-powered invoice follow-up and daily cash-flow clarity for small businesses.",
+      "description_fr": "Suivi des factures basé sur l'IA et clarté des flux de trésorerie quotidiens pour les petites entreprises.",
+      "category": "AI & Machine Learning",
       "website": "https://mahlatse.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-07T20:05:22.942871+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-07T22:48:22.366639+00:00"
     },
     {
       "name": "Email funnel Studio",
       "slug": "polsia-email-funnel-studio",
+      "description": "صفحات تشويق ذكية لبناء الاهتمام قبل إطلاق المنتجات الرقمية.",
+      "description_fr": "صفحات تشويق ذكية لبناء الاهتمام قبل إطلاق المنتجات الرقمية.",
+      "category": "Newsletter & Email",
       "website": "https://email-funnel-studio.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-07T20:05:28.294666+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-07T22:48:23.547320+00:00"
     },
     {
       "name": "LoadCairn",
       "slug": "polsia-loadcairn-2",
+      "description": "AI operations control for carriers from tender to paid.",
+      "description_fr": "Contrôle des opérations par l'IA pour les transporteurs, de l'appel d'offres au paiement.",
+      "category": "AI & Machine Learning",
       "website": "https://loadcairn-2.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-07T20:05:33.691354+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-07T22:48:25.096864+00:00"
     },
     {
       "name": "Pinquarry",
@@ -308655,10 +308670,13 @@
     {
       "name": "Rooktale",
       "slug": "polsia-rooktale",
+      "description": "Verified facts, told with a sharper hook.",
+      "description_fr": "Des faits vérifiés, racontés avec un crochet plus aiguisé.",
+      "category": "Other",
       "website": "https://rooktale.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-07T20:05:44.420020+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-07T22:48:26.201092+00:00"
     },
     {
       "name": "Meldmoss",
@@ -308674,18 +308692,104 @@
     {
       "name": "ThreadCairn",
       "slug": "polsia-threadcairn-g152mo",
+      "description": "A lean print-on-demand shop where systems handle the busywork.",
+      "description_fr": "Un atelier d'impression à la demande allégé où les systèmes gèrent le travail chargé.",
+      "category": "E-Commerce & Retail",
       "website": "https://threadcairn-g152mo.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-07T20:05:55.169183+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-07T22:48:26.818881+00:00"
     },
     {
       "name": "Quillrig",
       "slug": "polsia-quillrig-7",
+      "description": "Game animation production, orchestrated by AI and guided by artists.",
+      "description_fr": "Production d'animation de jeux, orchestrée par l'IA et guidée par des artistes.",
+      "category": "AI & Machine Learning",
       "website": "https://quillrig-7.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-09-07T22:48:27.783233+00:00"
+    },
+    {
+      "name": "Racimora",
+      "slug": "polsia-racimora",
+      "website": "https://racimora.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-09-07T20:06:00.550841+00:00"
+      "scraped_at": "2026-09-07T22:47:26.962140+00:00"
+    },
+    {
+      "name": "Mimolã",
+      "slug": "polsia-mimol",
+      "website": "https://mimol.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-07T22:47:27.397909+00:00"
+    },
+    {
+      "name": "Veylmark",
+      "slug": "polsia-veylmark-qqzuuu",
+      "website": "https://veylmark-qqzuuu.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-07T22:47:32.793091+00:00"
+    },
+    {
+      "name": "Kithsignal",
+      "slug": "polsia-kithsignal-ki4rae",
+      "website": "https://kithsignal-ki4rae.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-07T22:47:38.056542+00:00"
+    },
+    {
+      "name": "Brivlet",
+      "slug": "polsia-brivlet-1uw7di",
+      "website": "https://brivlet-1uw7di.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-07T22:47:43.473900+00:00"
+    },
+    {
+      "name": "Cobranta",
+      "slug": "polsia-cobranta-7",
+      "website": "https://cobranta-7.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-07T22:47:48.808529+00:00"
+    },
+    {
+      "name": "Wickbranch",
+      "slug": "polsia-wickbranch",
+      "website": "https://wickbranch.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-07T22:47:54.183941+00:00"
+    },
+    {
+      "name": "Vellumwild",
+      "slug": "polsia-vellumwild-3",
+      "website": "https://vellumwild-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-07T22:47:59.346507+00:00"
+    },
+    {
+      "name": "Rillcart",
+      "slug": "polsia-rillcart-4",
+      "website": "https://rillcart-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-07T22:48:04.720747+00:00"
+    },
+    {
+      "name": "Cestoscopio",
+      "slug": "polsia-cestoscopio",
+      "website": "https://cestoscopio.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-07T22:48:09.913951+00:00"
     }
   ]
 }
