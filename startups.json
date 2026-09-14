@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T03:48:29.868809+00:00",
+  "last_updated": "2026-09-14T07:08:28.994365+00:00",
   "startups": [
     {
       "name": "Obscuroast",
@@ -313422,18 +313422,24 @@
     {
       "name": "Bellmason",
       "slug": "polsia-bellmason",
+      "description": "Turn every after-hours call into a booked customer.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://bellmason.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-14T01:40:58.676842+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-14T07:08:16.577650+00:00"
     },
     {
       "name": "Nulven",
       "slug": "polsia-nulven",
+      "description": "The grounded AI employee for service businesses, day and night.",
+      "description_fr": "",
+      "category": "AI & Machine Learning",
       "website": "https://nulven.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-14T01:41:04.255756+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-14T07:08:17.371585+00:00"
     },
     {
       "name": "Rafterkin",
@@ -313446,10 +313452,13 @@
     {
       "name": "Pantrivox",
       "slug": "polsia-pantrivox",
+      "description": "The always-on sales desk for packaged-food exports.",
+      "description_fr": "",
+      "category": "Sales & CRM",
       "website": "https://pantrivox.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-14T01:41:15.270507+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-14T07:08:18.357852+00:00"
     },
     {
       "name": "MorrowPin",
@@ -313470,10 +313479,13 @@
     {
       "name": "Tallywren",
       "slug": "polsia-tallywren-tsx6fb",
+      "description": "The always-on operations desk for growing online sellers.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://tallywren-tsx6fb.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-14T01:41:31.652151+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-14T07:08:19.622568+00:00"
     },
     {
       "name": "Clearframe",
@@ -313486,18 +313498,104 @@
     {
       "name": "Runnelook",
       "slug": "polsia-runnelook",
+      "description": "Find the leaks between enquiry and loyal customer.",
+      "description_fr": "",
+      "category": "Other",
       "website": "https://runnelook.polsia.app",
       "source": "polsia",
-      "status": "pending",
-      "scraped_at": "2026-09-14T01:41:42.654526+00:00"
+      "status": "live",
+      "scraped_at": "2026-09-14T07:08:25.614339+00:00"
     },
     {
       "name": "Axlewarden",
       "slug": "polsia-axlewarden-2",
+      "description": "The outsourced fleet department for growing field-service businesses.",
+      "description_fr": "",
+      "category": "Logistics & Supply Chain",
       "website": "https://axlewarden-2.polsia.app",
       "source": "polsia",
+      "status": "live",
+      "scraped_at": "2026-09-14T07:08:26.505009+00:00"
+    },
+    {
+      "name": "Sillwitness",
+      "slug": "polsia-sillwitness",
+      "website": "https://sillwitness.polsia.app",
+      "source": "polsia",
       "status": "pending",
-      "scraped_at": "2026-09-14T01:41:48.039132+00:00"
+      "scraped_at": "2026-09-14T07:08:08.424179+00:00"
+    },
+    {
+      "name": "KiteMorrow",
+      "slug": "polsia-kitemorrow-2",
+      "website": "https://kitemorrow-2.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-14T07:08:08.761359+00:00"
+    },
+    {
+      "name": "Owlspoke",
+      "slug": "polsia-owlspoke-6",
+      "website": "https://owlspoke-6.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-14T07:08:09.136836+00:00"
+    },
+    {
+      "name": "Proofsprig",
+      "slug": "polsia-proofsprig-vb84jk",
+      "website": "https://proofsprig-vb84jk.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-14T07:08:09.498159+00:00"
+    },
+    {
+      "name": "Ραφοφύλαξ",
+      "slug": "polsia-company-553799",
+      "website": "https://company-553799.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-14T07:08:09.989645+00:00"
+    },
+    {
+      "name": "Pactwisp",
+      "slug": "polsia-pactwisp-6lv9sw",
+      "website": "https://pactwisp-6lv9sw.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-14T07:08:10.281748+00:00"
+    },
+    {
+      "name": "Clearfield",
+      "slug": "polsia-clearfield",
+      "website": "https://clearfield.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-14T07:08:10.604462+00:00"
+    },
+    {
+      "name": "Brackenwire",
+      "slug": "polsia-brackenwire-4",
+      "website": "https://brackenwire-4.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-14T07:08:10.960761+00:00"
+    },
+    {
+      "name": "Queuebird",
+      "slug": "polsia-queuebird-3",
+      "website": "https://queuebird-3.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-14T07:08:11.333863+00:00"
+    },
+    {
+      "name": "Kipnook",
+      "slug": "polsia-kipnook-g2mfec",
+      "website": "https://kipnook-g2mfec.polsia.app",
+      "source": "polsia",
+      "status": "pending",
+      "scraped_at": "2026-09-14T07:08:11.656002+00:00"
     }
   ]
 }
